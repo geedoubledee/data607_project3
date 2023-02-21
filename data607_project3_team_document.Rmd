@@ -1,0 +1,35 @@
+---
+title: "Data 607 - Project 3 - Team Document"
+author: "Glen Dale Davis, Coco Donovan, Alex Khaykin, Mohamed Hassan-El Serafi, Eddie Xu"
+date: "2023-02-21"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Team Document
+
+* Group Members:
+    + Glen Dale Davis
+    + Coco Donovan
+    + Alex Khaykin
+    + Mohamed Hassan-El Serafi
+    + Eddie Xu
+
+* Collaboration Tools:
+    + Communication:
+        + Slack
+    + Code Sharing:
+        + Github: https://github.com/geedoubledee/data607_project3
+    + Project Documentation:
+
+* Data:
+    + Source:
+        + Location:
+        + How to Load:
+
+* Normalized Database:
+    + Logical Model:
+    + Entity-Relationship (ER) Diagram:

@@ -1,0 +1,23 @@
+---
+title: "Data 607 - Project 3 - Research"
+author: "Glen Dale Davis, Coco Donovan, Alex Khaykin, Mohamed Hassan-El Serafi, Eddie Xu"
+date: "2023-02-21"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Load the Required Packages:
+
+Below, the packages required for data analysis and visualization are loaded.
+
+```{r packages, warning = FALSE, message = FALSE}
+library(tidyverse)
+```
+
+## State the Research Question: 
+
+W. Edwards Deming said, “In God we trust, all others must bring data.” Below, we will use data to explore the question, **“Which are the most valued data science skills?”** 
+

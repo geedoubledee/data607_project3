@@ -1,0 +1,70 @@
+---
+title: "Data 607 - Project 3 - Deliverables Timeline"
+author: "Glen Dale Davis, Coco Donovan, Alex Khaykin, Mohamed Hassan-El Serafi, Eddie Xu"
+date: "2023-02-21"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Load the Required Packages
+
+Below, the packages required for creating the deliverables timeline are loaded.
+
+```{r packages, warning = FALSE, message = FALSE}
+library(timelineS)
+```
+
+## Deliverables Timeline
+
+```{r deliverables_timeline}
+
+deliverables <- c("Finalize Sources",
+                  "Rough DB Design",
+                  "Start Gathering",
+                  "Refine DB Design",
+                  "Finish Gathering",
+                  "Load/Tidy/Transform",
+                  "Exploratory Analysis",
+                  "Visual Analysis",
+                  "Statistical Analysis",
+                  "Team Document",
+                  "Conclusions",
+                  "Practice Presentation",
+                  "Hand in Code/Etc",
+                  "Group Presentation")
+                  
+due_dates <- as.Date(c("2023-02-23",
+                       "2023-02-24",
+                       "2023-02-25",
+                       "2023-02-26",
+                       "2023-03-04",
+                       "2023-03-05",
+                       "2023-03-07",
+                       "2023-03-09",
+                       "2023-03-11",
+                       "2023-03-12",
+                       "2023-03-13",
+                       "2023-03-15",
+                       "2023-03-19",
+                       "2023-03-22"))
+
+project <- data.frame(Deliverables = deliverables,
+                      Deliverables_Dates = due_dates)
+
+# Build project deliverables timeline
+timelineS(project,
+          main = "Data 607 - Project 3 - Deliverables Timeline",
+          buffer.days = 1,
+          scale = "week",
+          scale.format = "%Y-%m-%d",
+          scale.orient = 2,
+          label.direction = "up",
+          label.length = 0.1,
+          label.position = 4,
+          label.angle = 90)
+
+```
+

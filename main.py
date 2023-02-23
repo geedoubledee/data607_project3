@@ -38,7 +38,7 @@ feeds = ["2593879",
 
 responses = []
 
-#Feedbin
+#Feedbin API Call
 def call_feedbin_api():
     start = "https://api.feedbin.com/v2/feeds/"
     end = "/entries.json"

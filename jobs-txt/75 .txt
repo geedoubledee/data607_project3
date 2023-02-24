@@ -1,0 +1,91 @@
+
+Overview:
+We are looking for a Staff Machine Learning Engineer (MLE) that knows how to lead engineering initiatives and drive results - not mere activity. We operate in a highly collaborative environment with Product and Design to build high-quality, personalized learning experiences. At Varsity Tutors, engineers do not just write code, they actively participate in the conversation on what and how to build the systems and solutions that matter to our customers. If you love having a positive, material impact on customers’ lives as much as we do, we want to hear from you.
+This position is a full-time remote opportunity.
+About Nerdy:
+Nerdy (NYSE: NRDY), the parent company of Varsity Tutors, is a leading platform for live online learning, with a mission to transform the way people learn through technology. The Company’s purpose-built proprietary platform leverages technology, including AI (Nerdy AI Learning Products - Press Release), to connect learners of all ages to experts, delivering superior value on both sides of the network. Nerdy’s comprehensive learning destination provides learning experiences across 3,000+ subjects and multiple formats—including one-on-one instruction, small group classes, large format group classes, on-demand study support, and adaptive self-study. Nerdy’s flagship business, Varsity Tutors, is one of the nation’s largest platforms for live online tutoring and classes. Its solutions are available directly to students and consumers, as well as through schools and other institutions. Learn more about Nerdy at https://www.nerdy.com/. 
+AI at Nerdy:
+AI has been central to Nerdy’s ability to improve its product quality and enhance the personalization of learning. Today, AI powers the company’s ability to identify the highest quality Experts, assess Learners' foundational knowledge, and helps ensure the right Expert-Learner match, among many other use cases. The latest AI advancements have created new opportunities to rapidly develop transformative experiences involving the real-time generation, and the ability to deliver live human interaction and personalized learning at scale - and we’re building a team to make this happen.
+Responsibilities:
+
+Design and develop ML solutions that involve the processing of large-scale data sets.
+
+
+Help define requirements, create software designs, implement code to these specifications, and support products while deployed and used by our customers.
+
+
+Work with Product Managers, Software Engineers, and Data Scientists to invent, design and deliver Machine Learning solutions in production; both customer and internal facing.
+
+
+Develop ML workflows and end-to-end pipelines for data preparation, training, deployment, monitoring, etc., and ensure the quality of architecture and design of our ML systems and data infrastructure.
+
+
+Develop data-driven feedback loops and real-time decision-making frameworks to provide the best experience for our customers.
+
+
+Prior domain knowledge in NLU is a plus, though not required. However, strong motivation to learn ML, AI, and NLU is critical for a candidate to be successful in the role.
+
+Qualifications: 
+
+5+ years of full software development life cycle, including coding standards, code reviews, source control management, build processes, testing, and operations experience
+
+
+Experience with Apache Spark and Amazon AWS platform (SageMaker, Redshift, EMR, Glue, Step Functions, Lambda, Batch, etc.).
+
+
+5+ years of leading design or architecture (design patterns, reliability, and scaling) of new and existing systems experience
+
+
+Experience as a mentor, tech lead, or leading an engineering team
+
+
+Effective communicator (written and verbal)
+
+
+Experience in deep learning libraries/techniques in the area of NLU and reinforcement learning strongly preferred
+
+
+Understanding of OO design, algorithms, and data structures
+
+
+Aptitude to quickly learn new languages and technologies as necessary
+
+
+Computer Science or a related degree preferred
+
+Varsity Tutors Leadership Principles:
+Relentless Focus on Customers * Comfort with Ambiguity * Ownership * Simplify * Intellectual Curiosity * Build Teams * Think Big * Insist on High Standards * Bias for Action * Build Trust * Go Deep * Have Conviction * Deliver Results * Are Right, a Lot
+Benefits:
+
+Competitive Salary plus Equity in the company
+
+
+Healthcare Plans (Medical, Dental, Vision, Life, Pet)
+
+
+401k Company Matching Plan
+
+
+Maternity, Paternal, and Adoption Leave
+
+
+Remote Position
+
+
+Flexible PTO
+
+
+Hackfest! (Multiple times per year)
+
+
+Free Learning Membership for you and your household (1-1 tutoring hours, unlimited use of on-demand services, and access to our online classes)
+
+
+A once-in-a-lifetime opportunity to help transform how the world learns!
+
+
+A fun, collaborative, and team-oriented work environment with plenty of training and a feedback-rich culture
+
+Note: Please feel comfortable applying, even if you don’t meet all the requirements for the position. We’ll let you in on a secret: there’s no such thing as a “perfect” candidate. Everyone can grow at Varsity Tutors.  We strongly encourage members of underrepresented groups and people of diverse backgrounds to apply. Apply now if this is a role that would make you excited to come to work every day! 
+Varsity Tutors is committed to creating a diverse environment and is proud to be an equal-opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, disability, age, or veteran status.
+

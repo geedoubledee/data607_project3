@@ -1,0 +1,33 @@
+
+What you will do:
+Design & develop content such as parsers, Dashboards, and searches for the Sumo Logic platform to provide security detection, monitoring, and analytics capabilities for our customers.
+Create the next-generation suite of security monitoring and analytics log & metric applications.
+Work with several groups within the company (product management, product engineering, customer service, sales engineering) as well as customers and technical partners.
+Package and build content into applications, create automation scripts for these applications via Terraform or CloudFormation based on Sumo Logic’s API.
+Manage the application development lifecycle from requirements through development, to QA and public release.
+Work closely with product management and engineering teams to improve overall customer experience and product quality.
+Required Qualifications, Skills, and Experience:
+Fluent written and oral communication in English.
+Ability to write regular expressions and SQL queries.
+Experience with some of the following: major cloud platforms (AWS, Azure, GCP), automation frameworks (Puppet/Chef), Hadoop, Docker, NoSQL databases, server virtualization.
+Willingness to lead junior members and provide mentorship for complex projects.  
+Knowledge of Git, Jenkins, and software engineering processes is a plus.
+Experience writing scripts in at least one of the following languages: Python, Ruby, Unix shells.
+Experience inspecting and interpreting log messages.
+Nice To Have:
+Hands-on experience working with Enterprise security threat detection products (SIEM/SOAR/SOC/XDR) is a plus. 
+Experience generating security-related reports or dashboards.
+Experience developing content with an enterprise security product.
+About Us:
+What we do: We are a cloud-native SaaS machine data analytics platform - logs, time series metrics, and security analytics. We were founded in 2010 by experts in log management, big data, security systems, and enterprise-scale applications. Customers love our product because it allows them to easily monitor and optimize their mission-critical, large scale applications.
+Our Customers: We serve DevOps, SecOps and ITOps teams. Customers love our product because it allows them to easily monitor and optimize their mission-critical, large scale applications.
+Mission: Democratize machine data analytics through our platform, bringing real-time data insights securely through the cloud.
+Massive Scale: Our microservices architecture in AWS ingests hundreds of terabytes daily across many geographic regions. Millions of queries a day analyze hundreds of petabytes of data.
+What you can expect:
+Competitive compensation + bonus
+Stock (RSUs) + ESPP 
+New MacBook Pro 
+Meal vouchers
+Working in an experienced, international team
+Working on an exciting SaaS product
+

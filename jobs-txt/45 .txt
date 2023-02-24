@@ -1,0 +1,27 @@
+
+The AdTech & Data Operations Lead reports to the Head of AdTech & Solutions and is responsible for owning, managing, and maintaining data operations and adtech partner relations for Insider’s Advertising business while partnering with Revenue Operations’ Department Heads, Solutions Engineering, Product & Tech, & Editorial in a multi-faceted capacity.
+Responsibilities:
+Plan, design, and build audience segments in line with IAB standards, 1st Party Readership consumption & behaviors, engagement, intent, contextual, psychographics, demographics, Google’s Topics, FLEDGE, and other future solutions via Insider’s DMP and supplemental tools
+Investigate, test, and prove the success or failures of alternative identifiers and solutions in the adtech ecosystem with our SSP partners to help address anonymous users
+Own all ad tech and data provider relationships in conjunction with the Head of AdTech & Solutions
+Vetting of net new data providers for data enrichment opportunities, audience profiling, and additional opportunities and solutions
+Build relationships with key stakeholders across Revenue, Product, Technology, & Editorial teams to improve and automate workflows and processes, including but not limited to: content tagging,
+Partner with Data Products, Data Engineering, Solutions Engineering, & Tech teams on data centralization, data visualization,  data modeling, data manipulation, data visualization, platform integrations, and overall data-based innovation and data innovation projects leveraging cloud provider services (Snowflake, AWS, GCP)
+Qualifications:
+Understanding how ad operations, programmatic buying, and audience segmentation works in the Buying (Brand/Advertisers & Agencies) and Selling (Publishers) sectors
+Knowledge of relational databases, data schemas, data joins, data modeling, data science, and data manipulation
+Proficient experience working with SQL for data querying, and more
+Experience working with Snowflake, Google Cloud Platform, AWS, or similar data warehouse technologies
+Building relationships with internal and external stakeholders, clients, and team members
+Always curious and willing to learn, try new things, and not be afraid to fail
+Personable with everybody, even-keeled, and analytical thinker
+Salary & Benefits:
+Salary: $95,000. - $115,000. (dependent on skills, experience, and competencies)
+Medical, health, and vision
+Unlimited PTO, paid holidays, and parental leave
+Matched 401k plan
+Additional benefits include commuter benefits, phone reimbursement, gym membership discounts, etc.
+ Are you passionate about this opportunity, but worried that you don’t have 100% of the experience we’re looking for? We still want to hear from you! Apply online and let us know why you would make a great addition to the Insider community.
+About Us: Insider Inc. is the global media company behind Insider and an ever-growing family of brands. Our mission is to inform and inspire the digital generation and become the most influential journalism brand in the world. We reach an audience of more than 375 million users with our stories, which command attention and inspire action.Our core value is effectiveness. We make things happen. We listen to each other, learn from each other, and take risks together. We understand that a diverse set of perspectives and an inclusive environment are critical to our success. All of this helps us get better every day. Check out our mission, values, and culture page to learn more.
+Insider Inc supports a distributed workforce that allows for varied work locations. Many roles are eligible for 100% remote or hybrid remote/office work unless otherwise noted.
+

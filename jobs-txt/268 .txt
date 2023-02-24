@@ -1,0 +1,53 @@
+
+
+        Job Title 
+
+        Backend Engineer (Python Django)
+
+        Job Description
+
+        We're looking for a Backend Engineer to join one of our cross-functional squads. We currently have 3 squads which have their own goals relating to different areas of the product and are empowered to deliver on these goals from idea through to production release. Each squad contains a product manager, product designer, QA, data analyst and frontend/app/backend developers.
+You will contribute to ideation and product discovery sessions, providing technical input on the MVP design and implementation of features. You will also work with the Backend Guild and Guild Lead to deliver the backend roadmap.
+We have engineers working across a range of technologies: Python (Django/Django Rest Framework), Elasticsearch, MySQL, Docker, AWS (Fargate), React, React Native, Redux, Redux Sagas, styled-components, webpack, and more!
+
+
+        Restrictions
+        Telecommuting is OK
+            
+
+            
+            Agencies are OK
+            
+        Requirements
+        Requirements
+Strong knowledge of Python. At this time we're considering a range of experiences typically around 4+ years.
+Experience working with Django and Django Rest Framework
+Sound knowledge of API design
+You must have the right to work in the UK.
+What we'd also like our ideal candidate to have
+Experience working on platforms at scale
+DevOps experience in an AWS environment
+Experience with ElasticSearch
+Experience of working with Docker
+Experience in configuring and managing system / infrastructure monitoring tools
+About the Company
+        About TrustedHousesitters
+TrustedHousesitters is a global marketplace that is disrupting the pet care and travel industries. We connect a community of home and pet owners with sitters to solve a common two-sided problem - pet care and cost-effective travel. Customers join for one annual fee. After that, sits take place as a trust-based, money-free exchange that sees owners enjoy worry-free travel while our sitters enjoy the company of pets and unlock a world of unique accommodation.
+We enjoy exceptional customer retention rates driven by the fact that our owners and sitters realise the amazing value and incredible experiences we can facilitate.
+.
+We're fully in scale-up mode and have grown to be the only global platform of its kind. In the last few years, we’ve consistently achieved high year-on-year growth, and have remained resilient throughout the COVID-19 crisis. The USA has become our biggest market, followed by the UK and Australia.
+We made the transition to a remote-first business in March 2020 and haven’t looked back. We now have a distributed team across the UK and Brazil. We host quarterly, all expenses paid, company events in Brighton.
+We are transforming the pet care and travel landscape. We believe we offer the best solution and our team is united by our commitment to delivering an enriching experience for our customers and having a positive impact on the lives of their pets.
+
+        
+
+        Contact Info
+        Contact: Beth Lewis
+            
+
+            E-mail contact: beth@trustedhousesitters.com
+
+            
+            Web: https://apply.workable.com/trustedhousesitters/j/68EE1C7D2F/
+            
+        

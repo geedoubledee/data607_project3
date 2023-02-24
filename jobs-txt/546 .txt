@@ -1,0 +1,44 @@
+
+
+        Job Title 
+
+        Analytical Engineer (f/m/d) - Marketing
+
+        Job Description
+
+        IONOS is a fast-growing, customer-centric provider of domain, hosting, web, e-commerce, server and cloud solutions. We operate worldwide. We are a young company with high tech competence that offers its employees a future-proof workplace with exciting projects, a steep learning curve, individual training opportunities and good career prospects. To strengthen our Marketing Analytics team, we are looking for a Data Engineer (f/m/d) - Marketing with the following tasks:
+You will develop concepts for storing and processing our new customer, online marketing and onsite data in the Snowflake data warehouse.
+You will ensure the data transfer from the online and web analytics platforms (Google, Facebook, Adobe and co.) into our data warehouse.
+You will be responsible for data validation and implementation of calculation logics as well as linking data based on keys.
+You will implement & operate ETL routes and processes around the collection, storage, maintenance, preparation, enrichment and sharing of data.
+You will maintain components of our data infrastructure from data source to visualization.
+Restrictions
+        No telecommuting
+            
+
+            
+            No Agencies Please
+            
+        Requirements
+        You bring hands-on experience in the hosting segment or another subspriction business and want to contribute to the implementation of innovative Data Analytics infrastructures. You also need the following requirements:
+You quickly orient yourself in new complex situations and never lose sight of the goals. Ideally, you have also led complex IT projects to success in recent years.
+You have extensive knowledge in the development languages SQL and Python. Optionally, you also bring experience in Java.
+You have practical knowledge in data visualization with PowerBi or Looker.
+You have experience in working with data warehousing technologies such as Snowflake and online marketing or analytics platforms such as Google BigQuery, Adobe Analytics, Facebook, etc.
+You communicate proactively and confidently in English as require.
+You have a high level of initiative and the ability to learn new things independently.
+About the Company
+        With its business applications, IONOS is one of the leading hosting and cloud applications providers in Europe. With our state-of-the-art technologies, we convince more than 8 million customers in many different countries every day.
+
+        
+
+        Contact Info
+        Contact: Pawel Kuzak
+            
+
+            E-mail contact: pawel.kuzak@1und1.de
+
+            
+            Web: https://united-internet.talentry.com/share/job/220978/620141/1672824118/3
+            
+        

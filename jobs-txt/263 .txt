@@ -1,0 +1,79 @@
+
+
+        Job Title 
+
+        Back-End Engineer
+
+        Job Description
+
+        Publisher Discovery is hiring a remote back-end engineer to help build, run and evolve the back-end, pipelines and platform that underpin our business insights technology.
+We make it easier for online advertisers to identify where best to associate ads across affiliate networks. We collate 'big data' from a wide variety of resources and APIs. We then process and transform this data to power ML models and present it to our customers, either through our UI or directly transferred to them. This cost-saving and advertising effectiveness solution is especially relevant during a toughening economic climate.
+We offer a role that's diverse in the nature and scope of challenge, and we can find initiatives that suit your current skills and ambitions, and help you grow.
+You'll work closely with our CTO and engineers, getting involved with everything from our product, APIs, automation, methods and tooling, and the production environment. The role will be approximately equal parts green field development and enhancing our existing codebase and infrastructure - working mainly with Python and Node.js. We have a compact dev team and run a lightweight Kanban process, we release early and often.
+We offer a collaborative and friendly culture, with a flat structure. We can offer technical mentoring, pairing and guidance while you progress into delivering on more challenging objectives. You'll also have lots of autonomy, with plenty of time for research, to try things out and to complete projects. You'll find us open minded and supportive of your development and ideas.
+What we're working on:
+Migrating manual data pipelines to become fully automated, towards CI/CD
+Updating the data scraping methods that collect data - it's an arms race!
+Configuring and adding new affiliate networks to our system, with Python
+Modernising deployment infrastructure, e.g. with Airflow/Kubeflow
+Evolving pipeline orchestration methods
+Maintaining the pipelines that manifest ML
+Modifying and extending APIs and creating new product back-end capabilities with Python
+Supporting medium term project to adopt and build out MLOps
+Production ops - observability, security, maintenance etc.
+Current ecosystem - we'll help you get up to speed:
+Microservices | Python, asyncio | Kubernetes | Google ML tools, Tensorflow | big data | Elasticsearch, moving to Google Cloud SQL (Postgres), Google BigQuery | Linux | Node.js | Apache Arrow | batch and stream processing | and more!
+
+
+        Restrictions
+        Telecommuting is OK
+            
+
+            
+            No Agencies Please
+            
+        Requirements
+        Someone at the mid level, now ready to grow into a senior role
+Experience of a data-intensive environment, such as; large databases, data pipelines, integration with data science/ML methods, big data - or similar
+Proficient with Python and familiarity with asynchronous programming (e.g. Node.js/Twisted/async-await, which you may learn within this role)
+Familiarity with principles of CI/CD
+Competency operating any modern SQL-based database
+Comfortable administering services on GCP or other cloud platform
+Comfortable with deploying pipelines to Kubernetes
+Linux basics - building containers
+Readiness to join a progressive team, to apply a structured approach, to take initiative with sometimes incomplete information, and keen to seek help when needed
+
+        
+
+        
+        About the Company
+        Salary and benefits:
+£60,000 - £70,000 - reviewed at six months - we're keeping an open mind
+25 days holiday, plus public holidays
+Share options scheme
+Fully remote | flexible hours | work from home or shared office
+Choice of laptop platform and support on your home office equipment
+About us:
+Publisher Discovery's current service uses AI and a global database to match together the best affiliate marketing publishers with the best advertisers - independently of networks - to help maximise value from affiliate programmes. The application has been live since 2019 and currently has 600 live customers, 400 new customers starting in January and 11 major partnerships. The business has seen a 100% YoY growth rate for the last two years.
+We're a late-stage BI SaaS start-up, financially stable, and have excellent support from our investors. We're a small lean company, and we'll be modestly growing the technical team further in 2023.
+We're an equal opportunity employer. We'll do our best to make you feel listened to, valued and understood within our hiring process and organisation. https://www.publisherdiscovery.com/
+Location: you choose - fully remote, or from a shared office space near you.
+Remote working has long been part of our culture. We get together quarterly, usually in Bristol, and we'll need you to attend in person, fully expensed, with reasonable notice.
+Hiring process - all remote: informal chat with CTO, technical interview, final interview and meet founders
+Even if your CV isn't ready, please talk with Andrew at techfolk to find out more:
+0117 318 2447 | publisherdiscovery [at] techfolk.co.uk
+Please note: we can only consider applicants that have an established right to work in the UK
+RECRUITERS: Publisher Discovery has selected techfolk as its exclusive recruitment partner for this position and cold calling or speculative applications are not welcomed.
+
+        
+
+        Contact Info
+        Contact: Andrew Gifford
+            
+
+            E-mail contact: publisherdiscovery@techfolk.co.uk
+
+            
+            Web: https://www.techfolk.co.uk/job/backend-engineer-135.aspx
+            
+        

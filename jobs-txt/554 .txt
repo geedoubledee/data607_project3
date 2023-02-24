@@ -1,0 +1,68 @@
+
+
+        Job Title 
+
+        Research Software Engineer
+
+        Job Description
+
+        About the job
+Will work on the intersection of development, research, and operations, discovering new requirements through working with scientific users, designing and building solutions that change the way science is done, deploying and operating them, and then supporting and interacting with their users to build communities around them.
+Resonsibilities
+Helps build and operate the Chameleon experimental platform (​www.chameleoncloud.org​): specific tasks may range from integrating state-of-the-art technologies such as disaggregated hardware or IoT devices, evaluating and extending open source systems and tools such as OpenStack, and new feature development -- to system upgrades and maintenance, or implementing security controls.
+Works directly with users as a technical consultant to answer their questions, troubleshoot issues, and see how the work is impacting their science daily.
+Collaborates with scientific application groups nationwide, work as part of a large supercomputing center and an outstanding academic institution.
+Shares experiences with wider community by contributing to papers as part of a research team that regularly publishes in various academic venues.
+Works with stakeholders to gather and analyze requirements for developmental programs. Receives a moderate level of guidance to design applications to meet University and business requirements.
+Supports and maintains existing applications. Works with web developers and responds to requests from users.
+Perform other related work as needed.
+Working Conditions:
+Ability to work in a collaborative (potentially remote) team environment.
+Ability to work on a flexible schedule which will include occasional late night and/or weekend hours.
+Sense of humor appreciated.
+Restrictions
+        No telecommuting
+            
+
+            
+            No Agencies Please
+            
+        Requirements
+        Minimum Qualifications
+Education:
+Minimum requirements include a college or university degree in related field.
+Work Experience:
+Minimum requirements include knowledge and skills developed through 2-5 years of work experience in a related job discipline.
+Preferred Qualifications
+Education:
+Bachelor's degree in computer science or another relevant computer-related field.
+Experience:
+Demonstrated programming experience (development, debugging, and maintenance).
+Experience with IaaS cloud systems, such as OpenStack or Amazon Web Services, and relevant technologies.
+Experience with system administration.
+Interest and experience in systems research and working on challenges that don’t have obvious solutions.
+Demonstrated contributions to open source software.
+Experience with distributed systems, performance analysis, and resource and/or data management systems.
+Technical Skills or Knowledge:
+Knowledge of Unix/Linux.
+Python programming skills.
+Familiarity with system administration tools (e.g., Ceph, MariaDB) and DevOps tools (e.g., Jenkins, Ansible) and virtualization or containerization technologies (e.g., KVM, Docker).
+Familiarity with front-end technologies, portal development, and Jupyter.
+Preferred Competencies:
+Excellent verbal and written communication skills.
+Analytical and problem-solving skills.
+Ability to think and work independently to develop exceptional technical solutions.
+Ability to identify similar or complementary commercial or academic solutions and read scientific literature to fill in knowledge gaps as needed.
+Ability to prioritize and manage workload to meet critical project milestones and deadlines.
+About the Company
+        The Nimbus team is an academic leader in research, development, and operations. We work closely with scientific communities to provide innovative solutions adapting cloud and edge computing to the needs of science. Among others, we operate Chameleon (​chameleoncloud.org), an experimental platform for Computer Science research where new solutions in cloud computing, machine learning, software defined networking (SDN), and Internet of Things (IoT) are proposed every day by an international research community. The Nimbus team provides a friendly, challenge-oriented environment.
+
+        
+
+        Contact Info
+        E-mail contact: markpowers@uchicago.edu
+
+            
+            Web: https://www.nimbusproject.org/jobs/#research-engineer
+            
+        

@@ -1,0 +1,56 @@
+
+
+        Job Title 
+
+        Senior Backend Engineer (Python, SQLAlchemy, Postgers)
+
+        Job Description
+
+        Fulfil’s backend engineers develop the next-generation technologies that change how millions of customer orders are fulfilled by merchants. Our products need to handle information at massive scale. We're looking for engineers who bring fresh ideas from all areas into our technology.
+As a backend engineer, you will work on our Python-based ORM and applications that scale to handle millions of transactions every hour. This is mission-critical software and your primary focus will be building robust and scalable solutions that are easy to maintain.
+In this role, you will be collaborating closely with the rest of the team working on different layers of infrastructure in an international environment. Therefore, a commitment to collaborative problem-solving, sophisticated design and quality products is important.
+What You’ll Do:
+Own definition and implementation of API interfaces (REST and GraphQL). We take pride in our 100% open API with over 600 endpoints.
+Implement simple solutions to complex business logic that enables our merchants to manage financials, orders and shipments across millions of transactions.
+Build reusable components and packages for future use.
+Translate specs and user stories into reviewable, test-covered patches.
+Peer review code and refactor existing code.
+Integrate with our eCommerce partners (Shopify, BigCommerce, Amazon), shipping partners (UPS, USPS, FedEx, DHL) and EDI.
+Manage Kubernetes and Docker-based global deployment of our infrastructure.
+Restrictions
+        No telecommuting
+            
+
+            
+            No Agencies Please
+            
+        Requirements
+        Requirements We’re Looking for Someone With:
+Experience working with ORMs like SQLAlchemy or Django (4+ years)
+Experience with SQL and databases (Postgres preferred)
+Experience in developing large server-side applications and microservices
+Ability to create high-quality code
+Experience with python testing tools (pytest) and test automation
+Familiarity with code versioning tools like GIT
+Strong sense of ownership and leadership quality
+Experienced in the tools of our web stack- Python, Celery, Postgres, Redis, RabbitMQ
+Nice to Haves:
+Prior experience at a growth stage Internet/Software Company
+Experience with ReactJS, Google Cloud, Heroku
+Cloud deployment and scaling experience
+About the Company
+        Fulfil.io helps high-growth, high-volume merchants simplify operations and scale for growth. With the rise in omnichannel commerce, Fulfil was founded with the simple idea that merchant operations need to be simplified in order to deliver amazing retail experiences. Fulfil enables businesses to turn their back office operations into an accelerator for growth by integrating order management, inventory management, warehouse management, vendor/supplier management, wholesale, manufacturing, financials and customer service, into one seamless solution. We believe merchants should love their operations platform, and we work hard to make that happen every single day. Fulfil.io is a trusted solution for brands like EndySleep, Mejuri, Lie-Nielson Toolworks, and many more.
+Fulfil.io is a venture-backed technology company with offices in San Francisco, Toronto, and Bangalore. The team is made up of people who want to feel challenged at work, be the best at their craft and learn from one another. We come from different backgrounds and experiences, all passionate about the work we do, the team we do it with, and the customers we do it for. Join us in our journey to simplify operations and empower merchants around the world!
+
+        
+
+        Contact Info
+        Contact: Sethu S
+            
+
+            E-mail contact: sethu.s@fulfil.io
+
+            
+            Web: https://jobs.fulfil.io/o/backend-engineer
+            
+        

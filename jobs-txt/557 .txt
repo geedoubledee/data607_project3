@@ -1,0 +1,34 @@
+
+
+        Job Title 
+
+        Web Developer
+
+        Job Description
+
+        The duties consist of developing and maintaining our website and applications. Our office is in Danderyd but we also offer a hybrid solution.
+
+
+        Restrictions
+        No telecommuting
+            
+
+            
+            No Agencies Please
+            
+        Requirements
+        Python
+HTML
+CSS
+JavaScript
+PostgreSQL
+Contact Info
+        Contact: Erik Edman
+            
+
+            E-mail contact: erik.edman@favoptic.com
+
+            
+            Web: https://www.favoptic.se/jobs/
+            
+        

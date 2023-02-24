@@ -1,0 +1,33 @@
+
+What you’ll do 
+In a few words…   
+Abarca is igniting a revolution in healthcare.  We built our company on the belief that with smarter technology we are redefining pharmacy benefits, but this is just the beginning...
+ At Abarca, company culture centers around embracing a growth mindset, theme of inspiring excellence, and encouraging all to bring their best each day! Our Interns/Coops work on real-world projects in collaboration with teams across Abarca Health, while having fun along the way. You'll be empowered to build community, explore your passions, and achieve your goals.  The Internship & Coop programs are designed to encourage bringing solutions and ideas to life while working on cutting-edge technology, while experiencing our culture of community. In this role you will be part of our Data Engineering (Business Intelligence) teams where you will be immersed in the world of healthcare technology and its impact on millions of lives.                                                           
+As our Data Engineer Intern, you will determine and implement the best technique for extracting data from a source system and moving it to the Business Intelligence tools, Tableau and Snowflake. You will understand and implement a variety of diverse Business Intelligence acquisition techniques while ensuring compliance with all standards. In this key role you will ensure that project deliverables are consistent with long-term infrastructure plans. This role is an integral component of the organization's Business Intelligence department delivering BI through Intelligence, Informatics and Data.
+The fundamentals for the job… 
+Understand the data structure and meaning in both the source and the target Business Intelligence tools, Tableau and Snowflake
+Apply business rules as transformations.
+Adapt ELT processes to accommodate changes in source systems and new business user requirements.
+Building and unit testing data transformation, source data transport, and population processes for environment
+Assisting the Business Intelligence Team in delivering information and analytic solutions to the company’s key stakeholders, including members of the various business units, internal/external providers, and internal staff.
+Report/Query testing, development using dbt and Snowflake SQL.
+What we expect of you:
+The bold requirements… 
+Be an active student at least in third year and above enrolled in a Bachelor or Master’s Degree in Computer Engineering, Computer Science, Software Engineering, or related field.
+Must have taken and enjoyed the database class.
+You should have previous knowledge of SQL, Database Design, and Stored Procedures.
+Computer proficiency, knowledge of Microsoft Office products and Internet experience.
+Excellent oral and written communication skills.
+We are proud to offer a flexible hybrid work model which will require certain on-site work days (Puerto Rico Location Only)
+Nice to have… 
+Knowledge of Business Intelligence designs and practices is a big plus.
+Previous knowledge of the Healthcare industry.
+Bilingual fluency in Spanish and English.
+Physical requirements…
+Must be able to access and navigate each department at the organization’s facilities.
+Sedentary work that primarily involves sitting/standing.
+The above description is not intended to limit the scope of the job or to exclude other duties not mentioned. It is not a final set of specifications for the position. It’s simply meant to give readers an idea of what the role entails.
+Abarca Health LLC is an equal employment opportunity employer and participates in E-Verify.  “Applicant must be a United States’ citizen. Abarca Health LLC does not sponsor employment visas at this time”
+All qualified applicants will receive consideration for employment and will not be discriminated against on the basis of gender, race/ethnicity, gender identity, sexual orientation, protected veteran status, disability, or other protected group status.
+#LI-VP1 #LI-REMOTE
+

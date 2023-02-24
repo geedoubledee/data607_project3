@@ -1,0 +1,46 @@
+
+Who we are
+Samsara (NYSE: IOT) is the pioneer of the Connected Operations Cloud, which helps to digitize the world of physical operations, providing visibility and empowering entire sectors of our economy to become more safe, efficient, and sustainable. Founded in San Francisco in 2015, we now employ more than 2,000 people globally, have 2.3 million IoT devices deployed globally, and collect more than 85 billion minutes of video footage and 4.6 trillion data points annually.
+Working at Samsara means you’ll help define the future of physical operations and be on a team that’s shaping an exciting array of product solutions, including video-based safety, vehicle telematics, apps and driver workflows, equipment monitoring, and site visibility. As part of a newly public company, you’ll have the autonomy and support to make an impact as we build for the long term. 
+Recent awards we’ve won include: 
+Best Place to Work by Built In 2022 
+Deloitte Fast 500 Companies
+IoT Analytics Company of the Year in 2022’s IoT Breakthrough Winners 
+Every year, we partner with our customers to deliver outcomes like conserving millions of gallons of fuel, saving millions of dollars, and creating positive environmental change. As more customers connect to our platform, our data grows, our AI models get smarter, and our opportunities expand.About the role:
+The Samsara Data Engineering team builds core infrastructure to enable the business to make data-driven products and decisions. As a Senior Data Engineer you will contribute to a scalable and reliable data environment to meet the data needs of everyone at Samsara. You will work closely with scientists as well as full-stack, firmware, and platform teams to deliver an architecture, pipelines, data sets, and relevant software.
+This role can be office-based or fully remote in the US and Canada.
+You should apply if:
+You want to impact the industries that run our world: The software, firmware, and hardware you build will result in real-world impact—helping to keep the lights on, get food into grocery stores, and most importantly, ensure workers return home safely.
+You want to build for scale: With over 2.3 million IoT devices deployed to our global customers, you will work on a range of new and mature technologies driving scalable innovation for customers across industries driving the world's physical operations.
+You are a life-long learner: We have ambitious goals. Every Samsarian has a growth mindset as we work with a wide range of technologies, challenges, and customers that push us to learn on the go.
+You believe customers are more than a number: Samsara engineers enjoy a rare closeness to the end user and you will have the opportunity to participate in customer interviews, collaborate with customer success and product managers, and use metrics to ensure our work is translating into better customer outcomes.
+You are a team player: Working on our Samsara Engineering teams requires a mix of independent effort and collaboration. Motivated by our mission, we’re all racing toward our connected operations vision, and we intend to win—together.
+Click here to learn about what we value at Samsara. 
+In this role, you will: 
+Contribute to a comprehensive data model and supporting architecture (including APIs and other relevant software)
+Work with petabyte-scale data from the Samsara products, including camera and sensor devices. Be responsible for data pipelines, primarily in SparkSQL and PySpark to move that data. 
+Stay connected to industry and academic research and adopt novel technology that suits Samsara’s needs
+Champion, role model, and embed Samsara’s cultural principles (Focus on Customer Success, Build for the Long Term, Adopt a Growth Mindset, Be Inclusive, Win as a Team) as we scale globally and across new offices
+Minimum requirements for the role:
+A post-secondary degree in Computer Science, Engineering, Mathematics or other relevant field
+5+ years experience as a Data Engineer
+Experience with large-scale data models
+A strong understanding of SWE foundations
+Expert experience in Spark, SQL, Scala, Python, and other relevant technologies
+An ideal candidate also has:
+Masters or higher in Computer Engineering or other related field
+8+ years experience on data engineering focused teams
+Experience with Databricks
+AWS knowledge and expertise (S3, Lambda, SQS, Kinesis, Step Functions)
+Familiarity using Terraform
+Samsara’s Compensation Philosophy: Samsara’s compensation program is designed to deliver total compensation (based on role, level, and geography) that is above market. We do this through our base salary + bonus/variable + restricted stock units (RSUs). RSUs are awarded at hire and may be refreshed annually. Additionally, as a pay-for-performance company, there are additional RSU grant awards for top performers which allow employees to achieve higher market positioning.The range of annual base salary for full-time employees for this position is below. Please note that base pay offered may vary depending on factors including your city of residence, job-related knowledge, skills, and experience.$156,332—$229,900 USDAt Samsara, we welcome everyone regardless of their background, race, national origin, gender, gender identity, sexual orientation, protected veteran status, disability, age, etc. We depend on the unique approaches of our team members to help us solve complex problems. We are committed to increasing diversity across our team and ensuring that Samsara is a place where people from all backgrounds can make an impact.
+Accommodations
+Samsara is an inclusive work environment, and we are committed to ensuring equal opportunity in employment for qualified persons with disabilities. Please email accessibleinterviewing@samsara.com or click here if you require any reasonable accommodations throughout the recruiting process.
+US Only: Please note that Samsara’s COVID-19 vaccination policy requires all team members who will be meeting in person for business or working from one of our offices to be fully vaccinated against COVID-19 or submit regular testing. People who cannot be vaccinated for qualifying medical conditions, sincerely held religious beliefs, and other legally protected categories, may request an accommodation. 
+Benefits
+Full time employees receive an above market total compensation package along with employee-led remote and flexible working, health benefits, Samsara for Good charity fund, and much, much more. Take a look at our Benefits site to learn more.
+Flexible Working 
+At Samsara, we have adopted a flexible way of working, enabling teams and individuals to do their best work, regardless of where they’re based. We value in-person collaboration and know a change of scenery and quiet space to work is welcomed from time to time, but also appreciate that the world of work has changed. Our offices remain open for those who prefer to collaborate or work in-office, but we also encourage fully remote applicants. As most roles are not required to be in the office, we are able to hire remotely where Samsara has an established presence. If a role is required to be in a certain location and candidates do not have work authorization for that location, Samsara will conduct an immigration assessment. If the role is not required to be in a specific location, Samsara will move forward with the remote location that works best for the business. All offers of employment are contingent upon an individual’s ability to secure and maintain the legal right to work at the company. 
+ 
+Please note: Samsara does not accept agency resumes and is not responsible for any fees related to unsolicited resumes. Please do not forward resumes to Samsara employees.
+

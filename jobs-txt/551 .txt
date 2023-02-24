@@ -1,0 +1,60 @@
+
+
+        Job Title 
+
+        Senior Data Scientist
+
+        Job Description
+
+        About this role
+The Forta Foundation is looking for a senior data scientist to help innovate to bring data science solutions to the Forta ecosystem. You will analyze blockchain attack data and prototype data science solutions to glean insights into the attacks, predict attacks and scams, and aid with the consumption of alerts.
+In this role, you will work and empower the broader data science and academic research community to bring innovative solutions to the Forta ecosystem through prototyping, educational content, research papers & blog posts, data curation, and data science competitions.
+The ideal candidate is passionate about how data science can help derive insights that can protect web3 ecosystem and is thrilled to work with a global data science and research community.
+Resources:
+Data Science and Machine Learning on Forta. https://docs.forta.network/en/latest/ds-and-ml/
+Kaggle Competition: It's Time to Protect Web3 with Forta. https://www.kaggle.com/competitions/forta-protect-web3
+Forta Labeled Datasets. https://github.com/forta-network/labelled-datasets
+What you’ll be doing
+Analyze blockchain and attack data
+Prototype a broad range of models: from supervised to unsupervised models to detect attacks, rank alerts, provide context to alert data
+Empower the data science community to protect web3 (e.g. through data set curation, prototyping, contest preparation)
+Work with data science and engineering community to evolve the Forta Network’s data science and machine learning capabilities
+Facilitate a research agenda with the data science and academic research community (e.g. through RFPs and regular community calls)
+Educate the broader community on data science approaches to web3 through statistics and data science (e.g. through research papers & blog posts, conference talks, social media presentations)
+Restrictions
+        No telecommuting
+            
+
+            
+            Agencies are OK
+            
+        Requirements
+        Ideally, you have:
+5+ years of professional experience in Machine Learning, Natural Language Processing, Deep Learning, Anomaly Detection, Clustering, Time Series Analysis, and related areas.
+Expertise with Python and experience with other scripting languages (e.g., R, or similar).
+Experience with libraries such as Pandas, Keras, Pytorch, Scikit-learn etc. to build ML models.
+Attention to detail with self-discipline and a drive for results.
+Demonstrated ability to work in ambiguous situations and with geographically distributed teams.
+Bachelor’s degree in Statistics, Mathematics, Computer Science, Engineering, or related technical field or equivalent experience.
+Excellent writing and communication skills.
+Ability to convey complex technical topics into easy to understand materials.
+Strong personal organizational skills and a love for self-time management.
+A startup mentality with a bias to action and the ability to be flexible in a fast-paced environment.
+Passion and/or experience with open-source or cybersecurity or similar highly technical industry is preferred.
+Technical knowledge of blockchain, DeFi and the Ethereum ecosystem is preferred.
+About the Company
+        The Forta Network is the first decentralized community-based security platform to prevent or mitigate smart contract exploits as they occur. The goal of Forta is to detect threats and other system critical issues in real time. By providing users with timely and useful information about the security and stability of their systems, they have an opportunity to react and take defensive action, preventing or minimizing the losses and other issues.
+The Forta Foundation is an independent, non-profit organization with the mission to steward the continued evolution of the Forta Network by facilitating the collective action of its community. The Foundation is funding this full-time role to further its mission.
+
+        
+
+        Contact Info
+        Contact: ivan spanier
+            
+
+            E-mail contact: ivan@forta.org
+
+            
+            Web: https://forta.org/
+            
+        

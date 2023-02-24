@@ -1,0 +1,33 @@
+
+About Agoda 
+Agoda is an online travel booking platform for accommodations, flights, and more. We build and deploy cutting-edge technology that connects travelers with more than 2.5 million accommodations globally. Based in Asia and part of Booking Holdings, our 6,000+ employees representing 90+ nationalities foster a work environment rich in diversity, creativity, and collaboration. We innovate through a culture of experimentation and ownership, enhancing the ability for our customers to experience the world.Key Areas of Focus: 
+In this role, you’ll get to:  
+Strategy: Conduct analyses to identify growth opportunities and prioritize investment areas in APAC for Strategic Partnerships team based on analytical insights, industry trends, and changing competitive landscape.
+Analytics: Leverage data & tools to analyze SP performance and identify appropriate levers to improve performance.  
+Cross-functional projects: Work with different teams inside SP (B2B, White Label, Affiliates, Financial Institutions, different markets across APAC, etc.) and outside of SP (product, marketing, supply, finance, etc.) to drive initiatives. 
+Performance management: Maintain and optimize a performance management system for the department, including a large team of account managers 
+Data & tools: Oversee SP data infrastructure to ensure data accuracy, completeness, and timeliness. Design, manage, and oversee the maintenance of data tools to support decision making.  
+Performance reporting: Preparing updates on business performance, proposals, and recommendations to senior management.
+Pricing Experiments: Optimize pricing strategy and make decisions based on A/B experiments.  
+ 
+What you’ll Need to Succeed:  
+4 years and above of experience with Consulting, Data Analytics, Strategy, Business Development, Business Intelligence, or other relevant fields 
+Proven ability to leverage analytics and quantitative methods to break down ambiguous problems and come up with recommendations 
+Growth mindset and excited to work on a variety of functional areas
+Entrepreneurial and not afraid to be hands-on on the work 
+Experience working in a fast-paced and high growth environment 
+Excellent communication skills (both verbal and written in English) with ability to work well across multiple stakeholders 
+It’s Great if you have:   
+Ability to write in SQL a plus, or willingness to learn 
+Ability to use Tableau a plus, or willingness to learn 
+Bachelor’s degree in Statistics, Computer Science, Economics, Mathematics a plus 
+
+#STRA#ANLS#MRKT#3#LI-TR2 #sanfrancisco #sanjose #losangeles #sandiego #oakland #denver #miami #orlando #atlanta #chicago #boston #detroit #newyork #portland #philadelphia #dallas #houston #austin #seattle #washdc #tirana #yerevan #sydney #melbourne #perth #vienna #graz #linz #baku #minsk #brussels #antwerp #ghent #charleroi #liege #saopaolo #sofia #toronto #vancouver #montreal #shanghai #beijing #shenzhen #zagreb #cyprus #prague #Brno #Ostrava #copenhagen #cairo #alexandria #giza #estonia #helsinki #paris #nice #marseille #rouen #lyon #toulouse #tbilisi #berlin #munich #hamburg #stuttgart #cologne #frankfurt #dusseldorf #dortmund #essen #Bremen #leipzig #dresden #hanover #nuremberg #athens #hongkong #budapest #bangalore #newdelhi #jakarta #bali #bandung #dublin #telaviv #milan #rome #naples #turin #palermo #venice #bologna #florence #tokyo #osaka #yokohama #nagoya #okinawa #fukuoka #sapporo #amman #irbid #riga #beirut #tripoli #vilnius #luxembourg #kualalumpur #malta #chisinau #amsterdam #oslo #jerusalem #manila #warsaw #krakow #sintra #lisbon #porto #braga #cascais #loures #amadora #almada #doha #alrayyan #bucharest #moscow #saintpetersburg #riyadh #jeddah #mecca #medina #belgrade #singapore #bratislava #capetown #johannesburg #seoul #barcelona #madrid #valencia #seville #bilbao #malaga #oviedo #alicante #laspalmas #zaragozbanga #stockholm #zurich #geneva #basel #taipei #tainan #taichung #kaohsiung #Phuket #bangkok #istanbul #ankara #izmir #dubai #abudhabi #sharjah #london #manchester #liverpool #edinburgh #kiev #hcmc #hanoi #sanaa #taiz #aden #gibraltar #marrakech #lodz #wroclaw #poznan #Gdansk #szczecin #bydgoszcz #lublin #katowice #rio #salvador #fortaleza #brasilia #belo #belem #manaus #curitiba #portoalegre #saoluis data representation data analysis SQL data analytics analytics python (programming language) data mining data science r (programming language) tableau analytical skills data visualization databases business analysis business intelligence (bi) microsoft sql server machine learning statistics power biEqual Opportunity Employer 
+At Agoda, we pride ourselves on being a company represented by people of all different backgrounds and orientations. We prioritize attracting diverse talent and cultivating an inclusive environment that encourages collaboration and innovation. Employment at Agoda is based solely on a person’s merit and qualifications. We are committed to providing equal employment opportunity regardless of sex, age, race, color, national origin, religion, marital status, pregnancy, sexual orientation, gender identity, disability, citizenship, veteran or military status, and other legally protected characteristics.
+We will keep your application on file so that we can consider you for future vacancies and you can always ask to have your details removed from the file. For more details please read our privacy policy.
+To all recruitment agencies: Agoda does not accept third party resumes. Please do not send resumes to our jobs alias, Agoda employees or any other organization location. Agoda is not responsible for any fees related to unsolicited resumes.
+ 
+ 
+ 
+ 
+

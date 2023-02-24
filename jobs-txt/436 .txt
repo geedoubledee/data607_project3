@@ -1,0 +1,43 @@
+
+Databases are the beating heart of every business in the world.
+We are looking for a Business Intelligence Engineer to join the Data & Analytics team at Cockroach Labs. As a member of the data organization, you will work closely with our Product and Engineering teams to uncover insights about how customers use CockroachDB, helping to inform the Product’s decision-making and focus Engineering efforts. You will also be responsible for long-running analytical initiatives marked by greater complexity and less structure that will yield substantial product enhancements. We’re looking for someone comfortable working on interesting growth, engagement, and retention-related problems in the SaaS space using cutting-edge and proven techniques. This is a strategic, high-impact role that will help shape the future of CockroachDB products and services.
+You Will
+Bring hands-on experience in creating curated data models, analytical approaches, and metrics strategies to deliver actionable insights
+Perform high-level ad-hoc analyses, quantitative and qualitative, to guide business improvement hypotheses and drive decisions
+Collaborate with senior management to develop goals, objectives, and strategies for improving business performance using BI tools
+Own the design, development, and support of the data models and visualization dashboard, extracting data from the data warehouse (Snowflake, Big Query / Oracle data warehouse) or other sources.
+Advocate for business intelligence solutions that will help the organization meet its goals
+Recommend changes to existing business intelligence processes or policies to improve efficiency
+Build a scalable data infrastructure that meets the needs of the business as it enters a period of rapid growth
+Establishing a robust and efficient business reporting process and building key management and workflow reports with input from management and executive leadership team
+Proactively identify trends in market trends and business performance, surfacing findings on a regular basis
+Be a hands-on leader that will leverage enterprise data to enable Cockroach Labs' enormous growth potential in a profitable and efficient manner.
+Develop analytic dashboards that are used to drive business operations across Finance, Sales, Planning, Manufacturing, and more.
+Develop analytical frameworks to measure and supervise the performance of our GTM efforts across multiple dimensions (product, geo, segment, etc.)
+The Expectations
+In your first month, you will go through the Cockroach Labs onboarding process and start to build relationships with stakeholders across the company. You will understand our current data architecture and the internal and external resources we use to maintain it. You will start to prioritize the current backlog of data requests.
+After 30 days, you will have a grasp on the major questions the product management team needs to answer, as well as the executive-level questions that require coordination between disparate data sets. You will update the roadmap priority and put in place key processes for building out this function. You will develop a point of view on the direction we need to take our data platform to support our product operations.
+After 90 days, you will be fully integrated into the team. You will put in place the major processes for supporting the Product and the broader organization, and make incremental improvements to our data platform that demonstrably improve our ability to make decisions. You will socialize a strategy for data in the Product team and how this will support the needs of other departments in the future.
+You Have
+BS, MS or Ph.D. in quantitative fields (e.g., Statistics, Math, Computer Science, Physics, Economics, Operations Research)
+5+ years of experience in business intelligence,  building and architecting data solutions roles, SaaS experience is a plus
+Preferred experience  in tools such as Spark, Airflow, Presto/Hive, Spark, or any other streaming technologies to process incredible volumes of data, Looker, Tableau, or other reporting tools
+Experience working in GCP/AWS/Azure cloud platform and knowledge of cloud utilities/tools
+Advanced proficiency in data visualization tools (e.g. Tableau, Looker, Metabase) with hands-on experience in data modeling and reporting in data visualization tools such as Looker, or a similar tool
+Familiarity with sophisticated data architecture and tools (e.g. data warehouses, data pipelines)
+5+ yrs of hands-on experience writing and optimizing advanced SQL queries, with large-scale, complex datasets
+Advanced proficiency in Python, Scala, Java, or similar scripting language is preferred 
+Skills to manage complex BI projects and teams, and work effectively across internal functional areas in ambiguous situations
+The Team
+Reporting to Veera Ilamurugu, Head of Data
+Veera Ilamurugu heads up the Data Analytics team at Cockroach Labs. He is responsible for our Product data strategy and is passionate about building and scaling businesses with data. Before joining Cockroach Labs, Veera was a Head of Analytics at Stitchfix, Leading an analytics team covering internal company strategy  When not at work, he enjoys watching Netflix, trying out new recipes in the kitchen, and listening to music.
+Our Benefits
+100% health insurance coverage (for you and your dependents!)
+Paid parental leave (with baby bucks)
+Flex Fridays
+Flexible time off & flexible hours
+Education reimbursement
+Relocation support
+Cockroach Labs is proud to be an Equal Opportunity Employer building a diverse and inclusive workforce. If you need additional accommodations to feel comfortable during your interview process, please email us at accessibility@cockroachlabs.com.
+The annual anticipated base salary range for U.S. candidates for this role is USD $135,000 to $205,000, plus commission if a sales role. We set standard ranges for all U.S.-based roles based on function, level, and geographic location, benchmarked against similar stage growth companies. In order to be compliant with local legislation, as well as to provide greater transparency to candidates, we share salary ranges on all job postings regardless of desired hiring location.  Actual salaries may vary and fall outside of this range depending on factors such as a candidate’s qualifications, geographic location, skills, experience, and competencies. In addition, we are often open to a wide variety of profiles, and recognize that the person we hire may be less experienced (or more senior) than this job description as posted. Salary is one component of the Cockroach Labs’ total rewards package, which includes stock options, health insurance, life and disability insurance, funds towards professional development resources, unlimited PTO, paid holidays, and parental leave, to name a few! Salaries for candidates outside the U.S. will vary based on local compensation structures.
+

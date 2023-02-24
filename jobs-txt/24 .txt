@@ -1,0 +1,39 @@
+
+About Agoda 
+Agoda is an online travel booking platform for accommodations, flights, and more. We build and deploy cutting-edge technology that connects travelers with more than 2.5 million accommodations globally. Based in Asia and part of Booking Holdings, our 6,000+ employees representing 90+ nationalities foster a work environment rich in diversity, creativity, and collaboration. We innovate through a culture of experimentation and ownership, enhancing the ability for our customers to experience the world.Get to Know our Team: 
+The Supply Analytics team is a team of creative entrepreneurs that develop solutions for Agoda’s non-accommodation partners and promote Agoda’s top and bottom line growth. We design tailored business and product solutions with our partners and help them generate measurable value. Members of our team are empowered and supported to grow their market(s) or accounts. We develop win-win relationships and leverage Agoda’s unique accommodations portfolio and tech solutions to bring our partners the advantages they seek.  Utilizing our strong brand and resources, we build new channels to increase the visibility of Agoda, introduce more travelers to our great products and service and deliver significant revenues to the overall business. 
+The Opportunity:  
+The role sits within the Supply Analytics team under Central Supply Team, where new business ideas, and partnership types are incubated and scaled. We are looking for a Senior BI Analyst whose main focus areas are providing visibility and insights for people-related issues through Business Intelligence tools like Tableau and SQL, managing data warehouses, building ETL processes, and helping build other tools to optimize the business. This role will be involved in strategic projects and work closely with commercial owners and business stakeholders, using data to identify and translate business needs and opportunities into actionable initiatives.
+In this Role, you’ll get to:
+Translate internal briefs into analytical projects (to include refining the initial brief and asking the ‘right questions’, working through potential hypotheses and storyboarding the output)
+Use and analyze data from multiple large-scale data warehouses and present statistically strong analysis to a wide range of business stakeholders.
+Proactively identify opportunities for growth within supply and the wider business.
+Drive new analytical initiatives and projects aimed at improving organizational efficiency and shaping Agoda supply.
+Identify, support, and lead projects aimed at scaling up the way the Supply organization leverages on data, insights, and intelligence.
+Automate manual operational processes and present back on time savings gained through modernization of business operations
+What you’ll Need to Succeed:
+4+ years of experience in analytics/data science/insights/strategy.
+Bachelor’s degree ideally in a business or quantitative subject (e.g. computer science, mathematics, engineering, science, economics or finance).
+3+ years of experience with BI & analytics tools (SQL, Tableau, Metabase, Data Studio, or similar technologies)
+2+ years of solid project management
+Good stakeholder management experience. Comfortable presenting to senior leadership and C-suite.
+Strong experience in finding data insights and provide business recommendation to the business
+A hacker’s mindset – the ability to build simple but clever and elegant solutions to new problems within significant resource, operational and time constraints through deep understanding of the business, creative problem solving, and a wide range of expertise in data, analytics, automation, programming, and prototyping.
+Excellent communicator with superior written, verbal, presentation and interpersonal communication skills.
+Data driven in both decision making and performance measurement.
+Extreme comfort in ambiguous, fast-paced environment.
+Ability to multi-task, prioritize and coordinate resources.
+It’s Great if you Have:  
+Travel industry / e-commerce / tech / consulting experience.
+Experience in conducting A/B testing experimentation (a plus)
+A good understanding of statistical modelling knowledge or any machine learning technique knowledge is a plus (regression, logistic regression, random forest, etc.)
+ 
+#STRA#ANLS#MRKT#3#LI-TR2 #sanfrancisco #sanjose #losangeles #sandiego #oakland #denver #miami #orlando #atlanta #chicago #boston #detroit #newyork #portland #philadelphia #dallas #houston #austin #seattle #washdc #tirana #yerevan #sydney #melbourne #perth #vienna #graz #linz #baku #minsk #brussels #antwerp #ghent #charleroi #liege #saopaolo #sofia #toronto #vancouver #montreal #shanghai #beijing #shenzhen #zagreb #cyprus #prague #Brno #Ostrava #copenhagen #cairo #alexandria #giza #estonia #helsinki #paris #nice #marseille #rouen #lyon #toulouse #tbilisi #berlin #munich #hamburg #stuttgart #cologne #frankfurt #dusseldorf #dortmund #essen #Bremen #leipzig #dresden #hanover #nuremberg #athens #hongkong #budapest #bangalore #newdelhi #jakarta #bali #bandung #dublin #telaviv #milan #rome #naples #turin #palermo #venice #bologna #florence #tokyo #osaka #yokohama #nagoya #okinawa #fukuoka #sapporo #amman #irbid #riga #beirut #tripoli #vilnius #luxembourg #kualalumpur #malta #chisinau #amsterdam #oslo #jerusalem #manila #warsaw #krakow #sintra #lisbon #porto #braga #cascais #loures #amadora #almada #doha #alrayyan #bucharest #moscow #saintpetersburg #riyadh #jeddah #mecca #medina #belgrade #singapore #bratislava #capetown #johannesburg #seoul #barcelona #madrid #valencia #seville #bilbao #malaga #oviedo #alicante #laspalmas #zaragozbanga #stockholm #zurich #geneva #basel #taipei #tainan #taichung #kaohsiung #Phuket #bangkok #istanbul #ankara #izmir #dubai #abudhabi #sharjah #london #manchester #liverpool #edinburgh #kiev #hcmc #hanoi #sanaa #taiz #aden #gibraltar #marrakech #lodz #wroclaw #poznan #Gdansk #szczecin #bydgoszcz #lublin #katowice #rio #salvador #fortaleza #brasilia #belo #belem #manaus #curitiba #portoalegre #saoluis data representation data analysis SQL data analytics analytics python (programming language) data mining data science r (programming language) tableau analytical skills data visualization databases business analysis business intelligence (bi) microsoft sql server machine learning statistics power biEqual Opportunity Employer 
+At Agoda, we pride ourselves on being a company represented by people of all different backgrounds and orientations. We prioritize attracting diverse talent and cultivating an inclusive environment that encourages collaboration and innovation. Employment at Agoda is based solely on a person’s merit and qualifications. We are committed to providing equal employment opportunity regardless of sex, age, race, color, national origin, religion, marital status, pregnancy, sexual orientation, gender identity, disability, citizenship, veteran or military status, and other legally protected characteristics.
+We will keep your application on file so that we can consider you for future vacancies and you can always ask to have your details removed from the file. For more details please read our privacy policy.
+To all recruitment agencies: Agoda does not accept third party resumes. Please do not send resumes to our jobs alias, Agoda employees or any other organization location. Agoda is not responsible for any fees related to unsolicited resumes.
+ 
+ 
+ 
+ 
+

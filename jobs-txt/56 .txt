@@ -1,0 +1,36 @@
+
+About Agoda 
+Agoda is an online travel booking platform for accommodations, flights, and more. We build and deploy cutting-edge technology that connects travelers with more than 2.5 million accommodations globally. Based in Asia and part of Booking Holdings, our 6,000+ employees representing 90+ nationalities foster a work environment rich in diversity, creativity, and collaboration. We innovate through a culture of experimentation and ownership, enhancing the ability for our customers to experience the world.Get to Know Our Team  
+The Data department oversees all of Agoda’s data-related requirements. Our ultimate goal is to enable and increase the use of data in the company through creative approaches and the implementation of powerful resources such as operational and analytical databases, queue systems, BI tools, and data science technology. We hire the brightest minds from around the world to take on this challenge and equip them with the knowledge and tools that contribute to their personal growth and success while supporting our company’s culture of diversity and experimentation. The role the Data team plays at Agoda is critical as business users, product managers, engineers, and many others rely on us to empower their decision making. We are equally dedicated to our customers by improving their search experience with faster results and protecting them from any fraudulent activities. Data is interesting only when you have enough of it, and we have plenty. This is what drives up the challenge as part of the Data department, but also the reward. 
+The Opportunity 
+As a Senior Data Analyst, you will be driving our features research in our fraud domain, build experiments to test your hypothesis, and get your hands on experience in ML. This role will allow you to communicate your findings with the different stakeholders (Product, Devs, and Business) and make an impact at Agoda. 
+ 
+In This Role, You’ll Get to  
+Apply your expertise in quantitative analysis, data mining, and the presentation of data to understand fraud, how it relates to Agoda’s strategy and products, and how to prevent it 
+Build advanced predictive models to understand the impact of specific fraudulent behaviors, trends, and patterns 
+Work closely with cross-functional teams of data and backend engineers, analysts, user researchers, product managers, and designers who are passionate about Agoda’s success 
+Understand how user fraud affects other consumers of our data, including insights and feature teams, and work across the data landscape to minimize impact and drive influence wherever possible 
+Communicate data-informed insights and recommendations to key stakeholders, engineering and product partners 
+ 
+What You’ll Need to Succeed 
+3+ years of experience in a data driven role in payment fraud detection and prevention, with an understanding of the impact that fraud prevention has on other areas in the company where business and product decisions are made 
+Extensive experience in detecting and analyzing fraud at the individual transaction level as well as across large data sets 
+Bachelor’s Degree in science, computer science, statistics, economics, mathematics, a similar quantitative discipline, or equivalent industry experience 
+Coding skills for analytics and data manipulation (SQL, R, Python, Pandas, Scala) 
+Experience with data visualization tools such as Tableau or your weapon of choice 
+Strong analytical and statistical analysis skills in order to extract insights and recommendations 
+Fluent in English with strong communication skills (both written and verbal) 
+  
+It’s Great If You Have 
+Knowledge of machine learning algorithms including classifiers, clustering algorithms, and anomaly detection is a plus 
+ 
+#sanfrancisco #washdc #sydney #london #tokyo #amsterdam #munich #berlin #toronto #vancouver #moscow #dublin #seoul #hcmc #telaviv #taipei #ENG #IT #4 #LI-ST1
+ Equal Opportunity Employer 
+At Agoda, we pride ourselves on being a company represented by people of all different backgrounds and orientations. We prioritize attracting diverse talent and cultivating an inclusive environment that encourages collaboration and innovation. Employment at Agoda is based solely on a person’s merit and qualifications. We are committed to providing equal employment opportunity regardless of sex, age, race, color, national origin, religion, marital status, pregnancy, sexual orientation, gender identity, disability, citizenship, veteran or military status, and other legally protected characteristics.
+We will keep your application on file so that we can consider you for future vacancies and you can always ask to have your details removed from the file. For more details please read our privacy policy.
+To all recruitment agencies: Agoda does not accept third party resumes. Please do not send resumes to our jobs alias, Agoda employees or any other organization location. Agoda is not responsible for any fees related to unsolicited resumes.
+ 
+ 
+ 
+ 
+

@@ -1,0 +1,36 @@
+
+Did you know that over $580 billion is spent each year on digital marketing? Much of that is spent on discovering the right solution, optimizing its performance, building single-use, point-to-point connections between systems. Yet the application landscape in most companies is only getting more complex, driven by increasing adoption of best-of-breed SaaS line-of-business solutions and productivity demands requiring specialized software suited to accelerating every task and function.AppsFlyer is building the next-generation solution to the enormous marketing ecosystem, enabling agility, reuse, and composability on a global scale leveraging our more than 12K customers and 8K+ tech partners integrations.We’re looking for an Experience Data Analyst, a talented individual with a pioneering spirit to join the Product team and help build data-driven products. This is a unique opportunity to make an impact, spearhead continuous data analysis and provide insights throughout the AppsFlyer product development process.This person has strong technical skills and a passion for slicing and dicing numbers. We’re talking about a good listener who can distill numbers into actionable steps to ensure that the AppsFlyer platform remains at the top of its class.
+What you'll do:
+Analyze our huge data sets using statistics and data mining techniques to find and identify future product opportunities
+Incubate new products features on top of our extensive data sets to drive customer value.
+Own business tracking tools and dashboards that maximize selling opportunities and bottom line revenue impact.
+Lead and execute continuous data analysis and provide insights throughout AppsFlyer’s product development process
+Work with customers to maximize the value they capture from our product by surfacing opportunities that can be uncovered by data.
+Help build ETLs to make the team’s work more sufficient
+Improve our product data modeling and collection procedures
+Communicate data findings to business, product, and engineering teams
+Create and maintain visual dashboards to monitor the product
+Mentor colleagues in the data analytics guild
+What you have:
+At least 5 years of experience as a data analyst / BI developer, preferably in a B2B company
+Proven record of working with “Large” data sets and working with end-users data
+Strong knowledge in statistics and statistical modeling
+Experience with the design and analysis of A/B tests
+Excellent SQL skills
+Experience in ETL processes
+Excellent skills working with BI tools such as Tableau, Looker, etc.
+Product and business orientation
+Experience working with Python
+Degree in Industrial Engineer, Mathematics, Statistics, Computer Science, or a similar field
+Ability to simplify complex data and communicate to a range of stakeholders
+Advanced proficiency in written and spoken English
+Experience in working with customers
+Ability to get things done, from start to finish
+Can-do approach
+Bonus Points:
+Experience in BQ
+Experience working with AWS
+Being introduced by an AppsFlyer team member
+As a global company operating in 19 countries across 5 continents, we reflect the human mosaic of the diverse and multicultural world in which we live. We ensure equal opportunities for all of our employees and promote the recruitment of diverse talents to our global teams without consideration of race, gender, culture, or sexual orientation. We value and encourage curiosity, diversity, and innovation from all our employees, customers, and partners.
+“As a Customer Obsessed company, we must first be Employee Obsessed. We need to make sure that we provide the team with the tools and resources they need to go All-In.” Oren Kaniel, CEO
+

@@ -1,0 +1,28 @@
+
+What makes ThoughtSpot a great place to work?
+To make our dent in the universe, we seek employees with unique identities, backgrounds, and perspectives that want to build an inclusive, respectful company culture and truly challenge the status quo. We are very deliberate about building a culture focused on selfless-excellence, continuous learning and improvement (2% done) achieved through diversity (balance-for-the-better) and inclusion.Responsibilities
+The ThoughtSpot SpotIQ team is seeking engineers to develop scalable machine learning approaches for Business Intelligence products. You will directly contribute to ML approaches using rich data. You will work to deliver new capabilities in the product. 
+Key Requirements
+Bachelors in CS. Strong fundamentals with a solid understanding of data structures and algorithms
+Minimum 3-4 years of ML Engineering / Software engineering experience primarily related to productionizing ML models and scaling them in high-throughput and low-latency settings
+Building end to end data systems as an ML Engineer, Platform Engineer, or equivalent.
+Understanding/familiarity with the iterative nature of the data science lifecycle
+Familiarity with common ML/DL methodologies and metrics
+Expertise with time-series concepts (seasonality decomposition/adjustment, stationarity, auto-correlation etc)
+Experience with the latest open source forecasting platforms preferred (Prophet, Orbit, Greykite, etc)
+Experience with streaming data architectures.
+Proficient in Python, Spark, SQL, advanced competency with Java (or Go or Scala)
+Solid software engineering skills in complex, multi-language systems. 
+Expertise with AWS services and cloud architectures (Sagemaker, Serverless Stack, Amazon Forecast etc)
+Experience working with cloud data processing technologies (Spark, Dask, ElasticSearch, Presto, SQL, etc.).
+Excellent debugging and critical thinking skills.
+Excellent analytical and problem-solving skills.
+Ability to work in a fast paced, team-based environment.
+ ThoughtSpot for All
+Building a diverse and inclusive team isn't just the right thing to do for our people, it's the right thing to do for our business. We know we can’t solve complex data problems with a single perspective. It takes many voices, experiences, and areas of expertise to deliver the innovative solutions our customers need. At ThoughtSpot, we continually celebrate the diverse communities that individuals cultivate to empower every Spotter to bring their whole authentic self to work.
+We’re committed to being real and continuously learning when it comes to equality, equity, and creating space for underrepresented groups to thrive. 
+Research shows that in order to apply for a job, women feel they need to meet 100% of the criteria while men usually apply after meeting 60%. Regardless of how you identify, if you believe you can do the job and are a good match, we encourage you to apply. 
+To all recruitment agencies: ThoughtSpot does not accept agency resumes. Please do not forward resumes to our jobs alias, ThoughtSpot employees, or any other organization location. ThoughtSpot nor its employees are not responsible for any fees related to unsolicited resumes.
+About ThoughtSpot
+ThoughtSpot is the Modern Analytics Cloud company. Our mission is to create a more fact-driven world with the easiest to use analytics platform. With ThoughtSpot, anyone can leverage natural language search and AI to find data insights and tap into the most cutting edge innovations the cloud data ecosystem has to offer. Companies can now put the power of their modern data stack in the hands of every employee, extend the value of their data to partners and customers, and automate entire business processes. ThoughtSpot’s web and mobile applications improve decision-making for every employee. With ThoughtSpot’s developer-friendly platform, customers can also embed consumer-grade analytics into their SaaS offerings or build entirely new interactive data apps that engage users and keep them coming back for more. Organizations like Walmart, BT, Daimler, Medtronic, Hulu, Royal Bank of Canada, Nasdaq, OpenTable, Workato, and Nationwide Building Society rely on ThoughtSpot to transform how their employees and customers take advantage of data. 
+

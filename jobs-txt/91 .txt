@@ -1,0 +1,50 @@
+
+Iterable is the customer activation platform that helps brands deliver joyful experiences with harmonized, individualized, and dynamic communications at scale—Iterable is built for marketers, trusted by engineers, and designed with intelligence. We know this space well: our product team built the growth systems that powered Twitter’s early success. We've surpassed $100M in ARR and have raised more than $340M from top-tier investors like Index Ventures, Viking, and CRV, and hundreds of companies like Zillow, SeatGeek, and Box rely on us to captivate their many millions of users.
+Developed for the enterprise, Iterable is built from modern technologies that transform cloud, partner and tool-specific data into integrated, personalized engagements. No matter the audience size or degree of campaign sophistication, Iterable empowers brands to implement where it matters most—creating experiences and promoting connections with over 2 billion people world-wide. Leading brands, like Zillow, DoorDash, Calm, Madison Reed, and Box, choose Iterable to power excellent customer experiences throughout the entire lifecycle.
+Iterable's momentum grows daily and there has never been a more exciting time to join the team! We've been recognized as one of the Best Places to Work - SF for the past four years, one of the Best Places to Work in Colorado for the past two years, and were named as one of Colorado’s Best Paying Companies! We’ve also been listed on Wealthfront’s  Career Launching Companies List for the past two years,  rank sixth on the list of Top 25 Companies Where Women Want to Work and hold a top 20 spot among the SaaS 100. 
+We have a global presence with offices in San Francisco, New York, Denver, and London, and remote employees located all over the world. As we scale, we continue to live by our core four, founding values - Trust, Growth Mindset, Balance, and Humility. To understand the Iterable story, and learn more about our mission, explore our Culture and About Us page.
+How you will make an impact:
+As a Staff ML Engineer at Iterable, you'll be leading projects to launch new machine learning products and improve the predictive features in our core platform. 
+We serve a very diverse roster of companies of all sizes, spanning many different industries. This offers a rare opportunity to work with rich datasets that are growing very rapidly in scale and variety. You will be building end-to-end  Machine Learning systems, and have autonomy to design and build the systems and models that power our ML products. You’ll also get to influence the decisions and policies we adopt as a company in this exciting era of AI.
+One of our core values is a growth mindset and Iterable is a company where everyone can grow. If this is a role that excites you, please do apply as we value applicants for the skills they bring beyond a job description.
+How you will make a difference:
+Design end-to-end machine learning systems including data acquisition, data cleaning, data models, model training, model serving and evaluation
+Own Spark pipelines that are at the core of our ML platform in Databricks
+Own the feature store that manages all the features behind our ML models
+Work closely with the Iterable engineering team to improve our machine learning infrastructure and data quality
+Build, evaluate and integrate new models that add intelligence into our core product  
+Improve our model performance tracking system
+Work with platform engineers to enhance our model serving architecture
+Evolve our online learning framework
+Build the Iterable AI brand with a track record of talks, blog posts, open source contributions and research articles
+Collaborate with leadership, senior teammates and product managers to create product and technical roadmaps for features and products as part of Iterable AI
+We are looking for people who have:
+Several years of experience with building end-to-end machine learning systems and operating them in production
+Advanced understanding of statistics,  modern and classic machine learning techniques and demonstrated expertise with employing a variety to create successful commercial applications
+Deep understanding of big data platforms and expertise with Spark or similar frameworks
+Strong proficiency writing production-quality code in Python
+Experience with high-scale, real-time data platforms and distributed systems
+Desire to learn Scala
+Bonus Points
+Scala (or other functional) programming experience
+Experience building and supporting complex ML systems like  deep learning pipelines
+AWS experience
+Experience in a SaaS environment
+Exposure to marketing technology
+Perks & Benefits:
+Paid parental leave
+Competitive salaries, meaningful equity, & 401(k) plan
+Medical, dental, vision, & life insurance
+Balance Day (First Friday off every month)
+Fertility & Adoption Assistance
+Paid Sabbatical
+Flexible PTO
+Monthly Employee Wellness allowance 
+Monthly Professional Development allowance 
+Pre-tax commuter benefits
+Complete laptop workstation
+We’re rethinking traditional workplace planning and looking to strengthen belonging, innovation, productivity, and happiness whether it’s in an office, from home, or a hybrid of the two. As such, we've moved to a single geographical compensation band for all of our employees (the San Francisco Bay Area market for the US, London for the UK). 
+The annual base salary range for this position is $191,100 - $248,850. This range reflects the minimum and maximum target for new hire salaries for the position across all US locations. Within the range, individual pay is determined based on factors including job-related skills, experience, relevant education or training, and internal equity considerations. While we use our full salary ranges, we only consider offering a salary near the top of the range in situations where the candidate far exceeds the experience level and skills required for the role.
+Please note that the compensation details listed in US role postings reflect the base salary only. The total compensation package includes variable pay (where applicable), equity, plus a range of benefits, including medical, dental, vision, and financial. In addition we offer perks such as generous stipends for health & fitness and learning & development, among others.
+Iterable is an Equal Employment Opportunity employer that proudly pursues and hires a diverse workforce. Iterable does not make hiring or employment decisions on the basis of race, color, religion or religious belief, ethnic or national origin, nationality, sex, gender, gender-identity, sexual orientation, disability, age, military or veteran status, or any other basis protected by applicable local, state, or federal laws or prohibited by Company policy. Iterable also strives for a healthy and safe workplace and strictly prohibits harassment of any kind. Pursuant to the San Francisco Fair Chance Ordinance and other similar state laws and local ordinances, and its internal policy, Iterable will also consider for employment qualified applicants with arrest and conviction records.
+

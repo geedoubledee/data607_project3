@@ -1,0 +1,44 @@
+
+
+        Job Title 
+
+        Python Software Engineer
+
+        Job Description
+
+        Our client requires a python developer with strong CS knowledge who is motivated to solve complex problems.
+Responsibilities:
+Develop, test software in Python.
+Devise algorithms to solve client problems.
+Communicate with client regarding development process.
+Restrictions
+        Telecommuting is OK
+            
+
+            
+            Agencies are OK
+            
+        Requirements
+        Requirements:
+BS in CS, Math, Physics or related quantitative field.
+2-3 years experience working with Python in a production setting.
+Excellent understanding of data structures and algorithms.
+Familiarity with server frameworks like Flask or FastAPI.
+Familiarity with Linux operating system
+About the Company
+        Hypothesisbase partners with businesses to provide consulting and software solutions.
+We regularly coordinate with clients to deliver custom solutions.
+We strive to give our developers great flexibility so they can work at their best.
+
+        
+
+        Contact Info
+        Contact: Madhav Kumar
+            
+
+            E-mail contact: jobs@hypothesisbase.com
+
+            
+            Web: https://hypothesisbase.com
+            
+        

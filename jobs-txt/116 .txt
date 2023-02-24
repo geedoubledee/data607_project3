@@ -1,0 +1,98 @@
+
+About Workato
+Workato is the only integration and automation platform that is as simple as it is powerful — and because it’s built to power the largest enterprises, it is quite powerful. 
+Simultaneously, it’s a low-code/no-code platform. This empowers any user (dev/non-dev) to painlessly automate workflows across any apps and databases.
+We’re proud to be named a leader by both Forrester and Gartner and trusted by 7,000+ of the world's top brands such as Box, Grab, Slack, and more. But what is most exciting is that this is only the beginning. 
+Why join us?
+Ultimately, Workato believes in fostering a flexible, trust-oriented culture that empowers everyone to take full ownership of their roles. We are driven by innovation and looking for team players who want to actively build our company. 
+But, we also believe in balancing productivity with self-care. That’s why we offer all of our employees a vibrant and dynamic work environment along with a multitude of benefits they can enjoy inside and outside of their work lives. 
+If this sounds right up your alley, please submit an application. We look forward to getting to know you!
+Also, feel free to check out why:
+
+Business Insider named us an “enterprise startup to bet your career on”
+
+
+Forbes’ Cloud 100 recognized us as one of the top 100 private cloud companies in the world
+
+
+Deloitte Tech Fast 500 ranked us as the 17th fastest growing tech company in the Bay Area, and 96th in North America
+
+
+Quartz ranked us the #1 best company for remote workers
+
+Responsibilities
+As a Data Engineer, you will be a key member of the organization who will establish bridges between Infrastructure, Product Analytics, Business Technologies and GTM teams.
+You will be responsible for conceptualizing, designing, and building data pipelines and services, while contributing towards the evolution of our data platform as a strategic asset for driving business decisions across the company.
+How We Work
+Workato Data Platform is based on the industry leading technologies such as Snowflake Data Warehouse, Clickhouse Database, Apache Kafka and AWS (lambda, fargate, etc ) and Workato SAAS solution itself for collecting data from third party business supporting services.
+We are currently working on upgrading the platform to meet new requirements of rapidly growing business such as:
+
+Increase the confidence in analytical data.
+
+
+Make a clearest possible vision of the user journey.
+
+
+Minimize the gap between data emitting and data availability for analytical purposes.
+
+We plan to achieve this by adopting some additional leading edge technologies such as DBT, Airflow, Kafka Streams, Kafka Connect and DataHub unified Metadata management Platform.
+You will make a direct impact to this movement and together we will be able to push Workato data platform at least to the Level 4 of the maturity model.
+How You’ll Make An Impact
+
+Hold strong ownership on data assets and pipelines that provide actionable insights into customer, product, GTM, and other key business functions.
+
+
+Design, implement and maintain scalable data pipelines and transformations using data from a variety of engineering and business systems.
+
+
+Ensure and sustain Data Quality, ensure analytical data artifacts are always accurate and maintain SLAs.
+
+
+Collaborate with Analysts, Product Owners and Stakeholders to fuel business intelligence with quality data models, increasing data accessibility and drive adoption of data.
+
+Requirements
+Qualifications / Experience / Technical Skills
+
+5+ years of work experience building & maintaining data pipelines on data-heavy environments (Data Engineering, Backend with emphasis on data processing, Data Science with emphasis on infrastructure)
+
+
+Fluent knowledge of  SQL.
+
+
+Strong knowledge of common analytical domain programming languages such as Python and Java.
+
+
+Ability to articulate a point of view and good communication, collaborative demeanor with work experience in distributed multinational teams.
+
+
+Deep background in data engineering and a proven track record of solving complex data problems and designing long-term solutions.
+
+
+Advanced English level.
+
+Soft Skills / Personal Characteristics
+
+Experience with Data Pipeline Orchestration tools (Airflow, Dagster or similar).
+
+
+Experience with Data Warehousing Solutions (Snowflake, Redshift, BigQuery).
+
+
+Confidence in using Git, K8s and Terraform.
+
+
+Production experience with PostgreSQL and Clickhouse.
+
+
+Experience with building Data Quality checks and Data Integrity Rules.
+
+
+Experience with Data Streaming and CDC (Confluent platform,  Kafka Ecosystem, Apache Flink, Debezium).
+
+
+Knowledge of Python Data Libraries such as Pandas.
+
+
+Strong understanding of Data Privacy and Security (GDPR, CCPA).
+
+

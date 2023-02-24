@@ -1,0 +1,74 @@
+
+
+        Job Title 
+
+        Web Software Developer
+
+        Job Description
+
+        Web Software Developer
+Description
+Job Title: Full Stack Developer (Python/Django)
+Type of Position: Full time (35 hour per week)
+Pay Range: $60,000 - $80,000 depending on experience
+Posting Open Date: Feb 1, 2023
+Posting Close Date: March 31, 2023
+Area of consideration: This position is open to all qualified candidates.
+Summary of Role
+The AAVSO is seeking a full stack web developer to add features and maintain our numerous external and internal Python Django websites. This individual will develop, maintain, and operate the software and cloud services used in our web infrastructure. This is a full time (35 hour per week) position that can be fulfilled as in-person, hybrid, or remote work depending on the employee’s location.
+What you will be doing
+Implement and maintain Django-based websites, focus mainly on back-end development, but do front-end work as well, participate in the IT operations of the website (DevOps/DevSecOps).
+Your time will be split approximately 80% web development and 20% other duties as required.
+Ways we reward our employees
+During the interview process, our team will provide details of our benefits. An overview of:
+A flexible, 35 hour work week, 100% employer paid individual healthcare plan, paid holidays, sick time, and vacation, 401(k) plan, employees receive a total company-paid benefit of 5% of their salary after three months of employment, flexible spending account, educational assistance program
+How to apply
+Applicants should send a cover letter and a current résumé  to Kathleen Spirer at
+kspirer@aavso.org with the subject line “AAVSO Software Developer Opportunity
+NO PHONE CALLS PLEASE. Incomplete applications will not be processed.
+
+
+        Restrictions
+        Telecommuting is OK
+            
+
+            
+            No Agencies Please
+            
+        Requirements
+        What you need to be successful
+Proficiency in Python with 2+ years of experience developing web applications in Django,  prior experience with Amazon AWS cloud services,  effective verbal and written communication skills,
+written and spoken proficiency in English.
+How you can stand out
+Prior experience with AstroPy (python astronomy library),  familiar with astronomy, photometry, spectroscopy or a related field,  a demonstrated track record of working with volunteers or managing small teams,  proficiency in languages other than English.
+
+        
+
+        
+        About the Company
+        The American Association of Variable Star Observers (AAVSO) is a small, science-focused
+501c3 non-profit organization headquartered in Cambridge, MA. Since its founding 1911, the
+AAVSO and its members have worked with the professional astronomical community to unlock
+the secrets of the cosmos through observations of variable stars and kindrid objects. Our
+current mission is to enable anyone, anywhere, to participate in scientific discovery through
+variable star astronomy.
+AAVSO accomplishes this mission through collaboration with professional researchers,
+educational activities, and data stewardship. In 2022, our engagement with researchers yielded
+300 peer reviewed publications and our educational programming reached 5,500 individuals.
+The majority of our effort involves curation of four databases including a photometric database
+with over 54 million observations, a variable star metadata database containing information on
+2.2 million variable stars, a spectroscopic database with some 10,000 spectra, and an exoplanet
+database showcasing some 1,500 exoplanet transits.
+
+        
+
+        Contact Info
+        Contact: Kathleen Spirer
+            
+
+            E-mail contact: kspirer@aavso.org
+
+            
+            Web: https://www.aavso.org/
+            
+        

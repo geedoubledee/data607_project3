@@ -1,0 +1,39 @@
+
+
+        Job Title 
+
+        Cloud Platform Engineer (f/m/d)
+
+        Job Description
+
+        Planning, design, installation and development of the Linux server landscape based on Ubuntu as well as a high-performance cloud platform based on OpenStack.
+Administration and maintenance of a highly available Linux cloud as well as performance, capacity and availability management of the Linux servers.
+Ensuring the operational business, using a trouble ticket system (trouble shooting, second/third level support). Automation and continuous optimization of all technical process flows.
+Customization and creation of automation processes and automatic system configurations (scripting) as well as IT Security support to implement hardening/securing of server systems and the services running on them.
+Participation in on-call duty (scope 1 week/month, specially remunerated).
+Restrictions
+        No telecommuting
+            
+
+            
+            No Agencies Please
+            
+        Requirements
+        Successfully completed studies related to information technology or a completed IT training (e.g. IT specialist system integration).
+Passion and enthusiasm for new technologies and topics around: Linux, OpenStack and Docker or Kubernetes.
+Scripting and programming experience - especially in Python, Ansible and Bash.
+Experience in performance monitoring and monitoring of complex virtualized Linux environments through products like check_MK, Nagios, or Grafana/Prometheus, etc.
+Good knowledge with virtualization and containerization environments based on KVM (LibVirt) and Docker.
+Good knowledge of CI/CD tooling (e.g. Git, Jenkins).
+Experience in design, implementation and operation of highly available and centralized storage solutions, such as CEPH, Compellent, DRBD and/or GlusterFS and its connection to OpenStack.
+Initiative and goal-oriented approach to work in our team.
+Contact Info
+        Contact: Pawel Kuzak
+            
+
+            E-mail contact: pawel.kuzak@1und1.de
+
+            
+            Web: https://united-internet.talentry.com/share/job/273022/620141/1666252226/3
+            
+        

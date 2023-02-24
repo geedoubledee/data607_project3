@@ -1,0 +1,58 @@
+
+
+        Job Title 
+
+        Environmental Informatics Scientific Software Engineer
+
+        Job Description
+
+        Requisition Id 9734
+Purpose:
+The Environmental Sciences Division (ESD) of Oak Ridge National Laboratory (ORNL) has an opening for a Environmental Informatics Software Engineer in its Earth Sciences Informatics portfolio. You will research and develop modular and scalable software tools and infrastructure to support data center operations in the Earth, climate, and environmental sciences, such as the Atmospheric Radiation Measurement (ARM) Data Center.
+Major Duties/Responsibilities:
+The ARM Data Center processes, archives and distributes atmospheric observations from observatories across the globe and provides computational infrastructure and analysis tools for the scientific community. In this position, you will work as part of a team to research, develop and operate data analysis workflows and processes at scale in a Computing cluster environment. You will have the opportunity to research, design and develop new creative solutions for increasing large volumes of historical and streaming data analysis on hybrid HPC and in-house computing platforms. This would require formulating necessary solutions using various parallel computing paradigms and tools, Develop innovative solutions to improve the user experience using modern toolsets such as containers (docker, shifter, singularity, etc.), orchestration (e.g. CI/CD pipelines with Kubernetes, Singularity, etc.), programming/scripting languages (e.g. Python, R, BASH, etc.), and data tools (e.g. Jupyter Notebooks/JupyterLab, JupyterHub, etc.). This includes developing and deploying solutions, in addition to implementing user contributed tools and providing instruction on using these tools. You should be able to configure, deploy and update scripts using GitLab CI/CD pipelines. You should be able to develop documentation for systems/applications deployed. You should be able/willing to learn new technologies/techniques to meet programmatic requirements.
+
+
+        Restrictions
+        No telecommuting
+            
+
+            
+            No Agencies Please
+            
+        Requirements
+        Basic Qualifications:
+PhD Degree in Computer Science or Information Systems or related field or Master’s Degree with at least 4 years of experience in software engineering
+Demonstrated software developer experience working in a team environment, contributing to shared goals
+Strong background in real-world computer programming, as applied to earth or biological science applications
+Specific software development methodologies, including test driven development, DevOps, continuous integration, and Agile, particularly in a team environment is a must
+Knowledge and experience in software languages such as Python and scripting languages are a must.
+Preferred Qualifications:
+Ability to function well in a fast-paced engineering and operations environment, set priorities to accomplish multiple tasks within deadlines, and adapt to ever changing needs
+Experience contributing to large, complex software systems and in open source projects.
+Knowledge of any of the following is a plus: High Performance Computing, databases (PostgreSQL, NoSQL), virtualization and container infrastructure (VMware).
+Good communication skills in English, both oral and written.
+Desire to learn and adopt new tools and technologies as required by the projects.
+This position will remain open for a minimum of 5 days after which it will close when a qualified candidate is identified and/or hired.
+We accept Word (.doc, .docx), Adobe (unsecured .pdf), Rich Text Format (.rtf), and HTML (.htm, .html) up to 5MB in size. Resumes from third party vendors will not be accepted; these resumes will be deleted and the candidates submitted will not be considered for employment.
+If you have trouble applying for a position, please email ORNLRecruiting@ornl.gov.
+ORNL is an equal opportunity employer. All qualified applicants, including individuals with disabilities and protected veterans, are encouraged to apply.  UT-Battelle is an E-Verify employer.
+
+        
+
+        
+        About the Company
+        Oak Ridge National Laboratory delivers scientific discoveries and technical breakthroughs needed to realize solutions in energy and national security and provide economic benefit to the nation. We address national needs through impactful research and world-leading research centers. Our wide range of partnerships with other US Department of Energy laboratories and programs, universities, and industry allows us to pair our strengths with others for outstanding contributions to science.
+
+        
+
+        Contact Info
+        Contact: Shelby Sams
+            
+
+            E-mail contact: ORNLRecruiting@ornl.gov
+
+            
+            Web: https://jobs.ornl.gov/job-invite/9734/
+            
+        

@@ -1,0 +1,19 @@
+
+We’re looking for an exceptional data scientist to join our well established research team and work alongside a group of experts from diverse professional backgrounds. We are constantly tackling highly complex problems, aiming to drive business growth and innovation and are looking for highly motivated and creative people with a passion for problem solving.
+What You’ll Do:
+Analyze complex noisy real-life data sets using advanced statistical techniques (such as causal inference and bayesian inference) to discover hidden opportunities.
+Collaborate with stakeholders throughout the organization to leverage research insights to drive business solutions.
+Define innovative metrics that will allow us to measure key performance.
+Assume end to end responsibility for your research project, from initiation through gathering data, developing, deriving insights and generalizing to wider use cases.
+Who You Are:
+M.Sc. / PhD degree in technical / quantitative disciplines or equivalent practical experience.
+4+ years of professional experience implementing statistical, machine learning and mathematical modeling.
+Strong interest in data analysis, statistics, and a passion for learning new technologies and statistical methods.
+Experience with Python.
+Advantage: consulting experience.
+ 
+We’re Via, and we build technology that changes the way the world moves. We pioneered the TransitTech category to ensure that the future of transportation is shared, dynamic public mobility — the kind that reduces carbon emissions across congested cities, minimizes reliance on private cars, and provides everyone with accessible, efficient, and affordable ways of getting around. 
+Via was founded with the guiding principle that we go further when we go together. We’re committed to building and nurturing a team as diverse as the communities we serve. Bringing transportation equity to the world begins with championing equal opportunity in our own offices. All backgrounds, identities, and voices are welcomed and celebrated here.
+We’re proud to be leading a worldwide transportation revolution and modernizing mobility for all. Through intelligently-designed systems and sophisticated algorithms, we craft localized solutions for each one of our global partners. Ready to join the ride?
+Via is an equal opportunity employer.
+

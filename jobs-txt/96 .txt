@@ -1,0 +1,35 @@
+
+We offer a hybrid work environment. Most US-based positions can also be performed remotely (any exceptions will be noted in the Minimum Qualifications below.)For Israel-based positions, we encourage working from our Saarona, Tel Aviv office a few days a week, meeting your colleagues, and having a flexible work environment.
+Summary of Job:
+ 
+As a Senior Product Manager for our Enablement group, you will be responsible for the development, optimization, and launch of products aimed at improving the way we consume & handle data, develop and deliver machine learning models.
+ZipRecruiter’s Enablement group is the secret sauce to how we can move fast and innovate, and is pivotal in the work of all other groups in our organization. Among our recent projects are defining the company’s trusted data layer, building our experimentation framework, and creating flexible ML pipelines to serve our multiple DS teams. These and more, are built to empower hundreds of engineers, data scientists and analysts across ZipRecruiter to model and consume data.
+ 
+Essential functions:
+Work with Executive, Product, Engineering, and Analytics teams to prioritize, launch, and roll-out new data products.
+Construct insightful questions, query, and interpret qualitative and quantitative data.
+Be an internal advocate, educator, and communicator for the products you own.
+Write specs, manage project execution, and define product rollout strategy and communications.
+Communicate product roadmap, learnings, advocate for new features, and write documentation for technical and non-technical audiences.
+What We’re Looking For:
+Communication: You are an excellent communicator. You are comfortable with both synchronous and asynchronous communication, working well with teams across multiple time zones.
+Collaborative: You work exceptionally well across engineering, product, and analytics.
+Knows What's Important: You prioritize based on the business' needs and make smart tradeoffs to support key strategic objectives.
+Analytical: You possess a strong proficiency with analytics and use data to make product decisions, set priorities, and measure success.
+Leadership: You are effective at leading a cross-functional team without authority, driving execution and making team members more productive.
+Efficient: You build minimum viable products, measure, learn, and iterate in a fast- paced environment.
+Hands On: You enjoy rolling up your sleeves and getting into the nitty-gritty every day as needed.
+Customer Centric: You focus on the customer experience, and business use cases, not simply building new features.
+Minimum Requirements:
+3-5 years combined product management, data, or engineering experience.
+You can write a basic SQL query and aren’t afraid to dive into data.
+Experience with AI/ML products.
+Experience working in big data environments.
+Preferred Experience:
+Experience as a product manager developing highly technical products, preferably data products.
+A business-level understanding of technical concepts such as APIs, relational databases, data formats (ex. CSV, XML, JSON, etc.), systems design.
+Bonus if you have:
+Experience with data infrastructure challenges.
+ZipRecruiter is proud to be an equal opportunity employer and provides equal employment opportunities (EEO) to all employees and applicants without regard to race, color, religion, sex, national origin, age, disability, veteran status, sexual orientation, gender identity or genetics.
+Privacy Notice: For information about ZipRecruiter's collection and processing of job applicant personal data for this job, please see our Privacy Notice at: https://www.ziprecruiter.com/careers/job-applicant-privacy-notice
+

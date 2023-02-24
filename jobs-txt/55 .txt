@@ -1,0 +1,50 @@
+
+Data and Machine Learning (ML) are revolutionizing the way of doing business at a global scale. sennder is a European digital freight forwarder with a data-centric problem-solving approach to build the next generation of supply chain and road logistics services. Do you want to help us to shape the future?
+We are looking for a Senior) Machine Learning Engineer (MLOps) o join our central Machine Learning Engineering team as part of sennder’s Data department. The department’s mission is to “Relentlessly build exceptional value-adding products that inspire data-centricity in everything sennder does”. We’re a large, diverse team of ML/data engineers, data scientists, analysts and technical product people that are passionate by such mission. We want to attract and train world-class talent to form a incredible group that aim to provide you with the most productive and growth-friendly time of your career.
+All Data dept. teams are multidisciplinar (e.g.: data engineering, MLOps, Data Science). The teams’ scope ranges from creating a unique technological backbone for our data platform to developing advanced predictive and prescriptive analytical services. Our proprietary data platform enables our operation teams to work in a distributed analytics-as-a-service ecosystem where everyone is empowered to be data driven in every decision they make. Our predictive and prescriptive analytics services bring us an unprecedented competitive advantage in terms of business automation across the industry. The obtained insights are then translated in a better customer experience, enabling a scalability flywheel data and revenues grow exponentially with eachother.
+Every day, we acquire 3M+ new real-time data points (augmenting by the day!) about the cross-region road logistics industry in Europe. This data is used to build the future of logistics marketplaces where pricing optimization, load-to-carrier recommendation, load search and network optimization happen in an automated fashion.
+Can you even imagine where we can go with your help? Let’s #keepOnTrucking... together!
+ 
+YOUR MISSION:
+Design and maintain scalable ETL data pipelines 
+Design and develop health and performance monitoring tools (MLOps) of data pipelines and the machine learning services in production;
+Design and improve heterogeneous, asynchronous and high-performance large-data processing pipelines from/to multiple sources/destinations;
+Operationalize innovative, data-intensive, end-to-end machine-learning(ML)-based decision engines;
+ 
+YOUR PROFILE:
+You are someone who
+Has extensive experience with one or more orchestration tools (e.g Airflow, Flyte, Kubeflow)
+Has experience working with MLOps tools like experiment tracking, model registry tools and feature stores (e.g MLFlow, Sagemaker, Azure)
+Has extensive experience with DevOps focused around data intensive applications. You are comfortable with infrastructure-as-code, you have used the likes of Terraform, Kubernetes extensively. 
+Has experience building and scaling model serving tools, i.e building APIs with tight SLAs.
+Adheres to best coding practices. You find joy in beautifully written code. 
+Works the best in Agile teams.
+Has experience with a programming language(Python preferred).
+
+ 
+BONUS:
+Experience in the digital logistics industry.
+Experience in Machine Learning modelling, especially in Pricing, Recommendations.
+Mentoring experience.
+ 
+ABOUT sennder:
+sennder is moving trucks with the power of data to unlock endless and sustainable capacity at unparalleled quality. Through our proprietary transportation operating system, built by our in-house tech teams, we not only connect shippers to our fleet of thousands of trucks, but also improve how they move products in sustainable, cost-efficient, and transparent ways - making the logistics industry fit for the future. In a traditional industry, we’re growing and moving fast to digitally automate all road logistics processes. 
+We are building a curious team that is driven by an ambitious desire to solve the toughest logistics puzzles. What others may consider uncertainty, we see as an opportunity to learn and be proactive. We invite you to go on this journey with us and be part of one of Europe’s inspiring growth stories as we fast-forward road logistics into digitalization. 
+ 
+Get to know us, our culture, green business, funding history, and more on our blog here.
+ 
+Why Us?
+At sennder, we want to maximize the individual’s potential for all employees and reinforce an inclusive culture and environment of continuous learning that empowers people to succeed as a team. In addition to humility, we value commitment, team spirit, respect, and kindness to build trusted relationships across teams. Learn more on our career site. 
+A fast-growing, start-up-oriented international team of 1000+ people with 65+ nationalities spread across 8 country offices with English as our company language.
+Continuous feedback and bi-annual review process for personal development, professional growth, and career opportunities. We also use “Objectives and Key Results” for company goals.
+A structured promotion process, providing everyone with fair and transparent career growth.
+Learning and development opportunities on the job and through conversations with your manager.
+Various opportunities to connect with colleagues, formally and informally, digitally or in-person (when allowed), through regular team events, company get-togethers, and partnership events with other companies and local organizers.
+Flex/hybrid remote working options.
+When in office: unlimited snacks, drinks, and fruits.
+All interviews are currently conducted on a remote basis.
+Please send your application in English and help us reduce negative unconscious bias by leaving out your picture, age, address, and other unnecessary information in your CV. We only want to know the merits on which you’d be great for this role.
+We value humility and we're as interested in your character as we are in your talent. Please apply, even if you feel you only meet part of our listed criteria. Diversity drives our innovation and we offer a collaborative, dynamic and international work environment. Just be yourself. We are excited to meet you and for you to join us in shaping the future of the logistics industry in Europe.
+If you have any questions or problems please reach out to us at ta@sennder.com. We do not accept applications via email.
+#LI-MS1
+

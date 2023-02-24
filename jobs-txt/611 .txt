@@ -1,0 +1,28 @@
+
+Capco is a global technology and management consultancy dedicated to the financial services industry. We are innovators who combine a disruptive, design thinking approach with unrivaled, first-hand industry knowledge, and technology acumen. We facilitate the handshake between business and technology to deliver end-to-end consulting services and solutions. We help our clients transform and advance their businesses, increase revenue, and manage risk and regulatory change. We are hiring creative, motivated, diligent, passionate, and committed people who are ready to make an impact.
+Joining Capco means joining an organization that is committed to an inclusive working environment where you’re encouraged to #BeYourselfAtWork. We celebrate individuality and recognize that diversity and inclusion, in all forms, is critical to success. It’s important to us that we recruit and develop as diverse a range of talent as we can. We believe that everyone brings something different to the table – so we’d love to know what makes you different.
+We are/have:
+Experts in banking and payments, capital markets, and wealth and asset management
+Deep knowledge in financial services offering, including e.g. Finance, Risk and Compliance, Financial Crime, Core Banking, etc.
+Committed to growing our business and hiring the best talent to help us get there
+Focused on maintaining our nimble, agile, and entrepreneurial culture
+JOB SUMMARY:
+As a Java Developer at Capco, you will be working with consulting teams for the world’s largest financial services firms.
+Experience- 3 -7 Years
+Key Skills Required:
+Deep understanding and experience on document scanning, OCR and process automation
+Computer vision: text recognition and machine vision 
+Strong programming skills Python
+Natural Language Processing (NLP), content extraction, classification, machine translation, text generation
+OpenCV, Tesseract, TensorFlow and similar open-source technologies
+Pytorch, SQL, Sagemaker, Numpy, Pandas, Keras, Random Forest, XGBoost and similar
+Experience with supervised image classification techniques
+Strong understanding of text pre-processing and normalization techniques, such as tokenization, POS tagging, and parsing, and how they work at a basic level.
+Exposure to image conversion tools like Spire
+WHY JOIN CAPCO?You will work on engaging projects with some of the largest banks in the world, on projects that will transform the financial services industry
+We offer:
+A work culture focused on innovation and creating lasting value for our clients and employees
+Ongoing learning opportunities to help you acquire new skills or deepen existing expertise
+A flat, non-hierarchical structure that will enable you to work with senior partners and directly with clients
+A diverse, inclusive, meritocratic culture
+

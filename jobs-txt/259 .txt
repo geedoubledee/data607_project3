@@ -1,0 +1,52 @@
+
+
+        Job Title 
+
+        Software Developer
+
+        Job Description
+
+        If you are passionate about development, then it is time to work on a great Open Source project where your work will count!
+We develop open source apps to help millions of employees save time in their day-to-day job.
+Our projects include:
+Business Apps: from point of Sales, to logistics and accounting, we have plenty of projects around business apps (improvement, creation of new features,...)
+Frontend UI: Odoo Spreadsheet (an open source Google Spreadsheet alternative), a react/vue style JS framework (the fastest VDOM ever developed).
+Python Framework: It's all about perf and optimizations. (ORM based on PostgreSQL)
+Mobile: All Odoo apps run on iOS and Android hybrid mobile apps.
+Website / Builder: An open source website builder & eCommerce, to help entrepreneurs launch their website by themselves, without technical hassle.
+API / Connectors: Integrate Odoo with payment processors, carriers, or other services.
+Security: from product security (code reviews, security patches) to system administration issues (pentesting, best practices, etc.).
+After 3 weeks of initial training (both functional & technical), we'll present you teams looking for new members and you'll choose the one you prefer.
+
+
+        Restrictions
+        No telecommuting
+            
+
+            
+            No Agencies Please
+            
+        Requirements
+        Object-oriented programming language
+Passion for development
+Quick & Autonomous learner
+Read & Written English
+Contribution to Open Source Projects
+Bachelor or Master Degree (the diploma is not the most important, you can apply without diploma)
+Python, JavaScript (we don't expect you to master our technologies but we expect you to master any programming language, no matter which one)
+About the Company
+        We think business software should cover complex needs without being complicated.
+Our mission is to provide software that is intuitive, full-featured, tightly integrated, effortless to upgrade, all while running smoothly for every business, every user.
+
+        
+
+        Contact Info
+        Contact: Emy Gilson
+            
+
+            E-mail contact: egi@odoo.com
+
+            
+            Web: https://www.odoo.com/jobs/apply/software-developer-1?utm_campaign=Job+Campaign+%5B291%5D&utm_medium=Website+%5B1%5D&utm_source=python.org
+            
+        

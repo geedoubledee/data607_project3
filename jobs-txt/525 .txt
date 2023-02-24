@@ -1,0 +1,59 @@
+
+
+        Job Title 
+
+        Security Developer in Residence
+
+        Job Description
+
+        The Python Software Foundation (PSF) is hiring for a full-time Security Developer in Residence, reporting to the PSF Director of Infrastructure.
+Role description
+In support of The PSF’s mission , we are hiring to facilitate a role within the Python community that will focus on assessing and improving the security of the language, ecosystem, infrastructure, and services around the Python language, and the Python ecosystem’s open-source software supply chain.
+As the Security Developer in Residence, you will work full time across a number of key projects of the PSF, applying your technical expertise to design, develop, test and propose changes with a security-minded focus.
+As an externally funded role, the term for this position will initially be one year with the possibility of extension based on available funding or renewals of funding.
+Responsibilities
+Organize and complete a third party security audit of PyPI
+Produce a security roadmap that will help PSF sustainably improve the security posture of CPython, PyPI, and the broader Python ecosystem
+Apply knowledge and expertise to triage and address security issues across PSF projects
+Work with volunteers to implement key improvements in open-source projects in a timely manner
+Formalize existing security practices and help Python projects become more proactive with regards to security improvements
+Establish new processes and features that make it easier to prevent, detect, and respond to security risks, to make it easier and more sustainable for the community to identify and address security issues going forward
+Advocate for security improvements and best practices in the Python community
+Establishing a security metric to demonstrate sustained and renewable impact
+Participation in relevant working groups and meetings with our external funder to help share lessons and challenges
+Restrictions
+        Telecommuting is OK
+            
+
+            
+            No Agencies Please
+            
+        Requirements
+        Minimum Qualifications
+Experience with Python and open-source security
+Experience collaborating in open source environments
+Experience in a technical or other leadership role
+Preferred Qualifications
+Significant experience with open source software development and open source tools and best practices, as a contributor and/or as a maintainer.
+Strong knowledge of security engineering, computer and network security, authentication, security protocols and applied cryptography.
+About the Company
+        Details
+Applicants from around the world are welcome for this remote position. If the applicant is based outside the USA, the PSF would offer an independent contractor role, structured with autonomy to meet agreed goals of the position in the manner you determine; income may be subject to US income tax. If the applicant is within the USA, the PSF would offer a full-time employee role with compensation including salary, 401K, as well as health (full premium paid by the PSF), dental, and vision insurance and paid time off. Total compensation will range from $150k-$300k USD based on qualifications and experience.
+This position will report to the Director of Infrastructure. Some recurring availability within the US Eastern/Central time zone will be necessary for check-ins and reporting.
+Apply
+The call for resumes will be open until March 3rd, 2023. Please use the form here to apply.
+The Python Software Foundation is a US 501(c)(3) non-profit corporation that holds the intellectual property rights behind the Python programming language. We also run the PyCon US conference annually, support other Python conferences/workshops around the world, and fund Python-related development with our grants program. To see more info about the PSF, check out our Annual Impact Report and public records.
+We believe that the future of open source must include everyone. We welcome all job-seekers regardless of race, color, ethnicity, religion, age, sexual orientation, gender identity or expression, national origin, physical appearance, body size, socio-economic, veteran or disability status. Python is a global community and the PSF aims to support a safe environment for all. More information can be found on our Code of Conduct page.
+
+        
+
+        Contact Info
+        Contact: Deb Nicholson
+            
+
+            E-mail contact: apply+security@python.org
+
+            
+            Web: https://jobs.pyfound.org/apply/TwgMP1b4OV/Security-Developer-In-Residence
+            
+        

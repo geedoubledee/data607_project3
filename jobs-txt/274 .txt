@@ -1,0 +1,55 @@
+
+
+        Job Title 
+
+        Full Stack Developer (FastAPI/VueJS)
+
+        Job Description
+
+        We are seeking a Developer to support the enhancement and further development of our platform build using FastAPI and Vue.JS.  The role is ideal for someone who enjoys solving complex business problems and making a difference in a collaborative start-up environment.
+The successful candidate will have at least 4 years’ experience developing web applications and have a passion for web technologies.  Our stack is FastAPI and VueJS, but we are open to using other new and exciting technologies! This is a fantastic opportunity if you are looking to work with leading edge web technology, learn new things daily, and contribute innovative ideas to a growing platform.
+What you’ll do
+Application development using FastAPI and Vue.JS
+Integrating with 3rd party APIs.
+Build new features and enhancements.
+Proactively identify system enhancements
+Work with clients and end users to scope out future system developments
+Restrictions
+        Telecommuting is OK
+            
+
+            
+            No Agencies Please
+            
+        Requirements
+        Required Skills and Experience
+Expertise with Python and related tools (Poetry, SQLAlchemy)
+Expertise with TypeScript and related tools (npm, vite, Vitesse, cypress.io)
+Using SQL databases such as Postgres
+Experience building and interacting with RESTful APIs.
+Familiarity with GNU/Linux
+Git Version control
+Track record of meeting business problems with technology solutions
+Thrive in a team environment and work well with others
+Nice to haves
+Financial services experience
+AWS
+QuickSight
+Docker
+Data science/Machine Learning experience
+Mobile development
+About the Company
+        We are a team of technologists and financial advisers dedicated to transforming the wealth management business.  We believe the industry needs a major overhaul to provide the best wealth management tools and advice to everyone not just a limited few.
+
+        
+
+        Contact Info
+        Contact: Matt Davis
+            
+
+            E-mail contact: tech-jobs@aventur.co.uk
+
+            
+            Web: https://www.aventur.co.uk/
+            
+        

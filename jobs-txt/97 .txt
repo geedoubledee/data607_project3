@@ -1,0 +1,38 @@
+
+Senior Machine Learning Engineer
+About Us: We are a software development company with headquarters in Manhattan, New York, and have been at the forefront of large-scale, high-performance web development for over a decade. We have diverse clients in Media, Advertising Finance, and Healthcare industries  including companies such as Warner Media Group, The New York Times, eBay, Etsy, NYU Medical Center, Match.com, SAP, Grubhub, LinearFT, adMarketplace, and dozens of others.About You:You are obsessed with cool technology and excited by helping ambitious businesses build awesome applications. You have great communication skills, believe in teamwork over heroics, have experience working with globally distributed teams, take an agile approach to development, and are an exceptional problem-solver.
+Responsibilities
+Manage the entire process of ML projects and solutions, from concept development to data acquisition, exploration, engineering, prototyping, and implementation in production.
+Create and implement procedures and tools to track and evaluate the performance and accuracy of models and data.
+Provide thought leadership, subject matter expertise and serve as trusted advisor in machine learning, deep learning, and other state of the art AI techniques.
+Experience delivering high quality software at scale in a low latency environment.
+Translate research papers into high-quality, production-ready code.
+Take responsibility and ownership of features and drive key architectural decisions.
+Communicate effectively, collaborate, and build long-term relationships across the organization.
+Mentor junior team members in achieving engineering excellence and be a change agent on the team.
+Basic Qualifications
+A PhD with 2-3 years of experience or an MS with 3-5 years of experience in a quantitative field with experience building production systems or have equivalent experience working with large ML projects in industry.
+Proven expertise in at least one of the following domains: NLP, relevance, ranking, recommendation systems, and search.
+Experience in writing distributed, low-latency, high-throughput ML services.
+Knowledge of how to deploy and maintain ML services in a production environment.
+Experience in designing and deploying feature engineering pipelines.
+Deep expertise in model monitoring and ML ops including containers and orchestration.
+Fluency in one of the programming languages, preferably Python or Java.
+Experience with Spark, Hadoop or other distributed frameworks, SQL, and cloud services.
+Experience with ML packages such as Tensorflow or PyTorch, scikit-learn, and Spark ML.
+Ability to operate efficiently in a high-paced, multi-functional, and rapidly evolving environment.
+Preferred Qualifications
+5+ years of experience in building ML models in the ads space or search relevance.
+Experience in building CTR prediction, ad selection, and Learning to Rank models.
+Experience in building and deploying online experimentation frameworks to identify right models and features at scale.
+Lineate is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees.
+We offer:
+Official employment
+Aditional Health Insurance for an employee and + 1 member of their family
+Gym membership
+English lessons
+Office in the center of Tbilisi
+A warm team of strong professionals
+All the advantages of working in an international IT company
+ Lineate is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees.
+

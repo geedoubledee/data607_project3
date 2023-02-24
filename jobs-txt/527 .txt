@@ -1,0 +1,43 @@
+
+
+        Job Title 
+
+        Data Manager (f/m/d)
+
+        Job Description
+
+        You have a passion for digital data products and want to make a difference in a company with an agile environment and flat hierarchies? We have more than just a job waiting for you: Become part of our Data Intelligence team and develop new, innovative data products on a state-of-the-art data platform as a Data Manager (f/m/d) together with your stakeholders and software development.
+You proactively support our stakeholders with your technical know-how in the development of data products and expand your technical understanding of our business in dialog.
+You independently design, develop and operate ETL routes based on SQL and Python to provide innovative products with the necessary data.
+You create reports and dashboards to ensure appropriate presentation and use for internal and external customers.
+You will actively support the further development of our data platform by contributing ideas and requirements that you identify during the planning and implementation of data products.
+Restrictions
+        No telecommuting
+            
+
+            
+            No Agencies Please
+            
+        Requirements
+        You have completed a (business) / computer science degree, completed a comparable training or have relevant professional experience in the field of data management or data engineering? You enjoy working with different departments and development units? Are you a real team player, do you have a passion for data and innovation, and do you have a hands-on attitude? Then we are looking forward to your application!
+You have solid experience in handling structured and unstructured data in various systems such as relational databases and object storage systems.
+In addition to a broad basic understanding of technology, you have very good SQL and Python skills.
+Ideally, you have first experiences with Business Intelligence tools such as MicroStrategy.
+You work independently and in a structured manner and attach importance to sustainable documentation.
+You are communicative, enjoy working in cross-functional teams and are assertive in dealing with stakeholders.
+You have a good command of German and English.
+About the Company
+        We are the exclusive media marketer and dialog specialist of the United Internet Group. Many years of expertise and sound know-how, leading technologies such as Target Group Planning (TGP), innovative products, creative concepts and the bundled reach of United Internet's portals - WEB.DE, GMX, 1&1, mail.com - as well as partner portals Das Telefonbuch, Das Örtliche and Gelbe Seiten make us one of Germany's leading marketers.
+
+        
+
+        Contact Info
+        Contact: Pawel Kuzak
+            
+
+            E-mail contact: pawel.kuzak@1und1.de
+
+            
+            Web: https://united-internet.talentry.com/share/job/254329/620141/1656528305/3
+            
+        

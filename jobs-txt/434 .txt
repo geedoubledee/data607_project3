@@ -1,0 +1,25 @@
+
+Passionate about precision medicine and advancing the healthcare industry?
+Recent advancements in underlying technology have finally made it possible for AI to impact clinical care in a meaningful way. Tempus’ proprietary platform connects an entire ecosystem of real-world evidence to deliver real-time, actionable insights to physicians, providing critical information about the right treatments for the right patients, at the right time.
+Our data accelerates the pace of innovation, empowering researchers to characterize disease, discover new opportunities, maximize clinical trial success, and ensure new therapies reach the right patients. As a Tempus employee you will have access to the world’s largest real-world patient clinical data set linked to transcriptomics and digital pathology.
+What you’ll do:
+Support partnership development between Tempus and the Life Sciences industry by identifying patient cohorts for Tempus’ oncology data licensing business
+Partner with Tempus’ Pharma Business Development and Life Sciences Strategy & Operations teams to generate fit-for-purpose cohorts supporting pharma research
+Support monitoring of the volume and profiles of inbound requests in order to generate insights into customer needs
+Support code maintenance and documentation
+Qualifications:
+1+ years of relevant work experience, preferably in an analytical or consulting role within or in support of the Life Sciences or Healthcare industry
+Experienced in SQL and Proficient in R and/or Python
+Experience using Excel, Google Sheets, or equivalent spreadsheet software
+Strong interest in oncology, cancer genomics, molecular biology and/or clinical trials
+Experience building client-ready deliverables and other outputs
+Experience working with unstructured data and translating raw data into practical insights
+Experience with data manipulation and cleaning
+Strong communication skills
+Ability to take ownership of deliverables, navigate ambiguity and juggle multiple projects simultaneously
+Goal orientated, self motivated, and driven to make a positive impact in healthcare
+Thrive in a fast-paced environment and willing to shift priorities seamlessly
+
+#LI-GL1
+#LI-RemoteWe are an equal opportunity employer. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.
+

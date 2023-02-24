@@ -1,0 +1,93 @@
+
+
+        Job Title 
+
+        Remote Python Software Engineer (Contract 1099/C2C)
+
+        Job Description
+
+        We are looking for a Python Software Engineer Contractor with deep object-oriented programming chops and DevOps skills to join us in developing and maintaining various serverless microservices. This is a contract opportunity and an opportunity to work with some state-of-the-art technologies and solutions.
+$80 Per Hour
+Weekly Pay
+Duration: 8 months + Extensions
+1099 or C2C only
+Restrictions
+        Telecommuting is OK
+            
+
+            
+            No Agencies Please
+            
+        Requirements
+        Technologies Required
+Python
+PySpark
+Databricks
+NoSQL
+API Development & Documentation
+Azure
+DevOps
+Unit Testing
+Duties
+Responsible for the design, development, and testing of python-based data pipelines.
+Design and implement data architecture and the pipeline.
+Responsible for leveraging Databricks in the design, development, and testing of PySpark data pipelines (batch and streaming).
+Responsible for the Design, Development, and testing of cloud artifacts in Azure.
+Responsible for event-driven microservice development on the cloud.
+Responsible for the optimal feature engineering including batch and streaming.
+Collaborates with different teams for project delivery.
+Provides high performance and secure applications.
+Apply data science techniques to develop solutions to solve for business challenges.
+Responsible for the design, development, and test of cloud artifacts.
+Responsible for troubleshooting and debugging cloud applications.
+Responsible for building the unit test to test & cover developed code.
+Nice-to-have:  a basic understanding of Algorithm and ML model development lifecycle.
+Ability to take ML models from data science team and productionalize them.
+Required
+At least 3-years experience with professional Python development
+Deep object-oriented programing skills (Python) in developing and maintaining various microservices.
+Experience writing and testing code, debugging programs and integrating with Event Hub/Kafka and NoSQL Database.
+Experience developing server-side logic and able to test and package standalone python modules.
+Strong experience developing APIs and has written API documentation using Swagger or similar tool.
+Preferred experience with: Azure CLI deployment; Azure DevOps, Azure Bicep, Azure CosmosDB and python virtual environment set-up and interaction.
+Strong DevOps & CI/CD Pipelines: ability to build from scratch – Jenkins, GitHub, Ansible, Terraform, etc.
+Must be familiar with Unit Testing framework including but not limited to JUnit, .Net equivalent, PySpark framework.
+Work from home opportunity; however, must reside in the U.S. and work 8-5 p.m. ET.
+Agile team / standups
+Fluent or proficient in English
+U.S. Only
+Reliable and results-driven
+Infrastructure as code desired
+Ability to setup the project infrastructure in cloud
+Education
+Bachelor or master’s degree in computer science, Engineering, Information Systems or relevant degree is required.
+Interview Prep (you should be able to speak to the following)
+How many years of experience do you have with Python?
+You should have experience with data structures and speak to your experience with data architecture.
+Speak to your experience with creating algorithms.
+You must have experience working in a collaborative environment.
+CI/CD Pipelines: why do we use them and what are the benefits?
+What problem are you most proud of solving and how did you do it?
+What is the difference between monolithic and micro services?
+What is your experience with version control?
+Onboarding Process
+Interview with CEO + client interviews
+Criminal background check
+1 professional reference who can speak to how awesome you are!
+To Apply, please provide the following (required)
+Your updated resume
+Short cover letter explaining your desire for this position.
+1 professional reference
+Send to: jobs@ThoughtfulLogic.net
+About the Company
+        Thoughtful Logic LLC provides information technology consulting and recruiting services nationwide. In business over 11 years.
+
+        
+
+        Contact Info
+        E-mail contact: Jobs@ThoughtfulLogic.net
+
+            
+            Web: https://thoughtfullogic.net/
+            
+        

@@ -1,0 +1,37 @@
+
+About Agoda 
+Agoda is an online travel booking platform for accommodations, flights, and more. We build and deploy cutting-edge technology that connects travelers with more than 2.5 million accommodations globally. Based in Asia and part of Booking Holdings, our 6,000+ employees representing 90+ nationalities foster a work environment rich in diversity, creativity, and collaboration. We innovate through a culture of experimentation and ownership, enhancing the ability for our customers to experience the world.Get To Know Our Team
+The People Team is a purveyor of opportunity, searching the globe for the most talented individuals and offering them an open, collaborative workplace. By prioritizing skill and potential, we have cultivated a powerful assembly of professionals through our drive for equal opportunity and diversity. We make the move to Agoda a breeze with assisted onboarding programs, and we continue to support and enrich our thousands of Agoda employees through individual growth with outstanding learning programs and various means of assistance. Our development of incredible benefits has ensured everyone can stay strong, healthy, and happy during their time at Agoda. Leading ambitious changes and making a positive impact in the lives of our employees, the People Team is a crucial and rewarding part of the Agoda family.
+The Opportunity
+The Senior People Data Analyst will contribute to the People Planning & Analytics organizations’ success by providing pro-active analysis around People data, working with People Team and other Business stakeholders to identify patterns and provide actionable recommendations. As part of the organization, you’ll be working actively on budgeting activities and process and progressive improvement of the tools and processes of the team. This role collaborates closely with Finance and People team stakeholders to ensure activities are aligned with Agoda’s strategic goals and Personnel budget. The rapid growth of the business and the increasing complexity driven by new launches and services make this an exciting, and challenging proposition.
+In this Role you'll get, 
+Add immediate value to the organization by delivering insightful analysis, dashboards and presentations to business & leadership about People data (recruitment, attrition, performance) to support long-term strategic decision making
+Get involved in the operational Budgeting and Workforce planning of the company
+Provide financial analysis & commentary on month-end financials & KPIs/OKRs
+Be a trusted advisor to Business Partners across the organization
+Enhance the understanding and key levers of the Agoda business 
+What You'll need to succeed
+Bachelor’s degree required
+3-5 years of experience as Data analyst, preferably in an HR environment
+2-3 years of practical experience with MSSQL (or equivalent database), Tableau visualization
+High level of discretion, confidentiality and ethics
+Ability to work well with employees in a highly multi-cultural environment
+Strong attention to detail and accuracy
+Self-starter with ability to work independently, while also collaborating with cross-functional teams
+Ownership mindset and ability to meet tight deadlines with a logical, methodical approach to prioritizing tasks and responsibilities
+Great if you have
+Experience with OneStream software
+Workforce planning and Budgeting experience
+Commercial awareness, ability to think both analytically and strategically, to identify about underlying business issues
+Willingness to challenge the status quo and propose improvements in existing processes
+Curiosity and willingness to get involved in the business to understand the story behind the numbers
+
+#STRA#ANLS#MRKT#3#LI-TR2 #sanfrancisco #sanjose #losangeles #sandiego #oakland #denver #miami #orlando #atlanta #chicago #boston #detroit #newyork #portland #philadelphia #dallas #houston #austin #seattle #washdc #tirana #yerevan #sydney #melbourne #perth #vienna #graz #linz #baku #minsk #brussels #antwerp #ghent #charleroi #liege #saopaolo #sofia #toronto #vancouver #montreal #shanghai #beijing #shenzhen #zagreb #cyprus #prague #Brno #Ostrava #copenhagen #cairo #alexandria #giza #estonia #helsinki #paris #nice #marseille #rouen #lyon #toulouse #tbilisi #berlin #munich #hamburg #stuttgart #cologne #frankfurt #dusseldorf #dortmund #essen #Bremen #leipzig #dresden #hanover #nuremberg #athens #hongkong #budapest #bangalore #newdelhi #jakarta #bali #bandung #dublin #telaviv #milan #rome #naples #turin #palermo #venice #bologna #florence #tokyo #osaka #yokohama #nagoya #okinawa #fukuoka #sapporo #amman #irbid #riga #beirut #tripoli #vilnius #luxembourg #kualalumpur #malta #chisinau #amsterdam #oslo #jerusalem #manila #warsaw #krakow #sintra #lisbon #porto #braga #cascais #loures #amadora #almada #doha #alrayyan #bucharest #moscow #saintpetersburg #riyadh #jeddah #mecca #medina #belgrade #singapore #bratislava #capetown #johannesburg #seoul #barcelona #madrid #valencia #seville #bilbao #malaga #oviedo #alicante #laspalmas #zaragozbanga #stockholm #zurich #geneva #basel #taipei #tainan #taichung #kaohsiung #Phuket #bangkok #istanbul #ankara #izmir #dubai #abudhabi #sharjah #london #manchester #liverpool #edinburgh #kiev #hcmc #hanoi #sanaa #taiz #aden #gibraltar #marrakech #lodz #wroclaw #poznan #Gdansk #szczecin #bydgoszcz #lublin #katowice #rio #salvador #fortaleza #brasilia #belo #belem #manaus #curitiba #portoalegre #saoluis data representation data analysis SQL data analytics analytics python (programming language) data mining data science r (programming language) tableau analytical skills data visualization databases business analysis business intelligence (bi) microsoft sql server machine learning statistics power biEqual Opportunity Employer 
+At Agoda, we pride ourselves on being a company represented by people of all different backgrounds and orientations. We prioritize attracting diverse talent and cultivating an inclusive environment that encourages collaboration and innovation. Employment at Agoda is based solely on a person’s merit and qualifications. We are committed to providing equal employment opportunity regardless of sex, age, race, color, national origin, religion, marital status, pregnancy, sexual orientation, gender identity, disability, citizenship, veteran or military status, and other legally protected characteristics.
+We will keep your application on file so that we can consider you for future vacancies and you can always ask to have your details removed from the file. For more details please read our privacy policy.
+To all recruitment agencies: Agoda does not accept third party resumes. Please do not send resumes to our jobs alias, Agoda employees or any other organization location. Agoda is not responsible for any fees related to unsolicited resumes.
+ 
+ 
+ 
+ 
+

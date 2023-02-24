@@ -1,0 +1,65 @@
+
+About Us:
+SentinelOne is defining the future of cybersecurity through our XDR platform that automatically prevents, detects, and responds to threats in real-time. Singularity XDR ingests data and leverages our patented AI models to deliver autonomous protection. With SentinelOne, organizations gain full transparency into everything happening across the network at machine speed – to defeat every attack, at every stage of the threat lifecycle. 
+We are a values-driven team where names are known, results are rewarded, and friendships are formed. Trust, accountability, relentlessness, ingenuity, and OneSentinel define the pillars of our collaborative and unified global culture. We're looking for people that will drive team success and collaboration across SentinelOne. If you’re enthusiastic about innovative approaches to problem-solving, we would love to speak with you about joining our team!What our team does:
+The Ingestion team is responsible for SentinelOne's highly scalable ingest of data from all kinds of endpoints into our Data Platform. Ingesting billions of events every day, handling billions of objects and enabling customers to search and gain insight into their data. All with the ability to scale up and down as needed, minimising costs, maximising efficiency, maintaining high availability at petabyte scale.
+Our team solves non-trivial scale and data problems with a unique blending of cloud, distributed systems, and software optimisation techniques and services.
+Your duties :
+Software Development (70-80% of time)
+Lead implementations of new specifications; Write tests to cover new code or newly found issues;
+Implement with consistent coding patterns with a focus on stability and security
+
+Review Code
+Raise the quality, stability and security of the code for entire team codebase
+Provide guidance and meaningful feedback, understanding broader patterns and downstream and upstream dependencies
+
+Build and Review Technical Specifications
+Document trade-offs in solutions/implementations; Document critical implementation details/pipelines; Review and provide feedback on other specs
+Deeply understands architecture of Ingestion pipelines and connected features
+Architect end-to-end solution for a complex feature with loose problem definition
+
+Support/On-Call Rotation
+Respond/troubleshoot to outage incidents; Fix newly found issues
+
+Teamwork
+Help team members solve problems; Provide feedback; Attend weekly team sync; Provide Daily Standup in Slack
+
+Your tools:
+Primarily modern Java, Go, Python, Scala, Rust;
+AWS, GCP, FedRAMP
+Kafka, Splunk, S3, Kubernetes, Terraform, Docker, Jenkins, GitHub; Flink;
+You enjoy and your passion:
+You’re passionate about building high-scale elegant and simple distributed systems - and during the past several years you’ve successfully designed & implemented them (using Java or similar), to solve complex problems
+You enjoy a collaborative development process using design discussions and code review
+You’re looking for the technical challenges of ingesting and processing petabytes of data daily
+We’d appreciate / You’d learn & gain:
+You possess solid foundation on building ingestion pipelines, experience with solving high volume streaming challenges and scaling
+You can identify relevant improvements/solutions in the literature & bring them into production when they fit
+You enjoy writing modern Java, Scala, Go and you want to learn Rust
+Deep understanding of technology trade-offs and costs of different options, to keep the system stable and scalable
+Hands-on experience with Kafka
+What we offer you
+Salary from 5000 EUR/month.Yearly % bonus depending on the performance of the company, paid out in 2 installments.*The final base salary component can be increased accordingly to individual skills and experience of the selected candidate.
+On top of that you may look forward to:
+Flexible working hours & Full remote within Slovakia; optional membership in Regus co-working spaces; in Czechia we also have offices in Prague or Brno
+Generous employee stock plan in the form of RSUs (restricted stock units)
+Flexible Time Off (on top of the standard 5 weeks of vacation)
+Flexible Paid Sick Days
+Fully Paid Short Term Sick/Short Term Nursing Leave
+Global gender-neutral Parental Leave (16 weeks, beyond the leave provided by the local laws) & Grandparent Leave
+Volunteering paid day off & Additional paid Company holidays and Wellness days off (e.g. 6 days in 2022)
+Pension insurance contribution
+Premium Life Insurance covered by S1
+Cafeteria points (5.000 CZK/month), which you can spend on leisure & sports, kindergarten/school fees, travel etc. 
+Private medical care membership
+Global Employee Assistance Program (confidential counseling related to both personal and work life matters)
+High-end MacBook or Windows laptop, Home-office-setup gear & on top of that additional WFH Allowance
+Udemy Business platform for Hard/Soft skills Training & Support for your further educational activities/trainings
+Above-standard referral bonus
+Yearly bonus depending on the performance of the company
+On top of RSUs, you can benefit also from our attractive ESPP (employee stock purchase plan)
+Refreshments & snacks at the offices (+weekly massages & yoga at Prague office)
+Optional company events for those who like to meet outside of work too (sport, BBQ, charity, offsite etc.)
+SentinelOne is proud to be an Equal Employment Opportunity and Affirmative Action employer. We do not discriminate based upon race, religion, color, national origin, gender (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender identity, gender expression, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics.
+SentinelOne participates in the E-Verify Program for all U.S. based roles. 
+

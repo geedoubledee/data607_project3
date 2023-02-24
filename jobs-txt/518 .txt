@@ -1,0 +1,44 @@
+
+
+        Job Title 
+
+        Big Data Developer (f/m/d)
+
+        Job Description
+
+        To further expand our data-driven decision-making and modern platform, we are looking for an experienced backend developer.
+Our cross-functional, agile teams give you a say in various phases. Whether you prefer to work in one of our local offices or entirely remotely, we offer flexible working hours and value a healthy work-life balance. In addition, you can expect a variety of training courses, ranging from technical topics such as IT security to soft skill training such as moderation. You also have the opportunity to participate in internal and external conferences and to develop yourself personally continuously.
+You will continuously develop our Big Data infrastructure using appropriate technologies such as Java, Python, or R.
+You integrate our various data sources into platforms/systems such as PostgreSQL, Elasticsearch, S3 (on-premise and cloud), and Kafka.
+You optimize our infrastructure, using containers (Kubernetes) and setting up CI/CD pipelines with, e.g., GitHub and Gitlab.
+You are part of the architectural decisions, write clean, maintainable, testable code, and bring in new ideas to improve the codebase and services.
+You will work with colleagues across the group daily, e.g., with other backend developers, colleagues from Quality Assurance, Application Management, as well as Operations Engineers and our Business Engineers.
+Restrictions
+        No telecommuting
+            
+
+            
+            No Agencies Please
+            
+        Requirements
+        Your passion is backend development, and your ambition is to develop reliable and robust services for our business partners? Would you like to be part of a cross-functional development team? Do you want to learn new things and are a real team player? Then we are looking forward to your application.
+You have several years of experience in developing distributed Big Data systems and handling large data sets.
+Programming languages such as Java, Python, and R are not foreign to you.
+You are familiar with modern principles such as Cloud-Native, keep your knowledge up-to-date regarding new trends & technologies, and have hands-on experience with Docker, Kubernetes, and Kafka.
+You are a strong communicator, your way of working is precise, and you like to take responsibility.
+You have no difficulties in quickly familiarizing yourself with complex systems. You appreciate working in an agile team and have good German and English skills.
+About the Company
+        With its business applications, IONOS is one of the leading hosting and cloud applications providers in Europe. With our state-of-the-art technologies, we convince more than 8 million customers in many different countries every day.
+
+        
+
+        Contact Info
+        Contact: Pawel Kuzak
+            
+
+            E-mail contact: pawel.kuzak@1und1.de
+
+            
+            Web: https://united-internet.talentry.com/share/job/292290/620141/1675240789/3
+            
+        

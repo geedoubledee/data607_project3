@@ -1,0 +1,23 @@
+
+About the job
+Novateur stands for Innovation. We value creativity, vision, collaboration, and above all, ambition to innovate. Novateur Research Solutions is an R&D firm located in Northern Virginia. We are looking for Scientists and Mathematicians to join our research team and help us solve challenging scientific and computational problems in machine learning, computer vision, spatiotemporal data mining, and related areas.
+As part of the Novateur Team, you will actively collaborate with world-renowned researchers in academia and industry to develop cutting-edge technologies for smart systems. You will have opportunities and professional freedom to create novel research and technical directions in your areas of interest, attend major scientific conferences and seminars, and publish research papers.
+What You'll Do:
+· Collaborate with other researchers at Novateur and academia to solve challenging scientific and operational problems in machine learning, computer vision, spatiotemporal data modeling, and related areas.
+· Develop mathematical models and implement novel algorithms that leverage and enhance the state-of-the-art technologies in machine learning, spatiotemporal data mining, computer vision to enable smart systems.
+· Write research papers and present results.
+· Help identify new research directions.
+What We are Looking for:
+· Masters or PhD. (preferred) Degree in computer science, engineering, physics, applied mathematics or a related field.
+· Efficient and scalable algorithm design and problem-solving skills.
+· Hands-on experience and proficiency in software prototyping.
+· Innovative researcher with passion for working on cutting-edge technologies.
+· Ability to work in a dynamic and fast-paced environment.
+· Team player with positive and collaborative mindset.
+· Excellent written and oral communication skills.
+· Strong record of research publications.
+· Our current focus areas include geospatial and spatiotemporal data mining, largescale microsimulation, medical image analysis, computer vision, and knowledge-based reasoning. Prior research in one or more of these areas is a plus.
+Company Benefits:
+Novateur offers competitive pay and benefits comparable to Fortune 500 companies that include a wide choice of healthcare options with generous company subsidy, 401(k) with generous employer match, paid holidays and paid time off increasing with tenure, and company paid short-term disability, long-term disability, and life insurance.
+We offer a work environment which fosters individual thinking along with collaboration opportunities within and beyond Novateur. In return, we expect a high level of performance and passion to deliver enduring results for our clients.
+

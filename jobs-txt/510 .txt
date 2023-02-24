@@ -1,0 +1,50 @@
+
+
+        Job Title 
+
+        Senior Django Engineer
+
+        Job Description
+
+        Fabius Labs is looking for an experienced Django developer to assist with feature development and maintenance on an existing Django project.
+Implement new features on backend and frontend
+Improve web-based user interfaces and user experience
+Integrate with external services
+Ensure maintainability of the codebase
+Optimize Django to improve performance and scalability
+This role is a contract position and is remote-only.
+Restrictions
+        Telecommuting is OK
+            
+
+            
+            No Agencies Please
+            
+        Requirements
+        Characteristics
+Proficient in building and maintaining large-scale Django projects
+Solid understanding of relational databases
+Capable of implementing Figma designs using HTML, CSS, and JavaScript
+Experienced in integrating with external services such as Zapier
+Strong English communication skills are required
+Preferred
+Comfortable working in the Agile software methodology using Jira and GitHub
+Familiarity with Tendenci (an open-source Django-based Association Management Software)
+About the Company
+        Fabius Labs is a full service product agency providing strategy, software, data, and technical support from mission-aligned talent. We serve clients that advance humanity while promoting free speech, the free market, and liberty. Whether that is a big internet company creating a product to reach millions of users, an education entity expanding access to high quality curriculum, or a brand that sells snacks and supplements to promote a healthy lifestyle, we work for a variety of industries with varying needs. We help our clients by:
+Finding and deeply understanding their target customers
+Optimizing their operations, organizational structure and resource allocation
+Designing intuitive user experiences, delightful brands, and beautiful graphics
+Helping them answer critical business questions with their data
+Building and shipping MVPs on web and mobile
+Auditing and refactoring existing technical stacks
+Contact Info
+        Contact: Tony Silva
+            
+
+            E-mail contact: tony@fabiuslabs.com
+
+            
+            Web: https://www.fabiuslabs.com/careers/senior-django-developer
+            
+        

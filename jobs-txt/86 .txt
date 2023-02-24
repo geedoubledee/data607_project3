@@ -1,0 +1,39 @@
+
+About the job
+The Samas R&D team is focused on delivering integrated solutions solving the most complex ML problems for customers of Fortune 2000. We use advanced Software Engineering practices to build scalable, secure, and efficient solutions covering multiple aspects of ML and AI, from data ingestion to annotation and building and operating ML models. We are looking for an incredible Front-End Senior Software Developer ready to join in and use their outstanding development skills to deliver compelling solutions powering the next generation of 2D and 3D image annotation for training AI/ML learning algorithms.
+In this role, in particular, you will have to deal with our data engineering infrastructure from a programmatic perspective, using Apache Spark to develop highly scalable data flows that allow us to process the image annotation data processed to power our client's Machine Learning algorithms. You will be expected to develop high-quality big data processing code while being mentored by our experienced developers in the data engineering and analytics team.
+ 
+Key Responsibilities:
+Write Python code to modify our existing data pipelines and create brand new ones
+Write unit and integration tests to thoroughly ensure the quality of our data pipelines
+Manage the deployment of data pipelines to local, development and production environments
+Aid in the design of our different data source layers
+Integrate our data sources with Analytics tools used by our key stakeholders
+ 
+Minimum Qualifications:
+2y+ Hands-on software development experience
+OOD/OOP software engineering experience
+Able to design, develop, test, and optimize code
+Basic SQL querying experience
+ 
+Preferred Qualifications:
+At least one modern language on the back end (Golang, C#, Java, Python)
+Distributed data processing framework (e.g. Apache Spark, Dataflows)
+Cloud infrastructure (AWS, GCP, Azure)
+Relational storage (Postgresql, SQL Server)
+NoSQL storage
+ About Sama 
+Sama provides high-quality training data that powers AI technology for Fortune 2000 companies such as Google, Walmart, Ford, Microsoft, and Marriott. We’re experts in data curation and data annotation for 2D and 3D image, video, and sensor data for machine learning algorithms.. Sama offers the highest quality SLAs in the industry, along with cutting-edge ML-assisted annotation tools, QA processes, and security and compliance standards. 
+Founded in 2008 on the belief that “talent is equally distributed, but opportunity is not”, Sama is driven by the mission to expand opportunities for those who are underprivileged. As a certified B-corp, Sama has provided worker training programs to increase economic opportunity for more than 13,000 people from underserved communities. By connecting our customers with amazing talent in East Africa, we've impacted more than 59,000 workers and their dependents.
+Today, our vision is to provide data scientists, ML engineers, and data operations teams with an indispensable, integrated platform for AI data preparation, labeling, and collection. 
+For more information, visit www.sama.com.
+More information can be found at:
+Featured in Forbes: How Ethical Is Your AI?
+Sama Honored on Inc. Magazine’s Annual List of America’s Fastest-Growing Private Companies — the Inc. 5000
+Reversing Poverty - Ted Talk by our founder Leila Janah
+Our Culture:
+Sama is quite unique. We are a technology company with a social mission. People that thrive in a high-growth environment, love working on the bleeding edge of technology, and really care about having a positive impact on the world are a great fit for the Sama culture. Our core values are One Team, One Goal - Deliver. Period. - Trust & Transparency - Customer First - Humanity.
+Our Benefits:
+Sama offers competitive compensation commensurate with experience and a full benefits package, including: medical, dental, and vision insurance, long-term disability insurance, life, and AD&D insurance, employer-matching Group RRSP, generous holiday and vacation policies, sabbaticals, a monthly fitness stipend, and professional development opportunities.
+At Sama, we pride ourselves in being a diverse and equal opportunity employer.
+

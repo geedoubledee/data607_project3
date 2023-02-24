@@ -1,0 +1,54 @@
+
+
+        Job Title 
+
+        Lead Data Engineer
+
+        Job Description
+
+        As a Lead Data Engineer at Facet, you will support data analytics, operations and other company initiatives by ingesting data from business systems into a cloud data warehouse, working closely with analysts to model data for optimal accessibility and performance in reports, and move data from the data warehouse or cloud storage to business systems. The ideal candidate will be a natural collaborator and problem solver who possesses a high intellectual curiosity and thrives in a dynamic, fast-paced environment.
+Day-To-Day Responsibilities:
+- Creation and maintenance of enterprise cloud data pipelines
+Leveraging dbt to build and maintain data models for analysis
+Oversee administration (user provisioning and de-provisioning, monitoring budget, overseeing upgrades, etc.) of Data Engineering owned tools: Astronomer (Managed Airflow), Stitch (GUI Integration Tool), GitHub (Code versioning and CI/CD), dbt (Data Transformation Tool)
+Collaborate on administration (specifically monitoring cost and usage) of shared tools: GCP (BigQuery, Cloud Storage, Secret Manager)
+Set up batch data pipelines for new business systems (this includes writing code to ingest data, adding tests to ensure data integrity, modeling data into reporting layer for analysts)
+Monitor alerting channel and fix any issues with existing 27 data pipelines
+Serve as resource for stakeholders on query performance tuning and consulting on data results
+Build new data models as needed for business (for example: monthly subscription status, marketing attribution model, etc)
+Restrictions
+        Telecommuting is OK
+            
+
+            
+            No Agencies Please
+            
+        Requirements
+        Basic Qualifications:
+- 5+ years of experience in a similar role with a architectural purview
+Experience with data orchestration tools like Airflow, Dagster, Stitch or Prefect, or writing custom ETL/ELT data pipelines with Python
+Experience with cloud OLAP databases like BigQuery, Redshift or Snowflake, writing DDL/DML operations in SQL as well as performance tuning queries
+Excellent troubleshooting and problem-solving skills, able to deal with ambiguity and problem-solve independently, as well as have a strong curiosity and passion to seek opportunities for automation and improved reliability
+Knowledge of BI Tools such as Tableau
+Preferred Qualifications:
+- Highly motivated, self-starter, organized, independent with an ability to effectively manage through change and prioritize efforts
+Strong aptitude for technology and the interest and drive to continually expand your technical skill set
+Fundamental analytical and conceptual thinking and problem-solving skills
+Ability to manage multiple projects simultaneously transparently as well as effectively collaborate across teams and to work in a diverse, fast-paced environment
+Proven ability to work in an ever-changing environment, ability to connect the dots and make decisions on your own feet
+Exceptional communication skills including ability to take an independent stance when interfacing with cross functional stakeholders, while maintaining their respect and confidence
+About the Company
+        Facet Wealth's mission is to empower people to live more enriched lives by delivering a new standard of financial advice that elevates expectations across the industry. Facet provides tech-forward unbiased financial planning that covers everything that has to do with money -- benefit selections, major purchase decisions, your investments and more -- so you'll know you're making the right decisions for every facet of life.
+
+        
+
+        Contact Info
+        Contact: Diana Winger
+            
+
+            E-mail contact: diana.winger@facetwealth.com
+
+            
+            Web: https://facetwealth.applytojob.com/apply/vWYeYORM0z/Lead-Data-Engineer?referrer=20230126161405GRG8F3GBWT44JPTJ
+            
+        

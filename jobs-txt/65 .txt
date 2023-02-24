@@ -1,0 +1,41 @@
+
+BigCommerce’s mission is to help merchants sell more at every stage of growth, from small startups, to mid-market businesses to large enterprises. We focus on being the best ecommerce platform so our customers can focus on what matters most: growing their businesses.
+We are equally passionate about growing our employee’s careers and providing them an incredible experience as we rapidly expand across the globe. We are proud to have been recognized numerous times for our product and workplace culture. We empower our people and customers to build, innovate and grow, so together we can redefine the ecommerce industry.BigCommerce is disrupting the e-commerce industry as the SaaS leader for fast- growing, mid-market businesses. We enable our customers to build intuitive and engaging stores to support every stage of their growth.  As Senior Data Integrations Developer, you will help lead the evolution of our data-driven decision-making at scale across the company. This role will be responsible for building, maintaining and supporting data warehousing solutions with an emphasis on creating automated and/or algorithmic approaches that reduce or replace manual effort. You will be instrumental in ensuring access to clean, consistent and logical data to stakeholders in a wide variety of roles.
+**Please submit resume in English for review.** 
+What You’ll Do
+Build and maintain scalable scheduled jobs to extract, load and transform data, in addition to troubleshooting and fixing problems with existing processes. 
+Connect and explore disparate data sources from production systems, business applications and third party data sources.
+Build and maintain data models, experiments, algorithms and related business and financial reporting logic.
+Transform low-value datasets into highly structured and consistent data models for use by analysts, data scientists and reporting tools.
+Develop scalable, efficient, and automated processes and data pipelines, in addition to diagnosing and debugging problems with existing structures.
+Production support required on a rotational basis.
+Make recommendations to improve technical systems and infrastructure.
+Who You Are
+3-5 years experience in a related role
+Possess a Bachelor’s degree in a quantitative field (engineering, statistics, computer science) or equivalent experience, Master’s degree is preferred
+Technical background, preferably in data/analytics, with programming experience or education
+SQL skills are required 
+Python skills plus scripting in 1 or 2 other languages (BASH/Python/JavaScript/etc) required
+Experience with version control software such as Git required
+Experience pulling data from an API using Python and Airflow (or similar technology)
+Familiarity with developing and maintaining ETL\ELT processes and common data transformation techniques (e.g. normalization and denormalization, string parsing, primary key generation)
+Experience with Cloud OLAP database platforms such as Snowflake, Redshift, BigQuery is a plus.
+Exposure to database design, Amazon Web Services, S3 data storage or Linux command
+Quantitative mindset and passion for data
+Able to deal with ambiguity and problem-solve independently
+Self-starter: able to succeed and have an impact with minimal direction
+Ambitious, self-motivated, and goal-oriented
+Excellent time management skills
+Previous SAAS or ecommerce experience a plus
+Fluent in English
+Our ideal candidate will reside in Mexico City, Mexico, Guadalajara, Mexico, or any major city within Mexico
+Strong communication skills, both verbal and written
+INDSP
+#LI-LP1
+#LI-REMOTEDiversity, Equity & Inclusion at BigCommerce
+ 
+Our employees make the difference. At BigCommerce, we believe that celebrating the unique histories, perspectives and abilities of every employee makes a difference for our company, our customers and our community. We are an equal opportunity employer and the inclusive atmosphere we build together will make room for every person to contribute, grow and thrive.
+
+We will ensure that individuals with disabilities are provided reasonable accommodation to participate in the interview process, to perform essential job functions and to receive other benefits and privileges of employment. If you need an accommodation in order to interview at BigCommerce, please let us know during any of your interactions with our recruiting team.
+Learn more about the BigCommerce team, culture and benefits at https://careers.bigcommerce.com.
+

@@ -1,0 +1,25 @@
+
+AppsFlyer is a fast-growing, data-driven company that helps customers make informed decisions. We have a team of analysts and researchers that rely on data to create dashboards and reports that help the company make business and product decisions.
+We are looking for a Senior Data Engineer to design and create data pipelines and data infrastructure that will enable us to transform and extract  large amounts of data from multiple data sources and generate reliable and aggregated data for analytics.The ideal candidate has experience with modern data processing technologies, including Spark, Hadoop, and Airflow, and is passionate about enabling analytics at scale. We use a variety of programming languages, including Scala, Python, and Go.
+What you’ll do
+Develop end-to-end ETLs and data infrastructure features from data processing logic to database choice and implementation through to API development.
+Improve the scalability and performance of existing data pipelines.
+Mentor, advise, and work collaboratively within the Business Data and Development group, with other development teams, and with all other business teams of the company
+Continuously learn and follow new technologies both for personal growth and to ensure we are making the most informed technology choices possible
+What you have
+4+ years of experience in data engineering in Big Data environments 
+2+ years of experience with Spark and its ecosystem.
+Experience using JVM stack, build tools,  and environment (Scala would be preferred).
+Experience with public cloud environments (AWS will be a bonus), Hadoop ecosystem, SQL and NoSQL databases, and SaaS
+High proficiency with Python and at least one JVM-based language (Scala, Java, or Kotlin).
+Proficiency with SQL and experience with ETL and data modeling and development
+Positive attitude and willingness to take ownership
+A mindset of continuous learning and the desire to try new things
+Ability to see the "big picture" and to understand the business side of things
+Bonus Points
+Recommended by an AppsFlyer employee
+As a global company operating from 20 offices worldwide, we reflect the human mosaic of the diverse and multicultural world in which we live. We ensure equal opportunities for all of our employees and promote the recruitment of diverse talents to our global teams without consideration of race, gender, culture, or sexual orientation. We value and encourage curiosity, diversity, and innovation from all our employees, customers, and partners.
+ 
+“As a Customer Obsessed company, we must first be Employee Obsessed. We need to make sure that we provide the team with the tools and resources they need to go All-In.” Oren Kaniel, CEO
+ 
+

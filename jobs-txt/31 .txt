@@ -1,0 +1,51 @@
+
+Hej, Truecaller is calling you from Stockholm, Sweden! Ready to pick up?
+Truecaller transformed how we communicate when we launched in 2009 in Stockholm, Sweden.
+Our mission is to build trust everywhere by making tomorrow’s communication smarter, safer and more efficient. We focus on bringing smart services with big social impacts, like protecting people from fraud, harassment, and scam calls or messages. We identify new numbers from anywhere in the world and build a space for trustworthy conversations, for those that matter. Truecaller is loved by over 330 million people around the world and is growing very rapidly across regions. 
+Who we are:
+The world’s #1 caller ID and spam-blocking service for Android and iOS.
+A team of +350 people from ~35 different nationalities, spread across our headquarters in Stockholm and offices in Bangalore, Mumbai, Gurgaon, Tel Aviv and Nairobi.
+Backed by some of the most prominent investors in the world such as Sequoia Capital and Kleiner Perkins Caufield & Byers.
+We at Data Platform work on a vision to empower our product-oriented teams with a complete self-service analytics platform to make data-driven decisions possible in Truecaller, guaranteeing the stability, velocity, and delivery of the mainstream events pipeline. 
+As a Senior Data Engineer, you will play an important role in the Data Platform team who are responsible for building and maintaining a scalable, robust, self-service analytics platform.
+What do we expect from you
+Experience working with orchestration tool (ex: Airflow)
+Experience working with a large data set
+Experience building complex ETL pipelines
+Experience working with cloud providers such as GCP, AWS or Azure
+Strong programming skills in Spark with Scala and Python
+Experience working with CI/CD tools like Jenkins and Git
+Strong understanding of Software Engineering practices and principles
+Excellent problem solving and communication skills.
+Self-motivated and have a proven ability to take initiative to own the problems that come up and solve them.
+ 
+What will you work on
+Maintaining and improving the ingestion pipeline to reliably deliver billions of events daily in defined SLA
+Provide support for all teams in building and optimizing their complex pipelines
+Work closely with other teams to identify pain points and problems around the platform
+Develop new tools and frameworks to improve the data platform
+Facilitate company wide to be data-driven
+Work in close collaboration with data scientists and data analysts to help support their work go to production
+Work with vast projects such as building an ML platform and streaming use cases
+Setup best practices and processes around software and data development
+It would be great if you also have
+Working with messaging system like Kafka
+Knowledge in Kubernetes
+Hands on experience with any streaming platform
+Experience managing data warehouse in BigQuery or Redshift
+ 
+Life at Truecaller - Behind the code:  https://www.instagram.com/lifeattruecaller/
+Sounds like your dream job?
+We will fill the position as soon as we find the right candidate, so please send your application as soon as possible. As part of the recruitment process, we will conduct a background check.
+This position is based in Stockholm, Sweden. 
+We only accept applications in English. 
+What we offer: 
+A smart, talented and agile team: An international team where  ~35 nationalities are working together in several locations and time zones with a learning, sharing and fun environment. 
+A great compensation package: Competitive salary, 30 days of paid vacation, flexible working hours, private health insurance and pension contribution, Udemy membership to keep learning and improving, gym membership. 
+Great tech tools: Pick the computer and phone that you fancy the most within our budget ranges. 
+Do it your way: For the days you're working from home, we provide you with an attractive budget for creating your cozy office at home. 
+Office life: Enjoy your days with a wide range of yummy snacks and beverages, and have fun at our playroom! As well, exciting company parties and team activities such as Lab days, Running team, Geek lunch!
+Come as you are: 
+Truecaller is diverse, equal and inclusive. We need a wide variety of backgrounds, perspectives, beliefs and experiences in order to keep building our great products. No matter where you are based, which language you speak, your accent, race, religion, color, nationality, gender, sexual orientation, age, marital status, etc. All those things make you who you are, and that’s why we would love to meet you.
+
+

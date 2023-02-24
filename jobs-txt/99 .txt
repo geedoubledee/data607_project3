@@ -1,0 +1,106 @@
+
+Overview:
+Our Engineering team is looking for a full-time Software Engineer with applied AI experience to join us on our mission to help people learn. We are looking for someone who is a proven designer and implementer of micro-services and complex architectural systems, preferably in GoLang. We have a complete CI/CD software lifecycle and an evolving services-oriented architecture hosted in AWS. We operate in a highly collaborative environment with Product and Design to build experiences that matter to our customers. At Varsity Tutors, engineers do not just write code, they actively participate in the conversation on what and how to build the systems and solutions that matter to our customers. If you love your customers as much as we do, we'd love to hear from you.
+This position is a full-time remote opportunity! (We've been remote friendly for years and that isn't going away).
+About Nerdy:
+Nerdy (NYSE: NRDY), the parent company of Varsity Tutors, is a leading platform for live online learning, with a mission to transform the way people learn through technology. The Company’s purpose-built proprietary platform leverages technology, including Machine Learning and AI (Nerdy AI Learning Products - Press Release), to connect learners of all ages to experts, delivering superior value on both sides of the network. Nerdy’s comprehensive learning destination provides learning experiences across 3,000+ subjects and multiple formats—including one-on-one instruction, small group classes, large format group classes, on-demand study support, and adaptive self-study. Nerdy’s flagship business, Varsity Tutors, is one of the nation’s largest platforms for live online tutoring and classes. Its solutions are available directly to students and consumers, as well as through schools and other institutions. Learn more about Nerdy at https://www.nerdy.com/. 
+AI at Nerdy:
+AI has been central to Nerdy’s ability to improve its product quality and enhance personalization. Today, AI powers the company’s ability to identify the highest quality Experts, assess Learners' foundational knowledge, and helps ensure the right Expert-Learner match, among many other use cases. The latest AI advancements have created new opportunities to rapidly develop transformative experiences involving the real-time generation, and the ability to deliver live human interaction and personalized learning at scale - and we’re building a team to make this happen.
+Responsibilities:
+
+Write performant, maintainable code that is easy to read and well-documented
+
+
+Write automated tests to thoroughly validate the correctness of your code
+
+
+Deploy large-scale web applications
+
+
+Focus on quality, and operate iteratively to get from good to better
+
+
+Be a part of your team’s on-call rotation; we all own our code end-to-end from development to deployment to operations
+
+
+Come ready to learn from - and with - some of the best and brightest in the industry
+
+
+Work independently and collaboratively in a dynamic and fast-moving team - we ask a lot of questions so come ready to participate!
+
+
+Be effective in a team environment working with fellow engineers, product management, and design
+
+
+Further your professional development in an ambiguous working environment, by understanding complexities and using your judgment to make balanced trade-offs
+
+Qualifications: 
+
+Experience with highly concurrent languages such as GoLang, Java, Ruby on Rails, or Python
+
+
+Experience with deployment systems (e.g. CodeShip, AWS CodeDeploy)
+
+
+Familiarity with AWS Services (e.g. RDS, Kinesis, Lambda, EC2, et cetera)
+
+
+Familiarity with the Linux Operating System and command-line tools
+
+
+Experience with Ruby on Rails or similar web frameworks is beneficial (e.g. Django)
+
+
+Understanding of OO design, algorithms, and data structures
+
+
+Familiarity with implementing e-commerce solutions is beneficial
+
+
+Familiarity with Search Engine Optimization best practices and techniques is beneficial
+
+
+Aptitude to quickly learn new languages and technologies as necessary
+
+
+Resilience and the ability to continuously build solutions in unclear situations
+
+
+Computer Science or a related degree preferred
+
+Varsity Tutors Leadership Principles:
+Relentless Focus on Customers * Comfort with Ambiguity * Ownership * Simplify * Intellectual Curiosity * Build Teams * Think Big * Insist on High Standards * Bias for Action * Build Trust * Go Deep * Have Conviction * Deliver Results * Are Right, a Lot
+Benefits:
+
+Competitive Salary plus Equity in the company
+
+
+Healthcare Plans (Medical, Dental, Vision, Life, Pet)
+
+
+401k Company Matching Plan
+
+
+Maternity, Paternal, and Adoption Leave
+
+
+Remote Position
+
+
+Flexible PTO
+
+
+Hackfest! (Multiple times per year)
+
+
+Free Learning Membership for you and your household (1-1 tutoring hours, unlimited use of on-demand services, and access to our online classes)
+
+
+A once-in-a-lifetime opportunity to help transform how the world learns!
+
+
+A fun, collaborative, and team-oriented work environment with plenty of training and a feedback-rich culture
+
+Note: Please feel comfortable applying, even if you don’t meet all the requirements for the position. We’ll let you in on a secret: there’s no such thing as a “perfect” candidate and everyone can grow at Varsity Tutors.  We strongly encourage members of underrepresented groups and people of diverse backgrounds to apply because our range of perspectives helps us learn better. Apply now if this is a role that would make you excited to come into work every day! 
+Varsity Tutors is committed to creating a diverse environment and is proud to be an equal-opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, disability, age, or veteran status.
+

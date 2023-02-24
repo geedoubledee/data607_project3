@@ -1,0 +1,56 @@
+
+About Us:
+SentinelOne is defining the future of cybersecurity through our XDR platform that automatically prevents, detects, and responds to threats in real-time. Singularity XDR ingests data and leverages our patented AI models to deliver autonomous protection. With SentinelOne, organizations gain full transparency into everything happening across the network at machine speed – to defeat every attack, at every stage of the threat lifecycle. 
+We are a values-driven team where names are known, results are rewarded, and friendships are formed. Trust, accountability, relentlessness, ingenuity, and OneSentinel define the pillars of our collaborative and unified global culture. We're looking for people that will drive team success and collaboration across SentinelOne. If you’re enthusiastic about innovative approaches to problem-solving, we would love to speak with you about joining our team!About Us:
+SentinelOne is defining the future of cybersecurity through our XDR platform that automatically prevents, detects, and responds to threats in real-time. Singularity XDR ingests data and leverages our patented AI models to deliver autonomous protection. With SentinelOne, organizations gain full transparency into everything happening across the network at machine speed – to defeat every attack, at every stage of the threat lifecycle. 
+We are a values-driven team where names are known, results are rewarded, and friendships are formed. Trust, accountability, relentlessness, ingenuity, and OneSentinel define the pillars of our collaborative and unified global culture. We're looking for people that will drive team success and collaboration across SentinelOne. If you’re enthusiastic about innovative approaches to problem-solving, we would love to speak with you about joining our team!
+ 
+Your role:
+We are on a mission to build a world class tracing and metrics solution to complete our suite of observability products that are used by many developers and SREs across industries. We are looking for a senior member for the Artificial Intelligence (AI) fraternity to join us. As a senior AI engineer, you will be responsible for being a key technical lead for bringing ML and AI into Dataset. You will play a key role in defining the tech strategy, architecture, and development procedures.  You will serve as a key contributor of code that will enable our customers to leverage the power of AI on our platform.  You will interact with peer engineering tech leads and architects, UX, product management, sales, and marketing.
+What You'll Do:
+Design, architect and be part of hands-on implementation of Machine Learning (ML) or Artificial Intelligence (AI) applications that delight our customers
+Define, evangelize, and maintain the strategy and vision for ML/AI applications within DataSet
+Establish and follow technical best practices
+Help recruit and mentor team members
+Engage cross-functionally with customers, partners, other product groups, sales engineering, and solution architects to deliver best-in-class product solutions
+ 
+The opportunity requires:
+Extensive hands-on development experience in Machine Learning (ML) or Artificial Intelligence (AI) at large scale
+5+ years experience building containerized AI and ML applications
+Programming experience in Python and Java
+Expert-level experience with FastAPI, gRPC, scikit-learn, Tensorflow, and/or Pytorch
+Experience with MLOps pipelines and tools
+Significant experience operationalizing scientific code in a production-ready system
+Ability to take nebulous requirements and break down into actionable technical work for team, experience technical execution on engineering teams is ideal
+Action-oriented mindset with a proven track record of balancing the delivery of long-term goals and short-term objectives
+Excellent communication skills, both verbal and written, with the ability to properly translate and articulate positioning and requirements
+Proven ability to work effectively with both local and remote teams and team members in different time zones
+ 
+Exceptional candidates will also have:
+Prior development experience in building observability or infrastructure related products
+Demonstrable technical leadership experience - you helped set best practices and drove adoption of them
+Ability to quickly dive into new products and understand their inner workings
+Proven ability to work effectively with both local and remote teams and team members in different time zones
+What we offer you
+Flexible working hours, Hybrid working model with offices in Prague-Karlin (brand new Missouri Park) or Brno or remote in Slovakia
+Generous employee stock plan in the form of RSUs (restricted stock units)
+Flexible Time Off (on top of the standard 5 weeks of vacation)
+Flexible Paid Sick Days
+Fully Paid Short Term Sick/Short Term Nursing Leave
+Global gender-neutral Parental Leave (16 weeks, beyond the leave provided by the local laws) & Grandparent Leave
+Volunteering paid day off & Additional paid Company holidays and Wellness days off (e.g. 6 days in 2022)
+Pension insurance contribution
+Premium Life Insurance covered by S1
+Cafeteria points (5.000 CZK/month), which you can spend on leisure & sports, kindergarten/school fees, travel etc. 
+Private medical care membership
+Global Employee Assistance Program (confidential counseling related to both personal and work life matters)
+High-end MacBook or Windows laptop, Home-office-setup gear & on top of that additional WFH Allowance
+Udemy Business platform for Hard/Soft skills Training & Support for your further educational activities/trainings
+Above-standard referral bonus
+Yearly bonus depending on the performance of the company
+On top of RSUs, you can benefit also from our attractive ESPP (employee stock purchase plan)
+Refreshments & snacks at the offices (+weekly massages & yoga at Prague office)
+Optional company events for those who like to meet outside of work too (sport, BBQ, charity, offsite etc.)
+SentinelOne is proud to be an Equal Employment Opportunity and Affirmative Action employer. We do not discriminate based upon race, religion, color, national origin, gender (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender identity, gender expression, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics.
+SentinelOne participates in the E-Verify Program for all U.S. based roles. 
+

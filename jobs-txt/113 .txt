@@ -1,0 +1,53 @@
+
+Creditas é uma plataforma digital focada em melhorar a vida das pessoas na América Latina em 3 ecossistemas: auto, imobiliário e benefícios corporativos. A empresa disponibiliza um amplo leque de produtos e serviços aos seus clientes, incluindo soluções fintech, seguros digitais e soluções ao consumidor, usando sua tecnologia proprietária para oferecer uma experiência única. Sua carteira de crédito inclui crédito imobiliário, de veículo e empréstimo consignado, proporcionando acesso a soluções e serviços com opções integradas de financiamento e refinanciamento.
+Em soluções para o consumidor, oferece reforma de imóveis; uma plataforma própria de seminovos (Creditas Auto) e, após seu investimento estratégico na Voltz Motors, motocicletas e scooters elétricas. Em seguros digitais, é a maior corretora independente do Brasil, oferecendo seguros de automóveis, residenciais e corporativos em parceria com mais de 16 operadoras. Fundada em 2012, emprega mais de 4.500 tripulantes (colaboradores) em escritórios em São Paulo, Barueri, Curitiba, Porto Alegre, Recife, Valência (Espanha) e Cidade do México. Recebeu aportes de fundos de capital de risco internacionais, que somam mais de US$ 829 milhões e foi reconhecida pelos rankings KPMG, Business Insider e Glassdoor como uma das fintechs mais promissoras do mundo.
+
+Nosso time de Produto & Tecnologia
+Transformamos realidades por meio da Tecnologia.
+É com ela que escalamos o negócio, otimizamos processos, reduzimos custos e entregamos a melhor experiência para viabilizar novas conquistas de nossos clientes.
+Com tecnologia desenvolvida 100% dentro de casa, trabalhamos com todas as linguagens de programação do mercado. Ideal para quem, assim como a gente, ama se desafiar e se desenvolver na resolução de problemas reais.
+Aqui, você ainda escolhe seu lugar preferido para trabalhar, seja em casa, no escritório ou na praia. E, além dos escritórios em São Paulo e no México, temos polos de tecnologia em Recife, Porto Alegre e em Valência (Espanha). 
+Se Tecnologia também é seu combustível e fazer a diferença é a sua paixão, embarque com a gente na Nave!
+Quais são as responsabilidades desta vaga:
+Definir, manipular, agregar e usar dados estruturados e não estruturados para oferecer suporte a análises descritivas e preditivas em todos os negócios;
+Identificar e corrigir rapidamente erros mais sutis em dados e análises;
+Garantir que os resultados sejam reprodutíveis, corretos e acionáveis;
+Detectar problemas de qualidade de dados com a capacidade de detectar problemas de dados, pipeline e modelo;
+Aprender a lidar com desafios típicos - encontrar fontes de dados, alinhá-las, lidar com quaisquer problemas do dia-a-dia, manter gerentes de produto alinha com contexto, trabalhar em esteira colaboração com desenvolvedores e orienta-los para acelerar o processo de desenvolvimento e garantia de qualidade, escrever documentação de arquitetura e pesquisas coerentes para definições de POC’s;
+Desenvolver relacionamentos com colegas de análise em toda a empresa, apresentando as soluções de Data Platform.
+Precisamos de alguém com:
+Larga experiência como Data Engineer;
+Experiência em projetos de ingestão e transformação de dados;
+Experiência prática com linguagens de programação como Python;
+Experiência em desenvolvimento Big Data com ferramentas EMR, Glue, Confluent Kafka, S3, Redshift ou ferramentas Cloud/SaaS equivalente;
+Conhecimento em sistemas de processamento de dados distribuídos (ex. Spark, Kafka, Hadoop etc.);
+Bancos de dados SQL e NoSQL;
+Conhecimento em sistemas de automação de pipeline de dados (Airflow, Terraform, Glue , Git, CircleCI etc.) ou  semelhante.
+Nosso processo:
+O processo seletivo se inicia na candidatura e para algumas oportunidades, há alguns testes adicionais. O tempo do processo é flexível, mas não se preocupe, nosso time de Talent Acquisition está preparado para proporcionar a melhor experiência para você. Analisamos todos os perfis com atenção e sempre enviamos feedbacks, independente da etapa da candidatura. Além disso, todas as instruções são enviadas por e-mail.
+Conheça nossos benefícios:
+Seguro de Vida Coletivo 
+Plano de Saúde e Odontológico (SulAmérica)
+Universidade Corporativa (Academy)
+Zenklub e Gympass
+Meditas ON e Family Care (programa interno de saúde e acolhimento familiar) 
+Auxílio Creche e auxílio para Filhos(as) com Deficiência
+Yalo: desconto familiar em consultas e Convênio farmácia
+Licença Parental: 6 meses de licença para a pessoa gestante e 35 dias de licença parental.
+Modelo de trabalho: remoto, presencial ou híbrido.
+Vale-Transporte (VT) Vale Refeição (VR) (Creditas Card)
+Recebimento de bônus/PPR atrelado ao atingimento de metas organizacionais
+Yuca (descontos em moradia compartilhados) e WeWork (coworkings em diversos lugares do Brasil e do mundo)
+Minha Nave de Descontos: plataforma de descontos e benefícios exclusivos da Creditas.
+Creditas Store
+Previdência privada, Empréstimo consignado e Antecipação salarial
+Programa de Educação Financeira
+Diversidade no DNA
+Trabalhamos para construir um ambiente diverso e com equidade de oportunidades. Valorizamos e respeitamos todas as diferenças. Esse é um trabalho constante e sem pausas.
+Promover um ambiente diverso impacta diretamente na geração das novas formas de resolver problemas e na criatividade para desenvolver produtos e soluções inovadores. Cada vez que conhecemos uma nova perspectiva de mundo, novos horizontes e oportunidades se abrem.
+Para fortalecer essa rede, focamos em:
+Diversidade: Valorizamos a pluralidade e respeitamos todas as diferenças com empatia. Queremos que a nossa Tripulação tenha o máximo possível de representatividade da sociedade onde vivemos.
+Inclusão: Queremos promover um ambiente seguro e de bem-estar para que todas as pessoas, especialmente aquelas que fazem parte de grupos sociais sub-representados sintam-se acolhidas e se considerem parte da Creditas.
+Equidade: Temos o compromisso de promover e garantir oportunidades e condições justas para o crescimento e desenvolvimento de todas as pessoas dentro da Creditas, diminuindo vieses em todas as nossas decisões.
+Mais do que acolhimento, é possível encontrar espaço para liderar e co-construir o futuro da Diversidade & Inclusão na Creditas ao lado dos nossos grupos de afinidade.
+

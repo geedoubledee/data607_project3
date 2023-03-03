@@ -1,0 +1,45 @@
+
+Job Description
+In 2013, we at Fantasy Football Analytics released web apps to help people make better decisions in fantasy football based on the wisdom of the crowd. Over the past six years, the community response has been incredibly supportive, and we continually improved the apps in response to user feedback. The community also contributed directly to the project, with a number of users making additions and edits to our public source R scripts on our GitHub repo and our ffanalytics R package. In sum, we provide web apps built by the people, for the people.
+This brings me to our call for help. A key member of our team is stepping down at the end of the season. As we try to keep up with feature requests from the community and the impressive increase in users, we are looking for help. We are looking for a lead R/Shiny developer to help develop our web apps (apps.fantasyfootballanalytics.net). We are looking to help optimize and streamline the apps as well as add features to our popular platform. It would also be preferable for the developer to have some knowledge of American Football and fantasy football.
+Crucial skills:
+R package knowledge
+Experience developing/testing R code/packages
+Familiarity with Shiny
+Nice-to-have skills (but not required):
+Knowledge of American Football and fantasy football
+How to Apply
+To apply, please email the following to [email protected]:
+letter of interest with a brief description of relevant skills
+resume/CV
+how much time you expect to be able to contribute
+work sample of R packages and/or Shiny apps that you have developed
+
+
+ Job Categories: R Developer. Job Types: Part-Time. Job Tags: Fantasy Football, r, shiny, and sports. Salaries: Partnership.
+
+
+
+
+Apply for this Job
+
+
+Name *
+
+
+Email *
+
+
+Message *
+
+
+Upload resumé (pdf, doc, docx, zip, txt, rtf)
+
+
+Upload cover letter (pdf, doc, docx, zip, txt, rtf)
+
+ 
+
+
+
+

@@ -1,0 +1,56 @@
+
+Job Description
+MDRC is seeking a Technical Research Analyst for its Center for Data Insights, which works to improve the outcomes of low-income families and the operations of social and education programs through data science. MDRC is a nonprofit, nonpartisan education and social policy research organization dedicated to learning what works to improve programs and policies that affect low-income populations.
+Candidates should have experience using data science, data visualization, and data integration, as well as a strong interest in improving the lives of low-income individuals through data-driven programs and policy. Candidates should also have an interest and skills in training others in data science methods and have a desire to work in teams to foster social data innovation.
+Responsibilities:
+Use open source code (primarily R) to work with state and nonprofit data to apply data science methods, such as machine learning and unsupervised learning techniques, to improve programs and systems.
+Train staff, including practitioners and policymakers, to use data science techniques.
+Produce dashboards and interfaces that make advanced analytics results intuitive and clear.
+Produce interactive graphics and other visual tools to engage state officials in data analysis techniques.
+Stay up-to-date on the latest developments in data science, as well as in open data initiatives.
+Develop, lead, and deliver technical assistance and program-related support to service providers.
+Manage projects, including timelines, staffing, work plans, and budgets.
+Qualifications:
+Master’s degree (or bachelor’s degree with relevant experience) in data science, data visualization, or quantitative social science.
+Experience applying data science methods in a real-world setting.
+Knowledge of and experience with using open source programming in such languages as R or Python and SQL. Knowledge of data engineering approaches desirable although not essential.
+Knowledge of Cloud computing environments, like Amazon Web Services and Google Cloud Platform, and experience deploying data science projects in the Cloud.
+Excellent written and oral communication skills and the ability to teach complicated methods in simple ways.
+Strong interpersonal skills, desire to work in a team-oriented environment, and ability to collaborate with many levels of a diverse staff.
+Strong organizational skills, including an ability to handle multiple tasks simultaneously, pay attention to details, and meet deadlines.
+We will only consider candidates who complete the application in its entirety.
+MDRC is an Equal Opportunity/Affirmative Action employer. MDRC does not discriminate, and all qualified applications will receive consideration without regard to race; color; national origin; religion; creed; sex or gender (including sex stereotyping and gender identity or expression); sexual orientation; citizenship status; pregnancy; disability; age; military or veteran status; marital or partnership status; genetic information, genetic predisposition or carrier status; prior unemployment status; consumer credit history; status as a victim of domestic violence, sex offenses, or stalking; or any other category protected by applicable federal, state, or local laws. Legal work authorization is required.
+How to Apply
+Please click on the link to apply.
+https://chm.tbe.taleo.net/chm01/ats/careers/v2/viewRequisition?org=MDRC&cws=40&rid=716
+ 
+
+
+ Job Categories: Data Scientist / Statistician. Job Types: Full-Time. Salaries: Less than $100,000.
+ Endless.
+
+
+
+
+Apply for this Job
+
+
+Name *
+
+
+Email *
+
+
+Message *
+
+
+Upload resumé (pdf, doc, docx, zip, txt, rtf)
+
+
+Upload cover letter (pdf, doc, docx, zip, txt, rtf)
+
+ 
+
+
+
+

@@ -1,0 +1,50 @@
+
+
+Job Description
+Programmer Analyst develops dashboard in R Shiny environment to present and visualize data.
+Implement the designs and business requirement by writing code & programs concert with company data & computer systems as well as updating or repairing existing programs. Background should also include test planning and execution.
+• Expert in data process and visualization in R, with full knowledge of R Shiny and customizing Shiny apps with HTML
+• Able to integrate multiple data sources and databases into one system
+• Understanding of multi-process architecture
+• Understanding of accessibility and security compliance (depending on the specific project environment)
+• Knowledge of user authentication and authorization between multiple systems, servers, and environments (already established for specific project environment)
+• Understanding of fundamental design principles behind a scalable application
+• Strong unit test and debugging skills
+Programming skills in:
+• Strong skills in R and R Shiny are a must
+• SQL/JAVA is a plus
+Programmer Analyst Job Requirements:
+• Computer-related discipline, computer science, mathematics or engineering is usually preferred.
+• 6-10 years programming experience mainly in R and R dashboard development.
+How to Apply
+Please send your resume through web apply form. If you have some code examples can be shared, or even some demo Shiny app online will be very helpful.
+This position is onsite only, no remote.
+
+
+ Job Categories: R Developer. Job Types: Full-Time. Job Tags: r and shiny. Salaries: More than $100,000.
+
+
+
+
+Apply for this Job
+
+
+Name *
+
+
+Email *
+
+
+Message *
+
+
+Upload resumé (pdf, doc, docx, zip, txt, rtf)
+
+
+Upload cover letter (pdf, doc, docx, zip, txt, rtf)
+
+ 
+
+
+
+

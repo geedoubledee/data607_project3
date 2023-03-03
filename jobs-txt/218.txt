@@ -1,0 +1,72 @@
+
+Job Description
+RStudio creates great software that helps people understand data and make better decisions in real-world applications. Our core offering is an open source data science toolchain, and we aim to make it available to everyone, regardless of their economic means.
+
+The goal of our Customer Success team is to retain and expand the adoption of RStudio’s professional products within our existing customer base. To retain business, the Customer Success team seeks proactively to eliminate barriers to adoption of our enterprise products. To increase adoption, the team regularly uses knowledge of R to equip our customers with the latest skills, in turn creating a natural demand for RStudio’s professional products.
+
+As we grow, we are looking to add another member to this talented and dedicated team. In this role, you will be responsible for securing assigned renewals by building meaningful relationships with customers and proactively eliminating barriers to adoption. You will also be responsible for achieving measurable growth in new business within existing accounts by providing education and product-planning updates to your assigned customer base.  Finally, because of RStudio’s position within the R community, it is critical that the Customer Success team continue to learn about, contribute to, and be a champion of R, RStudio, and our community’s unique culture.
+
+About you
+
+You have used R in your job or had experience using R in an academic course, online learning platform, or academic research project.
+You are interested in a non-traditional and deeply technical sales role that involves using R and RStudio’s professional products.
+You are highly organized and thrive in a high-volume environment that, although reasonable and respectful, often has ambiguities and competing priorities.
+It’s a strong plus if you have been a part of and/or contributed to the R or RStudio communities through in-person meetups, conferences, workshops, events, or electronic forums.
+You have prior experience in the sales, consulting, or training fields, and feel at home in roles where you can offer value as both a teacher and a problem-solver.
+You have an awareness of the latest trends in the broader data science field, and may have experience in other analytic software (such as Python, MATLAB, SAS, or SPSS).
+You are internally driven by curiosity and continuous learning. You have proven that you can be entrusted with big decisions, and you strive to bring thoughtfulness and empathy to all of your work.
+You are humble, and collaborate well with other people. You thrive in team settings, and exhibit excellent communication and interpersonal skills.
+You are self-motivated, reliable, and can function effectively in a distributed team.
+
+
+
+About us
+
+We are committed to a culture that values diversity in all its forms.
+We are a nonhierarchical organization, and we expect self-motivation and agency. If you get uncomfortable around “broken windows” and take initiative to improve your surroundings, you will thrive here.
+We are a learning organization, and we have assembled some of the leading minds in data science and software engineering. We take mentorship and career growth seriously. We hope to learn from you, and we promise you will also deepen your skills, influence and leadership as a result of working at RStudio.
+We operate under a uniquely sustainable business model: Our expectations are high but reasonable, the workload is realistic, and a significant portion of our company is directed towards serving the open source community. We are profitable, and we plan to be around decades from now.
+
+Notable
+
+100% distributed team (you may optionally use one of our offices in Seattle or Boston)
+Competitive compensation with great benefits including:
+Medical/dental/vision/life insurance (100% of premiums covered for most plans offered)
+Paid parental leave
+401k with matching contribution
+A profit-sharing plan
+Home office allowance/co-working membership support
+Flexible environment with a generous vacation policy
+
+RStudio is committed to being a diverse and inclusive workplace. We encourage applicants of different backgrounds, cultures, genders, experiences, abilities, and perspectives to apply. All qualified applicants will receive consideration for employment without regard to race, color, national origin, religion, sexual orientation, gender, gender identity, age, physical disability, or length of time spent unemployed.
+How to Apply
+Use this link to apply.
+
+
+ Job Categories: Consultant. Job Types: Full-Time.
+
+
+
+
+Apply for this Job
+
+
+Name *
+
+
+Email *
+
+
+Message *
+
+
+Upload resumé (pdf, doc, docx, zip, txt, rtf)
+
+
+Upload cover letter (pdf, doc, docx, zip, txt, rtf)
+
+ 
+
+
+
+

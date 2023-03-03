@@ -1,0 +1,32 @@
+
+Job Description
+Implementing credit risk, fraud detection, natural language processing, data visualization, and other data analysis solutions, using R language amplified with extra packages and tools. The final product is delivered normally in the form of a turn-key project, ready for use either on a local machine or on a remote computation facility (i.e., AWS EC2 instances). New R packages development and testing.  Individual consulting and tutoring on the subjects mentioned above (on-site or remote).
+
+
+ Job Categories: R Developer. Job Types: Full-Time.
+
+
+
+
+Apply for this Job
+
+
+Name *
+
+
+Email *
+
+
+Message *
+
+
+Upload resumé (pdf, doc, docx, zip, txt, rtf)
+
+
+Upload cover letter (pdf, doc, docx, zip, txt, rtf)
+
+ 
+
+
+
+

@@ -1,0 +1,78 @@
+
+Job Description
+About Precision Analytics
+ 
+Precision Analytics is a startup in Montreal, Canada, specializing in health data science and epidemiological research. We make software and  provide support for organizations across all stages of the drug development process, from early stage biotechnology to post-marketing pharmaceutical research in larger firms. We offer expertise in study design, analytics – including predictive modelling and causal inference – and customized software platforms for health data science. We strive to build innovative products that encompass a ‘cradle-to-grave’ approach to analysis and research.
+Position Description
+As a junior software developer at Precision Analytics, you will assist in all phases of the software development life cycle. This will include:
+Writing front- and back-end code for interactive dashboards in R
+Designing new features and functionality based on client requirements
+Testing, debugging, and refactoring both new and existing R code
+Performing code reviews and participating in pull request reviews
+Deploying and maintaining web servers
+Assisting in the extract, transform, load (ETL) process for new data
+In addition, software developers at Precision Analytics work closely with our data scientists, both providing and receiving assistance when necessary, which provides a unique opportunity for mutual learning.
+Qualifications
+Please apply if you:
+Are an R programmer or software developer who is passionate about having a      meaningful impact in the biopharmaceutical sector
+Possess a genuine interest in improving our code/software infrastructure and related services
+Like working in a small, multidisciplinary team on science-related projects
+Are a proactive problem-solver with strong analytical skills and a good sense for code quality
+ 
+Must-haves:
+Experience working in R, or a willingness to embrace it
+Experience writing production-ready code
+Proficiency with git and the Linux command line
+Experience writing thorough documentation of package functions
+Ability to communicate in English clearly and accurately with people from various technical backgrounds
+ 
+Nice-to-haves:
+Technical expertise in web development and/or interactive data visualization (e.g. using the Shiny R package)
+Experience with SQL
+Experience with AWS
+Experience with continuous integration services (e.g. Travis CI)
+Interest in pursuing an ongoing relationship to support the package at the conclusion of the development contract
+Willingness to explore new R package features and document best practices
+Perks
+Beautiful office space in the mile end
+Competitive benefits
+Frequent 5 à 7’s
+A VERY CUTE (hypoallergenic) office dog
+ 
+Applicants must be legally allowed to work in Québec
+We welcome everyone to apply, and we emphatically invite women, minorities, POC, gender-non conforming folk to join our team.
+This is NOT a remote position.
+ 
+ 
+How to Apply
+Apply by sending your CV to [email protected]
+Cover letter not required but always appreciated
+
+
+ Job Categories: R Developer. Job Types: Full-Time. Job Tags: #rstats #developer #juniorsoftwaredeveloper #montreal. Salaries: Less than $100,000.
+
+
+
+
+Apply for this Job
+
+
+Name *
+
+
+Email *
+
+
+Message *
+
+
+Upload resumé (pdf, doc, docx, zip, txt, rtf)
+
+
+Upload cover letter (pdf, doc, docx, zip, txt, rtf)
+
+ 
+
+
+
+

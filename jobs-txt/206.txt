@@ -1,0 +1,75 @@
+
+Job Description
+Coupang is one of the largest and fastest growing e-commerce platforms on the planet. Our mission is to create a world in which Customers ask “How did I ever live without Coupang?” We are looking for passionate builders to help us get there. Powered by world-class technology and operations, we have set out to transform the end-to-end Customer experience — from revolutionizing last-mile delivery to rethinking how Customers search and discover on a truly mobile-first platform. We have been named one of the “50 Smartest Companies in the World” by MIT Technology Review and “30 Global Game Changers” by Forbes.
+Coupang is a global company with offices in Beijing, Los Angeles, Seattle, Seoul, Shanghai, and Silicon Valley.
+Job Overview:
+The experiment platform team at Coupang is looking for a Senior Principal Data Scientist with a solid background in experiment methodologies. You will work closely with a team of data scientists, business analysts and engineers to ensure quality experiments, develop key metrics and analyze data from controlled experiments to provide proper interpretation of results to help timely accurate decision making.
+Lead strategic analyses to understand customer behavior and develop business success metrics
+Analyze historical experiments run in Coupang to improve decision-making process
+Leverage statistical methodology to improve metric sensitivity to shorten the decision making cycle
+Measure the site-wide impact from experiments and monitor long-term impact on customer behavior
+Build a framework to evaluate cross experiment effects 
+Key Responsibilities: 
+Lead strategic analyses to understand customer behavior and develop business success metrics
+Analyze historical experiments run in Coupang to improve decision-making process
+Leverage statistical methodology to improve metric sensitivity to shorten the decision making cycle
+Measure the site-wide impact from experiments and monitor long-term impact on customer behavior
+Build a framework to evaluate cross experiment effects 
+Qualifications:
+Experience with experimentation methodologies – post-stratification, quasi-experimental research designs, sequential testing
+Experience with Bayesian techniques, Multi-armed bandit algorithm
+Master degree in Statistics, Mathematics, Operations Research, Econometrics, or related field
+10+ years of experience in analyzing large data sets to drive significant business decisions for online/e-commerce domain 
+Strong statistical background, especially in experiment and modeling
+Proficiency in a statistics tool like R and Big Data tools (Hive, Spark, Presto)
+Exceptional presentation skills and ability to communicate methodologies, results clearly and concisely to company’s top executives
+Strong interpersonal skills to work with cross-functional teams
+Ability to drive research projects
+
+
+
+Perks:
+
+Autonomy to make decisions in a rapidly growing company
+15 days PTO + 15 national holidays off
+401K matching
+Pre-IPO stock options
+Mobile & fitness reimbursement
+Flexible working hours
+Catered Lunch
+
+Coupang is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex or gender (including pregnancy, gender identity, gender expression, sexual orientation, transgender status), national origin, age, disability, medical condition, HIV/AIDS or Hepatitis C status, marital status, military or veteran status, use of a trained dog guide or service animal, political activities, affiliations, citizenship, or any other characteristic or class protected by the laws or regulations in the locations where we operate.
+If you need assistance and/or a reasonable accommodation in the application or recruiting process due to a disability, please contact us at [email protected]
+
+How to Apply
+[email protected]
+
+
+ Job Categories: Data Scientist / Statistician. Job Types: Full-Time. Job Tags: experimentation. Salaries: More than $100,000.
+ Endless.
+
+
+
+
+Apply for this Job
+
+
+Name *
+
+
+Email *
+
+
+Message *
+
+
+Upload resumé (pdf, doc, docx, zip, txt, rtf)
+
+
+Upload cover letter (pdf, doc, docx, zip, txt, rtf)
+
+ 
+
+
+
+

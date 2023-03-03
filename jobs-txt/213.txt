@@ -1,0 +1,39 @@
+
+Job Description
+Spectrus LLC is an analytical chemistry service provider headquartered in Beverly, Massachusetts.
+We seek an experienced R programmer to help automate the processing of mass spectrometry data analysis.
+Responsibilities:
+1. Interact with scientists from Spectrus to understand the data analysis process and the objective of the analysis.
+2. Develop R script templates that can be applied to different processes as indicated in 1 above
+The R programmer need not be located in eastern Massachusetts and can work remotely.  Payment will be agreed upon between based on the size of the project.
+How to Apply
+Send an email to [email protected]
+
+
+ Job Categories: Data Scientist / Statistician. Job Types: Freelance.
+
+
+
+
+Apply for this Job
+
+
+Name *
+
+
+Email *
+
+
+Message *
+
+
+Upload resumé (pdf, doc, docx, zip, txt, rtf)
+
+
+Upload cover letter (pdf, doc, docx, zip, txt, rtf)
+
+ 
+
+
+
+

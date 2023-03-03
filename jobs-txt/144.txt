@@ -1,0 +1,67 @@
+
+				Job Description
+ 
+Bungie is looking for an experienced Data Scientist to help shape the future of Destiny 2. As part of the Bungie Analytics & Insights team you will join a diverse team of analysts, data scientists, data engineers, and researchers. You will leverage your expertise in data analysis and games to provide designers, engineers, and product managers with actionable insights to make the best game possible. Most importantly, you will work at a fun and energetic company that is devoted to making world-class games.
+RESPONSIBILITIES
+Develop relationships with other members of the game development team to understand their data science needs and impactful project opportunities
+Perform ad-hoc analyses that inform game decisions being made by the team
+Transform raw data and build efficient pipelines to create and support customer facing dashboards and reporting resources
+Communicate the results of your analyses to technical and non-technical colleagues
+Help build data science frameworks to elevate our ability to build better games
+Develop models for predicting and segmenting player behavior
+REQUIRED SKILLS
+Proven experience as a Data Scientist on a shipped or live product
+Advanced SQL skills
+Advanced Python or R skills
+Experience analyzing large and complex data sets, including working with unstructured data
+Experience applying ML models and statistical analysis
+Ability to create clear data visualizations for a variety of stakeholders
+Ability to effectively communicate technical insights to a non-technical audience
+Understanding of data science use cases and data engineering concepts (e.g., modeling, pipelines, warehousing)
+Passion for games, game development, and game data
+Insatiable curiosity and creative problem solving
+Nice-to-have Skills
+Experience with Google Cloud Platform (GCP) or Amazon Web Services (AWS)
+Experience with Tableau or similar data visualization tool
+Experience with data warehousing and data engineering
+Listed below is this role’s base pay range. In other locations that Bungie has approved for remote work, this pay range may be adjusted up to +/- 10% and some roles may be classified as non-exempt (hourly). This range is determined by an array of factors, including training, transferable skills, work experience, business needs, and market demands. Additionally, it is subject to change and may be modified in the future. In the journey to make incredible worlds, Bungie employees don’t simply do meaningful work – they receive meaningful support. Competitive salaries and discretionary bonus opportunities are just the start. We offer comprehensive healthcare coverage, generous 401(k) matching, flexible time off policies, paid parental leave, social clubs, and so much more. Check out our benefits page: Benefits – Bungie Careers to see all the perks that come with joining Bungie.
+Washington State Pay Range
+$160,000 — $189,000 USD
+Bungie employees in the U.S. also receive:
+20 days of accrued time-off in the form of PTO and sabbatical days, depending on the level of the position
+10 paid Floating Days annually, prorated in the first year of employment based on start date
+10 paid Bungie-observed holidays annually
+One hour of Paid Sick Time (PST) for every 30 hours worked
+International FTE employees receive competitive benefits.
+So you don’t meet every requirement listed in this job description? Do you think your experience level is not where it needs to be? Studies show that women and people of color are less likely to apply to jobs unless they believe they meet every single qualification. Bungie is focused on building a diverse, inclusive, and equitable workplace. If you’re interested in this position but your past experience doesn’t line up perfectly with every qualification in the job description, we want you to apply anyway. The right role for you may be right around the corner!
+Most Bungie full-time employees will adopt a digital first approach allowing remote work in Bungie approved locations (outside of positions identified as 100% onsite in Bellevue/Seattle, or individuals preferring a hybrid/flex environment). Prospective full-time employees located outside of CA, CO, DC, FL, GA, IL, MA, MD, MN, NC, NJ, NY, OR, TN, TX, UT, VA, WA, or WI will need to establish residency in one of the states we are compliant in within 45 days of a start date. Contractors will follow a digital first approach adhering to the location guidelines agreed upon by our third-party employer/vendor and Bungie. Bungie’s remote policy is subject to change at the company’s discretion.
+		                
+                    More Information
+                    
+                        
+
+
+
+Salary Offer
+
+0 ~ $3000
+
+
+
+Experience Level
+
+Senior
+
+
+
+Total Years Experience
+
+0-5
+
+
+
+Dropdown field
+
+Option 1                        
+                
+            	

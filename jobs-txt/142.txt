@@ -1,0 +1,56 @@
+
+				Job description
+
+The Data Science Lead Analyst provides advanced professional input to complex Data Science assignments/projects. Responsible for the research, extraction and analysis of data. Evaluates and writes reports. May research and analyze algorithms. Provides statistical data trends to business partners such as medical management and underwriting. May also assist in the designing and implementation of systems to analyze and report findings. Combines IT capabilities with advanced clinical knowledge to determine trends, cost/benefit ratios, and forecasting of health care costs, medical management, and health economics. Exercises judgment in the evaluation, selection, and adaptation of both standard and complex techniques and procedures. Utilizes in-depth professional knowledge and acumen to develop models and procedures, and monitor trends, within Data Science.
+RESPONSIBILITIES
+
+Develop analytic models and products, application of methods for analysis requests in manner that demonstrates understanding of & orientation against business value
+Work content will be concentrated in the disciplines of forecasting & natural language processing
+Completion of ad-hoc reporting and analytics for the product management team and our clients. This requires combining business knowledge and data acumen along with technical skills (SQL, VBA, and Tableau) to efficiently complete these ad-hoc requests. Query data warehouse(s) using variety of tools available
+Consultation with PBMS Business Stakeholders and additionally account teams, financial analysts, and in some cases, clients to help understand complex PBM-related (benefit setup, trend management solutions, pricing, and utilization) issues and inquiries
+Independently solve complex, analytical problems with innovative approaches and solutions
+Create efficiencies and reduce errors through automation
+Complete special projects as assigned
+QUALIFICATIONS
+
+2+ years’ professional work experience as a data scientist
+Experience working with Python or R required
+Understanding and experience with Natural Language Processing concepts including sentiment analysis, lexicon design, text summarization, aspect mining, topic modeling, etc.
+Understanding and experience with leading supervised and unsupervised machine learning methods such as Multiple Regression, Logistic Regression, Neural Networks, Deep Learning, KNN, Naive Bayes, SVM, Decision Trees, Random Forest, Gradient Boosting, and Ensemble methods
+Ability to creativity with analytical, technical, and business acumen to problem solve
+Proven ability to collaborate with others, establish working relationships, and communicate effectively within a large corporate matrix environment
+Self-motivation and comfort with ambiguity
+If you will be working at home occasionally or permanently, the internet connection must be obtained through a cable broadband or fiber optic internet service provider with speeds of at least 10Mbps download/5Mbps upload.
+For this position, we anticipate offering an annual salary of 77,600 – 129,300 USD / yearly, depending on relevant factors, including experience and geographic location.
+This role is also anticipated to be eligible to participate in an annual bonus plan.
+We want you to be healthy, balanced, and feel secure. That’s why you’ll enjoy a comprehensive range of benefits, with a focus on supporting your whole health. Starting on day one of your employment, you’ll be offered several health-related benefits including medical, vision, dental, and well-being and behavioral health programs. We also offer 401(k) with company match, company paid life insurance, tuition reimbursement, a minimum of 18 days of paid time off per year and paid holidays. For more details on our employee benefits programs, visit Life at Cigna Group.
+		                
+                    More Information
+                    
+                        
+
+
+
+Salary Offer
+
+0 ~ $3000
+
+
+
+Experience Level
+
+Junior
+
+
+
+Total Years Experience
+
+0-5
+
+
+
+Dropdown field
+
+Option 1                        
+                
+            	

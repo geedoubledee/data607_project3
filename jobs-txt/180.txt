@@ -1,0 +1,72 @@
+
+Job Description
+Data Science and use of the R statistical language are exploding. RStudio customers love the productivity advantages delivered by our products, which is why we have millions of users. Build your career helping our customers succeed, and our products shine.
+Description
+As a Support Engineer, you will own support interactions from start to finish, acting as the face of RStudio. Along the way, you will have opportunities to influence processes and products as you work with multiple systems and teams to drive an exceptional customer experience. You will be working by email and web call to provide courteous and timely support to customer queries, driving resolution as quickly and painlessly as possible.
+This is a technical role, in which you will build expertise in several Linux administration, data analysis, and project management areas. There are strong troubleshooting and problem-solving aspects to this position, with ample opportunities to learn new skills and to share your own abilities with the team. Candidates with R configuration and/or RStudio server administration experience will be favored in this search. Location is flexible within the US and Canada.
+Responsibilities
+Our support engineers
+answer questions about the products and assist customers with server configuration;
+analyze and troubleshoot complex problems to find root causes, and communicate steps to reproduce to the engineering team;
+write or edit product documentation to provide proactive solutions for customers for common administrative and user scenarios;
+identify and communicate potential product improvements based on customer feedback; and
+work with the Customer Success, Solutions Engineering, Product Engineering, and other teams to provide the best overall customer experience possible.
+Our customers range from IT professionals to R aficionados to business leaders, so customer questions will have a great deal of variety. If you enjoy diagnosing and resolving diverse technical issues with talented and amiable colleagues, this role could be for you.
+Requirements
+Candidates for this role must have a passion for informing, teaching, and troubleshooting in collaboration with customers and colleagues.  We believe that support tickets represent opportunities for improvement, so we value analysis, reflection, and critical thought on the team.
+Skills
+The support engineer must be able to:
+Synthesize, understand, and address customer needs (i.e., be customer-centric)
+Communicate technical material clearly to a varied customer base, including system administrators, developers, data scientists, and business stakeholders
+Demonstrate strong communication and organizational skills
+Write and produce technical content for the web
+Work independently and as a part of a team
+And must have experience with some combination of these tasks:
+R administration (installation, library management, troubleshooting on Linux servers)
+RStudio server administration (RStudio Server, Shiny Server, RStudio Connect, etc.)
+Authentication system administration (LDAP, AD, SAML, PAM, OAuth)
+Database administration, software development, or software testing
+Cloud platforms (AWS, Azure, GCP) and/or Kubernetes
+Linux system administration
+Call support
+Process improvement or automation
+We are committed to the open-source R community and on a mission to make R awesome. Our startup culture is smart, driven, customer-focused and nonsense-free. If you have a background in R, are a keen problem-solver, and like helping people, we’d love to talk to you.
+About us
+We are a lean, distributed team, passionate about making R accessible to people all over the world, regardless of economic means. We are an organization that values talent, humility, and hard work over hierarchy.
+We are 100% remote (or come in to one of our offices in Seattle or Boston)
+Pick your hardware — we want to equip you with what you need to do your best work
+All our full-time employees are given an allowance to outfit their home office
+We have a flexible environment with excellent benefits and a “take what you need” vacation policy
+Positive, passionate culture working with a world-class team committed to data science and the R language
+RStudio is committed to being a diverse and inclusive workplace. We encourage applicants of different backgrounds, cultures, genders, experiences, abilities and perspectives to apply. All qualified applicants will receive consideration for employment without regard to race, color, national origin, religion, sexual orientation, gender, gender identity, age, physical disability, or length of time spent unemployed.
+How to Apply
+Submit a resume and cover letter at https://grnh.se/e023a7f63.
+
+
+ Job Categories: Other. Job Types: Full-Time. Job Tags: r_admin, Rstudio, and support.
+
+
+
+
+Apply for this Job
+
+
+Name *
+
+
+Email *
+
+
+Message *
+
+
+Upload resumé (pdf, doc, docx, zip, txt, rtf)
+
+
+Upload cover letter (pdf, doc, docx, zip, txt, rtf)
+
+ 
+
+
+
+

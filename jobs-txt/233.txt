@@ -1,0 +1,67 @@
+
+Job Description
+Who we are: 
+ A global, independent think tank on the integration of long-term and climate-related objectives and risks into financial market metrics, processes and regulation.
+Since its set up in 2012 with the mission to align financial markets with climate goals, the 2° Investing Initiative (2°ii) has become a pioneering think tank on the integration of long-term risks and policy objectives into financial markets and regulatory frameworks. Over the past years, 2°ii has led one of the largest global research programmes on long-term risks in financial markets, working with over 50 research partners. It developed the first scenario analysis tool linking financial portfolios to international climate goal which was applied by >1,500 financial institutions by now. A core principle of its mission is to reduce transaction costs across companies, financial institutions and policymakers, while guiding financial markets towards the long-term future.
+Current research includes market outlook reports, physical risk incorporation and enhancement of existing, analytical methods. 2°ii combines business intelligence databases from several climate-relevant sectors with financial datasets and climate scenarios as well as with other relevant third-party datasets to assess climate risks such as physical risk maps, etc. This database is used to assess the exposure of stocks, bonds and other financial instruments to energy-related technologies, as well as to build a sustainability-ready, open-source robo-adviser.
+2°ii has a multi-stakeholder and independent governance framework designed to ensure the intellectual integrity of its work and its independence. More information can be found at www.2degrees-investing.org
+ 
+What we are looking for:                                     
+A Data Engineer, BI or database developer who is passionate about having a meaningful, global impact
+Experience in data integration, cleaning, validation and analysis
+Strong SQL skills, proficiency with R, and familiarity with Git
+DevOps, System or Database Administration experience
+A pro-active problem-solver with strong analytical skills and a good sense for code quality
+Genuine interest in improving our data infrastructure and related services
+Fluent English
+In addition, experience with finance is a big plus
+Further technical expertise, such as web development or data visualisation, is very welcome as well
+Somebody who has the courage to apply, even if they don’t tick all the boxes above!
+ 
+What you will be doing:                                        
+Support implementing systems to make our data analysis reliable, transparent and reproducible
+Maintain, extend and improve our existing data infrastructure and related services
+Support colleagues with data queries, SQL trainings for continuous improvement of skills
+Evaluate and develop technical solutions for new projects and use cases
+ 
+What we offer: 
+A meaningful impact on one of the planet’s most pressing issues
+Engaging working environment in a young, international and rapidly expanding team and the chance to work at a cutting-edge think tank
+Flexible working hours
+Chance to take on responsibility and shape a project from your first day onwards
+Opportunity for significant career development
+A competitive salary
+How to Apply
+Interested in changing finance to fight climate change? 
+Please send your CV and cover letter in English indicating your earliest possible start date to: [email protected]
+ 
+We are committed to building a diverse team and encourage applications from female and minority candidates.
+
+
+ Job Categories: Data Scientist / Statistician. Job Types: Full-Time.
+
+
+
+
+Apply for this Job
+
+
+Name *
+
+
+Email *
+
+
+Message *
+
+
+Upload resumé (pdf, doc, docx, zip, txt, rtf)
+
+
+Upload cover letter (pdf, doc, docx, zip, txt, rtf)
+
+ 
+
+
+
+

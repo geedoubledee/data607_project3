@@ -1,0 +1,50 @@
+
+Job Description
+Maryville University is accepting applications for a data analyst with hands-on experience in data modeling, descriptive analytics, and advanced visualizations to help drive decision making. The ideal candidate should be versed in hands-on problem solving to address strategic business questions, be comfortable in wrangling data in SQL Server and Excel and in creating data models that are flexible for future use cases. The candidate must be able to create appropriate visualizations and dashboards to tell the data story and clearly articulate results to key decision makers. The successful candidate must be committed to fostering a welcoming environment for a diverse population of students, faculty, and staff.
+Minimum Qualification:
+• Bachelor’s Degree in Business, Data Analytics, Computer Science or other related field from a regionally accredited institution
+• One to three years of professional experience in data analytics, business intelligence, data engineering, database administration or similar position.
+• Strong background in creating advanced visualizations and dashboards in Power BI or Tableau.
+• Strong experience using SQL Server, MySQL, or other database package
+• Knowledge in data visualization best practices, ETL processes and data engineering and normalization
+• Experience creating dashboards for data storytelling
+• Experience creating a foundational data model for current and future ad-hoc use
+• One to three years of professional experience in:
+• Microsoft Excel
+• Data wrangling
+• Descriptive data modeling and advanced visualization creation
+• Power BI, Tableau, or other business intelligence suite
+Preferred Qualifications:
+• Master’s Degree in Business, Data Analytics, Computer Science or other related field from a regionally accredited institution
+How to Apply
+Apply via this link: http://jobs.maryville.edu/postings/2137
+
+
+ Job Categories: Data Scientist / Statistician. Job Types: Full-Time.
+
+
+
+
+Apply for this Job
+
+
+Name *
+
+
+Email *
+
+
+Message *
+
+
+Upload resumé (pdf, doc, docx, zip, txt, rtf)
+
+
+Upload cover letter (pdf, doc, docx, zip, txt, rtf)
+
+ 
+
+
+
+
+

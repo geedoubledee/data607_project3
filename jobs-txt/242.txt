@@ -1,0 +1,73 @@
+
+Job Description
+Please note that:
+– use the link in the apply section to leave your application
+– the post is in Espoo, Finland
+– there are language requirements (English and Finnish)
+The world is in constant motion – people and goods are moving ever-longer distances. Neste’s cleaner traffic fuel solutions are designed to help everyone enjoy being on the move, while reducing their environmental impact. We produce a comprehensive range of petroleum products and are the world’s leading supplier of renewable diesel. We also have an extensive network of service stations around the Baltic Rim. We employ around 5,000 people in 15 countries, and are constantly researching and developing new, even cleaner solutions for today’s traffic and transport, and even more importantly for tomorrow’s. The only way is forward.
+At Neste, you will have the chance to solve major challenges and work with other top talent. We also offer an extensive range of career development opportunities across our increasingly international operations. And since there is more to life than work, we want you to enjoy your leisure time as well.
+We are looking for people at the top of their field, people who really want to achieve something. People who are bold, hungry to learn more, and open to new ideas. And are self-confident and smart, as well as flexible and good team players.
+Marketing and Service Design unit is responsible for the commercial support functions in Marketing and Services business area. The main areas of responsibility include: market analysis & insight, marketing planning and campaigns, online- and digital platform development, project management, service design, product and service management and strategic pricing in all of its markets.
+This job will be part of the Service Design & Insight team. This team is responsible for market and data analysis and service design and development.
+ 
+We are looking for
+Data Analyst
+ 
+to a permanent job in our headquarters in Espoo. You are eager to discover how data can be used to answer questions and solve problems to support business and decision making. Especially in the areas of marketing & sales. Currently we have state-of-the art data tools based on Google Cloud Platform.
+ 
+Your tasks include
+Modelling the return on marketing investments and various KPI’s for sales steering with multiple different methods
+Solving business decision making problems by developing machine learning models (by learning the first steps, no previous experience required)
+Communicating and collaborating with data scientists and analysts from the team
+Automated implementations of data processing and collection
+Preparing visualized reports with graphs, charts and dashboards, with analysis on results
+Providing concise data reports and clear data visualizations for management
+Pinpointing trends, correlations and patterns in complicated data sets
+Communicating the results of analysis and developed data tools to end users
+All tasks will be done in a technical and systematic way
+ 
+We expect you to have
+Pro-active can do attitude and good problem solving skills
+Good command of different quantitative methods
+Sharp technical acumen complimented by strong analytical mindset
+Good presenting insights from the data, leading into measurable actions
+Excellent communication and co-operation to achieve shared targets
+Good organizing multiple simultaneous tasks and keeping agreed schedules
+Excellent written and spoken Finnish and English
+ 
+Also, we expect you to have technical requirements: you are familiar with some of the common scripting languages (tasks will mostly involve R language), good command of SQL syntax. You can use/execute complex query statements and use advanced database tools. Previous knowledge of Agile methodology and Google Cloud Platform is seen as a plus.
+ 
+We offer you interesting tasks, flexible working hours, great supportive colleagues and good career opportunities at Neste. You will also have the most advanced data tools and environment to work with.
+ 
+Please submit your application by January 6th, 2019.
+How to Apply
+Please fill in your application here
+
+
+ Job Categories: Data Scientist / Statistician. Job Types: Full-Time.
+
+
+
+
+Apply for this Job
+
+
+Name *
+
+
+Email *
+
+
+Message *
+
+
+Upload resumé (pdf, doc, docx, zip, txt, rtf)
+
+
+Upload cover letter (pdf, doc, docx, zip, txt, rtf)
+
+ 
+
+
+
+

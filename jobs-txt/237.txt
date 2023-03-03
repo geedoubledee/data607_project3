@@ -1,0 +1,59 @@
+
+Job Description
+Job Description
+Business Transformation Institute, Inc., a small technology company based in Hanover, Maryland, is seeking multiple Software Engineers/Data Scientists with experience in the R statistics software language.
+For the past 14 years, BTI has worked with government and private organizations to help them improve how they operate.  For the past year, BTI has been developing process and data mining-based capabilities to provide a richer set of analytic tools to our customers and consultants.  BTI recently won new work to provide a technology concept demonstration using our data mining approach for a long-term customer.
+The Software Engineers/Data Scientists will develop software to implement mining and analysis algorithms to extract data from customer APIs and implement data analytic algorithms to provide insight into the data.  An example analytic challenge is to create a predictive model for validating a current product development schedule based on past engineering team performance.  For example, see https://www.biztransform.net/process-mining-implement-devops-part-2/.
+Location:  Hanover, Maryland, USA
+Hanover, MD is located mid-way between Baltimore, MD and Washington, DC.  Hanover is 10 minutes from the BWI airport and train station and five minutes from the Arundel Mills super mall.  The Baltimore-Washington area is home to many cultural venues (The Smithsonian Institution, Kennedy Center, Walters Art Gallery), educational institutions (The J0hns Hopkins University, University of Maryland, Georgetown University, Howard University, Goucher College), sports teams (two major league baseball teams, two NFL teams, one NBA team, one NHL team), government agencies (when they’re open), and medical facilities (The Johns Hopkins University Hospital).
+Must be eligible to work in the United States.
+Wages & Benefits
+$100-$120K USD
+15% company retirement contribution
+Paid vacation based on seniority
+Health insurance
+Education benefit
+Job Duties:
+Develop analytic algorithms in consultation with senior statisticians.
+Develop software to implement mining algorithms.
+Develop software to implement data analysis queries and produce reports.
+Develop and implement interfaces using JSON and XML using R.
+Develop software to validate user identities using PKI and OAuth.
+Skills and Qualifications:
+Excellent interpersonal skills, particularly with respect to highly-skilled technology consulting personnel and systems engineers.
+One year or more of analytic and development experience in R and common R packages such as plyr, dplyr, lubridate, data.table, curl.
+A BA or BS in a relevant field (for example, computer science, mathematics, statistics, or industrial engineering)
+Experience working with or on an agile software development team
+REST API experience
+XML, JSON processing experience
+How to Apply
+Email your resume and contact information to us at [email protected]
+
+
+ Job Categories: R Developer. Job Types: Full-Time. Job Tags: "R PROGRAMMING", agile, devops, process, process mining, R development, and Software Engineering. Salaries: More than $100,000.
+
+
+
+
+Apply for this Job
+
+
+Name *
+
+
+Email *
+
+
+Message *
+
+
+Upload resumé (pdf, doc, docx, zip, txt, rtf)
+
+
+Upload cover letter (pdf, doc, docx, zip, txt, rtf)
+
+ 
+
+
+
+

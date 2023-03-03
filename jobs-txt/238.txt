@@ -1,0 +1,38 @@
+
+Job Description
+This position can be free-lance, or full time, remote or on location in Seattle.  Compensation is commensurate with skills and experience.
+This is an opportunity to join the Network Modeling Group at the University of Washington.  We are an active interdisciplinary team of faculty, research scientists and graduate students on campus, with ties to team members at other institutions in the US and abroad, and close working relationships with public health departments at the local, state and national levels. Our research tools are open-source and designed to establish a reproducible research pathway for the larger scientific community:  our software is based on R, GitHub, Shiny and markdown, and we publish and maintain a large number of packages on CRAN, including the statnet suite for statistical network analysis, and the EpiModel package for network modeling of epidemics and other diffusion processes.
+This position will be responsible for helping to maintain, improve and extend the existing software and develop new R packages when appropriate. The job requires a mix of excellent programming skills, understanding of core statistical concepts and algorithms, a well-organized and documented development process, effective communication with other developers and end users and a commitment to open-source reproducible research tools.
+A full description, with a link to the application, can be found here.
+Questions?  Contact me at [email protected]
+How to Apply
+Apply online through the University of Washington "uwhires" system here.
+
+
+ Job Categories: Data Scientist / Statistician. Job Types: Freelance. Job Tags: network analysis, R package development, and reproducible research. Salaries: Less than $100,000.
+
+
+
+
+Apply for this Job
+
+
+Name *
+
+
+Email *
+
+
+Message *
+
+
+Upload resumé (pdf, doc, docx, zip, txt, rtf)
+
+
+Upload cover letter (pdf, doc, docx, zip, txt, rtf)
+
+ 
+
+
+
+

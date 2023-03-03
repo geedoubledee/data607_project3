@@ -1,0 +1,46 @@
+
+Job Description
+Our firm :
+Originally derived from an internationally recognized research laboratory in the field of nutrition and associated pathologies, MS Nutrition offers a unique Modeling and Statistics expertise for both private and public nutrition research projects.
+MS-NUTRITION offers its clients, research centers and agri-food industries, studies which focused on the following themes: study of the nutritional quality of food or diets, exploration of the different dimensions of sustainable diets (nutrition, socio-economic, environmental, etc.), nutrient profiling of foods and menus, population and individual diet optimization, etc. We also have an expertise in statistical analyses in metabolomics1 and for clinical and experimental research.
+Job description:
+The global project aim to evaluate the impact of 4 infant formula composed of different lipid composition on neurosensory development of infants, through artificially feeding models with infant rats. For this project, the goal of the internship will be to identify the biological determinants related to cerebral activity which are sensitive to the different infant formula.
+Available Databases: The cerebral activity of rats were determined by in vivo imaging techniques (TEP scan). Biological Large scale data were collected at different levels : the metagenome (gut bacteria), cerebral transcriptome (gene expression in the brain) and related activities, intestinal and cerebral metabolome. All data are already corrected for any error due to the experiment (experimental artefact).
+Data analyses will be done using R. Interpretation of the results will be carried out in close collaboration with a team of the Center for Cardiovascular and Nutrition Research (C2VN, Marseille), lead by Jean-Charles Martin.
+Applicants:
+Student in your 1st or 2nd year of a Master, you hold a bachelor in Biostatistics / Data-Science.
+You feel at ease with R programming and you have the ability to use packages to deal with various analytical and data processing tasks. Having knowledge of multivariate analysis (MVA) methods such as principal component analysis (PCA) and partial least squares projection to latent structures (PLS, PLS-DA) are required and knowledge of random Forest algorithm and other algorithms in machine learning will be appreciated. You would like to work in a growing start’up and take part in essential missions for our firm. You are an autonomous person with initiative and creativity. You are rigourous, motivated and have good inter-personal skills.
+Conditions:
+4 – 6 full-time months starting as soon as possible. The internship will take place in the MS Nutrition’s offices in the faculty of medicine in Marseille – FRANCE. You will receive the legal compensation for this type of internship.
+1 Metabolomic refers to the identification and quantification of small molecules (metabolic products) of a biological sample (cell, tissue, organ, biological fluid, or organism) under specific conditions, generally using techniques of mass spectrometry and NMR (Nuclear magnetic resonance) spectroscopy. Metabolomics profiles are often compared between samples, obtained under normal conditions and with altered states promoted by disease, drug treatment, dietary intervention, etc.
+How to Apply
+Contact : [email protected]
+
+
+ Job Categories: Data Scientist / Statistician. Job Types: Full-Time. Job Tags: biostatistician, health, and metabolomic.
+
+
+
+
+Apply for this Job
+
+
+Name *
+
+
+Email *
+
+
+Message *
+
+
+Upload resumé (pdf, doc, docx, zip, txt, rtf)
+
+
+Upload cover letter (pdf, doc, docx, zip, txt, rtf)
+
+ 
+
+
+
+

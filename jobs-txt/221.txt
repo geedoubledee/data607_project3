@@ -1,0 +1,41 @@
+
+Job Description
+We are looking for a recent graduate with a physical geography / meteorology / hydrology or any climate science background who would like to work on global catastrophe data.
+Candidates with the following skills are invited to apply:
+BS or MS degree in Meteorology, Physical Geography, Hydrology, etc.
+Good programming skills in R and (as a plus) the Shiny package
+Working knowledge of QGIS 
+Your responsibilities will include data collection, model building, statistical analysis, GUI building and data QA. This is a great job for somebody who would like to work on the science of building catastrophe models. You would be working in our downtown Berkeley Office very close to BART: 2397 Shattuck Ave., Berkeley, CA, 94704
+KatRisk works with major insurance, re-insurance and brokers. We are almost 7 years old and have made an impact in the world of catastrophe modeling. We offer data and models for clients worldwide and would like expand our data and peril coverage. You would be learning and working with some of the experts in the field.
+Includes 401k, medical, dental.
+How to Apply
+Please send a cover letter and resume to [email protected]
+
+
+ Job Categories: Other. Job Types: Full-Time. Job Tags: catastrophe, KatRisk, and Modeling. Salaries: Less than $100,000.
+
+
+
+
+Apply for this Job
+
+
+Name *
+
+
+Email *
+
+
+Message *
+
+
+Upload resumé (pdf, doc, docx, zip, txt, rtf)
+
+
+Upload cover letter (pdf, doc, docx, zip, txt, rtf)
+
+ 
+
+
+
+

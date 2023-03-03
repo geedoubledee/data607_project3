@@ -1,0 +1,68 @@
+
+Job Description
+Senior Data Scientist
+University of Notre Dame
+The University of Notre Dame (http://www.nd.edu) is accepting applications for a Senior Data Scientist.
+Applications will be accepted until 3/21/2019.
+The University of Notre Dame is a premier Catholic academic and research community of higher learning that traces its origins to the Congregation of Holy Cross. The University is dedicated to the threefold goal of contemporary higher education — teaching, research, and service. Our faculty and staff apply their individual talents to our mission, advancing our collective vision while demonstrating the core values of the University in everything they do. We are talented, passionate and driven by our distinct mission to heal, unify and enlighten the world. Our community is diverse, guided by our core values and excited about you joining our team. Your path to a fulfilling career at Notre Dame begins here!
+Supports research activities of the Mendoza College of Business faculty.
+Primary responsibilities are:
+• Provides senior level experience including mentorship and guidance by overseeing the activities of the data scientists, ensuring proper execution of their duties, and alignment of activities with Mendoza’s overall research vision and objectives.
+• Ensures that the Research Team adopts the best in class processes and techniques for statistical analysis and modeling as well as leading the roll-out of Big Data capabilities, research initiatives, analytic framework, and best practices within the Research Team.
+• Provides advanced statistical and mathematical consulting and analysis for a broad cross-section of projects, performing research related programming tasks, and providing ongoing R&D.
+• Maintaining and updating all research datasets.
+• Supports Mendoza faculty in high-performance computing solutions (e.g., Center for Research Computing).
+• Facilitate research data acquisition and delivery within the College.
+Additional responsibilities include:
+• Works with individuals and groups within the Mendoza College of Business, including the business branch of the University Library, and groups around campus, including the Center for Research Computing and Office of Information Technologies.
+• Assists in managing vendor relationships, negotiating contracts, procuring solutions, and monitoring expenses to stay within budget constraints.
+• Facilitates collaboration with Colleges, Centers and Institutes across campus (A&L, CRC , Keough, etc).
+• Provide large project management for internal and external research consultants and developers.
+Minimum Qualifications:
+Education: Doctoral degree
+Experience: 5 to 6 years
+Degree Required: Doctoral degree in a quantitative field.
+Experience/Skills Required: Ability to apply research methods using a variety of software/hardware combinations. Flexibility in learning new research tools. Advanced knowledge of common programming languages, statistical methods, and data acquisition tools. Advanced skills in HPC /Distributed computing as well as proficient in SQL and Apache ecosystem.
+Preferred Qualifications:
+Familiarity with financial databases, such as those available through Wharton Research Data Services (WRDS )
+ABOUT NOTRE DAME:
+The University of Notre Dame, founded in 1842 by Rev. Edward F. Sorin, C.S.C., of the Congregation of Holy Cross, is an independent, national Catholic university located in Notre Dame, Ind. For the fifth consecutive year, the University of Notre Dame has received Honor Roll distinctions as one of the top 10 higher education workplaces in the country in the Chronicle of Higher Education’s annual “Great Colleges to Work For” survey…and we are proud of it!
+This appointment is contingent upon the successful completion of a background check. Applicants will be asked to identify all felony convictions and/or pending felony charges. Felony convictions do not automatically bar an individual from employment. Each case will be examined separately to determine the appropriateness of employment in the particular position. Failure to be forthcoming or dishonesty with respect to felony disclosures can result in the disqualification of a candidate. The full procedure can be viewed at https://facultyhandbook.nd.edu/?id=link-73597.
+Equal Opportunity Employment Statement
+The University of Notre Dame seeks to attract, develop, and retain the highest quality faculty, staff and administration. The University is an Equal Opportunity Employer, and is committed to building a culturally diverse workplace. We strongly encourage applications from female and minority candidates and those candidates attracted to a university with a Catholic identity. Moreover, Notre Dame prohibits discrimination against veterans or disabled qualified individuals, and requires affirmative action by covered contractors to employ and advance veterans and qualified individuals with disabilities in compliance with 41 CFR 60-741.5(a) and 41 CFR 60-300.5(a).
+
+How to Apply
+APPLICATION PROCESS:
+Please apply online at https://apptrkr.com/1407156 to Job # S19136. For additional information about working at the University of Notre Dame and various benefits available to employees, please visit https://hr.nd.edu/why-nd/. The University of Notre Dame supports the needs of dual career couples and has a Dual Career Assistance Program in place to assist relocating spouses and significant others with their job search.
+Copyright ©2017 Jobelephant.com Inc. All rights reserved.
+https://www.jobelephant.com/
+jeid-5901f8842b105c46aafe031bac02ef7c
+
+
+ Job Categories: Data Scientist / Statistician. Job Types: Full-Time.
+
+
+
+
+Apply for this Job
+
+
+Name *
+
+
+Email *
+
+
+Message *
+
+
+Upload resumé (pdf, doc, docx, zip, txt, rtf)
+
+
+Upload cover letter (pdf, doc, docx, zip, txt, rtf)
+
+ 
+
+
+
+

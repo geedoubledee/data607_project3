@@ -1,0 +1,57 @@
+
+Job Description
+The HLabs Data Scientist is responsible for creating value through the collection, organization, mining, modelling and presentation of data. The Data Scientist is expected to execute industry-standard, client-facing insights that allow Heidrick’s consultant teams to better serve their clients.
+Ideally, the candidate will have a passion for understanding organizations, leadership, and behavioral psychology. The ability to develop a deep understanding the Heidrick & Struggles business lines and the suite of products and offerings that support them is imperative.
+Manage data projects from start to finish, from data gathering, cleansing and organizing, to modelling, optimizing and presenting findings.
+Work in response to specific client needs, as well as independently on long-term, enterprise-relevant assignments.
+Present findings internally and externally to executive-level stakeholder groups
+Prepare presentations for internal and external audiences
+Contribute to publishing papers, presenting at conferences, etc.
+Consistently generate insight from data and connect findings to their end-use to ensure real-world relevancy and applicability
+Work with IT to ensure that data capture, storage, and analytical efforts have the requisite level of support and are accessible to a selective group of end users
+Create visually appealing and effective displays of data
+Contribute to thought leadership pieces and marketing materials that result from statistical analyses
+Contribute to the development of new client-facing products and the continuous optimization of existing tools
+Assist in efforts to validate and establish predictive properties for H&S proprietary tools
+Manage external vendor relationships
+Willing to travel on occasion
+Qualifications:
+1-3 years of professional analytics/data science experience preferred
+Graduate degree in statistics, analytics, informatics, etc., or undergraduate degree plus professional experience is desired
+Advanced statistical programming skills (R required; Python is a plus)
+Advanced data visualization and presentation skills (Power BI preferred)
+Applied statistics skills (regression, distribution, classification, validation, etc.)
+Big data/distributed computing platform experience is a plus
+How to Apply
+Please apply at:
+https://www.linkedin.com/jobs/cap/view/1118690106/?pathWildcard=1118690106&trk=job_capjs
+This job is located in Chicago, IL. No remote option available.
+
+
+ Job Categories: Data Scientist / Statistician. Job Types: Full-Time.
+
+
+
+
+Apply for this Job
+
+
+Name *
+
+
+Email *
+
+
+Message *
+
+
+Upload resumé (pdf, doc, docx, zip, txt, rtf)
+
+
+Upload cover letter (pdf, doc, docx, zip, txt, rtf)
+
+ 
+
+
+
+

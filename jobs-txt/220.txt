@@ -1,0 +1,50 @@
+
+Job Description
+EMC Research Inc –  Seeking developer experienced with publishing and maintaining R packages
+EMC Research is a full-service market research and analytics firm in business since 1989 with offices in Seattle, Oakland, Portland, Columbus, and Washington DC. We are looking to hire a developer to write an R package that will allow us to continue to produce our core crosstab deliverable. EMC Research currently uses SPSS 20 on our local workstations, primarily for survey data cleaning, analysis and creating deliverable-quality crosstabulations. In our existing configuration, we rely on SPSS Python Essentials and a custom Python (version 2.7) site package in order to transform SPSS output and generate our crosstab deliverables. Our users also use R and the RStudio IDE to weight survey data and other ad hoc analyses. With this new R package, we plan on replacing SPSS and Python completely and moving all cleaning, analysis and needed deliverable preparation to R. Note, the package we have found that can produce an output that most closely resembles our current deliverable is tableone (https://cran.r-project.org/web/packages/tableone/vignettes/introduction.html), but it is not adaptable enough for our purposes.
+Project criteria:
+R package that can be run on a local machine (must run on: Windows 10 Pro; 8 GB RAM; i7; or newer)
+Ability to replicate or nearly replicate our current crosstab deliverable
+Package functions have easy to understand syntax
+Quick and reliable functions for weighted crosstabulations
+Handles value and variable labels in a standard way that can be incorporated into basic data cleaning and manipulation
+Minimal reliance on packages outside the R standard library
+Minimal reliance on other languages, beyond R source code languages
+Compatibility with the Tidyverse and the survey package, which will be used for basic cleaning and data manipulation
+Robust documentation of package functions
+Ability to train our lead users (2 – 3) on using the new packages so that we can train staff
+Interested in pursuing an ongoing relationship to support the package at the conclusion of the development contract
+Timeline: alpha version by April 22, testing with lead users late April – early May; beta version by May 20; documentation, training and support May/June; availability for future upgrades/support as needed
+Our budget is $10K to $15K
+We will share the current deliverables that we are roughly attempting to replicate before a contract is executed. We anticipate that the scope may change in response to the developer’s recommendations and expertise and are open to relevant suggestions.
+How to Apply
+Send response to Travis Bunner, [email protected] 614-827-9671
+
+
+ Job Categories: R Developer. Job Types: Freelance. Salaries: Less than $100,000.
+
+
+
+
+Apply for this Job
+
+
+Name *
+
+
+Email *
+
+
+Message *
+
+
+Upload resumé (pdf, doc, docx, zip, txt, rtf)
+
+
+Upload cover letter (pdf, doc, docx, zip, txt, rtf)
+
+ 
+
+
+
+

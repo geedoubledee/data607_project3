@@ -1,0 +1,27 @@
+
+Similarweb is the leading digital intelligence platform used by over 3500 global customers. Our wide range of solutions power the digital strategies of companies like Google, eBay, and Adidas.
+We help our customers succeed in today’s digital world by giving them access to data-driven insights, competitive benchmarks, strategic analysis, and more.  
+In 2021, we went public on the New York Stock Exchange, and we haven’t stopped growing since!  
+We are looking for a Data Analyst !
+What does the day to day of a Data Analyst (Advisory Services) at Similarweb look like:
+Apply your expertise in quantitative analysis and data mining to turn data into insights.
+Conduct research and develop tools which will help answering client's’ business questions by using Similarweb’s raw data sets and algorithms.
+Create custom reports according to strategic clients business needs.
+Partner with Engineering teams to establish an infrastructure to scale solutions.
+Partner with Advisory Services team of Consultants to answer strategic business questions and deliver custom data products seamlessly
+What will I bring to the team?
+At least 2 years experience with SQL for data analysis - Must
+Experience in Python scripting - Big Advantage
+Excellent verbal and communication skills (in English) - Must
+Hadoop/Spark/AWS Infrastructure experience - Big Advantage
+Proficiency in Online Marketing/Online Services- Advantage
+At least 2 years work experience in Online/Tech Company - Advantage
+Team player, autodidact, fast learner with excellent analytical, research and business skills.
+Why you’ll love being a Similarwebber:
+You’ll actually love the product you work with: Our customers aren’t our only raving fans. When we asked our employees why they chose to come work at Similarweb, 99% of them said “the product.” Imagine how exciting your job is when you get to work with the most powerful digital intelligence platform in the world.
+You’ll find a home for your big ideas:  We encourage an open dialogue and empower employees to bring their ideas to the table. You’ll find the resources you need to take initiative and create meaningful change within the organization. 
+We offer competitive perks & benefits: We take your well-being seriously, and offer competitive compensation packages to all employees. We also put a strong emphasis on community, with regular team outings and happy hours.
+You can grow your career in any direction you choose: Interested in becoming a VP or want to transition into a different department? Whether it’s Career Week, personalized coaching, or our ongoing learning solutions, you’ll find all the tools and opportunities you need to develop your career right here.
+Diversity isn’t just a buzzword: People want to work in a place where they can be themselves. We strive to create a workplace that is reflective of the communities we serve, where everyone is empowered to bring their full, authentic selves to work. We are committed to inclusivity across race, gender, ethnicity, culture, sexual orientation, age, religion, spirituality, identity and experience. We believe our culture of equality and mutual respect also helps us better understand and serve our customers in a world that is becoming more global, more diverse, and more digital every day.
+
+

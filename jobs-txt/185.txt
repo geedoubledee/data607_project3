@@ -1,0 +1,43 @@
+
+Job Description
+Applications are being sought for a data scientist with software engineering experience to develop software with web or/and mobile interfaces for applications in cutting-edge areas of precision medicine, big data and statistical genetics/genomics. This is a non-tenure-track faculty Research Associate position. The candidates will join the research team of Dr. Nilanjan Chatterjee, Bloomberg Distinguished Professor at the Department of Biostatistics of the Bloomberg School of Public Health and the Department of Oncology, School of Medicine. The candidate is expected to collaborate with other lab members in implementing new computational algorithms and statistical methodologies into user friendly and efficient software pipelines based on web interfaces or/and mobile applications for wider use by other researchers, clinicians and sometimes by general public. Additional duties would include database development, management and integrating existing genomic and bioinformatic tools into internal analytic pipelines. For motivated candidates, there will be opportunities for career growth through leadership in certain research projects.
+The ideal candidate should have MS in Computer Science, Engineering or another highly computationally oriented field. Candidate with BS with a minimum of 5 years of work experience could also be eligible. The candidate should have
+(i) proficiency in multiple languages such as C++, Javascript, R and Python
+(ii) experience with unix/linux background including shell-scripting
+(iii)experience with big data processing framework (Hadoop, spark) and relational databases
+(iv)outstanding programming and debugging skill with demonstrable experience in software development
+(v) experience with version control system (git, hg, svn)
+(vi)strong documentation and communication skills
+Prior experience in genomics and bioinformatics would be considered a plus. Women and under-represented minority candidates are particularly encouraged to apply. Salary will be commensurate with experience and other standard employee benefits of Johns Hopkins University will apply.
+How to Apply
+Applications should be submitted through the website https://apply.interfolio.com/73591 (press the apply now button). Interested candidates should submit CV, a statement of interest describing prior experience and future career goals (2 page max) and names of up to three references. More information about the research team and project of Dr. Chatterjee can be located at:
+http://www.nilanjanchatterjee.org/. Questions about the positions can be directed to [email protected]
+
+
+ Job Categories: Data Scientist / Statistician. Job Types: Full-Time.
+
+
+
+
+Apply for this Job
+
+
+Name *
+
+
+Email *
+
+
+Message *
+
+
+Upload resumé (pdf, doc, docx, zip, txt, rtf)
+
+
+Upload cover letter (pdf, doc, docx, zip, txt, rtf)
+
+ 
+
+
+
+

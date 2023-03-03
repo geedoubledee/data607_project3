@@ -1,0 +1,67 @@
+
+Job Description
+Eastern Washington University and its Office of Institutional Research, seeks applications for the position of Data Consultant 1
+Under the supervision of the Director of Institutional Research, the Data Consultant 1 will perform entry-level activities to assist higher-level data consultants, report creators, and/or Directors with following:
+Assisting with the development, design, implementation, maintenance and modification of complex research projects involving data collection, algorithms, data manipulation, analytical modeling, data warehousing, and computer applications and reporting systems
+Assisting with data mining, statistical reasoning, and statistical procedures
+Developing dashboards and reports by extracting data from information systems
+The candidate selected for this position will be rewarded with competitive compensation and a comprehensive benefits package which includes highly subsidized health/dental plans, retirement plan with 100% university match, generous paid vacation and sick leave, 11 paid holidays (adjusted accordingly), tuition waiver benefit and more!
+EWU expands opportunities for personal transformation through excellence in learning.
+About Eastern Washington University
+Eastern is a regional, comprehensive university located in Cheney, 20 minutes from downtown Spokane. In addition to Eastern’s Cheney campus, we also offer our Riverpoint campus in Spokane, plus additional teaching/learning centers located in other cities throughout Washington State. Enrollment has reached over 12,000 students. The Cheney-Spokane area is the heart of the Inland Northwest, with excellent restaurants, theater, shopping, skiing, hiking, lakes, a choice of living in a medium-sized city or a small town, and high quality schools and housing.
+ 
+Eastern Washington University is committed to increasing the diversity of its faculty, staff, students, and academic program offerings and to strengthening sensitivity to diversity throughout the institution. Eastern Washington University is an affirmative action/equal opportunity employer, and applications from members of historically underrepresented groups are especially encouraged.
+Required Qualifications:
+Bachelor’s degree in statistics, data science, data analytics, computer science, economics, or mathematics with coursework in mathematical statistics (theory) and general linear models
+Experience analyzing descriptive and inferential statistics using the R programming language (Python or SAS will also be considered)
+Experience gathering data using SQL programming
+Excellent reproducible research habits (Git, clean coding practices, etc.)
+Demonstrated ability to learn new statistical/machine learning methods
+Candidate must demonstrate interest, ability and/or experience promoting cultural competency, universal accessibility and/or diversity.
+Preferred Qualifications:
+Knowledge and implementation of machine/statistical learning methodology (predictive modeling workflow)
+Knowledge of advanced statistical methods such as longitudinal data analysis and time-series
+R package development experience
+Experience presenting research and/or statistical findings and methods to technical and non-technical constituents
+Experience creating Tableau dashboards or R Shiny applications
+Experience working with higher education data (Banner systems)
+Other Skills and Abilities:
+Specific Position Requirements:
+Demonstrated ability to work independently or collaboratively when needed
+Demonstrated ability to deal with critical and time-sensitive processes
+Demonstrated ability to maintain confidentiality of verbal or written documents and sensitive data
+Foster a culture of ethical research, a commitment to diversity, and encourage a supportive, team-oriented work environment
+Apply Here
+PI117337727
+ 
+How to Apply
+Apply Online
+
+
+ Job Categories: Other. Job Types: Full-Time.
+
+
+
+
+Apply for this Job
+
+
+Name *
+
+
+Email *
+
+
+Message *
+
+
+Upload resumé (pdf, doc, docx, zip, txt, rtf)
+
+
+Upload cover letter (pdf, doc, docx, zip, txt, rtf)
+
+ 
+
+
+
+

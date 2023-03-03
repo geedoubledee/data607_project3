@@ -1,0 +1,63 @@
+
+Job Description
+Overview
+The Initiative for Data-Driven Social Science (DDSS) at Princeton University invites applications for a Research Software Engineer to provide computational and software development and design expertise to data-intensive social science research projects. Reporting to the DDSS Executive Director and working closely with social science faculty across campus, the position is responsible for designing and building solutions to the challenges inherent in conducting data-intensive research.
+The Research Software Engineer will also have the opportunity to help shape the development of this new initiative’s strategic vision, long- and short-term agenda, and research infrastructure.
+DDSS, which was recently launched by the Office of the Provost, is devoted to supporting innovative uses of data in the social sciences. Led by faculty director Nolan McCarty, Susan Dod Brown Professor of Politics and Public Affairs, DDSS will include a network of researchers, engineers, and developers that will drive computational social science projects and related technological infrastructure.
+This is a two-year term position with the possibility of renewal based on performance and funding. Term end date dependent upon start date.
+Responsibilities
+• Design and build software applications and systems critical to the DDSS initiative’s mission of supporting data collection and analysis across the social sciences.
+• Problem-solve new data process solutions and techniques.
+• Serve as a methodological and technical expert to the University community.
+• Work closely with faculty and other researchers to develop and refine large databases of social data.
+• Adapt existing or open source software to existing social science research challenges, and contribute to open source software.
+• Participate fully in the software development life cycle.
+ 
+Qualifications
+• A bachelor’s degree in a social science field, computer science, mathematics, statistics, or related computational field.
+• Excellent programming skills in at least two programming languages (Python, R, C/C++, Stata, or other languages used in social science research).
+• Experience translating research into stable, adaptable, and documented code.
+• Strong background in statistics, machine learning, data analysis, database management, and/or visualization.
+• Knowledgeable of software development best practices, workflow, and version control.
+Preferred:
+• Master’s or Ph.D. in a related field.
+• Experience with security requirements for storing and transferring sensitive data.
+• Experience working with front-end programming (web and desktop).
+• Strong problem-solving skills; ability to communicate complex problems and solutions to relevant stakeholders.
+• Experience in text, audio, and/or image analytics.
+• Strong interest and experience working within entrepreneurial, cross-disciplinary contexts.
+Princeton University is an Equal Opportunity/Affirmative Action Employer and all qualified applicants will receive consideration for employment without regard to age, race, color, religion, sex, sexual orientation, gender identity or expression, national origin, disability status, protected veteran status, or any other characteristic protected by law. EEO IS THE LAW
+ 
+Apply Here: http://www.Click2Apply.net/kws5gckrpzxscvwh
+PI117009982
+How to Apply
+Apply Online
+
+
+ Job Categories: Other. Job Types: Full-Time.
+
+
+
+
+Apply for this Job
+
+
+Name *
+
+
+Email *
+
+
+Message *
+
+
+Upload resumé (pdf, doc, docx, zip, txt, rtf)
+
+
+Upload cover letter (pdf, doc, docx, zip, txt, rtf)
+
+ 
+
+
+
+

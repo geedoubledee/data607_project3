@@ -1,0 +1,77 @@
+
+Job Description
+Department Description
+The DataLab: Data Science & Informatics promotes and facilitates data-enabled research and training at the frontiers of scientific, engineering, social and humanities disciplines, both applying existing and developing new methods in order to solve previously unsolved problems. A highly interdisciplinary, cross-university entity, the DataLabserves as a hub for a community of researchers and students from many domains who are interested in data science and pushing the envelope of research in the digital age. The DataLab provides advice and consultation, short-term services, and longer-term collaborations. It runs training workshops on many data science topics primarily at the intermediate and advanced levels. It holds problem-solving “un-seminars”, learning clusters, co-sponsors symposia and conferences, and generally fosters community. While the diverse efforts engaged in by the DataLab require a range of programming languages and experience, the common programming languages of the unit are R and C. For more information, see http://DataLab.ucdavis.edu and https://www.ucdavis.edu/about
+JOB SUMMARY
+The UC Davis DataLab: Data Science and Informatics is seeking a full-time data scientist to join our team. Under general direction of the DataLab Director, the Data Scientist will support academic research across the university by designing and implementing practical solutions to data science challenges. This position is responsible for working on numerous diverse, cutting-edge, collaborative research projects, providing data science consultation and services/support for other projects and researchers, offering workshops to train students, staff, and faculty in data science methods and technologies, and developing general, reusable data science infrastructure, methods, software and tools. The candidate will also have the ability to pursue her or his own externally funded Data Science research agenda up to 40% time with supervisor approval. The ideal candidate will have extensive knowledge of applying statistical and machine learning methods to real-world problems and also expertise and documented experience applying mixed effect models, time series analysis, data visualization, data technologies and parallel computing. Experience with text mining, and natural language processing is also a plus. The ideal candidate should be excited to aid data-enabled, multi-disciplinary research and to continually learn, share, and problem solve. This is a contract appointment that ends three years from the date of hire with the possibility of extension or conversion to a career position based on performance and available funding.
+POSITION INFORMATION
+Salary Range
+$6,150.00 – $12,991.67/Mo.
+No. of Positions     
+1
+Appointment Type
+Contract, Contract appointment ends three years from the date of hire with possibility of extension or conversion to a career position based on performance and available funding.
+Percentage of Time
+Full Time 100%
+Shift Hours
+Monday – Friday, Vary from 8am – 6pm
+Location
+Davis Campus
+Union Representation
+No
+Benefits Eligible
+Yes
+Apply by Date
+02/28/2020
+QUALIFICATIONS
+Required:
+-PhD in a data-analytic discipline (e.g., Data Science, Statistics, Computer Science, Mathematics, Engineering, Information Science, or similar data analysis focused discipline) with at least 2 years of work experience involving hands-on data science problem solving with real-world, complex data sets.
+-Problem-solving and data manipulation skills.
+-Knowledge of and experience applying statistical modeling and machine learning methods to real world problems.
+-Proficiency in a high-level programming language (e.g., C, R, or Python) and a willingness to learn (if necessary) and work in R and C++.
+-Initiative to advance skills and knowledge as needed to fulfill assigned tasks and projects, including learning new methods and technologies.
+-Experience teaching or training others in the proper application of data science skills, methods, and theory.
+-Ability to work both as part of a team and independently, including sharing code and documentation and conducting reproducible analyses.
+-Verbal and written communication skills for research, technical, and lay audiences.
+-Ability to organize, manage, prioritize and work on multiple dynamic projects.
+Preferred:
+-Documented experience working in teams to solve data-driven, interdisciplinary problems.
+-Experience with parallel computing paradigms and technologies for data science.
+-Experience with software development, version control, unit testing, portability.
+-Experience working with sensitive/protected data in a research setting.
+-Experience developing educational materials and curricula and leading training and educational activities on data science topics, methods, and/or technologies.
+-Experience supervising interns.
+-Experience working with researchers on experimental design for research.
+Background Check
+This position is a critical position and subject to a background check. Employment is contingent upon successful completion of background investigation including criminal history and identity checks
+How to Apply
+For more information, see http://DataLab.ucdavis.edu and https://www.ucdavis.edu/careers
+
+
+ Job Categories: Data Scientist / Statistician. Job Types: Full-Time.
+
+
+
+
+Apply for this Job
+
+
+Name *
+
+
+Email *
+
+
+Message *
+
+
+Upload resumé (pdf, doc, docx, zip, txt, rtf)
+
+
+Upload cover letter (pdf, doc, docx, zip, txt, rtf)
+
+ 
+
+
+
+

@@ -1,0 +1,36 @@
+
+Job Description
+Hello,
+I am looking for a R Shiny developer for a 3-4 weeks for a small project. I have a project which requires R shiny application development. Basically the app is all about generating interactive report which includes text/paragraph from external resources.
+I am looking for following skill sets: R, Shiny, HTML, Docker
+If you have above skills and would like to know more about the work, please get in touch.
+ 
+
+
+ Job Categories: Consultant. Job Types: Freelance. Salaries: Less than $100,000.
+
+
+
+
+Apply for this Job
+
+
+Name *
+
+
+Email *
+
+
+Message *
+
+
+Upload resumé (pdf, doc, docx, zip, txt, rtf)
+
+
+Upload cover letter (pdf, doc, docx, zip, txt, rtf)
+
+ 
+
+
+
+

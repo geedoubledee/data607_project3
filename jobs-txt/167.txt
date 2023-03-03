@@ -1,0 +1,89 @@
+
+Job Description
+Job Description
+Contract type: Permanent
+Location: London or Newcastle
+Salary: London – £62,755 – £81,847. Newcastle – £56,536-£71,657.
+Flexible working: The NAO supports flexible working and is happy to discuss this with you at application stage.
+The purpose of this role is to provide leadership to a specialist team of auditors and data scientists, to manage and deliver the NAO’s ambition to embed data analytics in our financial audit methodology, and to keep the NAO at the forefront of analytics in financial audit globally.
+This role encompasses both the development of the NAO’s data analytics capability as well as the delivery of the programme of financial audit data analytics work.
+In this role the AM will be working as part of the leadership team of managers within the NAO’s Analysis hub and report to the Chief Analyst.
+The National Audit Office (NAO) is the UK’s independent public spending watchdog. We support Parliament in holding government to account and we help improve public services through our high-quality audits.
+We have a five-year strategy from 2020 to 2025 – https://www.nao.org.uk/wp-content/uploads/2020/05/nao-strategy-2020-25.pdf
+Employee Benefits:
+• Pensions – Our pensions is much higher than the average employer. Please see the contribution rates on the following link: https://www.civilservicepensionscheme.org.uk/members/contribution-rates/. Note there are two tables; one for employee contribution and one for employer contribution.
+• We support flexible working. With the line managers discretion, employees can work different types of working patterns and/or often work from home one day a week.
+• 35 days per annum, inclusive of public holidays. Will go up to 40 days after 5 years continuous service.
+• Interest Free Season Ticket loan
+• Cycle to Work Scheme
+• An online staff discount scheme
+• A subsidised gym in Newcastle and London office has a small gym at very competitive rates.
+• You are also eligible to join either the Principal Civil Service Pension Scheme (PCSPS) or a stakeholder pension scheme known as the Partnership Pension Account
+• The NAO will pay for professional subscriptions, health checks and eyesight tests
+• In addition to the death in service benefit already provided under the PCSPS, the NAO has an additional death in service benefit. The scheme is non-contributory and equal to 1 year’s salary
+Responsibilities
+You will have a key role in the development of the NAO’s data analytics capability in financial audit across the three areas of
+• Strategy
+• Processes
+• People
+In the strategy area you will help to deliver the office’s ambitious work programme for financial audit data analytics, by:
+• Working closely with the central methodology team, the leadership team and the wider office to identify and agree priorities for the NAO’s data analytical capability;
+• Supported by the dedicated Future of Audit lead within your team, assessing existing and potential future technologies and their role in a high-quality audit methodology, and ensuring that the NAO’s leadership and non data-science auditors are well-informed about these;
+• Working with the central methodology and quality teams to plan analytics for build and release in each audit cycle;
+• Supporting members of the central financial audit analytics team, especially the Future of Audit lead, in accessing new tools and technologies to test and pilot. Working with the Chief Analyst and the other Audit Managers to commission appropriate technologies and support from the NAO’s Digital Services team
+• Identifying and scoping potential pilot clients for new analytics
+• Advising, reporting into, and participating in the relevant governance and programme boards for data analytics and audit development;
+• Building effective relationships with Audit Managers and Directors to promote and secure the effective use of analytics in audit;
+• Working with other stakeholders and the Chief Analyst to prioritise competing demands on the team’s time, and managing the team to deliver the agreed work programmes to often demanding timescales
+• Managing budgets and resourcing for the team to support delivery of the work plan, as well as for specific change projects. Occasional procurement and contractor management required.
+In the process area, you will manage the central financial audit analytics team’s processes to ensure that the process adopted for developing and delivering data analytics solutions follows a robust development methodology, such that the software developed:
+• is of appropriate quality;
+• meets the auditing standards and requirements: allowing us to transparently demonstrate that any data analytic solution operates as intended, and that the results from testing can be relied on as robust and independent evidence; and
+• is efficient and follows best practice in analytics and software design and build;
+On people matters, you will lead a team of up to 15 highly skilled specialists, and work with the Chief Analyst to create resourcing and skills development plans. The specific tasks required would include contributing to:
+• Ongoing assessment of the staff numbers and skills required to meet the expected demand relating to data analytics;
+• Supporting recruitment and training plans for specialist in-house staff and for our generalist service-line teams
+The successful candidate will be able demonstrate the following:
+Technical skills and experience:
+• Experience of leading and developing a data analytical function to deliver excellent business outcomes;
+• Experience in the use of data analytics and ability to lead the design of innovative data analytic solutions that address audit teams’ needs;
+• A good understanding of the software development process covering system specification, coding and testing of systems to ensure the delivery of reliable and robust solutions. This role is for a manager rather than a technical specialist, so an ability to act as an ‘interpreter’ of these issues for auditors and senior stakeholders is essential, while advanced technical analytics ability is not;
+• An understanding of common finance data structures and concepts in data modelling as understanding this will be integral to helping develop such solutions. Our data analytics work typically involves the major ERP systems (e.g. SAP and Oracle) so knowledge of these systems would be an advantage;
+• A background in audit or finance is desirable but not essential. An understanding of some of the key business processes operated by our clients (e.g. purchase to pay, order to cash and payroll) would also be helpful.
+Other skills:
+• Communication and influencing skills to maximise the influence of our work with external clients and stakeholders and to promote excellent analytical practice with internal colleagues;
+• Collaborative, engages well with colleagues at all levels, and invests in their development and the wider success of the organisation.
+• Experience in presenting data analytics solutions to audiences, including senior level client staff, and ability to explain technical aspects of solutions to non-specialists clearly and succinctly
+• A track record of good people management, including experience of supporting specialist staff to develop, grow and progress. The team has a strong collaborative culture which supports high levels of flexibility and remote working, and candidates will be asked to demonstrate how they apply respect, inclusivity, and curiosity in managing specialist teams.Skills required
+ 
+How to Apply
+Please visit the following link to apply: https://nao-careers.force.com/xcdrecruit__Site_ExternalPositionDetails?id=aJm4I0000008OO4
+
+
+ Job Categories: Data Scientist / Statistician. Job Types: Full-Time. Salaries: More than $100,000.
+
+
+
+
+Apply for this Job
+
+
+Name *
+
+
+Email *
+
+
+Message *
+
+
+Upload resumé (pdf, doc, docx, zip, txt, rtf)
+
+
+Upload cover letter (pdf, doc, docx, zip, txt, rtf)
+
+ 
+
+
+
+

@@ -1,0 +1,70 @@
+
+				Job Function:  Data Analysis and Analytics
+In accordance with guidelines regarding companies classified as Federal contractors and consistent with their core commitment of safety, National Grid has made the decision to require all new hires to be fully COVID-19 vaccinated as a condition of hire. “Full vaccination” is defined as two weeks after both doses of a two-dose vaccine or two weeks since a single-dose vaccine has been administered. Anyone unable to be vaccinated, either because of a religious belief or a disability can request a reasonable accommodation.
+About them
+Every day they deliver safe and secure energy to homes, communities, and businesses. They are there when people need them the most. They connect people to the energy they need for the lives they live. The pace of change in society and their industry is accelerating and their expertise and track record puts them in an unparalleled position to shape the sustainable future of their industry.
+To be successful they must anticipate the needs of their customers, reducing the cost of energy delivery today and pioneering the flexible energy systems of tomorrow. This requires them to deliver on their promises and always look for new opportunities to grow both ourselves and their business.
+National Grid is hiring a Lead Data Scientist for their Data Science department in Waltham, MA
+Job Purpose
+National Grid seeks a Lead Data Scientist who is passionate about the role advanced analytics can play in providing their community with heat and power — safely, affordably, and cleanly.  At National Grid, you will collaborate with a team of data scientists, data engineers, and MLOps specialists to solve problems across all parts of the business (gas, electric, and customer).  You will work in a dynamic organization to turn data into actionable intelligence. The variety and complexity of challenges you will solve is second to none, but most important is the real world impact your work will have on the lives of millions of people.
+As a member of the National Grid Data Science team, you will work cross-functionally mining big and small data and applying a variety of analytics techniques (from simple to advanced) to solve business challenges.  Example projects the team has worked on include storm-caused electric outage predictions, ML-based gas leak detection, and EV charger installation forecasting. Success in this role requires a strong foundation in:
+Stakeholder engagement
+Data Science/Machine Learning
+Statistical & Probabilistic Analyses
+Programming/Software Development
+Effective Visualization and Presentation
+Key Accountabilities
+Lead major projects from conception to completion, working with multiple teams of stakeholders directly to understand and address their analytic needs
+Collaborate with Data Engineering to identify, extract, and integrate data sets ranging in size from spreadsheets to big data; prepare and clean data for use in advanced analyses
+Employ sophisticated analytics, machine learning, and statistical methods for predictive and prescriptive modeling, forecasting, and simulations
+Develop structured, documented, version-controlled code and work with ML Ops to productionalize models
+Mentor junior Data Scientists
+Contribute toward the strategic vision for shaping the Data Science team of tomorrow
+Supervisory/Interpersonal- Experience Required
+Works well in a team.
+Qualifications
+Energy industry interest
+Bachelors degree or higher plus 7+ years of experience as a data scientist (or similar) in a business environment. Candidates with an MS and/or PhD require less experience.
+Experience leading projects
+Demonstrated ability to communicate and interact with business stakeholders
+Demonstrated ability to translate technical knowledge into business terms
+Fluency in:
+Machine learning tools and techniques
+Python
+SQL
+
+Be intellectually curious and enjoy learning
+Work well in a team environment
+More Information
+This position has a career path which provides for promotional opportunities within and across bands as you develop and evolve in the position; gaining experience, expertise and acquiring and applying technical skills. Internal candidates will be assessed and provided offers against the minimum qualifications of this role and their individual experience.
+National Grid is an equal opportunity employer that values a broad diversity of talent, knowledge, experience and expertise. They foster a culture of inclusion that drives employee engagement to deliver superior performance to the communities we serve. National Grid is proud to be an affirmative action employer. They encourage minorities, women, individuals with disabilities and protected veterans to join the National Grid team.
+		                
+                    More Information
+                    
+                        
+
+
+
+Salary Offer
+
+0 ~ $3000
+
+
+
+Experience Level
+
+Junior
+
+
+
+Total Years Experience
+
+0-5
+
+
+
+Dropdown field
+
+Option 1                        
+                
+            	

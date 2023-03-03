@@ -1,0 +1,36 @@
+
+				Our Ai+ Hiring Partner exists to change the face of high-performance big-data computing; to radically accelerate scale and simplicity for data-intensive applications. Ultimately, they strive to change how the world will compute. And they’re looking for ambitious, hungry, talented individuals to help communicate and drive this change. Their technology provides automatic parallelization and massive scale for analytics workloads including Python and SQL. This allows data engineers and data scientists to focus on solving business problems instead of dealing with the scalability and performance of their code. They believe it will radically democratize programmer’s access to research-scale computing that has only been available to a privileged few. They are well-funded with an *extraordinary* set of excited customers, as well as brand-name technology partners. They are now looking for an ambitious and energetic individual to join their marketing team.
+Job Summary and Responsibilities
+This critical role will be highly visible, with the charter to define and build their developer relations and developer advocacy functions. At minimum, It will be accountable for the following: Community identification & engagement – Finding and engaging relevant developer, data engineer and developer communities. Listening for valuable insights, and engaging where appropriate to educate participants about their Company. Communications / Blogs – Frequently generate content to enlighten / engage the technical community. Plan and help create engaging developer content for our blog, videos, social media, and other outlets Developer examples, demos, use-cases – Building developer-focused educational content to reduce friction of adoption and time-to-value. Complementary/Adjacent Technology ID and engagement – Helping management and marketing understand adjacent technology spaces (APIs, frameworks, libraries, cloud services, etc.) that company needs awareness/attention. And to determine if/when to engage developers in those domains. Developer Experience advocate – Work with Product Management, UX and Engineering to bring developer feedback to improve product, developer experience, documentation The KPIs for the role will be outcome-oriented from the above actions, and include areas including content/media consumption, social engagement, tool use, and trial product adoption.
+Qualifications and Skills:
+Adept with Python for data science and data engineering, including working knowledge of Pandas, NumPy, Scikit Learn etc. Ideally at least two years of professional experience as a software engineer or developer, or equivalent technical experience – and still live and breathe the community Awareness – if not working knowledge – of Spark, Dask, Ray, and other performance-related Python libraries Knowledge of data warehouse and analytics platforms including Databricks, Cloudera, Snowflake, etc. Experience with fast-growing developer relations, technical advocacy and/or community management functions; bonus for experience in building, growing and nurturing a team. Enjoy teaching, speaking and writing about new compute and data-intensive technologies Experience speaking at developer community events and participating in online forums, meetups, etc. The ability to engage with developer communities in a credible way, including the spirit of a community organizer. Creativity and passion to generate grass-roots attention, support and adoption of developer-focused high-performance computing technologies Excellent oral and written communication skills and time management skills: you can explain a sophisticated technical issue in such a way that most people could understand. A bachelor’s degree in computer science or a related field, or equivalent professional experience company provides a competitive salary, significant equity stake, 401K, employer-paid medical, dental, and vision, employer partially paid dependent benefits, employer-paid life insurance, remote work, and flexible working hours. Unlimited time off and new Macs also are a perk while working on a new technology offering. Location in the SF Bay Area or Pittsburgh preferred but not required.
+		                
+                    More Information
+                    
+                        
+
+
+
+Salary Offer
+
+0 ~ $3000
+
+
+
+Experience Level
+
+Junior
+
+
+
+Total Years Experience
+
+0-5
+
+
+
+Dropdown field
+
+Option 1                        
+                
+            	

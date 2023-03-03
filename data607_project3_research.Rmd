@@ -19,55 +19,88 @@ library(magrittr)
 library(DBI)
 library(dbplyr)
 library(RMariaDB)
+library(data.table)
+library(tidytext)
+
 ```
 
 ## State the Research Question: 
 
 W. Edwards Deming said, “In God we trust, all others must bring data.” Below, we will use data to explore the question, **“Which are the most valued data science skills?”**
 
+## Connect to the SQL Data Base:
+
+```{r db_con}
+con <- DBI::dbConnect(
+  RMariaDB::MariaDB(),
+  dbname = "dat_sci_jobs",
+  username = "root",
+  password = as.character(read.table("sql_db.txt", header = FALSE)),
+  host = "35.227.102.234")
+
+```
+
+## Read from the SQL Data Base and Disconnect:
+
+```{r db_write}
+tables <- dbListTables(con)
+jobs_df <- dbReadTable(con, "_Jobs")
+dbDisconnect(con)
+
+```
+
 ## Create a Data Frame of Jobs Found via RSS Feed By Combining CSV Files and Removing Duplicates:
 
 ```{r jobs_df}
-files <- list.files(pattern = ".csv$")
+
+completed_files <- readLines("completed_files.txt")
+
+files <- list.files(pattern = "\\.csv$")
 url_base <- "https://raw.githubusercontent.com/geedoubledee/data607_project3/main/"
-jobs_df <- as.data.frame(matrix(nrow = 0, ncol = 11))
+new_jobs_df <- as.data.frame(matrix(nrow = 0, ncol = 11))
 for (i in 1:length(files)){
-    file <- paste(url_base, files[i], sep = "")
-    csv <- read.csv(file = file, header = TRUE)
-    jobs_df <- rbind(jobs_df, csv)
+    if (!(files[i] %in% completed_files)){
+        file <- paste(url_base, files[i], sep = "")
+        csv <- read.csv(file = file, header = TRUE)
+        new_jobs_df <- rbind(new_jobs_df, csv)
+        completed_files <- append(completed_files, files[i])
+    }
 }
-jobs_df <- jobs_df[!duplicated(jobs_df), ]
+
+writeLines(completed_files, "completed_files.txt")
+
+new_jobs_df <- new_jobs_df[!duplicated(new_jobs_df), ]
 
 ```
 
 ## Remove Unnecessary Columns in Jobs Data Frame and Rearrange Remaining Columns to Prepare the Data for the SQL Data Base:
 
 ```{r jobs_df_minimize}
-jobs_df <- subset(jobs_df, select = -c(X, author, summary, content, extracted_content_url, published, created_at))
+new_jobs_df <- subset(new_jobs_df, select = -c(X, author, summary, content, extracted_content_url, published, created_at))
 cols <- c("Job_id", "Site_id", "Job_title", "Job_url")
-colnames(jobs_df) <- cols
-rownames(jobs_df) <- NULL
-jobs_df <- jobs_df[c("Job_id", "Job_title", "Job_url", "Site_id")]
+colnames(new_jobs_df) <- cols
+rownames(new_jobs_df) <- NULL
+new_jobs_df <- new_jobs_df[c("Job_id", "Job_title", "Job_url", "Site_id")]
+new_jobs_df %<>%
+    mutate(Job_complete = 0)
+
+jobs_df <- rbindlist(list(jobs_df, new_jobs_df))[!duplicated(Job_url)]
+
 jobs_df %<>%
     mutate(Job_id = row_number())
-    mutate(Job_complete = 0)
 
 ```
 
 ## Scrape Each Unique Job Listing URL:
 
-```{r scrape}
+```{r scrape, warning = FALSE, message = FALSE}
 
-if (!dir.exists("jobs-text")){
-    dir.create("jobs-txt")
-}
-loc <- paste(getwd(), "/jobs-txt", sep = "")
-
-for (i in 1:length(jobs_df$Job_url)){
+for (i in 1:nrow(jobs_df)){
     httr::user_agent("Glen Davis")
     if (jobs_df[i, 5] == 0){
-        dat <- try(xml2::read_html(jobs_df$Job_url[[i]]))
+        dat <- try(xml2::read_html(jobs_df$Job_url[[i]]), silent = TRUE)
         if (inherits(dat, "try-error", which = FALSE)){
+            jobs_df[i, 5] <- -1
             next
         }
     }else{
@@ -81,20 +114,28 @@ for (i in 1:length(jobs_df$Job_url)){
         desc <- xml2::xml_find_all(
             dat, "//div[contains(@class, 'job-description')]")
     }
-    else if (jobs_df[1,4] == 2594162){ #careercast it & eng is source
+    else if (jobs_df[i, 4] == 2594162){ #careercast it & eng is source
         desc <- xml2::xml_find_all(
             dat, "//div[contains(@class, 'arDetailDescriptionRow')]")
     }
-    else if (jobs_df[1,4] == 1378327){ #jobs for r-users is source
+    else if (jobs_df[i, 4] == 1378327){ #jobs for r-users is source
         desc <- xml2::xml_find_all(
             dat, "//div[contains(@class, 'section_content')]")
     }
-    else if (jobs_df[1,4] == 2593879){ #Indeed is source
+    else if (jobs_df[i, 4] == 2593879){ #Indeed is source
         desc <- xml2::xml_find_all(
             dat, "//div[contains(@class, 'jobsearch-jobDescriptionText')]")
     }
+    else if (jobs_df[i, 4] == 2594166){ #Open Data Science is source
+        desc <- xml2::xml_find_all(
+            dat, "//div[contains(@class, 'job-desc')]")
+    }
+    else if (jobs_df[i, 4] == 2594174){ #MLconf is source
+        desc <- xml2::xml_find_all(
+            dat, "//div[contains(@class, 'job_description')]")
+    }
     desc <- xml2::xml_text(desc)
-    fn <- paste(loc, jobs_df[i, 1], ".txt", sept = "")
+    fn <- paste(jobs_df[i, 1], ".txt", sep = "")
     writeLines(desc, con = fn)
     jobs_df[i, 5] <- 1
 }
@@ -117,8 +158,45 @@ con <- DBI::dbConnect(
 
 ```{r db_write}
 tables <- dbListTables(con)
-dbAppendTable(con, "_Jobs", jobs_df)
+dbWriteTable(con, "_Jobs", jobs_df, overwrite = TRUE)
 dbDisconnect(con)
 
 ```
 
+## Analyze the CSV Job Descriptions with TidyText
+
+```{r tidytext_analysis}
+
+files <- list.files(pattern = "^[1-9]+.*txt$")
+if (!dir.exists("jobs-txt")){
+    dir.create("jobs-txt")
+}
+file.copy(from = paste0(getwd(), "/", files),
+          to = paste0(getwd(), "/jobs-txt/", files))
+file.remove(from = paste0(getwd(), "/", files))
+
+url_base <- "https://raw.githubusercontent.com/geedoubledee/data607_project3/main/jobs-txt/"
+
+completed_txt_files <- c()
+
+text_df <- as.data.frame(matrix(nrow = 0, ncol = 3))
+cols <- c("Text", "Job_id", "Line")
+colnames(test_df) <- cols
+
+for (i in 1:length(files)){
+    if (!(files[i] %in% completed_txt_files)){
+        file <- paste(url_base, files[i], sep = "")
+        job_id <- str_replace(files[i], ".txt", "")
+        lines <- readLines(file)
+        for (i in 1:length(lines)){
+            col2 <- matrix(job_id, nrow = length(lines), ncol = 1)
+            col3 <- matrix(1:length(lines), nrow = length(lines), ncol = 1)
+        }
+        completed_files <- append(completed_txt_files, files[i])
+        addition <- cbind(lines, col2, col3)
+        colnames(addition) <- cols
+        text_df <- rbind(text_df, addition)
+    }
+}
+
+```

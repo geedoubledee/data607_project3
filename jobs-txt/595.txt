@@ -1,0 +1,33 @@
+
+Location
+This role accepts applications for work in Ireland.
+The Opportunity
+Ask Media Group is looking for an Ireland-based Business Data Analyst to help us grow our AMG properties. In this role, you’ll work collaboratively with the AMG analytics team and business stakeholders to both conduct analysis on traffic/marketing/system health trends as well as use data insights to help determine our optimal site layout to drive user retention and monetization. 
+What You'll Do:
+Scope – Ask Media Group acquires users across search, content, email, and social channels driving traffic to a host of different landing pages. You’ll use your experience in analytics, web traffic trends, and A/B testing to boost volume and optimize the user experience across channels.
+System monitoring – You’ll use our host of internal/external tools to help maintain and monitor our most vital systems to ensure that crucial systems remain healthy and that use patterns are well known for the sake of future planning.
+Business partnership – You’ll work closely with marketing, product, and development teams to best understand their tactics, initiatives, and goals. You’ll use your in-depth knowledge of business goals, methods, and tactics to choose the best analytic method and approach.
+Analysis ownership – You’ll own projects from beginning to end, providing an analytic or test plan, compiling data and/or interpreting results and then delivering results to stakeholders of diverse backgrounds / levels. You are responsible for both the analytic results themselves, as well as ensuring that stakeholders understand the results and utilize the findings.
+Statistical testing – You’ll conduct formal statistical analysis on website trends and especially on the results of A/B tests in coordination with product and development teams. You’ll use statistical best practices to: prepare data for analysis, verify assumptions for stat testing, conduct analysis and be prepared to defend your method and findings to a diverse audience.
+Reporting pipeline – Create and maintain reports on site performance and A/B testing results. You are both the creator and consumer of reports and KPIs, being responsible for data accuracy and timeliness, but also using insights derived from them to determine further areas for investigation and to drive the future direction of product efforts.
+Stakeholder communication – Deliver performance summaries that clearly and concisely articulate analytical findings. Be prepared to explain, defend, or revise your analysis in the face of new data or new perspectives.
+What You Bring to Us:
+B.S. or higher in a quantitative field (e.g., statistics, finance, economics, mathematics, computer science)
+M.A. or higher degree preferred
+3+ years of analytics experience
+Experience in web analytics, especially content and search site metrics / KPIs
+2+ years of experience in A/B testing
+Versed in parametric / non-parametric statistical analysis plus 1+ years’ experience in applying findings to business problems
+Must have advanced knowledge of SQL
+Experience in trend analysis / outlier detection
+Skilled in Excel, PowerPoint, Looker, Tableau (or similar dashboard software)
+Experience with Python or R is preferred
+Track record of demonstrating initiative and independent thinking
+Speed, resourcefulness and a go-getter demeanor. Moving quickly and executing to allow for continual iteration is a core qualification of our team.
+Willingness to supply new insights and articulate them to a variety of partners and not just execute on existing ones.
+A love of data - you go get the data you need and turn it into an insightful story. You know how to convert data into decisions without getting stuck in paralysis by analysis.
+Strong oral and written communication skills
+Company Culture
+As an organization, we value transparency, collaboration, learning, and collegiality. People are passionate about learning and doing our best. Sometimes we fail, but we learn from these failures. All the while, we believe that maintaining work-life balance and having fun is the key to our success.
+We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.
+

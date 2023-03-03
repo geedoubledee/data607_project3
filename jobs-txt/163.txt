@@ -1,0 +1,84 @@
+
+Job Description
+Data Scientist – CGIAR Excellence in Agronomy (Ref No: DDG-R4D/DS/2/CG/EA/06/20)
+ 
+Background: The International Institute of Tropical Agriculture (IITA) invites applications for the internationally recruited position of Data Scientist – CGIAR Excellence in Agronomy.
+ 
+The International Institute of Tropical Agriculture (IITA) is a not-for-profit institution that generates agricultural innovations to meet Africa’s most pressing challenges of hunger, malnutrition, poverty, and natural resource degradation. Working with various partners across sub-Saharan Africa, we improve livelihoods, enhance food and nutrition security, increase employment, and preserve natural resource integrity. IITA is a member of CGIAR, a global agriculture research partnership for a food secure future. Please visit http://www.iita.org/ for more information on IITA.
+ 
+IITA seeks a creative, self-motivated, and results-oriented candidate for the position of Data Scientist (Postdoctoral Fellow) to work on datasets from the Global South as part of the Bill and Melinda Gates Foundation-funded Excellence in Agronomy initiative. The successful candidate will employ spatial and predictive modeling techniques to conduct research; contribute to the development of data science capacity; help articulate effective experimental designs and GIS-mediated sampling frames for field trials; develop spatial statistical analytics for biophysical and socio-economic information; contribute to survey and trial data collection and analysis methods via standards-compliant, rapid, and inexpensive measurement and data collection techniques.
+ 
+The specific research focus of this position is to integrate analytics to guide effective targeting of a suite of interventions and model their future impact (yield gap analysis, farm typologies, crop modelling, geospatial analysis, etc.) into solutions and decision support applications. These solutions will respond to specific demands from partners from the digital agriculture domain and contribute to a CGIAR-led research platform to advance the state-of-the-art of predictive agronomy, focused primarily on sub-Saharan Africa and South Asia.
+ 
+This postdoctoral fellow will work as a member of the Excellence in Agronomy initiative led by IITA in close collaboration with other CGIAR Centers and other public, private, local and international partners. This position is the second of two openings for a data scientist, with the first focusing on data integration and analytics, and the second on solutions and decision support.
+ 
+Position Responsibilities
+ 
+Use spatial and predictive modeling techniques to conduct research on yield prediction, improved technology targeting and impact modelling.
+Collaborate with scientists across the initiative to design and test generic solutions and data analytics addressing common requirements across a range of use cases.
+Collaborate as appropriate to develop and maintain an existing or new web-based platform to host solutions developed across the initiative.
+Maintain a detailed documentation in public GitHub, R/other code or other repositories for all solutions developed.
+Package and adapt solutions for specific decision support applications and develop and/or adapt ICT-based tools and/or APIs to be integrated in services of Ag4D partners.
+Provide technical support for user-based testing of the applications developed.
+Provide technical support and capacity building for EiA researchers and national partners.
+Contribute to the development of new project proposals and progress reports.
+Produce peer-reviewed research articles.
+Perform any other job-duties as may be assigned by the supervisor.
+ 
+Educational Qualifications
+The candidate must have agricultural experience and should hold a PhD in data science, statistics or a related relevant field, or an MSc with at least 2 years of relevant working experience.
+ 
+Core Competencies
+The ideal candidate must have:
+Advanced experience in coding in R and/or Python to develop solutions in the agricultural/environmental domain.
+Significant experience in applied statistics including data analysis and experimental design. Proficiency in geospatial statistics is a plus.
+Experience in developing scripts to process and aggregate data from several sources.
+Experience with programming in teams, and methods to maintain code integrity, documentation and standards.
+Proven capacity in contributing to the documentation of scientific research.
+Strong analytical skills.
+Excellent communication skills, able to interact with a multi-cultural and interdisciplinary team of scientists and development partners on ICT and statistics in lay terms.
+Proactive and independent problem solver, and an excellent team player.
+Experience communicating the results of analyses in scientific publication and with science and development audiences and government, public and private clients to influence their strategies.
+ 
+Duty Station: IITA-Nairobi, Kenya.
+ 
+General information: The contract will be for an initial period of two years. IITA offers an internationally competitive remuneration package paid in US Dollars.
+ 
+Applications: Applications must include covering letter which should address how the candidate’s background/experience relates to the specific duties of the position applied for, curriculum vitae, names and addresses of three professional referees (which must include either the Head of the applicant’s current or previous organization or applicant’s direct Supervisor/Superior at his/her present or former place of work). The application should be addressed to the Head, Human Resources. Please complete our online application form using this link: http://www.iita.org/careers
+ 
+Closing Date: 31st July 2020
+ 
+IITA is an equal opportunity employer and is committed to building a diverse workforce
+ 
+While all applications will be acknowledged, please note that only shortlisted candidates will be contacted.
+How to Apply
+Applications: Applications must include covering letter which should address how the candidate’s background/experience relates to the specific duties of the position applied for, curriculum vitae, names and addresses of three professional referees (which must include either the Head of the applicant’s current or previous organization or applicant’s direct Supervisor/Superior at his/her present or former place of work). The application should be addressed to the Head, Human Resources. Please complete our online application form using this link: http://www.iita.org/careers
+
+
+ Job Categories: Data Scientist / Statistician. Job Types: Full-Time. Job Tags: IITA offers an internationally competitive remuneration package paid in US Dollars.
+
+
+
+
+Apply for this Job
+
+
+Name *
+
+
+Email *
+
+
+Message *
+
+
+Upload resumé (pdf, doc, docx, zip, txt, rtf)
+
+
+Upload cover letter (pdf, doc, docx, zip, txt, rtf)
+
+ 
+
+
+
+

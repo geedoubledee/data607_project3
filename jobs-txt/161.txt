@@ -1,0 +1,64 @@
+
+Job Description
+About Income Discovery:
+Income Discovery is a proven scalable enterprise technology platform to augment wealth management technology platforms with retirement decumulation capabilities. 
+ 
+Our powerful AI engine, AIDA, generates a personalized optimal strategy to boost a client’s annual safe retirement income by as much as 20%. 
+ 
+Income Discovery empowers financial advisors to:  
+ 
+Differentiate the value of their professional advice by increasing the client’s post-tax safe retirement income by as much as 20%  
+Exponentially grow their retirement income business by increasing their client acquisition rate by as much as 250%  
+Efficiently and scalably serve millions of retirees through automated tax-optimal cash flow generation 
+ 
+About the Role:
+Your primary responsibility will be to expand and maintain an analytics research workbench for stochastic modeling and automated regression testing using R. Through communication with business analysts and customers, you will define and implement functional requirements of new analytical methodology.
+ 
+A key aspect of the role is collaboration with customers and prospects to expand the breadth and depth of modeling support for dynamic retirement income strategies and products. You will work closely with the software development team to validate AIDA’s modeling. Additionally, you will research AI and machine learning techniques to improve AIDA’s performance and capabilities.
+ 
+This is a high profile role, interacting with software developers, business analysts, customers, prospects, and regulators. You will report directly to the Chief Analytics Officer.
+ 
+About You:
+– You likely hold an advanced degree in Quantitative Analysis (Economics, Finance, Statistics, etc.)
+– You have 5-10 years experience with a focus on modeling financial instruments and statistical programming, especially using R
+– You possess strong analytical and technical skills, including successfully developing models from functional requirements with minimal supervision
+– You are flexible and versatile, able to prioritize tasks and wear a variety of hats as needed
+– You have knowledge of retirement planning products and the wealth management industry
+– You enjoy researching artificial intelligence and machine learning applications in quantitative financial modeling
+ 
+Income Discovery employees work exclusively remotely, however, you will be required to be available and working during East Coast business hours (EST). Employees have a choice of working from home or from a co-working space near one’s home. 
+ 
+All employees are eligible to participate in the Benefit Program, offering health care coverage options (medical, dental & vision) plus other voluntary insurance and benefits including a 401(k) and a Flexible Spending Account (FSA).  
+ 
+Income Discovery is an Equal Opportunity Employer.  All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, national origin, disability or protected veteran status, or any other legally protected basis, in accordance with applicable law.
+How to Apply
+Interested candidates should submit their resume and cover letter, including salary requirements, to [email protected]
+
+
+ Job Categories: R Developer. Job Types: Full-Time. Salaries: More than $100,000.
+
+
+
+
+Apply for this Job
+
+
+Name *
+
+
+Email *
+
+
+Message *
+
+
+Upload resumé (pdf, doc, docx, zip, txt, rtf)
+
+
+Upload cover letter (pdf, doc, docx, zip, txt, rtf)
+
+ 
+
+
+
+

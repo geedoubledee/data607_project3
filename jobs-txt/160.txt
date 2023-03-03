@@ -1,0 +1,50 @@
+
+Job Description
+The role:
+We are looking for an “R ninja” to help in the construction of an innovative global “quantamental system”. This system estimates special financial-economic indicators and develops tools that allow investors to deploy quantitative trading strategies with fundamental economic inputs.In your work you will learn requirements of modern portfolio management solutions, participate in the development of high-level architecture of the system, and develop and implement lower-level technical solutions.
+Qualifications:
+The key technical requirements are:
+strong programming skills in R,
+academic background or – at least – strong interest in statistics and econometrics,
+strong interest in economics and finance, particularly economic and financial data,
+experience working with SQL is highly desirable but is not a requirement.
+Your core values must include strong work ethic with a sense of responsibility and integrity, being comfortable with working in a small project team, and enjoyment in solving technical problems.
+ 
+You will receive particularly great benefit from this assignment if,
+you are conscientious and dedicated to quality in programming and analysis,
+you like finding innovative solutions for difficult problems, and
+you wish to upgrade your know-how and standing in the financial industry.
+The position is suitable for candidates straight from the academic world and those that have worked for a few years in the private sector, particularly in the financial industry or government sector.
+About the company
+Macrosynergy is a pioneer of quantitative fundamental, or quantamental, macro trading strategies: advanced quantitative methods with fundamental information. Modern statistical learning and macroeconomic research are complementary and essential for efficient, ethical, and sustainable investment management. We help asset owners in all stages of quantamental investment management based on nearly three decades of experience across asset management, proprietary trading, and macroeconomic research.
+How to Apply
+Please apply by sending your CV to [email protected], if possible with a link to a public GitHub repository showing examples of your coding style. Interviews will be conducted on an ongoing basis.
+
+
+ Job Categories: Data Scientist / Statistician. Job Types: Full-Time.
+
+
+
+
+Apply for this Job
+
+
+Name *
+
+
+Email *
+
+
+Message *
+
+
+Upload resumé (pdf, doc, docx, zip, txt, rtf)
+
+
+Upload cover letter (pdf, doc, docx, zip, txt, rtf)
+
+ 
+
+
+
+

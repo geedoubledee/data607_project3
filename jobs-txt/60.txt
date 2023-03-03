@@ -1,0 +1,42 @@
+
+Do you ever wonder what happens inside the cloud?
+DigitalOcean (NYSE: DOCN) simplifies cloud computing so builders can spend more time creating software that changes the world. With our mission-critical infrastructure and fully managed offerings, DigitalOcean enables startups and small and medium-sized businesses (SMBs) to rapidly deploy and scale modern applications. As a remote-first organization, our employees, like our customers, are based around the world. We want people who are passionate about creating products that millions of developers will love.
+Our Data Science and Analytics team is looking for a motivated and results-oriented self-starter who is passionate about applying scientific processes and technologies to uncover and communicate business insights.
+Our focus is data mining, modeling, and hypothesis testing to find those levers that improve customer satisfaction, accelerate revenue growth, and assist with planning.
+Your role will be to lead and scale efforts with measurable impact across our large customer base. You will design and build tools based on AI/ML technologies.
+What you'll be doing:
+You will be applying your modeling skills using SQL, R and/or Python, and a suite of AI/ML tools to determine causation, make predictions and gain insights into future demand for our products and services, scoring systems, and recommenders
+Working with the sales, customers services, finance, and infrastructure by forecasting future demand, building simulation models to optimize CapEx for the forecasted demand and by working with products to build business cases for new products
+Finding opportunities to automate manual processes for sales and customer services.
+Partnering with the data engineering team to complete ETL/ELT projects
+Moving your models from idea, prototyping and into production
+Working with Engineering teams to optimize Capacity usage
+You can find our team working on:
+Collaborating with data creators across the organization to ingest and connect complex, disparate datasets from throughout our customers' lifecycles.
+Maintaining and expanding the centralized data platform and its mechanisms for delivering data to the organization.
+Partnering with business stakeholders to identify opportunities for the application of advanced statistical and machine learning methods to produce models and prescriptive data that result in better decisions by people or systems
+Developing strong partnerships with key decision-making business stakeholders
+Serving as data experts and advocates during both strategic planning and day-to-day operations and helping lead a global effort to document our data and metrics
+Generating recommendations and insights on how we can best grow our business
+What we're looking for:
+Candidates who are motivated by creating change with data through tools, models, and visualizations. We strive to approach problems with curiosity and empathy, and make a measurable impact for our customers and business.
+Able to develop and implement metrics and dimensions for powering analytical use cases across the company, incorporating a wide variety of data sources across the company at varying levels of complexity and scale
+Able to work closely with data stakeholders across the company, both technical and non-technical, to understand evolving needs as more complex data models are introduced for reporting and data science
+What we'll expect from you:
+Bachelor’s degree in Computer Science, Math, Statistics, Economics, or other quantitative fields;  or equivalent experience. Preferred: Master or PhD level
+Track record of developing in complex data environments and intelligence platforms for business users
+Experience designing and building dashboards in BI tools like Looker, Tableau, or PowerBI.
+Experience with analytics databases like Snowflake, Redshift, or BigQuery
+Proven experience with programming languages such as Python, SQL, and R
+High-Performance Computing (HPC) MPI programming in either C++ or Fortran is a plus but not required
+Developing tools using containers such as Docker and GitHub for source control
+Fluency with software engineering processes such as version control, testing, and continuous integration
+Ideally, you will have experience with Operations Research optimization such as LP models, Machine Learning models such as Logit-Regression, Recursive Repartitioning, C5.0, Random Forest, Gradient Boosting, Neural Networks, and Bayesian Models
+Why You’ll Like Working for DigitalOcean:
+We reward our employees. (The base salary range for this position is between $90,000-$150,000 based on relevant years of experience and skills. The salary range for this role is specific to candidates located within the U.S. and will vary for candidates outside the U.S..) (The salary range for this position is based on relevant years of experience and skills.) Employees may qualify for a bonus in addition to base salary; bonus amounts are determined based on company and individual performance. We also provide equity compensation to eligible employees including grants of equity upon hire and the option to participate in our Employee Stock Purchase Program.
+We value development. You will work with some of the smartest and most interesting people in the industry. We are a high-performance organization that is always challenging our teams and employees to continuously grow. We maintain a growth mindset in everything we do and invest deeply in employee development through formalized mentorship and other internal programs. We provide all employees with reimbursement for relevant conferences, training, and education.
+We care about your well-being. In addition to cash and equity compensation, we also offer employees a competitive array of benefits. In the United States, these include health insurance, unlimited vacation, retirement benefits, a generous parental leave program, and additional resources to support employees' overall well-being. While the philosophy around our benefits is the same worldwide, specific benefits may vary in other countries due to local regulations and preferences.
+We value diversity and inclusivity. We are an equal opportunity employer and we do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.
+*This is a remote role
+#LI-Remote
+

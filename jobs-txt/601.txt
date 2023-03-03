@@ -1,0 +1,37 @@
+
+iCapital is powering the world’s alternative investment marketplace. Our financial technology platform has transformed how advisors, wealth management firms, asset managers, and banks evaluate and recommend bespoke public and private market strategies for their high-net-worth clients. iCapital services approximately $152 billion in global client assets invested in 1,210 funds, as of December 2022. 
+ iCapital has been named to the Forbes Fintech 50 for five consecutive years (2018 – 2022); a back-to-back selection by Forbes to its list of Best Startup Employers; and a two-time winner of MMI/Barron’s Solutions Provider award (See link below). 
+ About the Role 
+iCapital is looking to hire an outstanding Data Scientist to join our Data and Analytics team.  This role will drive engineering of iCapital’s firm wide data science platform. Your typical day is designing solutions and coding new features for users. The ideal candidate will be working across Product Management, Data & Analytics, and Technology teams. 
+Responsibilities 
+Build and integrate AI/ML/DS tools and workflows to address business needs and increase business efficiency. 
+Build and leverage new and existing tools for Natural Language Processing (NLP), Optical Character Recognition (OCR), and intelligent document processing tasks. 
+Build and leverage models and data for recommendation systems and engines, including for sales, marketing, and business efficiency tasks. 
+Utilize and improve Machine Learning Operations (MLOps) pipelines and procedures. 
+Research, scope, train, deploy, and support machine learning models through a full development lifecycle. 
+ Qualifications 
+4-8 (mid-career) years of experience as a researcher or developer in data science or related fields 
+Masters in STEM or a technical field 
+Experience with common web development languages including Ruby, HTML and/or Javascript 
+Experience with web development and database integration principles and practices, including SQL and NoSQL databases 
+Experience with software development best practices, including source control (Git), CI/CD pipelines, testing, and documentation 
+Experience with cloud computing platforms including AWS, Azure, and/or GCP 
+Degree or Advanced Degree (Masters and/or PhD) in STEM or a technical field 
+A portfolio of personal projects on Github, BitBucket, Google Colab, Kaggle, etc. 
+Publications, conference talks, and/or patents in AI/ML/DS or related fields 
+Experience working in a Finance or Financial Technology job with Alternative Investments experience highly preferred 
+Proven Data Science experience 
+Research experience in Al/ML 
+Interest in working on a highly technical team 
+Excellent verbal and written communication skills 
+Experience with the full life cycle of AI/ML/DS tools: development, implementation, and maintenance 
+Strong experience programming in common data science languages including Python, R, and/or Matlab 
+Strong experience with machine learning frameworks and tools such as Tensorflow, Tesseract, PyTorch, and/or Keras 
+ 
+ Benefits 
+The base salary range for this role is $120,000 to $150,000.  iCapital offers a compensation package which includes salary, equity for all full-time employees, and an annual performance bonus. Employees also receive a comprehensive benefits package that includes an employer matched retirement plan, generously subsidized healthcare with 100% employer paid dental, vision, telemedicine, and virtual mental health counseling, parental leave, and unlimited paid time off (PTO). 
+We offer most employees the flexibility to work in the office three to four days and remotely for the remainder of the week.  Every department has different needs, and some positions will be designated in-office jobs, based on their function. 
+For additional information on iCapital, please visit https://www.icapitalnetwork.com/about-us  Twitter: @icapitalnetwork | LinkedIn: https://www.linkedin.com/company/icapital-network-inc | Awards Disclaimer: https://www.icapitalnetwork.com/about-us/recognition/ 
+ 
+iCapital is proud to be an Equal Employment Opportunity and Affirmative Action employer. We do not discriminate based upon race, religion, color, national origin, gender, sexual orientation, gender identity, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics. 
+

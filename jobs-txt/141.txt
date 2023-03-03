@@ -1,0 +1,49 @@
+
+				Job Description 
+ 
+The Senior Data Scientist, Pricing and Promotions, will play an impactful role on Petco’s mission to improve the lives of pets, pet parents and our own Petco partners. As a senior data scientist, you’ll create the algorithms that drive our pricing and promotion strategies and engines.
+Build and iterate the algorithms and platforms for pricing & promotions strategies.
+Prototype, test, deploy, and measure new pricing & promotions models and partner with data engineering teams to automate and productionize systems.
+Apply econometric, statistical models and machine learning to explain and predict business impacts of pricing & promotions decisions.
+Design, execute, and assess pricing & promotion experiments to drive both top & bottom line returns to Petco.
+Utilize and continually learn latest modeling techniques to identify optimal price & promotions, including Bayesian optimization, surrogate modeling, causal inference, and others.
+Education/Experience
+Advanced degree in Computer Science, Operations Research, Mathematics, Statistics, Economics, or related fields.
+3+ years experience working with econometrics, statistical modeling or machine learning methods on real world problems or equivalent experience building data science products.
+Experience applying causal inference, predictive modeling and other statistical techniques to optimize decision making.
+Expert at analyzing large, complex, multi-dimensional data sets with a variety of tools, including Python, R, SQL and in deploying machine learning algorithms using AWS, GCP, and Docker.
+Familiarity with retail pricing and revenue management concepts such as constrained optimization, dynamic pricing, and price differentiation.
+Petco Animal Supplies, Inc. is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, age, protected veteran status, or any other protected classification.
+The pay range(s) below are provided in compliance with state specific laws. Pay ranges may be different in other locations.
+$119,300.00 – $178,900.00
+Exact rate of pay will be based on position, location, and experience level.
+		                
+                    More Information
+                    
+                        
+
+
+
+Salary Offer
+
+$100.000 ~
+
+
+
+Experience Level
+
+Senior
+
+
+
+Total Years Experience
+
+0-5
+
+
+
+Dropdown field
+
+Option 1                        
+                
+            	

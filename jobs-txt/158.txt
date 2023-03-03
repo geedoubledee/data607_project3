@@ -1,0 +1,49 @@
+
+Job Description
+We are developing R tools for clinical trial safety analysis. These include tools for generating SDTM/ADaM datasets and presentation-ready table/listing/figure. Applications are primarily to support internal safety review but also to support submission activities.
+The ideal candidate for this role is expected to be proficient in using the tidyverse family of packages while adhering to production-quality standards. In addition, the candidate needs to have strong knowledge of Base SAS and SAS Macros in order to leverage the SAS outputs.
+Role responsibilities:
+Uses R programming to generate summary tables, data listings, graphs and derived SDTM/ADaM datasets as specified in the statistical analysis plan and programming specifications.
+Provide R programming support within multiple studies/projects in various study activities with timely and high-quality programming results as assigned tasks and projects.
+Performs validation programming and works with other Programmers, Biostatisticians, and other project team members to resolve discrepancies or any findings.
+Qualifications:
+Bachelor or Master’s degree in Computer Science, Statistics, Applied Mathematics, Life Sciences, Engineering or related field.
+1+ years supporting clinical trials in the Pharmaceutical or Biotechnology industry. Experience working for a CRO strongly desired.
+Able to develop R function.
+Strong hands-on experience with R (e.g., Tidyverse, ggplot2, admiral, gt, reactable, etc.)
+Strong Knowledge of Base SAS, SAS Macros, SAS/STAT, SAS/Graph, SAS/SQL and SAS/ODS
+Strong knowledge of ICH guidelines.
+Solid understanding & implementation of CDISC requirement for regulatory submissions.
+Experience working with cross-functional teams.
+Effective communicator.
+How to Apply
+Please send your resume to [email protected] if you would like to apply.
+
+
+ Job Categories: R Developer. Job Types: Full-Time. Salaries: More than $100,000.
+
+
+
+
+Apply for this Job
+
+
+Name *
+
+
+Email *
+
+
+Message *
+
+
+Upload resumé (pdf, doc, docx, zip, txt, rtf)
+
+
+Upload cover letter (pdf, doc, docx, zip, txt, rtf)
+
+ 
+
+
+
+

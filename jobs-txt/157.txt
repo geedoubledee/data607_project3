@@ -1,0 +1,62 @@
+
+Job Description
+i360, the leading data and technology provider for the pro-free market public policy and advocacy community, supports organizations that promote free enterprise and smaller government. i360 is a dynamic workplace sitting on the leading edge of public policy, technology, and business, and is seeking team members who are as excited about their cause as they are about building the next generation of political technology.
+i360 is seeking a Statistical Programmer to join our political analytics team, which is driven by data and measurement. The ideal candidate is someone who has experience creating applications, data visualizations, and conducting quantitative analyses. This person would be looking to leverage that experience to make a difference in economic freedom.
+To be considered, candidates must be creative, passionate about process improvement, and strong technical ability in the following areas:
+An independent drive to continually grow a skillset in application programming
+Comfortable working closely with Project Managers on long term projects
+Demonstrated interest in the political landscape
+Demonstrated data analysis and regression techniques
+Ability to work independently and adapt quickly in a fast-paced environment
+Ability to integrate with large and small cross-specialty teams with individuals of varying levels of expertise
+Ability to plan and manage time sensitive projects with competing needs
+Strong attention to detail, including accuracy of data entry
+What You Will Do In Your Role
+Creating applications and data visualizations that convey relevant and accurate insights to both technical and non-technical audiences
+Working with internal and external customers to incorporate feature requests, functionality, and aspects of the overall vision into ongoing projects.
+Providing timely and informative political data analysis to guide strategic decisions
+Creating relevant productivity benchmarks
+Working on specialized research projects as requested
+The Experience You Will Bring
+Requirements:
+Experience with R, Python, or Stata
+Experience with applications in R Shiny or equivalent programs
+Position is not eligible for VISA Sponsorship
+What Will Put You Ahead
+1+ years of either working on a campaign or analyzing political data
+1+ year of experience with SQL, Redshift, or Postgres
+Familiarity with spatial analysis
+How to Apply
+ Apply here: https://jobs.kochcareers.com/jobs/9556128-statistical-programmer-r-shiny-remote
+ 
+or email Katie Garrard at [email protected]
+
+
+ Job Categories: R Developer. Job Types: Full-Time.
+ Endless.
+
+
+
+
+Apply for this Job
+
+
+Name *
+
+
+Email *
+
+
+Message *
+
+
+Upload resumé (pdf, doc, docx, zip, txt, rtf)
+
+
+Upload cover letter (pdf, doc, docx, zip, txt, rtf)
+
+ 
+
+
+
+

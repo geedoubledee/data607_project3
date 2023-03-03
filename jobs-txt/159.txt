@@ -1,0 +1,67 @@
+
+Job Description
+
+
+We’re hiring a Senior Data Scientist to help us build the future of media measurement. As a senior data scientist you’ll get to work with some of the biggest brands in the world, helping them measure the effectiveness of hundreds of millions of dollars of marketing spend, forecast future performance, optimize budgets, and plan experiments.
+What you’ll do in your first 6 months:
+Onboard new clients onto Recast’s platform and work hand-in-hand with them to set priors, interpret their results, and plan experiments to validate the model.
+Implement complex statistical analyses of marketing data to help us improve Recast’s statistical internals and help clients improve their marketing efficiency.
+Develop libraries and patterns of analysis that we will use to help clients interpret and make use of their data
+Things you probably have experience in:
+Deep and complex use of R
+Bayesian methods, with exposure to Stan
+Causal inference
+Marketing data science and media performance measurement
+Partnering directly with marketers to shape marketing budgets and structure tests
+Things that should excite you that might scare off other folks:
+Working with a team of math-loving statistics nerds
+Working directly with marketers on applying modeling result to marketing strategy
+Exploring the output of a complex statistical model with over 30k parameters
+Contributing directly to product direction and business strategy
+Opportunity for ownership in a fast-growing company at the cutting-edge of a multi-billion dollar industry
+Our Hiring Process for this role:
+Intro Call (30mins)
+Take Home Assignment (1-2 days given)
+Technical Interview & Assignment Discussion w/ Andy Bennington (1hr)
+Final Interview w/ Michael Kaminsky
+What we offer you:
+Work wherever you’re happiest. We’re fully remote
+Competitive remote salary along with early stage equity
+Your local holidays plus unlimited PTO (minimum 2 weeks mandatory PTO!)
+Minimal standing meetings with frequent collaboration and async by design
+Autonomy and support to do your best work in your own time
+Note: Recast is committed to building a diverse team so if you are from an under-represented background in tech (e.g., women, non-white, etc.) please apply even if you don’t necessarily check all of the boxes here.
+While Recast is officially based in the US, we’re a fully remote team (one founder lives in Brooklyn, the other in Mexico City). We can’t sponsor visas at this time, however we are happy to have you join remotely from wherever you are.
+
+
+How to Apply
+Apply here - https://recast.crew.work/jobs/639256f53670b378e31ecf58
+
+
+ Job Categories: Data Scientist / Statistician. Job Types: Full-Time. Job Tags: bayesian, library development, MARKETING, and statistical analysis. Salaries: More than $100,000.
+
+
+
+
+Apply for this Job
+
+
+Name *
+
+
+Email *
+
+
+Message *
+
+
+Upload resumé (pdf, doc, docx, zip, txt, rtf)
+
+
+Upload cover letter (pdf, doc, docx, zip, txt, rtf)
+
+ 
+
+
+
+

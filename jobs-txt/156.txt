@@ -1,0 +1,57 @@
+
+Job Description
+NanoString seeks a statistician to lead development of novel statistical methodology for data arising from our new Spatial Molecular Imager instrument and corresponding assay.  As this instrument and assay represent a new field of molecular research, development of these methods will often require the Biostatistician II to work from first principles and without the aid of existing methods.  Additionally, the Biostatistician II ensures the statistical integrity and accuracy of research data and performs statistical design, modeling, and analyses. This individual provides statistical summaries and reports of studies in support of product development and works with scientists and engineers to ensure proper use of statistical methodology and interpretation of results.
+ 
+Essential Responsibilities:
+Development of novel statistical methodology for the analysis of gene expression, proteomics, and sequence data
+Focus on single cell gene and protein expression data
+
+High-level applied analyses of gene expression and multi-omics data
+Statistical consultations with scientists throughout the company
+Development of software to help biologists analyze omics data
+Development of gene-expression based diagnostic predictors
+Work in collaboration with statisticians and biologists
+R&D efforts of your own devising
+ 
+Requirements:
+Ph.D. with 0-4 years of relevant work experience in statistics or biostatistics. Master’s and Bachelor’s level considered with relevant experience in lieu of degree.
+Advanced R programming skills
+Graduate-level coursework in applied statistics
+Graduate level coursework in statistical theory
+ 
+Preferred Qualifications:
+Knowledge of molecular/systems biology desirable
+Knowledge of cancer biology desirable
+Experience in genomics and machine learning desirable
+How to Apply
+https://boards.greenhouse.io/nanostring/jobs/5748576002
+
+
+ Job Categories: Data Scientist / Statistician. Job Types: Full-Time. Salaries: More than $100,000.
+ Endless.
+
+
+
+
+Apply for this Job
+
+
+Name *
+
+
+Email *
+
+
+Message *
+
+
+Upload resumé (pdf, doc, docx, zip, txt, rtf)
+
+
+Upload cover letter (pdf, doc, docx, zip, txt, rtf)
+
+ 
+
+
+
+

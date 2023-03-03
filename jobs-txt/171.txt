@@ -1,0 +1,81 @@
+
+Job Description
+Contract type: Permanent
+Location: London or Newcastle
+Salary: Newcastle range; £46,298 – £63,145, London Range; £57,222 – £69,367
+
+Main purpose of the job:
+The National Audit Office (NAO) supports Parliament to hold the government to account for the way public services are delivered. Our primary role is to scrutinise public spending for Parliament. We do this by certifying over 350 government accounts and produce around 65 Value for Money (VFM) reports each year.
+
+The purpose of this role will be to design the future of the NAO’s audit methodology in the data analytics space. You will ensure that the NAO’s data analytics offering remains leading edge by exploring the application of new technologies to audit, and by working with the central practice and quality team to embed new analytics into our future audit methodology.
+
+You will be responsible for guiding the NAO’s research into the application of new technologies to audit, managing proofs-of-concept and pilots, and working closely with the Financial Audit service line, the data analytics team and the service-line apps lead to embed new technologies in production-ready analytics. For the right candidate, this role offers opportunities to develop personally and to build a bespoke role as a thought-leader and creative problem solver within the NAO and financial audit more widely
+
+Responsibilities:
+You will be responsible for ensuring the NAO’s data analytics offering remains futureproof, by trialling new technologies and embedding analytics into the NAO’s future audit methodology.
+
+In designing the audit of the future, you will:
+• Identify audit problems (including emerging problems) which are susceptible to analytics solutions and work with our Standards and Technical team and the Manager, Data Analytics to design appropriate analytics solutions;
+• Horizon scan for new technologies, and design and lead proof-of-concept and pilot projects to assess their applicability to audit;
+• Work closely with Audit Methodology Review team, the Audit Software Review team and other stakeholders to identify and influence the direction of travel for the NAO’s audit methodology, ensuring potential analytics solutions are incorporated
+• Prioritise and plan research work to ensure that proofs-of-concept and pilots are performed in time to enable development of production-ready analytics for longer-term deadlines;
+• Ensure non data-science auditors and the NAO’s leadership are well-informed about existing and potential future technologies and their role in a high-quality audit methodology, through directly communicating with these auditors or briefing and supporting the team’s manager;
+• Engaging with the financial audit analytics team’s processes to ensure that the data analytics solutions: follow a robust development methodology, ensuring that software developed is of appropriate quality and meets the auditing standards and requirements; and is efficient and follows best practice in analytics and software design and build
+
+On technology matters we currently use the tools including: R, Python, Spark, Data Bricks, SQL, Tableau and others. Your role will involve working with the Audit Managers to commission appropriate new technologies and support from the NAO’s Digital Services team.
+
+On people matters, you will:
+• Lead small project teams, made up of team members cross-allocated across a number of simultaneous projects;
+• Support the Financial Audit Data Analytics Manager in identifying skill requirements presented by new technologies, both within the central analytics hub and across the financial audit service line.
+
+Skills required: 
+Education/work experience (required):
+Experience of working as a financial auditor, with an accounting qualification such as ACA, ACCA or CPFA. CIMA is also acceptable.
+There are a range of technical skills we will be looking for from the person appointed to this role, including:
+
+Essential:
+• A good understanding of auditing (including financial auditing and its associated professional standards requirements) and the methods and techniques typically applied in the audit process;
+• Experience in the use of data analytics and ability to design innovative data analytic solutions that address audit teams’ needs;
+• An understanding of financial data structures and how they relate to audit. Our data analytics work typically involves the major ERP systems (e.g. SAP and Oracle) so knowledge of these systems would be an advantage;
+
+Desirable:
+• An understanding of some of the key business processes operated by our clients (e.g. purchase to pay, order to cash and payroll);
+• A good understanding of the software development process covering system specification, coding and testing of systems to ensure the delivery of reliable and robust solutions. This role is for a project lead rather than a technical specialist, so an ability to act as an ‘interpreter’ of these issues for auditors and senior stakeholders is essential, while advanced technical analytics ability is not;
+
+You will possess good communication skills and interpersonal skills as you will be expected to work closely with audit teams and client teams in developing and delivering data analytic solutions. You will be comfortable presenting data analytics solutions to audiences, including senior level staff, and you will be able to explain technical aspects of your work and solutions to non-specialists clearly and succinctly, as you will often be required to act as the intelligent interface between specialist data scientists and non-data science audit specialists.
+Whilst you will not be expected to be specialists in all areas of the work (e.g. audit; programming; data format and structured) you will need to show experience of working with technical specialists in mixed teams such that you can demonstrate an ability to oversee the development of, and delivery of, high quality solutions.
+A high level of creativity and curiosity will be necessary for success in this role, and you will be asked to demonstrate examples of creative problem solving. An ability to critically assess systems and processes will be essential, as will the confidence to take risks and to successfully embed learning from failures when trialling new approaches.
+You will be responsible for leading small teams of highly skilled specialists working to often demanding timescales. You will be expected to demonstrate a track record of good people management, including experience of supporting staff to develop, grow and progress. The team has a strong collaborative culture which supports high levels of flexibility and remote working, and you will be asked to demonstrate how they apply respect, inclusivity, and curiosity in leading specialist teams.
+For the right candidate, this role offers opportunities to develop personally and to build a bespoke role as a thought-leader and creative problem solver within the NAO.
+How to Apply
+Visit: https://nao-careers.force.com/xcdrecruit__Site_ExternalPositionDetails?id=aJm4I0000008ONp
+
+
+ Job Categories: Other. Job Types: Full-Time. Salaries: Less than $100,000.
+ Endless.
+
+
+
+
+Apply for this Job
+
+
+Name *
+
+
+Email *
+
+
+Message *
+
+
+Upload resumé (pdf, doc, docx, zip, txt, rtf)
+
+
+Upload cover letter (pdf, doc, docx, zip, txt, rtf)
+
+ 
+
+
+
+

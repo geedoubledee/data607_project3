@@ -1,0 +1,37 @@
+
+Joining Capco means joining an organization that is committed to an inclusive working environment where you’re encouraged to #BeYourselfAtWork. We celebrate individuality and recognize that diversity and inclusion, in all forms, is critical to success. It’s important to us that we recruit and develop as diverse a range of talent as we can. We believe that everyone brings something different to the table – so we’d love to know what makes you different.
+We are/have:
+Experts in banking and payments, capital markets and wealth and asset management
+Deep knowledge in financial services offering, including e.g. Finance, Risk and Compliance, Financial Crime, Core Banking etc.
+Committed to growing our business and hiring the best talent to help us get there
+Focused on maintaining our nimble, agile and entrepreneurial culture
+Data Analyst
+6+ years of experience in Data Analysis and modelling for building models that provide business insights
+Proficient in Data quality, cleansing, blending, validations, and transformations processes
+Excellent understanding of ETL/ ELT process - Extract data from various source systems, analyze the data gaps on the DW and work with stakeholders to fix the gaps
+Experience in eliciting, analysis, and document data requirements in support of analytical, business intelligence, warehousing and other business use cases for the data platform using a range of techniques including source data analysis, documentation, interviews, and data modelling workshops
+Ability to create and maintain data models appropriate to the need and that conform to data modelling standards
+Create and maintain specifications for data transformation in both documentation and scripting
+Contribute to the definition of data dictionaries, business glossaries, and DQ Rules
+FS/ Banking domain expertise
+ 
+Preferred
+Familiarity with Azure Stack - Azure Data Factory (ADF), Azure Data Bricks, Azure Synapse Analytics, Azure DevOps
+Experience in some of the databases among Snowflake, Oracle, SQL Server and languages like PL-SQL, T-SQL
+Experience in one or more BI/ visualization tools like Tableau, Power BI, Qlik, Alteryx
+Proficient in testing models and transformation scripts to ensure they meet requirements
+Advise data engineers, visualisation developers, and other consumers of models and data specifications in the interpretation of data models and structures and the understanding of data requirements
+Participate in architecture design where appropriate and evaluate and challenge designs from adjacent data teams
+Experience with SDLC and Agile working methodologies/environment
+Self-starter with strong self-management skills, Team player, Strong oral and written communications skills
+ 
+WHY JOIN CAPCO?
+You will work on engaging projects with some of the largest banks in the world, on projects that will transform the financial services industry.
+We offer:
+A work culture focused on innovation and creating lasting value for our clients and employees
+Ongoing learning opportunities to help you acquire new skills or deepen existing expertise
+A flat, non-hierarchical structure that will enable you to work with senior partners and directly with clients
+A diverse, inclusive, meritocratic culture
+ 
+ 
+

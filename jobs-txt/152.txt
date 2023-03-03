@@ -1,0 +1,57 @@
+
+Job Description
+Role Overview
+The Commercial Data Management & Reporting role will play a key technical role in supporting and improving a diverse group of systems used by the commercial organization. (MDM processes, CRM system, and reporting) The role will have accountability for accurate and timely execution of a number of operational and analytic processes in support of ongoing commercial operations. This role will also will serve as a collaborative analytics partner to the system users, primary liaison with our vendors and managed services partners, and help define and incorporate best practices for a small and rapidly growing pharmaceutical company.
+Specific roles and responsibilities:
+· Develop domain expertise over current Master Data Management (MDM), data quality operations, data integration, and maintain or upgrade existing processes
+· Technical integration partner for multiple internal and external systems comprising the enterprise Commercial architecture including systems for Commercial, Medical and Patient Services
+· Develop insights/reporting dashboards to serve different stakeholders within commercial organization, including reporting on performance of commercial systems
+· Perform troubleshooting and resolution of system support requests, working with end-users in commercial leadership, IT partners, and our Managed Services Partners
+· Proactively identify production risks and create actionable mitigation plans
+· Perform administrative and management tasks required to establish and maintain compliance with various regulatory standards
+Role Qualifications:
+· 3-5+ years of experience working in management consulting, commercial analytics or IT in the Life Sciences or Pharmaceutical industries
+· Experience working in a small start-up or recently commercialized biopharmaceutical organization, preferably in oral oncology and where systems are still evolving; maintains a ‘no job is too big or too small’ attitude
+· Experience working with a variety of Facility, Physician, and patient claims level data set (e.g. SHS, IQVIA, Specialty Pharmacy data, Specialty Distributor/3PL data, etc.)
+· Experience maintaining or improving MDM solutions
+· Good SQL working knowledge
+· Experience in R strongly preferred
+· Experience in collection and cleaning of data
+· Knowledge of developing reports and dashboards using various visualization tools (e.g. Shiny, QlikSense, Power BI)
+· Strong communications skills, and the ability to assimilate and impart information efficiently and accurately
+· Able to work collaboratively and build relationships
+· Evidence of being able to prioritize and manage multiple tasks simultaneously
+· Understanding of application sources and data models for biopharma enterprise solutions, as well as data integration and data quality standardization best practices and processes
+· Understanding of regulatory policies and their impact on key business processes and system designs
+How to Apply
+https://tarta.ai/j/o9jxNHcBQHTTBOW-2rx0-commercial-data-management-reporting-manager-remote-in-waltham-ma-at-beacon-hill-pharma
+
+
+ Job Categories: Other. Job Types: Full-Time. Job Tags: Biotech, commercial, master data management, and pharmaceutical. Salaries: More than $100,000.
+ Endless.
+
+
+
+
+Apply for this Job
+
+
+Name *
+
+
+Email *
+
+
+Message *
+
+
+Upload resumé (pdf, doc, docx, zip, txt, rtf)
+
+
+Upload cover letter (pdf, doc, docx, zip, txt, rtf)
+
+ 
+
+
+
+

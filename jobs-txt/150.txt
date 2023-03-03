@@ -1,0 +1,64 @@
+
+				This is a post on behalf of the AIPlus hiring partner.
+Our hiring partner is a Fintech company whose mission is to connect people with their passions. The transaction process for large purchases such as power sports, RVs, boats, and home improvements is slow and frustrating, but they are changing that through automated underwriting, innovative credit products, and financing through our in-house lender Roadrunner Financial. They reach millions of enthusiasts through editorial brands like Cycle World and Cycle Volta and helps consumers buy their favorite products with instant, frictionless financing. Our partner is revolutionizing lending in under-served verticals that account for tens of billions of dollars in annual transactions.
+The company is gaining traction quickly with customers, as evidenced by the growth in originations through their platform of more than 2X year-over-year. Octane works with more than 3,500 merchants in the USA and offers promotional financing with low rates for 40 OEM brands. Because they’re the platform and the lender, they have both high growth and positive unit economics – rare for a fintech. They have raised more than $139M in venture capital from leading investors such as IA Ventures, Valar Ventures, and Contour Venture Partners, and their lending securities are rated AA by S&P.
+They are seeking a talented data scientist to lead and execute projects related to credit risk analytics and model development, working at all phases of the data science lifecycle. You will be collaborating with a versatile team of data scientists and financial professionals to design and implement models underlying the core functions of the company’s lending business and loan portfolios.
+Responsibilities:
+Build machine learning-powered predictive models for the company’s real-time credit and technology systems
+Continuously drive improvements in the company’s modeling approach and architecture
+Design and conduct customer-facing experiments that improve their user experience and grow loan originations
+Analyze large data sets of proprietary and third-party data to derive insights and recommendations for policy and strategy decisions
+Communicate and present results of analyses and recommendations to high-level stakeholders
+Champion data analytics and help advance their culture of data-driven decision-making
+Requirements:
+Excellent Python and SQL skills
+Strong data manipulation and exploratory data analysis skills
+Experience with end-to-end development of machine learning systems, especially data cleaning and feature engineering
+Knowledge of various data science disciplines including descriptive analytics, hypothesis testing, probability, optimization, regression, and classification
+Familiarity with AWS
+A track record of taking initiative and driving results, and a passion to build, design and transform a young organization
+Strong communication skills and experience working across teams
+MS in a quantitative field, followed by 3+ years experience or BS in a quantitative field, followed by 5+ years experience
+Industry experience within Consumer Credit, FinTech, Financial Services, or similar preferred
+Benefits
+Robust Health Care Plans (Medical, Dental & Vision)
+Up to 5 weeks PTO (self-managed)
+Generous Parental Leave
+Retirement Plan (401k) with Company contribution
+Educational Assistance/Tuition Reimbursement up to $3K/year
+Powersports Safety Benefit: reimbursement of up to $500/year for the purchase of any Powersports safety equipment
+Life Insurance (Basic, Voluntary & AD&D)
+Short Term / Long Term Disability & Life insurance
+Team Activities (remotely)
+Monthly company gift
+Our hiring partner is an equal opportunity employer committed to providing equal employment opportunity without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability, or any other protected status with respect to recruitment, hiring, promotion and other terms and conditions of employment.
+		                
+                    More Information
+                    
+                        
+
+
+
+Salary Offer
+
+0 ~ $3000
+
+
+
+Experience Level
+
+Junior
+
+
+
+Total Years Experience
+
+0-5
+
+
+
+Dropdown field
+
+Option 1                        
+                
+            	

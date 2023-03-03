@@ -1,0 +1,45 @@
+
+Job Description
+Update: This position has been filled.
+Commercial teaching website requires R library to be published on CRAN.
+Your experience in publishing R libraries, debugging version errors, and meeting all of the build checks are needed.
+THIS LIBRARY CONTAINS ONLY DATA.
+That’s it.
+There are no functions.  Only minimal documentation is needed to describe each data set.
+https://github.com/sdcastillo/ExamPAData
+For a description of the data sets, see chapter 5.1 of this book: https://github.com/sdcastillo/ExamPAData
+Here’s a step-by-step guide.  You can begin at Step 6 “Submit to Cran”
+https://www.mzes.uni-mannheim.de/socialsciencedatalab/article/r-package/
+How to Apply
+To apply, email a resume to [email protected] and Set up a 30-minute zoom interview:
+https://calendly.com/samcastillo/zoom
+
+
+ Job Categories: R Developer. Job Types: Freelance. Job Tags: CRAN and package development. Salaries: Less than $100,000.
+ Endless.
+
+
+
+
+Apply for this Job
+
+
+Name *
+
+
+Email *
+
+
+Message *
+
+
+Upload resumé (pdf, doc, docx, zip, txt, rtf)
+
+
+Upload cover letter (pdf, doc, docx, zip, txt, rtf)
+
+ 
+
+
+
+

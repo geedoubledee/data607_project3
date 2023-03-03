@@ -1,0 +1,61 @@
+
+				In this role you will be a part of a product development team that delivers personalized experiences to  our Ai+ Hiring partner’s learners. You’ll help their learners discover content that is relevant to their interests and goals, provide them with a homepage tailored just to their needs, and ensure they are receiving the right communication and assistance with their learning journey at the right time. You’ll be a part of a team that is user focused, has a mentality for experimentation, and iterates quickly.
+As a machine learning engineer, your expertise will be vital to solving sophisticated problems and building the algorithms and frameworks that accelerate our personalization capabilities. Who you are committed to being:
+Some of the technologies that they love are: Python, Tensorflow, Airflow, Kafka, NodeJS, SQL, AWS, Kubernetes, Dask.
+Attention to detail – they want to be proud of our work.
+Test Driven Development – They maintain a suite of good tests for all production code.
+Pair programming as well as individual with code reviews – they value collaborative development.
+Continuous Delivery – teams independently ship code to prod every day.
+Agile – they reduce the time to learn by having short feedback loops.
+Continual improvement – they take time to sharpen the saw and adjust how they work
+Autonomous & responsible teams – they are empowered to make their own product and development decisions to do the job. Cross-functional teams – collaborating through all phases of the product dev process.
+Customer research – they build what their customers actually want.
+Leaders who trust- teams build without top-down feature requirements.
+What you’ll own: Develop robust, scalable production recommendation systems.
+Evaluate trade-offs and do performance tuning for production traffic.
+Work closely with Data Scientists to take prototype algorithms and models and turn them into customer-facing solutions.
+Use your engineering expertise to help build solutions to novel problems in software development, data engineering, and machine learning.Build data pipelines.
+Transform and convert data streams into structures needed for algorithm input.
+Collaborate with Product Managers and UX Designers to better understand the customer, provide valuable input into functional design and usability
+Evaluate the efficiency of user experiences and ML algorithms, determining what data is needed and how to collect it, with an understanding of how these metrics are connected the desired outcomes
+Experience you’ll need: You have a passion to use machine learning to deliver product personalization at scale and the skills to go with it.
+You have at least a year of experience building production machine learning systems services as part of a product development team, ideally in the context of recommendations and/or personalization.
+You have worked in a collaborative development environment and have experience with continuous integration and delivery.
+You are an experienced Python developer, know your way around TensorFlow or another deep learning framework, and have proficiency in data structures and database fundamentals.
+Experience with Node and Typescript are helpful, but not required.
+You have a solid base in Computer Science and Math, and an understanding of the fundamentals of Machine Learning. Regardless of your formal training, you get excited about reading up on modern machine learning techniques and applications. You care about writing good code and building great software.
+You understand the trade-offs when we have to move faster, but you know what quality means and how to get there when we need to.
+You are comfortable moving up and down the stack.
+It matters less that you know the exact frameworks and tools that we use, but you must be willing and able to learn very quickly.
+They also mean full stack across other functions – you should be excited to understand the entire business and learn from customers. You have the ability to explain machine learning solutions to developers and other team members, regardless of their technical background.
+Bring yourself. They are an equal opportunity employer.
+		                
+                    More Information
+                    
+                        
+
+
+
+Salary Offer
+
+0 ~ $3000
+
+
+
+Experience Level
+
+Junior
+
+
+
+Total Years Experience
+
+0-5
+
+
+
+Dropdown field
+
+Option 1                        
+                
+            	

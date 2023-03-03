@@ -1,0 +1,76 @@
+
+Job Description
+GENERAL SUMMARY
+Chapin Hall is an independent policy research center affiliated with the University of Chicago, one of the world’s premier research universities. Chapin Hall provides public and private decision- makers with rigorous data analysis and achievable solutions to support them in improving the lives of our most vulnerable children, youth and families. Chapin Hall’s impact derives largely from the distinctive marriage of the most rigorous academic research with innovative partnerships with the public systems, institutions, organizations, and programs that are in a position to best deploy that research. For more information about Chapin Hall, please visit our website at www.chapinhall.org.
+Chapin Hall at the University of Chicago is seeking an individual to work on a team engaged in empirical, analytical and conceptual child and family welfare research. The Associate Researcher’s main contribution to research projects is the management, linking, statistical analysis, and presentation of project data. The individual will participate in discussions regarding study design and methodology; develop and maintain programs that transform data into analyzable formats and/or that can be utilized for data analysis; and perform modeling and statistical analyses of data using R, STATA, SAS, SQL, and/or other appropriate analytic software programs. The Associate Researcher will also participate in meetings with external stakeholders and write sections of research results for funders and publications.
+The position will report directly to Brian Chor, Senior Researcher.
+ 
+ESSENTIAL FUNCTIONS
+The primary responsibilities of the position are as follows:
+Converts, merges and assembles large-scale data for analysis. Develops and maintains programs that transform data into analyzable formats and/or that can be utilized for data analysis, with a strong emphasis on generalizability and transparency.
+Automate existing and emerging processes for importing, documenting, integrating, and updating data as well as to coding best practices such as code review and version control.
+Participates in discussions regarding study design and methods. Assists in developing study objectives, and designing sampling, randomization and data collection procedures to achieve study objectives.
+Performs modeling and complex statistical analyses of data using R, STATA, SAS, SQL, and/or other appropriate analytic software programs. Performs advanced statistical analyses under supervision.
+Writes sections of research results for funders and/or publications, and may assist with report production activities, including proofing, formatting and creating tables and graphs.
+Participates in meetings with external stakeholders and may present findings at meetings and/or conferences.
+Performs additional duties as assigned
+ 
+QUALIFICATIONS
+Education & Experience
+Master’s degree in biostatistics, computer programming, econometrics, statistics, or significant advanced coursework in statistics within a social science degree OR a relevant bachelor’s degree plus a minimum of five years of relevant experience required.
+Other Qualifications
+Minimum of two years’ data analysis experience required.
+Strong background in statistical methodology required.
+Professional experience with complex data systems strongly preferred; experience with public sector administrative data and data systems preferred.
+Experience with R, STATA, SAS, SQL, and/or other appropriate program languages required, preferably with experience working in a Unix environment.
+Minimum of two years’ experience working with large administrative datasets strongly preferred.
+Ability to manage multiple, concurrent tasks required.
+Strong interest in and aptitude for developing analytic skills for working with administrative data required.
+Strong attention to detail with good organization skills required.
+Ability to translate and convey complex concepts and study findings in oral and written communications required.
+Demonstrated capacity for working in a collaborative research environment required.
+Ability to work independently with a high degree of initiative required.
+Problem-solving skills required.
+Demonstrated judgment and discretion in the handling of sensitive information required.
+ 
+MINIMUM PHYSICAL REQUIREMENTS
+The physical demands described here are representative of those that must be met by an employee to successfully perform the essential functions of this job. Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions.
+Must be able to remain in a stationary position for extended periods of time.
+Must be able to operate a computer extensively for four (4) or more hours per day.
+———————————————————————————————————-
+Pre-employment background checks are required for all Chapin Hall at the University of Chicago positions.
+To express interest in this opening, please visit https://csschcc.sentrichr.com/?requisition=0263.
+Formal expressions of interest are accepted online only. A cover letter, resume, writing sample, and reference contact information are required to be considered for this position.
+Individuals in need of reasonable accommodations to complete the application process should contact Human Resources by calling (773) 256-5157, or by sending an email to [email protected]
+Chapin Hall at the University of Chicago is an Affirmative Action, Equal Opportunity Employer that values and actively seeks diversity in its workforce. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, status as an individual with disability, age, protected veteran status, or any other status protected by law.
+How to Apply
+To express interest in this opening, please visit https://csschcc.sentrichr.com/?requisition=0263
+
+
+ Job Categories: Other. Job Types: Full-Time.
+
+
+
+
+Apply for this Job
+
+
+Name *
+
+
+Email *
+
+
+Message *
+
+
+Upload resumé (pdf, doc, docx, zip, txt, rtf)
+
+
+Upload cover letter (pdf, doc, docx, zip, txt, rtf)
+
+ 
+
+
+
+

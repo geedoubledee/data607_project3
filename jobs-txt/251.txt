@@ -1,0 +1,67 @@
+
+				If you’re interested in this position, please submit your application materials here: https://hala.link/job-mlops-apply-MLConf
+Hala Systems, Inc. is a social enterprise working to transform the nature of protection and accountability in the world’s toughest places by democratizing advanced defense, sensing, and artificial intelligence technology. Hala is currently saving lives, reducing trauma, and improving resilience for millions of people.
+Our team works across the globe and hails from over 15 countries. We speak over 20 languages and have studied and worked in leading educational, business, research and government institutions. We are mission-driven thinkers, and we share a deep respect for each other and for the communities that partner with us.
+We believe in innovation with purpose, focusing on developing real and applicable technology solutions to the challenges facing the planet. We believe in working ethically and collaboratively, and making decisions with transparency. We value flexibility, adaptability, and a good sense of humor.
+The MLOps Engineer will be a part of a high-performing Data Science team developing and implementing AI algorithms to help address global challenges. They will develop and use modern software engineering practices to deploy AI/ML solutions; Identify and evaluate new technologies to improve the performance, maintainability, and reliability of Hala’s learning systems. The MLOps Engineer will contribute to the technical work program of Hala’s projects, providing expert guidance and strong technical mentorship, reporting to the Director of Analytics.
+This position remote position is open to candidates based in Europe with a yearly gross salary range of 48.000€ – 58.000€. This position is also open to candidates based on the East Coast of the United States, with a yearly gross salary range of 124,000$ – 134,000$
+ 
+We’ll trust you to:These are the responsibilities of the position
+Be part of a high-performing team developing and implementing AI algorithms to help address critical global challenges.
+Develop and use modern software engineering practices to deploy AI/ML solutions at scale.
+Maintain knowledge of advances of AI and scalable computing in industry and academia.
+Evaluate AI architecture solutions and compare to external stakeholders’ requirements and needs.
+Contribute to the technical work program of one or more projects, providing expert guidance and high-quality technical products focused on successful outcomes, strong technical leadership, and transition of research to operations.
+Provide caring mentorship and collaborative technical advice to staff.
+Design the data pipelines and engineering infrastructure to support our clients’ enterprise machine learning systems at scale.
+Take offline models data scientists build and turn them into a real machine learning production system.
+Develop and deploy scalable tools and services for our clients to handle machine learning training and inference.
+Identify and evaluate new technologies to improve performance, maintainability, and reliability of Hala’s learning systems.
+Apply software engineering rigor and best practices to machine learning, including CI/CD, automation, etc.
+Support model development, with an emphasis on auditability, versioning, and data security.
+Facilitate the development and deployment of proof-of-concept machine learning systems.
+Communicate with clients to build requirements and track progress.
+ 
+Who you are:
+A highly collaborative, well-rounded professional.
+An exemplary diplomat with exceptional interpersonal skills.
+A visionary and strategist.
+An excellent communicator who is able to provide appropriate and data-driven recommendations.
+A creative problem-solver,
+A highly driven, results-oriented person.
+ 
+We’d love to see:These are the technical skills and qualifications
+Bachelor’s Degree in Computer Science, Engineering, Cybersecurity, or related technical field
+Advanced degree in related field of study.
+2–5 years experience building production-quality software.
+4+ years’ work experience with Machine Learning, DevOps, Deep
+Learning, Computer Vision, high-performance computing (HPC), software engineering and/or related fields.
+Hands-on experience using tools such as: Python, C/C++, and database languages.
+Experience supporting efforts training & deploying AI/ML models.
+Outstanding written and oral presentation skills are required for both internal and stakeholder-facing communications.
+Hands-on experience managing or provisioning GPU/CPU clusters, or other large-scale cloud or Linux/Unix systems.
+Hands on experience developing and training AI/ML models.
+Proven experience implementing CI/CD on large-scale operational AI pipelines.
+Operational experience deploying across cross-provider, cross-domain cloud computing environments.
+Ability to translate business needs to technical requirements.
+Strong understanding of software testing, benchmarking, and continuous integration.
+Exposure to machine learning methodology and best practices.
+Exposure to deep learning approaches and modeling frameworks (PyTorch, Tensorflow, Keras, etc.).
+ 
+What Hala offers you:
+Life-saving social impact.
+Competitive salaries.
+Unlimited vacation policy and flexible holidays so you can take time off when you need it. All staff take a minimum of 22 days off plus holidays, including a mandatory 2 week vacation.
+Comprehensive, world-wide healthcare, dental and vision insurance for you and your family at no cost to you.
+Paid parental leave.
+Flexible working policy, including the ability to work from home.
+Computer and other office equipment to help you get your job done.
+Relocation assistance for you, your family, and your pets for eligible positions.
+A diverse, international community of dedicated, hardworking team players committed to interdisciplinary collaboration and a thriving workplace culture.
+Opportunities for international travel, including to program locations and satellite offices.
+If there’s something important to you that isn’t on this list, please ask!
+ 
+What happens next:
+We will review applications and reach out to candidates advancing to the interview stage. You should expect a phone screen, followed by several interviews with team members and the supervisor for this role, concluding with the opportunity to speak with both of our co-founders.
+You will receive a confirmation that your application was received, and you’ll also hear back from us whether you’re selected for an interview or not. Please note that we are unable to offer individualized feedback before the first interview round due to the volume of applications we receive.
+			

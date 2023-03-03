@@ -1,0 +1,66 @@
+
+Job Description
+Organization background: Founded in 2015, Level Education is an innovative higher education start up at Northeastern University in Boston, MA. We are breaking new ground by modeling a unique, alternative pathway for higher education and professional development in symbiosis with a university. Level was formed as a Data Analytics program and is quickly scaling to offer programs in other high demand skills areas.
+We have been recognized as a disruptive innovation by the Clayton Christensen Institute and as an example of innovation in higher education by the U.S. Department of Education. We are just getting started, and we are looking to grow our team of talented instructors to provide learners with high-quality, intensive, experiential educational programs that support them in gaining the skills needed to advance their personal and professional goals.
+The Opportunity: This is an opportunity to play an integral role on our team as a Data Analytics Instructor for 5 months, with the opportunity to extend. In this role, you will be the lead instructor for 2 cycles of our full-time 8-week program in Boston from mid-January to mid-May. You will work in close collaboration with our full program team, including our Director of Learning, Program Analyst, Data Analytics Program Director and Teaching Assistants.
+Our intermediate analytics curriculum takes students through the theoretical underpinnings of data analytics including probability, statistics, predictive analytics and introductory machine learning concepts, using in-demand tools including R, MySQL and Tableau. Students receive career support from Northeastern’s top-ranked career services team, and participate in experiential projects with employer partners.
+General Description: Our staff structure is as innovative as our mission. We’ve built a highly collaborative team with an array of different talents and skills, and we have a network of instructors and TA’s across the country that support our students in face-to-face and virtual programs. Our success lies in an ability to learn from and with one another, to listen closely, to encourage risks, and to foster mutual respect. An ideal candidate will possess three main attributes:
+You are passionate about student outcomes and want to solve big problems in higher education from the inside.
+You are a go-getter. You have a tenacious work ethic and are excited about working toward aggressive short-term and long-term goals.
+You have deep data analytics experience (e.g. data analyst, data scientist, management consultant, financial analyst) and some experience with instruction.
+We will provide you with the following resources to prepare you to fully leverage your expertise and excel as an instructor:
+You will have access to our pre-built course curriculum, including content and assessments hosted on our online LMS, daily slides, and lab exercises.
+Our program team will provide you with pedagogical training that will equip you with strategies to maximize student learning in this model.
+You will receive ongoing support from the Level team before and during program implementation.
+Teaching assistants will provide support inside and outside the classroom, as well as for grading.
+Position Detail
+Core roles and responsibilities will include:
+Teach 8 hours a day, Mon-Fri, for two cycles of our 8-week program in Boston from mid-January to mid-May, guiding each cohort of 15-20 students through our experiential learning curriculum, which includes lab exercises and projects.
+Participate in approximately 5 hours of training with our Program team.
+Spend several hours per week preparing for instruction, leveraging existing Level curriculum content.
+Work alongside the Level program team to best meet the needs and learning styles of students.
+Cultivate a collaborative, hands-on, dynamic learning environment in your classes, where students feel supported in their learning.
+Assess students and provide them with ongoing feedback.
+Requirements 
+Skills & Qualifications
+The ideal candidate will have the following skills and dispositions:
+Demonstrate a thorough understanding of probability, statistics and basic machine learning, including: conditional probability, distributions and outliers, confidence intervals and hypothesis testing, linear and logistic regression, supervised classification techniques and unsupervised learning.
+Possess a deep understanding of predictive analytics and associated processes, including: data pre-processing and cleaning, exploratory data analysis, and model training, testing and evaluation.
+Fluent in R, MySQL and Tableau.
+Conversational in Python and Big Data concepts.
+B.S./B.A. and M.S/M.A. in related field required (e.g. Computer Science, Statistics, Engineering).
+Ph.D. in related field preferred.
+Benefits
+5 month contract starting instruction in January 2019; salary commensurate with experience. Opportunities for extending relationship to an ongoing contract.
+ 
+How to Apply
+Email Lily at [email protected] with resume and/or apply through: https://level-education-from-northeastern-university.workable.com/jobs/859737
+
+
+ Job Categories: Lecturer/Teacher. Job Types: Freelance. Job Tags: data visualization, ggplot2, probability, Probability and Statistics, Relational Database, SQL, statistics, and tableau.
+
+
+
+
+Apply for this Job
+
+
+Name *
+
+
+Email *
+
+
+Message *
+
+
+Upload resumé (pdf, doc, docx, zip, txt, rtf)
+
+
+Upload cover letter (pdf, doc, docx, zip, txt, rtf)
+
+ 
+
+
+
+

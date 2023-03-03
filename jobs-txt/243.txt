@@ -1,0 +1,69 @@
+
+Job Description
+
+Customer Success Representative
+
+
+
+RStudio creates great software that helps people understand data and make better decisions in real world applications. Our core is an open source data science toolchain, and we aim to make it available to everyone, regardless of their economic means.
+
+The goal of our customer success team is to ensure that RStudio’s customers are wildly successful with our products. To accomplish this, the team provides resources, education, and advice to maximize adoption of RStudio products. On any given day, customer success team members are leading technical webinars, spending time with our customers, and identifying innovative ways to engage and add value in end-users environments.
+
+As we grow, we are looking to add another member to this talented and dedicated team. In this unique role, you will be responsible for growing revenue by educating customers about the array of benefits from our toolchain, many of which are new, evolving, and not necessarily well-known. As a trusted and responsive partner, you will help customers maximize the impact of their data science initiatives through the adoption, continuation, and expansion of RStudio products. At the same time, you will share valuable customer and end-user insights with engineering and data science colleagues to further evolve RStudio products and packages.
+
+About you:
+
+You thrive on building trusted relationships and a deep understanding of your customers’ needs. You enjoy sharing insights and resources to help your customers get the greatest possible value from our products.
+You have prior experience in sales, consulting, or training fields, and feel at home in roles where you can offer value as both a teacher and a problem-solver. 
+You are keenly interested in data science and statistics, and have some direct experience in these areas. While a background in R programming is ideal, you might also have worked in other data science programming environments such as Python, SAS, or SPSS.
+You are internally driven by curiosity and continuous learning. You have proven that you can be entrusted with big decisions, and strive to bring understanding and empathy to the entire team.
+You are humble, and play well with other people. You thrive in team settings, and exhibit excellent communication and collaboration skills.
+You can function effectively in a distributed team. This means you are reliable, you know when to ask for help, you invest in strong relationships with your colleagues, and you know yourself well enough to be accountable for your own self management.
+About us
+We are committed to a culture that represents diversity in all its forms.
+We are a very flat organization, and expect agency from within. If you get a little uncomfortable around ‘broken windows’ and take initiative to improve your surroundings, you will thrive here.
+We are a learning organization, and we have assembled some of the greatest minds in data science and software engineering. We take mentorship and career growth seriously. We hope to learn from you, and we promise you will also deepen your skills, influence and leadership as a result of working at RStudio.
+We operate under a unique sustainable business model: 60% of our company is open source. We are profitable, and we plan to be around twenty years from now.
+Notable
+100% distributed team (or come in to one of our offices in Seattle or Boston)
+Competitive compensation with great benefits including:
+medical/dental/vision insurance (100% of premiums covered)
+paid parental leave
+401k matching contribution
+a profit-sharing plan
+home office allowance/co-working membership support
+Flexible environment with a generous vacation policy
+RStudio is committed to being a diverse and inclusive workplace. We encourage applicants of different backgrounds, cultures, genders, experiences, abilities and perspectives to apply. All qualified applicants will receive consideration for employment without regard to race, color, national origin, religion, sexual orientation, gender, gender identity, age, physical disability, or length of time spent unemployed.
+
+
+How to Apply
+To apply: Click here
+
+
+ Job Categories: Other. Job Types: Full-Time.
+
+
+
+
+Apply for this Job
+
+
+Name *
+
+
+Email *
+
+
+Message *
+
+
+Upload resumé (pdf, doc, docx, zip, txt, rtf)
+
+
+Upload cover letter (pdf, doc, docx, zip, txt, rtf)
+
+ 
+
+
+
+

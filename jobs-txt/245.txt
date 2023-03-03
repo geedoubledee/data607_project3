@@ -1,0 +1,71 @@
+
+Job Description
+EPA Innovation Fellowship Openings
+The Office of Chemical Safety and Pollution Prevention (OCSPP) mission is to protect human health and the environment from potential risks associated with pesticides and toxic chemicals. Through innovative partnerships and collaboration, OCSPP works to prevent pollution before it begins. The Office of Science Coordination and Policy (OSCP) Endocrine Disruptor Screening Program was established to develop a standardized approach to screen pesticides, chemicals and environmental contaminants for their potential effects on the endocrine system through the estrogen, androgen and thyroid pathways.
+The OSCP is looking for an Innovation Fellow to provide leadership and expert software engineering support to assist in the evaluation of chemicals for potential endocrine activity. The fellow will develop information systems architecture and perform data analysis in collaboration with other offices. This is a unique professional opportunity focused on building componentized front-end thin client or web applications using Python, R (Shiny), or other open-source tools supported by backend data warehouses to build enterprise-level systems that are critical to the mission of the EPA. The fellow will build tools to create sophisticated and engaging customer experiences to help scientists with translational research to understand and manage the toxicity and prevalence of chemicals. Selectees will be expected to apply new tools and techniques to solve a variety of problems in an agile environment.
+Desired Knowledge, Skills, Abilities, and Qualifications
+Candidates for this position in the fellowship are senior software engineers or data scientists with substantive knowledge of software design principles and automated testing. The knowledge, skills and abilities required for this position are obtained through substantial experience in the software engineering field. The ideal applicant is a full-stack developer.
+Skill in using data science tools such as Python, R, KNIME, or SAS
+Skill in the implementation and development of relational, non-relational, and/or graph databases such as Oracle, MySQL, PostgreSQL, MongoDB, Neo4J
+Knowledge of agile scrum methodologies and agile software management tools (such as Jira)
+Ability to build visualization and interactive applications using tools and frameworks such as D3.js, Shiny, Qlik, Bokeh,
+Skill in building interactive applications using tools and frameworks such as D3.js, Shiny, Qlik, Bokeh,
+Duties:
+Develop thin client or web applications in a production environment using technologies such as Ruby, Python, Node.js, Angular, Java, ;
+Develop and deploy *nix and cloud environment (AWS, Azure, and/or Cloud Foundry);
+Manage a multi-disciplinary team that regularly reports to senior management;
+Develop chemo- and bio-informatics toolkits and applications to support high throughput toxicological testing such as CDK, RDKit, Indigo cartridges, tcpl, SpotFire, DataWarrior, ;
+Deploy and utilize Application Programming Interfaces (APIs)
+Appointment Information
+o  Washington, DC: GS 13 $96,970 -$126,062
+o  Washington, DC: GS 14 $114,590-148,967
+Two-year appointments that may be extended for a total of four years
+Annual (vacation) and sick leave
+Federal health benefits, life insurance, and retirement program
+How to Apply
+Apply via Email by December 7, 2018
+ Email your application to:
+EPA Innovation Fellowship Applications ([email protected]). Please include “OCSPP-19-002 OEI Innovation Fellowship” in the email subject line.
+ 
+NOTE: Applications must be submitted in a format readable by this office, such as MS Word, portable document format (PDF), rich text format (RTF), or plain text. Use of any format we cannot read may invalidate your application.
+Your email must include:
+Up-to-date resume and references
+Cover letter indicating positions and location of interest
+DD-214 or VA letter, if claiming veteran’s preference
+S. citizenship is required
+
+If you have questions or inquiries, please contact Mrs. Chelsea Vaughn at (800) 433-9633 or [email protected]
+Duty Station
+Washington, D.C.
+NOTE: U.S. EPA is an Equal Opportunity Employer and Provides Reasonable Accommodations to Applicants with Disabilities. Federal law requires all employers to verify the identity and employment eligibility of all persons hired to work in the United States. Only U.S. Citizens may be considered. EPA participates in E-Verify. E-Verify is an Internet based system operated by the Department of Homeland Security (DHS) in partnership with the Social Security Administration (SSA) that enables participating employers to electronically verify the employment eligibility of their newly hired employees. For additional information: EPA Announcement Policies and Procedures.
+
+
+ Job Categories: Other. Job Types: Full-Time. Job Tags: bioinformatics, Biology, cheminformatics, chemistry, IT, machine learning, mysql, NLP, PostgreSQL, python, r, shiny, and toxicology. Salaries: More than $100,000.
+ Endless.
+
+
+
+
+
+Apply for this Job
+
+
+Name *
+
+
+Email *
+
+
+Message *
+
+
+Upload resumé (pdf, doc, docx, zip, txt, rtf)
+
+
+Upload cover letter (pdf, doc, docx, zip, txt, rtf)
+
+ 
+
+
+
+

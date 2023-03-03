@@ -1,0 +1,69 @@
+
+Job Description
+About Alamar Biosciences, Inc.
+Founded by serial entrepreneurs with a track record of success, Alamar Biosciences is a venture-backed startup company developing game-changing technology platforms for early cancer detection and treatment. The company is looking for productive and energetic scientists to join our fast-paced and goal-oriented team. We provide exceptional opportunities for those who have the entrepreneurial spirit, enjoy developing novel technology platforms and products, and aspire to grow together with the company.
+ 
+Description:
+We are seeking a PhD-level Biostatistician / Bioinformatics scientist with a passion for creating methods for analyzing and modeling completely new types of high-throughput biological data. The successful candidate will design, execute and implement methods for statistical computation at Alamar. He or she should be a technical expert in handling biological data in a statistically sound manner. The candidate will be working with innovative technology and developing platform methods for data analysis and will work with a highly talented and motivated team to address unmet research and medical needs.
+ 
+Responsibilities:
+Support the development of Alamar’s technology platform and develop methods and for analyzing and quantifying Alamar’s unique biological data
+Create algorithms (e.g. an R package) which allows statisticians and data scientists around the world to easily use the algorithms / statistical methods you develop
+Create graphical application(s) / dashboard(s) for users to perform data analysis and QC (e.g. using Shiny or similar)
+Perform statistical analysis to support product development and biomarker discoveries
+Stay abreast of industry and academic developments in statistics and modeling techniques and apply them to significant and unique issues that require exercising independent judgment.
+ 
+Required Qualifications:
+PhD. or Masters with 5+ years or Bachelor with 10+ years of experience in biostatistics, statistics, bioinformatics, computational biology, computer science or related disciplines
+Solid understanding and experience in using statistical methods for analysis and modeling of biological data
+Strong programming skills; fluency in R is required; python or other languages is a plus
+Strong analytical mind and an interest in modern statistical and data analysis methods such as machine learning
+Demonstrated productivity and scientific independence with strong problem-solving skills.
+Must be self-motivated with a positive “can do” attitude and have good project management skills
+Have strong communication skills and a demonstrated track record of success in a multidisciplinary team environment
+ 
+ 
+Preferred Qualifications:
+You have hands-on experience in the design and application of algorithms and methods for:
+
+Normalization and accurate quantification of biological data (e.g. NGS / microarrays)
+Hypothesis testing (e.g. ANOVA, multiple-test correction)
+Data modeling (e.g. linear/mixed models)
+Identifying biomarkers from large biological datasets
+Design of Experiments
+Design and analysis of clinical trials
+
+You have familiarity with the concepts and algorithms for R packages such as limma, edgeR, voom, deseq, etc…
+You have authored or made significant contributions to an R package on CRAN, BioConductor or other open-source projects
+Experience with Shiny, Docker, AWS / Azure and Git
+How to Apply
+Please apply on Alamar Biosciences LinkedIn Page
+
+
+ Job Categories: Data Scientist / Statistician. Job Types: Full-Time.
+
+
+
+
+Apply for this Job
+
+
+Name *
+
+
+Email *
+
+
+Message *
+
+
+Upload resumé (pdf, doc, docx, zip, txt, rtf)
+
+
+Upload cover letter (pdf, doc, docx, zip, txt, rtf)
+
+ 
+
+
+
+

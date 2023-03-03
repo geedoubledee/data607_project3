@@ -20,7 +20,11 @@ library(DBI)
 library(dbplyr)
 library(RMariaDB)
 library(data.table)
+library(stopwords)
 library(tidytext)
+library(RColorBrewer)
+library(DT)
+library(wordcloud)
 
 ```
 
@@ -30,7 +34,7 @@ W. Edwards Deming said, “In God we trust, all others must bring data.” Below
 
 ## Connect to the SQL Data Base:
 
-```{r db_con}
+```{r db_con1}
 con <- DBI::dbConnect(
   RMariaDB::MariaDB(),
   dbname = "dat_sci_jobs",
@@ -42,9 +46,10 @@ con <- DBI::dbConnect(
 
 ## Read from the SQL Data Base and Disconnect:
 
-```{r db_write}
+```{r db_write1}
 tables <- dbListTables(con)
 jobs_df <- dbReadTable(con, "_Jobs")
+datatable(jobs_df, options = list(pageLength = 25))
 dbDisconnect(con)
 
 ```
@@ -55,7 +60,7 @@ dbDisconnect(con)
 
 completed_files <- readLines("completed_files.txt")
 
-files <- list.files(pattern = "\\.csv$")
+files <- list.files(pattern = "_feeds_.*csv$")
 url_base <- "https://raw.githubusercontent.com/geedoubledee/data607_project3/main/"
 new_jobs_df <- as.data.frame(matrix(nrow = 0, ncol = 11))
 for (i in 1:length(files)){
@@ -76,18 +81,20 @@ new_jobs_df <- new_jobs_df[!duplicated(new_jobs_df), ]
 ## Remove Unnecessary Columns in Jobs Data Frame and Rearrange Remaining Columns to Prepare the Data for the SQL Data Base:
 
 ```{r jobs_df_minimize}
-new_jobs_df <- subset(new_jobs_df, select = -c(X, author, summary, content, extracted_content_url, published, created_at))
-cols <- c("Job_id", "Site_id", "Job_title", "Job_url")
-colnames(new_jobs_df) <- cols
-rownames(new_jobs_df) <- NULL
-new_jobs_df <- new_jobs_df[c("Job_id", "Job_title", "Job_url", "Site_id")]
-new_jobs_df %<>%
-    mutate(Job_complete = 0)
-
-jobs_df <- rbindlist(list(jobs_df, new_jobs_df))[!duplicated(Job_url)]
-
-jobs_df %<>%
-    mutate(Job_id = row_number())
+if (nrow(new_jobs_df) > 0){
+    new_jobs_df <- subset(new_jobs_df, select = -c(X, author, summary,
+        content, extracted_content_url, published, created_at))
+    cols <- c("Job_id", "Site_id", "Job_title", "Job_url")
+    colnames(new_jobs_df) <- cols
+    rownames(new_jobs_df) <- NULL
+    new_jobs_df <- new_jobs_df[c("Job_id", "Job_title", "Job_url",
+                                 "Site_id")]
+    new_jobs_df %<>%
+        mutate(Job_complete = 0)
+    jobs_df <- rbindlist(list(jobs_df, new_jobs_df))[!duplicated(Job_url)]
+    jobs_df %<>%
+        mutate(Job_id = row_number())
+}
 
 ```
 
@@ -144,7 +151,7 @@ for (i in 1:nrow(jobs_df)){
 
 ## Connect to the SQL Data Base:
 
-```{r db_con}
+```{r db_con2}
 con <- DBI::dbConnect(
   RMariaDB::MariaDB(),
   dbname = "dat_sci_jobs",
@@ -156,7 +163,7 @@ con <- DBI::dbConnect(
 
 ## Write to the SQL Data Base and Disconnect:
 
-```{r db_write}
+```{r db_write2}
 tables <- dbListTables(con)
 dbWriteTable(con, "_Jobs", jobs_df, overwrite = TRUE)
 dbDisconnect(con)
@@ -168,35 +175,63 @@ dbDisconnect(con)
 ```{r tidytext_analysis}
 
 files <- list.files(pattern = "^[1-9]+.*txt$")
-if (!dir.exists("jobs-txt")){
-    dir.create("jobs-txt")
-}
-file.copy(from = paste0(getwd(), "/", files),
+completed_txt_files <- readLines("completed_txt_files.txt")
+text_df <- read.csv("text_df.csv")
+
+if (length(files) > 0){
+    file.copy(from = paste0(getwd(), "/", files),
           to = paste0(getwd(), "/jobs-txt/", files))
-file.remove(from = paste0(getwd(), "/", files))
-
-url_base <- "https://raw.githubusercontent.com/geedoubledee/data607_project3/main/jobs-txt/"
-
-completed_txt_files <- c()
-
-text_df <- as.data.frame(matrix(nrow = 0, ncol = 3))
-cols <- c("Text", "Job_id", "Line")
-colnames(test_df) <- cols
-
-for (i in 1:length(files)){
-    if (!(files[i] %in% completed_txt_files)){
-        file <- paste(url_base, files[i], sep = "")
-        job_id <- str_replace(files[i], ".txt", "")
-        lines <- readLines(file)
-        for (i in 1:length(lines)){
-            col2 <- matrix(job_id, nrow = length(lines), ncol = 1)
-            col3 <- matrix(1:length(lines), nrow = length(lines), ncol = 1)
+    file.remove(from = paste0(getwd(), "/", files))
+    url_base <- "https://raw.githubusercontent.com/geedoubledee/data607_project3/main/jobs-txt/"
+    new_text_df <- as.data.frame(matrix(nrow = 0, ncol = 3))
+    cols <- c("Text", "Job_id", "Line")
+    colnames(new_text_df) <- cols
+    for (i in 1:length(files)){
+        if (!(files[i] %in% completed_txt_files)){
+            file <- paste(url_base, files[i], sep = "")
+            job_id <- str_replace(files[i], ".txt", "")
+            lines <- readLines(file)
+            for (j in 1:length(lines)){
+                col2 <- matrix(job_id, nrow = length(lines), ncol = 1)
+                col3 <- matrix(1:length(lines),
+                               nrow = length(lines),
+                               ncol = 1)
+            }
+            completed_txt_files <- append(completed_txt_files, files[i])
+            addition <- cbind(lines, col2, col3)
+            colnames(addition) <- cols
+            text_df <- rbind(text_df, addition)
         }
-        completed_files <- append(completed_txt_files, files[i])
-        addition <- cbind(lines, col2, col3)
-        colnames(addition) <- cols
-        text_df <- rbind(text_df, addition)
     }
+    writeLines(completed_txt_files, "completed_txt_files.txt")
+    text_df %<>%
+        mutate(Text_id = row_number())
+    rownames(text_df) <- NULL
+    text_df <- text_df[c("Text_id", "Text", "Job_id", "Line")]
+    write.csv(text_df, "text_df.csv")
 }
+
+tidy_text_df_words <- text_df %>%
+    unnest_tokens(word, Text)
+
+tidy_text_words_analysis <- tidy_text_df_words %>%
+    anti_join(get_stopwords()) %>%
+    count(word, sort = TRUE)
+    
+datatable(tidy_text_words_analysis, options = list(pageLength = 25))
+
+tidy_text_words_analysis %>%
+    with(wordcloud(word, n, max.words = 50))
+
+tidy_text_df_bigrams <- text_df %>%
+    unnest_tokens(bigram, Text, token = "ngrams", n = 2)
+
+tidy_text_bigrams_analysis <- tidy_text_df_bigrams %>%
+    count(bigram, sort = TRUE)
+
+datatable(tidy_text_bigrams_analysis, options = list(pageLength = 25))
+
+tidy_text_bigrams_analysis %>%
+    with(wordcloud(bigram, n, max.words = 50))
 
 ```

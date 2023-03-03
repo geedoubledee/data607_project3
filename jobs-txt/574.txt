@@ -1,0 +1,42 @@
+
+We believe in the power of hiring. Because the potential for people to do something outstanding has everything to do with being in the right role, on the right team, at the right time. That’s where Greenhouse comes in – from recruiting to on-boarding, we make software to help every company be great at hiring.Greenhouse is looking for a Senior Product Manager, ML/AI to join our team!
+Joining our tight-knit Product team, you'll help our customers hire better. As we continue to expand Greenhouse's product offerings, your role will be important to ensure success throughout the company – from brainstorming ideas with the team to guiding new solutions through the development process. You’ll keep projects on track and drive real change in how we work. The machine learning group is a small, but growing team that is scaling to satisfy our growing customer base — you'll make a big impact here!
+As the first ML/AI focused Product Manager at Greenhouse you’ll be responsible for setting the vision of how we leverage machine learning within our product suite. This will include leading our Data Products team to improve and iterate on existing data products, driving process improvement and best practices, and partnering cross-functionally with the broader Product and R&D team to make a meaningful impact.
+Who will love this job
+An entrepreneur – you love digging into new problems, finding solutions, and enjoy the challenge of ambiguity
+A leader – you set a clear goal, and think holistically about how this impacts the greater company
+A storyteller – you believe in our mission and can communicate it internally and externally
+An organizer – you know how to weigh contending priorities and maintain an ongoing feedback loop between customers and internal teams
+A teammate – you are able to thrive within a dynamic environment
+What you’ll do
+Build ML/AI driven solutions for complex problems related to our Recruiting product, and lead them from conceptualization to release
+Work closely with our R&D team to identify blockers and make decisions about how new functionality should behave
+Regularly conduct customer discovery interviews with customers and prospects to identify user pain points
+Help create new processes that streamline the Greenhouse product development lifecycle as we grow
+QA new features before they're released
+Prioritize projects and bugs
+Engage with the broader company on feature development
+Contribute to the public product roadmap and serve as a visible member of the Product team for our customers and partners
+You should have
+Experience in product managing complex problems
+Empathy – listen, influence, and build positive relationships internally and with our customers
+Excellent project management skills; capable of breaking large, thorny problems into small, manageable tasks
+The ability to quickly switch between problems and tasks — being comfortable with interruptions
+Technical Experience with Data Science and ML/AI – you don't need to have engineering experience, but you can hold your own with our engineers
+Experience evaluating the ethical and/or adverse impact of algorithmic solutions, a plus
+Experience identifying opportunities and risks with model optimization, a plus
+Your own unique talents! If you don’t meet 100% of the qualifications outlined above, tell us why you’d be a great fit for this role in your cover letter
+ 
+Applicants must be currently authorized to work in the United States on a full-time basis.
+If you are based in California, we encourage you to read this important information for California residents linked here.
+The national pay range for this role is $118,000 - $187,000. Individual compensation will be commensurate with the candidate's experience and local cost of labor.
+ 
+#LI-MM2 
+Who we are
+At Greenhouse, we celebrate having a diverse group of hardworking employees and it hasn’t gone unnoticed. We’ve won numerous awards including Inc. Magazine Best Workplace (2018-2022), Glassdoor #1 Best Place to Work, Forbes Cloud 100, Deloitte Technology Fast 500, Inc. 5000, Crain’s Best Places to Work NYC, Fortune’s Great Place to Work (2019 - 2022),  and Mogul’s Top 100 Workplaces for Diverse Representation (2022). We pride ourselves on fostering a collaborative culture throughout every step of a Greenhouse employee's journey. From day one of our interview process to executive "Ask Me Anything" sessions, we consistently cultivate an inclusive environment.
+For all our employees, we offer a full slate of benefits from competitive salaries, stock options, fully paid option(s) for health coverage (medical, dental and vision), disability coverage, employer paid life insurance, mental health resources, financial wellness benefits, and a fully paid parental leave program. For US-based employees, we offer flexible vacation and a 401(k) matching program. For Dublin-based employees, we offer 25 days' vacation and an employer matching pension program.
+Our success in making companies great at hiring depends on our ability to create a diverse, equitable and inclusive environment. To that end, we’re committed to attracting, developing, retaining and promoting a diverse workforce, and infusing DE&I throughout all of our internal practices. By ensuring that every Greenie is able to bring a diversity of talents to our work, we’re increasingly capable of living out our mission and providing real insight from our products to support our customers. We encourage people from underrepresented backgrounds and all walks of life to apply. Come grow with us at Greenhouse, where we’re building a team to face the world’s increasingly complex and diverse hiring needs.
+Want to learn more about our interviewing process? Check out our interviewing at Greenhouse page
+**We are a distributed company and do our best work where it works best for us - as individuals and as teams.  Our regional headquarters are based in New York (North America) and Dublin (Europe), but our employees are distributed across the US, Canada, and Ireland. **
+Our Talent Acquisition (TA) team at Greenhouse has recently been notified of a phishing scam targeting candidates applying for our open roles. Scammers have been posing as hiring managers and recruiters in an effort to access candidates’ personal and financial information. Please note that any communication from our hiring teams at Greenhouse regarding a job opportunity will only be made by a Greenhouse employee with an @greenhouse.io email address. We would never ask you as part of our interview process to provide personal or financial information, including but not limited to your social security number, online account passwords, credit card numbers, passport information and other related banking information. If you believe you’ve been a victim of a phishing attack, please mark the communication as “spam” and alert us right away at talentacquisition@greenhouse.io.
+

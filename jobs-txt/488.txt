@@ -1,0 +1,36 @@
+
+iCapital is powering the world’s alternative investment marketplace. Our financial technology platform has transformed how advisors, wealth management firms, asset managers, and banks evaluate and recommend bespoke public and private market strategies for their high-net-worth clients. iCapital services approximately $152 billion in global client assets invested in 1,210 funds, as of December 2022. 
+ iCapital has been named to the Forbes Fintech 50 for five consecutive years (2018 – 2022); a back-to-back selection by Forbes to its list of Best Startup Employers; and a two-time winner of MMI/Barron’s Solutions Provider award (See link below). 
+ About the Role 
+iCapital is looking for an Analytics Engineer to measurably drive growth for our business teams at iCapital using data. This involves defining and calculating KPIs for our business teams, transforming raw source data into processed business data, creating live dashboards to monitor performance, identifying driver metrics and statistical correlations, and finally working with business teams to implement data insights.  
+This role will sit in the Analytics group within the Data & Analytics team and will work closely with the Data Engineering and Data Science teams. On the technical side, this position will interface with our entire data stack of Airbyte, Snowflake, dbt, Airflow, Python and Tableau (among others). On the business side, you will work with our sales, marketing, and product teams to drive top-line growth metrics (e.g. sales, usage, conversion). This is a technical role where you will be frequently writing code. Ideal candidates will be able to understand complex business problems, develop execution plans, implement all aspects of the project technically, and finally present on their work. 
+ Responsibilities 
+Write Python and SQL (in dbt) to extract, transform, validate, and aggregate data. 
+Create Tableau dashboards for various business teams, charting key metrics, and performing exploratory data analysis. 
+Develop statistical models and construct data-driven experiments. 
+Convert data insights into concrete, action-oriented, and phased execution plans that measurably grow various business metrics over time. 
+Work closely with our engineering, product, and business teams to form a thorough understanding of our industry and evolving data model. 
+Drive projects to completion by gathering business requirements, implementing technical solutions, following software best engineering practices, and presenting on results. 
+Qualifications 
+Bachelor’s degree or higher in Computer Science, Economics, Mathematics, Statistics, or a related technical field 
+3- 5 years of experience in a data-related role 
+Excellent knowledge of SQL (dbt experienced preferred) 
+Excellent writing, communication, and presentation skills 
+Knowledge of Python, Microsoft Excel, and intermediate statistics
+Knowledge of a business intelligence tool (e.g., Tableau, Looker, PowerBI) 
+Knowledge of data modeling, relational databases, normalization, OLAP stores
+Familiar with data governance principles, data stewardship, traceability, lineage 
+Prior experience with end-to-end project delivery (e.g., requirements gathering, scoping, working within large organizations, presenting on project plans and results) 
+Detail-oriented, naturally curious, and willing to question to status quo to understand business needs 
+Prior experience working in software engineering teams (e.g., Agile, SLDC) preferred  
+Prior experience in business analyst and/or project management roles preferred 
+Prior experience in the financial services and alternative investments preferred 
+Knowledge of application development, cloud infrastructure, networking and/or machine learning preferred 
+ 
+Benefits 
+The base salary range for this role is $120,000 to $150,000.  iCapital offers a compensation package which includes salary, equity for all full-time employees, and an annual performance bonus. Employees also receive a comprehensive benefits package that includes an employer matched retirement plan, generously subsidized healthcare with 100% employer paid dental, vision, telemedicine, and virtual mental health counseling, parental leave, and unlimited paid time off (PTO). 
+We offer most employees the flexibility to work in the office three to four days and remotely for the remainder of the week.  Every department has different needs, and some positions will be designated in-office jobs, based on their function. 
+For additional information on iCapital, please visit https://www.icapitalnetwork.com/about-us  Twitter: @icapitalnetwork | LinkedIn: https://www.linkedin.com/company/icapital-network-inc | Awards Disclaimer: https://www.icapitalnetwork.com/about-us/recognition/ 
+ 
+iCapital is proud to be an Equal Employment Opportunity and Affirmative Action employer. We do not discriminate based upon race, religion, color, national origin, gender, sexual orientation, gender identity, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics. 
+

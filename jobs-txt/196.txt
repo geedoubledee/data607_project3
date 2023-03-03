@@ -1,0 +1,57 @@
+
+Job Description
+Bioinformatics Analyst
+About the Job
+Growing biotechnology company seeks enthusiastic individual to assist in developing an enabling and
+disruptive gene expression technology.
+Qualifications:
+*** Must be proficient in R with a strong preference for candidates that have experience with the
+Shiny package and data visualization.
+*** Experience with Bioconductor packages preferred.
+*** Must be comfortable working in a UNIX environment and shell scripting.
+*** Experience with a scripting language Python/Perl preferred.
+*** Must be able to analyze Next Generation Sequencing NGS.
+*** Experience analyzing NGS (Next Generation Sequencing) data with a preference for candidates
+that have experience building and running data analysis pipelines.
+*** Knowledge of Molecular Biology techniques.
+*** Familiarity with sequence alignment software and algorithms.
+*** Degree in Biology, Molecular Biology, Bioinformatics, Genomics, Computational Biology,
+Genetics, Mathematics, Statistics, or similar.
+-Familiarity with Web Development (How Front-End/Back-end work and communicate)
+-Experience with algorithm implementation, statistical programming and data manipulation
+-Experience with web administration, system administration, GoDaddy, SSL certificates,
+apache2/nginx.
+-Experience with AWS EC2, S3, RDS, CloudWatch.
+-Experience with Bash.
+-Knowledgeable of High-performance computing concepts (multi-threading, parallelism, caching
+How to Apply
+Please send cover letter and resume to [email protected]
+
+
+ Job Categories: Researcher/Academic. Job Types: Full-Time.
+
+
+
+
+Apply for this Job
+
+
+Name *
+
+
+Email *
+
+
+Message *
+
+
+Upload resumé (pdf, doc, docx, zip, txt, rtf)
+
+
+Upload cover letter (pdf, doc, docx, zip, txt, rtf)
+
+ 
+
+
+
+

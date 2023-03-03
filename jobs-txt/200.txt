@@ -1,0 +1,70 @@
+
+Job Description
+GENERAL SUMMARY
+Chapin Hall is an independent policy research center at the University of Chicago that provides public and private decision-makers with rigorous research and achievable solutions to support them in improving the lives of children, families, and communities. Chapin Hall partners with policymakers, practitioners, and philanthropists at the forefront of research and policy development by applying a unique blend of scientific research, real-world experience, and policy expertise to construct actionable information, practical tools, and, ultimately, positive change for children, youth, and families. Established in 1985, Chapin Hall’s areas of research include child welfare systems, community capacity to support children and families, and youth homelessness. For more information about Chapin Hall, visit www.chapinhall.org or @Chapin_Hall.
+Chapin Hall at the University of Chicago is seeking an individual to work on a team engaged in empirical, analytical and conceptual child and family welfare research. The Associate Researcher’s main contribution to research projects is the management, linking, statistical analysis, and presentation of project data. The individual will participate in discussions regarding study design and methodology; develop and maintain programs that transform data into analyzable formats and/or that can be utilized for data analysis; and perform modeling and statistical analyses of data using R, STATA, SAS, SQL, and/or other appropriate analytic software programs. The Associate Researcher will also participate in meetings with external stakeholders and write sections of research results for funders and publications.
+The position will report directly to Brian Chor, Senior Researcher.
+ESSENTIAL FUNCTIONS
+The primary responsibilities of the position are as follows:
+Converts, merges and assembles large-scale data that often need to be cleaned for analysis for multiple projects. Develops and maintains programs that transform data into analyzable formats and/or that can be utilized for data analysis, with a strong emphasis on generalizability and transparency.
+Automate existing and emerging processes for importing, documenting, integrating, and updating data as well as to coding best practices such as code review and version control.
+Performs modeling and complex statistical analyses using R, STATA, SAS, SQL, and/or other appropriate analytic software programs under supervision.
+Participates in discussions regarding study design and method Assists in developing study objectives, and designing sampling, randomization and data collection procedures to achieve study objectives.
+Writes sections of research results for funders and/or publications, and may assist with report production activities, including proofing, formatting and creating tables and graphs.
+Participates in meetings with external stakeholders and may present findings at meetings and/or conferences.
+Performs additional duties as assigned.
+QUALIFICATIONS
+Education & Experience
+Master’s degree in data science, biostatistics, computer science, econometrics, statistics, or social science/policy with significant advanced coursework in statistics and programming OR a relevant bachelor’s degree plus a minimum of five years of relevant experience required.
+Other Qualifications
+Minimum of two years’ experience working with large administrative datasets.
+Minimum of two years’ data analysis experience required.
+Advanced experience with R, STATA, SAS, SQL, and/or other appropriate program languages, preferably experience working in a Unix environment.
+Ability to conduct data cleaning, quality check, and diagnose inconsistencies/accuracy of large-scale administrative data.
+Strong interest in and aptitude for developing analytic skills for working with administrative data.
+Strong background in statistical methodology.
+Professional experience with complex data systems strongly preferred; experience with public sector administrative data and data systems.
+Demonstrated capacity for taking initiative, problem-solving, and working in a collaborative research environment.
+Ability to manage multiple, concurrent tasks.
+Strong attention to detail with good organization skills.
+Ability to translate and convey complex concepts and study findings in oral and written communications.
+Ability to work independently with a high degree of initiative.
+Demonstrated judgment and discretion in the handling of sensitive information.
+MINIMUM PHYSICAL REQUIREMENTS
+The physical demands described here are representative of those that must be met by an employee to successfully perform the essential functions of this job. Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions.
+Must be able to remain in a stationary position for extended periods of time.
+Must be able to operate a computer extensively for four (4) or more hours per day.
+Pre-employment background checks are required for all Chapin Hall at the University of Chicago positions.
+To express interest in this opening, please visit https://csschcc.sentrichr.com.
+Formal expressions of interest are accepted online only. A cover letter, resume, writing sample, and reference contact information are required to be considered for this position.
+Individuals in need of reasonable accommodations to complete the application process should contact Human Resources by calling (773) 256-5157, or by sending an email to [email protected]
+Chapin Hall at the University of Chicago is an Affirmative Action, Equal Opportunity Employer that values and actively seeks diversity in its workforce. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, status as an individual with disability, age, protected veteran status, or any other status protected by law.
+
+
+ Job Categories: Data Scientist / Statistician. Job Types: Full-Time.
+
+
+
+
+Apply for this Job
+
+
+Name *
+
+
+Email *
+
+
+Message *
+
+
+Upload resumé (pdf, doc, docx, zip, txt, rtf)
+
+
+Upload cover letter (pdf, doc, docx, zip, txt, rtf)
+
+ 
+
+
+
+

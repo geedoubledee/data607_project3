@@ -1,0 +1,60 @@
+
+Job Description
+Overview
+The Initiative for Data-Driven Social Science (DDSS) at Princeton University invites applications for a Senior Research Specialist (SR) position, which will provide research and data management support for a variety of computational social science research projects. The SRS will serve as a key contact and consultant for a portfolio of faculty research projects across social science disciplines.
+This is a one-year term position with the possibility of renewal. End date is dependent on start date, which may vary.
+Responsibilities
+Reporting to the DDSS Executive Director and working closely with Princeton faculty and professional researchers, the Senior Research Specialist will assist with the collection, documentation, and statistical analysis of large data sets. The position will serve as a technical and methodological consultant for faculty, staff, and students in areas of data-intensive social science research design and practice. In addition, this individual will be expected to write summaries of research, perform literature searches and reviews, and post and retrieve information from online repositories.
+The Senior Research Specialist will also have the opportunity to help shape the development of this new initiative’s strategic vision, long- and short-term agenda, and research infrastructure. The position would offer exposure to academic life of Princeton, including seminars, events, and regular interaction with faculty and graduate students.
+ 
+ 
+Qualifications
+A Master’s degree in a social science field, computer science, mathematics, statistics, or related computational field.
+Excellent programming skills in Python, R, C/C++, Stata, or other languages used in social science research.
+Excellent research and writing skills.
+Experience managing projects from initiation through completion.
+Knowledge of statistics and data analysis methods.
+Thorough understanding of social science research design and the academic research process.
+Eagerness to collaborate with both technical and non-technical colleagues.
+Preferred qualifications:
+Doctorate in a related field.
+Knowledge of Unix or Linux.
+Knowledge of standard Internet tools and HTML, as well as web-based design and visualization fundamentals.
+Strong problem-solving skills; ability to communicate complex problems and solutions to relevant stakeholders.
+Experience acquiring, securing, and managing data sets in the support of academic research.
+Working knowledge of standard social science data sources.
+Princeton University is an Equal Opportunity/Affirmative Action Employer and all qualified applicants will receive consideration for employment without regard to age, race, color, religion, sex, sexual orientation, gender identity or expression, national origin, disability status, protected veteran status, or any other characteristic protected by law. EEO IS THE LAW
+ 
+Apply Here
+PI117155734
+How to Apply
+Apply Online
+
+
+ Job Categories: Other. Job Types: Full-Time.
+
+
+
+
+Apply for this Job
+
+
+Name *
+
+
+Email *
+
+
+Message *
+
+
+Upload resumé (pdf, doc, docx, zip, txt, rtf)
+
+
+Upload cover letter (pdf, doc, docx, zip, txt, rtf)
+
+ 
+
+
+
+

@@ -1,0 +1,46 @@
+
+Job Description
+The overall objective of the Department of Data and Analytics at WHO is to provide relevant, actionable data to systematically drive continuous and equitable health improvement and policy change. Central to this is the availability and use of sound health information at country, regional and global levels. The production and dissemination of health statistics for health action at the country, regional and global levels are core WHO activities mandated by the Member States in the Constitution. WHO’s comparable estimates for health indicators such as risk factor prevalence, disease prevalence and incidence are an important input to WHO technical advice to Member States on health priorities and responses.
+The position will start with a 6-month staff contract.  Candidate should be available to start as of end of January.
+ 
+Responsibilities
+Manage R code to extract, format, collate data from various sources (online, excels) for use in departments key reporting initiatives.
+Streamline data collection process, refine code for automation, ideally allowing for bi-annual analysis
+Prepare visualizations and dashboards.
+Requirements
+Degree in public health, data science, statistics or related subject
+Desirable: An advanced degree with relevant public health, data science or statistics
+A minimum of 2 years’ experience in analysing and/or management and dissemination of (desirably health) data, of which at least one year at the international level.
+Proficient with R / ggplot
+Desirable: database experience and coding with other languages.
+How to Apply
+Prospective candidates can send their CV and cover letter to [email protected]
+
+
+ Job Categories: R Developer. Job Types: Full-Time.
+
+
+
+
+Apply for this Job
+
+
+Name *
+
+
+Email *
+
+
+Message *
+
+
+Upload resumé (pdf, doc, docx, zip, txt, rtf)
+
+
+Upload cover letter (pdf, doc, docx, zip, txt, rtf)
+
+ 
+
+
+
+

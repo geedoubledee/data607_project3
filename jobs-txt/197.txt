@@ -1,0 +1,64 @@
+
+Job Description
+GENERAL SUMMARY
+Chapin Hall is an independent policy research center at the University of Chicago that provides public and private decision-makers with rigorous research and achievable solutions to support them in improving the lives of children, families, and communities. Chapin Hall partners with policymakers, practitioners, and philanthropists at the forefront of research and policy development by applying a unique blend of scientific research, real-world experience, and policy expertise to construct actionable information, practical tools, and, ultimately, positive change for children, youth, and families. Established in 1985, Chapin Hall’s areas of research include child welfare systems, community capacity to support children and families, and youth homelessness. For more information about Chapin Hall, visit www.chapinhall.org or @Chapin_Hall.
+Chapin Hall at the University of Chicago is seeking an experienced individual to work with a team of researchers in conducting empirical, analytical and conceptual studies on children, families and neighborhoods and in improving the ability of organizations serving these individuals to use and interpret data and evidence. The Associate Researcher will join a team of data scientists and researchers in organizing and presenting data, including development of data management pipelines and databases, maintaining large project codebases, and creating interactive reports and visualizations in R and Python. Chapin Hall maintains a secure Linux data environment, a series of PostgreSQL databases, and a suite of data processing and analytic tools including Python, R, SQL, and SAS.
+The position will report directly to Molly Rossow, Senior Researcher.
+ESSENTIAL FUNCTIONS 
+The primary responsibilities of the position are as follows:
+Builds extract, transform, load (ETL) pipelines for batch processing administrative data. Develops and maintains programs that convert data into analyzable formats and/or that can be utilized for data analysis, with a strong emphasis on generalizability and transparency.
+Develops static and interactive reports and visualizations to facilitate improved data use by agencies and organizations that seek to improve the wellbeing of children and families.
+Participates in data analysis in collaboration with policy researchers and other experts.
+Collaborates with researchers, data scientists, policy and implementation specialists, and IT staff in project and system design activities, including writing technical documentation and scoping projects.
+QUALIFICATIONS
+Education & Experience
+Master’s degree in computer science, engineering, public policy or another relevant field plus a minimum of two years of relevant experience required OR a relevant bachelor’s degree plus a minimum of five years of relevant experience required.
+Other Qualifications 
+Demonstrated knowledge of SQL and relational databases (PostgreSQL is preferred). Professional experience with complex data systems strongly preferred; experience with public sector data and data systems preferred.
+Programming experience in either Python or R (experience in both is preferred).
+Familiarity with Git.
+Ability to balance many competing demands, as well as to demonstrate good decision-making and initiative.
+Ability to learn new material, including technical skills and domain-specific information.
+Excellent written and verbal communication skills, including in discussing technical concepts with non-technical users.
+Ability to work independently with a high degree of initiative required.
+Ability to manage multiple, concurrent tasks required.
+Demonstrated judgment and discretion in the handling of sensitive information required.
+MINIMUM PHYSICAL REQUIREMENTS 
+The physical demands described here are representative of those that must be met by an employee to successfully perform the essential functions of this job. Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions.
+Must be able to remain in a stationary position for extended periods of time.
+Must be able to operate a computer extensively for four (4) or more hours per day.
+________________________________________________________
+Pre-employment background checks are required for all Chapin Hall at the University of Chicago positions.
+To express interest in this opening, please visit https://csschcc.sentrichr.com.
+Formal expressions of interest are accepted online only. A cover letter, resume, writing sample, and reference contact information are required to be considered for this position.
+Individuals in need of reasonable accommodations to complete the application process should contact Human Resources by calling (773) 256-5157, or by sending an email to [email protected].
+Chapin Hall at the University of Chicago is an Affirmative Action, Equal Opportunity Employer that values and actively seeks diversity in its workforce. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, status as an individual with disability, age, protected veteran status, or any other status protected by law.
+
+
+ Job Categories: Data Scientist / Statistician. Job Types: Full-Time.
+
+
+
+
+Apply for this Job
+
+
+Name *
+
+
+Email *
+
+
+Message *
+
+
+Upload resumé (pdf, doc, docx, zip, txt, rtf)
+
+
+Upload cover letter (pdf, doc, docx, zip, txt, rtf)
+
+ 
+
+
+
+

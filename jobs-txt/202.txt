@@ -1,0 +1,62 @@
+
+Job Description
+Zymeworks is a clinical-stage biopharmaceutical company dedicated to the discovery, development and commercialization of next-generation bispecific and multifunctional biotherapeutics.  Zymeworks’ suite of complementary therapeutic platforms and its fully-integrated drug development engine provide the flexibility and compatibility to precisely engineer and develop highly-differentiated product candidates.
+Zymeworks is seeking a highly-motivated professional who is looking to grow their career with our company.
+Translational Informatics is an interdisciplinary group that works with scientists across the research organization in order to facilitate the assessment and prioritization of drug candidates during development. The group provides expertise in Data Science, Statistical Modeling, Bioinformatics, and Genomics, leveraging computational and informatics methods to guide the decision-making process during therapeutic development. The successful candidate will have a solid background in statistical modeling, with a deep interest in the drug discovery process and excellent communication skills.
+This position will report to the Principal Scientist, Translational Informatics and will be based in Vancouver, BC.
+Key Responsibilities
+Contributes to project activities with statistics support, including study design and sample size estimation, authoring/reviewing statistical analysis reports, analyzing data from studies, and presenting statistical analysis to a wide audience.
+Works collaboratively with cross-functional teams to ensure rigorous design and appropriate statistical analysis are applied to allin vivo pharmacology studies, as well as in vitro
+Assists with validation and development of new assays.
+Conducts in-depth analysis of in vitro data and provide constructive feedback in order to improve quality and ensure high standards of statistical rigor in experimental design and data analysis across the organization.
+Supports statistical analysis efforts in areas of Translational Sciences (e.g. Biomarkers, Toxicology) in collaboration with scientists in Translational Informatics & Biometrics.
+Develops new statistical methods for research topics of greatest need and stay on the leading edge of current and emerging analytical approaches in Statistics and Data Science.
+Collaborates with the software development group to ensure the robustness and quality of computational tools implementation and statistical methods.
+Participates in the development of rigorous documentation and standard operating procedures.
+Fosters effective and collaborative working relationships with fellow employees, management and external partners.
+Qualifications and Experience
+PhD in Statistics, Biostatistics, Data Science, Computer Science or a related field and a minimum of 5 to 8 years’ related experience (may include post-doctoral experience) or an equivalent combination of education and experience.
+Strong expertise in developing, validating and applying hierarchical statistical models (e.g. Mixed effects models, RMANOVA) in a variety of problems using real-world experimental or in silico
+Expertise in statistical methods for experimental design, predictive modeling, longitudinal data and/or survival analysis.
+Experience with conducting statistical inferences and communicating analysis results to a broader audience of non-mathematical background.
+Experience with advanced regression techniques including Logistic regression, Cox regression, and other non-linear & linear regression models.
+Expertise in algorithmic implementation, statistical programming and data manipulation.
+Proficient in at least one language for statistical modeling (R, SAS, Stan).
+Understanding and/or experience in drug discovery and development is preferable.
+Proven interpersonal skills with the ability to work collaboratively as a member ofcross-functional  Ability to establish and maintain effective working relationships.
+Goodorganizational skills and the ability to work effectively in a high paced, fast changing environment. Results-oriented.
+Fluent in written and spoken English.
+Why Work for Us?
+Zymeworks’ employees are passionate, engaged and extremely motivated to succeed.  We are excited by the cutting-edge science and technology, the endless possibilities this union holds and the sheer opportunity to be a part of something big.  To learn more about Zymeworks Inc. and our current openings, please visit our website at www.zymeworks.com.
+We offer challenging career opportunities, competitive benefits and an environment that recognizes and rewards performance.
+How to Apply
+If you are interested in this challenging opportunity, please apply online at https://zymeworks.bamboohr.com/jobs/view.php?id=224.  Due to the high volume of applicants, only those selected for interviews will be contacted.
+
+
+ Job Categories: Data Scientist / Statistician. Job Types: Full-Time. Job Tags: biostatistics, data-science, mathematical modeling, and statistics.
+
+
+
+
+Apply for this Job
+
+
+Name *
+
+
+Email *
+
+
+Message *
+
+
+Upload resumé (pdf, doc, docx, zip, txt, rtf)
+
+
+Upload cover letter (pdf, doc, docx, zip, txt, rtf)
+
+ 
+
+
+
+

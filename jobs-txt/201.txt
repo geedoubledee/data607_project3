@@ -1,0 +1,65 @@
+
+Job Description
+Our partner VF International is looking for a Lead Data Scientist to join its team in Stabio.
+Are you a leader? Do you go above and beyond? Are you confident and decisive? That’s the right place for you!
+We’re looking for an outstanding Lead Data Scientist to join our VF Central Data Analytics team in Stabio, Switzerland.
+You may ask “Just who is VF?”. Well, we are the global company behind some of the world’s leading lifestyle brands. Household names such as Vans, Timberland, The North Face, Napapijri, Eastpak and Kipling.
+As one of the largest apparel providers in the world, we are passionate about finding great people to join our extended family.
+Let’s talk about the role:
+The Lead Data Scientist will drive EMEA Direct-to-Consumer Data Science practice, in collaboration with the Global Team.
+Reporting to the EMEA Data & Analytics Lead, the Lead Data Scientist will be responsible for:
+Apply data modelling and analytical pipeline to large data set
+Manage e2e lifecycle for advanced data Science products Prove Business impact by leading scalable data initiatives across different domains, engaging different stakeholders and teams to increase efficiency and productivity
+Create and own the right set of metrics and audit mechanisms to track the performance of such initiatives
+Deal with ambiguity, conduct deep dive analyses on business problems, and formulate conclusions
+Provide leadership for Data Science domain, guide and inspire data Science team, identify new analytics opportunities and engage with business and technology partners
+Analytics Tracks: Marketing, Demand forecast, Consumer Lifecycle management, Pricing & Stock optimization, Channel Performances
+Requirements:
+MSc or PhD in quantitative or scientific discipline (Mathematics, Statistics, Physics, Engineering, Computer Science, Econometrics or strongly related subjects)
+5-7 years of proven experience in Data science initiatives (in Retail space or Ecommerce), with proven knowledge of bringing to live analytical solutions
+Good knowledge of data structures and technologies (relational DB, file formats, NoSQL DB, etc.) related to Big Data and Cloud computing (Hadoop, Map Reduce, Spark)
+Ability to master few of the following languages: Python, advanced SQL knowledge
+Nice to have: Java, Scala, R, Matlab, Octave,
+Experience in managing Data Science team: you’ll play a leadership position in our Data Science department and you’ll lead the development of big data capabilities and utilization as well as the coordination of cross-functional analytic initiatives.
+Full proficiency of technical and business English
+What’s in it for you?
+Most companies like to say they offer a competitive salary, an amazing bonus and pension scheme as well as staff discounts (btw we offer 50%!). We also do this, only quite different. Because it’s not just our products which set us apart from others. It’s our people and we believe they deserve to be nurtured and looked after. That’s why, on top of the usual benefits, we offer much more:
+Career ownership, enabling you to build your knowledge and experience across different brands and even different countries
+A supportive feedback-based culture where respect and integrity guide us in what we do
+Tailored training. From a thorough induction to ongoing online and face-to-face training, we are committed to helping you grow, both professionally and personally.
+An inclusive environment where people of diverse backgrounds, lifestyles and nationalities love working together
+On site gym offering health and well-being initiatives
+Subsidised canteen as well as break out areas offering complimentary hot drinks
+Relocation Package!
+How to Apply
+Apply on Meritocracy:
+https://meritocracy.is/en/vf-international/lead-data-scientist-41407?utm_source=r_users&utm_medium=referral&utm_campaign=vf_international_lead_data_scientist
+
+
+ Job Categories: Data Scientist / Statistician. Job Types: Full-Time. Job Tags: big data, cloud computing, data scientist, and python. Salaries: Less than $100,000.
+
+
+
+
+Apply for this Job
+
+
+Name *
+
+
+Email *
+
+
+Message *
+
+
+Upload resumé (pdf, doc, docx, zip, txt, rtf)
+
+
+Upload cover letter (pdf, doc, docx, zip, txt, rtf)
+
+ 
+
+
+
+

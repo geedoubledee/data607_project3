@@ -1,0 +1,60 @@
+
+Job Description
+Key Responsibilities:
+Create compelling visualizations, dashboards and reports for internal and external purposes
+Design and develop visualization standards to support product development based on industry best practices and current research
+Create and maintain visualization galleries for marketing and promotional material
+Collaborate with multidisciplinary team of designers, developers and system administrators
+Compile and analyze data, processes, and codes to troubleshoot problems and identify areas for improvement
+Collaborating with other team members to establish objectives and design more functional, cohesive codes to enhance the user experience
+Developing ideas for new programs, products, or features by monitoring industry developments and trends
+Recording data and reporting it to proper parties, such as clients or leadership
+Experience and Qualifications: 
+ 
+Experience developing dashboards and web applications in RShiny
+Experience creating aesthetically appealing visualizations with R packages such as ggplot2
+Experience performing data wrangling with R packages such as data.table or dplyr
+Experience with UI/UX design principles
+Ability to tell a story with data to a wide range of users
+Strong attention to detail including clear, concise and thorough documentation skills
+Ability to listen and develop a deep understanding of project, product and client requirements
+Strong self-initiative and work ethic
+Demonstrated ability to work well in a multi-disciplinary team environment
+Ability to learn and adapt new technologies
+Knowledge of accessibility standards such as WCAG or AODA
+Knowledge of visualizing geographic data is considered an asset
+ 
+Additional Experience and Qualifications an asset: 
+Candidates must provide a digital portfolio outlining their abilities to perform the above stated responsibilities, experience and qualifications.
+Candidates must hold or be able to obtain Security and Controlled Goods clearances
+How to Apply
+GSTS offers a competitive salary and benefits package, if you think this challenge is right for you, we encourage you to apply, forwarding  your  cover letter, current resume and contact information to [email protected]
+
+
+ Job Categories: Other. Job Types: Full-Time. Job Tags: ggplot2, shiny, and visualization.
+
+
+
+
+Apply for this Job
+
+
+Name *
+
+
+Email *
+
+
+Message *
+
+
+Upload resumé (pdf, doc, docx, zip, txt, rtf)
+
+
+Upload cover letter (pdf, doc, docx, zip, txt, rtf)
+
+ 
+
+
+
+

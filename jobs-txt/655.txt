@@ -1,0 +1,55 @@
+
+84.51° Overview:
+84.51° is a retail data science, insights and media company. We help the Kroger company, consumer packaged goods companies, agencies, publishers and affiliated partners create more personalized and valuable experiences for shoppers across the path to purchase.
+Powered by cutting edge science, we leverage 1st party retail data from nearly 1 of 2 US households and 2BN+ transactions to fuel a more customer-centric journey utilizing 84.51° Insights, 84.51° Loyalty Marketing and our retail media advertising solution, Kroger Precision Marketing.
+Join us at 84.51°!
+__________________________________________________________
+ DIRECTOR DATA SCIENTIST
+COMMERCIAL PLATFORMS – G4
+Cincinnati, Chicago, Remote
+SUMMARY: 
+We are a community of data scientists that work to improve the shopping experiences of our customers, both in-store and online. We leverage large volumes of data to develop powerful sciences using cutting edge machine learning, natural language processing, and mathematical techniques to improve products, processes, and systems that positively impact our customers. We lead our organization in identifying and adopting the tools and technologies that will continue to position our company as the recognized analytical leader within our industry.
+RESPONSIBILITIES:
+Own the Data Science strategy and roadmap for 84.51°’s Kroger Personal Finance team focused on growing Digital Personalization of KPF products and services, increasing the strategic impact of the KPF team at 84.51°, and advancing innovation projects
+Directly engage with KPF senior leadership and key enterprise stakeholders to ensure strategy and workplan are aligned to business priorities and create value for KPF
+Manage and develop the data science team; helping to coach, mentor and grow talent to support the roadmap and bring new data science opportunities to life across a wide range of commercial solutions
+Collaborate with our cross-functional partners to embed innovative thinking and methodical evaluation of new concepts via the New Ventures framework
+Provide DSR thought leadership on technical solution design and continued evolution of key KPF strategy pillars, with initial focus on core capabilities and the Services Hub
+Collaborate with and work to influence cross-enterprise and cross-functional stakeholders to ensure we are providing the right data science experiences for our customers, evolving those sciences appropriately, and following data science, privacy, and security best practices
+Be an engaged and active leader of our broader Commercial Platforms DSR team, partnering with other DSR leads to collectively drive our work forward and lead our collective data science team
+QUALIFICATIONS, SKILLS, AND EXPERIENCE:
+7+ years developing analytical solutions using advanced optimization methods and machine learning algorithms
+7+ years querying data from relational databases using SQL/Python to develop analytical solutions
+7+ years with data wrangling, data cleaning and prep, problem framing, and analysis
+Experience with managing, recruiting, training, developing, coaching, and/or inspiring highly technical associates
+Proficient in technology stack (Azure, Snowflake, Python, Spark)
+Experience with developing, coaching, and/or inspiring highly technical associates
+Ability to work in a highly collaborative cross functional environment
+Comfort with fast pace and multiple moving parts, anticipating and solving for future barriers/ changes
+Excellent interpersonal, collaboration, and communication skills
+Strong academic background in mathematics, statistics, computer science, economics, or similar discipline
+Strong analytical, creative problem-solving and decision-making skills
+Ability to create computationally efficient solutions
+Strong business acumen
+Natural curiosity and passion around data, analysis and insights
+Welcomes and embraces change
+Ability to work fast yet accurately
+An openness and willingness to try new things and to fail
+AN IDEAL CANDIDATE HAS A STRONG TRACK RECORD OF
+Building stakeholder relationships at a senior level
+Influencing leaders and cross functional partners
+External client exposure and strong understanding of client’s business needs
+Managing, recruiting, training, developing, coaching, inspiring and/or leading others
+Building strong cross functional partnerships
+Championing an inclusive culture and embracing 84.51° D&I initiatives
+Creating and/or improving large-scale processes or initiatives
+Leading Data Scientists through the successful execution of project work and delivery
+Independently creating solutions and solving open-ended and/or complex problems, analyzing both successes and failures
+Providing direct, constructive feedback to peers and junior data scientists
+Making data-driven decisions and priority calls
+Clearly articulating their point-of-view
+Showing comfort with moving quickly across multiple workstreams
+Working with our technology stack at 84.51°
+#LI-Remote
+#LI-_SSS
+

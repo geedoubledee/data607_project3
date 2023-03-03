@@ -1,0 +1,15 @@
+
+As a Data DevOps Engineer you will work in a multidisciplinary Agile Scrum team (development, testing and innovation) which serves various internal data users.  The Athora Datawarehouse consists of a modern Azure Cloud environment and an on-premises Datawarehouse environment. You are responsible for unlocking Data within the Athora Datawarehouse. The migration to the Azure Cloud is currently underway. You have an innovative view on Data and the Datawarehouse. Together with your team you are responsible for innovation and further development of the Datawarehouse. You are aware of trends and developments within the Data world and know how to translate them into solutions within Athora. You have at least 4 years of relevant work experience in a Data environment.
+
+
+
+Requirements
+Knowledge of Python (advanced, object oriented, design patterns)Knowledge of Databricks:PySparkSpark SQLKnowledge of Azure Datawarehouse environment (DP-900, DP203)Knowledge of Azure DevOps (Git, YAML Pipelines)Knowledge of the Microsoft BI stack:PowerBIFamiliar with Microsoft SQL Server (T-SQL)SSIS/SSASExperience with data migrationsGeneral knowledge of scripting (PowerShell/Bash)You are familiar with the application of common BI modeling techniques such as star diagrams, measures, facts and dimensionsAgile SAFeA good knowledge of the Dutch language in word and writing.Competences
+You like to come up with creative and innovative solutionsYou can work well independently, but value working and sparring with colleaguesYou are curious and always want to continue learning within your own field and also outside of itYou have a good sense of humor!We offer
+A dynamic work environment and great colleaguesA good balance between work and free time (Hybrid Work)Ample opportunity for training and courses (Personal Development)Flexible working hours with attention to health and vitalityA good salary and a 13th monthAre you ready?
+If you recognize yourself in the description, please send us your resume now.
+For further questions, please contact Eveline Becking, 06 17335912
+
+
+Athora is committed to diversity and being an inclusive employer. Click here to find out more Diversiteit en inclusie (athora.nl)
+

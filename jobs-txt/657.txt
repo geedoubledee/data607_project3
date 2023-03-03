@@ -1,0 +1,28 @@
+
+
+Télécom Paris, école de l’IMT (Institut Mines-Télécom) et membre fondateur de l’Institut Polytechnique de Paris, est une grande école du top 5 des écoles d’ingénieurs généralistes françaises. Institution à « taille humaine » mais à forte composante internationale, Télécom Paris est reconnue pour sa proximité avec les entreprises. Cette école publique garantit une excellente employabilité dans tous les secteurs et apparait comme la 1ère grande école d’ingénieurs sur toute la verticale du numérique (des couches matérielles jusqu’aux usages).
+
+Avec des enseignements d’excellence et une pédagogie innovante, Télécom Paris est au cœur d'un écosystème d'innovation unique, fondé sur l’interaction et l’importance du mode projet dans sa formation d’une part, et de l’autre part sur sa recherche interdisciplinaire. Ses enseignants-chercheurs sont affiliés à deux laboratoires de recherche: d'une part, le laboratoire LTCI qui est présenté par le HCERES comme une unité phare dans le domaine des sciences du numérique avec un rayonnement remarquable à l’international; et d'autre part, le laboratoire i3, Institut interdisciplinaire de l’Innovation (I3 - UMR 9217 du CNRS), qui poursuit un programme de recherche multidisciplinaire centré sur l’innovation dans le cadre d'une collaboration avec l’École Polytechnique et Mines ParisTech.
+Basée à Palaiseau, au cœur du campus de l’Institut Polytechnique aux côtés de l’École polytechnique, de l’ENSTA, de Télécom Sud Paris et de l’ENSAE, Télécom Paris est également dotée d’un incubateur basé à Paris au cœur de l’écosystème français des start-ups.
+
+Télécom Paris se positionne comme le laboratoire à ciel ouvert de tous les grands défis technologiques et sociétaux : intelligence artificielle, informatique quantique, IOT, cybersécurité, grands équipements numériques (Cloud), 5G/6G, Green IT.
+CONTEXTE SCIENTIFIQUE
+Un poste de postdoc de 2 ans est ouvert au département Image, Données et Signal de Télécom Paris - une des grandes écoles d'ingénieurs françaises, membre de l'Institut Polytechnique de Paris. Le poste s'inscrit dans le cadre du projet LS-Depth-CaP financé par la bourse Jeunes Chercheuses et Jeunes Chercheurs de l'Agence Nationale de la Recherche en catégorie Intelligence Artificielle (ANR JCJC, CE23). Le/la candidat(e) retenu(e) devra mener des recherches sur des sujets comprenant à la fois des éléments théoriques et computationnels axés sur le développement de méthodes statistiques et d'apprentissage automatique robustes et à grande échelle.
+
+MISSIONS PRINCIPALES DU POSTE
+Assurer des missions de recherche   dans le domaine de la statistique computationnelle et du machine learning.Assurer des missions d’encadrement   et de tutorat.Participer à la notoriété de l’Ecole   et de l’Institut Mines-Télécom.ACTIVITÉS PRINCIPALES
+1.	Assurer des missions de recherche dans le domaine de la statistique computationnelle et du machine learning-	Réalise des missions de recherche dans le cadre des contrats du Département dans le domaine de la statistique computationnelle et du machine learning.-	Participe et assure la réalisation des livrables des projets.2.	Assurer des missions d’encadrement et de tutorat-	Encadre des projets étudiants et des stages ingénieurs.3.	Participer à la notoriété de l'École et de l’Institut Mines-Télécom-	Publie les résultats de ses travaux de recherche.-	Réalise des présentations et des conférences.-	S’implique dans les sociétés savantes ou professionnelles.-	Entretient des relations étroites avec les institutions académiques, les centres de recherche et les entreprises.4.	Divers-	Participe à l’animation scientifique, pédagogique et de gestion du Département ou de l’Institution.-	Le cas échéant, dirige et gère les agents placés sous sa responsabilité ou sa supervision. -	Rend compte des activités et des résultats qui relèvent des missions dont il a la charge.
+Requirements
+Compétences, connaissances et expériences indispensables :-	Connaissance théorique et pratique approfondie dans le domaine de la statistique computationnelle et du machine learning.-	Connaissance des langages de programmation pour machine learning : R / Python, C / C++, ou similaire.-	Maîtrise de l’anglais.Compétences, connaissances et expériences souhaitables :-	Expérience d’illustration des garanties théoriques pour les méthodes computationnelles.-	Expérience du développement de la méthodologie computationnelle basée sur l’optimisation stochastique.Capacités et aptitudes :-	Capacité à travailler en équipe, aptitude au dialogue et à la rédaction.-	Qualités relationnelles et pédagogiques.-	Aptitude à la synthèse.
+Niveau de formation et/ou expérience requis :- Doctorat ou équivalent
+Informations diverses :
+Date limite de candidature : 25 avril 2023
+Type d'emploi : CDD de 24 mois
+Description de poste complète iciLe dossier de candidature doit comprendre : 
+-	une lettre de motivation,-	un CV détaillé,-	Noms / Emails d’au moins deux référents prêt à fournir une lettre de recommandation,-	tout autre élément jugé utile par le candidat à l’examen de la candidature.
+Contact scientifique : Pavlo Mozharovskyi – pavlo.mozharovskyi@telecom-paris.fr
+Contact administratif : Marion Taldir – marion.taldir@telecom-paris.fr
+
+Tous nos postes sont ouverts aux personnes en situation de handicap.
+
+

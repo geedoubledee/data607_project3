@@ -1,0 +1,43 @@
+
+Our mission is to connect and optimize the world’s commerce. That means the whole world. So we’re determined to nurture our culture of meritocracy where everyone can thrive, no matter what we look like, where we’re from, how we grew up, whom we love, the nature of our faith, or how our bodies or minds work. We’re committed to achieving equity in treatment and opportunity for everyone, where people are judged on the merits and quality of their work.
+It all starts with people. Inside every company, behind every brand­ - while business success is often measured in profit, it has always been powered by people. We firmly believe people are the heart of any organization - including our own. That’s why a career here provides much more than simple pay and perks. We’re dedicated to empowering people, solving tough problems, and helping careers flourish inside and out. 
+ 
+Position Summary:
+The Business Intelligence Engineer will be a critical contributor to enabling the Business Intelligence Team to identify opportunities for CommerceHub to use its own data, as well as data provided by third parties, to generate additional company revenue and derive valuable industry insights.
+ 
+Responsibilities:
+Design and build dashboards for internal stakeholders and externally facing products
+Develop new and maintain existing reports using Looker, Tableau and PowerBI
+Work with stakeholders including Product, Marketing, Finance and Customer Support to design dashboards and reports
+Participate in full development life cycle including requirements development, implementation, peer review, source control, automated testing, deployment, and operations
+Enforce corporate policies around the evolution and enforcement of industry data standards, data governance and best practices
+ 
+Requirements:
+Bachelor’s degree or higher and/or equivalent work experience
+Strong analytical skills related to working with both structured and non-structured datasets
+Strong data modeling skills and experience working with Star Schemas
+Strong working knowledge of highly scalable data warehouse products such as Amazon Redshift, Snowflake
+2+ years’ experience with data visualization tools such as Looker, Tableau, PowerBI
+Experience working in Retail and Looker BI visualization tool is a plus
+2+ years’ experience with SQL coding languages such as TSQL, LookML, PostgreSQL, Athena
+2+ years’ experience with scripting languages such as Python and R
+Exceptional written and verbal communication skills
+Comfortable communicating across all levels of management
+Ability to prioritize tasks and work independently
+Excellent analytical, decision-making, and problem-solving skills
+Proven ability to work in a rapidly changing environment with keen attention to detail
+ 
+What it’s like to work at ChannelAdvisor, a CommerceHub Company
+We take a whole-person approach to engage and support our global team. We believe the diversity of our global team is an advantage. If you’re curious, innovative, determined, and customer-focused, then you’ll love the challenge and rewards of collaborating as a team to help our customers win. We offer competitive compensation programs that recognize your hard work and results. Because when our customers win, we win.  And when we win, you win.
+We work to create an environment where everyone who is committed, works hard, and delivers results can thrive and grow. You can connect with one of our employee resource groups and support our diversity, equity and inclusion task force, network with like-minded team members, and showcase your leadership skills. 
+ 
+Benefits: 
+Enhanced Private Medical Insurance and a Health Cash Back Plan 
+Competitive time off package with 25 Days of PTO, 9 Holidays, 2 Wellness days and 1 Give Back Day
+Flexibility to choose where you work - at home, in the office, or both!
+Access to tools to support your wellbeing such as the Calm App, MoveSpring and an Employee Assistance Program
+Professional development stipend and learning and development offerings to help you build the skills and connections you need to move forward in your career
+Charitable contribution match per team member
+ 
+ChannelAdvisor, a CommerceHub Company, is an Equal Employment Opportunity Employer. We celebrate diversity and are committed to providing an environment of mutual respect where equal employment opportunities are available to all applicants and teammates without regard to race, religion, color, sex, gender identity, sexual orientation, age, non-disqualifying physical or mental disability, national origin, veteran status or any other basis covered by appropriate law. All employment is decided on the basis of qualifications, merit, and business need.
+

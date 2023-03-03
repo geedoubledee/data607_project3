@@ -1,0 +1,48 @@
+
+High performing team members. Challenging projects. A stable and profitable company. And a great place to work! This is what you can expect if you join the Quisitive team. Founded in 2016, Quisitive is a publicly traded, global Microsoft partner specializing in Microsoft platform and complementary technologies, custom solutions, and offerings that drive digital transformation and business value for enterprise customers. Our team of professionals has a long history of successfully delivering award-winning Microsoft solutions, and our culture of continual learning ensures that we remain committed to Microsoft’s long-term strategy. Quisitive was recently named the 2022 Microsoft US Health and Life Sciences Partner of the Year.
+What do we attribute our award-winning success to? The people we hire, of course! People don’t join the Quisitive team for a job. They come to Quisitive to build a career – to continue their infinite quest to learn; to deliver on the most innovative and exciting work of their lives; and to be part of a high-performing and fun culture. We’ll provide you the tools and leadership that you need to be successful, and let you do what you do best!
+It is a very exciting time of growth for Quisitive and we are currently hiring a Data Architect to join our Global IT and Innovation team.  This team is responsible for the strategy, design, and implementation of best of breed solutions to enable our Sales, Delivery, Finance, and Operations teams.  In addition, this team is responsible for setting and governing the strategy, architecture, and investments in intellectual property and products that we take to market to our customers.
+This person will work in our corporate headquarters in Dallas, TX (Irving) in a hybrid work model.  
+What will my role be?
+As a Data Architect, you will:
+Define, design, and establish data practices, architecture, and solutions within Azure to support all aspects of Quisitive’s business.
+Plan and deliver short- and long-term projects utilizing strong business, technical and interpersonal skills that will include architecting, engineering, developing, and deploying data solutions to create business insights that are targeted, accurate, fast, and reliable; facilitate architecture review workshops with the team to ensure technology and business alignment.
+Provide hands-on development, enhancement, and maintenance of our internal data warehouse, analytics, and AI platform including an effort to review and re-architect the existing data warehouse and extend/enhance it by incorporating data sets from disparate sources to provide a consolidated view of our business (e.g., Finance, Sales, Delivery Operations, Marketing…) through dashboards and reports that utilize data intelligence. technologies like Azure Synapse, SQL Data Warehouse, and visualizations in Power BI
+Work with Quisitive leadership to analyze business goals, define technical/functional needs, and develop strategies and execution plans using Microsoft’s big data tools to benefit the longer-term business strategy.
+Understand the business data, source systems, and data flows between systems.
+Collaborate on best practices with our external customer-facing Data and AI consulting team.
+What’s required?
+Strong proficiency with Microsoft data and analytics technologies including Azure Synapse, Azure Analysis Services, Azure Data Factory, Azure Data Lake, Azure SQL, SQL Data Warehouse, query languages (e.g., T-SQL/MDX), and Power BI.
+Desire to work in a team environment and ability to work across organization functional boundaries, and also work on individual assignments and projects.
+A credible, professional presence; strong written and verbal communication skills.
+Strong problem solving, analytical, time management, and organizational skills.
+Technical Capabilities and Experience:
+10+ years of technical experience analyzing System Requirements, Architecting, Designing, Implementing, Sourcing Star Schema & Relational Data Modeling, ETL, Processing
+Large-scale analytical platforms and modern data warehouse design and development
+Ability to implement Azure based data ingestion solutions
+Azure Data Lake, Delta Lake and Lakehouse frameworks and concepts
+Azure SQL and cloud data solutions; strong SQL database skills
+Hands-on experience migrating mission critical databases
+Multi-dimensional and Tabular Cube design, development, performance tuning and troubleshooting
+Automated processing, data validation, error checks, and alerts design
+Leadership in dashboard and reporting design and implementation
+Data Visualization, Validation Mining and Auditing
+Aptitude for data manipulation with T-SQL, Python, Scala, etc.
+Familiarity with Agile/Scrum
+Experience with Git/Azure DevOps, ARM Templates, and CI/CD pipelines related to data work
+Knowledge of Master Data Management (MDM) and Data Quality tools and processes
+What would set me apart?
+Experience with Azure and cloud data solutions working with data from multiple sources including Dynamics CRM and ERP.
+Experience with big data technologies including Azure Cosmos DB, Kubernetes Services, Azure ML, and NoSQL
+Spark/Databricks certification or experience
+Microsoft certifications in database and business intelligence technologies (DP-203, MB-260, AZ-400, AZ-500, AI-102)
+Experience with data science and machine learning tools and techniques
+Although this is not a direct customer facing role, previous consulting experience is a plus to allow for deeper understanding of Quisitive’s business
+We are looking for curious initiative takers to join our team, so if you are passionate about being a leader and working with smart people that are committed to accomplishing great things, then apply today!
+No agencies or third parties, please.
+US Citizens and those authorized to work in the US are encouraged to apply.  We are unable to offer visa sponsorships at this time.
+About Quisitive
+With significant growth since 2016, Quisitive is rapidly achieving our vision of becoming the premier, global Microsoft partner, and we continue to expand across the United States, Canada and India. Our teams have grown by diversifying our delivery model to include nearshore and offshore capabilities.  Within our growing Global Cloud Solutions business, we deliver technical business solutions through a portfolio of IP solutions aligned to industry or business function to accelerate customer business goals, and we deliver technical cloud solutions to help customers achieve their digital transformation goals. In addition, Quisitive has a portfolio of industry-focused solutions that address customer challenges in healthcare, manufacturing, state & local government, performance management, and payment processing.
+ 
+ 
+

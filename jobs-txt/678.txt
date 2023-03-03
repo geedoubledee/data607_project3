@@ -1,0 +1,35 @@
+
+Company:
+We are creating the future of brain-computer interfaces: building devices now that have the potential to help people with paralysis regain mobility and independence and invent new technologies that could expand our abilities, our community, and our world.
+Team Description:
+Engineers on the Laboratory Systems software team work closely with other teams – neuroscientists, physicists, roboticists, chip designers, and mechanical engineers – to build Neuralink’s centralized data aggregation and analysis platform. We are building a data platform to collect, organize, and visualize a diverse set of data ranging from neural signal recordings to brain histology images to microfabrication manufacturing data. As a member of our team, you will have the opportunity to own projects that drive engineering and experimentation at Neuralink.
+About you:
+You find large challenges exciting and enjoy discovering and defining problems as much as solving them.
+You deliver. You may enjoy thoughtful conversations about problems and perfecting designs, but in the end, you know that what matters is delivering a manufacturable solution that works every time.
+You are a cross-disciplinary team member. You are excited to work with and learn from software, mechanical, electrical, materials, biological engineers, and neuroscientists. You are comfortable communicating across teams.
+Resourceful, flexible and adaptable; no task is too big or too small.
+Key qualifications: 
+3+ years of software engineering experience
+Experience with data engineering - ETL Pipelines, Data Lakes, Database Management, etc.
+Preferred qualifications:
+Experience with Apache Spark or other distributed compute systems
+Experience building and shipping production-grade ETL Pipelines
+Experience with workflow orchestration tools (e.g. Apache Airflow, AWS Step Functions)
+Experience building Infrastructure for machine learning pipelines
+
+Pay Transparency: The following details are for Texas individuals only:Texas Pay Transparency$87,000—$139,500 USDYour actual base salary and level will be determined on a case-by-case basis and may vary based on the following considerations: job-related knowledge and skills, education, and experience. 
+ 
+Base salary is just one part of your total rewards package at Neuralink. Employees are eligible for equity and benefits in addition.
+ 
+
+What we offer:
+An opportunity to change the world and work with some of the smartest and most talented experts from different fields. 
+Growth potential. We rapidly advance team members who have an outsized impact. 
+Excellent medical, dental, and vision insurance through a PPO plan; parental leave.
+Flexible time off + paid holidays.
+Equity + 401(k) plan.
+Commuter Benefits.
+Meals provided.
+Multiple studies have found that a higher percentage of women and BIPOC candidates won't apply if they don't meet every listed qualification. Neuralink values candidates of all backgrounds. If you find yourself excited by our mission but you don't check every box in the description, we encourage you to apply anyway!
+Neuralink provides equal opportunity in all of our employment practices to all qualified employees and applicants without regard to race, color, religion, gender, national origin, age, disability, marital status, military status, genetic information or any other category protected by federal, state and local laws.  This policy applies to all aspects of the employment relationship, including recruitment, hiring, compensation, promotion, transfer, disciplinary action, layoff, return from layoff, training and social, and recreational programs. All such employment decisions will be made without unlawfully discriminating on any prohibited basis.
+

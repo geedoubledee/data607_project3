@@ -1,0 +1,44 @@
+
+About the Role: 
+In this role, you will analyze large amounts of raw information. We will rely on you to build data products to extract valuable business insights.
+In this role, you should be highly analytical with a knack for analysis, math, and statistics. Critical thinking and problem-solving skills are essential for interpreting data.
+Your goal will be to help our company analyze trends to make better decisions and provide our customers the data they need to meet learning objectives and growth goals for all students.
+The Data Scientist will report to the Director of Data Science. 
+What You'll Be Doing:
+Undertake preprocessing of structured and unstructured data
+Analyze large amounts of information to discover trends and patterns
+Build predictive models and machine-learning algorithms
+Present information using data visualization techniques
+Propose solutions and strategies to business challenges
+Collaborate with engineering and product development teams to ensure data products are deployable
+About You:
+3+ years of experience as a Data Scientist and background in Machine Learning
+BS in Math, Computer Science, Engineering, or relevant field; graduate degree in Data Science or another quantitative field is a plus
+Experience in data mining
+Knowledge of R, SQL and Python including open-source libraries in Python like scikit-learn
+Experience using business intelligence tools (e.g., Tableau) and other visualization tools like Streamlit
+Analytical mind and business acumen
+Strong math skills (e.g., statistics, algebra)
+Problem-solving aptitude
+Excellent communication and presentation skills
+Must be legally authorized to work in the United States
+Compensation and Benefits:
+Expected base salary range for this position is $82,920 – $116,990 USD annually based on several factors, including experience and geography. This position is also eligible for an annual incentive bonus or sales commission bonus, depending on the role, and benefits that are designed to support you & your family. If you are hired at DreamBox Learning, your final base salary compensation will be determined based on considerations such as geographic location, skills, responsibilities of the role, education, and/or relevant experience.  In addition to those factors, we believe in the importance of pay equity and consider the compensation of our current team members as a part of evaluating and extending any final offer.
+We are proud to offer employees and their families a comprehensive benefits package:
+Medical-Dental-Vision
+Health Care Dependent Care
+Short & Long Term Disability
+Life Insurance
+401(k)
+FSA/HSA
+Paid Time Off - Front Loaded (4 weeks)
+Accrued Sick Time
+DreamBox "Hero Days" Volunteer Time
+Employee Assistance Program
+9 Paid Holidays + Annual Winter Holiday Break (Typically the last week of December)
+#BI-Remote #LI-Remote #LI-JW1About Us:
+ 
+DreamBox Learning, the leading K-12 education technology provider, is radically transforming the way the world learns. As the only dual-discipline solution rated STRONG by Johns Hopkins’ EvidenceforESSA.org in both math and reading, DreamBox provides schools with high-quality adaptive learning solutions independently proven to accelerate student growth. Built by educators for educators, DreamBox empowers teachers and district administrators with robust data analytics and content-specific professional development solutions to complement instruction. DreamBox supports over 400,000 educators and approximately 6 million students in all 50 states, the District of Columbia, Puerto Rico, and throughout the United Kingdom, Australia, Canada, and Mexico. For more information, visit https://www.dreambox.com/.
+ 
+At DreamBox, we believe diversity is an essential strength. That’s why we’re committed to providing an inclusive culture, an equitable work environment, and creating the most effective educational products that celebrate the diversity in students, families, communities, and the world. We know that talent exists everywhere, but opportunity does not. Therefore, we are a proud equal opportunity and affirmative action employer, but we don’t make these commitments simply because they’re required by law. We hold ourselves to a higher standard and make these commitments so that everyone at DreamBox can bring their full selves to our important mission. Our identities matter, and in order to create a more just, equitable world, we know it begins with DreamBox being an inclusive workplace that serves as a model for that change.
+

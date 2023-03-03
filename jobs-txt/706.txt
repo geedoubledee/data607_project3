@@ -1,0 +1,42 @@
+
+Who we are:
+Chartboost is the leading in-app monetization and programmatic advertising platform. We reach a global audience of over 700 million monthly active users and process over 2.7 trillion monthly advertising auctions. The Chartboost SDK is one the most widely integrated mobile ad SDKs and through the Chartboost Exchange, Ad Network, DSP and other services, we empower mobile app developers to build businesses, while connecting advertisers to highly engaged audiences.
+We’re looking for an exceptional Director of Data Science to lead a cross-disciplinary team focused on the development of our real-time bidder, one of the most exciting and important products within Chartboost. The system powering this product must deal with 100,000’s of requests per second and presents unique engineering challenges. In addition, the bidder requires use of machine learning models that are trained in batch and then used to power decision making in real-time.
+Impact You Will Make: 
+Lead a group of Data Scientists and Machine Learning Engineers to successfully deploy elegant solutions
+Foster a culture of collaboration and excellence
+Continue the buildout and improvement of our ML infrastructure and platform
+Develop and mentor team members professionally and technically
+Identify hiring needs and work with our talent team to find the best people
+Collaborate closely with our product team to understand customer needs and build ML solutions that meet them
+Work alongside our data and engineering leaders to build new features and capabilities
+Develop best practices for ML and ML engineering, covering data processing, monitoring, experimentation etc
+Who you are:
+PhD in machine learning, statistics or comparable field, or MS/BS degree with significant industry experience.
+6+ years of data science/machine learning experience applied to business problems
+4+ years of experience leading machine learning teams 
+Diverse exposure to many different Machine Learning and modeling techniques such as NLP or deep learning as well as traditional modeling techniques
+Experience with modern ML development stack, open source libraries and hosted ML services (e.g. Tensorflow, PyTorch, NumPy, AWS Sagemaker, etc.).
+Experience with ML engineering, able to propose and design ML solution, comfortable reviewing production code
+Experience with MLOps, comfortable designing and operating a system that can deploy and manage ML models in production
+The following experience would be a plus:
+Knowledge of distributed tools and frameworks, like Spark/Hadoop for large scale data processing
+Ad tech and/or mobile space
+Perks:
+Competitive salary with bonuses
+Flexible schedule based on core hours and the possibility of working remotely.
+Private health insurance
+Life insurance
+Optical complement for glasses or contact lenses.
+Company sponsored lunch
+English/Spanish lessons and/or other investments in your professional development
+Gym membership
+Transportation reimbursement
+Healthy snacks, and coffee in our cool office in the center of Barcelona
+23 days of paid time off per year
+15 paid holidays per year
+Team building events
+More about us:
+We are proud of the product we've built and appreciate the impact it has on other people's businesses and lives. We want to be surrounded by people who are always finding opportunities to try something new and grow. We love data and anything that helps drive intelligent decisions and always design with the user in mind.  Sounds like a fit? Join us, and be part of the team that will change the future of mobile gaming!
+We are an equal opportunity employer — we celebrate diversity and are committed to creating an inclusive environment for all employees and make our hiring decisions without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, disability, age, or veteran status.
+

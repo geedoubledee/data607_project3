@@ -1,0 +1,13 @@
+
+Company DescriptionPublicis Sapient is a digital transformation partner helping established organizations get to their future, digitally-enabled state, both in the way they work and the way they serve their customers. We help unlock value through a start-up mindset and modern methods, fusing strategy, consulting and customer experience with agile engineering and problem-solving creativity. United by our core values and our purpose of helping people thrive in the brave pursuit of next, our 20,000+ people in 53 offices around the world combine experience across technology, data sciences, consulting and customer obsession to accelerate our clients’ businesses through designing the products and services their customers truly value.Job DescriptionDevelop, create, and modify general computer applications software or specialized utility programs. Gather the requirements from the business users, traders, analysts and/or backend developers in the team. Work on data engineering tasks using python programming language and big data framework – pyspark. Use data distribution framework Hadoop and non-relational database. Build complex distributed modern data platforms. Design, migrate existing systems. Design, construct and manage the data lake environment including data ingestion, staging, data quality monitoring and business modeling. Drive collection, cleaning, processing and analysis of new and existing data sources, including oversight for defining and reporting data quality and consistency metrics. Scripting using python programming language. Handling errors and debugging production issues in real time to minimize outages.QualificationsEmployer will accept a Master’s degree in Computer Science, Engineering, Business or a related field followed by two years of experience in the job offered or two years of experience in a related occupation. Experience must include one year in each of the following:
+1) MySQL        
+2) Hadoop        
+3) Azure Data lake storage       
+4) Azure SQL data warehouse  
+5) Azure Databricks      
+6) Hive 
+7) Autosys       
+8) Pyspark                   
+9) GitHub         
+Must be available to work on projects at various, unanticipated sites throughout the United States.  Additional InformationPay Range: $75,000 - $146,000 The range shown represents a grouping of relevant ranges currently in use at Publicis Sapient. Actual range for this position may differ, depending on location and specific skillset required for the work itself. In order to be considered for this position, you must send resumes to:      NARecruitmentGPM@sapient.com. Must reference job 6630.6238.5.
+

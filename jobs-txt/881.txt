@@ -1,0 +1,158 @@
+
+    
+    
+Posting Duration:
+ This posting will be open for application submissions for a minimum of seven (7) calendar days, including the ‘posting date’. Sandia reserves the right to extend the posting date at any time. 
+NNSA Requirements for MedPEDs:
+ If you have a Medical Portable Electronic Device (MedPED), such as a pacemaker, defibrillator, drug-releasing pump, hearing aids, or diagnostic equipment and other equipment for measuring, monitoring, and recording body functions such as heartbeat and brain waves, if employed by Sandia National Laboratories you may be required to comply with NNSA security requirements for MedPEDs.   
+ If you have a MedPED and you are selected for an on-site interview at Sandia National Laboratories, there may be additional steps necessary to ensure compliance with NNSA security requirements prior to the interview date. 
+Salary Range:
+$88,600 - $172,300 *Salary range is estimated, and actual salary will be determined after consideration of the selected candidate¿s experience and qualifications, and application of any approved geographic salary differential. 
+What Your Job Will Be Like:
+ You could be the Mechanical Engineer we are seeking to join our dynamic team to support design and product realization efforts for the Pulsed Power Sciences Center! This work is typically the realization of complex pulsed power systems which integrate complex hardware, unique control systems, innovative diagnostics, and supporting infrastructure that must operate in critical extreme environments. 
+ On any given day, you may be called on to: 
++  Use engineering principles and CAD tools to research, design, or develop complex hardware sets to demostrate/validate advanced scientic concepts. 
++  Conceptualize, design, analyze, and manage product realization of hardware for the next generation of accelerators and pulsed power machines. 
++  Engage with physicists and scientists in the realization of complex hardware systems to perform advanced research in the area of pulsed power. 
++  Initiates, designs, develops, implements and evaluates new processes, products, or systems through basic and applied research. 
++  Work to meet critical schedules in an extremely exciting environment. 
++  Present concepts, designs, test data, results, status to management and team members. 
++  Engage with a team of engineers, designers, scientists, and technologists to resolve complex hardware realization issues. 
+ Travel as required, for training or to support project efforts.Join our team and achieve your goals while making a difference! 
+Qualifications We Require:
++  Bachelor’s degree in Mechanical Engineering plus five years’ experience; or Master’s in Mechanical Engineering plus one year experience 
++  Experience in producing mechanical designs, models, and product definition of complex objects 
++  Experience with Solidworks 
++  Ability to obtain and maintain a DOE Q security clearance 
+Qualifications We Desire:
++  Experience realizing designs through production 
++  Must be able to independently seek definition, evaluate, analyze, and then realize mechanical designs based on physicists and electrical designers’ visions 
++  Proven ability to lead design efforts to include engineers and designers 
++  Engineering and design experience in pulsed power systems (i.e mechanical systems subjected to 
++  extremely high current and voltage environments resulting in dynamic mechanical and thermal loads) 
++  Experience using PDMLink (Windchill) tools in creating mechanical product design definition to include 
++  3D solid models and mechanical drawings 
++  Experience with Geometric Dimensioning and Tolerancing (GD&T) 
++  Exceptional communication skills and proven ability to work in collaborative teams 
++  Experience with CREO 
++  Active DOE Q or equivalent security clearance 
+About Our Team:
+ Department 1692, Load Hardware & Target Fabrication engineers, designs and documents all "Z" Load Hardware, and assembles/installs/refurbishes all the Load Hardware and targets for the experiments on the Z Machine. The department is composed of engineers, designers, and technologists working together in a collaborative environment developing new hardware designs and interacting with scientists from around the world that work on the "Z" accelerator to pursue research in the areas of atomic physics, shock physics, radiation transport, planetary science, and inertial confinement fusion. This department performs research on the use of surface coatings, surface coating processes and hardware designs improving performance, reliability, and repeatability of science experiments conducted. The department is responsible for production and development of all Load Hardware working with internal resources and outside vendor. 
+About Sandia:
+ Sandia National Laboratories is the nation’s premier science and engineering lab for national security and technology innovation, with teams of specialists focused on cutting-edge work in a broad array of areas. Some of the main reasons we love our jobs: 
++  Challenging work with amazing impact that contributes to security, peace, and freedom worldwide 
++  Extraordinary co-workers 
++  Some of the best tools, equipment, and research facilities in the world 
++  Career advancement and enrichment opportunities 
++  Flexible work arrangements for many positions include 9/80 (work 80 hours every two weeks, with every other Friday off) and 4/10 (work 4 ten-hour days each week) compressed workweeks, part-time work, and telecommuting (a mix of onsite work and working from home) 
++  Generous vacations, strong medical and other benefits, competitive 401k, learning opportunities, relocation assistance and amenities aimed at creating a solid work/life balance* 
+ World-changing technologies. Life-changing careers. Learn more about Sandia at: http://www.sandia.gov*These benefits vary by job classification. 
+Security Clearance:
+ Sandia is required by DOE to conduct a pre-employment drug test and background review that includes checks of personal references, credit, law enforcement records, and employment/education verifications. Applicants for employment need to be able to obtain and maintain a DOE Q-level security clearance, which requires U.S. citizenship. If you hold more than one citizenship (i.e., of the U.S. and another country), your ability to obtain a security clearance may be impacted. 
+ Applicants offered employment with Sandia are subject to a federal background investigation to meet the requirements for access to classified information or matter if the duties of the position require a DOE security clearance. Substance abuse or illegal drug use, falsification of information, criminal activity, serious misconduct or other indicators of untrustworthiness can cause a clearance to be denied or terminated by DOE, resulting in the inability to perform the duties assigned and subsequent termination of employment. 
+EEO:
+ All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability, or veteran status and any other protected class under state or federal law. 
+ Job ID: 688449    
+
+    
+    
+        
+
+    
+    
+    
+        Categories
+        
+            
+                        Engineering                    
+
+                
+                    
+                        Biotechnology / Science                    
+
+                
+                    
+                        Education                    
+
+                
+                    
+                        Accounting                    
+
+                
+                    
+                        Power Engineering                    
+
+                
+                    
+                        Design / Development Engineering                    
+
+                
+                    
+                        Nuclear and Plasma Sciences                    
+
+                
+                    
+                        Academic                    
+
+                
+                    
+                        Heat Transfer Engineering                    
+
+                
+                    
+                        Quality Assurance / Safety                    
+
+                
+                    
+                        job_category_applied_mechanics                    
+
+                
+                    
+                        Biomedical Systems                    
+
+                
+                    
+                        Electrical Engineering                    
+
+                
+                    
+                        Automotive                    
+
+                
+                    
+                        Electronics                    
+
+                
+                    
+                        Turbine Engineering                    
+
+                
+                    
+                        Environmental                    
+
+                
+            
+    
+
+    Industry
+    
+        Engineering
+        
+
+    
+    function logReportClick(ratedTitle, reportName, ranking)
+    {
+        aiJQuery.ajax({type:'POST',dataType:'json',async:false,data:'jobid=134021441&rank='+ranking+'&ratedjobtitle='+ratedTitle+'&type='+reportName,url:'/jobs/listing/logRatedView'});
+    }
+    Jobs Rated Reports for Mechanical Engineer
+    
+        The Best Engineering Jobs of 2019
+                        The 2019 Jobs Rated Report
+                        Engineering Jobs
+                        The 2018 Jobs Rated Report
+                        Jobs Rated Report 2017
+                    
+
+        
+    
+

@@ -1,0 +1,31 @@
+
+Two Six Technologies is seeking a  Research Engineer– Data and Systems Privacy to research and develop advanced mobile privacy systems and solutions. We are seeking candidates with an interest in research as well as a commitment to developing solutions for the real world.
+Responsibilities
+Join a small supportive team that values cooperation and creative spirit
+Design and develop methods to enhance and preserve the privacy of smartphone users
+Collaborate with partners and customers to understand, tailor, and deliver software that meets their requirements
+Develop the ability to identify and remedy privacy and security risks of various apps, systems, and architectures
+Qualifications
+A bachelor’s or advanced degree (Masters or PhD) in Computer Science, Computer/Electrical Engineering, or related scientific domain
+Strong oral and written communication skills
+1+ years of professional experience as a researcher, engineer, or scientist
+A foundational knowledge of object-oriented programming and software/systems engineering
+Proficiency in Java and experience with C++, and/or Kotlin
+Excellent analytical and problem-solving skills
+Self-driven work ethic
+Ability to obtain and maintain a DoD security clearance
+Nice to have:
+Practical experience developing Android applications
+Experience building and modifying the AOSP or creating Android based custom ROMs
+Experience with Node.js, Angular
+Familiarity with standard software engineering processes and tools (e.g., git and JIRA)
+Familiarity with Linux shell environments and command line tools
+Security Clearance:
+Active TS clearance is preferred
+ 
+Two Six Technologies is an Equal Opportunity Employer and does not discriminate in employment opportunities or practices based on race (including traits historically associated with race, such as hair texture, hair type and protective hair styles (e.g., braids, twists, locs and twists)), color, religion, national origin, sex (including pregnancy, childbirth or related medical conditions and lactation), sexual orientation, gender identity or expression, age (40 and over), marital status, disability, genetic information, and protected veteran status or any other characteristic protected by applicable federal, state, or local law. 
+If you are an individual with a disability and would like to request reasonable workplace accommodation for any part of our employment process, please send an email to accomodations@twosixtech.com. Information provided will be kept confidential and used only to the extent required to provide needed reasonable accommodations.
+Additionally, please be advised that this business uses E-Verify in its hiring practices.
+EOE, including disability/vets. 
+ 
+

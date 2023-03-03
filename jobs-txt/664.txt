@@ -1,0 +1,33 @@
+
+Company:
+We are creating the future of brain-computer interfaces: building devices now that have the potential to help people with paralysis regain mobility and independence and invent new technologies that could expand our abilities, our community, and our world.Team Description:
+Neuralink is hiring a ML Research Engineer to deliver a product that will help users regain mobility and a sense of independence. You will work with neuroscientists, physicians, software and electrical engineers to develop the next generation human-ready Brain Computer Interface (BCI). You will develop novel ML neural decoders and conduct BCI experiments with monkeys and future clinical trial participants.
+About you:
+You find large challenges exciting and enjoy discovering and defining problems as much as solving them.
+You deliver. You may enjoy thoughtful conversations about problems and perfecting designs, but in the end, you know that what matters is delivering a manufacturable solution that works every time.
+You are a cross-disciplinary team member. You are excited to work with and learn from software, mechanical, electrical, materials, biological engineers, and neuroscientists. You are comfortable communicating across teams.
+Resourceful, flexible and adaptable; no task is too big or too small.
+ Preferred qualifications:
+Evidence of exceptional ability in engineering, mathematics, or computer science.
+Experience in analyzing complex datasets, driving insights, and communicating results  in a simple and clear way.
+Experience in designing and productionizing ML models.
+Strong understanding of engineering first principles.
+Experience coding in Python.
+Experience in data analysis and ML
+Pay Transparency:
+Based on California law, the following details are for California individuals only:California base salary range:  $100,000—$200,000 USDYour actual base salary and level will be determined on a case-by-case basis and may vary based on the following considerations: job-related knowledge and skills, education, and experience. 
+ 
+Base salary is just one part of your total rewards package at Neuralink. Employees are eligible for equity and benefits in addition.
+ 
+
+What we offer:
+An opportunity to change the world and work with some of the smartest and most talented experts from different fields. 
+Growth potential. We rapidly advance team members who have an outsized impact. 
+Excellent medical, dental, and vision insurance through a PPO plan; parental leave.
+Flexible time off + paid holidays.
+Equity + 401(k) plan.
+Commuter Benefits.
+Meals provided.
+Multiple studies have found that a higher percentage of women and BIPOC candidates won't apply if they don't meet every listed qualification. Neuralink values candidates of all backgrounds. If you find yourself excited by our mission but you don't check every box in the description, we encourage you to apply anyway!
+Neuralink provides equal opportunity in all of our employment practices to all qualified employees and applicants without regard to race, color, religion, gender, national origin, age, disability, marital status, military status, genetic information or any other category protected by federal, state and local laws.  This policy applies to all aspects of the employment relationship, including recruitment, hiring, compensation, promotion, transfer, disciplinary action, layoff, return from layoff, training and social, and recreational programs. All such employment decisions will be made without unlawfully discriminating on any prohibited basis.
+

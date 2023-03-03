@@ -1,0 +1,46 @@
+
+84.51° Overview:
+84.51° is a retail data science, insights and media company. We help the Kroger company, consumer packaged goods companies, agencies, publishers and affiliated partners create more personalized and valuable experiences for shoppers across the path to purchase.
+Powered by cutting edge science, we leverage 1st party retail data from nearly 1 of 2 US households and 2BN+ transactions to fuel a more customer-centric journey utilizing 84.51° Insights, 84.51° Loyalty Marketing and our retail media advertising solution, Kroger Precision Marketing.
+Join us at 84.51°!
+__________________________________________________________
+ Senior Data Science Engineer/ML Engineer
+SUMMARY:
+The Advanced Programming and Technology Solutions Team (APTS) develops, supports, promotes, and governs assets (packages/libraries) to integrate technologies and simplify common processes in the data science pipeline. Our assets are used by 84.51° data scientists and engineers to improve quality, efficiency, and consistency and to reduce risk in data science deliverables. The APTS team also empowers subject matter experts (SMEs) from other teams to develop/co-develop assets via our package development support and governance. We strive to set the standard and push best practices in coding and methodology for collaborative data science.   
+The APTS team is seeking a Senior Data Scientist to help lead the development and support of our data science assets. The hire will be responsible for a portfolio of established Python packages and will lead/co-lead development of new assets to improve the value of data science activities. We are looking for a team member who is driven to understand and excel at using technology and programming for data science. We expect this team member to develop into a Python SME and to help establish best practices for coding in data science. We expect this team member to be/become a skilled practitioner of our tech stack for data science (e.g., Databricks, Spark, Azure, Docker, Kubernetes, Github Actions, etc.). This team member must be a lifelong learner who enjoys seeking out new technologies and methodologies to explore as possible future additions to our solutions.    
+RESPONSIBILITIES:
+Develop assets (packages/libraries and patterns) to support end-to-end data science solutions
+Work collaboratively across teams and draw from and add to the chorus of many perspectives to integrate expertise into package development and support 
+Work closely with product management team members to propose and prioritize roadmaps
+Develop and utilize expertise across a variety of technologies, with a focus on Python, Spark, machine learning tool development, and software engineering best practices for scaling machine learning solutions
+Stay current on emerging trends in data science and champion early adoption of valuable new tools, platforms, patterns, and processes
+Optimize machine learning processes for performance and accuracy
+Apply software engineering best practices where applicable (e.g., CI/CD)
+Build production-grade solutions to scale, serve, and manage machine learning models
+Be responsive to user feedback and proactively prioritize bug fixes, new features, and refactoring needs
+Educate the data science function on technology topics as needed via formal instruction and informal partnership
+Document new workflows and provide feedback to internal platform owners
+Communicate important technical information clearly to upper management to steer organizational direction, to teammates as part of project work, to other data scientists to guide their work, and to less technical functions such as product management
+Promote your solutions in customer facing forums and through collaboration with product management team members
+Consult on the use of your portfolio of solutions and provide ad hoc functional support
+Contribute to an open-minded and collaborative work environment by sharing learnings with colleagues, mentoring junior data scientists, and contributing to our collective knowledge base
+QUALIFICATIONS, SKILLS, AND EXPERIENCE:
+Master’s or PhD degree in mathematics, statistics, analytics, data science, or related discipline
+2+ years of experience in consulting or professional services
+2+ years of experience using machine learning algorithms, programming languages, and technologies to deliver data science solutions or capabilities
+Strong Python coding skills with an emphasis on functional programming concepts
+Strong analytical, creative problem-solving and decision-making skills
+Experience querying data from relational databases using SQL
+Experience with data wrangling, data cleaning and prep, and dimensionality reduction
+Experience with Big Data concepts, tools, and architecture with an emphasis on experience using Spark to scale
+Experience working in cloud environments (preferably Azure) to deliver data science solutions or capabilities
+Ability to create computationally efficient solutions
+Ability to make time-sensitive decisions and solve urgent problems with limited guidance
+Strong communication skills, particularly on technical topics
+Eagerness to learn from others and teach others as part of a highly interdependent team
+Comfort with independent learning of new technologies and willingness to jump into using unfamiliar tools
+Time and project management skills; the ability to balance multiple simultaneous work items and prioritize as necessary
+Other data science tech stack experience would be beneficial but is not required, including: R, Docker, Kubernetes, Rest APIs, gRPC, Conda, Linux and basic shell scripting
+#LI-Remote 
+#LI-SSS
+

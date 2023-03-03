@@ -1,0 +1,44 @@
+
+About the opportunity
+The Core data team at Contentful gives data-informed insights and recommendations to departmental teams across Contentful, by measuring and analyzing complex data assets.
+As a Junior Data Analyst, you will partner with our business teams and provide them with data insights that will lead to data-driven decisions. You will run deep-dive analysis, design experiments, and define success metrics and the tracking needed to measure them.
+ 
+What to expect?
+You will be a part of a hybrid pod team of analytics engineers and data analysts 
+As a pod member, you will own the tasks in the Customer domain area of the business, working with teams across Contentful to understand their objectives and help them achieve their goals. 
+You will visualize, explore and analyze business data to generate insights and inform decisions.
+You perform self-driven quantitative analysis, distill recommendations and contribute to decision-making.
+You will clearly tell the story of your insights for technical and business stakeholders.
+You contribute to supporting and improving our data models, tooling, and infrastructure.
+You actively participate in improving our agile feedback loops and helping nurture a healthy team environment.
+You evangelize the value of data and insights at Contentful.
+What do you need to be successful?
+You must have at least 1 year of experience working as a dedicated data analyst. Experience with SaaS companies is an advantage.
+You can work well with stakeholders.
+Ability to work cross-functionally, collaborate, influence, and work as part of a team.
+You must have experience with SQL and a willingness to grow your experience.
+You have used modern BI tools (we’re using Redash and Looker).
+If you have experience in ETL/ELT with tools such as DBT and Airflow, it is an advantage, not a requirement.
+You speak fluent English and possess excellent interpersonal communication skills.
+ 
+What's in it for you?
+Join an ambitious tech company reshaping the way people build digital experiences
+Full-time employees receive Stock Options for the opportunity to share ownership and the success of our company
+We value Work-Life balance and You Time! A generous amount of paid time off, including vacation days, education days, and volunteer days
+Access to our Employee Assistance Program (EAP) for information, support, discussion, and counseling for life’s challenges
+Use your personal education budget to improve your skills and grow in your career. Join a free German class or one of our many internal learning initiatives!
+Use your physical fitness budget to get away from your desk and support your physical wellness
+Enjoy a full range of virtual events, including workshops, guest speakers, and fun team activities, supporting learning and networking exchange beyond the usual work duties 
+A monthly phone/internet stipend and phone upgrade reimbursement after 2 years
+Plus, Contentful socks! And other amazing swag as part of company events. Oh yeah!
+
+#LI-Remote #LI-MM3Who are we?
+Contentful is the leading content platform that powers digital experiences for over 30% of the Fortune 500 companies and thousands of global brands. Our platform unifies content in a single hub, structures it for use in any digital channel and integrates seamlessly with hundreds of tools through open APIs. It lets developers and content creators work in parallel, increasing team efficiency and happiness. Companies such as Shopify, Staples, Atlassian, Electronic Arts, Chanel, Roche, Vodafone use Contentful to build their mobile and web products, voice-controlled apps and more. 
+We’re growing rapidly and we have secured over $330 million in funding from top-tier partners such as Tiger Global, Sapphire Ventures, Salesforce Ventures, General Catalyst and Benchmark.
+More than 750 people from 70 nations contribute their energy and creativity to Contentful, working from hubs in Berlin, Denver and distributed around the world.
+Everyone is welcome here!
+“Everyone is welcome here” is a celebrated component of our culture. At Contentful, we strive to create an inclusive environment that empowers our employees. We believe that our products and services benefit from our diverse backgrounds and experiences and are proud to be an equal opportunity employer. All qualified applications will receive consideration for employment without regard to race, color, national origin, religion, sexual orientation, gender, gender identity, age, physical [dis]ability, or length of time spent unemployed. We invite you to apply and join us!
+If you need reasonable accommodations at any point during the application or interview process, please let your recruiting coordinator know.
+Please be aware of scammers who may fraudulently allege to be from Contentful. These types of fraud can be carried out through copycat websites, fake email addresses claiming to be from our company, or social media. We do not ask for your personal information such as bank account numbers, identification numbers, etc through social media or chat-based apps, nor do we request or send money for the purchase of business equipment. If you suspect fraud, please report it to your local authorities, as well as reaching out to us at security-esk@contentful.com with any information you may have.
+By clicking “Apply for this job,” I acknowledge that I have read the “Contentful’s Candidate Privacy Notice”, and hereby consent to the collection, processing, use, and storage of my personal information as described therein.
+

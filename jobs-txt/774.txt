@@ -1,0 +1,21 @@
+
+We’re at the forefront of the data revolution, committed to building the world’s greatest data and applications platform. Our ‘get it done’ culture allows everyone at Snowflake to have an equal opportunity to innovate on new ideas, create work with a lasting impact, and excel in a culture of collaboration.We’re looking for a strong  Intern to build state of the art Data pipelines for snowflake .  In this role, you will work closely with many cross-functional teams to build a data pipeline and dashboards in our internal Snowflake environment . This is a strategic, high-impact role that will also help shape the future of Snowflake products and services.
+RESPONSIBILITIES
+Build & maintain data pipelines using Apache Airflow or custom scripts. 
+Manage and improve the data integrity and reliability of data services. 
+Build reliable ingestion frameworks  to onboard new data into our snowflake data warehouse. 
+Foster collaboration among engineering, security compliance, IT & other business groups to ensure data is secure and audit-able. 
+Train distributed team members in data pipelines. 
+WHAT YOU WILL NEED
+Excellent understanding of Database modelling and SQL knowledge
+1  year experience in working on public cloud  (AWS, Azure or GCP)
+Experience is consuming REST APIs using python 
+Experience writing jobs in Airflow using python.
+Experience in ELT based data pipeline build outs is useful..
+Strong communication and cross functional collaboration skills
+PREFERRED QUALIFICATIONS:
+MS in Computer Science or equivalent practical experience.
+1 + years experience in writing solutions using Python & SQL
+Experience in ETL tools is nice to have.
+ 
+

@@ -1,0 +1,17 @@
+
+84.51° Overview:
+84.51° is a retail data science, insights and media company. We help the Kroger company, consumer packaged goods companies, agencies, publishers and affiliated partners create more personalized and valuable experiences for shoppers across the path to purchase.
+Powered by cutting edge science, we leverage 1st party retail data from nearly 1 of 2 US households and 2BN+ transactions to fuel a more customer-centric journey utilizing 84.51° Insights, 84.51° Loyalty Marketing and our retail media advertising solution, Kroger Precision Marketing.
+Join us at 84.51°!
+__________________________________________________________
+  
+Responsibilities
+Leverage large volumes of data to develop powerful sciences using machine learning, natural language processing, and mathematical techniques.  Manage data scientists in delivering mission objectives and work plans.  Lead the creation of innovative solutions leveraging cutting edge supervised and unsupervised learning methods.  Lead the evaluation of machine learning technologies with the goal of onboarding new technologies to increase ROI of future portfolio of machine learning projects/products.  Lead development and delivery of training courses to upskill data scientists in best practices in the use of machine learning.  Lead the development and deployment of machine learning based models for prediction and classification, including models for use on large datasets (e.g., 1 billion+ records).  Collaborate with architects and engineers (data and software) to deploy and automate sciences.  Identify opportunities to improve online customer experiences via A/B testing, Champion/Challenger, design of experiments.  Leverage statistical programming languages and packages with an emphasis on open-source software (e.g., R, Python, XGBoost, H2O, Spark, etc.).  Adhere to stringent quality assurance and documentation standards using version control (e.g., git, markdown, Jupyter).  Roving employment - Position may be located at any 84.51 LLC office throughout U.S.  Limited telecommuting from home office may be approved for position.
+ 
+Basic Qualifications
+ 
+Master’s degree (or foreign educational equivalent) in Data Science or a closely related field such as Statistics, Mathematics, Business Analytics, or Information Systems.  In addition to degree, must have at least four (4) years of professional experience, gained at any time, in all of the following:  developing analytical solutions using advanced statistical methods and machine learning algorithms; querying data from relational databases using SQL; using R or Python to develop analytical solutions; performing data wrangling, data cleaning and prep, and dimensionality reduction; creating computationally efficient solutions; and using data visualization skills to develop and present technical solutions to non-technical audiences.
+ 
+ 
+ 
+

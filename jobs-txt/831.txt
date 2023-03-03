@@ -1,0 +1,35 @@
+
+About At-Bay
+The Data & Research department oversees all of  At-Bay’s data-related requirements. Our ultimate goal is to enable and increase the use of data in the company through creative approaches and the implementation of powerful resources such as analytical databases, advanced data pipelines, BI tools, and data science technology. We hire the brightest minds to take on this challenge and equip them with the knowledge and tools that contribute to their personal growth and success while supporting our company’s culture of diversity and experimentation. The role the Data team plays at At-Bay is critical as business users, product managers, engineers, and many others rely on us to empower their decision-making. This is what drives up the challenge as part of the Data department, but also the reward.
+At-Bay is seeking an experienced and data-driven BI Engineer to join our BI team. Our BI team is a core business & data-oriented team that leads BI solutions to various products and departments around the organization.
+As a BI engineer, you will work directly with cross-functional teams, internal and external customers to understand the business needs, you will provide reliable and creative BI solutions for complex data challenges and take part in POCs and migrations of new technologies.
+If you are sharp with technical skills & analytical thinking, passionate about data, and want to be a focal point of analytical & technical aspects of our team activity, come and help us turn our growing amount of events into critical information, business insights that will help to make impactful decisions on our business.
+ 
+Responsibilities:
+End to end modeling the core Data warehouse of the company, providing BI Infrastructure to the Product, Cyber , RnD, Sales, Finance, Claims teams.
+Gather requirements and business needs from internal and external customers and turn them into technical specifications.
+Work closely with BI engineers, analysts, RnD, product, data teams to improve our data flow & internal processes.
+Create new ETL processes and optimize existing ones (DBT, Airflow, Python).
+ 
+Qualifications:
+2+ years experience working as a Data/BI Backend engineer (DWH, ETL) - Must.
+Experience with dimensional data modeling & schema design in DWH - Must.
+Advanced knowledge in SQL - Must. 
+Experience working with ETL tools (dbt, Informatica, SSIS) - Must.
+Experience with Snowflake - Advantage.
+Experience with workflow managers such as Airflow/Luigi - Advantage.
+Experience with source control systems (Github) – advantage
+Programming skills (Python or other) - Advantage.
+BA/B.Sc. in a technical discipline such as Industrial and Management Engineer/ Information Systems Engineer – Advantage.
+ 
+Location: Tel Aviv, Israel
+ 
+What you'll get
+A competitive salary, and equity in a super fast-growing company, taking over commercial insurance.
+A strong emphasis on work-life balance.
+Beautiful offices in the heart of Tel Aviv, near the train station and main bus stops.
+Passionate, smart, and fun people to work with.
+You will never lack a challenge, we are a unique blend of a fast-growing tech startup, an international firm, and an insurance company.
+Learn more at at-bay.com
+
+

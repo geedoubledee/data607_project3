@@ -1,0 +1,34 @@
+
+84.51° Overview:
+84.51° is a retail data science, insights and media company. We help the Kroger company, consumer packaged goods companies, agencies, publishers and affiliated partners create more personalized and valuable experiences for shoppers across the path to purchase.
+Powered by cutting edge science, we leverage 1st party retail data from nearly 1 of 2 US households and 2BN+ transactions to fuel a more customer-centric journey utilizing 84.51° Insights, 84.51° Loyalty Marketing and our retail media advertising solution, Kroger Precision Marketing.
+Join us at 84.51°!
+__________________________________________________________
+ Senior Data Scientist
+SUMMARY:  We are a community of data scientists that act as the voice of the customer – they share their story with us each and every day. Through simple, comprehensive, purposeful analytics, we fearlessly bring these customer stories and journeys to life. Our 360° customer view allows us to anticipate customer needs, thus enabling our clients to connect with their customers in meaningful, relevant ways. We expect all data scientists to be hands on with respects to the analysis of a retailer database, using the full suite of 84.51° technical tools to enable timely, relevant, and actionable insights. 
+The Loyal Customer Mailer & MyMagazine team is responsible for targeting billions of pieces of personalized content and offers to reward and retain millions of Kroger customers. We provide accurate and actionable measurement to both Kroger and our CPG partners to show the effectiveness of this targeting and to help maximize return on investment. This role is intended to enable current targeting and measurement to be more automated and enable additional features needed by stakeholders. We are looking for a data scientist who is self-motivated, interested in process efficiency and coding in Python, can collaborate well across teams, and wants to work on implementing new and exciting capabilities.
+  
+RESPONSIBILITIES:  
+Partner with engineering to build data pipelines, create and code new analytic methodologies, and bring them to scale within our platform.
+Building strong relationships with immediate internal contacts to ensure full understanding of client requirements.
+Building strong relationships across the data science community to ensure that we have a connected team that drives efficiencies.Quality Assurance of own code lines.
+Think creatively when building analytics solutions in order to bring the most value to the user
+Following best practices in code management to help ensure that code changes can be efficiently tracked, shared, and reviewed.
+Providing support to the team on all elements of projects to ensure projects are completed at a high level.
+QUALIFICATIONS, SKILLS, AND EXPERIENCE:  
+Bachelor's degree in mathematics, statistics, analytics, data science, or related discipline
+Experience using advanced algorithms, programming languages, or technologies in the development of technical analytics solutions or capabilities.
+Experience querying data from relational databases and non-relational data from Hadoop or similar file storage.
+Experience using Python or other similar statistical software to develop analytical solutions.
+Experience with data wrangling, data cleaning and prep, dimensionality reduction.
+Exposure to Big Data concepts, tools, and architecture
+Experience working on a cloud hosting solution such as Azure is a plus.
+Strong interpersonal and communication skills.
+Strong analytical, creative problem-solving and decision making skills
+Strong business acumen; grocery and/or retail experience is a plus.
+Passionate about data, analysis and insights.
+Natural curiosity that welcomes and embraces change and willingness to try new things and to fail.
+Ability to work in a highly collaborative environment.
+#LI-Remote 
+#LI-SSS
+

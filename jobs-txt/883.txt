@@ -1,0 +1,65 @@
+
+				Job Description
+ 
+Responsibilities
+Design, develop and evaluate machine learning models suitable for text analytics tasks such as extraction, disambiguation and classification
+Contribute to the design of solutions that fit the business problem, may include custom algorithm development
+Develop new features for existing products, implement proof of concept and prototypes
+Work closely with product development teams and product stakeholders following an Agile product development methodology
+Effectively communicate with fellow technologists and other stakeholders
+Knowledge And Skills
+Non-trivial project experience in text analysis, information extraction, entity extraction, machine learning and natural language processing
+Strong working knowledge of Bayesian Statistics, Supervised and Unsupervised Machine Learning, and Deep Learning
+Experience building models with at least one of the following techniques/tools:
+SVM, Naïve-Bayes, CRF, Binary/Multinomial Logistic Regression, LDA, word2vec, doc2vec
+
+Strong programming skills required in Python, at least one other language like Java or C++ is desired
+Tools/Libraries:
+NumPy, Pandas, Scikit-Learn, NLTK, Gensim, SpaCy, PyTorch, Jupyter Notebooks
+
+Experience with SQL, NoSQL databases
+Strong cross-platform skills (Linux and Windows)
+Experience developing software within an Agile product development environment
+Education And Work Experience
+MS or PhD in Computer Science, or related field or experience
+6+ years of information extraction, NLP, statistical data analysis and predictive modeling
+3+ years’ experience developing commercial software products
+Implementing and deploying standard NLP systems for text classification, entity extraction, sentiment analysis, etc. with extensive experience in
+Collecting and preparing training data
+Training supervised and unsupervised models
+Optimizing model hyperparameters
+Analyzing errors for machine learning models
+
+Real-world application of deep learning to train NLP models
+Requirement: Must be US Citizen
+Location: Herndon, VA
+		                
+                    More Information
+                    
+                        
+
+
+
+Salary Offer
+
+0 ~ $3000
+
+
+
+Experience Level
+
+Senior
+
+
+
+Total Years Experience
+
+0-5
+
+
+
+Dropdown field
+
+Option 1                        
+                
+            	

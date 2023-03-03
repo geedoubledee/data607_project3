@@ -1,0 +1,64 @@
+
+				Job Description
+ 
+Pumpkin is looking for an innovative and highly analytical individual with strong insurance experience to join our team as a Data Science Manager. In this role, you’ll focus on the research and development of new predictive models and new analytical techniques related to insurance pure premiums, pet lifetime insurance journey, claims and pet/owner behaviors. Leveraging internal and external data, the models you develop will support ratemaking, economic analysis, competitive positioning and underwriting. This is an exciting opportunity to work as a foundational member of our underwriting team where you will have a tangible impact in helping pets and pet parents! This role is a remote for those outside of a commutable distance of the New York City office. Some travel will be required. Individuals located in the NYC area will be considered hybrid, with a requirement of 2 days a week in the office.
+What You’ll Do:
+Use statistical and predictive modeling techniques including machine learning, probability networks, association rules, clustering, principal component analysis, generalized linear modeling, time series and decision trees; working with neural networks and their application to derive business recommendations
+Participate in special projects requiring advanced quantitative expertise
+Ensures project controls are in place throughout the lifecycle of the project to comply with stringent regulatory requirements and utilizes effective project planning to ensure deadlines are kept
+Collaborates with upper management to assess the potential effects of proposed solutions and incorporates these considerations into recommendations
+Leverage relationships with internal and external partners to drive ongoing improvements to the data and data architecture
+Lead the preparation of internal/external, structured/unstructured data sets to build/rebuild/refresh predictive models
+Performing data cleaning and validation including identifying outliers, exceptions and inconsistencies; performing data quality control and visualization
+Partner closely with Engineering, Data and IT, along with numerous stakeholders across the company to ensure seamless implementation of new models
+What We’re Looking For:
+Position requires a Master’s degree, PhD , or foreign equivalent, in Statistics, Mathematics, or a closely related field of study.
+3+ years of experience developing and implement multivariate predictive models using Generalized Linear Modeling (GLM) and other statistical methods
+Programming experience with SAS, C++, SQL, R or Python
+Focused discipline on model validation and model improvement rigor
+Strong business intuition and analytical skills with a solid understanding of complex insurance loss cost concepts
+Excellent communications skills, both verbal and written.
+Ability to provide written and oral interpretations of highly specialized terms and data, and the ability to present this data to others with different levels of expertise
+Strong attention to detail, focus on data controls, approvals, authorizations and documentation.
+Bonus Points:
+Experience with state Insurance Department regulatory filings and requirements
+Working with VBA programming; programming and use of database tools such as, Tableau, and Power BI
+Experience in working with implementations of TensorFlow, Neural Networks, NLP
+Experience with cloud platforms such as AWS or other serverless environments
+Benefits and Perks:
+Comprehensive contributions to medical, dental and vision for colleagues and dependents
+Generous PTO and Paid Holidays
+401k with company match
+Pumpkin Insurance and preventative care for every pet in your family
+The opportunity to join a team where every team member has the autonomy and support they need to boss their role and make empowered decisions
+Pet Friendly Offices, Stocked Kitchens, Team Workouts, Team Outings and much more!
+
+                    More Information
+                    
+                        
+
+
+
+Salary Offer
+
+0 ~ $3000
+
+
+
+Experience Level
+
+Junior
+
+
+
+Total Years Experience
+
+0-5
+
+
+
+Dropdown field
+
+Option 1                        
+                
+            	

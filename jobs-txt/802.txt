@@ -1,0 +1,30 @@
+
+About MOLOCO
+Moloco’s goal is to make the digital economy more equitable and profitable by delivering advanced machine learning to companies of all sizes. With Moloco’s machine learning platform for growth and performance, every app publisher and online retailer can now unlock the value of their unique, first-party data for user acquisition, retention, and monetization campaigns. 
+Founded in 2013, our advanced machine learning engine powers our product portfolio. Moloco Cloud DSP enables performance marketers to quickly scale user acquisition and achieve greater lifetime value through battle-tested prediction models. Moloco Retail Media Platform enables online retailers and marketplaces to establish their own performance ads business. 
+Our technology is best in class; we received the SMARTIES X silver award for Machine Learning and AI, and Moloco was named the Cross-Industry Winner for Google Cloud Customer Awards. 
+The company is in hyper-growth mode and we ranked #95 in the Inc. 5000 fastest-growing private companies for 2022. We ranked #91 among Deloitte’s 2021 Fast 500 and have been certified by 91% of the company via Great Places to Work. 
+It’s a great time to join this innovative team. Moloco is headquartered in Silicon Valley, with offices in San Francisco, New York, Seattle, London, Seoul, Singapore, Beijing, and Tokyo. For more information, visit www.moloco.com
+The Impact You'll Be Contributing to Moloco:
+Data Science and Analytics (DSA) is a global team of data scientists and analysts. As a data analyst intern, you will work with data products, e.g. raw data, campaign facts, growth insights to help customers improve campaign performance and maximize their business goals with Moloco.
+※ We will prioritize applicants whose expected graduation date is within a year.
+Here’s what you’ll be working on:
+Moloco data analyst interns contribute in the following areas, all while working cross-functionally to help meet our client’s needs and advance our machine learning models. 
+Data Analysis: data gathering, analysis and effective communication of presentations and recommendations to multiple levels of stakeholders. You’ll be responsible for creating custom visual displays of quantitative information through writing queries, scripts, and developing automated reports and dashboards to provide insights at scale.
+Data validation: verifying the data we obtain from ad exchanges and mobile-app tracking solutions to confirm our campaign models are trained with the most accurate engagement data.
+Campaign optimization: engaging in the life cycle of campaigns, from monitoring  daily performance to partnering with sales teams on bespoke analysis for clients. 
+Business Collaboration: collaborate with key stakeholders to help Moloco focus on decisions that improve our products and services, with a focus on client growth.   
+Here is what you need to succeed  (Experience & Qualifications)
+Current student in a Bachelor's or Master’s program and able to complete an internship of at least 6 months
+Statistics: must have strong knowledge and experience in experimental design,  hypothesis testing, and various statistical analysis such as regression or time-series analysis.
+Programming: experience in Python and SQL is required.
+Comfortable balancing multiple projects simultaneously and effectively prioritizing work based on business needs.
+Excellent verbal and written communication skills, with ability to present information and analysis results effectively to technical and less technical stakeholders..
+Ability to build positive relationships within the data science & analytics community, as well as  with our business stakeholders and clients.
+Work effectively with cross-functional and cross-cultural partners.
+Have an interest in data, metrics, analysis, and trends from the mindset of helping a customer-centric business. Know when to apply statistical measurement vs 80-20 analysis for business growth.
+Ability to manage multiple projects at the same time while paying attention to detail.
+Distinctive problem-solving skills, good at articulating product questions, pulling data from large datasets and using statistics to arrive at a recommendation.
+Proven ability to own projects end-to-end, even when you have to get creative: you do more than completing delegated tasks.
+Moloco is a truly rewarding place to work and in an exciting period of growth, which you could be a part of. Join us today and apply now!
+

@@ -1,0 +1,43 @@
+
+Reddit is a community of communities where people can dive into anything through experiences built around their interests, hobbies, and passions. Our mission is to bring community, belonging, and empowerment to everyone in the world. Reddit users submit, vote, and comment on content, stories, and discussions about the topics they care about the most. From pets to parenting, there’s a community for everybody on Reddit and with over 50 million daily active users, it is home to the most open and authentic conversations on the internet. For more information, visit redditinc.com.“The front page of the internet," Reddit brings over 430 million people together each month through their common interests, inviting them to share, vote, comment, and create across thousands of communities. 
+The Machine Learning Platform team at Reddit is a high impact team that owns the infrastructure that powers recommendations, content discovery, user and content quantification, while directly impacting other teams such as Growth, Ads, Feeds, and Core Machine Learning teams.
+As the 6th largest site on the internet, Reddit generates billions of events and terabytes of data in a day. You will own projects from ideation to production instead of being stuck making small incremental gains on enterprise systems. We are looking for the best and the brightest Machine Learning Platform Engineers to join us in solving hard problems in order to enable products that millions of users will love, and ultimately bring community and belonging to Reddit’s users. We are a team of builders that value impact, personal growth, openness and kindness.
+How You’ll Have Impact: 
+You will own projects from ideation to production instead of being stuck making small incremental gains on enterprise systems.
+You will innovate solutions in order to enable products that millions of users will love, 
+You will collaborate with our Growth, Ads, Feeds, and Core Machine Learning team to ultimately bring community and belonging to Reddit’s users.
+What You’ll Do:
+You will be instrumental in architecting, implementing, and maintaining foundational Machine Learning (ML) infrastructure that powers Feeds Ranking, Content Understanding, Recommendations and much more to fulfill Reddit’s mission of bringing community and belonging to everyone in the world. You will build systems and tools that enable machine learning engineers (MLEs) and data scientists (DSs) and continuously improve the ML software development lifecycle.  You will deliver a self service ML platform that enables the continuous iteration and improvement of systems that use ML techniques including Deep Learning, Natural Language Processing, Recommendation Systems, Representation Learning and Computer Vision.
+Lead the building, testing, and maintenance of ML infrastructure at Reddit
+Propose, design, and implement high-performance ML platform solutions that significantly advance the deployment of models that serve millions of redditors a seamless experience for MLEs
+Design and implement solutions that significantly advance the architecture of the ML Platform
+Work with management on team goal setting, planning, and de-risk project execution
+Mentor other team members in adopting a rigorous DevOps approach to maintain and/or improve ML platform components and services health and quality
+Who You Might Be:
+3+ years of work experience in a production software development environment or building data systems
+Degree in ML, Engineering, Computer Science, or other relevant discipline
+Experience with design and architecture of large scale backend or ML Systems  
+Experience building production-quality code incorporating testing, evaluation, and monitoring using object oriented programming, bonus for experience in: Python and golang.
+Comfortable with distributed systems, big data (Petabyte scale), and data or compute-intensive systems
+Strong organizational & communication skills
+Bonus:
+Experience or interest in learning Go, Python, AWS, GCP, and Kubernetes
+Knowledge of maintaining or developing applications using large-scale data and ML stack, e.g, BigQuery, GraphQL, Kafka, Flink, Cassandra, Redis, Kubeflow, Ray, MLFlow
+Experience or interest in recommendation, search engines, or content classification systems
+Interest in advancing infrastructure for Deep Learning, NLP, or Computer Vision
+Interest in open source development and working with applied researchers in the advancement of ML Systems
+Benefits:
+Comprehensive Health benefits
+401k Matching 
+Workspace benefits for your home office
+Personal & Professional development funds
+Family Planning Support
+Flexible Vacation & Reddit Global Days Off
+4+ months paid Parental Leave  
+Paid Volunteer time off
+Pay Transparency:
+This job posting may span more than one career level.
+In addition to base salary, this job is eligible to receive equity in the form of restricted stock units, and depending on the position offered, it may also be eligible to receive a commission. Additionally, Reddit offers a wide range of benefits to U.S.-based employees, including medical, dental, and vision insurance, 401(k) program with employer match, generous time off for vacation, and parental leave. To learn more, please visit https://www.redditinc.com/careers/.
+To provide greater transparency to candidates, we share base pay ranges for all US-based job postings regardless of state. We set standard base pay ranges for all roles based on function, level, and country location, benchmarked against similar stage growth companies. Final offer amounts are determined by multiple factors including, skills, depth of work experience and relevant licenses/credentials, and may vary from the amounts listed below.
+The base pay range for this position is: $157,400 - $236,100.Reddit is committed to providing reasonable accommodations for qualified individuals with disabilities and disabled veterans in our job application procedures. If you need assistance or an accommodation due to a disability, please contact us at ApplicationAssistance@Reddit.com.
+

@@ -1,0 +1,41 @@
+
+Who we are
+About Stripe
+Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.
+About the team
+Our mission is to deliver insightful analyses and durable data products to anticipate and inform the right decisions at the right time about Stripe's cloud, security and tech enablement infrastructures.
+What you’ll do
+You will work with our Security Analytics and Detection team, which is committed to promoting data security and protecting Stripe from internal and external threats to its assets and infrastructure.  We’re looking for talented candidates who can leverage data science to build out security capabilities with an emphasis on application security and vulnerability management. Your work will be critical to reducing risks and promoting trust and integrity within Stripe.
+Responsibilities 
+Research, develop, design, and build models for threat detection, guiding processes for signal ingestion, data analytics, and automation to improve detection and investigation of potentially malicious activity;
+Work cross-functionally with data science, software development, and security engineering teams to architect solutions for analyzing security events data at scale and protecting Stripe networks, systems, and data from external threats;
+Build statistical, machine learning, and simulation models on large datasets, including unstructured data from disparate sources;
+Drive the creation, collection and processing of new data and the enrichment of existing data sources (e.g., log data, network, host-based telemetry, etc.);
+Develop technical and functional requirements to deploy novel detection and vulnerability identification capabilities that mitigate emergent and current threats;
+Provide actionable insights to stakeholders to help identify, prevent, and detect anomalous usage of Stripe’s endpoints;
+Act as a force multiplier for quantitative methods in our Security organization and help train and mentor engineers on statistical techniques.
+Who you are
+We’re looking for a data scientist with security experience who is excited about applying their analytical skills to develop methods, systems and processes to protect Stripe from external threats and vulnerabilities. If you are naturally data curious, enjoy deriving insights from data, and motivated by the opportunity to build engineering solutions from the ground up that significantly impact the business, we want to hear from you!
+Minimum requirements
+5+ years experience working with security-related information and analyzing large data sets to solve problems.
+A PhD or MS in a quantitative field (e.g., Applied Mathematics, Computer Science, Statistics, Engineering, Natural Sciences).
+A proven track record of translating large and ambiguous business problems in mathematical models and developing data scientific solutions.
+Existing experience with network security, digital forensics, and incident response.
+Expert knowledge of Python and SQL, and familiarity with other programming languages (R, Go, Scala).
+Proficiency with popular open-source machine learning frameworks (scikit-learn, MLlib, pytorch, tensorflow, xgboost, etc.).
+Strong knowledge of statistics and machine learning.
+Ability to communicate results clearly and focus on impact.
+Ability to think creatively and holistically about reducing risk in a complex environment.
+Experience developing foundational and diverse data sources, and generating metrics to measure service and program effectiveness.
+Passion for mentoring others and building a data science and security community.
+Preferred qualifications
+Experience influencing high-impact decisions.
+Strong project management and organizational skills.
+Proficiency in taking data-driven approaches to detection, building and automating solutions rather than relying on third party off-the-shelf products.
+Experience with data-distributed tools (Scalding, Spark, Hadoop, DataBricks, dbt, etc.).
+An adversarial mindset, understanding the goals, behaviors, and TTPs of threat actors.
+Familiarity with network observability or security software (Uptycs, Icebrg, Splunk, etc.).
+Knowledge of network protocols (DNS or HTTPS) and understanding of cloud computing services/deployment architecture.
+Working knowledge of complex distributed machine learning systems deployed at scale in a cloud computing environment.
+Experience in one or more of the following areas: security information event management (SIEM), enterprise risk management (ERM), common weakness enumeration (CWE), and/or fraud detection.
+

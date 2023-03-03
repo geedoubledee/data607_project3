@@ -1,0 +1,49 @@
+
+84.51° Overview:
+84.51° is a retail data science, insights and media company. We help the Kroger company, consumer packaged goods companies, agencies, publishers and affiliated partners create more personalized and valuable experiences for shoppers across the path to purchase.
+Powered by cutting edge science, we leverage 1st party retail data from nearly 1 of 2 US households and 2BN+ transactions to fuel a more customer-centric journey utilizing 84.51° Insights, 84.51° Loyalty Marketing and our retail media advertising solution, Kroger Precision Marketing.
+Join us at 84.51°!
+__________________________________________________________
+ Lead Data Scientist, Digital Relevancy Science Team – Personalization & Loyalty Strategy
+Relevancy Team is responsible for making relevant and personalized customer experiences for Kroger's E-commerce site, which ranks among the top 10 e-commerce companies in the US. We deliver trillions of recommendations to the Kroger website at scale and make them available to millions of Kroger customers. Scale is the name of the game. The team has a rich portfolio of sciences which include product and coupon recommender systems, substitute recommendations, and shoppable recipes. We apply a multitude of advanced techniques such as deep learning, Matrix factorization, ML, and NLP to create our sciences.
+RESPONSIBILITIES:
+Technical Leadership
+Build innovative models and solutions using new deep learning architectures for sparse, graph and tabular data problems across domains, while demonstrating that the DL algos perform better than traditional, non-DL based methods.
+Accelerate deep learning adoption across the enterprise by developing packages, tools and APIs with support from other science and engineering leads.
+Lead discussions to frame problem statement, develop hypotheses, and identify appropriate modelling approaches for very large, personalized recommendation systems in production.
+Become the expert in methodology and execution of scalable, automated, and cutting-edge sciences to achieve business and customer outcomes.
+Gain a deep expertise on data sources, required transformations, and quality consistency.
+ Identify Opportunities
+Identify opportunities for data science innovation and research within the function using new technology, methodologies, and approaches.
+Develop proof of concepts and rapidly prototype new innovations and showcase to different stakeholders and partners for quick wins with enough technical and business clarity.
+Provide guidance and structure to different stages of data science life cycle, including but not limited to investments in embeddings sciences, MLOps.
+Work closely with data and ML engineers to build and deploy models at scale, provide support in production deployment, maintenance, and monitoring.
+Mentoring
+Mentoring of junior data scientists, especially on code and methodologies, and developing and sustaining technical pipelines for all parts of data science life cycle.
+Work closely with data scientists to challenge the status quo; adopt, adhere, and amend how to data science processes.
+Qualifications, Skills and Experience: 
+4+ years of experience working with recommender systems and information retrieval systems at scale
+4+ years developing analytical solutions using advanced statistical methods, machine learning algorithms and deep learning frameworks
+4+ years using Python to develop analytical solutions
+4+ years with data wrangling, data cleaning and prep, dimensionality reduction
+4+ years with Big Data concepts, tools, cloud solutions and architecture (Azure, Hadoop, Python, Spark)
+4+ years using one of the Deep Learning frameworks such as TensorFlow, Torch, MXNet etc.
+4+ years working with NLP/ML libraries (spacy, scikit-learn, SparkNLP).
+Experience with large scale language models (LLM), Transformers is preferred
+Experience with MLOps best practices is preferred
+Experience with training, developing, recruiting, coaching, and/or inspiring highly technical associates
+Ability to create computationally efficient solutions
+Experience building Python packages and exposing APIs for science assets
+Strong academic background in mathematics, statistics, computer science, economics, or similar discipline
+Data visualization skills and ability to present technical solutions to non-technical audience
+Strong interpersonal and communication skills
+Strong analytical, creative problem-solving and decision-making skills
+Strong business acumen; grocery and/or retail experience is a plus
+Passionate about data, analysis, and insights
+Natural curiosity, Welcomes and embraces change
+Ability to work fast yet accurately
+An openness and willingness to try new things and to fail
+Ability to work in a highly collaborative environment
+#LI-Remote 
+#LI-SSS
+

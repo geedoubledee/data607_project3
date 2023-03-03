@@ -1,0 +1,39 @@
+
+About us:
+Digital commerce is built on trust. At every point along the eCommerce journey, businesses must make a critical decision: Can I trust this customer? Answering this simple question accurately and instantly is powerful—it can accelerate revenue growth and strengthen a company’s connection with its customers. How do we do it? Forter was founded on the insight that it's not about what is being purchased, nor where— but who is behind the interaction.
+The Forter Decision Engine finds patterns across more than one billion identities in our dataset. We isolate fraudsters and protect customers—ensuring everyone gets the experience they deserve.  Given that trust is central to how we operate, Forter is very much driven by a defined set of values. We attract remarkable talent and have retention and engagement levels that are well above benchmarks. We’re meticulous about strengthening our culture as we grow and ensuring this is an environment where people can have outsized impact. 
+About the role:
+Forter is looking for a Senior full-stack developer to join its Research Engineering team, to be the primary full-stack developer working with internal fraud analysts and data researchers.
+The Research Engineering team’s mission is to drive innovation by proposing and executing technical solutions that derive actionable insights from Forter’s vast data. We succeed when research analysts and data scientists have access to the data, tools, knowledge, and support to do their jobs painlessly and efficiently.
+In this role, you will take ownership of the specialized web-based tools that our analysts use daily for catching fraudsters and identifying new schemes. By enabling our analysts to visualize Forter’s rich data, see patterns, and drill into specific fraud attempts, you will be directly contributing to Forter’s cutting-edge detection accuracy.
+What you'll be doing:
+Have end-to-end ownership over Forter’s main custom tooling suite for in-house analytics and investigations
+Work closely with the teams responsible for improving and developing Forter’s fraud detection algorithms, building intuitive UIs for identifying insights and actioning them
+Introduce modern web development technologies and standards
+Take full ownership of a feature set from the first discussion to bringing it to live
+Self-manage project planning, milestones, designs, and estimations
+Set high standards and drive best practices for internal-facing web and UI development. We take pride in our tests, monitoring & alerting abilities.
+What you'll need:
+Experience of 3+ years throughout the web development stack such as Node.js, Storybook, Karma, React, VueJS, AngularJS, ES6 etc.
+Expert-level knowledge of JavaScript: you understand prototypical inheritance, scope & closures.
+Clear understanding of web UI bundling, packaging, and modules.
+Advanced HTML & CSS skills.
+Strong pixel-by-pixel attention to detail.
+Great communication skills.
+Self-driven and can deliver solutions partnering with other R&D teams without the need for a project manager.
+Professional proficiency in English.
+ Would be very cool if you have:
+Experience building user-facing low-latency web applications
+Experience with UI/UX (Photoshop, micro-interactions, animations, etc.).
+Experience building automation and package management tools such as Webpack/Rollup.
+Experience building browsers’ extensions/plug-ins
+ Things we appreciate:
+A link to a blog post you wrote or an interesting talk you’ve given.
+Open source projects you’ve created or contributed to.
+Interesting, non-trivial problems you’ve dealt with.
+Side projects that you couldn’t resist building.
+Life as a Forterian:
+We are a team of over 500 Forterians spread across 3 different continents. Since 2013, we've raised $525 million from investors such as Tiger Global, Bessemer, Sequoia Capital, March Capital and Salesforce Ventures. We're on a mission to bring trust to global digital commerce so that companies like Nordstrom, Priceline, Instacart and ASOS can block fraud, drive revenue and improve customer experience.
+At Forter, we believe unique people create unique ideas, and valuable experience comes in many forms. So, even if your background doesn't match everything we have listed in the job description, we still encourage you to apply and tell us why your skills and values could be an asset to us. By welcoming different perspectives, we grow together as humans and as a company.
+Forter is an Equal Employment Opportunity employer that will consider all qualified applicants, regardless of race, color, religion, gender, sexual orientation, marital status, gender identity or expression, national origin, genetics, age, disability status, protected veteran status, or any other characteristic protected by applicable law.
+

@@ -1,0 +1,45 @@
+
+What to expect  
+Ozow is looking for a Lead AI/ML Engineer who will lead a team of AI/ML Engineers and Data Scientists to develop AI product to drive Ozow’s business ambitions. As a Lead AI/ML Engineer at Ozow, you will create value through advanced data solutions that will elevate Ozow’s ability to deliver trusted data for business decision-making. You will be a lead in a team of Data Scientists in developing highly, fit-for-purpose data solutions that incorporate insights to drive value-adding decision-making. We have a unique strategy for incorporating data governance, data architecture, and data operations components to automate the delivery of trusted data for data solutions.  
+You will provide automation support for ML pipelines; build code, run tests (CI), and safely deploy a new version of an application (CD) to allow for the removal of manual errors, and provide standardised feedback loops, to enable fast product iterations. 
+As the lead you will utilise technical knowledge of, and experience in, the following areas to address the requirements of the job, and support the resolution of AI and ML solution requirements: a strong understanding of Machine Learning Concepts; strong Software Engineering Discipline (e.g. Source Control, CI/CD); experience using major ML frameworks (Tensorflow, PyTorch, scikit-learn); experience with building and tuning Deep Learning models; experience with Big Data Processing Libraries (e.g. Spark, Dask); experience working with structured and unstructured data; experience building end-to-end solutions on Cloud (AWS, Azure); experience working with and tuning pre-built AI Services in Cloud; experience with Data Visualisation software (Qlik, Power BI, Tableau, etc.).    
+As the lead you will design, integrate and develop advanced AI products that assist our business stakeholders and improve the products we offer in the market. Layout of best proactive architecture, implementation and monitoring of AI/ML initiatives. Drive adoption and ensuring responsible usage of data and AI technology.  
+ 
+Requirements 
+A degree in a quantitative field such as Machine Learning, Data Science, Statistics, Applied Mathematics, Physics, Computer Science, Engineering, or Economics    
+10+ years of relevant working experience in an analytical role involving data extraction, analysis, statistical modelling, and communication    
+Fluency in a scripting or computing language (e.g., Python, Scala, C++, Java, etc.)    
+Proven experience with data querying languages (e.g., SAS, SQL, Hadoop/Hive)    
+Proven experience processing, filtering, and presenting large quantities (millions to billions of rows) of data from different product groups and business functions    
+Proven experience working with Machine Learning/Deep Learning for real world problems. 
+ In office perks 
+Free healthy breakfast, lunches and snacks (Cape Town) 
+Free healthy lunches and snacks (Johannesburg) 
+Free laundry service (Cape Town and still to launch in Johannesburg) 
+Monthly socials (Cape Town and Johannesburg) 
+On-site Barista (Cape Town) 
+Workplace Concierge (Cape Town)
+Ozow Library (Cape Town)  
+Ozow Playroom (Cape Town) 
+ 
+Perks for South African based employees
+Medical aid subsidy (permanent staff)
+Group Risk Insurance (permanent staff)
+Paid annual leave  
+Employee Health and Wellness Assistance 
+Gym / Fitness sessions 
+Ozow Cookbook 
+Learning and Development opportunities 
+Mentorship programme 
+Community initiatives 
+Quarterly team retreats and annual company retreats
+Employee gifting 
+Access to cutting edge technology 
+Hybrid and Remote work 
+ 
+Sounds good? Apply now! 
+ 
+Keen to know more? 
+Interested in joining our rocket ship?  
+To find out more about life at Ozow, head over to our Careers Page here!
+

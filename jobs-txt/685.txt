@@ -1,0 +1,43 @@
+
+84.51° Overview:
+84.51° is a retail data science, insights and media company. We help the Kroger company, consumer packaged goods companies, agencies, publishers and affiliated partners create more personalized and valuable experiences for shoppers across the path to purchase.
+Powered by cutting edge science, we leverage 1st party retail data from nearly 1 of 2 US households and 2BN+ transactions to fuel a more customer-centric journey utilizing 84.51° Insights, 84.51° Loyalty Marketing and our retail media advertising solution, Kroger Precision Marketing.
+Join us at 84.51°!
+__________________________________________________________
+ The Lead Data Engineer takes ownership of features and drives them to completion through all phases of the entire 84.51° SDLC. 
+This includes internal and external facing applications as well as process improvement activities:
+Lead the design of and develop Cloud and Hadoop based solutions
+Perform unit and integration testing
+Participate in implementation of BI visualizations
+Collaborate with architecture and lead engineers to ensure consistent development practices
+Provide mentoring to junior engineers
+Participate in retrospective reviews
+Participate in the estimation process for new work and releases
+Collaborate with other engineers to solve and bring new perspectives to complex problems
+Drive improvements in people, practices, and procedures
+Embrace new technologies and an ever-changing environment
+Requirements:Bachelor’s degree typically in Computer Science, Management Information Systems, Mathematics, Business Analytics or another STEM degree.
+5+ years proven ability of professional data development experience
+3+ years proven ability of developing with Hadoop/HDFS
+3+ years developing experience with either Java or Python
+3+ years experience with PySpark/Spark
+3+ years experience with Airflow
+Full understanding of ETL concepts
+Exposure to VCS (Git, SVN)
+Strong understanding of Agile Principles (Scrum)
+ Preferred Skills – Experience in the following
+Exposure to NoSQL (Mongo, Cassandra)
+Exposure to Service Oriented Architecture
+Exposure to cloud platforms (Azure/GCP/AWS)
+Exposure to BI tooling e.g Tableau, PowerBI, Cognos
+Proficient with relational data modeling and/or data mesh principles
+Continuous Integration/Continuous Delivery
+ 
+ 
+ 
+ 
+ 
+ 
+#LI-DOLF
+#LI-REMOTE
+

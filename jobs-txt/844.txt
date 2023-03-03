@@ -1,0 +1,26 @@
+
+Schrödinger is seeking a Computational Biology Intern to work on new and exciting drug discovery and development programs.
+Our company aims to revolutionize drug design through the use of breakthrough computational methods. Our powerful platform is transforming the discovery of novel therapeutics, and we’re developing a strong preclinical pipeline and portfolio in multiple therapeutic areas, including oncology, immunology and neurology.
+Who will love this job:
+A capable collaborator and scientist who’s eager to learn and adopt novel methodologies to answer biological questions, while applying their experience with large data consortia and genomic data 
+A proficient R and/or Python programmer who’s familiar with machine learning and AI methodology applied to biological data
+An excellent verbal and written communicator
+What you’ll do:
+Work on programs in early drug discovery and translational research with a group of energetic scientists and developers
+Apply modern machine learning, deep learning and AI methods to novel biological discovery and biomarker development
+Interpret and visualize analysis results in a way that facilitates biological or disease discovery 
+Facilitate translational biology research by finding and applying new genomic data sources
+What you should have:
+A graduate major in computational biology, bioinformatics, statistics, computer science or a related field
+Broad background in computational biology and exposure to machine learning
+Experience analyzing genomics and multi-omics data, especially with large public data sets
+Experience with cell line drug sensitivity and CRISPR screen data is a plus 
+Experience with drug combination modeling and prediction is a plus
+ 
+Pay and perks:
+Schrödinger understands it’s people that make a company great. Because of this, we’re prepared to offer a competitive salary, stock options, and a wide range of benefits that include healthcare (with dental and vision), a 401k, pre-tax commuter benefits, a flexible work schedule, and a parental leave program. We have catered meals in the office every day, a company culture that is relaxed but engaged, and over a month of paid vacation time.  Our Administrative and Human Resources departments also plan a myriad of fun company-wide events. New York is home to our largest office, but we have teams all over the world. Schrödinger is honored to have been selected as one of Crain's New York Best Places to Work for the past three years running.
+Estimated base salary (NYC only): $7,500/mo. Actual compensation package is dependent on a number of factors, including, for example, experience, education, degrees held, market data, and business needs. If you have any questions regarding the compensation for this role, do not hesitate to reach out to a member of our Strategic Growth team. 
+Sound exciting? Apply today and join us!
+As an equal opportunity employer, Schrödinger hires outstanding individuals into every position in the company. People who work with us have a high degree of engagement, a commitment to working effectively in teams, and a passion for the company's mission. We place the highest value on creating a safe environment where our employees can grow and contribute, and refuse to discriminate on the basis of race, color, religious belief, sex, age, disability, national origin, alienage or citizenship status, marital status, partnership status, caregiver status, sexual and reproductive health decisions, gender identity or expression, sexual orientation, or any other protected characteristic. To us, "diversity" isn't just a buzzword, but an important element of our core principles and key business practices. We believe that diverse companies innovate better and think more creatively than homogenous ones because they take into account a wide range of viewpoints. For us, greater diversity doesn't mean better headlines or public images - it means increased adaptability and profitability.
+
+

@@ -1,0 +1,30 @@
+
+About the role
+Chime is looking for a Reporting and Data Infrastructure Intern to join our OMX Reporting & Insights team. You will gain valuable professional experience working with industry leading reporting tools, database systems, analytical tools, and a talented team of analysts. This is an exciting opportunity to learn while playing a role in a critical initiative at Chime.
+This role is structured as a 10-12 week engagement. For Colorado based roles: In accordance with applicable law, this role has a starting hourly rate of $42.00. The actual pay may be higher depending on your location, skills, qualifications, and experience. 
+In this role, you can expect to
+Work in database systems to read, understand, and update SQL code to ensure the reliability of reporting.
+Work in the back-end of our reporting tool to read, understand, and update LookML code to optimize reporting.
+Learn and implement Data Governance best practices to maintain reporting integrity.
+Develop a detailed data system schema to improve organizational understanding of data sources.
+Collaborate with other analysts, subject matter experts, and decision makers to provide actionable reporting to improve the overall member experience.
+To thrive in this role, you:    
+Currently pursuing a Bachelor’s degree in Business with an emphasis in Information Systems, Computer Science, or related field of study from an accredited college or university
+Strong organizational, analytical, interpersonal, oral, and written communication skills
+Creative thinker and self starter with a passion for consumer FinTech
+Are flexible and enjoy doing whatever it takes to execute on complex projects
+Have a low ego and are comfortable working directly well with a wide range of stakeholders
+A little about us
+We created Chime because we believe everyone deserves financial peace of mind. By eliminating unnecessary fees and helping people grow their savings automatically, we’ve empowered millions of Americans to take control of their finances. 
+Chime is the largest and fastest-growing U.S. player in the challenger-banking space. Through our banking partners, we offer access to bank accounts with fee-free overdraft, provide members the chance to receive early access to their paychecks, help them improve their credit, and more!
+We’ve built one of the most experienced leadership teams in Fintech and were recently valued at over $25.5B. We’ve raised over $1.7B in funding from leading investors including Sequoia Capital Global Equities, SoftBank Vision Fund 2, General Atlantic, Tiger Global, Dragoneer, DST, Coatue, Iconiq, Menlo Ventures and others.
+Perks once Full-Time
+💰 Competitive salary based on experience
+✨ 401k match plus the usual medical, dental, vision, life, and disability benefits
+📝  Quarterly stipend to spruce up your home office 
+🏝 Generous vacation policy and company-wide Take Care of Yourself Days 
+🖥  Virtual events to connect with your fellow Chimers- think cooking classes, music festivals, mixology classes, paint nights, etc., and delicious snack boxes, too!
+💚  A challenging and fulfilling opportunity to join one of the most experienced teams in FinTech and help create a completely new kind of banking service
+We know that great work comes from great, and inclusive teams. At Chime, we specifically look for individuals of varying strengths, skills, backgrounds, and ideas. We believe this gives us a competitive advantage to better serve our members and helps us all grow as Chimers and individuals.
+We hire candidates of any race, color, ancestry, religion, sex, national origin, sexual orientation, gender identity, age, marital or family status, disability, Veteran status, and any other status. Chime is proud to be an Equal Opportunity Employer and will consider qualified applicants with criminal histories in a manner consistent with the San Francisco Fair Chance Ordinance. If you have a disability or special need that requires accommodation, please let us know. To learn more about how Chime collects and uses your personal information during the application process, please see the Chime Applicant Privacy No
+

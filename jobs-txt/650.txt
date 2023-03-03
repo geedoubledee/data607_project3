@@ -1,0 +1,52 @@
+
+84.51° Overview:
+84.51° is a retail data science, insights and media company. We help the Kroger company, consumer packaged goods companies, agencies, publishers and affiliated partners create more personalized and valuable experiences for shoppers across the path to purchase.
+Powered by cutting edge science, we leverage 1st party retail data from nearly 1 of 2 US households and 2BN+ transactions to fuel a more customer-centric journey utilizing 84.51° Insights, 84.51° Loyalty Marketing and our retail media advertising solution, Kroger Precision Marketing.
+Join us at 84.51°!
+__________________________________________________________
+ Research Scientist, Relevancy Team – Personalization & Loyalty Strategy
+Relevancy Team is responsible for making relevant and personalized customer experiences for Kroger's e-commerce site, which ranks among the top 10 e-commerce companies in the US. We deliver trillions of recommendations to the Kroger website at scale and make them available to millions of Kroger customers. Scale is the name of the game. The team has a rich portfolio of sciences which include product and coupon recommender systems, substitute recommendations, and shoppable recipes. We apply a multitude of advanced techniques such as deep learning, Matrix factorization, ML, and NLP to create our sciences.
+RESPONSIBILITIES:
+Technical Leadership
+Conduct research for novel ML use cases and applications in NLP and information retrieval
+Prototype and evaluate new search and ranking algorithms
+Prototype and evaluate embeddings for semantic search and Natural Language Understanding (NLU)
+Conduct systematic experiments across multiple models and hyperparameter combinations
+Clean, process, analyze and visualize data and model performance
+Keep up to date with new research literature and state-of-the-art machine learning and deep learning approaches
+Evangelize new ML approaches and ideas
+Mentor software, data, and ML engineers
+Identify opportunities
+Identify and validate business use cases that can be solved with AI
+Coordinate with cross-functional teams to seek feedback on models, share results and implement models
+Lead and work with data scientists and ML engineers to adapt and scale NLP solutions
+Develop evaluation strategies for measuring both model performance and real work impact
+Measurement and Experimentation – Design, Deploy, Enhance and Measure
+Lead the experimental design and statistical techniques for measurement and experimentation
+Innovate in experimental design and measurement – Bayesian methods, multi-armed bandits
+Qualifications, Skills and Experience: 
+MS or PhD in a quantitative discipline like Computer Science, AI, Physics, Economics.
+Scientific mindset and first-principles thinking, depth and bread of state-of-the-art approaches in science
+Prior experience in conducting academic or industry research in the areas of information retrieval, machine learning and representational learning
+Ability to translate research papers into code and reproduce and/or optimize the results
+Design and develop ML prototypes and models
+Derive statistically valid insights and estimate value from data science models to improve product development, marketing, or business strategies
+4+ years of proven track record in ML and NLP
+4+ years of experience developing analytical solutions using advanced statistical methods, ML algorithms and DL frameworks
+4+ years of experience with text processing using standard NLP tools (scikit-learn, Spacy) for parsing, entity extraction, POS tagging, topic discovery, classification, natural language understanding (NLU) and working with transformer models
+4+ years querying data from relational databases using SQL
+4+ years using Python to develop analytical solutions
+4+ years with data wrangling, data cleaning and prep, dimensionality reduction using Spark, SQL
+4+ years with Big Data concepts, tools, cloud solutions and architecture (Azure, GCP, Spark, Databricks)
+4+ years of experience using ML frameworks such as Fast.ai, AllenNLP, OpenCV, or HuggingFace
+4+ years using one of the Deep Learning frameworks such as TensorFlow, PyTorch, MXNet, JAX, Chainer etc.
+4+ years of experience in building dashboards and knowledge of visualization tools (Matplotlib, Seaborn, PowerBI etc.)
+2+ years of experience working on experimentation and MLOps using tools such as MLflow, Neptune, Comet, Weights and Biases
+Strong understanding of statistics, experimental design, and measurements
+Strong analytical, problem-solving, and decision-making skills
+High level of independence to develop and own toolkits, pipelines, and dashboards.
+Excellent written and verbal communication skills to work with cross-functional teams.
+Ability to work in a highly collaborative environment
+#LI-Remote 
+#LI-SSS
+

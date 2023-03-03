@@ -1,0 +1,29 @@
+
+The Company
+Dyno Therapeutics is reshaping the gene therapy landscape through AI-powered vectors. Through the application of our transformative technologies and strategic partnerships with leaders in gene therapy, we believe a future with life changing gene therapies for millions of people is within reach. 
+Our team includes world-class molecular and synthetic biologists, protein engineers and gene therapy scientists working alongside software engineers, data scientists, and machine learning experts. Dyno was named Xconomy’s 2020 start up of the year! 
+ 
+The Role
+Machine Learning Engineer Intern - Summer 2023. This internship is an opportunity for a Software engineer interested in solving problems related to building and running ML infrastructure. Summer internships are full-time (40 hours per week) and run June - August. 
+ 
+How You Will Contribute
+As an ML engineering intern, you will be responsible for contributing to Dyno’s machine learning platform by helping to build, productionize, and scale ML models. You will work alongside other engineers and ML scientists and contribute to a shared codebase in a collaborative environment.
+Responsibilities: 
+Understand Dyno’s existing pipeline for building and deploying ML models.
+Contribute to planning and implementing ML infrastructure improvements with the rest of the team.
+ 
+Who you are
+Team oriented
+Thoughtful & detail oriented
+Eager to learn
+Appreciative of opportunities at the intersections of data science and biology
+ 
+Basic qualifications
+Currently enrolled in a Bachelor’s program in computer science, data science, statistics, applied mathematics, or related.
+ 
+Preferred qualifications
+Industry engineering and/or research experience in a field related to machine learning and/or data science
+Experience with Python and the ML package ecosystem such as PyTorch and Sklearn.
+We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.
+Job Type: Full-time Internship
+

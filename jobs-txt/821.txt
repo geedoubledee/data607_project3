@@ -1,0 +1,20 @@
+
+At Beyond Finance, we’ve made it our mission to help everyday Americans escape the endless cycle of crippling debt and step into a brighter financial future. Through compassionate, individualized care, supportive user-centric technology, and customized financial solutions, we’ve helped over 200,000 clients on their path to a debt-free life.
+While we’re proud of what we’ve already accomplished (over $1 billion in resolved debt), we're searching for new collaborators to help us get to the next level! If you’re looking to join a forward-thinking, rapidly growing organization with helping people as its number one goal, we want to hear from you.Job Title: Senior Data Engineer
+Location: 333 W Wacker Drive, Suite 1800, Chicago, IL 60606
+Job Description
+Design strategies for enterprise databases, data warehouse systems, and multidimensional networks for a financial services company. Model, design, and construct large relational databases or data warehouses. Design, create, and manage business use of large datasets. Design templates for frameworks and technologies to develop robust and scalable individual data pipelines to support a high growth start up environment. Utilize data tools including Airflow, Lambdas, Kafka, Spark, Presto, MapReduce, and AWS Glue. Lead others in setting up configuration-as-code tools such as Ansible, Terraform, or Chef. Optimize and simplify the existing tech stack from Airflow running on ECS cluster to Managed Airflow (MWAA). Use cloud analytics platforms including Google Big Query, AWS Redshift, Snowflake and standard relational databases such as Postgres, MySQL, or other transactional databases. Design and develop an automated migration framework for Salesforce data and objects using Airflow and Heroku. Develop batch systems and real time streaming platforms. Work through complex queries using SQL. Use Python and Java skills with UNIX shell scripting. Perform continuous integration, testing, and deployment using tools such as Git and Jenkins. Coach and mentor other team members as appropriate. Telecommuting/remote work permitted.
+Education Requirement: Master’s degree in Computer Science, Information Technology, or related.
+Experience Requirement: 1 year of experience in data engineering, data architecture or related
+Alternate Requirements: In lieu of a master's degree plus one year of experience, will accept a bachelor's degree plus five years of experience in the same fields.
+Special Skills: Must have work experience with each of the following: (1) Design and develop an automated migration framework for Salesforce data and objects using Airflow and Heroku; (2) Optimize and simplify the existing tech stack from Airflow running on ECS cluster to Managed Airflow (MWAA); and (3) Design templates for frameworks and technologies to develop robust and scalable individual data pipelines to support a high growth start up environment.
+ The base salary range represents the anticipated salary range for this position. The actual base salary offered within the range will depend on numerous factors including the individual’s skills, experience, performance, and the location where work is performed. In addition to base salary, this position qualifies for an annual bonus subject to the terms outlined in the company's bonus plan. Full-time employees hired into this position are eligible for health care benefits shown here. Base Salary Range$141,000—$165,000 USDWhy Join Us?
+While you make a difference for others, we’ll work to make a difference for you, providing an uplifting, collaborative work environment and benefits that reflect your value to us. For eligible full-time employees, we offer:
+Considerable employer contributions for health, dental, and vision programs
+Optional remote and hybrid work models
+Generous PTO, paid holidays, and paid parental leave
+401(k) matching program
+Merit advancement opportunities
+Career development & training
+And finally, our team spirit and culture! Even as we’ve shifted to a remote-first model, we continue to cultivate an environment of community, connection, and belonging across our entire organization.
+

@@ -1,0 +1,90 @@
+
+84.51° Overview:
+84.51° is a retail data science, insights and media company. We help the Kroger company, consumer packaged goods companies, agencies, publishers and affiliated partners create more personalized and valuable experiences for shoppers across the path to purchase.
+Powered by cutting edge science, we leverage 1st party retail data from nearly 1 of 2 US households and 2BN+ transactions to fuel a more customer-centric journey utilizing 84.51° Insights, 84.51° Loyalty Marketing and our retail media advertising solution, Kroger Precision Marketing.
+Join us at 84.51°!
+__________________________________________________________
+ DIRECTOR DATA SCIENTIST – G4
+Cincinnati, Chicago, Remote
+G4 Director, Data Science, Commercial Insights & Loyalty
+People and workstream management role, leading the Commercial Solution Development Data Science team on the Commercial Insights & Loyalty (CIL) Business Team
+RESPONSIBILITIES
+The Talent
+Data Science & Research (DSR) People Management
+Mentor, manage and motivate a diverse team of data scientists to ensure they have the support and guidance needed to carry out their roles successfully.
+Foster an inclusive environment that is a destination for Data Science talent where people feel empowered to learn and grow
+Serve as an external advocate for 84.51° Data Science; promote engagement in advocacy platforms and knowledge sharing across team
+
+Outcomes:
+Talent strategy plan documented and shared with DSR strategy lead
+Successful completion of performance, development, and feedback conversations
+The Work
+DSR Commercial Solution Development Lead
+
+Partner with the domain leadership team to build out the Commercial Solution Development (CSD) Roadmap, including prioritization of short-term initiatives and development of long-term innovation in partnership with cross functional Insights & Loyalty team
+Drive the data science workplan in support of the broader CSD Roadmap
+Partner with the domain leadership team to manage, grow, and prioritize a backlog of solution development ideas to ensure we have a pipeline of opportunities to meet the evolving needs of existing and new clients
+Work closely with the Technology Enablement and Commercial Insights Pillars to create a cohesive roadmap focused on moving solutions along the spectrum from POC to turnkey Commercial Insights (CI) to full product (84.51° Stratum) integration
+Lead cross-pillar education for both data scientists and business team counterparts as new solutions are developed
+
+Outcomes:
+Short-Term:
+Draft solution development process established and cross-functional alignment on 2023 solution roadmap
+
+Long-Term:
+Partner on a cohesive 1-to-3 year solution development roadmap built with a balance of big bet solutions, ongoing enhancements, and thought leadership support
+Clear ways of working established with Commercial Solutions team and Insights Account Managers
+Documented lessons learned and best practices to evolve and elevate our approach to solution development
+Participation and leadership in the quarterly suite of solutions review
+ 
+
+Partner with Commercial Solutions team and Insights Account Managers to ensure our solution innovation pipeline has commercial viability and gets ahead of the future (in partnership with Domain Leads)
+Network with other Kroger and Commercial Client Technology business teams and Enterprise Capability teams to share knowledge of our capabilities and identify opportunities for commercial application
+Extend client engagement beyond core CPG clients to align to Kroger and HQ
+Outcomes:
+Leverage knowledge from across the business to bring the right solutions to CIL to drive the commercial science portfolio
+ 
+The Technology
+Represent the needs of Commercial Solution Development in technical platform conversations with the Technology Enablement Pillar
+Create and enforce technical best practices in terms of code management, internal “How to Data Science” framework, and documentation
+Outcomes:
+Team’s adherence to internal data science best practices and framework
+Scale science through technology
+Own measures aligning to the Science + Technology Solutions strategy
+QUALIFICATIONS, SKILLS, AND EXPERIENCE:
+7+ years developing analytical solutions using advanced optimization methods and machine learning algorithms
+7+ years querying data from relational databases using SQL/Python to develop analytical solutions
+7+ years with data wrangling, data cleaning and prep, problem framing, and analysis
+Experience with managing, recruiting, training, developing, coaching, and/or inspiring highly technical associates
+Proficient in technology stack (Azure, Snowflake, Python, Spark)
+Experience with developing, coaching, and/or inspiring highly technical associates
+Ability to work in a highly collaborative cross functional environment
+Comfort with fast pace and multiple moving parts, anticipating and solving for future barriers/ changes
+Excellent interpersonal, collaboration, and communication skills
+Strong academic background in mathematics, statistics, computer science, economics, or similar discipline
+Strong analytical, creative problem-solving and decision-making skills
+Ability to create computationally efficient solutions
+Strong business acumen
+Natural curiosity and passion around data, analysis and insights
+Welcomes and embraces change
+Ability to work fast yet accurately
+An openness and willingness to try new things and to fail
+An ideal candidate has a strong track record of:
+Building stakeholder relationships at a senior level
+External client exposure and strong understanding of client’s business needs
+Managing, recruiting, training, developing, coaching, inspiring and/or leading others
+Championing an inclusive culture and embracing 84.51° D&I initiatives
+Creating and/or improving large-scale processes or initiatives
+Leading Data Scientists through projects
+Independently creating solutions and solving open-ended and/or complex problems, analyzing both successes and failures
+Collaborating across all functions of 84.51°
+Providing direct, constructive feedback to peers and junior data scientists
+Making data-driven decisions and priority calls
+Clearly articulating their point-of-view
+Comfortability with fast pace and multiple moving parts, anticipating and solving for future barriers/ changes
+Working with our DS tech stack at 84.51°
+ 
+ 
+#LI-Remote 
+#LI-SSS
+

@@ -1,0 +1,16 @@
+
+84.51° Overview:
+84.51° is a retail data science, insights and media company. We help the Kroger company, consumer packaged goods companies, agencies, publishers and affiliated partners create more personalized and valuable experiences for shoppers across the path to purchase.
+Powered by cutting edge science, we leverage 1st party retail data from nearly 1 of 2 US households and 2BN+ transactions to fuel a more customer-centric journey utilizing 84.51° Insights, 84.51° Loyalty Marketing and our retail media advertising solution, Kroger Precision Marketing.
+Join us at 84.51°!
+__________________________________________________________
+ Responsibilities 
+Develop strategies and solutions to ingest, store and distribute big data.  Use Big Data tools such as, but not limited to, Scala, Hadoop, Spark, Pyspark, Hive, JSON, and SQL on scrum team operating in 2-week sprints with 6-8 week cycles to develop the products, tools and features.  Take ownership of features and drive them to completion through all phases of the entire 84.51° SDLC.  Lead the design and development of big data solutions including Hadoop and SQL based solutions.  Perform unit and integration testing.  Collaborate with senior resources to ensure consistent development practices.  Provide mentoring to junior resources.  Participate in retrospective big data software reviews.  Participate in the estimation process for new work and releases.  Bring new perspectives to big data engineering problems.  Roving employment - Position may be located at any 84.51 LLC office throughout U.S.  Telecommuting from home office may be authorized for position, subject to 84.51 Flexible Work Option policy.
+ 
+Basic Qualifications
+ 
+Bachelor’s degree (or foreign educational equivalent) in Computer Science or a closely related technical field such as Management Information Systems, Mathematics or Business Analytics with at least 5 years post-degree, professional IT experience, OR Master’s degree (or foreign educational equivalent) in the same fields listed above with 3 years of professional IT experience gained at any time.  Within this experience (5 years or 3 years, as applicable), must have at least 2 years in all of the following:  designing and developing software using Big Data tools such as but not limited to: Hadoop, Spark, Pyspark, or Hive;  developing software using Agile principles in scrum teams; performing relational data modeling; developing software with SQL and Hadoop/HDFS; performing data warehousing and implementing ETL concepts; using Version Control Software such as GitHub; and programming language experience with Java, Scala, or Python.
+ 
+ 
+ 
+

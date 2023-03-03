@@ -1,0 +1,42 @@
+
+Let’s face it, a company whose mission is human transformation better have some fresh thinking about the employer/employee relationship. We do. We can’t cram it all in here, but you’ll start noticing it from the first interview. Even our candidate experience is different. And when you get an offer from us (and accept it), you get way more than a paycheck. You get a personal BetterUp Coach, a development plan, a trained and coached manager, the most amazing team you’ve ever met (yes, each with their own personal BetterUp Coach), and most importantly, work that matters. This makes for a remarkably focused and fulfilling work experience. Frankly, it’s not for everyone. But for people with fire in their belly, it’s a game-changing, career-defining, soul-lifting move.Join us and we promise you the most intense and fulfilling years of your career, doing life-changing work in a fun, inventive, soulful culture. If that sounds exciting—and the job description below feels like a fit—we really should start talking. 
+We’re looking for a Senior Data / DataOps engineer who cares deeply about their craft, and who wants to use their skills to bring about positive change in the world while working in a high-performing organization. On the Data Operations team, our mission is to architect, build and operate a world class data platform enabling teams to apply analytics and ML for social good.  We are product engineers that strive to enable all BetterUppers to build data driven products that further our mission.
+We're looking for someone who is comfortable in the rapidly changing nature of a startup environment but also adept at moving relentlessly forward: doing what needs to be done to unblock projects that truly deliver value to our users. At BetterUp we delight in supporting and pushing each other to bring out the best in our colleagues, and would love someone to join the team who shares our passions for empathy, excellence, and continuous improvement. We also deeply understand that a key to peak performance is balance, and our culture is focused on providing the support our people need to be able to bring their whole selves to bear in service of our mission. 
+What you’ll do:
+Data evangelist: Bring, build, and drive data culture and best practices, enabling the product and engineering org to build better, more reliable, and secure data pipeline and data-driven products and powering use cases spanning internal and customer-facing analytics, data science / ML needs, and in-app experiences
+DevEx delighter: Use tooling and automation to deliver a developer experience that enables teams to quickly and easily build out data products following mature SDLC principles
+System designer: Passion for building systems, platforms, and tools that people use. You’ll use your expertise in the broader data ecosystem and the modern architectures, approaches, and emerging technologies in this space, on top of a strong foundation on the fundamentals of building distributed systems in the cloud.
+Act as an owner: It may start with a proof of concept but it’s not done until it’s in production. Adept at moving projects forward and able to unblock projects regardless of where we are in the development lifecycle.
+Do less, deliver more: Familiar with the terms YAGNI and yak shaving?  Focus your efforts on high-impact initiatives that really move the needle.
+Impress yourself: We hold ourselves to quality above and beyond something that “just gets it done.”  Each system or line of code is an opportunity to demonstrate craftspersonship.
+Collaborate without ego: Work together with teams to drive cross-team and cross-functional technical roadmaps, and willing to take on roles small or large in order to further the mission at hand.
+If you have some or all of the following, please apply:
+4+ years of relevant data engineering, data infrastructure, DataOps / MLOps, DevOps, SRE, or general systems engineering experience (high growth startup experience is a plus)
+A leader for your teammates and driver of large cross functional projects within your organization
+Familiarity or expertise using and maintaining modern data platform technologies and services like Kafka, Airflow, Snowflake, Segment, Stitch, Fivetran, dbt, Looker, etc.
+Familiarity or expertise using and maintaining ML tooling and platforms like AWS Sagemaker, GCP Vertex AI, BentoML, MLFlow, Kubeflow, etc.
+Experience doing infrastructure-as-code using tools like Terraform, Ansible, Chef, etc., and a pathological inclination towards automation and CI/CD
+Full lifecycle ownership up through production and experience with observability and monitoring tools like DataDog, Honeycomb, Sentry, etc.
+Experience architecting and implementing data governance processes and tooling (such as data catalogs, lineage tools, role-based access control, PII handling)
+Strong coding ability in Python (preferred) or other languages like Java, C#, Golang, etc., and a solid grasp of SQL fundamentals 
+Benefits:
+At BetterUp, we are committed to living out our mission every day and that starts with providing benefits that allow our employees to care for themselves, support their families, and give back to their community. 
+Access to BetterUp coaching; one for you and one for a friend or family member 
+A competitive compensation plan with opportunity for advancement
+Medical, dental and vision insurance
+Flexible paid time off
+Per year: 
+All federal/statutory holidays observed
+4 BetterUp Inner Work days (https://www.betterup.co/inner-work)
+5 Volunteer Days to give back
+Learning and Development stipend
+Company wide Summer & Winter breaks 
+Year-round charitable contribution of your choice on behalf of BetterUp
+401(k) self contribution
+We are dedicated to building diverse teams that fuel an authentic workplace and sense of belonging for each and every employee. We know applying for a job can be intimidating, please don’t hesitate to reach out — we encourage everyone interested in joining us to apply.BetterUp Inc. provides equal employment opportunities (EEO) to all employees and applicants for employment without regard to race, color, religion, sex, national origin, disability, genetics, gender, sexual orientation, age, marital status, veteran status. In addition to federal law requirements, BetterUp Inc. complies with applicable state and local laws governing nondiscrimination in employment in every location in which the company has facilities. This policy applies to all terms and conditions of employment, including recruiting, hiring, placement, promotion, termination, layoff, recall, transfer, leaves of absence, compensation, and training.
+At BetterUp, we compensate our employees fairly for their work. Base salary is determined by job-related experience, education/training, residence location, as well as market indicators. The range below is representative of base salary only and does not include equity, sales bonus plans (when applicable) and benefits. This range may be modified in the future.
+The base salary range for this role is $136,850 – $193,000.
+We value your privacy. Your personal data will be processed in accordance with our Privacy Policy. If you have any questions about the privacy of your personal data or your rights with regards to your personal data, please reach out to support@betterup.co
+#LI-Remote
+ 
+

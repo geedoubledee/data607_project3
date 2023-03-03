@@ -1,0 +1,46 @@
+
+
+        Job Title 
+
+        Unified Communication Engineer for Automation and Administration
+
+        Job Description
+
+        Responsible for gathering requirements by conducting individual testing, participating in team’s testing sessions.
+Detail documentation of Test Plan and results
+Automation of the test plans
+Attend project meetings to review system and test requirements
+Restrictions
+        No telecommuting
+            
+
+            
+            Agencies are OK
+            
+        Requirements
+        Required Skills/Experience:
+Excellent people skills and ability to work independently on complex projects
+Strong Tier 4 problem and troubleshooting/diagnosis and resolution experience.
+Extensive hand on knowledge of Python, shell scripting, database
+Good knowledge of IP networking (v4 and v6)
+Knowledge of quality/bug tracking systems and testing processes
+Good knowledge in IP networks and VoIP protocols (SIP). Must know how to read and troubleshoot SIP dialogs/transactions
+Knowledgeable in MS Teams user, dial-plan and routing rules provisioning using PowerShell and Regex.
+About the Company
+        We Are IT Philippines Inc. (WIT) is the leading Satellite Broadband Service Provider in the Philippines. We Integrate solutions with leading edge products and world class service for the delivery of robust and dependable managed networks.
+We have over a decade of experience operating Teleports and advance VSAT stations in over 30 countries in the Asia Pacific. In the Philippines, WIT provides vital satellite communications infrastructure for mission critical civil and military entities of the government. It also provides emergency communications management response in times of disaster to all sectors of society.
+Enterprises continually rely on its infrastructure to connect to field offices in both urban and rural areas. In fixed and mobile satellite communications management, WIT is the single point of contact (SPOC) for a large number of Telecommunication/Carrier, Multinational, Multilateral and non governmental organizations.
+WIT also provides dependable satellite internet services to the consumer market thru the Bigsky brand. It likewise maintains connectivity to thousands of educational institutions in the Philippines.
+
+        
+
+        Contact Info
+        Contact: Con Ayroso Marcelo
+            
+
+            E-mail contact: con_ayroso@philsat.com
+
+            
+            Web: http://www.philsat.com/careers.html
+            
+        

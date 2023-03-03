@@ -1,0 +1,35 @@
+
+84.51° Overview:
+84.51° is a retail data science, insights and media company. We help the Kroger company, consumer packaged goods companies, agencies, publishers and affiliated partners create more personalized and valuable experiences for shoppers across the path to purchase.
+Powered by cutting edge science, we leverage 1st party retail data from nearly 1 of 2 US households and 2BN+ transactions to fuel a more customer-centric journey utilizing 84.51° Insights, 84.51° Loyalty Marketing and our retail media advertising solution, Kroger Precision Marketing.
+Join us at 84.51°!
+__________________________________________________________
+ Lead Machine Learning Engineer
+SUMMARY:
+The ML Engineer requires a unique mix of computer and data science skills necessary to create computationally efficient software implementations, packages, and end-to-end solutions of scientifically complex algorithms from statistics, machine learning, and optimization. This particular ML Engineering role requires a strong understanding of the mathematical, algorithmic, and data issues along with ability to develop software solutions that will scale across many users and/or large, complex, and diverse data sets.
+RESPONSIBILITIES:
+Provide technical leadership across a variety of technologies, with a focus on Python, Spark, machine learning tool development, and software engineering best practices for scaling machine learning solutions. 
+Stay up to date on emerging trends in the data science world and pioneer the use of new tools in the data science function.
+Research state of the art machine learning algorithms, patterns, processes, and tooling to identify new opportunities for implementation across the enterprise.
+Developing tools and patterns to implement machine learning and science solutions.
+Collaborate with teams across the enterprise to implement and standardize science solutions as internal packages, tools, or patterns throughout the company.
+Optimize machine learning processes for performance, accuracy, and software engineering best practices.
+Build production-grade solutions to scale, manage, and serve machine learning models and science solutions.
+Educate stakeholders on machine learning and advanced programming topics as needed, through both formal instruction and informal partnership.
+Communicate important technical information clearly to upper management to steer organizational direction, to teammates as part of project work, to other data scientists to guide their work, and to less technical functions such as product management.
+Partner with a wide range of technical personas (i.e., engineering, architecture, data scientists…) to identify and implement best practices around software engineering and analytic procedures.
+QUALIFICATIONS, SKILLS, AND EXPERIENCE:
+MS or PhD in Machine Learning, Computer Science, Computer Engineering, Applied Statistics, or related field
+2-4 years of experience using Deep Learning frameworks such as Tensorflow, Pytorch, Fast.ai, Mxnet or HuggingFace.
+1-2 years of experience with Embeddings, Recommender Systems
+Hands-on experience with distributed data processing technologies such as Spark and ability to build data pipelines in cloud (eg. Azure)
+Knowledge of approximate & large scale algorithms ( e.g sketches, hyperloglog), efficient algorithms for processing large scale datasets (e.g map-reduce) is required.
+Hands-on experience developing software tools that scale (i.e. Python packages) and using end-to-end tooling to develop, test, and deploy these tools (i.e. CI/CD)
+High level of independence, able to make time-sensitive decisions rapidly and solve urgent problems without escalation.
+Excellent communication skills, particularly on technical topics. Must be able to learn from others and teach others, and to work collaboratively as part of a highly interdependent team.
+Comfort with independent learning of new technologies, and willingness to jump into using unfamiliar tools.
+Other data science-adjacent technology experience would be beneficial but is not required, including Docker, Rest APIs, Fast API, Linux and basic shell scripting
+Strong time and project management skills; the ability to balance multiple simultaneous work items and prioritize as necessary.
+#LI-Remote (
+#LI-SSS
+

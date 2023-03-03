@@ -1,0 +1,24 @@
+
+Scorpion Therapeutics is a precision oncology company founded in February 2020 by a preeminent group of scientists from Harvard University/Massachusetts General Hospital – Keith Flaherty, MD, Gaddy Getz, Ph.D. and Liron Bar-Peled, Ph.D. The company has raised $270M in Series A and Series B financings led by blue-chip investors, including Atlas Venture, Boxer Capital of Tavistock Group, EcoR1 Capital, LLC, Omega Funds, and Vida Venture.
+Scorpion Therapeutics’ mission is to serve oncology patients by discovering and developing best-in-class and first-in-class, small molecule cancer medicines that address large patient segments with significant unmet medical needs. To accomplish this mission, we are building a highly collaborative team focused on the pursuit of novel approaches to small molecule drug discovery. This approach relies upon dynamic collaboration between cancer biology, proteomics, informatics, structural biology and medicinal chemistry – with the ultimate goal of realizing the full potential of targeted/precision oncology.Job Summary:
+Scorpion Therapeutics is seeking a highly motivated Protein and Chemistry Machine Learning Scientist with a strong background in computational biophysics to join our team. The successful candidate will be an integral member of cross-functional drug discovery teams and will be responsible for applying and developing data analytics and machine learning approaches to enable insights into protein dynamics and compound optimization.
+Key Responsibilities:
+Deploy and develop state-of-the-art machine learning algorithms for analysis of long-time scale molecular dynamics simulations to identify allosteric mechanisms, cryptic pockets, and potential binding poses
+Identify, develop, and deploy ML approaches into hit finding and lead optimization for drug discovery projects, e.g. for hit finding/virtual screening or ADMET endpoints
+Integrate data analytics, statistical learning, and ML approaches into Scorpion’s proprietary chemical proteomics platform
+Stay up-to-date with the latest developments in advanced machine learning approaches
+Contribute to the development of our computational infrastructure by identification and incorporationof novel tools and techniques in collaboration with the Data Science and broader Scorpion team
+Qualifications:
+MS or Ph.D. degree in Chemistry, Computational Chemistry, Biophysics, Chemical Engineering, or related field with a focus on machine learning
+2+ years of experience supporting and impacting drug discovery teams
+Proven track record of developing and implementing data analytics and machine learning algorithms for the analysis of molecular dynamics simulations, protein-ligand interactions, and small molecule drug discovery applications
+Experience with custom implementations of AlphaFold and ML modeling of ADMET endpoints is a plus
+Experience with molecular simulation software, such as GROMACS, NAMD, OpenMM, or AMBER
+Strong scientific programming skills in Python, R, and other relevant programming packages
+Expertise in a subset of open source machine learning platforms, such as TensorFlow, Pytorch, Pandas, XGBoost, DeepChem or Scikit-Learn
+Expertise in large-scale data handling, mining, clustering, and visualization
+Comfortable using cheminformatics and data analytics applications such as RDKit OEChem, or other chemistry toolkits to build analysis workflows
+Excellent problem-solving skills and ability to work independently in a fast-paced, collaborative environment
+Excellent communication skills, both written and verbal
+ Scorpion Therapeutics Inc. is an Equal Opportunity Employer who strives to create and maintain a diverse working environment. We do not discriminate for reasons of race, color, religion, gender, national origin, age, sexual orientation, marital or veteran status, disability, or any other legally protected status. Beginning October 13, 2021, Scorpion Therapeutics requires all new hires to be fully vaccinated against COVID-19. If you are unable to receive the vaccine due to a disability or serious medical condition, or because of your sincerely held religious beliefs, you will have an opportunity to request a reasonable accommodation.
+

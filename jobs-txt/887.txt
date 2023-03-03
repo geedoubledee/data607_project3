@@ -1,0 +1,64 @@
+
+
+        Job Title 
+
+        Head of Engineering
+
+        Job Description
+
+        Quansight is seeking an innovative Head of Engineering with leadership experience and a strong understanding of the PyData ecosystem to join our team.  Responsibilities include managing and growing Quansight’s technical consulting business in a target domain.
+What you’ll do
+As our Head of Engineering, your role will be a mix of project definition, solution architecture, sales engineering, technical leadership and people management. You will be expected to interface with clients and translate their needs into technical solutions. You will typically oversee several projects with a diverse set of clients in different verticals.
+Responsibilities
+Identify, scope, architect, resource, and oversee the delivery of large end-to-end projects for clients
+Collaborate with project managers and other staff members to develop timelines for solutions.
+Assess the systems architecture currently in place and work with technical staff to recommend solutions to improve it.
+Assess and evaluate risk as required.
+Consistently monitor the scope of projects.
+Understand how individual work fits into the broader organizational picture.
+Keep skills updated and remain proactively aware of happenings and current events in the industry.
+Mentor, educate, and train colleagues.
+Resolving technical problems as they arise.
+Inform various stakeholders about any problems with the current technical solutions being implemented.
+Provide updates to stakeholders on product development processes, costs, and budgets
+Restrictions
+        Telecommuting is OK
+            
+
+            
+            No Agencies Please
+            
+        Requirements
+        Qualifications
+5+ years of work experience in a relevant role; ideally professional services
+Experience serving as a leader for the full life-cycle of projects from requirements gathering, development, all the way through to implementation & roll-out.
+Expertise in one or more core technology areas: Numerical Computing, Distributed & High-
+Performance Computing, Infrastructure/Cloud, Data Science/Machine Learning, MLOps, Data Engineering.
+Excellent interpersonal communication skills and the ability to explain complex technical topics in an easily digestible manner.
+In-depth understanding of Python
+Strong organizational and leadership skills.
+Contributions to open source projects is a plus.
+Prior consulting experience or experience working in a client-facing environment.
+Please keep in mind that we are describing the background we imagine would best fit the role.
+Even if you don’t meet all of the requirements and are confident that you are up for the task, we absolutely want to get to know you!
+
+        
+
+        
+        About the Company
+        Who we are
+Our company has its roots in the Python data science community. Our leaders have had significant involvement in the creation and maintenance of NumPy, SciPy, Jupyter, Spyder, Dask, Conda, Numba, Anaconda and PyData NumFOCUS. Our mission is to connect companies to open-source communities to create sustainable solutions that benefit the whole ecosystem.
+We accomplish this mission by providing various services ranging from open-source software development to training and consulting. We believe in a culture of do-ers, learners, and collaborators. We are looking for people who are motivated, humble, curious, and respectful of others.
+
+        
+
+        Contact Info
+        Contact: Rebecca Johns
+            
+
+            E-mail contact: rjohns@quansight.com
+
+            
+            Web: https://www.quansight.com/careers
+            
+        

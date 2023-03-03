@@ -1,0 +1,52 @@
+
+What to expect 
+If you are looking for an opportunity to work with data in a different and connected way, you might be the Data Engineer we are looking for! If you are an innovative Data Engineer, that likes connecting the dots in Data together and building high-performance Data Platforms that service multiple Data and Business Services, joining our team might just be the challenge you are looking for.   
+You will be responsible for expanding and optimising our data and data pipeline architecture, as well as optimizing data flow and collection for cross-functional teams. The ideal candidate is an experienced data pipeline builder and data wrangler who enjoys optimizing data systems and building them from the ground up.   
+They must be self-directed and comfortable supporting the data needs of multiple teams, systems and products. The right candidate will be excited by the prospect of optimizing or even re-designing our company’s data architecture to support our next generation of products and data insights and solutions.  
+ 
+Requirements 
+3+ years of experience in developing data solutions including analysis, design, coding, testing, deploying, and supporting applications.  
+A degree in Computer Science, Applied Mathematics, Physics, Statistics or area of study related to data sciences, data engineering and data mining or relevant experience.  
+Are proficient in data application/software architecture (Definition, Business Process Modelling, etc.). 
+Experience working SQL & Python knowledge and experience working with relational databases, query authoring (SQL) as well as working familiarity with a variety of databases.  
+Experience building and optimising ‘big data’ data pipelines, architectures, and data sets.  
+Experience performing root cause analysis on internal and external data and processes to answer specific business questions and identify opportunities for improvement.  
+Previous experience in operations of a big data ecosystem   
+Experience with operational aspects of platforms such as monitoring and alerts management, availability, capacity management and service management  
+The ability to build processes supporting data transformation, data structures, metadata, dependency, and workload management.  
+A successful history of manipulating, processing, and extracting value from large, disconnected datasets.  
+Working knowledge of message queuing, stream processing, and highly scalable ‘big data’ data stores.  
+Strong project management and organizational skills.  
+Experience supporting and working with cross-functional teams and mentoring/leading teams  
+Experience working with Fintech data (advantageous). 
+ In office perks 
+Free healthy breakfast, lunches and snacks (Cape Town) 
+Free healthy lunches and snacks (Johannesburg) 
+Free laundry service (Cape Town and still to launch in Johannesburg) 
+Monthly socials (Cape Town and Johannesburg) 
+On-site Barista (Cape Town) 
+Workplace Concierge (Cape Town)
+Ozow Library (Cape Town)  
+Ozow Playroom (Cape Town) 
+ 
+Perks for South African based employees
+Medical aid subsidy (permanent staff)
+Group Risk Insurance (permanent staff)
+Paid annual leave  
+Employee Health and Wellness Assistance 
+Gym / Fitness sessions 
+Ozow Cookbook 
+Learning and Development opportunities 
+Mentorship programme 
+Community initiatives 
+Quarterly team retreats and annual company retreats
+Employee gifting 
+Access to cutting edge technology 
+Hybrid and Remote work 
+ 
+Sounds good? Apply now! 
+ 
+Keen to know more? 
+Interested in joining our rocket ship?  
+To find out more about life at Ozow, head over to our Careers Page here!
+

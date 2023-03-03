@@ -1,0 +1,37 @@
+
+
+        Job Title 
+
+        Experienced Python Programmer
+
+        Job Description
+
+        We are integrating an application called "Fluid Designer". It is a 3D design application for cabinet manufactures which is based on an original customization by Micovellum . We have a need for a Python Programmer that can also test and debug current scripts as well as develop new scripts that will access the FD database, integrate with other applications and utilize an SQL or No SQL database. Modify existing screens and reports.
+This is an hourly position.  100% remote.
+Please submit hourly rate with resume.
+
+
+        Restrictions
+        Telecommuting is OK
+            
+
+            
+            No Agencies Please
+            
+        Requirements
+        Experience with Python is a must. Should be able to modify current screens and reports with minimal learning curve. Need to hit the ground running.
+
+        
+
+        
+
+        Contact Info
+        Contact: Robert Alparone
+            
+
+            E-mail contact: ralparone@gmail.com
+
+            
+            Web: http://www.rsa-assoc.com
+            
+        

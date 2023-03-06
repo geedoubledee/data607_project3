@@ -1,0 +1,42 @@
+
+Our Mission
+To restore cell health and resilience through cellular rejuvenation programming to reverse disease, injury, and the disabilities that can occur throughout life.
+For more information, see our website at altoslabs.com.
+Diversity at Altos
+We believe that diverse perspectives are foundational to scientific innovation and inquiry. 
+We are building a company where exceptional scientists and industry leaders from around the world work side by side to advance a shared mission. 
+Our intentional focus is on Belonging, so that all employees know that they are valued for their unique perspectives. 
+At Altos, we are all accountable for sustaining a diverse and inclusive environment.What You Will Contribute to Altos Labs™
+The Altos Labs™ Scientific Computing & Data (SCD) group consists of software, data, and machine learning engineers implementing scalable data engineering solutions enabling Altos Labs™ scientific mission. We are seeking a highly motivated and experienced Senior Data Engineer to lead the development of data and insights products for various genomics data types - including RNA sequencing (bulk and single cell RNA-Seq), DNA methylation - Spatial Transcriptomics, Microscopy, Imaging and  Mass spectrometry. Altos Labs™ is generating large amounts of multi-omics and imaging datasets to better understand cellular rejuvenation and aging, in addition, we are forming external collaboration enabling access to large datasets from institutions, consortiums and other initiatives. We are looking for someone to lead data integration efforts across spatial genomics, single cell, imaging and microscopy data in order to bring these valuable datasets together enabling cutting edge research at Altos Labs™. As a Senior Data Engineer, you will partner closely with research teams across global research institutes to identify internal and external multi-modal data sets which need to be processed and integrated. In addition, you will shape both the technology and culture of the Scientific Computing & Data (SCD) team and broader organization.  
+Responsibilities
+Lead data integration projects for multi-omics datasets leveraging modern machine learning, deep learning techniques and tools
+Leverage and extend algorithms being developed by scientific community for multi-omics data integration, and benchmark these for use cases of relevance to Altos Labs™
+Partner closely with the Scientists and Researchers to identify, design and implement scientific software solutions to accelerate research focusing on integration of multi-modal datasets including  genomics, microscopy, imaging and spatial transcriptomics. 
+Architect and implement cloud, on-premises, and hybrid data systems and solutions that scale and adapt to changing demands
+Own relationships across engineering, scientific, and vendor teams, streamlining and unblocking critical technical decisions
+Mentor software engineers and computational scientists, evangelizing best practices around development tools, CI/CD, and other methods to improve code quality and efficiency
+Be a trusted partner for scientific teams in order to ideate and develop engineering solutions to support and accelerate research across various labs.
+Set the direction and culture of the software engineering organization, including guiding decisions around software platforms, coding standards, deployment policies, and other best practices
+Engage extensively with data integration algorithmic developments efforts within major consortiums for medical R&D, large genomics research institutes, and leading startups, leveraging latest system design and implementations to support Altos Labs™ mission
+Who You Are
+Minimum Qualifications
+Masters or Ph.D. in Computer Science, Bioinformatics, Statistics or related quantitative field
+Proven applied research experience with integration of multi-omics datasets with preference for single cell and spatial transcriptomics data 
+8+ years software development experience with deep focus on data engineering and integration
+Demonstrated track record of hand-on technical leadership, including owning and delegating technical design decisions
+Experience architecting and implementing cloud, on-premises, and hybrid technical solutions
+Experience working cross-functionally with stakeholders and partners to manage risks and create short and long-term plans
+Excited to design, implement, and evangelize technical and cultural standards across scientific and technical functions
+Preferred Qualifications
+Experience with scientific research and/or early stage software development organizations
+Experience or familiarity with biology, bioinformatics, or common biological data analysis methods and experience working with biologists or bioinformaticians
+The salary ranges for this position are: San Diego $170,000 to $230,000; Redwood City $186,150 to $251,850; Cambridge UK £83,300 - £112,700
+#LI-LY1
+What We Want You To Know 
+We are a culture of collaboration and scientific freedom, and we believe in the values of diversity, inclusion and belonging to inspire innovation.
+Altos Labs provides equal employment opportunities to all employees and applicants for employment and prohibits discrimination and harassment of any type without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state or local laws. 
+This policy applies to all terms and conditions of employment, including recruiting, hiring, placement, promotion, termination, layoff, recall, transfer, leaves of absence, compensation and training. 
+Altos currently requires all employees to be fully vaccinated against COVID-19, subject to legally required exemptions (e.g., due to a medical condition or sincerely-held religious belief).
+Thank you for your interest in Altos Labs where we strive for a culture of scientific freedom, learning, and belonging.
+Note: Altos Labs will not ask you to download a messaging app for an interview or outlay your own money to get started as an employee. If this sounds like your interaction with people claiming to be with Altos, it is not legitimate and has nothing to do with Altos. Learn more about a common job scam at https://www.linkedin.com/pulse/how-spot-avoid-online-job-scams-biron-clark/
+

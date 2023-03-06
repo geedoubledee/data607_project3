@@ -1,0 +1,41 @@
+
+About Us
+Riskified empowers merchants and shoppers to realize the full potential of eCommerce by making it safe, accessible, and frictionless. Our global team helps the world’s most-innovative eCommerce merchants eliminate risk and uncertainty from their business. Merchants integrate Riskified’s machine learning platform to create trusted customer relationships, driving higher sales while reducing costs. Riskified has reviewed hundreds of millions of transactions and approved billions of dollars of revenue for global brands and fast-growing businesses across industries, including Wayfair, Wish, Peloton, Gucci, and many more. As of July 29th, 2021, Riskified has begun trading on NYSE under the ticker RSKD. 
+About the Role
+As a BI Developer, you will be responsible for providing analytical support across the organization to enable data-driven decision making and promote strategic planning. You will also deliver an improved understanding of the company’s various metrics to allow for better short and long term forecasting and planning. You will develop close working relationships with various teams including Analytics & Research, Finance, Sales, Marketing, and more.
+What You'll Be Doing
+Work with various teams to define key metrics (KPIs) and provide the methodologies to accurately measure Riskified’s performance
+Create new ETL processes and optimize existing ones
+Create smart, innovative and effective visualization methods, and promote engagement and implementation of them
+Be the main point of contact for technical support related to BI activity for various teams within Riskified
+Qualifications
+Minimum 2 years experience in a BI position - must 
+Knowledge in DWH design - must
+Experience in developing ETL processes - must
+Experience with BI tools such as Tableau, Looker or similar - must
+Experience with databases - must
+Experience with scripting languages - an advantage
+Experience with BI system analysis - an advantage
+Bachelor’s Degree in Science/Data Systems Management/Industrial Engineering and Management
+Good comprehension of data, and how to tell the story behind it
+Life at Riskified
+We are a fast-growing and dynamic tech company with 750+ team members globally. We value collaboration and innovative thinking. We’re looking for bright, driven, and passionate people to grow with us.
+COVID-19 Update: 
+Our Tel-Aviv team is currently working in a hybrid of remote and in-office work for all our team members. We have recently moved to our new space in Tel Aviv - check it out here! 
+Some of our Tel Aviv Benefits & Perks:
+Equity for all employees, Keren Hishtalmut, pension 
+Private medical insurance, extra time off for parents and caregivers
+Commuter and parking benefits
+Team events, fully-stocked kitchen,lunch stipend, happy hours, yoga, pilates, functional training, basketball, soccer
+Wide-ranging opportunities to volunteer and make an impact
+Commitment to your professional development with global onboarding, skills-based courses, full access to Udemy, lunch & learns
+Awesome Riskified gifts and swag! 
+In the News
+Geektime: Riskified Goes Public
+Walla!: Happy Hour at the Riskified Offices 
+Geektime Insider: A look at Riskified Tel Aviv
+Globes: Riskified to contribute the highest amount up to date to Tmura
+Globes: Riskified is among Israel’s fastest growing companies 
+TechCrunch: Riskified Prevents Fraud on Your Favorite E-commerce Site
+Riskified is deeply committed to the principle of equal opportunity for all individuals. We do not discriminate based on race, color, religion, sex, sexual orientation, national origin, age, disability, veteran status, or any other status protected by law.
+

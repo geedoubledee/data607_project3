@@ -1,0 +1,28 @@
+
+We’re at the forefront of the data revolution, committed to building the world’s greatest data and applications platform. Our ‘get it done’ culture allows everyone at Snowflake to have an equal opportunity to innovate on new ideas, create work with a lasting impact, and excel in a culture of collaboration.Snowflake started with a clear vision: make modern data warehousing effective, affordable, and accessible to all data users. Because traditional on-premises and cloud solutions struggle with this, Snowflake developed an innovative platform with a new built-for-the-cloud architecture that combines the power of data warehousing, the flexibility of big data platforms, and the elasticity of the cloud at a fraction of the cost of traditional solutions.  
+Snowflake is growing fast and we’re scaling our team to help enable and accelerate our growth. We’re passionate about our people, our customers, our values, and our culture! Our teams breed ambition, challenge ordinary thinking, push the pace of innovation, and work hard to provide our customers with the best experience possible.
+We’re looking for people with a growth mindset and the valuable insight to solve for today while building for the future.  
+We are looking for a Senior Analytics Engineer to join our growing Finance data team. In this role, you will drive value and empower decision-making by developing and maintaining the data infrastructure which fuels reporting and analysis for the Finance organization and has a direct impact on Snowflake’s success as a company. As a Senior Analytics Engineers, you will be responsible for the following:
+YOU WILL :
+Use SQL, Python, Snowflake, dbt, Airflow, and other systems while working within an agile development model to build and maintain data infrastructure for use in reporting, analysis, and automation
+Perform data QA and develop automated testing procedures for use with Snowflake data models
+Translate reporting, analysis, and automation requirements into data model requirements and specifications
+Work with IT and other technical stakeholders to source data from key business systems and Snowflake databases
+Architect flexible, performant data models that will support a wide range of use cases while driving the organization towards single sources of truth
+Provide input into data governance strategies and frameworks including permissions and security models, data lineage systems, and data definitions
+Meet regularly with Finance BI and technical leads to define requirements, formulate project plans, provide status updates, and perform user testing and QA
+Build and maintain user friendly documentation for data models and key metrics
+Identify weaknesses in processes, data, and systems, and drive organizational improvements within the Analytics Engineering team
+WHAT YOU WILL NEED
+5+ years of experience working as an analytics, data, or BI engineer
+Advanced SQL skills with experience standardizing queries and building data infrastructure involving large-scale relational datasets
+Experience using Python to parse, structure, and transform data
+Experience with MPP databases such as Snowflake, Redshift, BigQuery, or other relevant technologies
+Ability to communicate in an effective and efficient manner while working with a wide range of stakeholders
+Ability to prioritize and execute tasks in a high-pressure, constantly changing environment
+Ability to think creatively to solve problems
+Passion for detail and quality, an ability to identify weaknesses in data and process, and a willingness to drive improvement
+Willingness to work flexible international hours as needed
+Experience with Excel, ERP, Salesforce, and Financial Planning tools
+Snowflake is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to age, color, gender identity or expression, marital status, national origin, disability, protected veteran status, race, religion, pregnancy, sexual orientation, or any other characteristic protected by applicable laws, regulations and ordinances. 
+

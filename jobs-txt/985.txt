@@ -1,0 +1,43 @@
+
+We are seeking a Senior Engineering Manager to lead our Data Operations team, responsible for data governance and data engineering. The successful candidate will have a strong technical background, excellent leadership skills, and experience managing cross-functional teams. This role will play a critical role in ensuring the quality, reliability, and security of our data systems, while also fostering a culture of continuous improvement and innovation within the team.
+ 
+Responsibilities
+Lead and manage the Data Operations team, consisting of data engineers, data scientists, and data analysts.
+Establish and maintain data governance policies, processes, and best practices to ensure the quality, reliability, and security of our data systems.
+Collaborate with cross-functional teams, including product management, software engineering, and business intelligence, to design and implement data solutions that meet the needs of the business.
+Develop and implement data management strategies, including data warehousing, data lakes, and data marts, to support the organization's analytical needs.
+Drive the team to continuously improve the data infrastructure, automate manual processes, and implement new technologies as appropriate.
+Act as a technical expert and mentor for the team, providing guidance and support for technical decisions and problem-solving.
+Manage project schedules, budgets, and resources to ensure successful delivery of data projects.
+Communicate effectively with stakeholders at all levels of the organization, including senior management and technical staff.
+ 
+Requirements
+At least 10 years of experience in data engineering, data management, or a related field, with at least 5 years of experience in a leadership role.
+Direct technical experience with Databricks and Delta Lake architectures
+Strong technical knowledge of data warehousing, data lakes, and data marts, as well as data governance and data management best practices.
+Experience managing cross-functional teams, including data engineers, data scientists, and data analysts.
+Excellent leadership and mentorship skills, with the ability to inspire and motivate the team.
+Strong problem-solving skills and the ability to think creatively and strategically.
+Excellent written and verbal communication skills, with the ability to present complex technical concepts to non-technical audiences.
+Must be able to work in PST timezone.
+#LI-Remote
+The annual US base salary range for this role is $178,500 - $276,000 plus bonus, equity, and benefits.Our posted job may span more than one career level, and offered level and salary will be determined by the applicant’s specific experience, knowledge, skills, and abilities, as well as internal equity and alignment with market data.
+Benefits in our US offices:
+4-day workweek
+Discretionary Time Off Policy (Unlimited!)
+Mental wellbeing resources
+Dedicated learning budget through Learnerbly
+401K Match
+Stock Options
+Annual Performance Bonus or Commissions
+Paid Parental Leave (12 weeks)
+Health Insurance
+Dental Insurance
+Vision Insurance
+Flexible Spending Account (FSA)
+Short Term and Long Term Disability Insurance
+Life Insurance
+Company Social Events
+Signifyd Swag
+ Signifyd's Applicant Privacy Notice
+

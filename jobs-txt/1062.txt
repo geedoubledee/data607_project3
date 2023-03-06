@@ -1,0 +1,36 @@
+
+Our Value Proposition:
+Clearcover is a venture-backed technology start-up disrupting the trillion-dollar legacy insurance market. We’ve focused on building products that create confident, happy customers - and we’re flourishing. We believe in putting our people first, paying them well, and working together to solve tough problems. If you’d like a high-growth opportunity with an award-winning company, let’s chat.
+What are we looking for in a Sr. Auto Data Scientist?
+We're looking for a self-starter to help build and evaluate our pricing algorithms to enhance our risk segmentation. Working alongside our actuarial and insurance product management teams, you'll leverage statistical techniques to more accurately segment our customers and build new pricing features.
+What will you do as a Sr. Auto Data Scientist?
+Build and evaluate pricing and unit economic component models
+Develop risk segmentation recommendations that find the right balance between growth and unit economics
+Collaborate with the Insurance Product, Product, Marketing, and Machine Learning functional areas to attract the right customers at the right time
+Democratize data and insights to facilitate data-driven decision-making  
+What will you bring as a Sr. Auto Data Scientist? 
+3+ years of experience with applying advanced quantitative or predictive modeling techniques
+Experience in Property and Casualty is required
+Actuarial experience is a plus.
+Exceptional analytical, quantitative, and problem-solving skills with a deep intellectual curiosity and an ability to make data-based decisions
+Strong programming skills with experience in SQL, R, and Python
+Excellent communicator and willingness to challenge the status quo
+Alignment with Clearcover core values
+Did you know that women and minorities are less likely to apply to a position if they don’t match 100% of the job qualifications? Don’t let that be the reason you miss out on this opportunity! We encourage you to apply anyway. Don’t count yourself out!
+But wait, there’s more: 
+As a people-first company, your health and well-being is a priority at Clearcover. We offer comprehensive benefits for individuals and families:
+Medical. We offer rich and affordable BCBS plans for you and your dependents. If you select the high deductible health plan, we offer an HRA and contribute to your HSA.
+Dental and vision. We cover 100% of dental and vision premiums for you and your dependents.
+Pre-tax benefits, disability, and life insurance. 
+401(k). We contribute 3%, even if you contribute nothing.
+We’ve also curated a stack of perks and benefits that stretch beyond the expected. Our people have access to:
+Generous vacation, 12 paid holidays, and parental leave.
+Equity in the company (plus an evergreen plan) and an annual bonus program.
+Employee resource groups, live yoga, and mental health workshops.
+Top of the line hardware, snack stipends, and meeting free “Focus Fridays”. 
+We’re a remote first company, having paved the way for flexible work locations and continue to offer this flexibility. If you are local or in town visiting, you also have the choice to work from our Chicago HQ office. 
+Because we are a remote first company, we ask that your internet can keep up with our pace.
+Remote employees are eligible to work from: AZ, CO, CT, FL, GA, IA, IL, IN, KS, MA, MI, MN, MO, NC, NJ, OK, SC, TN, TX, UT, VA, WI.
+To top it all off, if Clearcover is available in your state, you could have access to an employee discount on auto-insurance! Excited to learn more? Complete the application below!
+Clearcover is an Equal Opportunity Employer (EOE) that welcomes and encourages all applicants to apply regardless of age, race, color, religion, sex, sexual orientation, gender identify and/or expression, national origin, disability, veteran status, marital or parental status, ancestry, citizenship status, pregnancy or other reasons prohibited by law.
+

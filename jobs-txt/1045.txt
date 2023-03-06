@@ -1,0 +1,35 @@
+
+Reddit is a community of communities where people can dive into anything through experiences built around their interests, hobbies, and passions. Our mission is to bring community, belonging, and empowerment to everyone in the world. Reddit users submit, vote, and comment on content, stories, and discussions about the topics they care about the most. From pets to parenting, there’s a community for everybody on Reddit and with over 50 million daily active users, it is home to the most open and authentic conversations on the internet. For more information, visit redditinc.com.Location: US remote-friendly
+Reddit is continuing to grow our teams with the best talent. This role is completely remote friendly and will continue to be after the pandemic. 
+We are looking for a Staff Data Scientist to be a part of the Ads Data Science team. You will work closely with product managers, engineers, and data scientists to up-level the experimentation capabilities of the ads organization. You have a strong understanding of experimentation, are not afraid to challenge the status quo, and thrive in a cross-functional environment.  
+Responsibilities:
+Elevate the experimentation practice for the Ads org by creating the right processes, templates and tools catered for ads use cases.
+Lead an experimentation council that can approve/guide experiment designs for various product launches.
+Explore new experiment designs/techniques such as budget split experiments, switchback testing, small sample enhancements, Bayesian approaches, causal inference methodologies, dosage response studies, staggered experiments etc and apply them successfully for complex experiments on the ads side of the business.
+Liaise with the centralized experimentation team in building platform features to accelerate ads experimentation.
+Guide various ads product teams in understanding network effects and novelty effects when running experiments.
+Track and own the experiment calendar for the ads org. Run weekly experiment review discussions.
+Create frameworks for making metric trade-off decisions, especially when they span multiple organizations (e.g. ads vs consumer metric tradeoffs).
+Required Qualifications:
+Master’s or PhD degree in a quantitative major (e.g., mathematics, statistics, economics, finance, computer science). 
+4 years of experience with experimentation, preferably for a consumer-facing service/app.
+6+ years of experience in quantitative/modeling roles.
+Proficiency with statistical analysis and programming languages (Python, SQL).
+Understanding of experimentation and causal inference techniques.
+Experience with digital advertising is preferred, but not required.
+Benefits:
+Comprehensive Health benefits
+401k Matching 
+Workspace benefits for your home office
+Personal & Professional development funds
+Family Planning Support
+Flexible Vacation & Reddit Global Days Off
+4+ months paid Parental Leave  
+Paid Volunteer time off
+Pay Transparency:
+This job posting may span more than one career level.
+In addition to base salary, this job is eligible to receive equity in the form of restricted stock units, and depending on the position offered, it may also be eligible to receive a commission. Additionally, Reddit offers a wide range of benefits to U.S.-based employees, including medical, dental, and vision insurance, 401(k) program with employer match, generous time off for vacation, and parental leave. To learn more, please visit https://www.redditinc.com/careers/.
+To provide greater transparency to candidates, we share base pay ranges for all US-based job postings regardless of state. We set standard base pay ranges for all roles based on function, level, and country location, benchmarked against similar stage growth companies. Final offer amounts are determined by multiple factors including, skills, depth of work experience and relevant licenses/credentials, and may vary from the amounts listed below.
+The base pay range for this position is: $198,200 - $297,300.
+#LI-Remote #LI-NH1Reddit is committed to providing reasonable accommodations for qualified individuals with disabilities and disabled veterans in our job application procedures. If you need assistance or an accommodation due to a disability, please contact us at ApplicationAssistance@Reddit.com.
+

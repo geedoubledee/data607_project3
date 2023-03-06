@@ -1,0 +1,33 @@
+
+Passionate about precision medicine and advancing the healthcare industry?
+Recent advancements in underlying technology have finally made it possible for AI to impact clinical care in a meaningful way. Tempus' proprietary platform connects an entire ecosystem of real-world evidence to deliver real-time, actionable insights to physicians, providing critical information about the right treatments for the right patients, at the right time.
+We are looking for a Data Scientist to join our Tempus AI Advisors Program (TAAP) team.
+In this role, the successful candidate will work closely with business development, translational science, data operations, and data science teams to explore Tempus’s Data, create cohorts for biomarker development projects, and scale our analytical workflows to help deliver data more effectively to our academic research partners. As such, the candidate will get a chance to work with one of the largest molecular and clinical databases of cancer patients in the world, learn about genomic data science and standardize our documentation/communication tools.
+What you’ll do:
+Become an expert in Tempus multimodal clinical and genomic data
+Leverage Tempus's multi-modal data to identify patient cohorts for academic research partners who are building new machine learning enabled biomarkers.  
+Drive customer-focused improvements to the Tempus data model by collaborating with Tempus’ Data Science, Model Query, and Engineering teams
+Partner with the RWD Engineering team to design and implement OCR/NLP models for prospective cohort generation
+Collaborate with Research, Engineering & Data Science teams to develop and deliver innovative database solutions
+Document, summarize, and communicate data model, highly technical results, and methods to external technical and non-technical audiences.
+Base Qualifications:
+Master's Degree or real work equivalent in data science, computer science, analytical or healthcare informatics, statistics, genetics, or another related STEM field
+3+ years of relevant work experience, preferably involving work with Life Science or Healthcare data an analytical or consulting role within or in support of the Life Sciences or Healthcare industry
+Strong command of SQL and/or other scripting languages to retrieve data from various bioinformatics databases
+Good data visualization skills and familiarity with R data visualization packages
+Excellent project management skills, with proven ability to execute complex projects with multiple cross-functional stakeholders
+Experience with engineering practices for research computing (Docker, Git, and Github, code review, Linux, cloud computing)
+Thrive in a fast-paced environment and be willing to shift priorities seamlessly
+Demonstrate Tempus’ values by acting with integrity, respect and trust
+Preferred Qualifications:
+Experience collaborating and leading cross-functional teams 
+A proactive mindset that can operationalize implementable solutions, and can help move both internal and external stakeholders to quickly solve problems
+Highly analytical, entrepreneurial, and self-motivated
+Solution-oriented mindset
+Experience in real-world data and/or next-generation sequencing market 
+Genomic data background and experience
+Experience with AWS and/or Bigquery and/or Google Cloud Platform (GCP)
+
+#LI-SH1
+#LI-HybridThe expected salary range below is applicable if the role is performed from [New York] and may vary for other locations. Actual salary may vary based on qualifications and experience. Tempus offers a full range of benefits, which may include incentive compensation, restricted stock units, medical and other benefits, depending on the position.New York Pay Range$120,000—$160,000 USDWe are an equal opportunity employer. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.
+

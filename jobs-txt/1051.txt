@@ -1,0 +1,23 @@
+
+About the role
+HashiCorp is looking to hire a Senior Analytics Engineer to help our internal HashiCorp audience discover, access, and leverage operational data to drive our market analysis and help our business and customers grow. This role reports into the Business Operations and Marketing function of the business. 
+As HashiCorp and Marketing grow in organizational complexity, we are building a standardized analytics system to provide the necessary insights and whitespace to influence business decisions, whether it’s pricing and packaging simulations or figuring out where to invest marketing resources. This requires a curious self-starter who is well versed in consolidating data across multiple sources, validating, presenting, and sharing insights across teams. 
+In this role, you can expect to:
+Develop, construct, test, and maintain views in our core Go to Market data mart
+Build automated tools and dashboards that monitor our core KPIs across various business and functional units 
+Provide deep-dive analysis to drive business decisions
+Contribute to the design and implementation of standardized data models, validation processes, and self-service tools
+Interface directly with internal analytics teams and functional business units
+You may be a good fit if:
+4+ years of experience in data-centric roles.
+You are highly proficient writing SQL against a Data Warehouse and building clean, informative dashboards using a BI tool such as Looker or Tableau.
+You’ve written modular, version-controlled analysis code in a general purpose programming language like Python, R, or Javascript.
+you have built and maintained fast, scalable, and reliable data pipelines
+You have experience with tools similar to Segment, Looker, Heap, Snowflake, Redshift, FiveTran, dbt.
+You are familiar with best practices for how analytics teams operate at a global scale.
+You have prior experience working in high performance federated systems 
+Colorado, California, Washington and New York City Applicants: To view base salary ranges for this role in your location and to learn more about which roles are eligible for bonus pay or commissions, please visit our Pay Transparency Calculator below. Individual pay within the range will be determined based on job related-factors such as skills, experience, and education or training. Information on our benefits can be found via the link below. Intern ranges can be found below.
+Pay Transparency Calculator: https://bit.ly/3B7gwql
+Benefits: https://www.hashicorp.com/careers/benefits
+Intern Ranges: https://bit.ly/3H2soha
+

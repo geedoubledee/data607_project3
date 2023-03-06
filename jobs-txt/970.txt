@@ -1,0 +1,37 @@
+
+
+OANDA is a global leader in online multi-asset trading services, currency data, corporate payments and FX services.
+Everyone at OANDA is focused on our vision to transform how our customers can meet all their currency needs. From our roots in 1996 that provided free currency exchange information to launching a multi-award winning global FX and CFD trading business to our recent new venture of money transfer. OANDA is now a major global player.
+Join us and: 
+Work on an award-winning platform that processes billions of dollars every day.
+Be on a team that’s responsible for company-wide top priority projects.
+Deliver reliable software on an agile team striving for continuous integration, automated testing, and code reviews.
+Contribute innovative ideas to improve the daily trading experience of thousands of customers.
+Improve yourself and your team through education and continuous learning.
+Our Team:
+Is part of a cross-functional data team made up of data scientists, data and software architects, software engineers, and business reporting analysts spanning the globe
+Has ownership over data company-wide, from analytics to global business reporting
+Manages the entire data lifecycle from extraction to visualization
+Works in SQL, Python, R, scikit-learn, Google Cloud, BigQuery, and we are always prototyping new technologies!
+By the end of 3 months you will:
+Build statistical, predictive, and machine learning models
+Collection, review, perform cleansing, and reporting of data
+Help our Marketing, Strategy, Product, Sales, Customer Service, and Trading teams drive growth in the business
+Develop data-oriented solutions to help solve complex business problems
+Create reporting and visualizations and educate the company on your findings
+Take part in planning sessions, where we develop use cases and requirements for analytical solutions based on data
+ Requirements:
+Advance skills in computer science, statistical modelling, or related fields
+Data science machine learning experience
+Advance skills in using Python, SQL, databases
+Advance skills in data visualization tools (PowerBI, Tableau, Domo)
+Advance skills in data modeling, ETL development, and data warehousing
+Advance skills in time series modeling, developing custom algorithms, and Machine Learning
+Experience with GCP/AWS/Azure, Docker and Kubernetes
+Following qualifications are beneficial:
+Experience with Big Data technologies (such as Spark), and unstructured data, preferred
+Proficient with data analysis and modeling software such as R is preferred 
+Learn more about our culture here
+OANDA Global Corporation is a diverse and global team with offices around the world. We value the unique skills and experiences each individual brings to OANDA. We are committed to creating and sustaining a collegial work environment in which all individuals are treated with dignity and respect and one which reflects the diversity of the community in which we operate. We provide an inclusive and accessible environment for everyone. Candidates selected for an interview will be contacted directly. If you require accommodation during the recruitment and selection process, please let us know. We will work with you to provide as seamless a recruitment experience as possible.
+Instagram | Twitter | LinkedIn | YouTube
+

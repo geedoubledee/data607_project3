@@ -1,0 +1,30 @@
+
+Who We Are
+Nuro exists to better everyday life through robotics. The company’s custom electric autonomous vehicles are designed to bring the things you need—from produce to prescriptions—right to your home. Nuro’s autonomous, goods-focused solution can give you valuable time back and more freedom to do what you love. This convenient, eco-friendly alternative to driving has the potential to make streets safer and cities more livable. 
+About the Role
+As a Sr. Product Manager in Nuro’s Autonomy organization, your mandate is to accelerate the pace at which Nuro develops and ultimately deploys its autonomous driving technology.
+The Product Management team is small, nimble, and focused on driving high-impact initiatives and new projects rather than the day-to-day direction of software development. As a result, the role demands technical fluency, a high degree of self-direction, and a strong sense for value and prioritization.
+About the Work
+Inform the autonomy roadmap. You understand how our autonomy software capabilities and limitations impact our commercial operations. You use your understanding of the big picture to define and prioritize the capabilities we need.
+Build our understanding of autonomy difficulty. You define a data-driven set of factors that capture the difficulty of any given scenario and drive usage across validation, mileage collect, and operational deployment.
+Evaluate our capabilities before deployment. You build processes to test our autonomy software against real-world behavior to determine whether we are ready for launch.
+Bring clarity to how robots ought to behave. You figure out how our robots should ideally behave in the many diverse situations they encounter. You devise scalable methods of evaluating whether or not they are behaving ideally in practice, along with the feedback loops for continuous improvement.
+Enable expansion to new geographies. Proactively identify and help solve challenges we will face in deploying autonomous vehicles in new geographies.
+Requirements
+3-4+ years of product management or engineering technical leadership experience
+Experience defining requirements, prioritizing roadmap, and launching new products
+Proven ability to work across multiple interdisciplinary teams 
+Deep problem solving, analytical and quantitative skills with the ability to use data to back up assumptions and evaluate outcomes
+Experience with originating and launching net new products 
+Nice to Haves
+Experience developing one or more of the following kinds of products:
+Safety-critical systems that require significant testing & validation
+“Hard Tech” products that have significant HW and SW components (Robotics, Aerospace, AR/VR, Computer Vision, IoT)
+Routing, mapping, and navigation systems
+Complex ML models 
+Knowledgeable in technology development and product management best practices
+Excellent written and verbal communications to technical and non-technical stakeholders
+Entrepreneurial spirit with track record for delivering results in fast-paced environments 
+At Nuro, your base pay is one part of your total compensation package. For this position, the reasonably expected base pay range is between $152,000 and $228,000 for the level at which this job has been scoped. Your base pay will depend on several factors, including your experience, qualifications, education, location, and skills. In the event that you are considered for a different level, a higher or lower pay range would apply. This position is also eligible for an annual performance bonus, equity, and a competitive benefits package.
+At Nuro, we celebrate differences and are committed to a diverse workplace that fosters inclusion and psychological safety for all employees. Nuro is proud to be an equal opportunity employer and expressly prohibits any form of workplace discrimination based on race, color, religion, gender, sexual orientation, gender identity or expression, national origin, age, genetic information, disability, veteran status, or any other legally protected characteristics.You must be fully vaccinated against COVID-19 by your hire date to be eligible to start the role. Proof of vaccination will be required by your start date. Nuro will consider and review accommodation requests based on medical, religious, or other grounds as required by applicable law for qualified candidates.
+

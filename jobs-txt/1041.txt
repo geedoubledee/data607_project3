@@ -1,0 +1,29 @@
+
+Who We Are
+Verily is a subsidiary of Alphabet that is using a data-driven approach to change the way people manage their health and the way healthcare is delivered. Launched from Google X in 2015, Our purpose is to bring the promise of precision health to everyone, every day. We are focused on generating and activating data from a variety of sources, including clinical, social, behavioral and the real world, to arrive at the best solutions for a person based on a comprehensive view of the evidence. Our unique expertise and capabilities in technology, data science and healthcare enable the entire healthcare ecosystem to drive better health outcomes.Description
+Our team is part of the larger Pathology efforts at Alphabet, and we combine the latest in machine learning (ML) research with life sciences domain expertise and Google’s infrastructure to create innovative solutions and bring them to the world. The candidate would be working in collaboration with Verily's microscopy, science, and clinical teams, and would build models and develop tools to diagnose and determine the best treatment regimen for various diseases. 
+Responsibilities
+Work as an independent data scientist through the entire cycle of model generation, from study design, data collection and annotation, contributing to ML infrastructure, building and deploying AI/ML models, and analyzing Verily’s and public datasets to obtain insights to drive future directions. 
+Collaborate and communicate with a dynamic cross org group of various stakeholders, including software engineers, hardware engineers, program manager, clinicians, pathologists, and partners. 
+Actively participate in scoping requirements and research directions, planning activities, designing experiments, managing priorities, and proactively suggest improvements.
+Follow scientific literature, attend scientific conferences, and present recent findings to the Verily data science community.
+Qualifications
+Minimum Qualifications:
+PhD degree in machine learning, bioinformatics, statistics, applied mathematics or related disciplines, with 5+ years of industry experience / Masters with 8+ years of industry experience. 
+Experience with developing machine learning algorithms, using both standard (SVMs, random forests etc.) and deep learning approaches.
+Strong background in statistics.
+Experience with programming and scientific computation using Python.
+Preferred Qualifications:
+Experience in working with large datasets, ideally in a cloud environment.
+Strong background in image processing and analysis (segmentation, object identification and quantification, registration, denoising, normalization, feature extraction, etc.).
+Strong publication record.
+Excellent communication skills.
+Ability to utilize a collaborative approach to solving problems. 
+The US base salary range for this full-time position is $140,000 - $205,000 + bonus + equity + benefits. Our salary ranges are determined by role, level, and location. The range displayed on each job posting reflects the minimum and maximum target for new hire salaries for the position across all US locations. Within the range, individual pay is determined by work location and additional factors, including job-related skills, experience, and relevant education or training. Your recruiter can share more about the specific salary range for your preferred location during the hiring process.
+Please note that the compensation details listed in US role postings reflect the base salary only, and do not include bonus, equity, or benefits.
+Why Join Us
+Build What’s Vital.
+At Verily, you are a part of something bigger. We are a diverse team of builders innovating at the intersection of health and technology—united by a shared spirit of curiosity, resilience and determination to make better health possible for all. This builder mindset means your fingerprints will be on the work that shapes the future of health. Fulfilling our precision health purpose starts with the health of our Veeps (what we call our employees), which is why we offer flexibility, resources, and competitive benefits to support you in your whole-person well being. We believe diversity of thought drives innovation—we unite the brightest minds, and encourage all Veeps to bring their lived experience to work with them.
+If this sounds exciting to you, we would love to hear from you.
+You can find out more about our company culture on our LinkedIn Company Page and Verily Careers page. 
+

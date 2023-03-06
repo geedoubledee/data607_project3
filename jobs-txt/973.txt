@@ -1,0 +1,53 @@
+
+Our Mission
+To restore cell health and resilience through cellular rejuvenation programming to reverse disease, injury, and the disabilities that can occur throughout life.
+For more information, see our website at altoslabs.com.
+Diversity at Altos
+We believe that diverse perspectives are foundational to scientific innovation and inquiry. 
+We are building a company where exceptional scientists and industry leaders from around the world work side by side to advance a shared mission. 
+Our intentional focus is on Belonging, so that all employees know that they are valued for their unique perspectives. 
+At Altos, we are all accountable for sustaining a diverse and inclusive environment.Who You Are
+Proven track record leveraging machine learning to solve real-world problems;
+Expertise in a subset of the following: deep learning, reinforcement learning, generative models, language models, computer vision, Bayesian inference, causal reasoning & inference, transfer & multi-task learning, graph neural networks, active learning, hybrid mechanistic/ML models;
+Expertise in computational infrastructure for deep learning, including GPUs, TPUs, cloud-based machine learning;
+Experience with modern machine learning frameworks like PyTorch, TensorFlow, or similar;
+Excellent communicator, both 1:1 and as a presenter to multi-faceted audiences. Ability to communicate technical concepts to people less familiar with the field;
+Brings a can-do attitude that approaches problems and opportunities with curiosity and creativity;
+Attentive to detail with excellent time management, multi-tasking, and prioritization skills;
+Thrives in collaborative environments, thinks pragmatically, works flexibly, and uses good judgment;
+Committed to contributing to making the work environment inclusive and enabling colleagues to contribute to their full potential in pursuit of the organizational objectives;
+Excitement about the Altos mission of investigating cellular rejuvenation programming to restore cell health and resilience, with the goal of reversing disease to transform medicine;
+Deep analytical thinker and problem solver;
+Team player - enjoys working on larger efforts with others and puts the success of their team above their own;
+Growth mindset - the desire to constantly expand your skillset and knowledge. Keen to learn more about biology, computational science, and medicine;
+Bonus: Experience in cell health and rejuvenation-related research area;
+Bonus: Experience in the application of machine learning methods to biological data;
+Bonus: Experience in computational approaches to drug discovery;
+Bonus: Proven track record in open-source software development, e.g., demonstrated by high-impact GitHub repository;
+Bonus: Proven track record of high-caliber scientific work, e.g., demonstrated through publications in peer-reviewed scientific journals.
+Responsibilities
+Implement large-scale machine learning algorithms and systems and their application to biological datasets;
+Preprocess and clean data for machine learning model input;
+Train and optimize machine learning models on large, complex datasets;
+Develop new statistical and machine learning-based methods for analyzing biological data to produce biological insights about cell health and rejuvenation;
+Partner with world-class biologists across Altos to help generate biological insights with the goal of developing therapies;
+Help create machine learning-based computational tools to support biological and biomedical research at Altos;
+Bring computational thinking to bear on Altos’ mission and challenges, ranging from modeling biological phenomena to supporting Altos's research process and culture at Altos through computation and AI;
+Continuously learn and stay up-to-date on the latest developments in deep learning for biological discovery.
+Qualifications
+Masters or Ph.D. degree in Computer Science or a related field, with the publication track record;
+Very strong programming skills, including experience with Python and deep learning libraries such as TensorFlow or PyTorch;
+Strong understanding of machine learning concepts, including model training, generalization, and optimization;
+Experience with machine learning and deep learning applied to noisy large-scale real-world datasets;
+Experience with large-scale tabular, image, and sequence data;
+Experience with distributed machine learning.
+We are open and interested in having people at varying levels of experience:
+The salary ranges for this position are: Senior ML Engineer £83,300 to £112,700; Staff ML Engineer £100,300 to £135,700; Senior Staff ML Engineer £119,000 to £161,000.
+#LI-LY1What We Want You To Know 
+We are a culture of collaboration and scientific freedom, and we believe in the values of diversity, inclusion and belonging to inspire innovation.
+Altos Labs provides equal employment opportunities to all employees and applicants for employment and prohibits discrimination and harassment of any type without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state or local laws. 
+This policy applies to all terms and conditions of employment, including recruiting, hiring, placement, promotion, termination, layoff, recall, transfer, leaves of absence, compensation and training. 
+Altos currently requires all employees to be fully vaccinated against COVID-19, subject to legally required exemptions (e.g., due to a medical condition or sincerely-held religious belief).
+Thank you for your interest in Altos Labs where we strive for a culture of scientific freedom, learning, and belonging.
+Note: Altos Labs will not ask you to download a messaging app for an interview or outlay your own money to get started as an employee. If this sounds like your interaction with people claiming to be with Altos, it is not legitimate and has nothing to do with Altos. Learn more about a common job scam at https://www.linkedin.com/pulse/how-spot-avoid-online-job-scams-biron-clark/
+

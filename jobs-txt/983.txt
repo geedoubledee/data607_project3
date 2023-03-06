@@ -1,0 +1,38 @@
+
+Your work will change lives. Including your own. 
+At Recursion, we combine experimental biology, chemistry, automation and artificial intelligence to quickly and efficiently identify treatments for diseases. We generate a wide variety of data across different biological and chemical domains, and build models off of that data. Reporting to the Director of Engineering for this group, the ML Platform Engineering Manager will work to provide first-in-class capabilities and infrastructure that accelerate and enable machine learning across the business.
+ 
+The Impact You’ll Make
+Develop and implement an automated framework for identifying, classifying and protecting the data assets of the company from current and emerging threats.
+Build and implement data protection capabilities including cryptographic methods, Data Loss Prevention and DRM/IRM methodologies and tools as appropriate
+Ensure the data security techniques scale  appropriately with the volume of the data we generate.
+Partner with multiple teams for data integration points to discover key system attributes from each tool/system  
+Monitor the health of data pipelines using various tools and techniques to test reliability and validate data integrity, confidentiality and availability.
+Identify and report on data security anomalies and partner with other teams to remediate as required,
+ 
+The Team You’ll Join 
+You will be joining a growing IT and Information Security team at Recursion,focused on securely implementing and operating our systems, IT Infrastructure, tools and technologies that enables Recursion to decode biology by running experiments at scale from experiment conception through successful execution. You'll collaborate with your teammates and across departments to agree on what the most important challenges and capabilities are, then figure out how to get us there.
+The Experience You’ll Need
+Convey security concepts to non-technical audiences (e.g. senior and executive management, internal customers)
+10+ years of hands-On Experience with encryption, hashing and other data protection techniques. Data Loss Prevention and IRM/DRM tools. 
+8+ years of experience with Security Event Information Management systems (SIEM), and Log Aggregation systems - Splunk or Google Chronicle experience
+10+ years of experience with the security architecture of a major cloud Infrastructure platform (AWS, GCP, Azure), Operating systems (Linux and Windows), Databases, Containers, IAM, Directory services, Endpoints, Network amongst others.
+15+ years of of Enterprise IT experience in mid-size or larger organization preferably in the Pharma/BioTech space
+Perform network forensics and ability to read packet captures
+Proficient in performing Open Source Intelligence gathering
+Working knowledge of industry standards – NIST Cyber Security Framework, NIST SP 800-53, ISO 27001/2, Cloud Security Alliance or Privacy Shield
+Support decisions that balance Cybersecurity with ease-of-use
+ 
+#LI-BW1
+#LI-REMOTEThe Values That We Hope You Share:
+We Care: We care about our drug candidates, our Recursionauts, their families, each other, our communities, the patients we aim to serve and their loved ones. We also care about our work.
+We Learn: Learning from the diverse perspectives of our fellow Recursionauts, and from failure, is an essential part of how we make progress.
+We Deliver: We are unapologetic that our expectations for delivery are extraordinarily high. There is urgency to our existence: we sprint at maximum engagement, making time and space to recover. 
+Act Boldly with Integrity: No company changes the world or reinvents an industry without being bold. It must be balanced; not by timidity, but by doing the right thing even when no one is looking.
+We are One Recursion: We operate with a 'company first, team second' mentality. Our success comes from working as one interdisciplinary team.
+Recursion spends time and energy connecting every aspect of work to these values. They aren’t static, but regularly discussed and questioned because we make decisions rooted in those values in our day-to-day work. You can read more about our values and how we live them every day here.
+More About Recursion 
+Central to our mission is the Recursion Operating System, or Recursion OS, that combines an advanced infrastructure layer to generate what we believe is one of the world’s largest and fastest-growing proprietary biological and chemical datasets and the Recursion Map, a suite of custom software, algorithms, and machine learning tools that we use to explore foundational biology unconstrained by human bias and navigate to new biological insights which may accelerate our programs. We are a biotechnology company scaling more like a technology company. Recursion is proudly headquartered in Salt Lake City. 
+Learn more at www.recursion.com, or connect on Twitter and LinkedIn.
+Recursion is an Equal Opportunity Employer that values diversity and inclusion.  All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability, veteran status, or any other characteristic protected under applicable federal, state, local, or provincial human rights legislation. 
+

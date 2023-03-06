@@ -1,0 +1,50 @@
+
+Ridgeline is the industry cloud platform for investment management – the single source of truth with data integrated in real-time across the front, middle, and back office. We are the hub of operations for investment management firms, which necessitates instantaneous delivery of complex data and integrations across ancillary services that allow investment managers to get their jobs done.
+As a Ridgeline Staff Software Engineer, Data & Connectivity, you’ll work closely with the Engineering and Product Management teams to define and execute the vision to build multiple data transformation and data streaming services as a core part of the Ridgeline system. You will have the unique opportunity to build high-quality, creative business applications in a fast-moving, progressive work environment. You’ll think outside the box and add your own genius, passion, and interests to the software development lifecycle, leaving a legacy in an industry primed for change.
+What will you do?
+Guide technology decisions for data pipelines that consume financial data and tie the Ridgeline platform into the investment management ecosystem
+Deliver a data network that connects hundreds of financial institutions for data aggregation, reporting, analytics, and automated fund reconciliation
+Have end-to-end responsibility for technical facets and flow of data in a complex system, including the product, infrastructure, security, and quality
+Impact a developing tech stack based on modern front-end frameworks and cost-efficient utilization of AWS back-end services
+Contribute business insight, design skills, and technical expertise to a team where design, strategy, and engineering collaborate closely
+Be involved in the entire software development process, from requirements and design reviews through the implementation of a new product 
+Identify emerging technologies, champion them, and incorporate them into our best-of-breed products
+Participate in the creation and construction of developer-based automation that leads to scalable, high-quality applications customers will depend on to run their businesses
+Think creatively, own problems, seek solutions, and communicate clearly along the way
+Contribute to a collaborative environment deeply rooted in learning, teaching, and transparency
+Demonstrate a strong dedication to code quality, automation, and operational excellence using unit/integration/component tests and workflows
+ 
+Desired Skills and Experience
+ 
+7+ years in a software engineering position or similar function, with a history of architecting and designing new products and technologies
+A degree in Computer Science, Information Science, or a related discipline
+Mastery of data structures, algorithms, and architectural patterns
+Expertise in one or more of the following languages: Python, Java, Kotlin
+Working knowledge or expertise in JavaScript, TypeScript, HTML, CSS, React
+Experience  using frameworks such as Hibernate and Spring
+Strong  background in designing data models for both relational and NoSQL databases
+Designing scalable, durable, and highly available microservices
+Practiced at performance monitoring, identifying issues, and  relieving bottlenecks
+Willingness to learn about new technologies while simultaneously developing expertise in a business domain/problem space
+Ability to focus on short-term deliverables while maintaining a big-picture perspective
+An aptitude for problem-solving
+Ability to communicate effectively with colleagues at all levels and all audiences
+A serious interest in having fun at work
+Nice-to-Haves
+Experience building responsive Web interfaces using frameworks such as React and Redux
+In-depth experience  with database engines such as MySQL, Postgres, Oracle, DynamoDB, MongoDB, Redis
+Understanding of building back-end infrastructure using AWS offerings such as Aurora, Lambda, S3, Aurora, Lambda, S3, ECS, Fargate, ElastiCache, and API Gateway
+Experience with agile development methodologies
+Background in design, economics, or business 
+Involvement in writing ETL or integrating with products such as Workato. 
+About Ridgeline:
+Ridgeline is the industry cloud platform for investment management. It was founded in 2017 by visionary entrepreneur Dave Duffield (co-founder of both PeopleSoft and Workday) to address the unique technology challenges of an industry in need of new thinking. We are building a modern platform in the public cloud, purpose-built for the investment management industry to empower business like never before. 
+Headquartered in Lake Tahoe with offices in Reno, Manhattan, and the Bay Area, Ridgeline is proud to have built a fast-growing, people-first company that has been recognized by Fast Company as a “Best Workplace for Innovators,” by LinkedIn as a “Top U.S. Startup,” and by The Software Report as a “Top 100 Software Company.”
+Ridgeline is proud to be a community-minded, discrimination-free equal opportunity workplace.
+Ridgeline processes the information you submit in connection with your application in accordance with the Ridgeline Applicant Privacy Statement. Please review the Ridgeline Applicant Privacy Statement in full to understand our privacy practices and contact us with any questions.
+Compensation and Benefits 
+[For New York and California Based Only]
+The cash compensation amount for this role is targeted at $160,000-$180,000 for individuals based in New York and California. Final compensation amounts are determined by multiple factors, including candidate experience and expertise, and may vary from the amount listed above. 
+As an employee at Ridgeline, you’ll have many opportunities for advancement in your career and can make a true impact on the product. 
+In addition to the base salary, 100% of Ridgeline employees can participate in our Company Stock Plan subject to the applicable Stock Option Agreement. We also offer rich benefits that reflect the kind of organization we want to be: one in which our employees feel valued and are inspired to bring their best selves to work. These include unlimited vacation, educational and wellness reimbursements, and $0 cost employee insurance plans. Please check out our Careers page for a more comprehensive overview of our perks and benefits.
+

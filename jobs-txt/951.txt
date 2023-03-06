@@ -1,0 +1,47 @@
+
+ProCogia is a data consulting firm headquartered in Vancouver, BC with employees and clients across the United States and Canada. We specialize in Data Operations, Data Engineering, BI & Analytics, Data Science & Bioinformatics across a broad range of industries including Telecom, Pharma, Biotechnology, Retail, Logistics, Technology, Financial Services, Media & non-profit. We are a technology-agnostic firm giving us a client-first, independent approach towards delivering our Data solutions.
+We’re a diverse, close-knit team with a common pursuit of providing top-class, end-to-end data solutions for our clients. In return for your talent and technical expertise, you will be rewarded with a competitive salary, generous benefits along with ample opportunity for personal development. ‘Growth mindset’ is something we seek in all our new hires and has helped drive much of our recent growth across North America. Our distinct approach is to push the limits and value derived from data. Working within ProCogia’s thriving environment will allow you to unleash your full career potential.
+ProCogia has experienced considerable growth over the last two years & core to our culture is maintaining a high-level of gender equality throughout the company. Our diversity and differences allow us to create innovative and effective data solutions for our clients.
+Our Mission
+We enable our customers to make intelligent and agile decisions through strategically tailored data solutions. We attract, develop and retain diverse, motivated and collaborative team players who love what they do. 
+Our Values
+TRUST We build trust in all of our relationships, internally and externally
+GROWTH We believe in life-long learning; both personally and professionally
+INNOVATION Our technology-agnostic & innovative approach enables cutting-edge data solutions
+EXCELLENCE We are committed to delivering excellence in everything we do
+ProCogia Overview
+At ProCogia we’re passionate about developing data-driven solutions that provide highly informed answers to our clients’ most critical challenges. Our projects are varied, from Data Warehouse builds, deploying Cloud Data Solutions, Dashboarding, & building predictive models.
+We work with industry leading clients from various sectors including Pharmaceuticals, Telecommunications, Technology, Financial Services & Retail. Our work environment ensures opportunities to gain valuable experience in various industries enhancing your personal & career development. 
+ProCogia has doubled in size over the last two years & core to ProCogia’s culture is ensuring we maintain a balanced gender ratio. Our diversity, and differences allow us to create innovative and effective solutions for our clients. Job Description
+The Data Science Consultant has the following responsibilities and duties: 
+Maintain client and partner relationships and demonstrate a deep understanding in handling Data Science/Advanced Analytics projects to ensure successful engagements
+Contribute to internal meetings and process improvement projects to drive operational efficiency
+Develop and deploy ML models in a production environment
+Create and support business presentations based on analytic and reporting findings
+Effectively communicate with all levels of the client team to support analytic knowledge, issues, and questions
+Analyze big data to support device technology development, network planning and customer experience optimization
+Stay abreast of industry technology innovations, new business practices, and third-party technology solutions
+ Requirements 
+The Data Science Consultant should have the following skills, education and experience: 
+ Skills
+      Required:
+Ability to multi-task and work well in a fast-changing environment, strong project management, and interpersonal skills
+Demonstrated success in managing the execution of multiple analytic initiatives simultaneously
+Hands on analytic skills to include data manipulation and extraction (Strong SQL, R and/or Python skills)
+Experience designing data science workflows, reports and advances visualizations using various tools like R, Python, Power BI and Tableau
+Familiar with AWS tools and technologies
+2-3 years working as part of a technical team
+      Preferred:
+Experience with Big Data Technologies (Hadoop, Kafka, etc)
+Experience handling complex data sources or streaming data in Spark (Spark, PySpark, SparkR, etc)
+Experience delivering products with Agile methodologies
+AWS certifications a plus
+ Education
+      Required:
+Bachelors in a quantitative field such as statistics, mathematics, engineering, computer science or other related disciplines
+      Preferred:
+Masters or PhD in a quantitative field such as statistics, mathematics, engineering, computer science or other related disciplines 
+Experience 
+An experienced professional will have at least 3 years of professional experience in a data related role with a Masters Degree or 5 years of experience in a data related role with a Bachelors degree
+#LI-REMOTEProCogia is proud to be an equal opportunity employer. We are committed to creating a diverse and inclusive workspace. All qualified applicants will receive consideration for employment without regard to race, national origin, gender, gender identity, sexual orientation, protected veteran status, disability, age, or other legally protected status.
+

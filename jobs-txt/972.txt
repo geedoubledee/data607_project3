@@ -1,0 +1,33 @@
+
+We are looking for a Data Engineer for the core of our application. We are looking for a generalist software developer who loves learning new things and facing new challenges but we also value if you have some deep experience in specific topics such as scalability, XP practices, algorithms, web development, etc.
+
+At Nextail, you will be part of a cross-functional and autonomous team where you will build cloud components for the company.
+We love developers with a strong Product and Agile mindset who values good technical practices. Developers who are eager to learn new things and face new challenges of usability and scalability. Developers who enjoy staying close to Production, doing continuous deployment with special care on quality. We are a remote company, but you can also work in Madrid offices. At the moment, we are only seeking candidates in Europe (UTC+02:00 or similar).
+Our team:
+
+You will be part of the Integrations team where you and your colleagues will be responsible for embedding the client's data into Nextail's system, as well as sending data to their systems. The squad's mission is to evolve the integration module to be more scalable and efficient.
+
+Some of the coworkers from our teams are:
+
+Rosa Ferrando (Software Engineer)
+David Macia (Data Engineer)
+Ramón Campos (Software Engineer)
+
+We offer:
+
+A highly innovative and fast-paced environment. As in any startup, expect to find a team with an interesting mix of business profiles (without the slides), IT geeks, data scientists, and as a fashion tech startup, a few fashion victims.
+The satisfaction of delivering something new to the world that will have a strong impact both on retailers’ top line and on customer satisfaction. Contribute to the development of cutting-edge artificial intelligence & machine learning technologies that will build the next generation of retail systems.
+The opportunity to work with top client decision-makers in the fashion retail industry and sharpen your business reasoning and interpersonal skills. Learn from peers from top consulting firms and the best global business schools.
+High flexibility: We’re strong believers that what matters most are results. Each Nextailer is empowered, through trust and ownership, to organize their time as they see fit without jeopardizing the time or work of their colleagues.
+Remote and relationships first Nextail has been a remote-first company since its beginnings. Yet we believe in the power of direct human interaction. Therefore teams gather in person on a quarterly basis and the Nextail house in the center of Madrid is open all year long to all Nextailers. Periodic company get-togethers to meet the rest of the team.
+International environment: We operate across the globe, with recent operations reaching from Europe all the way to Australia, and our team alone consists of professionals of more than 23 different nationalities. While many of us are multilingual, our working language is English.
+Diversity on all levels: United as a single team, we celebrate diversity at every dimension*. Professionally speaking, are you ready to work alongside tech geniuses, data science magicians, and fashionistas? You’ll have teammates with extensive experience in a wide variety of professional fields, including technology, retail, consulting and entrepreneurship.
+Performance allowance: To let people perform at their best, each Nextailer has an annual performance allowance of 1,000 EUR as well as 2 days off for professional development. You’ll be provided with a laptop of your choice so you can work with the tools that are most comfortable for you!
+Flexible compensation plan: We offer a fixed (€ 50k - 60k approx) + variable salary as well as company equity.
+Requirements
+First of all, we are looking for a good workmate to join the team. We value working in a safe and constructive environment where everybody can thrive over any specific technical skill. 
+In our team you will also find people focused on generating an impact in the company, rather than just taking on new task to develop. We expect that the person who joins us is as excited about this bias towards impact and action as we are. 
+You will:
+Take ownership of features from design to operationIncrease the reliability of our software continuouslyParticipate in the development, deployment, and maintenance of multiple Data Pipelines.Work in a full cloud environment and with the top technologies.Implement KPIs and metrics to measure the performance and the impact our solutions have on the business.Encourage good technical practices in the squad.Participate in the decision-making process of your product together with the Product Manager.
+You bring:
+Practical experience with complex ETL processes and KPIsExperience scaling data pipelined algorithms.Professional experience with AWS or Google Cloud or Azure.Strong experience with large analytical and transactional databases.Experience with software monitoring tools.Big data framework (Hadoop, Spark, Flink, Dbt, Apache Kafka)Container technologies (Docker, schedulers, orchestration, repositories)XP practicesCI and CD practicesAnother backend / systems language (Pyhton, Java)

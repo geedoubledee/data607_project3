@@ -1,0 +1,63 @@
+
+About MOLOCO
+Moloco’s goal is to make the digital economy more equitable and profitable by delivering advanced machine learning to companies of all sizes. With Moloco’s machine learning platform for growth and performance, every app publisher and online retailer can now unlock the value of their unique, first-party data for user acquisition, retention, and monetization campaigns. 
+Founded in 2013, our advanced machine learning engine powers our product portfolio. Moloco Cloud DSP enables performance marketers to quickly scale user acquisition and achieve greater lifetime value through battle-tested prediction models. Moloco Retail Media Platform enables online retailers and marketplaces to establish their own performance ads business. 
+Our technology is best in class; we received the SMARTIES X silver award for Machine Learning and AI, and Moloco was named the Cross-Industry Winner for Google Cloud Customer Awards. 
+The company is in hyper-growth mode and we ranked #95 in the Inc. 5000 fastest-growing private companies for 2022. We ranked #91 among Deloitte’s 2021 Fast 500 and have been certified by 91% of the company via Great Places to Work. 
+It’s a great time to join this innovative team. Moloco is headquartered in Silicon Valley, with offices in San Francisco, New York, Seattle, London, Seoul, Singapore, Beijing, and Tokyo. For more information, visit www.moloco.com
+About Us:Moloco’s goal is to make the digital economy more equitable and profitable by delivering advanced machine learning to companies of all sizes. With Moloco’s machine learning platform for growth and performance, every app publisher and online retailer can now unlock the value of their unique, first-party data for user acquisition, retention, and monetization campaigns. 
+Founded in 2013, our advanced machine learning engine powers our product portfolio. Moloco Cloud DSP enables performance marketers to quickly scale user acquisition and achieve greater lifetime value through battle-tested prediction models. Moloco Retail Media Platform enables online retailers and marketplaces to establish their own performance ads business. 
+Our technology is best in class; we received the SMARTIES X silver award for Machine Learning and AI, and Moloco was named the Cross-Industry Winner for Google Cloud Customer Awards. 
+The company is in hyper-growth mode and we ranked #95 in the Inc. 5000 fastest-growing private companies for 2022. We ranked #91 among Deloitte’s 2021 Fast 500 and have been certified as a Great Places to Work. 
+It’s a great time to join this innovative team. Moloco is headquartered in Silicon Valley, with offices in San Francisco, New York, Seattle, London, Seoul, Singapore, Beijing, and Tokyo. For more information, visit www.moloco.com
+ 
+The Impact You'll Be Contributing to Moloco:Global Data Analytics (DA) team is a group of analysts and data scientists whose mission is to help customers (advertisers) succeed by providing the right data products in the right way and at the right time. We provide campaign performance management, growth insights, experimentation, and more to help advertisers improve campaign performance and maximize their business goals with Moloco.
+As a Senior Manager / Director of Global DA team, you will: 
+Build and manage regional DA team leads (across multiple time zones based in Redwood City, London, Singapore, and Seoul) and a team of talented analysts and data scientists.
+Ensure your team's work directly impacts achieving advertiser success and satisfaction, covering both reactive & proactive needs, via campaign performance management, growth insights, and related analytics.
+Develop and execute strategies to maximize the global DA team's impact.
+Collaborate with our primary customers in business (Go-to-Market (GTM) team, Sales, and Growth managers) and other cross-functional leads (Product, Data Science, Machine Learning, and Eng) to better achieve the advertiser success.
+Be a key thought partner and leader with cross functional partners and leadership in building the best mobile advertising platform in the world.
+This role is based in Redwood City, CA.
+ 
+QUALIFICATIONSMinimum Requirements:
+Bachelor's degree in engineering, statistics, or related field.
+Strong market and customer (advertiser) oriented leadership and experience, as opposed to being mainly a product/eng-oriented analytical leader.
+10+ years of work experience (industry or postgraduate) in analytics or data science.
+3+ years of experience in a leadership-level position of analytics / data science interacting with Biz / client stakeholders.
+3+ years experience in people managing analysts & data scientists.
+2+ years managing managers.
+2+ experience working in AdTech, working with biz (GTM, sales, growth) teams, while interacting with product, data science, ML, or Eng teams.
+Comfortable managing teams cross-functional and cross-time zones (US, London, and Singapore)
+Excellent verbal and written communication skills, with ability to present information and analysis results effectively to technical and less technical stakeholders.
+Excellent people skills to build and maintain strong professional relationships within analytics as well as with business stakeholders and clients. 
+Demonstrated leadership and self-direction. Willingness to both teach others and learn new techniques.
+Attention to details and ability to drill into high-priority projects and speak to partners and C-levels about it.
+Distinctive problem-solving skills, good at articulating product / business questions, plan analytics projects themselves or delegate effectively.
+Preferred:
+Masters or PhD degree in a quantitative discipline, or equivalent work experience.
+High-level understanding of statistics fundamentals (linear/logistic regression, hypothesis testing and binomial probabilities) and ML fundamentals (overfitting, supervised and unsupervised learnings, and model evaluation).
+Comfortable balancing multiple projects simultaneously and effectively prioritizing work based on business needs. 
+Ability to seek out new business questions and effectively scope projects to support client growth, reengagement and overall campaign strategy and performance. 
+Have an interest in data, metrics, analysis, and trends from the mindset of helping a customer-centric business. Strive simple solutions to complex problems.
+Comfortable with data visualization tools like Looker, Tableau, or Google Sheet.
+ 
+Some of the total rewards we offer…
+Physical Health & Wellness benefits, to support our Moloco employees in making their health and wellness a priority.
+Flexible PTO, so long as you promise to come back!
+Learning & Development - All regular full-time and part-time employees receive an annual learning and development stipend of $2,500 per calendar year.
+Commuter Benefit - All full-time employees are eligible to participate in country-specific transportation benefits.
+WFH - We provide an allowance of $1,000 (based on local currency) to outfit your home office regardless of hybrid or permanently remote employees. 
+Communications reimbursements for phone and internet.
+Got Lunch? We provide country specific lunch stipend benefits
+Virtual initiatives and events to keep you connected with your colleagues.
+Generous Employee Referral Bonus program.
+And much more. Ask your recruiter for a full list of total rewards and benefits specific to your region!
+Moloco is a truly rewarding place to work and in an exciting period of growth, which you could be a part of. Join us today and apply now!
+ 
+Our Compensation And Benefits (for California & New York State Residents Only)
+Base Compensation Range: Min $214,389 - Max $373,381
+In accordance with California & New York state law, the range provided is a reasonable estimate of the base compensation for this role. The actual amount may be higher or lower, based on non-discriminatory factors such as experience, knowledge, skills and abilities. We also offer a competitive benefits package.
+ 
+REF #:
+

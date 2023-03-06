@@ -1,0 +1,49 @@
+
+At Databricks Information Technology, we are a product led organization transforming the way we work from how easy it is to use our IT services to the applications we develop that help us scale seamlessly in face of incredible growth.
+The Data Engineer contributes in technological decisions for business teams' future data and analysis needs. You will support the business's daily operations inclusive of troubleshooting of the business's data warehouse environment and job monitoring. You will guide the business in identifying any new data needs and provide mechanisms for acquiring and reporting such information and addressing the actual needs. The Data Engineer gathers and maintains best practices that can be adopted in big data stacking and sharing across the business. The Data Engineer provides guidance to the business in data analysis, reporting, data warehousing, and business intelligence. You will report to the Director of Business Systems and Data.
+The impact you will have:
+
+Design/Strategy: The Data Engineer participates with design and supports the business's database and table schemas for new and existing data sources for the data warehouse. Create and support the ETL to allow the accommodation of data into the warehouse. In this capacity, the Data Engineer designs and develops systems for maintaining the business's data warehouse, ETL processes, and business intelligence.
+
+
+Collaboration: The role that the Data Engineer plays is collaborative and, as such, works with data analysts, data scientists, and other data consumers within the business in an attempt to gather and populate data warehouse table structure, which is optimized for reporting. The Data Engineer also works with other departments and teams across the business in coming up with simple, functional, and elegant solutions that balance data needs across the business
+
+
+Analytics: The Data Engineer plays an analytical role in quickly and thoroughly analyzing requirements for analysis and subsequently translating the emanating results into good technical data designs. In this capacity, the Data Engineer establishes the documentation of reports and develops technical specification documentation for all reports and processes
+
+What we look for:
+
+3+ years of data analysis and engineering experience
+
+
+Bachelors's degree in Computer Science, Statistics, Informatics, Information Systems or another quantitative field.
+
+
+Experience with big data tools: Hadoop, Spark, Kafka, Spark & Kafka Streaming, Python, Scala, and Talend
+
+
+Advanced working SQL experience working with relational databases, query authoring (SQL) and working familiarity with a variety of databases.
+
+
+Experience building 'big data' data pipelines, architectures and data sets. In-depth knowledge of Model and Design of DB schemas for read and write performance.
+
+
+Working knowledge of API or Stream-based data extraction processes like Salesforce API and Bulk API is must. Experience performing root cause analysis on all data and processes to answer specific questions and identify opportunities for improvement.
+
+
+Build processes supporting data transformation, data structures, metadata, dependency and workload management. A successful history of manipulating, processing and extracting value from large disconnected datasets.
+
+
+Working knowledge of message queuing, stream processing, and scalable 'big data' data stores.
+
+
+Experience with building data pipeline from several business applications like Salesforce, Marketo, NetSuite, and Workday
+
+
+Working knowledge of BI Tools like Tableau or Looker
+
+About Databricks
+Databricks is the lakehouse company. More than 7,000 organizations worldwide — including Comcast, Condé Nast, H&M and over 50% of the Fortune 500 — rely on the Databricks Lakehouse Platform to unify their data, analytics and AI. Databricks is headquartered in San Francisco, with offices around the globe. Founded by the original creators of Apache Spark™, Delta Lake and MLflow, Databricks is on a mission to help data teams solve the world’s toughest problems. To learn more, follow Databricks on Twitter, LinkedIn and Facebook.
+Our Commitment to Diversity and Inclusion
+At Databricks, we are committed to fostering a diverse and inclusive culture where everyone can excel. We take great care to ensure that our hiring practices are inclusive and meet equal employment opportunity standards. Individuals looking for employment at Databricks are considered without regard to age, color, disability, ethnicity, family or marital status, gender identity or expression, language, national origin, physical and mental ability, political affiliation, race, religion, sexual orientation, socio-economic status, veteran status, and other protected characteristics.
+

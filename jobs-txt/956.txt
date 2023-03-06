@@ -1,0 +1,43 @@
+
+StarX is building the financial infrastructure to transform human capital into a liquid alternative asset class.  It provides the platform, analytics, funding and investing ecosystem necessary for retail and institutional investors to invest in talent. Our aim is to transform the future of financial markets, and we are looking for individuals with vision, innovation, passion, technical excellence, drive to deliver, collaboration, and execution that can help accelerate our goal. 
+Our goal is to enable people to answer the question: What if you could invest in the people who impact and change your world? We are looking for an experienced Machine Learning Engineer to create algorithms and predictive models utilizing Machine Learning to help organize the data to support the StarX platform. 
+Role Description
+As a Machine Learning Engineer, you will develop algorithms, datasets and models to predict the performance, salaries, and future prospects of rising soccer stars. The ideal candidate will have a deep understanding of machine learning algorithms, a passion for soccer, and experience working with soccer-related data.
+What You’ll Do
+Develop and implement machine learning models to analyze soccer player data and predict player performance / outcomes
+Build datasets and develop feature engineering pipelines for player data
+Collaborate with data analysts and data scientists to design and execute experiments
+Stay up-to-date with the latest machine learning techniques
+Communicate findings and insights to team and provide recommendations for improving performance and strategy
+What You’ll Bring To The Table
+3+ years of experience in machine learning engineering, with a focus on developing and deploying models
+Strong programming skills in Python, R, or Java
+Strong understanding of machine learning algorithms and statistical concepts
+Experience with machine learning frameworks
+Passion for soccer and experience working with soccer-related data
+Strong problem-solving skills and ability to think critically and creatively
+Strong communication skills and ability to work collaboratively with team members
+Nice To Haves
+Experience with big data technologies
+Familiarity with soccer-specific data sources
+Experience working in a startup environment
+Familiarity with data visualization tools such as Tableau, Power BI, or Matplotlib
+Experience with big data technologies 
+Salary Range:
+$150,000 - $250,000 (DOE)
+About Steel Perlot:
+Steel Perlot is a deep tech management company (incubator/VC) conceptualized to invest in inventive talent and create cutting-edge technologies that will shape our world over the next 20 years. We are a team of originators, innovators, designers, and creatives committed to overcoming obstacles and pushing ideas from zero to one.
+SP is focused on four primary verticals: Disruptive Finance, AI/ML, Synthetic Bio, and Physical Sciences (including quantum, chips and energy).
+Why Join?
+ 
+We’re currently looking for individuals with vision, innovation, passion, technical excellence, drive to deliver, collaboration, and execution. Join a team of like minded people who personify our mission of ownership, craftsmanship, and open communication.
+Competitive base salary and total compensation package
+Comprehensive Health insurance for employee, partner and dependents
+401k company match
+Generous Paid parental leave, Paid vacation
+Commuting benefits
+Training and professional development
+Inspiring startup environment.
+
+We recognize that people come with a wealth of experience and talent beyond just the technical requirements of a job. If your experience is close to what you see listed here, please still consider applying. Diversity of experience and skills combined with passion is a key to innovation and excellence; therefore, we encourage people from all backgrounds to apply to our positions. We provide equal employment opportunities to all employees and applicants for employment and prohibits discrimination and harassment of any type without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state or local laws.This policy applies to all terms and conditions of employment, including recruiting, hiring, placement, promotion, termination, layoff, recall, transfer, leaves of absence, compensation and training.
+

@@ -1,0 +1,26 @@
+
+We're looking for an experienced Data Engineer to take a major part in building our modern data analytics framework, including pipelines’ orchestration, data processing and data warehouse modeling. 
+As a Data Engineer, you will collaborate with various stakeholders to design, develop and maintain data analytics solutions, using the latest tools and technologies.
+Minimum qualifications to apply this role:
+4+ years experience working as a BI Developer or as a Data Engineer
+Excellent SQL skills
+Python proficiency
+Experience designing analytics oriented data models and data warehouses
+Experience working with a pipelines’ orchestration tool (Airflow / Luigi / AWS Glue / Other)
+Passionate about data with strong analytical & technical skills
+Experience working with cloud environment services
+How your day is going to look, what you will be doing? 
+Design and develop the infrastructure for ingesting and processing data in the analytics data warehouse
+Design data analytics modeling solutions
+Write robust ETL processes, handling a variety of structured and unstructured data sources
+Work with modern data stack tools (Snowflake, Airflow, AWS)
+Collaborate with data analysts, data scientists, product engineers and product managers to understand (and provide solutions for) various data needs.
+ 
+About Melio: 
+Melio builds business-to-business (B2B) payment tools so small business owners can spend less time in the back office and more time on their craft. As the fastest-growing B2B payment platform in the US, Melio is working hard to find new and better ways to help small businesses succeed in the ways that work best for them.
+With offices in New York, Denver, and Tel Aviv, and a vibrant work culture, Melio is expanding every single day. We are a diverse group of people who love what we do and do what we love. If you are a driven and passionate team player, you will fit right in. We are an equal-opportunity employer and are always on the lookout for top-notch talent—please reach out if you would like to join us on this exciting journey!
+ 
+About the hiring department:
+The Engineering department is the backbone of Melio. We provide consultation, support and designs for technical solutions—supporting our customers and the entire organization. We get involved from the early stage of a project, making the connection between customer needs, our product design, and then translating these into solutions. 
+
+

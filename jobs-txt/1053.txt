@@ -1,0 +1,25 @@
+
+We’re at the forefront of the data revolution, committed to building the world’s greatest data and applications platform. Our ‘get it done’ culture allows everyone at Snowflake to have an equal opportunity to innovate on new ideas, create work with a lasting impact, and excel in a culture of collaboration.We’re looking for a Data Analyst to join our growing Finance data team. In this role, you will support the Procurement team and drive value by empowering decision making through data, reporting, and analysis. In this role, you will be responsible for the following:
+YOU WILL HAVE:
+Work with a wide range of Procurement and technical stakeholders to identify use cases and gather requirements for analysis, reporting, and automation
+Research data from key business systems, work with IT to ingest data into Snowflake, assess data quality, map requirements to available data, architect data models and data pipelines, and design end-to-end business intelligence solutions to support our Procurement team
+Analyze data to shed light on key business questions and present on findings
+Build dashboards to enable ongoing delivery of information and insights to Procurement stakeholders
+Formulate project plans, provide status updates, and work with Procurement team members to perform user testing and QA
+Build and maintain user friendly documentation for data models, metrics, and reporting
+Think creatively to find optimal solutions to our complex, often unstructured problems
+Identify weaknesses in processes, data, and systems, and drive improvements
+ YOU WILL NEED:
+3+ years of experience working as a BI analyst or engineer
+Advanced SQL skills, with experience using SQL to perform analysis, standardize queries, and build large-scale relational datasets
+Experience developing, deploying, and maintaining enterprise level reports using BI tools such as Tableau, Power BI, Looker, or other relevant technologies
+Experience with MPP databases such as Snowflake, Redshift, BigQuery, or other relevant technologies
+Ability to communicate in an effective and efficient manner with a wide range of technical and non-technical stakeholders, including senior leaders
+Ability to prioritize and execute tasks in a high-pressure, constantly changing environment
+ADD ONS:
+Past experience working in an procurement or finance role, or directly supporting analysis and reporting for procurement or finance stakeholders
+Experience with ERP and Financial Planning tools like Workday Financials
+Experience using Python to parse, structure, and transform data
+Experience building data apps using Streamlit
+Experience leading or working within a scrum, sprint, or other agile framework
+

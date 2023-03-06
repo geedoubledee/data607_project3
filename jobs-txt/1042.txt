@@ -1,0 +1,65 @@
+
+About the Role
+Rocket Travel  is looking for a Senior Data Engineer with experience in Python/SQL to join our growing Data Science Team.
+The Data Science Team oversees building internal-facing decision making tools and product-facing production models that aid in scaling our growing business.
+Rocket Travel is a place where you:
+Work with a group of intrinsically motivated people with a track record for building successful new businesses from scratch.
+Embody curiosity, community, and accountability. We live and build products by these values every day. 
+Own decisions and take action that can be implemented in a matter of days (or hours).
+Get inspired and encouraged to vacation faster, with an annual vacation stipend.
+Receive a competitive compensation package, including bonus, 401k with match, flexible vacation time, maternity and paternity benefits, health, and dental insurance.
+Total Compensation is based on experience - Salary: $125k-170k, Bonus: up to 20%
+Can have the option to work remotely. Though we have great offices in Chicago’s West Loop and in NYC’s Empire State building, we have a hybrid team, a flexible work environment, and we welcome full-time remote applicants.
+Share your passion for travel with equally adventurous teammates. 
+Work within the largest online travel company in the world. Rocket Travel creates B2C and B2B2C travel products and is part of Booking Holdings (BKNG). We have many worldwide partners and a diversified business. Despite the world’s current situation, Booking Holdings has been rated the healthiest company in travel, and Rocket itself is already seeing travel demand surpass pre-pandemic levels 
+As a Senior Data Engineer at Rocket Travel, you will: 
+Build SQL and python data pipelines to address different business needs, which includes: updating pipelines for generating financial reports, modeling data for front-end analytics
+Own projects end-to-end, which includes creating data pipelines for models and setting up the proper data schema and naming conventions for the data 
+Evolve the Rocket data science toolkit by identifying and recommending best tools for each task. Examples of technologies that we experimented and adopted in the past include: MLflow, Sagemaker, DBT, Jenkins
+Work closely with a variety of stakeholders across the company including data science, bizops, partnerships, engineering, and finance
+Improve and expand our suite of automated tests using pytest and great expectations
+Continuously improve your skill set by learning new technologies, and eventually grow to researching, piloting, and pitching new tools for the team to adopt
+Collaborate with the data team to deliver projects end to end including ingesting new data to our data warehouse, creating ETLs, and serving our ML models
+Maintain a sense of empathy for our customers and move quickly where users are most acutely affected
+About you:
+Must Haves:
+You have worked with Python/SQL for at least 3 years in a professional setting
+You have worked with Python common data related libraries (pandas, numpy)
+You have experience working with MPP databases (e.g. Redshift, Vertica, Big Query, etc.)
+You have hands-on experience with SQL and can write complex queries with ease. You have experience building batch and real-time data pipelines. Bonus points if you have worked with Airflow and dbt
+You care deeply about the quality of your code, but are also aware of timelines and don’t spend countless hours trying to bring things to perfection
+You are intellectually curious and self-directed problem solver, keen to work on a variety of data projects and independently search for answers
+You communicate clearly and effectively
+ 
+Other experience you may have
+This is not meant to be a comprehensive list, but more so serve as examples of experience you may have
+Pipeline orchestration (Airflow, DBT)
+DevOps (Git, Jenkins, GitLab)
+AWS data related tools (kinesis, glue, S3, sagemaker)
+Big data technologies (Hadoop, Spark)
+Containerization technologies (kubernetes, ECS, docker)
+
+About Rocket Travel
+We make travel more rewarding than anyone else 
+Rocket Travel awards customers for booking travel through our products, allowing people to earn or use loyalty benefits from their favorite loyalty programs.
+
+Our journey
+We began in 2013 with the same goal of making travel even more rewarding. This started with our bespoke Rocketmiles website, earning travelers their favorite airline loyalty miles for hotel bookings, and every year since, we’ve advanced our goal.
+ 
+We now partner with over 60 loyalty programs that travelers can choose from, we build unique partner-branded travel sites, we offer the ability to earn and redeem loyalty rewards, we sit within Booking Holdings—the most experienced Group of travel companies in the world—and we continually grow the number of ways that people can book travel through us, from stays to cars and more.  
+ 
+Travel constantly evolves, opening additional opportunities to create rewarding experiences, and we intend to be at the forefront of building and innovating on those for travelers worldwide.
+
+A diverse and global team
+Our teammates work across the globe, in person and remotely. We have offices in Chicago, NYC, Bangkok, Bogota, Kuala Lumpur, Manila, and Cebu. No matter where people work, our main team-building goal is to create a diverse, equitable, and inclusive environment. We do that with a Diversity and Inclusion Committee, setting DEI hiring goals, investing in employee retention, and conducting regular team training that fosters collaboration and morale.
+All of these efforts help ensure that we’re promoting a supportive workplace, where people are motivated to grow professionally and build rewarding travel experiences together. 
+ 
+Note on general employment requirements
+Candidates should be authorized to accept employment in the US from any employer, should be willing to start within three weeks of accepting an offer, and should be able to work the same daily working hours as our Chicago office.
+
+Equal Opportunity Employer  
+At Rocket Travel and Agoda, we pride ourselves on being companies represented by people of all different backgrounds and orientations. We prioritize attracting diverse talent and cultivating an inclusive environment that encourages collaboration and innovation. Employment at Rocket Travel and Agoda is based solely on a person’s merit and qualifications. We are committed to providing equal employment opportunity regardless of sex, age, race, color, national origin, religion, marital status, pregnancy, sexual orientation, gender identity, disability, citizenship, veteran or military status, and other legally protected characteristics. We will keep your application on file so that we can consider you for future vacancies and you can always ask to have your details removed from the file. For more details, please read Agoda’s privacy policy. 
+ 
+A Final Word: 
+To all recruitment agencies: Rocket Travel does not accept third party resumes. Please do not send resumes to our jobs alias, employees or any other organization location. Rocket Travel is not responsible for any fees related to unsolicited resumes. 
+

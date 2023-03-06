@@ -1,0 +1,33 @@
+
+Biofourmis is a rapidly growing, global digital health company filled with committed, passionate professionals who care about augmenting personalized care and empowering people with complex chronic conditions to live better and healthier lives. We are pioneering an entirely new category of medicine by developing clinically validated, software-based therapeutics to provide improved outcomes for patients, smarter engagement & tracking tools for clinicians, and cost-effective solutions for payers. We are collectively devoted to a single-minded idea: powering personally predictive care.
+Our dynamic growth has been marked by doubled headcount in the last 12 months via both expansion & acquisition, yielding a global footprint with offices in Boston, Singapore, Bangalore, and Zurich. We are backed by prominent international venture capital investment & have cultivated relationships with worldwide healthcare stakeholders over the last 5 years. Our talented team features numerous PhD’s in Data Science and Biostatistics, over 80 patents, prolific scientific publications, world-class systems, developers & engineers, and leaders in the clinical operations space.Job Summary:
+Biofourmis is a digital therapeutics company that pioneered and is the leader in Personalized Predictive Care. Our disruptive turnkey technology uses advanced clinical grade wearable sensors to continuously monitor bio vitals and process them using our patented and FDA approved AI/ML algorithms to predict changes in physiology that are co-related to medical and disease events in the cardiac, oncology, respiratory, and other therapeutic areas.
+Biofourmis’ technology is applicable to a multitude of different therapeutics areas. We are building out a dramatically expanded of solutions to address heart failure, oncology, and infectious diseases. The Data engineer position will be responsible for handing the existing cloud based Data lake and build next version of analytics Datalake with advanced technologies.
+Responsibilities:
+Creation and maintenance of optimal Data lake pipeline architectures.
+Stay abreast of industry trends and enable successful data solutions by leveraging best practices.
+Identify, design, and implement internal process improvements: automating manual processes, optimizing data delivery, re-designing infrastructure for greater scalability.
+Partnering effectively with inhouse Products, Data and Design teams to assist with data-related technical issues and support their data infrastructure needs.
+Build the infrastructure required for optimal extraction, transformation, and loading of data from a wide variety of data sources and AWS ‘big data’ technologies.
+Assemble large, complex data sets that meet functional / non-functional business requirements.
+Keep our data separated and secure within national boundaries through multiple AWS regions.
+Create data tools for analytics and data scientist team members that assist them in building and optimizing our product into an innovative industry leader.
+ 
+Education:
+Bachelor/Master/Engineering in IT/Computer science/software engineering or relevant experience.
+Experience / Training:
+ 
+3+ years of experience in AWS cloud (AWS solution architect / AWS Certified Data analytics certification
+will be preferable)
+5+ years of experience in software engineering and Big Data Analytics.
+Prior experience on AWS cloud services EC2, Glue, Athena, S3, EKS, RDS, Redshift, Data pipeline, EMR, DynamoDB, cloud watch.
+Experience in creating and maintain Data lake on AWS cloud.
+Experience in Big Data analytics tools like Hadoop, Spark, Kafka etc...
+Strong experience in collecting data from different source systems and create ETL pipelines to handle complex data sets & uncertain schema changes in data.
+Strong experience in Python programming and analytics libraries like Pandas, NumPy etc...
+Strong experience on Analytics skills and complex SQL based queries implementation.
+Data engineer also need to very passionate about efficient/accurate code development, optimising performance of organization Data lake.
+Good experience in UNIX based shell scripting.
+Support to Data scientist team for data availability, extract & provide required data sets.
+Coordinating with various teams and clients to provide data based on specific requirements.
+

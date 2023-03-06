@@ -1,0 +1,33 @@
+
+Data Modeller
+ Joining Capco means joining an organisation that is committed to an inclusive working environment where you’re encouraged to #BeYourselfAtWork. We celebrate individuality and recognize that diversity and inclusion, in all forms, is critical to success. It’s important to us that we recruit and develop as diverse a range of talent as we can. We believe that everyone brings something different to the table – so we’d love to know what makes you different.
+We are/have:
+Experts in banking and payments, capital markets and wealth and asset management
+Deep knowledge in financial services offering, including e.g. Finance, Risk and Compliance, Financial Crime, Core Banking etc.
+Committed to growing our business and hiring the best talent to help us get there
+Focused on maintaining our nimble, agile and entrepreneurial culture
+Job Description:
+Must Have
+A strong understanding and experience in key data modelling methodologies, techniques and concepts (e.g. dimensional modelling, entity relationship modelling, logical & physical models)
+Review business processes and conceptualise the entities that interoperate within the business process, developing entity relationship diagrams to represent these connections.
+Experience working with development teams to document existing data models and data flows.
+Experience of recommending and establishing standards, guidelines, and procedures for design and maintenance.
+Analysing and translating business needs into long-term data solutions.
+A credible individual who can communicate effectively to both technical and non-technical audiences.
+Effective teamworking with very good analytical and conceptual skills.
+ 
+Nice to Have
+Experience of troubleshooting, optimizing and evaluating implemented data systems for variances, discrepancies and inefficiencies.
+Experience architecting & implementing data strategy, solutions & governance models.
+Experience of aligning data architecture & strategy across multiple programmes, work streams and business units.
+Ideally, relevant practical project experience in Financial Services and ability to operate in complex environments/projects, managing multiple stakeholders at all levels of the organisation.
+WHY JOIN CAPCO?
+You will work on engaging projects with some of the largest banks in the world, on projects that will transform the financial services industry.
+We offer:
+A work culture focused on innovation and creating lasting value for our clients and employees
+Ongoing learning opportunities to help you acquire new skills or deepen existing expertise
+A flat, non-hierarchical structure that will enable you to work with senior partners and directly with clients
+A diverse, inclusive, meritocratic culture
+ 
+ 
+

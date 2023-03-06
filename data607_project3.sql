@@ -28,3 +28,6 @@ CREATE TABLE _Jobs
     Site_id int REFERENCES _Sites(Site_id),
     Job_complete boolean
 );
+
+ALTER TABLE _Jobs ADD COLUMN Job_company varchar(100) AFTER Job_url;
+ALTER TABLE _Jobs ADD COLUMN Job_location varchar(75) AFTER Job_company;

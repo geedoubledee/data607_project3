@@ -1,0 +1,20 @@
+
+Position Title: Senior Business Data Engineer/Data Architect
+Location: India, Remote
+Job Description
+Hands-on Enterprise Data Architect for a growing company with many data needs.  Influence and define corporate Data Lake and Data Warehouse practice.   Administer existing data flows and resource managers, and prescribe current and future data flows based on corporate Data Lake and Data Warehouse practice.
+Help prescribe and administer big data practice. 
+Administer and enhance current procedures, ETL, views, and other data mechanics hands-on.  Manage folks who help with the same.
+What you will do:  
+Design, prototype, prescribe, administer practice, ETL technology, data bridging technology (ODATA/other), data lake, and data warehouse.  Provide examples and prescription to corporate clients.  Support legacy data projects.  Be the data expert.
+Work with proprietary technologies like ADF, Snowflake, S3, SQLServer, FiveTran, ODATA, SAP CDS Views scripting, other.
+Qualifications
+5+ years of RDBMS administration, DDL, DML
+5+ years of Working with cloud storage technologies hands-on:  S3, Redshift, Snowflake, Azure, other, combination thereof.
+Experience using ETL tools like ADF, OpenPrise, Informatica, scripting, Oracle, other.
+Comfortable scripting in Python, PowerShell, other
+Understanding of dimensional schemas and BI tools.  Facts and measures.  Experience with PowerBI, Tableau, Domo, or similar reporting tools.
+Understanding of Big Data concepts, tools, and techniques
+Practical experience with machine learning applications and AI
+#LI-VG2
+

@@ -60,9 +60,11 @@ dbDisconnect(con)
 
 completed_files <- readLines("completed_files.txt")
 
-files <- list.files(pattern = "_feeds_.*csv$")
 url_base <- "https://raw.githubusercontent.com/geedoubledee/data607_project3/main/"
+
 new_jobs_df <- as.data.frame(matrix(nrow = 0, ncol = 11))
+files <- list.files(pattern = "_feeds_.*csv$")
+
 for (i in 1:length(files)){
     if (!(files[i] %in% completed_files)){
         file <- paste(url_base, files[i], sep = "")
@@ -72,9 +74,22 @@ for (i in 1:length(files)){
     }
 }
 
+new_jobs_df2 <- as.data.frame(matrix(nrow = 0, ncol = 10))
+files <- list.files(pattern = "_linkedin_.*csv$")
+
+for (i in 1:length(files)){
+    if (!(files[i] %in% completed_files)){
+        file <- paste(url_base, files[i], sep = "")
+        csv <- read.csv(file = file, header = TRUE)
+        new_jobs_df2 <- rbind(new_jobs_df2, csv)
+        completed_files <- append(completed_files, files[i])
+    }
+}
+
 writeLines(completed_files, "completed_files.txt")
 
 new_jobs_df <- new_jobs_df[!duplicated(new_jobs_df), ]
+new_jobs_df2 <- new_jobs_df2[!duplicated(new_jobs_df2), ]
 
 ```
 
@@ -86,15 +101,47 @@ if (nrow(new_jobs_df) > 0){
         content, extracted_content_url, published, created_at))
     cols <- c("Job_id", "Site_id", "Job_title", "Job_url")
     colnames(new_jobs_df) <- cols
+    Job_company <- as.data.frame(matrix(NA, nrow = nrow(new_jobs_df),
+                                   ncol = 1))
+    colnames(Job_company) <- "Job_company"
+    Job_location <- as.data.frame(matrix(NA, nrow = nrow(new_jobs_df),
+                                    ncol = 1))
+    colnames(Job_location) <- "Job_location"
+    new_jobs_df <- cbind(new_jobs_df, Job_company, Job_location)
     rownames(new_jobs_df) <- NULL
     new_jobs_df <- new_jobs_df[c("Job_id", "Job_title", "Job_url",
-                                 "Site_id")]
+                                 "Job_company", "Job_location", "Site_id")]
     new_jobs_df %<>%
         mutate(Job_complete = 0)
-    jobs_df <- rbindlist(list(jobs_df, new_jobs_df))[!duplicated(Job_url)]
-    jobs_df %<>%
-        mutate(Job_id = row_number())
 }
+
+if (nrow(new_jobs_df2) > 0){
+    new_jobs_df2 <- subset(new_jobs_df2, select = -c(X, job_url, company_url,
+        linkedin_company_url_cleaned, posted_date, normalized_company_name))
+    cols <- c("Job_url", "Job_company", "Job_title", "Job_location")
+    colnames(new_jobs_df2) <- cols
+    Job_id <- as.data.frame(matrix(NA, nrow = nrow(new_jobs_df2),
+                                   ncol = 1))
+    colnames(Job_id) <- "Job_id"
+    Site_id <- as.data.frame(matrix(1001, nrow = nrow(new_jobs_df2),
+                                    ncol = 1))
+    colnames(Site_id) <- "Site_id"
+    new_jobs_df2 <- cbind(new_jobs_df2, Job_id, Site_id)
+    rownames(new_jobs_df2) <- NULL
+    new_jobs_df2 <- new_jobs_df2[c("Job_id", "Job_title", "Job_url",
+                                   "Job_company", "Job_location", "Site_id")]
+    new_jobs_df2 %<>%
+        mutate(Job_complete = 0)
+}
+
+if (nrow(new_jobs_df) > 0){
+    jobs_df <- rbindlist(list(jobs_df, new_jobs_df))[!duplicated(Job_url)]
+}
+if (nrow(new_jobs_df2) > 0){
+    jobs_df <- rbindlist(list(jobs_df, new_jobs_df2))[!duplicated(Job_url)]
+}
+jobs_df %<>%
+    mutate(Job_id = row_number())
 
 ```
 

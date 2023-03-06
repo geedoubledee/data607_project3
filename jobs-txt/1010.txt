@@ -1,0 +1,30 @@
+
+Why project44?  
+At project44 we’re on a mission - to make supply chains work.   
+project44 optimizes the movement of products globally, delivering better resiliency, sustainability, and value for our customers. As the supply chain connective tissue, we operate the most trusted end-to-end visibility platform that tracks more than 1 billion shipments annually for the world’s leading brands. The undisputed leader in the market, project44 was named the Leader in the Gartner Magic Quadrant, #1 in FreightWaves’ FreightTech 25, and the Customer’s Choice in Gartner Peer Insights’ Voice of the Customer report. project44 is headquartered in Chicago with a diverse and fast-growing, global workforce.   
+If you’re eager to be part of a winning team that works together to solve some of the most challenging supply chain challenges every day, let’s talk.  
+About the team  
+Are you interested in driving business outcomes through analytics? What about using data to answer difficult questions and come up with interesting insights and collaborate with others? If so, then this is the job for you. As a Senior Data Analyst in the Internal Analytics team, you get to use your quantitative skill set, obsession around customer value, drive for operational efficiency, and collaborative spirit to work cross-functionally, to provide data-driven insights and productize workflows to enable our operational teams to reach the next level.   
+Responsibilities  
+Build dashboards and reports to operationalize workflows and provide data-driven insights. 
+Analyze raw data, assess quality, profiling, cleansing, and structuring for downstream processing 
+Identify opportunities that present the most potential for customer value, and operational efficiency. 
+Define and analyze operational performance metrics 
+Partner with operational teams to understand requirements and areas of opportunity. 
+Partner with product teams to investigate product-level analytics. 
+Collaboration in the creation of single-source-of-truth normalized data and standardized denormalized data sets to power companywide analytics. 
+Qualifications  
+Bachelor or Master’s degree in Business Analytics, Economics, Marketing, Statistics or a related field and 3 years of work experience in the job offered or in an analytics-related occupation  
+Experience must include 3 years of experience in the following:   
+3+ years of experience in quantitative analysis and data mining   
+3+ years of experience in SQL or another programming language for data querying   
+3-5 years of relevant experience  
+Define and analyze metrics that inform the success of products  
+Dashboarding experience with Tableau and Looker 
+Diversity & Inclusion  
+At project44, we're designing the future of how the world moves and is connected through trade and global supply chains. As we work to deliver a truly world-class product and experience, we are also intentionally building teams that reflect the unique communities we serve. We’re focused on creating a company where all team members can bring their authentic selves to work every day.  
+We’re building a company that every one of us at project44 is proud to work for, and our journey of becoming a more diverse, equitable and inclusive organization, where all have a sense of belonging, is shaped through the actions of our leadership, global teams and individual team members. We are resolute in our belief that each team member has an equal responsibility to mold and uphold our culture.  
+project44 is an equal opportunity employer seeking to enrich our work environment by creating opportunities for individuals of all backgrounds and experiences to thrive. If you share our values and our passion for helping the way the world moves, we’d love to review your application!  
+For any needed accommodations during the hiring process, please email recruiting@project44.com. Even if you don’t meet 100% of the above job description you should still seriously consider applying. Studies show that you can still be considered for a role if you meet just 50% of the role’s requirements.  #LI-Hybrid
+ 
+

@@ -1,0 +1,33 @@
+
+ 
+Big Data team is a central player in the Poshmark organization. Our mission is to build a world-class big data platform to bring value out of data for us and for our customers. Our goal is to democratize data, support exploding business, build data and ML pipelines to fuel existing and new business critical initiatives. 
+The Data Engineering team at Poshmark is looking for an experienced software engineer to take care of Poshmak’s growth data, ensuring real-time access to quality data for all the stakeholders. The role requires strong understanding of software engineering best practices and excellent software development skills to build and maintain real-time and batch data pipelines with a focus on scalability and optimizations. In addition, the role also requires collaborating with Data Science, Analytics and other Engineering teams to build newer ETLs analyzing terabytes of data.
+The role also requires being able to write clean and scalable code to pull datasets from disparate sources involving External APIs, S3 transfers, Web Scraping. You will work with cutting edge technologies and frameworks like Scala, Ruby, Apache Spark, Airflow, Redshift, Databricks, Docker. You will also manage the growth data infrastructure comprising ETL pipelines, Hive tables, Redshift tables, BI tools. We are looking for a software engineer who can help us define the next phase of growth data systems in terms of scalability and stability.
+Responsibilities
+Design, Develop & Maintain growth data pipelines and integrate paid media sources like Facebook and Google to drive insights for business. 
+Build highly scalable, available, fault-tolerant data processing systems using AWS technologies, Kafka, Spark, and other big data technologies. These systems should handle batch and real-time data processing over 100s of terabytes of data ingested every day and a petabyte-sized data warehouse.
+Responsible for architecting/designing/developing critical data pipelines at Poshmark.
+Productionizing ML models in collaboration with the Data Science and Engineering teams.
+Maintain and support existing platforms and evolve to newer technology stacks and architectures.
+Participate and contribute to constantly improving best practices in development.
+Desired Skills
+3+ years of overall software development experience.
+Strong software development experience with Big Data technologies and hands-on coding experience.
+Expertise in architecting and building large-scale data processing systems using Big Data technologies like Spark, Hadoop, EMR, Kafka/ Kinesis, Flink, Druid.
+Able to deliver complex projects end-to-end.
+Expertise in SQL with knowledge on any existing data warehouse technology like Redshift.
+Be self-driven, take complete ownership of initiatives, make pragmatic technical decisions and collaborate with cross-functional teams.
+Excellent communication skills and ability to work cross functionally.
+Expertise in Google Apps Script, Databricks or API Integrations is a plus.
+Technologies we use
+Ruby, Scala, Python, Google Apps Script 
+MongoDB, Redshift, Druid
+Airflow, Jenkins
+Spark, Hadoop, Kinesis
+ About Us
+Poshmark is a leading social marketplace for new and secondhand style for women, men, kids, pets, home, and more. By combining the human connection of physical shopping with the scale, ease, and selection benefits of e-commerce, Poshmark makes buying and selling simple, social, and sustainable. Its community of more than 80 million registered users across the U.S., Canada, Australia, and India, is driving the future of commerce while promoting more sustainable consumption. For more information, please visit www.poshmark.com, and for company news and announcements, please visit investors.poshmark.com. You can also find Poshmark on Instagram, Facebook, Twitter, Pinterest, and YouTube.
+Why Poshmark?
+At Poshmark, we’re constantly challenging the status quo and are looking for innovative and passionate people to help shape the future of Poshmark. We’re disrupting the industry by combining social connections with e-commerce through data-driven solutions and the latest technology to optimize our platform. We’re nothing without our amazing team who deliver an unparalleled social shopping experience to the millions of people we connect each day.
+We built Poshmark around four core values: 1) focus on people to create empowered communities that drive success; 2) together we grow to support each other to strive for our dreams; 3) lead with love to foster genuine connections built upon a foundation of respect; and 4) embrace your weirdness to accept and empower one another on their own unique journey. We’re invested in our team and community, working together to build an entirely new way to shop. That way, when we win, we all win together. Come help us build the most connected shopping experience ever.  We will set you up with comprehensive global and in-country benefits to support you and your family needs.
+Poshmark is an Equal Opportunity Employer. We celebrate diversity and are committed to creating an inclusive environment for all employees.
+

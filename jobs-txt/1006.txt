@@ -1,0 +1,24 @@
+
+Work beautifully
+Dialpad is where work comes together—one, beautiful workspace for anywhere communication & collaboration. With the industry’s most innovative business phone system, unlimited text and team messaging, one-click video meetings, and the world’s most advanced AI Contact Center—Dialpad is completely transforming how the world works together.About the team
+Dialpad’s Data Analysts bring together business expertise and advanced analytics skills to enable business teams to identify improvement opportunities that translate into new opportunities and experiments.  In this role, you’ll combine research, data science, data storytelling and experimental design (i.e A/B Testing) to create insights that contribute to the business team’s resolution making process.
+Your Role
+As a Customer Experience Data Analyst, you’ll own the advanced analytics roadmap to support the customer experience team. You’ll work closely with Retention Managers and Customer Support Managers to perform exploratory data analysis to understand the drivers of the team’s key performance indicators. You’ll also help create predictive models in diverse scenarios (e.g cross sell models, adoption models, churn models, etc.).
+What you’ll do 
+Own the advanced analytics roadmap to support the business team
+Make proactive suggestions on flow improvements based on the findings from running exploratory data analysis and experiments
+Partner with Product Managers to design experiments and monitor the impacts on existing KPIs. You are also expected to suggest the creation of new KPIs as needed
+Skills you’ll bring 
+Fluent with data and visualization technologies 
++3 years of experience as Data Analyst
+Experience with descriptive and inferential statistics (ie You are able to tell stories from data and perform statistical tests)
+Fluent in SQL (i.e able to join data from multiple sources to create a dataset that can then be assessed)
+Benefits
+Culture
+We’ve been named a Top Workplace seven times because we truly live and breathe our culture. In alignment with one of our core values, “Skill & Will,” we strive to bring on only the most passionate and talented people to our team. Collectively, Dialers work together to solve problems that help the everyday worker. We foster a collaborative environment where people are elevated, wins are celebrated, and development is encouraged. 
+Compensation and Equity
+Teamwork makes the dream work. Recognizing that our talented and committed team members drive our success, Dialpad offers competitive salaries in addition to stock options because each Dialer participates in our success.
+Equity, Balance, and Belonging
+At Dialpad, we value the humanity that makes each of us unique. We strive to ensure everyone is supported equitably, and Dialers are free to bring their full selves to work each day, and celebrate others doing the same. We champion the intersectionality that exists between gender identity, ethnicity, age, disability status, and the many other aspects of our greater humanity.Don’t meet every single requirement? Studies have shown that women and marginalized groups are less likely to apply to jobs unless they meet every single qualification. At Dialpad we are dedicated to building an inclusive and authentic workplace, so if you’re excited about this role but your past experience doesn’t align perfectly with every qualification in the job description, we encourage you to apply anyways. You may be just the right candidate for this or other roles.
+Dialpad is an equal-opportunity employer. We are dedicated to creating a community of inclusion and an environment free from discrimination or harassment.
+

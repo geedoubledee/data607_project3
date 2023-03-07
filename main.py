@@ -20,16 +20,14 @@ cur_yr = lt[0]
 cur_date = str(cur_yr) + "-" + str(cur_mon) + "-" + str(cur_day)
 cur_time = str(cur_hr) + "-" + str(cur_min) + "-" + str(cur_sec)
 
-feeds_dict = {"Indeed": "2593879",
-              "ai-jobs.net": "2594160",
+feeds_dict = {"ai-jobs.net": "2594160",
               "CareerCastIT&Engineering": "2594162",
               "OpenDataScienceJobPortal": "2594166",
               "JobsforR-Users": "1378327",
               "MLconfJobBoard": "2594174",
               "PythonJobBoard": "977141"}
 
-feeds = ["2593879",
-         "2594160",
+feeds = ["2594160",
          "2594162",
          "2594166",
          "1378327",

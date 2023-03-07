@@ -151,47 +151,52 @@ jobs_df %<>%
 
 for (i in 1:nrow(jobs_df)){
     httr::user_agent("Glen Davis")
-    if (jobs_df[i, 5] == 0){
+    if (jobs_df[i, 7] == 0){
         dat <- try(xml2::read_html(jobs_df$Job_url[[i]]), silent = TRUE)
         if (inherits(dat, "try-error", which = FALSE)){
-            jobs_df[i, 5] <- -1
+            jobs_df[i, 7] <- -1
             next
         }
     }else{
         next
     }
-    if (jobs_df[i, 4] == 2594160){ #ai-jobs.net is source
+    if (jobs_df[i, 6] == 2594160){ #ai-jobs.net is source
         desc <- xml2::xml_find_all(
             dat, "//div[contains(@id, 'job-description')]")
     }
-    else if (jobs_df[i, 4] == 977141){ #python.org is source
+    else if (jobs_df[i, 6] == 977141){ #python.org is source
         desc <- xml2::xml_find_all(
             dat, "//div[contains(@class, 'job-description')]")
     }
-    else if (jobs_df[i, 4] == 2594162){ #careercast it & eng is source
+    else if (jobs_df[i, 6] == 2594162){ #careercast it & eng is source
         desc <- xml2::xml_find_all(
             dat, "//div[contains(@class, 'arDetailDescriptionRow')]")
     }
-    else if (jobs_df[i, 4] == 1378327){ #jobs for r-users is source
+    else if (jobs_df[i, 6] == 1378327){ #jobs for r-users is source
         desc <- xml2::xml_find_all(
             dat, "//div[contains(@class, 'section_content')]")
     }
-    else if (jobs_df[i, 4] == 2593879){ #Indeed is source
-        desc <- xml2::xml_find_all(
-            dat, "//div[contains(@class, 'jobsearch-jobDescriptionText')]")
+    else if (jobs_df[i, 6] == 2593879){ #Indeed is source
+        jobs_df[i, 7] <- -1
+        next
     }
-    else if (jobs_df[i, 4] == 2594166){ #Open Data Science is source
+    else if (jobs_df[i, 6] == 2594166){ #Open Data Science is source
         desc <- xml2::xml_find_all(
             dat, "//div[contains(@class, 'job-desc')]")
     }
-    else if (jobs_df[i, 4] == 2594174){ #MLconf is source
+    else if (jobs_df[i, 6] == 2594174){ #MLconf is source
         desc <- xml2::xml_find_all(
             dat, "//div[contains(@class, 'job_description')]")
     }
+    else if (jobs_df[i, 6] == 1001){ #Linkedin is source
+        jobs_df[i, 7] <- -1
+        next
+    }
+    
     desc <- xml2::xml_text(desc)
     fn <- paste(jobs_df[i, 1], ".txt", sep = "")
     writeLines(desc, con = fn)
-    jobs_df[i, 5] <- 1
+    jobs_df[i, 7] <- 1
 }
 
 ```
@@ -280,5 +285,16 @@ datatable(tidy_text_bigrams_analysis, options = list(pageLength = 25))
 
 tidy_text_bigrams_analysis %>%
     with(wordcloud(bigram, n, max.words = 50))
+
+```
+
+## Manual Data Collection for Indeed and Linkedin:
+
+```{r manual}
+manual <- jobs_df %>%
+    filter(Job_complete == -1)
+write.csv(manual, "manual.csv", row.names = FALSE)
+
+manual_edited <- 
 
 ```

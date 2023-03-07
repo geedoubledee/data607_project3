@@ -1,0 +1,25 @@
+About the job
+Hello Everyone,
+
+We have an urgent requirement for Data Scientist for one of our direct clients for a contract on C2C. If you are interested, please mail me at: anirudh.maruvada@3sbc.com, office: 281-823-9222 Ext:550
+
+
+Data Scientist -- Computer Vision
+
+Santa Clara, CA (Onsite)
+
+Onsite Role.
+
+6 to 12 Months
+
+
+JD:
+
+
+1. Solid knowledge of various Image Filtering, Binary Morphology, Perspective / Affine transformation, Edge Detection, and Tracking.
+
+
+2. Machine Learning: Regression, Unsupervised Learning, PCA.
+
+
+3. Nice but not necessary to have HDR, Panorama, and deep Learning object detection

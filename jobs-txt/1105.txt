@@ -1,0 +1,22 @@
+About the job
+One of the finest bulge bracket bracket banks in America looking to onboard the most skilled data scientists in the nation. They combine cutting edge Machine learning techniques along with the firms unique data assets to devise best in class business decisions.
+
+Responsibilities:
+
+Build recommendation engines, tools for equity trading and sales team
+Integrate Machine Learning and AI tools to optimize the efficiency of the equity business
+Analyze large structured and unstructured data sets in order to generate novel insights for equity traders and sales team members
+Support equity traders by building and implementing equity based trading models and tools
+Collaborate with trading desks, quants and data scientists across all other asset classes
+Requirements:
+
+PhD in a quantitative discipline (Computer Science, Statistics, Physics etc.).
+4-7 years of applied ML/AI experience in the finance industry.
+Expertise in Python programming.
+Applied experience applying data science and machine learning techniques in a Front Office environment.
+Knowledge of and strong interest in financial markets (applied product knowledge within the equities is ideal (Equity Derivatives, Delta 1, Prime Brokerage).
+Direct experience facing off with/collaborating with traders.
+Entrepreneurial mindset.
+Exceptional communication skills.
+Passion for learning Machine Learning and Artificial Intelligence.
+If you meet the above, and are looking for a challenging, yet rewarding next step in your career, apply now!

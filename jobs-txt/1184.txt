@@ -1,0 +1,47 @@
+About the job
+Gauntlet’s mission is to drive adoption and understanding of the financial systems of the future. Gauntlet is the platform for off-chain intelligence that drives on-chain efficiency in Decentralized Finance (DeFi). We work with protocols to manage risk, improve capital efficiency, and manage incentive spend. We also publish cutting-edge research and aim to take a leading role in defining market risk standards across the industry.
+
+Gauntlet is building infrastructure that allows us to simulate and stress-test blockchain protocols, contracts, and network interactions at scale over a wide range of market conditions. Our models ingest a wide range of on-chain and off-chain data, and are continuously calibrated to the current crypto market structure so that our recommendations are always up-to-date. These models and infrastructure power our platform that currently manages risk and optimizes incentives for over $40B in assets.
+
+In order to grow our impact in the DeFi space we are looking to hire experienced Data Scientists to help new and established protocols better understand the systems they’ve built. This role will require establishing a strong ability to analyze and interpret data; as well as the ability to collaborate with and manage external clients. You will be working directly with the leadership of premier and innovative DeFi protocols and developing expert-level knowledge and experience of the mechanisms that underpin the DeFi industry.
+
+Responsibilities
+
+Perform in depth novel research into how to make premier DeFi protocols safer and more efficient through mechanism design, data analysis, and dynamic parameter optimization
+Take ownership of client engagements, scoping out work, managing client relationships, and delivering value to clients through your research and work
+Draft and write engaging research for public consumption both to grow Gauntlet’s Brand as well as to satisfy client requirements
+Build and deploy easy-to-understand and visually compelling dashboards for internal and external consumption
+
+Qualifications
+
+4+ years of professional experience
+Extremely clear and effective communication and client management skills
+Proven track record of drawing deep insights from complex datasets
+Experience with data querying languages (e.g. SQL), scripting languages (e.g. Python), and/or statistical/mathematical software (e.g. R)
+Ability to work highly independently working towards abstract goals
+
+Bonus Points
+
+Experience working in the crypto industry is a plus but not required
+Enthusiasm for the space, especially DeFi, is very much desired
+Smart contract development experience (e.g. Solidity)
+Experience managing external client relationships
+Published or presented research in the space
+
+Benefits and Perks
+
+Remote first - work from anywhere!
+Regular in-person company retreats and cross-country "office visit" perk
+100% paid medical, dental and vision premiums for employees
+Laptop, monitor, keyboard and mouse setup provided
+$1,000 WFH stipend upon joining
+$100 per month reimbursement for fitness-related expenses
+Monthly reimbursement for home internet, phone, and cellular data
+Unlimited vacation
+100% paid parental leave of 12 weeks
+Fertility benefits
+Opportunity for incentive compensation
+
+Please note at this time our hiring is reserved for potential employees who are able to work within the contiguous United States and Canada. Should you need alternative accommodations, please note that in your application.
+
+The national pay range for this role is $150,000 - $180,000 base plus additional On Target Earnings potential by level and equity in the company. Our salary ranges are based on paying competitively for a company of our size and industry, and are one part of many compensation, benefits and other reward opportunities we provide. Individual pay rate decisions are based on a number of factors, including qualifications for the role, experience level, skill set, and balancing internal equity relative to peers at the company.

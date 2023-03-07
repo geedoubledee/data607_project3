@@ -1,0 +1,46 @@
+About the job
+Job Details
+
+Job Title: Data Scientist
+
+Location: Cambridge, MA 02142
+
+Duration: 12 months
+
+Position Type: W2 employment
+
+Job Description
+
+At Client, we are inspired by a single vision – transforming patients’ lives through science. In oncology, hematology, immunology and cardiovascular disease, each of our passionate colleagues contribute to innovations that drive meaningful change. We bring a human touch to every treatment we pioneer.
+
+We are seeking to add a Consultant Data Scientist to our team to enable our translational data to realize its full potential in service to our patients. Join us and make a difference.
+
+About The Team
+
+We are a team of data scientists invested in the principle that excellence in research starts with excellence in data and computational practices. Combining computational expertise, engineering experience, and data communication skills, we seek to develop data workflows and applications that empower our industry-leading research and early development (R&ED) programs. To this end, we partner with data managers, translational scientists, bioinformaticians and clinicians to link scientific questions to solutions that remove computational, logistical, and technological barriers to data utilization in research.
+
+Key Responsibilities
+In partnership with computational researchers, identify and implement technologies to optimize and automate data science workflows from data development to analyses and reporting
+In partnership with translational researchers, accelerate time to insight by developing production-grade applications that enable efficient navigation through large volumes of continuously flowing data
+Define and implement data processing algorithms to automate data monitoring
+Collaborate with data managers and engineers to specify data models and data API endpoints to enable development of applications that facilitate non-programmatic interaction with our translational data
+Qualification And Experience
+BS degree with 5+ years of experience, a M.Sc. degree with 3+ years of experience or a PhD in Computational Biology, Genome Science, Bioinformatics, or similar fields with 1+ years of experience
+Driven to deliver solutions that impact patients’ lives
+Experienced in interdisciplinary collaborations at the interface of data science and life sciences
+Capable of aligning day-to-day tasks with team’s broader priorities and goals
+Ability to communicate clearly with both technical and non-technical collaborators
+Proficient in good coding practices
+Strong command of data science stack of tools: R/Python, notebooks and git
+Experience with R Shiny, Dash, Plotly, Streamlit, or other reactive visualization framework
+Experience working with omics data
+Preferred Qualifications
+Experienced in R package development
+Experience with APIs, or ability to quickly learn how to use them (e.g. R httr or Python requests)
+Experienced in data visualization and analytics
+Experienced in setting up data workflows that interface with diverse ecosystem of data platforms and APIs
+Computing proficiency: Base knowledge of Linux OS and interaction with cloud-resources particularly AWS
+Experience with practicing Agile
+Experience with clinical data practices and standards
+Experience with workflow automation, CI/CD framework
+Experience with SQL.

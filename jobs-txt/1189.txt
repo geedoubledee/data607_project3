@@ -1,0 +1,38 @@
+About the job
+Summary
+
+
+Data Scientist III
+
+Moffitt Cancer Center and Research Institute is proud to be Florida’s only National Cancer Institute-designated Comprehensive Cancer Center located in Tampa. We strive to be the leader in understanding the complexity of cancer through team science and applying those insights for human benefits. Every Team Member of Moffitt focuses on our lasting commitment to our mission: To contribute to the prevention and cure of cancer.
+
+
+Position Highlights:
+
+
+The Data Scientist III (DS) will work directly with key stakeholders throughout Moffitt to document data-related needs and identify novel approaches, including advanced data science and analytics techniques, for addressing those needs. The DS will incorporate these novel approaches into the larger Health Data Services and Digital Innovation strategies. The DS will liaise directly with both clinical and research faculty whose work is focused on genomics, radiomics, immuno-oncology, evolutionary therapy, patient-reported outcomes, and other areas to ensure Moffitt’s analytics methods are best positioned to accelerate discovery using Moffitt’s vast data assets.
+
+Optimizing the use of Moffitt’s data assets requires careful considerations of data formatting, lineage, quality, linkages, and visualizations. As Moffitt continues to incorporate new data types into its cloud-based analytics platform, modern strategies for data provenance, ingestion, linkage, and dissemination will become even more critical for the ultimate realization of the value of these data across the Center. Innovative data types include, but are not limited to, medical record text, radiology and pathology images, molecular data, and patient-generated data (wearables).
+
+
+Responsibilities:
+
+
+The DS will implement Moffitt’s data and analytics strategy through the creation of predictive models and algorithms, manipulation of datasets to identify trends and extract meaningful knowledge, development of data mining solutions using natural language processing and machine learning to extract structured data, and more. Such work will not only have an immediate and high impact on clinical use cases, such as tumor boards, but also on cutting-edge research such as automation of tumor segmentation.
+
+The DS will receive little instruction on day-to-day work and general instructions on new projects or assignments. The DS will work on problems of diverse scope where analysis of data requires evaluation of identifiable factors. The DS will demonstrate good judgment in selecting methods and techniques for obtaining solutions. The DS will network with senior internal and external personnel.
+
+
+Credentials and Qualifications:
+
+
+Bachelor’s degree in Data Science, Mathematics, Statistics, Computer Science, or related quantitative field and more than 5 years of experience in quantitative analytics and applied data science is required OR Master’s degree in Data Science, Mathematics, Statistics, Computer Science, or a related quantitative field and more than 3 years of experience in quantitative analytics and applied data science is required.
+Strong programming skills in development of AI/ML, Natural Language Processing (NLP) and statistical modeling applications using R-Studio/Python
+Strong proficiency programming in R, Python, or adjacent languages
+Experience performing advanced statistical analysis or building a variety of machine learning models (supervised, unsupervised, Deep learning etc.). Natural Language Processing (NLP) applications etc.
+Experience writing SQL queries, mining large datasets (pandas/dplyr), and using data visualization tools (matplotlib/ggplot2/plotly)
+Experience with git or similar version control, ML development and ML Ops
+Experience with cloud computing (e.g., AWS, Snowflake)
+Experience working with healthcare data (structured and unstructured, JSON, XML and other formats)
+Ability to translate complex datasets into simple recommendations and insights
+Excellent communication skills and the ability to write and speak about technical concepts to diverse stakeholder groups

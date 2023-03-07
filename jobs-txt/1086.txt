@@ -1,0 +1,38 @@
+About the job
+Drive the design, development, and maintenance of analytical models to surface actionable insights for proactive decision-making, ranging from product feature experimentation to customer lifetime value forecasting to fraud detection, etc.
+Collaborate with business owners to understand short and long-term goals and scope technical requirements to meet business needs
+Work alongside Enterprise Data Architecture team members to ensure data is collected, cleansed, and transformed to efficiently bring your algorithms to life
+Establish and develop experimentation frameworks to foster clear, easy to understand statistical outputs that will drive iterative process improvement
+Present data and solutions effectively across geographically dispersed teams from a diverse set of technical backgrounds, including leadership and executive teams
+Complete assigned tickets including functional/technical development, testing, review, UAT, and deployment while communicating progress and blockers
+Promote best practices and help guide the broader team toward continuous improvement
+Understand data science/ML trends and the practical application of existing and emerging technologies to enable new and evolving business needs
+Recommend appropriate tools or technologies to leverage across advanced analytics use cases
+Communicate complex solutions clearly and effectively to all levels of the organization
+Strategically partner with Product to inform feature development, demonstrating what will drive business value
+
+COMPETENCIES
+
+7+ years of combined experience in data science, advanced analytics, or related fields
+Technically proficient in a scripting language (Python or R preferred), SQL, and data visualization (Tableau preferred)
+Demonstrated expertise in advanced analytics and data science techniques, including building, testing, and deploying predictive models
+Comfortable running the full lifecycle of a data science project, from gathering requirements and articulating the use case, through data preparation, analysis, and recommendations
+Skilled at solving ambiguous challenges and thinking both forward and proactively when designing analytic solutions to move problems forward
+Ability to maintain exemplary communication and a customer-focused approach while working across multiple projects
+A willingness to collaborate, embrace change, and apply entrepreneurial approaches to analytic solutions
+
+REQUIRED EDUCATION AND EXPERIENCE
+
+Advanced (Master's / PhD) degree in a quantitative field (Data Science / Statistics preferred)
+Experience standing up data science and advanced analytics solutions from scratch
+Experience with transactional datasets and leading projects that span the disciplines of data science and data engineering
+Experience using cloud computing environments (direct experience with Snowflake and AWS, a plus)
+Demonstrated experience in business strategy and delivering value to business stakeholders
+Understanding of product development and how to influence via data analysis
+Awareness of Machine Learning and its applicable use cases, a plus
+Ability to prioritize competing tasks, think independently, and take initiative
+Communication skills with all levels of business and a customer service mindset
+
+PREFERRED EDUCATION AND EXPERIENCE
+
+4 year college degree or equivalent combination of education, training, and experience

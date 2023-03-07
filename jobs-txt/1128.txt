@@ -1,0 +1,27 @@
+About the job
+The Junior Data Scientist, as part of SRI International's Center for Innovation Strategy and Policy (CISP), having flexiblity to work a hybrid work schedule, will contribute to the design and execution of data analysis tasks to support of a diverse range of clients. Based out of our Arlington, VA office, CISP helps organizations, regions, and countries achieve economic and social impact through effective investments in science, technology, and innovation. Our team supports clients with innovation policy research, analysis, and evaluations on projects in the following areas
+
+Tech-based Economic and Workforce Development
+Innovation Ecosystem Assessment
+Innovation Strategy and Training
+Complex Program Evaluation
+Science and Technology Program Support
+Advanced Analytics in R&D Analysis
+
+As a Junior Data Scientist, you will
+
+Extract, clean, structure, and validate data for analysis.
+Identify patterns, outliers, and areas of inconsistencies through relationships that exist in the data using statistical analysis.
+Build models for automated data analysis and predictive insights
+Produce written documentation for code and datasets.
+Write analytic content for reports including methods, findings, and recommendations for technical & non-technical audiences.
+Collaborate with other data scientists and CISP team members to propose solutions, reduce inefficiencies, and support ongoing activities.
+1-2 years using R and/or Python for data science.
+1-2 years working with data scientists to support data cleaning, modeling, and statistical analysis.
+Experience with text data, including preprocessing, part-of-speech tagging, topic modeling, unsupervised clustering, and classification.
+Bachelor’s degree in Computer Science, Data Science, or another computationally-intensive discipline required.
+U.S. Citizenship required due to government contract requirements.
+
+The salary range is $99,138-$127,377. Salary ranges will vary and are based on several factors, including geographic location, market competitiveness and equity amongst internal employees in similar roles. Positions may also qualify for SRI's Pay for Outstanding Performance program or the annual Performance Based Compensation program. SRI also has a competitive benefits package, to view details please go to https//www.sri.com/resources/benefits/.
+
+SRI International, an over 75-year strong pioneering research institute, has a rich history supporting government and industry. Our innovations have created new industries, billions of dollars in market value and lasting benefits to society. SRI is organized around broad disciplines and capabilities, with research and development divisions and labs to groups who excel at identifying new opportunities, developing products and creating custom solutions. Our organization is driven by impact - delivering unique solutions for the world's important challenges and transforming ideas into reality for clients and partners.

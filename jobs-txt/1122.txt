@@ -1,0 +1,55 @@
+About the job
+We have been engaged by a well respected, publicly traded financial institution in Northern California to identify a Data Scientist who will be critical in making contributions to their increased investment into Risk management, Fraud detection, Customer experience and Algorithmic trading.
+
+
+This is a hybrid role (2-3 days a week on-site) and can sit in either Novato, CA or Sacramento, CA
+
+
+Job Description:
+
+The Data Scientist oversees the collection, storage and interpretation of data and works closely with business stakeholders to understand goals and determine how data can be used to achieve those goals. Designs data modeling processes, create algorithms and predictive models to extract the data needed and analyze the data and share insights with peers.
+
+
+Essential Job Functions:
+
+Collect data by analyzing business results or by performing and managing new studies
+Brainstorm innovative ways to use our unique data to answer business problems and measure success against targets.
+Extract and understand data from internals core systems and external manual inputs to derive relevant insights and executive product health dashboards
+Transfer data into format appropriate for analysis
+Create new, experimental frameworks to collect data
+Build tools to automate data collection
+Perform data mining for usable information to understand industry tends as well as current and anticipated customer needs
+Create reports and presentations for business use
+Develop visualizations to make complex analyses accessible to a broad audience
+Correlate similar data to find actionable results and influence product team through presentation of data-based recommendations
+Work with stakeholders throughout the organization to identify opportunities for leveraging core data to drive business growth
+Engage in productive discussions with external or internal stakeholders and synthesize ideas
+Mine and analyze data from company databases to drive optimization and improvement of product, marketing techniques and business strategies for the Bank and its clients
+Assess the effectiveness and accuracy of new data sources and data gathering techniques
+Develop custom data models and algorithms to apply to data sets
+Use predictive modeling to increase and optimize customer experiences, revenue generation, data insights, advertising targeting and other business outcomes
+Develop processes and tools to monitor and analyze model performance and data accuracy
+Provide guidance in modern analytic techniques and business applications to unlock the value of core’s unique data set, in keeping with market trends, client needs and emerging techniques
+Organize and manage multiple data science projects with diverse cross-functional stakeholders
+This list includes the current primary responsibilities of the position. It is not intended to be all-inclusive and is subject to change; additional duties may be assigned as needed.
+Possesses knowledge to adhere to BSA and other compliance regulations within job function, completes all Bank compliance training in a timely manner, and keeps up to speed on regulations as job requires, executes on compliance matters as needed and adheres to all policies and procedures as required.
+
+Exceptional technical writing skills
+
+Ability to communicate complex data in a simple, actionable format
+Ability to visualize data in the most effective method possible for a given project or study
+Analytical and problem-solving skills
+Experience using statistical computer languages to manipulate data and draw insights from large data sets
+Experience with machine learning and AI
+Familiarity with data management tools
+Ability to work independently and with team members from different backgrounds
+Excellent attention to detail
+Broad knowledge across the entire data science lifecycle, including data engineering, statistics and governance
+
+Professional/Educational Requirements:
+
+Bachelor’s degree (BA/BS) or equivalent from four-year University; or equivalent combination of education and experience and/or training
+3+ years of experience as a Data Scientist or equivalent experience working with data
+Practical experience with data analysis and exploration, especially with diverse, large data sets
+Ability to apply the latest technologies and methodologies in machine learning, data mining and predictive analytics to correlate disparate datasets and events and derive value
+Has proven ability to learn quickly and works well both independently as well as in a team setting.

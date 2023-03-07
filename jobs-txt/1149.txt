@@ -1,0 +1,74 @@
+About the job
+TDI Technologies, Inc. is seeking candidates for a Data Scientist position. The position’s main responsibility will be to gather, format, and analyze information from Navy Hull, Mechanical, and Electrical (HM&E) systems. The position will require knowledge of machine learning methods and modeling development and training. Candidates should be comfortable working within an engineering team, designing new software solutions, and interfacing with customers.
+
+PRINCIPAL DUTIES/RESPONSIBILITIES:
+
+1. Develop code and test modeling approaches for shipboard systems using real and simulated shipboard sensor and status data from control systems.
+
+2. Incorporate algorithms and model designs into software solutions and pipelines that solve our customer’s data analytics challenges.
+
+3. Prototype and demonstrate TDI Technologies’ data science capabilities to prospective customers.
+
+
+EDUCATION AND EXPERIENCE REQUIREMENTS:
+
+1. Master’s Degree in an engineering discipline - Computer Engineering, Electrical Engineering, Mechanical Engineering, Software Engineering, Computer Science, or Data Science, OR
+
+2. In lieu of a Master’s, Candidates may possess a Bachelor of Science Degree in an engineering discipline along with 5 or more years of experience in an engineering, software development, or data science role
+
+SPECIAL REQUIREMENTS:
+
+1. Successful applicants must either have an active government security clearance or the ability to receive approval upon position acceptance.
+
+2. Must have a valid US passport OR the ability to obtain one upon position acceptance.
+
+
+SKILLS AND ABILITIES:
+
+Essential Skills:
+
+1. Software development in Python
+
+2. Experience with machine learning and/or artificial intelligence frameworks such as scikit-learn, Pandas, and NumPy
+
+3. Experience with at least one of the following problem types: Time-series classification, regression analysis, optimization, clustering
+
+4. Software development and operation within Linux and Windows based systems
+
+5. Experience using version control tools such as SubVersion or Git
+
+6. Strong technical writing skills and attention to detail for documentation
+
+7. Willingness to convey technical problems and solutions to a variety of team members
+
+
+Additional Preferred Skills:
+
+1. Experience with development and deployment of Docker containers
+
+2. Experience with orchestration using Kubernetes
+
+3. Experience with DevOps tools and practices
+
+4. Experience with Amazon Web Services (AWS)
+
+5. Experience with rotating machinery, industrial automation and controls, or vibrations analysis
+
+
+Travel:
+
+This position may require up to approximately 5% travel.
+
+Location:
+
+Philadelphia, PA. This position will allow for some remote work but will also require attendance to in-person meetings at our Philadelphia Navy Yard offices as well as at government development and lab facilities.
+
+Equal Employment Opportunity Policy:
+
+TDI Technologies, Inc. provides equal employment opportunities to all employees and applicants for employment and prohibits discrimination and harassment of any type.
+
+This policy applies to all terms and conditions of employment, including recruiting, hiring, placement, promotion, termination, layout, recall, transfer, leaves of absence, compensation and training.
+
+To Apply:
+
+To be considered for a position at TDI Technologies, Inc., please email resume to: careers@tditek.com

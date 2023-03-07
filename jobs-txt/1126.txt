@@ -1,0 +1,30 @@
+About the job
+Alternative job titles: NLP Engineer, NLP Research Engineer, AI Engineer, Software Engineer (NLP), Research Engineer
+
+
+After years of heads-down research, a start-up founded by AI luminary is at an exciting commercialization phase. Ready to scale up its NLU technology that is able to collaborate, reason, and comprehend with human-level fluency. They've built novel natural language technology that allows a system to learn in a similar way to how a child learns language; allowing for rich comprehension of the text it is processing and generating.
+
+
+As a research engineer, you will be responsible for scaling up complex language models which combine NLP, ML, deep learning, automated reasoning, formal logic, and more.
+
+
+This role requires deep knowledge of core language models, deep learning frameworks, distributed computing, and large-scale data processing. You will collaborate closely with seasoned researchers to deploy SOTA ML and NLP models.
+
+
+Minimum requirements:
+
+Master's Degree or above in Computer Science, Computer Engineering, or equivalent
+Expertise in writing clean production-level code
+Experience working end-to-end deploying models into production at scale
+Min. 2 years of experience building systems based on machine learning and deep learning methods
+Deep knowledge of (Transformer-based) language models and their underlying mechanics
+Proficiency with the following; Python and Java, deep learning libraries (PyTorch, Tensorflow or equivalent), HuggingFace
+
+Good-to-have:
+
+First principle approach to problem-solving
+Ability to describe complex problems in a logical manner
+Roll-your-sleeves up approach to projects, willingness and desire to get stuck into ML plumbing/Ops issues when needed
+Proficiency with: PyCharm, GCP, K8s, Docker
+
+Keywords: NLP, NLU, Natural Language Processing, Natural Language Understanding, Machine Learning, Deep Learning, Transformers, HuggingFace

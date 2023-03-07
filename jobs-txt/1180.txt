@@ -1,0 +1,10 @@
+About the job
+***W2 Candidates Only***
+
+
+MS Computer Science, Engineering, Technology, Mathematics, Statistics, or related field with 3+ years of industry experience or BS + 5 years' experience
+Hands on coding experience with Python building end-to-end systems as an MLOps Engineer, Machine Learning Engineer, Software Engineer, or equivalent
+Experience in ML model development, orchestration, deployment, monitoring, support and creating and maintaining deployment pipelines with CI/CD tools
+Experience with cloud computing platforms like AWS, GCP, or other cloud providers developing with containers (e.g., Docker, Kubernetes) in cloud computing environments
+
+***W2 Candidates Only***

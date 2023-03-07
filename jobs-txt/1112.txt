@@ -1,0 +1,31 @@
+About the job
+Position Details
+
+
+Job Title: Sr. Data Scientist/ ML Engineer
+
+Location: Bellevue, WA
+
+Duration: 12+ months
+
+
+Required Skills:
+
+Data Bricks, Azure.
+
+
+Essential Functions:
+
+Support Client projects from strategy through implementation and on-going improvements.
+Perform data collection, analysis, validation, cleansing, developing software in support of multiple machine learning workflows, integrating / deployment of code in a large-scale production environments and reporting.
+Designs, codes, tests, debugs, and documents Client code - models, ETL processes, SQL queries, and stored procedures.
+Extracts and analyzes data from various structured and unstructured sources, including databases, files, data lakes and external APIs/websites.
+Responds to data inquiries from various groups within client's organization.
+Requires experience with relational databases, document databases (NOSQL) and knowledge of query tools and/or statistical software.
+Responsible for other duties/projects as assigned by business management / leadership.
+
+Qualifications
+
+Min 5 plus years of experience in statistical modeling, data mining, analytics techniques, machine learning software development and reporting
+Min 5 plus years of applied experience in building and deploying Machine Learning solutions using various supervised/unsupervised Client algorithms such as Linear/Logistic Regression, Support Vector Machines, (Deep) Neural Networks, Random Forest, etc., and key parameters that affect their performance.
+Min 5 plus years of hands-on experience with Python and/or R programming and statistical packages, and Client libraries such as scikit-learn, TensorFlow, PyTorch, etc.

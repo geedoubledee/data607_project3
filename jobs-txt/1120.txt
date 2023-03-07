@@ -1,0 +1,46 @@
+About the job
+Modis is looking for a Machine Learning Engineer. This role will work in a small, cross-functional team. The position will collaborate directly and continuously with other engineers, business partners, product managers and designers, and will release early and often. You will also be exposed to data science procedures and algorithms for ML and NLP.
+
+
+Position Responsibilities
+
+Work closely with Tech Anchor, Product Manager and Product Owner to deliver machine learning use cases using Agile Methodology.
+Work with software and ML engineers to tackle challenging AI problems.
+Work specifically on the integration team to drive forward Platform integration and AI/ML adoption with other internal and external systems.
+Help innovate by researching state-of-the-art algorithms. Share knowledge with the team.
+Lead by example in use of Paired Programming for cross training/upskilling, problem solving, and speed to delivery.
+Leverage latest ML/NLP/ GCP technologies.
+
+Basic Qualifications
+
+A Bachelor’s degree in Computer Science / Computer Engineering or similar technical discipline.
+2+ years of work experience with Machine Learning Technologies.
+2+ years of work experience as a software engineer with exceptional software engineering knowledge.
+Experience and good understanding of Machine Learning / Deep Learning Models / Python / Natural Language Processing and MLOps for production environments.
+Understanding or desire to learn end to end Machine Learning technology stack (Tools such as GCP Vertex AI, Domino Data Labs, Kubernetes, , Jupyer Notebook, Hive, Hadoop, etc).
+Good understanding of cloud design considerations and limitations and impact of pricing.
+Proficient in Python, and ML frameworks/libraries.
+Prior experience working with: container technology, docker files, docker images, GitHub, CI/CD concepts.
+THIS ROLE IS ABOUT BUILDING AND DEPLOYING MACHINE LEARNING APPLICATIONS – not simply a data science role to build models.
+
+Desired Skills
+
+Master and PhD focused in Computer Science / Machine Learning (highly preferred).
+Experience working with Google Cloud platform – specifically the AI Platform and other GSP AI/ML services.
+Experience in delivering machine learning software products using iterative approach.
+Experience in programming concepts such as Paired Programming, Test Driven Development, etc.
+Experience in supporting continuous improvement by investigating development alternatives.
+Experience using Machine Learning tools (pytorch, tensorflow, xgboost etc).
+Experience applying agile practices to solution delivery.
+Experience in all phases of the development lifecycle.
+Knowledge of coding and best practices.
+
+ADDITIONAL INFORMATION:
+
+Modis offers Visa sponsorship and Green Card services
+
+Equal Opportunity Employer/Veterans/Disabled
+
+To read our Candidate Privacy Information Statement, which explains how we will use your information, please visit https://www.modis.com/en-us/candidate-privacy/
+
+The Company will consider qualified applicants with arrest and conviction records.

@@ -1,0 +1,28 @@
+About the job
+Work hard and make a difference
+
+Grindstone PBC is a cybersecurity public benefit corporation with a mission to protect and educate the world. We take on large challenges through collaboration, innovation, and talent. We seek out a diverse workforce to take on the challenges of the nation with character, integrity, determination, commitment, and accountability. Our client is looking for a Data Scientist (Python) - Onsite. If interested after reviewing the description below, please apply and someone from the Grindstone team will reach out to you.
+
+Work Location: Columbia MD
+
+Job Description
+
+Designs develops and implements machine learning, data visualization, statistical analysis, and other data science techniques to enable insider threat detection.
+Solve specific problems using tailored analytics, including machine learning to detect anomalous and suspicious patterns of behavior within a cloud environment.
+Experience in supervised and unsupervised learning.
+Ability to perform feature engineering to identify and predict hidden patterns in data.
+Familiar with risk and threat analytics.
+Experience in Splunk analytic development (Splunk Phantom and Splunk DSP) is a plus.
+
+Qualifications:
+
+Required (10 years)
+Bachelor’s degree or related work experience
+Ability to perform tasks under limited supervision
+Machine Learning experience (5+ years)
+
+NO Clearance Required
+
+Powered by JazzHR
+
+PKRurjFYaA

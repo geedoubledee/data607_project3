@@ -1,0 +1,44 @@
+About the job
+How would you like to become a Data Scientist on a rapidly growing Data team inside of one of the largest healthcare staffing companies in the country? This company was honored with a Glassdoor Employees’ Choice Award recognizing it as one of the Best Places to Work in 2023!
+
+
+What's the Job?
+
+This Data Division works in pods and each pod works on a plethora of projects. You will have the opportunity to be involved in supply and demand forecasting, creating algorithms that determine pay for travel nurses and bill rates for clients, segmentation, and job matching for travel nurses. You will have a project that is yours that you will own end-to-end.
+
+
+This will be a position that operates cross-functionally with various internal teams but also external partners. Aside from the model building and technical work, you will be involved in the analytics and business side of the house, driving strategy and the company roadmap.
+
+
+
+Who Are We?
+
+This company is a leader in connecting nurses and allied health clinicians with hospitals and healthcare systems across all 50 states and is growing enormously. For over a decade, this company has ranked in the nation's top 5,000 fastest growing companies.
+
+
+What Skills Do I Need?
+
+Machine Learning and Analytics experience
+Python
+Business facing experience and strong communication skills
+Master's in Statistics, Data Science, Computer Science or closely related STEM field
+
+
+Nice to have?
+
+SQL
+Databricks
+Azure
+
+
+Compensation:
+
+$110,000 - $130,000
+Full Benefits Package (Vision, Dental, Health)
+401(k) with matching
+Several other company perks
+Fully remote
+
+What's in it For You?
+
+This is great opportunity to take your talents to a leading organization where there is no ceiling to your career progression across any of our business arms. As a Data Scientist on this team, you will be involved in the upswing of new technology in an increasingly competitive space.

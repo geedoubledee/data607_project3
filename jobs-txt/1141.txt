@@ -1,0 +1,43 @@
+About the job
+Responsibilities:
+
+1. Build computer vision end to end pipeline from image data preprocessing, data ingestion, data filtering to imaging model development, deployment, and monitoring
+
+2. Stitching, georeferencing and analyzing UAV imagery to derive insights and phenotypic metrics
+
+3. Sufficient knowledge about creating database schemas and methods to store data in cloud/AWS Sagemaker, model training and orchestration in AWS
+
+4. Adept in defining APIs for user interface and model deployment
+
+5. Communicate results with the key stakeholders and improve pipelines based on feedback
+
+6. Using advanced mathematical models, machine learning algorithms, operations research techniques, and strong business acumen to deliver insight, recommendations, and solutions UAV imagery.
+
+7. Developing sustainable, consumable, accurate, and impactful code for model building and deployment.
+
+8. Partner with a senior member of the data science team to turn data into critical information and knowledge that can be used to make sound organizational decisions.
+
+
+
+Requirements:
+
+1. Good Understanding of image processing, color spaces, machine learning, deep learning, and Convolutional Neural Networks
+
+2. Understanding of imaging sensors and technology, and photogrammetry is a plus
+
+3. Remote sensing and geospatial imagery analysis experience specifically UAVs, knowledge of any one tool like QGIS, ENVI, ArcGIS etc.
+
+4. Experience using any of the image stitching tools like ODM, Agisoft etc.
+
+5. Good understanding of any one of deep learning framework Pytorch, Tensorflow or MXNET and ability to build models from scratch
+
+6. Knowledge of transfer learning and making ML models work with limited data
+
+7. Good Understanding of machine learning pipeline in production (MLOPs)
+
+8. Very good knowledge of Python
+
+9. Version Control (Git)
+
+
+#5215

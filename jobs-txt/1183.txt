@@ -1,0 +1,19 @@
+About the job
+My client is a Fortune 500. The ideal candidate's favorite words are learning, data, scale, and agility. You will leverage your strong collaboration skills and ability to extract valuable insights from highly complex data sets to ask the right questions and find the right answers.
+
+
+Responsibilities
+
+Analyze raw data: assessing quality, cleansing and structuring for downstream processing
+Design accurate and scalable prediction algorithms
+You will be collaborating closely with our Data Science org
+Collaborating with the engineering team to bring analytical prototypes to production
+Generate actionable insights for business improvements
+
+Qualifications
+
+Bachelor's degree or equivalent experience in a quantitative field (Statistics, Mathematics, Computer Science, Engineering, etc.)
+At least 4 years' of experience in quantitative analytics or data modelling
+Deep understanding of predictive modelling, machine learning, clustering and classification techniques, and algorithms
+Fluency in a programming language (Python, C,C++, Java, SQL)
+Familiarity with Big Data frameworks and visualization tools (Cassandra, Hadoop, Spark, Tableau)

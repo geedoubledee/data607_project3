@@ -1,0 +1,48 @@
+About the job
+Job Description
+
+Title: Data Scientist
+
+Location: Sugar Land, TX (Hybrid)
+
+Duration: Permanent, Direct-Hire
+
+Work Requirements: US Citizen, GC Holders or Authorized to Work in the US
+
+
+Qualified candidate should send their resume (Word format) to Nate Ackerman at nackerman@inspyrsolutions.com.
+
+
+Summary
+
+The Data Scientist is responsible for conducting undirected research and tackling open-ended data problems and questions. Drawing on an advanced degree in a quantitative field such as computer science, physics, statistics or applied mathematics, the Data Scientist demonstrates the knowledge to invent new algorithms to solve data problems.
+
+
+Essential Responsibilities And Duties
+
+Research and assess next-generation technologies for machinery diagnostics and prognostics and data-driven modeling and optimization of complex systems. Demonstrate advanced working knowledge and experience with machine learning algorithms and population-based meta-heuristic optimization methods
+Generate innovative ideas, establish new research directions, and shape and execute on technical projects
+Maintain state-of-the-art knowledge and contribute to technical discussions and reviews as an expert in related areas of responsibility
+Apply theoretical knowledge to solve industrial problems
+Apply engineering knowledge in developing data-driven algorithms for anomaly detection, failure prediction and optimization
+Collaborate with field and product engineers to identify key health monitoring parameters of a system
+Process large multivariate data sets collected from equipment operations, manufacturing tests and diagnostic routines
+Communicate ideas, plans and results effectively via oral and written reports
+
+Basic Qualifications
+
+Master's or PhD degree in science or engineering field required
+Minimum 3 years of direct experience (MA Degree) or 1 year (PhD)
+Strong experience in Python
+Experience with PowerBI is preferred
+Experience with R is preferred but not required
+Experience in Machine Learning and/or Statistical Modeling
+
+About INSPYR Solutions
+
+Genuent and TekPartners are becoming INSPYR Solutions. As a leading information technology partner, we connect top IT talent with our clients to provide innovative business solutions through our IT Staffing, Professional Services, and Infrastructure Solutions divisions. We understand and value the unique needs of highly-skilled information technology professionals in the industry and always strive to stay above the curve. Our company was founded on the following core values: Be the Best, Understand the Urgency, Never Ever Give Up, Have the Courage to Excel, and Make a Contribution. We take pride in our business model and strive to create a positive workplace environment through an exemplary culture.
+
+
+INSPYR Solutions provides Equal Employment Opportunities (EEO) to all employees and applicants for employment without regard to race, color, religion, sex, national origin, age, disability, or genetics. In addition to federal law requirements, INSPYR complies with applicable state and local laws governing nondiscrimination in employment in every location in which the company has facilities.
+
+#IND-OTHER

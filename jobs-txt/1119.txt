@@ -1,0 +1,45 @@
+About the job
+About The Role
+
+Interested in driving business and product strategy? If yes, this role will work within the EE-commerce Product Team to better understand how members are interacting with our E-commerce Platform, and inform and evaluate new features and experiences developed by the software teams. This is an advanced analytics role where you will apply various predictive and statistical modeling techniques to solve complex multi-faceted problems, assist in defining metrics and KPIs, design experiments to validate hypotheses, help scale our measurement techniques, drive personalization strategy, translate complex findings and results into a compelling narrative, and manifest it into product changes.
+
+Your Daily Impact At Peloton
+Drive innovation by developing new experimentation methodologies, evaluating the impact of new features, and providing advanced data analysis using statistical modeling techniques such as regression, classification, clustering, and causal-inference approaches that help sharpen our product decision-making process.
+When necessary, build models in R/Python, or other systems that help us better measure and understand the results of experiments or user flows, automate data pipelines to scale experimentation, facilitate product analysis and improve product analytics infrastructure.
+Own analytics within several product development work streams from KPI definition and data instrumentation design to ongoing reporting, deep-dive and generative research
+Develop data-driven business insights to help make better decisions that power our Ecommerce business by partnering with Product, Engineering, Design, cross functional teams and leadership to drive maximum business impact.
+During feature definition, help define success metrics and design event-based analytics implementation by working with Engineering. Post-launch evaluate the feature using these analytics and collaborate with Product Managers to inform subsequent feature iterations.
+Design, Implement and evaluate A/B tests with championing best practice experimentation methodologies to optimize customer journeyson the Web.
+What You Bring To Peloton
+Have 3+ years of work experience in data-driven analytics/predictive analytics/statistical modeling. Product analytics experience with a B2C or e-commerce business is a plus
+Have 2+ years of experience with A/B testing and Experimentation
+Experience with manipulating large datasets using SQL (including complex joins, CTE, query optimization) and with statistical programming software such as Python or R, in combination with visualization packages for Exploratory Data Analyses and to communicate results of analyses.
+Have strong experience in statistics and data science methodologies (e.g. data modeling, hypothesis testing, regressions, machine learning) along with Causal Inference methodologies like propensity score matching, etc
+Have hands-on experience with various elements of the product analysis pipeline, such as:
+Formulating and testing hypotheses
+Identifying and communicating data requirements for analytics projects
+Extracting and cleaning up large data sets
+Analyzing data using a variety of tools
+Synthesizing and presenting results to stakeholders of various seniority levels and professional backgrounds
+Have the ability to work collaboratively in a team environment
+Excellent verbal and written communication, attention to detail, and presentation skills to be able to efficiently communicate complicated analyses to non-technical team members!
+As a Bonus
+Knowledge and experience working in agile/scrum product development
+Proficiency in working with Segment, Amplitude, in one or more analytics & visualization tools (e.g. Chartio, Looker, Tableau)
+Experience with statistical and machine learning methods to build descriptive and predictive models
+Experience in and/or passion for health and fitness, sports, gaming, or other related fields
+Base Salary: $136,300.00.00 to $156,800.00.00
+
+The base salary range represents the low and high end of the anticipated salary range for this position based at our New York City headquarters. The actual base salary offered for this position will depend on numerous factors including individual performance, business objectives, and if the location for the job changes. Our base salary is just one component of Peloton’s competitive total rewards strategy that also includes annual equity awards and an Employee Stock Purchase Plan as well as other region-specific health and welfare benefits.
+
+About Peloton
+
+Peloton is the leading interactive fitness platform globally, with a passionate community of nearly 7 million Members in the US, UK, Canada, Germany, and Australia. Peloton makes fitness entertaining, approachable, effective, and convenient, while fostering social connections that motivate its Members to commit to their fitness journeys. An innovator at the nexus of fitness, technology, and media, Peloton reinvented the fitness industry by developing a first-of-its-kind subscription platform that seamlessly combines the best equipment, proprietary networked software, world-class streaming digital fitness and wellness content, and best-in-class fitness experts and Instructors.
+
+Peloton is an equal opportunity employer and committed to creating an inclusive environment for all of our applicants. We do not discriminate based upon race, religion, color, national origin, gender (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender identity, gender expression, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics. If you would like to request any accommodations from application through to interview, please email: applicantaccommodations@onepeloton.com
+
+Please be aware that fictitious job openings, consulting engagements, solicitations, or employment offers may be circulated on the Internet in an attempt to obtain privileged information, or to induce you to pay a fee for services related to recruitment or training. Peloton does NOT charge any application, processing, or training fee at any stage of the recruitment or hiring process. All genuine job openings will be posted here on our careers page and all communications from the Peloton recruiting team and/or hiring managers will be from an @onepeloton.com email address.
+
+If you have any doubts about the authenticity of an email, letter or telephone communication purportedly from, for, or on behalf of Peloton, please email applicantaccommodations@onepeloton.com before taking any further action in relation to the correspondence.
+
+Peloton does not accept unsolicited agency resumes. Agencies should not forward resumes to our jobs alias, Peloton employees or any other organization location. Peloton is not responsible for any agency fees related to unsolicited resumes.

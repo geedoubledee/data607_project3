@@ -1,0 +1,21 @@
+About the job
+Modern Intelligence is seeking an ML Engineer to assist with the creation of classical and hierarchical neural networks for American defense, in areas including sensor fusion, decision making, autonomy, complex inference, electronic warfare, and more.
+
+Modern is using proprietary advances in information and complexity theory to build one AI for defense. Our hierarchical approach provides a dramatic scaling advantage over classical neural networks, naturally enabling very high accuracy on few-shot learning for novel problems, and in many cases, the ability to solve previously-unsolvable problems.
+
+We’re looking for an experienced and insightful ML practitioner who believes that the answer isn’t always just more data, and who has a deep appreciation of the benefits of sparsity, hierarchy, and the mixture-of-experts approach. With theoretical and practical assistance from your team, you’ll help architect solutions to some of the most fundamental problems in machine comprehension, and some of the biggest challenges to the defense industry. You’ll have substantial opportunity for project management and ownership. You’ll work with our contracts team to scope written proposals and project solutions. You’ll work with our R&D platform engineers to help them make their product useful for you and Modern’s scientists. If desired, you’ll have the opportunity to propose new theoretical innovations, and to design experiments to test and refine these innovations. As an early hire, you’ll have the opportunity and active encouragement to grow into leadership and supervisory roles as the company expands.
+
+Qualifications
+
+MS or equivalent experience in Computer Science, Data Science, Mathematics, Statistics, Physics, or related field. PhD or equivalent experience preferred. Candidates still in their graduate program will be considered
+Strong proficiency in at least one popular ML framework, e.g. Tensorflow or Pytorch. The ideal candidate will have hand-rolled their own ML training environment, even if in a very limited capacity
+Strong proficiency in coding and data science
+End-to-end proficiency at the model engineering process -- from data acquisition, storage, processing, and interface design, to model architecting and training, to local or cloud model deployment
+Proficiency in Probability Theory and other mathematical areas relevant to ML
+A demonstrable track record of high-quality work in architecting and training neural networks. The ideal candidate will have a publication record demonstrating the ability to make novel contributions
+Significant experience with computer vision models, natural language models, multimodal data and/or sensor fusion
+Excellent communication skills, and the ability to work effectively in a team
+
+If you’re a first-rate engineer, and don’t want to waste your career on incremental advances; if you’re interested in working with an equally brilliant, dedicated, and close-knit team to develop groundbreaking approaches to ML; and if you want to see those approaches turn into real-world products that are orders of magnitude better than anything else on the market; then come work with us.
+
+This role requires US citizenship due to federal contracting guidelines. Cover letters are not necessary, but are welcome if they provide meaningful information about you as a candidate that is not conveyed otherwise.

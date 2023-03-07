@@ -1,0 +1,46 @@
+About the job
+Hi, we're Oscar. We're hiring a Data Scientist I to join our Product Analytics team.
+
+Oscar is the first health insurance company built around a full stack technology platform and a focus on serving our members. We started Oscar in 2012 to create the kind of health insurance company we would want for ourselves—one that behaves like a doctor in the family.
+
+About The Role
+
++Oscar is Oscar’s software platform and Campaign Builder is a tool that providers, payers, and partners use to engage with their members and customers. The Data Scientist I, Product Analytics will play a critical role in developing the data pipeline management and reporting infrastructure for +Oscar Campaign Builder clients. Additionally, they’ll partner with the Customer Success function to conduct outcomes analytics and reporting based on client needs and interest.
+
+Campaign Builder is an engagement and automation platform that enables scalable, personalized interventions and automates workflows to drive growth, manage risk, and optimize admin operations. Built for non-technical users, risk bearing entities can use the tool to build “campaigns” that deliver interventions with multiple touch points over time to drive behavior change. The solution has been a key differentiator for +Oscar clients and we’re excited about bringing the technology to more users nationwide.
+
+You will report into an Associate Director of Data Science. This is a hybrid role. You will work part of the time in the New York City office and part of the time work-from-home/remote.
+
+The potential base pay for this role is: $115,360-$151,410 per year. You are also eligible for employee benefits, company equity grants and annual performance bonuses.
+
+Applicants must be currently authorized to work in the United States on a full-time basis. Oscar will not sponsor applicants for this role.
+
+Responsibilities
+Help establish and maintain strategic +Oscar Modular Solutions roadmap for the Data team
+Work with key stakeholders to strategize, implement, and manage the productization of data science models related to Campaign Builder
+Assist with the evaluation of the financial impact of campaigns with both external and internal audiences
+Requirements gathering for data pipeline management and reporting infrastructure build out and enhancement; includes obtaining regular stakeholder and end-user input
+Help establish success metrics for projects and work with business to track and communicate metrics through dashboards and metrics
+Requirements
+A bachelor's degree and 2+ years of relevant work experience OR a master’s degree in a quantitative field and 1+ years of relevant work experience
+Experience working with and building data models using common tools like Python or SQL
+Experience with product analytics
+Experience managing projects and partners across the organization with the ability to visualize a process, identify and resolve bottlenecks
+Bonus Points
+Knowledge of or previous work experience in health care, health economics, or health insurance
+This is an authentic Oscar Health job opportunity. Learn more about how you can safeguard yourself from recruitment fraud here.
+
+At Oscar, being an Equal Opportunity Employer means more than upholding discrimination-free hiring practices. It means that we cultivate an environment where people can be their most authentic selves and find both belonging and support. We're on a mission to change health care -- an experience made whole by our unique backgrounds and perspectives..
+
+Pay Transparency
+
+Final offer amounts, within the base pay set forth above, are determined by factors including your relevant skills, education, and experience.
+
+Full-time employees are eligible for benefits including: medical, dental, and vision benefits, paid holidays, paid vacation and sick time, paid parental leave, 401(k) plan participation, life and disability insurance, and paid wellness time and reimbursements.
+
+Reasonable Accommodation
+
+Oscar applicants are considered solely based on their qualifications, without regard to applicant’s disability or need for accommodation. Any Oscar applicant who requires reasonable accommodations during the application process should contact the Oscar Benefits Team (accommodations@hioscar.com) to make the need for an accommodation known.
+
+To protect the health and safety of our employees, we require any employee conducting in-person work* to be fully vaccinated against COVID-19 by their start date. If you are unable to be vaccinated due to medical or protected religious reasons, please reach out to our Benefits team at accommodations@hioscar.com to submit an accommodations request.
+Note: In-person work includes: employees required to work from our offices, employees conducting sales work in the field and employees conducting at-home or in-person visits with members.

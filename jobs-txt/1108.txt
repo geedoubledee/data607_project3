@@ -1,0 +1,26 @@
+About the job
+Immuna platform helps crypto investors manage their risks of investing in crypto assets. The platform monitors and proactively defends investors’ crypto investments from unexpected exploits and undesirable economic situations. It detects on-chain exploits in real time and extracts invested assets on behalf of the investors without needing access to their private keys. For instance: Immuna would have detected anomalous events of unexpected approval and transfers, which led to the $120M BadgerDAO Hack.
+
+
+The ideal person would be an experienced and fast learner with an entrepreneurial mindset. You will be working with a team of Forbes 30 under 30 serial entrepreneurs comprising of Stanford engineers and Berkeley MBA with 10+ years of experience spanning across Forbes AI 50 startups to large tech companies such as Google and Amazon.
+
+
+You will be working closely with the founders to explore cutting-edge applied machine learning and statistical techniques to identify risk in DeFi investing. You will be architecting smart contracts for a new type of problem in the Blockchain ecosystem and breaking ground in integrating our systems with other technologies.
+
+
+Must have Skills:
+
+Ability to learn fast and work in a team effectively.
+First principles thinker with solid problem-solving skills.
+Willing to understand blockchain architecture and tools available for development..
+Proficient at writing code in Python or similar interpreted languages.
+Experience with scientific computing packages such as Numpy/Scipy, Jupyter, Pandas, etc.
+Experience with distributed computation frameworks such as Spark, Flink, PyTorch.
+Familiarity with DeFi protocols such as AMMs, lending, etc.
+
+Good to have:
+
+Prior background in agent-based simulation or language models.
+Prior experience building DeFi protocols such as AMMs, lending, etc.
+Prior experience in Ethereum Virtual Machine/Geth.
+Prior experience in smart contract auditing or security review.

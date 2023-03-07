@@ -1,0 +1,35 @@
+About the job
+Opportunity Description
+
+We are seeking a Principal Data Scientist with strongly developed expertise in graph-based AI and related technologies to maximize utilization of data and knowledge in the client's data and digital transformation.
+
+ESSENTIAL EXPERIENCE:
+Degree in mathematics, computer science, engineering, physics, statistics, economics, computational sciences or a related quantitative discipline and 5+ years of analytical experience in an industrial or commercial setting OR PhD degree with at least 3+ years of industry experience
+Experience AI/ML/NLP modelling of complex datasets.
+Advanced software development skills in at least two of the standard data science languages (such as Python, R, Scala, C++, Julia) and strong data manipulations skills (e.g. SQL, NoSQL, graph, etc.)
+Knowledge of SQL and relational databases, query authoring (SQL) and designing variety of databases (e.g. Postgres SQL)
+Comfortable working in cloud and high-performance compute environments (e.g. AWS, Apache Spark)
+Disciplined AI/ML deployment (MLOps, CI/CD) and Agile delivery
+Experience in coordination of delivery teams and providing feedback to their management
+Excellent written and verbal communication, business analysis, and consultancy skills
+
+PREFERRED EXPERIENCE:
+Knowledge on health care knowledge management systems (e.g. ICD, SNOMED, MedDRA, UMLS) preferred
+Experience AI/ML modelling of complex datasets, network analysis or direct experience in creating and maintaining graph data models
+Experience with a variety of graph technologies Knowledge of graph databases like Neo4J (Cypher, causal clusters), JanusGraph (Gremlin, GraphML), AWS Neptune, OrientDB
+Expertise in machine learning/deep learning-based graph algorithms relevant to link prediction, ranking/recommendation, completion, community detection, node embedding, etc.
+
+Requirements
+
+Responsibilities
+Lead data science area deliverables for digital products / programs / initiatives including the allocation of work within the team, monitors the quantitative and qualitative achievements of the team, and reports?results
+Work as an individual contributor, providing data science expertise to digital products / programs / initiatives.
+Apply in-depth experience with both statistical and modern data science approaches, including unsupervised, supervised, regression algorithms.
+Apply advanced techniques such as neural networks, deep learning, NLP and federated learning.
+Build models, algorithms, simulations and experiments by writing highly optimized code and using state-of-the art machine learning technologies.
+Collaborate cross-functionally in teams involved in data driven analytics to maximize impact of graph-based capabilities
+Build and manage support models incorporated into digital or AI products; Work with Infrastructure and Ops teams to ensure appropriate architecture and tooling
+Capacity to mentor junior personnel
+Be able to apply in-depth experience with both statistical and modern data science approaches to business cases and knowledge management tasks
+Strong written and verbal communication skills - ability to communicate complex ideas up to people of varying technical skills
+Work with developers, engineers, and MLOps to deliver AI/ML solutions for new products/services

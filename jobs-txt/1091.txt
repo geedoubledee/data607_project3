@@ -1,0 +1,51 @@
+About the job
+*US-based applicants only
+
+
+We’re looking for an entrepreneurial-minded Data Scientist to join a growing fintech company providing white-glove financial solutions to small and mid-sized businesses nationwide. With 350+ team members across the US, they've earned more than $2 billion for their small and mid-sized business customers…and counting.
+
+
+Position Overview:
+
+We're looking for someone who thinks like a founder and has the technical skill set of a data scientist. You have an appetite for innovation and you're driven by opportunities to find better solutions, be first to market, and elevate the way people use technology to change the way we live.
+
+
+As part of the Innovation Team, you’ll build systems to extract, analyze, and interpret data with a focus on Innovation: identifying new revenue opportunities for the company across existing and emerging business, and building and enhancing products that will make our business customers more competitive in their respective industries.
+
+
+Reporting to the Strategy and Insights Lead, you’ll work closely with a team of market researchers and financial analysts to define and lay the tactical groundwork for competitive product advantages and solutions that will further cement the company's position as the leader in the SMB financial services space.
+
+
+Compensation/Benefits:
+
+$120-$180k annual base salary - DOE
+100% paid health insurance
+Two weeks PTO annually, one week paid sick annually, 14 days paid federal holidays
+Flexible schedule
+Remote with regular collaborative, onsite meetings
+Miami/surrounding areas a plus, though not required (or willingness to relocate)
+
+Responsibilities:
+
+Collect, analyze, and present findings from both raw and processed data relevant to existing business and new customers to develop strategies to capitalize on market white space and expand revenue streams
+Extract and disseminate valuable data insights, and then use this information to find patterns and develop solutions to grow our competitive industry advantage
+Use data to expand business opportunities for the company's digital platform and products to further penetrate the SMB market, enhance customer experiences, and raise the bar for innovation in our space
+Design accurate and scalable prediction algorithms in pertinence to business objectives
+Develop tools and processes to monitor and analyze data accuracy
+Building data visualization tools, dashboards, and reports
+Collaborate with the Innovation, Engineering, and Product teams to bring analytical prototypes to production
+Based on the insights you gather, make clear recommendations that will set us apart from competitors and work with other department leads to test and execute
+Produce regular analytics reports for internal and external stakeholder consumption (Board, Investors, Exec Team, etc.)
+
+Requirements:
+
+5+ years professional Data Science experience - fintech expertise a huge bonus
+Academic background in statistics, comp sci, math,and/or engineering
+Portfolio or shareable work samples (dashboards you’ve built, measurable/quantifiable results you helped produce, methodology, etc.)
+Knowledge of statistical programming languages like R, Python, and database query languages like SQL. Familiarity with Scala, Java, or C++ is an added advantage.
+Impeccable communication skills - written and spoken. You’re confident in distilling complex concepts into digestible info across the team
+Experience with Data Visualization Tools like matplotlib, ggplot, d3.js., Tableau that help to visually encode data
+Incredible problem-solving skills
+Analytical mind and keen business sense
+Great attitude. Must be a team-player - no jerks allowed
+Miami-based or willing to relocate a plus

@@ -1,0 +1,17 @@
+About the job
+The ideal candidate's favorite words are learning, data, scale, and agility. You will leverage your strong collaboration skills and ability to extract valuable insights from highly complex data sets to ask the right questions and find the right answers.
+
+Responsibilities
+Analyze raw data: assessing quality, cleansing, structuring for downstream processing
+Design accurate and scalable prediction algorithms
+Collaborate with engineering team to bring analytical prototypes to production
+Generate actionable insights for business improvements
+
+
+Qualifications
+
+Bachelor's degree or equivalent experience in quantative field (Statistics, Mathematics, Computer Science, Engineering, etc.)
+At least 1 - 2 years' of experience in quantitative analytics or data modeling
+Deep understanding of predictive modeling, machine-learning, clustering and classification techniques, and algorithms
+Fluency in a programming language (Python, C,C++, Java, SQL)
+Familiarity with Big Data frameworks and visualization tools (Cassandra, Hadoop, Spark, Tableau)

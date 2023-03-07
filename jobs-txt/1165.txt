@@ -1,0 +1,57 @@
+About the job
+Data Scientist (All Levels) - Must be a US Citizen
+
+Security Clearance None
+
+Portal Location : Location - Hybrid
+
+US-VA-Reston
+
+
+Minimum Salary USD $54,180.00/Yr.
+
+Maximum Salary USD $190,150.00/Yr.
+
+
+Responsibilities
+
+We are seeking to hire Data Scientists (All Levels) in Reston, VA
+
+
+As a Data Scientist with our team, you will be working with our federal clients to rapidly develop innovative proof of concept and prototype solutions for our clients’ immediate mission challenges. In your role, you will work on multiple projects with teams of other data scientists, software developers, and SMEs to apply the best practices and state of the art data science and machine learning processes. As a data scientist you will be working closely with federal clients providing services to develop AI/ML models and weights to selected data to facilitate object detection, data triage, search/optimization, inference, facial recognition, behavior detection, and automated discovery and decision making, maintaining model versioning system and experience identifying new vulnerabilities in models.
+
+
+On our team, you will:
+
+Identify, apply, and adapt the latest research methodologies and open source solutions
+Develop and train new machine learning models
+Identify, curate, and process large data sets
+Research, apply, analyze, and document technical approaches and their outcomes
+Have opportunities to use various types of compute resources including on premises hardware and cloud resources
+
+Qualifications
+
+
+Required minimum skills and knowledge:
+
+All degrees must be in a STEM field such as computer science, statistics, data analytics, computer engineering, mathematics, and physics
+Entry-Level: Bachelor's Degree +0-3 years of professional work experience or Master's Degree + 1-2 years of professional work experience
+Mid-Level: Bachelor's Degree +3-5 years of professional work experience or Master’s Degree + 2-4 years of professional work experience
+Must be a US Citizen and able to obtain necessary clearance
+
+
+Desired skills and knowledge:
+
+Top Secret clearance
+The ideal candidate has proficiency with major data science tools and languages such as Python, R, NiFi, PostgreSQL/SQL, Spark, and Git
+Demonstrated experience with cleaning, managing, optimizing performance with, and processing large volumes of data
+The Data Scientist has familiarity with industry best practices for software/hardware optimization when processing large data sets and offers experience in the following required task areas: experience with machine learning, statistical modeling, time-series forecasting, and/or geospatial analytics; experience with Hadoop, Spark, or other parallel storage/computing processes is a plus
+
+
+Client Engagement
+
+· Learn about and support client engagement, corporate values, and corporate strategic priorities, including providing input to proposal writers.
+
+· Build a productive relationship with your client and understand their structure and goals.
+
+· Participate in the proposal process by providing input to proposal writers.

@@ -1,0 +1,38 @@
+About the job
+At Rain, our mission is to radically reduce the cost of artificial intelligence. To help us with this ambitious goal, we’re looking to grow our Machine Learning Engineering Team.
+
+
+This is a remote role, so you can work from anywhere in the United States.
+
+
+
+Responsibilities:
+
+Applying quantization techniques on a variety of edge learning workloads, benchmarking them on a pseudo-hardware simulator
+Development, implementation, and deployment of state-of-the-art on-device learning techniques (including continual/online/lifelong learning)
+Deployment of state-of-the-art deep learning model compression techniques (extreme quantization, weight and activation sparsity, growing and pruning, knowledge distillation, etc.)
+Optimizing (accelerating) pseudo hardware simulators through software development, distributed computing and custom cuda kernels
+
+
+Qualifications:
+
+PhD in Computer Science, Machine Learning, Mathematics or similar field or equivalent education and experience
+2+ years of deploying quantized deep learning models in an industrial setting
+2+ years industry/academic experience with deep learning algorithm development and optimization
+2+ years software engineering experience in an academic or industrial setting
+Understanding of modern deep learning architectures, such as MLPs, CNNs, RNNs, LSTMs, GRUs, Transformers, and MLP-mixers, a variety of training methods, and advanced hyper-parameter tuning methods
+Deep knowledge of state-of-the-art quantization techniques including post training quantization, quantization aware training and quantized training
+Extensive experience with deep learning frameworks, such as PyTorch, TensorFlow, and Jax
+Advanced proficiency in Python and C++
+
+
+Preferred qualifications
+
+Background in digital computer architecture
+Extensive knowledge of most recent techniques and publications in deep learning model compression, including the subfields of ultra-low precision quantization for both inference and training, growing and pruning networks, weight sparsity, activation sparsity, gradient sparsity, attention sparsity, and knowledge distillation
+Deep knowledge of state-of-the-art techniques for on-device learning (ideally including continuous/online learning)
+Experience with parallel computing, GPU/CUDA, DSP, and OpenCL
+A track record of deep learning publications in top journals
+
+
+The anticipated annual base salary for this position is $200,000 - $280,000. This range does not include any other compensation components or other benefits that an individual may be eligible for.

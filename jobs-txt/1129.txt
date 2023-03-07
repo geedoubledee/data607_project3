@@ -1,0 +1,18 @@
+About the job
+The Data Scientist is responsible for conducting undirected research and tackle open-ended data problems and questions. Drawing on an advanced degree in a quantitative field such as computer science, physics, statistics or applied mathematics, the Data Scientist demonstrates the knowledge to invent new algorithms to solve data problems.
+
+Essential Responsibilities and Duties:
+
+Research and assess next-generation technologies for machinery diagnostics and prognostics and data-driven modeling and optimization of complex systems. Demonstrate advanced working knowledge and experience with machine learning algorithms and population-based meta-heuristic optimization methods.
+Generate innovative ideas, establish new research directions, and shape and execute on technical projects.
+Maintain state-of-the-art knowledge and contribute to technical discussions and reviews as an expert in related areas of responsibility.
+Apply theoretical knowledge to solve industrial problems.
+Apply engineering knowledge in developing data-driven algorithms for anomaly detection, failure prediction and optimization.
+Collaborate with field and product engineers to identify key health monitoring parameters of a system.
+Process large multivariate data sets collected from equipment operations, manufacturing tests and diagnostic routines.
+Communicate ideas, plans and results effectively via oral and written reports.
+
+Basic Qualifications:
+
+Bachelor's (or equivalent industrial experiences) / Master’s / PhD degree in science or engineering with software experience or education
+Minimum 5 years of direct experience (BA Degree), or 3 years of direct experience (MA Degree)

@@ -1,0 +1,30 @@
+About the job
+Job Description
+
+Aetna Resources LLC, a CVS Health company, is hiring for the following role in New York, NY: Data Scientist to Develop and implement analytics applications and models to transform data into meaningful information. Duties include: design and develop data solutions using industry leading tools, technologies and best practices to profile data and develop efficient ingestion by sourcing data from PBM, Specialty, Retail, and/or HealthCare business; develop advanced algorithms and statistical predictive models to evaluate scenarios and provide usable information on health metrics and potential future outcomes; extract and manipulate data from multiple large data sources and deliver predictive models that inform solutions for in-house teams (i.e. pharmacy pricing, medical costs, risk scores, onboarding) and customer engagement across critical journeys (i.e. calories, heart rate, breast cancer, maternity); utilize strong programming skills to explore, analyze, and interpret large volumes of data in various forms and solve complex business problems; support deployment of insights across multiple channels and work on mathematical analysis methods, machine learning, and statistical analyses.
+
+Pay Range
+
+The typical pay range for this role is:
+
+Minimum: $ 128,100
+
+Maximum: $ 128,100
+
+Please keep in mind that this range represents the pay range for all positions in the job grade within which this position falls. The actual salary offer will take into account a wide range of factors, including location.
+
+Required Qualifications
+
+Master’s degree (or foreign equivalent) in Computer Science, Data Science, Statistics, Mathematics, Analytics, or a related field and one (1) year of experience in each of the following: CI/CD, Jenkins, or GIT; Programming in R, Hadoop, or Python; XML, JSON, HTML, CSS, or JavaScript; REST, SOAP, or Web Service APIs; Writing clean, high quality, high performing, scalable code; Analyzing large data sets from multiple data sources; and Machine learning, statistical analysis, and predictive modeling
+
+Preferred Qualifications
+
+See Required Qualifications.
+
+Education
+
+See Required Qualifications.
+
+Business Overview
+
+Bring your heart to CVS Health Every one of us at CVS Health shares a single, clear purpose: Bringing our heart to every moment of your health. This purpose guides our commitment to deliver enhanced human-centric health care for a rapidly changing world. Anchored in our brand — with heart at its center — our purpose sends a personal message that how we deliver our services is just as important as what we deliver. Our Heart At Work Behaviors™ support this purpose. We want everyone who works at CVS Health to feel empowered by the role they play in transforming our culture and accelerating our ability to innovate and deliver solutions to make health care more personal, convenient and affordable. We strive to promote and sustain a culture of diversity, inclusion and belonging every day. CVS Health is an affirmative action employer, and is an equal opportunity employer, as are the physician-owned businesses for which CVS Health provides management services. We do not discriminate in recruiting, hiring, promotion, or any other personnel action based on race, ethnicity, color, national origin, sex/gender, sexual orientation, gender identity or expression, religion, age, disability, protected veteran status, or any other characteristic protected by applicable federal, state, or local law. We proudly support and encourage people with military experience (active, veterans, reservists and National Guard) as well as military spouses to apply for CVS Health job opportunities.

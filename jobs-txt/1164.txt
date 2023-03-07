@@ -1,0 +1,82 @@
+About the job
+Optomi, in partnership with a leader in the automotive industry, is looking for a Data Scientist capable of using machine learning and statistical techniques to create state-of-the-art solutions for non-trivial, and arguably, unsolved problems. If you are results driven, interested in how to apply advanced machine learning techniques, would love to work with vehicle telemetry data and video, are deeply technical, highly innovative, and
+
+long for the opportunity to build solutions for challenging problems that directly impact the
+
+company's bottom-line, we want to talk to you. Mid Data Scientists will prototype, design, and implement predictive models and algorithms. They will lead the full life cycle including data cleansing, feature creation, and iterative model selection. They will write maintainable and extensible tested code that adheres to standards,
+
+produce specifications, and determine operation feasibility, and troubleshoot, debut, and upgrade
+
+existing systems.
+
+
+Responsibilities of the right candidate:
+
+• Use statistical and machine learning techniques to create scalable solutions for
+
+vehicle telemetry data and video analysis, and perform R&D to drive discovery of
+
+new generation mobility products
+
+• Establish scalable, efficient, automated processes for large scale data analysis,
+
+model development, model validation and model implementation
+
+• Drive adoption of best practices across organizations
+
+• Deliver production-ready code and integrate into batch or real-time pipelines
+
+• Work with Product Owners to define the KPIs for machine learning projects
+
+• Stay abreast of developments in research methodology and changing technologies
+
+in the marketplace and proactively identify applications of these latest
+
+developments to improve existing methods
+
+• Prepare and present findings to both technical and non-technical audiences
+
+• Work within the constraints of time, budget, and resources capacities to align with
+
+the global vision
+
+• Develop and foster collaborative relationships with product, business, and
+
+engineering teams to effectively serve our customer needs
+
+
+Qualifications of the right candidate:
+
+• 3+ years of production experience working in Data Science or Software Engineering
+
+• 2+ years of production experience in Machine Learning, Computer Vision, Signal
+
+Processing, and/or Natural Language Processing (NLP)
+
+• Ability to write clean, concise, tested, maintainable code in python
+
+• Solid production experience using Python (including NumPy) and SQL
+
+• Production experience with Apache Spark
+
+• Strong fundamentals in problem solving, algorithm design and complexity analysis
+
+• Experience implementing Machine Learning pipelines in production environments
+
+• Experience with deployment including knowledge of CI/CD, containerization, and
+
+related concepts is a plus
+
+• Experience working in a team oriented, Agile software engineering environment
+
+• Experience implementing solutions in a cloud environment (AWS, Azure, or Google
+
+Cloud) is a plus
+
+• Experience working with data science in automotive telematics data and video is a
+
+plus
+
+• Production experience in using Tensorflow and/or PyTorch is a plus
+
+Experience in edge computing is a plus

@@ -1,0 +1,13 @@
+About the job
+Required Skills:
+
+Ideal candidates should have a degree in a quantitative field (e.g., mathematics, computer science, physics, economics, engineering, statistics, operations research, quantitative social science, etc.).
+Basic Knowledge of software development principles and architecture.
+Good analytical and problem-solving abilities.
+Ability to break down and understand complex business problems, define a solution, and implement it using advanced quantitative methods.
+Familiarity with programming for data analysis; ideally Python, SQL, or R.
+Solid oral and written communication skills, especially around analytical concepts, and methods.
+Great work ethic and intellectual curiosity.
+Knowledge of Cloud technologies such as AWS or Google Cloud.
+Knowledge of any relational database such as My SQL.
+Must be a team player with excellent communication and problem-solving skills and have experience working with customers across teams.

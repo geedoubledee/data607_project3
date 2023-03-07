@@ -1,0 +1,29 @@
+About the job
+Responsibilities:
+
+Design and apply machine learning algorithms and evaluate their performance on real-world and simulated data sets for classification, regression and clustering. Will use Bayesian inference, hierarchical models, deep learning or , Gaussian processes
+Develop autonomous robotics and vehicle systems for various projects
+Collaborate with simulation and mapping teams to verify the perception model’s performance and accuracy on the real-time simulator and use mapping tools developed to collect geographic information of real testing locations
+Integrate with existing software practices that produce maintainable code, including automated testing, continuous integration, code style conformity, and code review. Use C/C++ programming, software design and debugging skills in a Linux environment. Use scripting languages Python or Bash.
+Develop automation tools to produce and refine simulated data sets, for improving reliability of various machine learning models
+
+Requirements:
+
+The minimum educational requirements for this position are a Master’s degree in Electrical Engineering, Mechanical Engineering, Computer Science, Robotics, or related engineering discipline. Education or experience must include the following:
+
+Use of autonomous robotics and vehicle systems. Must have worked with common Machine Learning algorithms (e.g., for classification, regression and clustering)
+Work with advanced topics of Machine Learning (Bayesian inference, hierarchical models, deep learning or, Gaussian processes.)
+Experience with behavior modeling and intent interpretation research work.
+Practical experience in preparing data for Machine Learning
+Experience with C/C++ programming, software design, and debugging skills in a Linux environment
+Experience with a scripting language (Python, or Bash)
+
+About DEKA:
+
+One hour from the beach, Boston, and the mountains, the historic Amoskeag Millyard once housed the largest textile mills in the world. It is now home to DEKA Research and Development, where we are taking the same innovation and cutting-edge technology into the modern age.
+
+Behind DEKA’s brick walls sits a team of professionals who strive to make a difference every day through thoughtful engineering, design, and manufacturing. Here at DEKA, some of the most innovative and life-changing products of our time are created, and new ideas are always welcome and explored.
+
+Powered by JazzHR
+
+dkhvpNvVaq

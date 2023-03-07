@@ -1,0 +1,30 @@
+About the job
+Job Title: Data Scientist
+
+Location: Remote (PST, United States)
+
+Type: Contract (6 months)
+
+Rate: $45-55/hr (W2 only. No C2C)
+
+
+Job Summary:
+
+We are seeking a talented Data Scientist. In this role, you will work with our analytics and data science professionals to help teams learn from experiments and drive a culture of experimentation across our global SaaS company.
+
+
+You will have the opportunity to identify ways to enable analysts and data scientists to experiment faster and more rigorously, measure the impact of our experimentation center of excellence strategy, assess the current state of experimentation, and share your insights and recommendations with peers and leadership to influence or drive faster business decisions. You will also foster a world-class analytics culture through education and the creation of self-service tools to make a lasting change in how your analysts use experiments to make decisions.
+
+
+Responsibilities:
+
+Brainstorming requirements and building Python notebooks
+Designing and analyzing the launch of experimentation tools and frameworks
+Assessing the current state of experimentation through analyses and needs assessments
+Fostering a world-class analytics culture through education and the creation of self-service tools
+
+Requirements:
+
+3+ years of experience in data manipulation using SQL, Python, or R
+Mastery of telling stories with data and proficiency in visualization tools (e.g. Tableau, Redash)
+Experience with AB testing

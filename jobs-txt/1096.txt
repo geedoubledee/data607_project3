@@ -1,0 +1,90 @@
+About the job
+Job Title: Data Scientist
+
+Location: Bellevue, WA (Day 1 onsite)
+
+Duration: Fulltime
+
+Job Description
+
+20+ years' experience in BI and Analytics with 8+ experience in data science
+
+Degree in an analytical field (e.g., Computer Science, Engineering, Mathematics, Statistics, Operations Research, Management Science). Any Data Science Certification and Project Management Certification will be an added advantage.
+
+Leverage data and business principles to solve modern devices, real estate modernization and network infrastructure problems.
+
+Ability to translate business requirements into technical project plans.
+
+Manage/develop strategic planning for a variety of key projects.
+
+Onsite customer interaction and co-ordinate with onsite data scientists.
+
+Extensive experience in project management & delivery of Data Science Model for actionable insights.
+
+Industry experience in Data analytics/BI, Data modelling and visualization, Optimization, and statistics.
+
+5+ years of Scripting with one of these languages (R, PYTHON).
+
+Ten or more years of overall IT/DBMS/Data Store experience.
+
+Three or more years of experience in, big data and data visualization and handling of 10 Petabyte of data per month
+
+Drive programs/projects from project initiation through delivery.
+
+Responsible for data cleaning and developing various Data science models using R and Python. Provide insights using the various modelling technique like classification, Regression, RNN model, XGBoost, Random Forest, Decision Trees with association rules, Ensemble Learning etc
+
+Experience in implementing A&I solutions using NLP, Luis, Machine Learning and Deep Learning
+
+Responsible for building end to end pipelines for Machine learning and data science model.
+
+Prior experience with Teams, Modern devices, real estate and networking infrastructure services and/or data analytics projects preferred.
+
+Strong experience in visualization and storytelling to present to business
+
+Expert in querying and analyzing big data using Kusto, Scope Scripts
+
+Experience working with unstructured big data (Hadoop and/or Cosmos)
+
+Experts in advanced Excel functions (e.g., creating formulas, pivot tables) and Power BI
+
+Prior knowledge of data modelling and processing techniques for big data systems
+
+Solid understanding of BI and data solutions, including Power-pivots, cubes, and data marts.
+
+Self-motivated, agile and driven to think out-of-the-box
+
+Ability to influence diverse audiences and build strong partnerships with stakeholders
+
+Ability to work independently or to manage a virtual team that will research innovative solutions to challenging business problems.
+
+Ability to collaborate with partners and drive analytic projects end to end,
+
+Superior communication skills, both verbal and written
+
+Attention to detail and data accuracy.
+
+Business reporting
+
+Experience With Writing Requirements As Features Or User Stories
+
+Ability to be a self-motivated team player.
+
+Possession of excellent oral and written communication skills
+
+Possession of excellent teamwork and interpersonal skills
+
+Experience with Agile tools
+
+Thanks & Regards
+
+Rajiv Ranjan Rai
+
+Extend Information System Inc
+
+Email: rajiv@extendinfosys.com
+
+Cell: +1 571 800 1711
+
+Address: 44355 Premier Plaza UNIT 220, Ashburn, VA, USA 20147
+
+Web: WWW.extendinfosys.com

@@ -1,0 +1,54 @@
+About the job
+
+Summary
+
+Imagine what you could do here. At Apple, we believe new insights have a way of becoming excellent products, services, and customer experiences very quickly. Bring passion and dedication to your job and there's no telling what you could accomplish.
+
+
+The people here at Apple don’t just create products — they create the kind of wonder that’s revolutionized entire industries. It’s the diversity of those people and their ideas that inspires the innovation that runs through everything we do, from amazing technology to industry-leading environmental efforts. Join Apple, and help us leave the world better than we found it.
+
+
+It takes deeply dedicated, intelligent individuals to maintain and exceed the high expectations for the iPhone brand at Apple. The Product Operations team is looking for an extraordinary engineer to join our team. You will help design and implement our machine learning strategy to the substantial iPhone supply chain and help build the future of our manufacturing systems and smarter factories. We will be collaborating and working with multi-functional teams and applying algorithms to large-scale data.
+
+
+Key Qualifications
+
+Strong programming skills in Python
+
+3-5 years of hands-on experiences on utilizing ML to solve real world problems, with a deep understanding of ML algorithms and deep learning. Experience with sequential modeling or transformer neural networks is a major plus.
+
+Strong communicator and experience with communicating complex ML outcomes to non-technical engineers.
+
+Experience managing and driving projects with cross-functional teams.
+
+Proactive and passionate about solving real-world problems.
+
+Experience working with large scale and real world datasets.
+
+Experience with machine learning and data-related tools and libraries such as TensorFlow, Scikit-learn, R, Spark, PyTorch, SQL.
+
+Engineering background and manufacturing experiences preferred.
+
+Experience with ML in manufacturing and operations spaces. In particular, working with massive and messy manufacturing data set, as well as deploying production ready model to the factory.
+
+Experience with manufacturing and supply chain ML use cases such as testing optimization, cost reduction, and quality improvement.
+
+Experience with computer vision and deep learning in manufacturing.
+
+
+Description
+
+Operations Advanced Analytics team is looking for creative and motivated hands on individual contributors who thrive in dynamic environment and enjoy working with cross functional teams. As a member of our team, you will work on applied machine learning algorithms to seek problems that focus on topics such as classification, regression, clustering, optimizations and other related algorithms to impact and optimize Apple’s supply chain and manufacturing processes. You will work with the team to build end to end machine learning systems and modules, and deploy the models to our factories. You'll be collaborating with Software Engineers, Machine Learning Engineers, Operations, and Hardware Engineering teams across the company.
+
+
+Education & Experience
+
+Masters or Ph.D. in Computer Science, Statistics, Operations Research, Physics, Mechanical Engineering, Electrical Engineering or related fields with experience applying machine learning & statistical techniques to real business problems.
+
+
+Additional Requirements
+
+Apple is an Equal Opportunity Employer that is committed to inclusion and diversity. We also take affirmative action to offer employment and advancement opportunities to all applicants, including minorities, women, protected veterans, and individuals with disabilities. Apple will not discriminate or retaliate against applicants who inquire about, disclose, or discuss their compensation or that of other applicants.
+
+
+Role Number: 200455829

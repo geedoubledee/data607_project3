@@ -1,0 +1,50 @@
+About the job
+Job Number: R0165185
+
+Data Scientist
+
+The Opportunity:
+
+Are you excited at the prospect of unlocking the secrets held by a data set? Are you fascinated by the possibilities presented by the IoT, machine learning, and artificial intelligence advances? In an increasingly connected world, massive amounts of structured and unstructured data open up new opportunities. As a data scientist, you can turn these complex data sets into useful information to solve global challenges. Across private and public sectors — from fraud detection, to cancer research, to national intelligence — you know the answers are in the data.
+
+We have an opportunity for you to use your analytical skills to create real-world impact. You’ll work closely with your client to understand their questions and needs, then dig into their data-rich environment to find the pieces of their information puzzle. You'll develop algorithms, write scripts, build predictive analytics, use automation, apply machine learning, and use the right combination of tools and frameworks to turn that set of disparate data points into objective answers to help senior leaders within the client office to make informed decisions. You’ll provide your customer with a deep understanding of their data, what it all means, and how they can use it. Join us as we use data science for good in Personnel and Readiness.
+
+Empower change with us.
+
+You Have:
+Experience with machine learning, data mining, statistics, data structures, or graph algorithms in an academic or internship environment
+Knowledge of systems integration
+Knowledge of data analysis or data visualization
+Secret clearance
+Bachelor's degree
+
+Nice If You Have:
+Experience with data wrangling tools, including StreamSet or Trifacta
+Experience with Big Data analysis programming techniques and technologies, including Hadoop
+Experience with relational databases and data pipeline
+Possession of excellent data gathering, analytical, and problem-solving skills
+Possession of excellent verbal and written communication skills
+Bachelor's degree in Computer Science, Computer Engineering, or Systems Engineering
+
+Clearance:
+
+Applicants selected will be subject to a security investigation and may need to meet eligibility requirements for access to classified information; Secret clearance is required.
+
+Create Your Career:
+
+At Booz Allen, we know the power of analytics and we’re dedicated to helping you grow as a data analysis professional. When you join Booz Allen, you’ll have the chance to:
+access online and onsite training in data analysis and presentation methodologies, and tools like Hortonworks, Docker, Tableau, and Splunk
+change the world with the Data Science Bowl—the world’s premier data science for social good competition
+participate in partnerships with data science leaders, like our partnership with NVIDIA to deliver Deep Learning Institute (DLI) training to the federal government
+
+You’ll have access to a wealth of training resources through our Analytics University, an online learning portal specifically geared towards data science and analytics skills, where you can access more than 5000 functional and technical courses, certifications, and books. Build your technical skills through hands-on training on the latest tools and state-of-the-art tech from our in-house experts. Pursuing certifications that directly impact your role? You may be able to take advantage of our tuition assistance, onsite boot camps, certification training, academic programs, vendor relationships, and a network of professionals who can give you helpful tips. We’ll help you develop the career you want as you chart your own course for success.
+
+Compensation
+
+At Booz Allen, we celebrate your contributions, provide you with opportunities and choices, and support your total well-being. Our offerings include health, life, disability, financial, and retirement benefits, as well as paid leave, professional development, tuition assistance, work-life programs, and dependent care. Our recognition awards program acknowledges employees for exceptional performance and superior demonstration of our values. Full-time and part-time employees working at least 20 hours a week on a regular basis are eligible to participate in Booz Allen’s benefit programs. Individuals that do not meet the threshold are only eligible for select offerings, not inclusive of health benefits. We encourage you to learn more about our total benefits by visiting the Resource page on our Careers site and reviewing Our Employee Benefits page.
+
+Salary at Booz Allen is determined by various factors, including but not limited to location, the individual’s particular combination of education, knowledge, skills, competencies, and experience, as well as contract-specific affordability and organizational requirements. The projected compensation range for this position is $73,100.00 to $166,000.00 (annualized USD). The estimate displayed represents the typical salary range for this position and is just one component of Booz Allen’s total compensation package for employees.
+
+EEO Commitment
+
+We’re an equal employment opportunity/affirmative action employer that empowers our people to fearlessly drive change – no matter their race, color, ethnicity, religion, sex (including pregnancy, childbirth, lactation, or related medical conditions), national origin, ancestry, age, marital status, sexual orientation, gender identity and expression, disability, veteran status, military or uniformed service member status, genetic information, or any other status protected by applicable federal, state, local, or international law.

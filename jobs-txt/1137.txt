@@ -1,0 +1,56 @@
+About the job
+The Learning Engineering Virtual Institute (LEVI) is a new research and development program to spur the development of ed-tech tools that can double the rate of middle school math progress for students from low-income families. Student proficiency in math and literacy has declined in the past decade. Pandemic related school disruptions will leave lasting scars on the nation and world’s education system. Math performance, especially among historically marginalized populations, is particularly poor. And yet, math proficiency is critical to access a living wage. Indeed, passing 6th grade math is one of top predictors of high school graduation.
+
+Digital Harbor Foundation is hiring engineers to embed and rotate through LEVI teams to accelerate these teams’ potential to meet the program’s 5-year goal of doubling the rate of middle school math progress. Engineering work will be remote, and placement and duration will be based on a match between engineers’ skills and interests and the needs of host organizations. Digital Harbor Foundation will be the employer of record. Digital Harbor Foundation is dedicated to digital equity for everyone, increasing diversity in the technology sector, and advancing technology innovation for the public good. Driven by our sincere belief that access to opportunity is a basic right, we take bold yet practical actions to support making a better future now. Through a portfolio of projects focused on developing leadership within communities, we support those closest to challenges to take deliberate actions based on a design thinking approach, backed by data analysis, grounded in a practice of collective impact, and driven by a commitment to racial equity.
+
+LEVI is an institute that leverages advances in computer and data science to improve the speed, relevance, and use of learning science. It creates deep collaboration across institutions and disciplines with a strong ethos of actual building and experimentation. The program currently supports seven teams from world-class academic, non-profit, and for-profit organizations on 3 continents, all with compelling proposals for transformative technologies in education. Each team may receive up to five years of R&D funding.
+
+Learning Engineering Virtual Institute teams are leaders in the education technology and research field, with high impact in real education settings. LEVI engineers build systems for methods like natural language processing and large language models, reinforcement learning, experimentation at scale, advanced psychometrics, causal inference, and large-scale data warehousing for education science.
+
+Education And Experience Requirements
+
+3+ years of relevant industry experience or applied academic research experience
+Advanced degree preferred: computer science, software engineering, or a relevant applied computational field
+
+Knowledge, Skills And Abilities
+
+Preference will be given to applicants with experience in learning engineering or analytics, large-scale machine learning approaches, cloud computing, experimental research designs, or education technology
+Understanding of the software development lifecycle and collaborative software development tools and processes
+Ability to quickly perform at a high level, even while rotating between up to 7 teams within a year
+Excellent communication and project management skills
+Machine learning / data science for modifying or fine-tuning large foundational AI models for education and mathematical reasoning use cases on multimodal datasets with complex outcomes, often including approaches such as reinforcement learning, natural language processing, student modeling, and speech recognition
+Machine learning engineering, especially putting models into production, scaling the training and use of models, and using common resources such as foundational language models
+
+Additional Notes
+
+This position is fully remote and either a Part Time or a Full Time employee will be considered.
+
+Role and Responsibilities
+
+Create engineering outputs for LEVI grantees based on their areas of highest need: strategy documents, prototypes, or production code. While specific engineering outputs will vary based on team needs and existing architectures, all work will use modern cloud computing systems to build and host data-centric education technology applications for immediate use in real K-12 education settings.
+Communicate with Digital Harbor about skills and interests to ensure good matches with host organizations, report on time use and outputs created, and share knowledge back with the Foundation and funders
+
+Other Duties as assigned: Please note that this job description is not designed to cover or contain a comprehensive listing of activities, duties or responsibilities that are required of the employee for this job. Duties, responsibilities, and activities may change at any time with or without notice.
+
+Compensation
+
+The salary range for this full-time position is $110,000 - $112,800, commensurate with experience.
+
+In addition to a competitive salary, Digital Harbor Foundation offers a generous benefits package for full time employees:
+
+Health, Dental and Vision Insurance (Digital Harbor Foundation pays 100% of the premium for employees!)
+Health Savings Account
+Flexible Savings Account
+Paid Life Insurance
+Paid Short-term & Long-term Disability
+401k Retirement Plan with 6% Match
+15 Days Paid Time Off
+14 Paid Holidays
+
+A detailed cover letter outlining your qualifications for the position along with your resume is required. Interviews will be conducted virtually.
+
+Digital Harbor is an equal opportunity employer
+
+Powered by JazzHR
+
+tvzwFntdrT

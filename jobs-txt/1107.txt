@@ -1,0 +1,17 @@
+About the job
+The Role
+
+Support a variety of algorithmic products with core algorithmic data science capabilities
+Hands-on developer of internal models/processes such as machine learning models, numerical optimization, time-series forecast, statistical significance testing, ml-as-a-service API development, and streaming event data processing.
+Stay up to date with latest data science research and how it can be applied to Hyatt’s business.
+Work collaboratively with other data scientists and ML engineers to ensure proper execution/integration of algorithmic products.
+Report on algorithmic product performance and incremental business impact with a commitment to ethical data science.
+Qualifications
+
+Master’s degree in computer science, statistics, or related fields required.
+2-3 years of data science experience with a focus on algorithmic data science, hospitality experience not required.
+Expertise in Python and SQL, additional software experience preferred ie Docker, Spark.
+Experience in machine learning modelling (classification, regression, reinforcement) across a variety of implementations (linear, neural networks, svm, tree-based, bandits, etc) and frameworks (Tensorflow, PyTorch, Sagemaker, Prophet etc)
+Experience applying statistical test (t-test, chi-squared, non-parametric etc), experiment design, and causal inference models to real-world problems
+Experience with IP/MIP/QP optimization
+Experience deploying ml-driven solutions to production with a focus on measurable impact and outcomes

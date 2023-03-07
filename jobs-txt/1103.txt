@@ -1,0 +1,39 @@
+About the job
+We’re looking for talented professionals, anywhere in the United States, to join us in bringing smart money management and payment solutions to everyone’s fingertips.
+
+
+At Green Dot, we are evolving to a new and permanent “We’re looking for talented professionals, anywhere in the United States, to join us in bringing smart money management and payment solutions to everyone’s fingertips.
+
+
+JOB DESCRIPTION
+
+This is an exciting opportunity to apply data science techniques and drive the growth of Green Dot’s Direct Business - including strategic product: GO2bank -‘The ultimate mobile banking app’. The data science team is working on several projects related to lead scoring, funnel optimization, experimentation, customer retention, product analytics and fraud/risk ops areas. We are looking for candidates who are passionate about leveraging data science techniques to solve business problems and supplying stakeholders with actionable insights/decisions. The ideal candidate must be a self-starter who is able to deliver high quality work within tight deadlines and potentially propose/develop innovative solutions as well. The candidate will be reporting to Sr. Director of Data Science.
+
+
+Job Responsibilities
+
+Develop and implement data science/advanced analytics enabled solutions to drive business outcomes and goals
+Designs, develops and programs methods, processes, and systems to consolidate and analyze unstructured, diverse “big data” sources to generate actionable insights and solutions for services and product enhancement.
+Own and deliver predictive modeling/analytics projects of moderate scope or manage significant tasks on complex data science projects
+Perform large-scale data analysis to inform business decisions around web behavior, funnel optimization, transactions, balances, customer behavior, risk and overall operational trends
+Define, write queries, extract and transform data sets to create features for modeling and/or generate actionable insights
+Collaborate with Data engineering and Model Risk Management to build and deploy models/analytical solutions into production
+Identifies meaningful insights from large data and metadata sources; interprets and communicates insights and findings from analysis and experiments to product, service, and business managers.
+Collaborate with business stakeholders as per project needs and communicate results of the models/analytical solutions developed
+Perform other duties as need
+
+Job Requirements
+
+Bachelor’s degree in a quantitative, technical, or financial discipline required. Masters or PHD in similar field is a plus
+2-7 years of experience in data science or advanced analytics based on education/experience
+Advanced understanding of data science and statistical modeling techniques such as classification, clustering, regression, decision trees etc.
+Proficiency writing SQL (i.e. Amazon Redshift, MS-SQL Server) and working with large data sets
+Experience using Python (required), other statistical tools (such as R) and AWS Sagemaker (preferred but not mandatory)
+Experience developing dashboards using business intelligence or reporting tools such as Tableau or Microstrategy
+Proactive work style, progressive thinking skills, strong work ethic, communication and problem-solving skills
+
+POSITION TYPE
+
+Regular<<>><<>><<>><<>><<>><<>><<>><<>><<>><<>>
+
+Green Dot promotes diversity and provides equal opportunity for all applicants and employees. We are dedicated to building a company that represents a variety of backgrounds, perspectives, and skills. We believe that the more inclusive we are, the better our work (and work environment) will be for everyone. Additionally, Green Dot provides reasonable accommodations for candidates on request and respects applicants' privacy rights.

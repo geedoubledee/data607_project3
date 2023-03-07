@@ -1,0 +1,44 @@
+About the job
+Job Title: Data Scientist
+
+
+Job Description:
+
+
+We are seeking a talented Data Scientist to join a HealthTech Firm based in Florida. The ideal candidate will be responsible for developing and implementing algorithms and statistical models to analyze large datasets, and communicate insights to stakeholders.
+
+
+Responsibilities:
+
+
+Use advanced statistical analysis and machine learning techniques to analyze large datasets and identify patterns, trends and insights.
+Develop and implement predictive models to optimize business performance and outcomes.
+Collaborate with cross-functional teams to identify business problems and develop solutions.
+Communicate results and insights to stakeholders through data visualizations and presentations.
+Continuously monitor and improve data quality, accuracy, and consistency.
+Stay current with latest developments in machine learning, data science, and technology trends.
+Requirements:
+
+Bachelor’s or Master’s degree in Computer Science, Statistics, or related field.
+3+ years of experience in data analysis and modeling using tools such as Python, R, and SQL.
+Strong understanding of statistical modeling techniques such as regression, clustering, decision trees, and neural networks.
+Experience with machine learning algorithms such as Random Forest, SVM, Neural Networks, and Gradient Boosting.
+Proficient in data visualization tools such as Tableau, Power BI, or D3.js.
+Strong problem-solving skills and ability to communicate complex findings in simple terms.
+Experience working with large datasets and distributed computing frameworks such as Hadoop, Spark, or AWS EMR.
+Strong understanding of data structures, data modeling, and database design.
+Experience working with unstructured data such as text, images, and videos is a plus.
+Strong programming skills in Python, R, or other languages commonly used in data analysis.
+
+If you have the required skills and experience, and are excited about working in a fast-paced, dynamic environment, we encourage you to apply for this exciting opportunity.
+
+
+Benefits:
+
+
+401(k)
+Holidays: 10 paid holidays
+Life Insurance
+Hybrid Working
+
+Please note, The employer is not able provide sponsorship for this role.

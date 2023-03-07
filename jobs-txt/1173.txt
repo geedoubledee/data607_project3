@@ -1,0 +1,27 @@
+About the job
+Machine Learning Engineer (NLP)
+
+
+This MIT spinout is currently seeking a Machine Learning Engineer (NLP) to join an innovative company bringing automation and optimization services to new heights. This company is applying for cutting-edge advances in operations research and machine learning to solve real-world challenges that will transform navigation for the future.
+
+
+
+Based in the Greater Boston area, you will have the chance to solve complex problems and see your solutions come to life in different industries through the use of an ML microservice platform that utilizes Natural Language Processing, Deep Learning, and Computer Vision.
+
+
+
+Our ideal Machine Learning Engineer (NLP) would have a background in researching Machine Learning algorithms and implementing different recommendation models. A passion for writing code would be preferred and the ability to design and apply NLP algorithms to create a better understanding.
+
+
+
+We can offer our Machine Learning Engineer (NLP):
+
+A chance to develop the next generation of technology
+A culture rooted in diversity that offers our employees the opportunity to work with some of the best scientists, engineers, and coders from around the globe
+Expansive benefits coupled with the promise of exciting technical innovation
+Flexibility to work from anywhere in the world for one month a year
+$1,000 bonus to take 5 consecutive days off each year
+Daily catered lunches
+
+
+Key Skills: Data Scientist, Data Science, Python, Tensorflow, Pytorch, OCR, NLP, Natural Language Processing, Mahine Learning, Machine Learning Algorithms, Deep Learning, Deep Learning Models, C++, Engineer, Design, Computer Vision, Microservices

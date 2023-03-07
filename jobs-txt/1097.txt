@@ -1,0 +1,65 @@
+About the job
+Description & Requirements
+
+Who we are:
+
+lululemon is a yoga-inspired technical apparel company up to big things. The practice and philosophy of yoga informs our overall purpose to elevate the world through the power of practice. We are proud to be a growing global company with locations all around the world, from Vancouver to Shanghai, and places in between. We owe our success to our innovative product, our emphasis on our stores, our commitment to our people, and the incredible connections we get to make in every community we are in.
+
+About This Team
+
+The People Analytics & Insights team at lululemon is on a journey to create a high-performance work culture by supporting the People & Culture (HR) organization and the rest of the company with data-driven insights. As a People Data Scientist, you are an exceptional critical thinker comfortable leading end-to-end data science projects, and passionate about uncovering hidden opportunities deep within data. You will work closely with leaders at all levels and project managers to address challenges that impact the whole company and its revenue from the employee and organizational perspective. You will be responsible for collaborating with and supporting stakeholders and partners, using data to influence key strategic business decisions, and scale insights as we grow our work.
+
+A Day In The Life
+Collaborate with People & Culture stakeholders and understand key business priorities and challenges to design the right actionable data science and analytics solution to address.
+Deliver analytical and data science solutions, such as forecasts, predictive-type, driver analyses, group comparisons.
+Analyze and interpret large and complex people data sets to distill insights; connect disparate insights into cohesive, well-grounded recommendations
+Build dashboards to deliver end-user friendly analytics and data science output, including guides and other supportive materials.
+Presents data findings and insights across most levels of leadership and stakeholders in a compelling way and facilitate discussion that leads to decisions.
+Collaborate with cross-functional partners from Tech, Legal, Finance and others on enterprise-wide projects that make large business and employee impact
+Socialize the importance of data governance and ethics and ensure consistency around data quality through process improvements.
+Lead data science projects from start to finish, identifying opportunities, defining the problem, building a proof of concept, and deploying a data product
+Conduct data mining on guest, product, sales, assortment data sources for insights; generate hypotheses to test for opportunities in improving the merchandising and planning process
+Program and write maintainable and well-documented scripts/applications for process automation; produce reusable models
+Partner with Tech on a People Analytics data infrastructure and data warehouse build
+Support ad hoc requests for analytics by stakeholders.
+Qualifications
+Experience transforming and analyzing people data from multiple sources to drive business insights
+Strong experience with advanced statistics (e.g., Descriptive and Inferential: E.g., hypothesis testing, regressions, factor analysis, etc),
+Strong experience with visualization tools and data spreadsheets, such as Power BI and Excel
+Excellent communication skills and experience successfully partnering with non – analysts to drive improved outcomes for the business through analytics.
+Proven ability to perform with a high degree of accuracy and detail orientation
+Proven ability to deliver presentations to stakeholders that tell a compelling story using analytics relevant to the audience.
+Experience with employee and organizational data is strongly preferred
+Discretion and experience working with sensitive and confidential data
+Training in a quantitative field or other relevant fields.
+Exceptional analytical skills, problem-solving skills, and creativity
+Excellent interpersonal skills, written, and verbal communication skills
+Experience SQL, querying, data mining & cleaning skills
+Strong experience with R or Python
+Ability to take on responsibilities and work with minimal supervision;
+Ability to create and maintain outstanding partner relationships;
+Experience with Workday and Avature is a plus
+Excellent communication skills to both technical and non-technical audiences
+Able to turn business problems into analytical solutions
+4 to 6 years of relevant experience
+Must Haves
+Acknowledges the presence of choice in every moment and takes personal responsibility for their life.
+Possesses an entrepreneurial spirit and continuously innovates to achieve great results.
+Communicates with honesty and kindness and creates the space for others to do the same.
+Leads with courage, knowing the possibility of greatness is bigger than the fear of failure.
+Fosters connection by putting people first and building trusting relationships.
+Integrates fun and joy as a way of being and working, aka doesn’t take themselves too seriously.
+Compensation And Benefits Package
+
+For Washington Applicants: lululemon’s compensation offerings are rooted in a pay-for-performance philosophy that recognizes exceptional individual and team?performance. The?typical hiring range for this position in Washington is from?$141,400 - $185,600 annually; the base pay offered is based on market location and may vary depending on job-related knowledge, skills, experience, and internal equity. As part of our competitive Total Rewards offering, permanent employees in this position may be eligible for our competitive annual bonus offering, subject to program eligibility requirements. ?
+
+At lululemon, investing in our people is a top priority. We believe that when life works, work works. In addition to our competitive Total Rewards offering, we also have personal and professional development offerings. Our offerings recognize our teams for their performance and support whole person development, including support for employees on how to grow their career: ?
+Extended health and dental benefits, and mental health plans
+Paid time off
+Savings and retirement plan matching
+Generous employee discount
+Fitness & yoga classes
+Parenthood top-up
+Extensive catalog of development course offerings
+People networks, mentorship programs, and leadership series (to name a few)
+Note: Availability of the incentive programs, benefits, and perks may be subject to your location & employment type and may have certain eligibility requirements. The Company reserves the right to alter these incentive programs, benefits, and perks in whole or in part at any time without advance notice.

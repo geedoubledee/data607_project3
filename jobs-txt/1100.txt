@@ -1,0 +1,41 @@
+About the job
+At Glacier, we are taking on one of the world’s most pressing problems: trash. Did you know that, in the US, we send over half of our recyclables to the landfill? We're working to fix that. In doing so, we’ll also be reducing carbon emissions, energy consumption, and depletion of natural resources.
+
+
+Glacier builds in-house computer vision models to power our two core products: a robot that identifies and sorts commodities inside recycling facilities and an analytics system that tracks recyclables and reports metrics to key stakeholders in the industry. These technologies are already helping to divert tons of recyclables (literally!) from landfills every day. We’re looking for a talented machine learning engineer to help us further improve these game-changing technologies.
+
+
+About us:
+
+We’re a small team based in SF. Our founders come from Facebook engineering and Bain consulting. As an early member of our ML team, you’ll have a significant role in shaping Glacier’s future.
+Commitment to ending waste and fighting climate change is in our team’s DNA. We are excited to bring on new teammates who share in this mission.
+We’re backed by top-tier VCs and angels with extensive technical and industry expertise.
+We have several machines in production at customer sites and a robust pipeline of upcoming deployments.
+
+About the role:
+
+We are looking for a talented machine learning engineer to help us build our game-changing technologies. You will be responsible for training computer vision models, building infrastructure for large-scale inference and data analysis, and driving new projects to use machine learning to reduce waste.
+
+
+Your responsibilities:
+
+Drive the performance of our computer vision models. That includes: building ML infrastructure, fine tuning our model and training process, improving our data collection, and ensuring high quality, diverse training data.
+Build automation and experimentation into our full ML lifecycle, enabling us to deploy systems and create impact at scale.
+Partner with our founders on the long-term product roadmap; we have lots of ideas for what waste-ending technology to build next, and we’d love to hear yours too!
+
+Requirements:
+
+(If you don't think you meet all of the criteria but are excited about us, please reach out anyway!)
+
+
+2+ years experience developing machine learning models in a deep learning framework like Tensorflow/Keras or Pytorch.
+Computer vision model development (especially object detectors) is strongly preferred.
+Experience with building machine learning infrastructure (training pipelines, hyperparameter tuning, experiment tracking, etc).
+Strong expertise in Python and hands-on experience in SQL databases.
+Proficiency with the SciPy ecosystem (numpy, pandas, matplotlib) and distributed computing in frameworks such as Ray.
+Ability to work from our San Francisco office (SOMA neighborhood) on most days of the week.
+
+The total cash compensation range for this role is $120,000 - $160,000. In addition to cash compensation, Glacier also offers competitive equity compensation and benefits. The final compensation for this role will depend on many individualized factors, including job-related skills and knowledge, experience level, interview performance, and other factors.
+
+
+Visa sponsorship is available for this position.

@@ -1,0 +1,45 @@
+About the job
+SparkCognition Government Systems (SGS) is the first full-spectrum artificial intelligence (AI) company devoted entirely to the government and national defense mission. By developing and operationalizing next-generation AI-powered solutions, SGS enables government organizations to meet the needs of their most pressing national security missions. Using technologies built in the United States, SGS advances government operations by analyzing complex data to inform and accelerate intelligent decisions, applying predictive and prescriptive analytics to improve logistics and readiness, deploying autonomy technology for unmanned systems, using natural language processing for large scale processing of unstructured data, and more.
+
+About The Role
+
+SGS is looking for a Junior Data Scientist to join our team dedicated to developing and integrating AI solutions that address critical national security initiatives. As a Junior Data Scientist, you will use your analytical and statistical skills to evaluate data for bias and suitability, prepare data for modeling, develop and evaluate models, and communicate results internally and with customers.
+
+Responsibilities:
+
+Partner with other Data Scientists to apply machine learning (ML) expertise, as well as develop and deliver novel customer solutions
+Independently and effectively engage with external technical stakeholders and subject matter experts to understand and solve critical business problems through the application of cutting-edge AI
+Design and deploy ML models for commercial and industrial applications, such as anomaly detection, prescriptive maintenance, and logistics
+Collaborate with project teams through all phases of the data science process, from data exploration and processing, feature selection and engineering, model training and testing, and information synthesis
+Maintain and apply deep understanding and application of all relevant SparkCognition products/technologies to support ongoing projects and proposal work
+Use and/or identify procedures and automated toolsets to efficiently and effectively perform data science activities
+Contribute internally and externally to AI product development and key data science research areas
+
+About You
+
+Must be a U.S. Citizen and able to meet Security Clearance eligibility requirements for access to classified information
+Bachelor’s Degree in Computer Science, Statistics, Physics, Mathematics, Engineering, or a related scientific discipline
+Strong knowledge and understanding of data science, including basic elements of machine learning, statistics, and probability
+Strong understanding of descriptive and inferential statistics (e.g., Empirical Rule and hypothesis testing)
+Experience with one or more data science programming languages (e.g., Python or R)
+Experience with one or more ML frameworks (e.g., PyTorch, TensorFlow/Keras, and Theano)
+Applied knowledge of ML techniques/algorithms including linear and logistic regression, neural networks, decision trees, Bayesian techniques, clustering, and anomaly detection
+Ability to work independently and collaboratively on a project team, as well as effectively prioritize workload to meet deadlines and work objectives
+Strong written and verbal communication skills
+Ability to translate complex technical topics to internal and external stakeholders
+Ability to form strong working relationships with team members, cross-departmentally, and customers' technical teams
+
+Even Better
+
+Experience working in the Defense or Aerospace industry
+Familiarity working cross-functionally with Agile development methodologies
+Experience using GitLab to manage software projects
+Experience with best coding practices such as establishing virtual environments, passing environment variables, object-oriented programming, and others
+Experience with developing web applications and/or interfacing with APIs
+Graduate degree in Computer Science, Statistics, Mathematics, Engineering, or a related scientific discipline
+
+SparkCognition Government Systems (SGS), Inc., is an equal opportunity employer, dedicated to diversity, equality, and inclusion, and provides equal employment opportunities to all employees and applicants for employment. SGS prohibits discrimination and harassment of any type without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state, or local laws.
+
+Equal Opportunity Employer/Protected Veterans/Individuals with Disabilities
+
+The contractor will not discharge or in any other manner discriminate against employees or applicants because they have inquired about, discussed, or disclosed their own pay or the pay of another employee or applicant. However, employees who have access to the compensation information of other employees or applicants as a part of their essential job functions cannot disclose the pay of other employees or applicants to individuals who do not otherwise have access to compensation information, unless the disclosure is (a) in response to a formal complaint or charge, (b) in furtherance of an investigation, proceeding, hearing, or action, including an investigation conducted by the employer, or (c) consistent with the contractor’s legal duty to furnish information. 41 CFR 60-1.35(c)

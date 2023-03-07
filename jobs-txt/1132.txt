@@ -1,0 +1,41 @@
+About the job
+Job Summary:
+
+
+Cercacor is a health and wellness innovator harnessing the power of artificial intelligence and clinical evidence to drive meaningful change in healthcare. We are using cutting-edge technology, data, and a highly engaging user experience to revolutionize chronic disease management and prevention. We are looking for a Data Scientist responsible for maintaining fast growing datasets, developing custom data models, and extracting actionable insights to make Cercacor products more delightful and intuitive for customers.
+
+
+Duties & Responsibilities:
+
+Apply mathematical principles to solve real estimation problems, build probabilistic/deterministic models, and implement practical solutions.
+Process large amounts of data with focus on accuracy, organization, and efficiency.
+Move products through the full development process, from research through commercial launch.
+Solve challenging problems through analytical and critical thinking.
+Participate in data collection efforts to help organize and analyze data from various sources.
+Minimum Qualifications and Experience:
+
+0+ years of experience in the field of Data Science, Algorithm Development, Machine Learning, or Software Engineering.
+Bachelor’s or Master’s degree in Computer Science/Engineering, Electrical Engineering, Biomedical Engineering, or related field.
+Proficiency using Python.
+Excellent programming skills with attention to detail, organization, simplicity, and cleanliness.
+Ability to work independently and with limited supervision.
+Good communication skills, both verbal and written, and the ability to interface effectively with team members.
+At least 1 of the desired qualifications.
+Desired Qualifications and Experience:
+
+Proficiency in using data science toolkits such as Keras, Tensorflow, PyTorch, etc.
+Practical experience in time series analysis and sequential modeling.
+Ability to apply NLP to extract information and insights from text.
+Experience developing object recognition models in a production environment.
+Familiarity with web frameworks such as Flask and deployment concepts such as Docker.
+Prior experience building REST APIs and interfacing applications with other 3rd party APIs.
+Physical requirements/Work Environment
+
+This position is located in Irvine, CA.
+
+Cercacor has a mandatory COVID-19 vaccination policy. All employees, including all new hires, are required to be fully vaccinated against COVID-19 as a condition of employment unless a legal exemption applies.
+
+This position primarily works in an office environment. It requires frequent sitting, standing and walking. Daily use of a computer and other computing and digital devices is required. May stand for extended periods when facilitating meetings or walking in the facilities. Some local travel is necessary so the ability to operate a motor vehicle and maintain a valid driver’s license is required.
+
+
+The physical demands of the position described herein are essential functions of the job and employees must be able to successfully perform these tasks for extended periods. Reasonable accommodations may be made for those individuals with real or perceived disabilities to perform the essential functions of the job described.

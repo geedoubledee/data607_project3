@@ -1,0 +1,52 @@
+About the job
+Job Summary: Our client is seeking an entry-level Data Scientist to join their remote team. This position functions more as an analyst role, with a focus on Stitching, geo-referencing and analyzing "UAV imagery" to derive insights and phenotypic metrics. In order to be successful in this role, UAV imagery experience is crucial.
+
+
+The primary purpose of this job is to support Regulatory Science lab teams by extracting data from source templates and utilizing data pipelines to store the data sets and maximize the data value.
+
+
+Duties:
+
+Partner with business colleagues to define user requirement and data needs
+Develop, configure and support data mapping tools for a custom
+Build computer vision end to end pipeline from image data preprocessing, data ingestion, data filtering to imaging model development, deployment, and monitoring
+Stitch, georeference and analyze UAV imagery to derive insights and phenotypic metrics
+Communicate results with the key stakeholders and improve pipelines based on feedback
+Use advanced mathematical models, machine learning algorithms, operations research techniques, and strong business acumen to deliver insight, recommendations, and solutions UAV imagery
+Develop sustainable, consumable, accurate, and impactful code for model building and deployment
+Partner with a senior member of the data science team to turn data into critical information and knowledge that can be used to make sound organizational decisions
+
+Desired Skills/Experience:
+
+BS Degree + 5 years experience, OR MS Degree + 2 years experience or PhD (degree in Computer Science, Chemistry, Biology, Engineering, or related field)
+Sufficient knowledge about creating database schemas and methods to store data in cloud/AWS SageMaker, model training and orchestration in AWS
+Adept in defining APIs for user interface and model deployment
+Good Understanding of image processing, color spaces, machine learning, deep learning, and Convolutional Neural Networks
+Understanding of imaging sensors and technology, and photogrammetry is a plus
+Remote sensing and geospatial imagery analysis experience specifically UAVs, knowledge of any one tool like QGIS, ENVI, ArcGIS etc.
+Experience using any of the image stitching tools like ODM, Agisoft etc.
+Good understanding of any one of deep learning framework Pytorch, Tensorflow or MXNET and ability to build models from scratch
+Knowledge of transfer learning and making ML models work with limited data
+Good Understanding of machine learning pipeline in production (MLOPs)
+Very good knowledge of Python
+Version Control (Git)
+Relational databases: structure, data types, querying
+Excel expertise: formulas, pivot tables, data validation
+Strong communication skills - written, verbal and online tools
+Strong documentation skills - requirements and product guides
+Experience testing and diagnosing / fixing issues
+Experience meeting timelines
+Experience with GxP environment
+Experience with DevOps processes
+Working knowledge of computer language: Python, Java, R, Unix shell, etc.
+Experience with project management tools: Jira, etc.
+Fundamental knowledge of databases
+COVID-19 Vaccination
+
+Benefits:
+
+Medical, Dental, & Vision Insurance Plans
+401K offered
+
+
+KMID: 124269

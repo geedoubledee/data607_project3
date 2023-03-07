@@ -1,0 +1,36 @@
+About the job
+The NBA is committed to providing a safe and healthy workplace. To safeguard our employees and their families, our visitors, and the broader community from COVID-19, and in consideration of recommendations from health authorities and the NBA’s own advisors, any individual working onsite in our New York and New Jersey offices must be fully vaccinated against COVID-19. The NBA will discuss accommodations for individuals who cannot be vaccinated due to a medical reason or sincerely held religious belief, practice, or observance.
+
+
+Position Summary:
+
+Basketball Data Scientist & Scheduling Analyst role in supporting the Business Strategy and Analytics team.
+
+Major Responsibility:
+
+Perform rigorous statistical analysis and visualizations that relate to league structure, rule changes, game play, improvements to the competition format, and implementation of technologies to improve player health, game integrity, and fan engagement across the NBA and affiliate leagues
+Support creation of NBA game schedule, including year-round execution, team engagement, and use of new best-in-class analytical approaches to optimization
+Support long-term planning and partnerships for NBA scheduling software ecosystem
+Generate ideas and innovate within and around the game of basketball to grow fan interest in the game and the NBA
+Generate insights and prepare reports for senior leadership in League Operations and undertake follow-up analysis as directed
+Respond to internal data requests to support operations in related NBA League Office departments
+Identify patterns and trends to assess data quality and applicability in League Operations decision making
+Required Skills/Knowledge:
+
+2-5 years of experience in strategy, project management, and/or data analytics, ideally related to the sports industry
+Self-starter with exceptional problem-solving skills and ability to communicate with a non-technical audience and deal effectively with senior management
+A passion for sports and a strong interest in the NBA, its teams and affiliated leagues
+Applied knowledge of statistical regression methods
+Supervised and unsupervised learning techniques in machine learning (e.g. dimensionality reduction and clustering)
+Experience with modeling (e.g., Excel), scripting languages (e.g. R or Python) and data visualization tools (e.g. Shiny or Tableau)
+Confident individual, able to work in a fast-paced environment and manage short term deliverables along with long-term projects
+Proven self-management, problem identification and solution capabilities
+Must exercise good judgement and be able to maintain confidentiality with sensitive projects
+Ability to work well in a team environment and independently
+Strong communication skills (verbal & written)
+Education:
+
+Bachelor's Degree in Math, Computer Science, Statistics, Engineering, or related discipline; Master's degree preferred
+Salary Range:
+
+$90,000-110,000 per year

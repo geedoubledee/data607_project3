@@ -1,0 +1,25 @@
+About the job
+About usGrid is a venture-backed technology startup democratizing financial services for hard-working Americans. We're starting by giving back the money you overpay in taxes today, not next year. Use that extra cash to save for a home upgrade, make the holidays a little brighter, or just give yourself a treat. Grid has already helped thousands of people get a little closer to their dreams. And we're just getting started. The roleWe are looking for a highly-motivated and curious Data Scientist to help solve critical business problems at Grid. In this role, you will use analytical, statistical, and programming skills to collect and interpret large datasets and develop and deploy data-driven business solutions. Specifically, you will be responsible for identifying and preventing fraudulent behavior across our suite of FinTech products, and working closely with Product, Engineering, and Risk to build and implement fraud prevention strategies.
+
+What you will be doing
+
+Quantify, generalize and monitor risk-related business and operational metrics
+Autonomous end-to-end statistical model creation, including but not limited to identifying objectives, compiling data, sampling/prepping data, feature selection, model comparison/selection, deployment, and monitoring
+Partner with cross-functional stakeholders to enhance model implementation processes and translate requirements into integrated forecasting process/tools for effective consumption
+Build and maintain fraud features, rules, and models in response to evolving fraud behaviors
+Define risk control measurements
+Present findings to Leadership and make recommendations to strengthen business risk decisions
+About you
+
+BA degree in Analytics, Statistics, Mathematics, or a related quantitative field
+1+ years of professional experience in a data science or data engineering role
+Knowledge and experience in modeling techniques and advanced applied skills (e.g. logistic regression, multivariate regression, Random Forest, Boosting, Trees, text analysis, etc.) as
+Fluency in the data science tech stack, including Python (pandas, numpy, scipy, matplotlib, scikit-learn) for data science/machine learning, analytics/visualization/BI tools, and SQL
+Experience with data engineering concepts, ETL pipelines, and working with the Google Cloud Platform
+Outstanding quantitative modeling and statistical analysis skills
+Bonus points
+
+Advanced degree in any field relevant to Data Science
+Previous experience in FinTech and/or fraud and risk analysis.
+
+PI204123150

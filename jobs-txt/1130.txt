@@ -1,0 +1,89 @@
+About the job
+ABOUT US
+
+tms unites technology, marketing and sourcing to drive transformational change for the world’s leading brands. With 1000+ employees across 26 countries, we offer an impressive range of solutions — from inspiration and innovation to category management and delivery. Most importantly, we're a place where you can achieve great things, and be recognized as the best.
+
+
+Our parent company, HAVI, is a global, privately held company that delivers expertise and experience across analytics, packaging, sourcing, supply chain, and logistics. Together, we unlock potential in our shared talent, more career opportunities and benefits, and an elevated service for our clients — which include the likes of McDonald’s, T-Mobile, O2 and adidas — as well as their customers.
+
+Check out our latest and greatest work, from Happy Meals and reusable packaging to adidas immersive experiences, digital campaigns, and more: https://vimeo.com/manage/videos/792991243
+
+
+
+Learn how we're bringing together technology, marketing, and sourcing to transform brands through "The Power of And": https://vimeo.com/792991410
+
+
+
+WHAT MATTERS THE MOST
+
+Breakthrough, business-driving ideas come from extraordinary people with the freedom to be their most authentic selves at work. And we know authenticity and diversity — critical elements of our business — can only be realized when we create access and equity for all. We foster a culture of inclusion and belonging and aspire to be ever-evolving, always growing and listening.
+
+
+
+If you want your ideas to be heard and to contribute to a culture of inclusion and authenticity, bring us your voice!
+
+
+
+ROLE OVERVIEW
+
+As a Data Scientist, you are a creative problem-solver by trade and have outstanding organizational skills, able to manage multiple responsibilities and deliverables simultaneously.
+
+
+Responsible for planning, developing, and executing analytical methods for a leading brand with large analytical databases, you have a solid track record in applied analytic modeling, machine learning and algorithms, and statistical analyses.
+
+
+
+This role will work with large, complex data sets to derive measurable business insights using machine learning and advanced analytics.
+
+
+
+
+Responsibilities:
+
+Work closely with cross-functional team members, provide delivery of analytics services with an emphasis on promotion, retail, shopper, licensing, and digital channels, including:
+Predictive modeling
+Machine learning
+Segmentation
+Time-series forecasting
+Build dashboards and visualizations of processed data
+Communicate insights or issues uncovered through working with the data
+Proactively identify potential data improvements and augmentations from external data provided
+Use predictive analytics and machine learning to drive business decisions
+Support the development of measurement strategies, identifying key insights and metrics to track and report on
+Deliver hands-on strategic modeling activities such as customer segmentation, targeting strategies, lifetime value, in-market timing, loyalty, response/engagement optimization, machine learning and quantitative support for ROI analyses and other modeling activities
+Collaborate with client service and technical teams, and potentially directly with clients, to identify modeling goals
+Track and report on our initiatives, successes, and lessons learned, and package outcomes in a client facing presentation
+Prioritize tasks and work assignments, ensuring timelines and commitments are met
+Participate in ad-hoc special projects as required, and other tasks as assigned
+Manipulate, cleanse and perform statistical analyses
+
+
+
+
+
+
+SKILLS AND EXPERIENCE
+
+Bachelor’s degree in Mathematics, Statistics, Computer Science, or related field is required
+Minimum 1-3 years' experience delivering analytic results working within database marketing, CRM and analytics ideally in the marketing field
+Highly collaborative with ability to build partnerships across different teams and people
+Innate curiosity and proven ability to connect insights and gain inspiration from disparate sources
+Classification methods (e.g., Logistic Regression, Decision Trees, Neural Net)
+Regression methods (e.g., Linear, Nonlinear, Boosted Regression Trees)
+Time-series Modeling (e.g., ARMA, GARCH, Exponential Smoothing)
+Experience in measurement and analysis of data from business and marketing perspectives
+Proven experience cleansing, manipulating, and transforming data
+Expertise with business intelligence tools and supporting technologies
+Minimum one years' experience in hands-on use of tools such as R, Python, or SAS
+Highly organized and comfortable working in flexible, constantly evolving environments with tight turnaround times and shifting priorities
+Demonstrated experience working in a SQL server environment
+Highly professional and presentable with a strong intuition for business
+Versed in crafting and conducting dynamic presentations
+Post-secondary education in a relevant field including Mathematics, Statistics, Computer Science or equivalent experience
+Experience in any of the following: business strategy and presentation, financial analysis, and/or consumer market research; Retail and digital experience strongly preferred
+An understanding and passion for retail marketing and/or experience with retail brands and marketing teams
+Examples to show of analytic initiatives in their career tenure
+
+
+
+HAVI requires all of its US based employees to be fully vaccinated against COVID-19, unless a reasonable accommodation is approved.

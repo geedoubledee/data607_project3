@@ -1,0 +1,23 @@
+About the job
+Responsibilities
+
+? Join a highly skilled data science team to solve challenging problems and deliver scalable solutions in game development, publishing, and live-ops.
+
+? Establish scalable, efficient, automated processes and deliver end-to-end data products with large-scale data analysis, machine learning model development, validation, and serving.
+
+? Interact cross-functionally with various teams and provide actionable business insights to stakeholders.
+
+? Research new approaches in the field of applied machine learning.
+
+
+Qualifications
+
+? Currently enrolled in a Ph.D. program in computer science, math, applied math, statistics or related quantitative fields such as economics, physics, etc.
+
+? Experience in one or more of the following areas: machine learning, statistics, deep learning, reinforcement learning, NLP, computer vision, recommendation system, and other related data science domains.
+
+? Good knowledge in data science methods and best practices, such as data analysis, data visualization, machine learning & statistical modeling.
+
+? Experienced in SQL and proficient in Python or other higher-level programming languages.
+
+? Passionate about gaming and the gaming industry!

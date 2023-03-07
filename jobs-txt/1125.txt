@@ -1,0 +1,33 @@
+About the job
+We are a mid-sized Management Consulting, Automation, and Data/Process Science firm, established in 1993, serving Fortune 1000 companies throughout North America. We have developed a unique, template-based and data-centric approach to our client projects, which are conducted off-site from our Houston office. The Lab is proud to announce we have invested in a new office build out in the Galleria area. We are mindful of employee health and currently operate at 50% capacity in the office. All employees work at home 50% of the time, and in the office 50% of the time. We have also invested in HEPA air filtration systems that clean air in the office multiple times per hour.
+
+
+We are seeking a data scientist who is passionate about business processes, automation, operational data measurement, and the intellectual challenge analyzing them offers. The person we seek has previous experience in successful data science roles, performing strategic analysis and, or, operations improvement projects. The data scientist will be part of a management consulting and data science team that performs analysis on client data and assists with the development, implementation and integration of pioneering solutions using different methods, techniques and tools. You will ensure the rigor and underlying logic of the team's findings, optimize the analytical storyline and develop superior, easy to comprehend documentation operational analysis.
+
+
+The data scientist will be responsible for gathering, analyzing and documenting business processes, developing business cases, developing analytics dashboards and providing domain knowledge to the team. The ideal candidate's favorite words are learning, data, scale, and agility. You will leverage your strong collaboration skills and ability to extract valuable insights from highly complex data sets to ask the right questions and find the right answers.
+
+
+Simultaneously, you will help senior management further standardize the consulting tasks and related work product with the objectives of: reducing analytical cycle time, lowering labor costs and reducing document rework and editing. As you become more familiar with our product offering, you will also contribute to the refinement and extension of our findings and tools database/website which includes benchmarks, best practices and thousands of business process maps.
+
+
+Responsibilities
+
+Interface with clients to gather operational data for analysis
+Analyze raw data from consulting client projects across multiple industries: assessing quality, cleansing, structuring for downstream processing
+Design accurate and scalable prediction algorithms
+Collaborate with team to bring analytical prototypes to production
+Generate actionable insights for business improvements
+Work alongside clients and internal team members to develop interactive, customer-facing business dashboards
+Work with internal team members to develop methods to transform data to prepare for analysis and reporting
+Manage the structure and functionality of our internal databases
+Maintain and build tools to assist our research teams in updating, organizing and expanding existing database content
+Navigate client roadblocks that slow down projects
+Proactively report to internal team and clients on overall progress, potential issues, areas of potential improvement, etc.
+Qualifications
+
+Bachelor's degree or equivalent experience in quantitative field (Statistics, Mathematics, Computer Science, Engineering, etc.)
+At least 1 - 2 years' of experience in quantitative analytics or data modeling
+Deep understanding of predictive modeling, machine-learning, clustering and classification techniques, and algorithms
+Fluency in a programming language (Python, C,C++, Java, SQL)
+Familiarity with Big Data frameworks and visualization tools (Cassandra, Hadoop, Spark, Tableau)

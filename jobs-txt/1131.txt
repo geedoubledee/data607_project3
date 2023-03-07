@@ -1,0 +1,38 @@
+About the job
+Unilever is a leading multi-national “Fast Moving Consumer Goods” company, with world leading brands such as Lipton, Dove, Axe, Omo, Knorr, and Hellmans. Unilever has extensive R&D facilities around the globe with a mission to build brands through world-class innovation by unlocking science and technology. To meet the sustainable business growth challenge of the next decade, Unilever R&D aims to transform its approach to scientific discovery and product development, through a Digital Transformation program. The Digital R&D team is leading this transformation of R&D through programs in Big Data Analytics, Predictive modeling and Product Life Cycle Management with a view to driving speed, efficiency and connectivity of R&D. The Modelling & Analytics team provides leading edge statistics, data science, data management, modelling and simulation expertise to deliver predictive models and advanced analytics for new insights to the category programs across all R&D functions. The focus of the M&A, Consumer & Biology team is in the design and planning of experiments, analyses of data, building and validating predictive models and interpretation and exploitation of outcomes together with the project team in the domain areas of consumer insights and life-sciences research. The products and brands we support are across Unilever’s 5 Business groups – Beauty & Wellbeing, Personal Care, Home Care, Nutrition & Ice Cream.
+
+We are looking for a Data Scientist who will support our Modelling & Analytics teams in R&D with insights gained from analyzing data to accelerate product innovation. The ideal candidate is adept at combining and analyzing large data sets to find opportunities for product and process optimization and using models to test the effectiveness of different courses of action. They must have strong background in statistical modelling and machine learning methods; have experience using a variety of data mining/data analysis methods, using a variety of data tools, building and implementing models, using/creating algorithms and creating/running simulations. They must be comfortable working with a wide range of stakeholders and functional teams. The right candidate will have a passion for discovering solutions hidden in large data sets and working with stakeholders to improve business outcomes.
+
+Job Responsibilities
+Engage and collaborate with globally deployed, multi-disciplinary teams to design and implement efficient, well-focused, statistically appropriate studies, analyses, and visualizations. and interpret data, build and validate predictive models and simulations
+Build, deploy, and monitor machine learning models for prediction and optimization
+Work in inter-disciplinary teams that will include product formulators, process/packaging engineers, clinicians, measurement scientists, bio-informaticians, claim experts, and other data scientists, both internal to Unilever and external partners.
+Serve as a data science/statistics expert across a range of R&D disciplines to define and execute analytics and modelling approaches
+Take ownership of the quality and defensibility of statistical analyses, models, and interpretation.
+Education
+
+The candidate should have a bachelor’s degree in Statistics, Mathematics, Data Science, Computer Science, or a related field. A master’s degree in the same is strongly preferred. Experience in FMCG/Retail/Pharmaceutical industries is a plus.
+
+Technical Skills
+Strong technical background in multivariate statistical methods e.g. regression, PCA, Design of Experiments, and Monte Carlo simulations. Knowledge of Bayesian methods is a plus.
+Good understanding of the underlying principles/best practices to build and validate predictive models.
+Experience applying machine learning techniques to tabular datasets (e.g. ElasticNet, random forests, GBM, XGBoost) in an internship or project setting.
+At least one year of experience programming in Python, R, or Julia.
+Familiarity with natural language processing techniques (e.g. TF-IDF, word vectorization, RNNs, transformers, etc.).
+Understanding of evaluation and explanation techniques in machine learning, e.g. overfitting, bias, cross validation, LIME, SHAP, etc.
+Ability to write and debug SQL queries. Familiarity with NoSQL databases (esp. MongoDB and Neo4j) is a plus.
+Experience with developing data science web applications (e.g. Dash, Streamlit, R Shiny, Django) is a plus.
+Exposure to cloud computing platforms (Azure, AWS, GCP) is a plus.
+Soft Skills
+Strong problem-solving skills with a focus on business delivery
+Strong oral and written communication skills
+Ability to collaborate and consult effectively in global teams across time-zones and cultures
+Curiosity and interest in learning and mastering new technologies and techniques
+Ability to work with uncertainty and to create and manage change
+Work Level 1B: Pay: The pay range for this position is $67,000 to $100,500. Unilever takes into consideration a wide range of factors that are utilized in making compensation decisions including, but not limited to, skill sets, experience and training, licensure and certifications, qualifications and education, and other business and organizational needs. Bonus: This position is bonus eligible. Long-Term Incentive (LTI): This position is LTI eligible. Benefits: Unilever employees are eligible to participate in our benefits plan. Should the employee choose to participate, they can choose from a range of benefits to include, but is not limited to, health insurance (including prescription drug, dental, and vision coverage), retirement savings benefits, life insurance and disability benefits, parental leave, sick leave, paid vacation and holidays, as well as access to numerous voluntary benefits. Any coverages for health insurance and retirement benefits will be in accordance with the terms and conditions of the applicable plans and associated governing plan documents.
+
+Unilever is an organization committed to diversity and inclusion to drive our business results and create a better future every day for our diverse employees, global consumers, partners, and communities. We believe a diverse workforce allows us to match our growth ambitions and drive inclusion across the business. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, age, national origin, or protected veteran status and will not be discriminated against on the basis of disability. For more information, please see Equal Employment Opportunity Posters
+
+Employment is subject to verification of pre-screening tests, which may include drug screening, background check, credit check and DMV check.
+
+If you are an individual with a disability in need of assistance at any time during our recruitment process, please contact us at NA.Accommodations@unilever.com. Please note: This email is reserved for individuals with disabilities in need of assistance and is not a means of inquiry about positions or application statuses.

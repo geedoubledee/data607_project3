@@ -1,0 +1,75 @@
+About the job
+Title: Data Scientist
+
+Location: San Francisco, CA or Remote
+
+Salary: $100,000 - 150,000
+
+Contact: Paul Chatlos, pchatlos@smithhanley.com
+
+
+Venture capital fund based in the Bay Area is seeking to hire their first Data Scientist to assist them in their investment portfolio decisions
+
+
+Data Scientist Overview
+
+
+As part of an established venture capital fund with significant access to capital in the Menlo Park, CA area, this Data Scientist position will work within a lean team to conduct exceptional financial diligence, source new opportunities, and provide portfolio company support in the Internet, Media and Fin Tech Sectors. The team invests across stages from pre-seed to pre-IPO and takes an opportunistic approach to investments. This individual will be based in the Bay Area and compensation will be commensurate with experience.
+
+
+Data Scientist Primary responsibilities include
+
+
+-Create and refine models based on historical startup success and scoring system for sourcing purpose
+
+-Regularly screen companies within DST's database to surface companies with key developments
+
+-Develop investment thesis using quantitative research
+
+-Facilitate portfolio management by connecting API into portfolio data sources
+
+-Create and maintain database of companies evaluated by investment team as well as track performance of investment decision
+
+-Effectively communicate with an ability to interpret and present analytical insights to stakeholders
+
+
+Data Scientist Requirements
+
+
+-Undergraduate degree. B.S. Computer Science, Data Science or Statistics from top tier University
+
+-Preferred Masters degree in Computer Science or Statistics
+
+-1-3 years of previous data scientist experience. A plus if within Venture Capital, Finance or investing space
+
+-Data science/engineering and computer programming project experience
+
+-Data science skills including Python, SQL, regression and statistical modeling
+
+-Basic understanding of ML/AI and familiarity of key frameworks such as Tree Model, CNN, TensorFlow and Scikit-Learn
+
+-Basic front-end and back-end programing skills such as Javascript, HTML and PHP
+
+-Exceptional technical, analytical and research skills
+
+-Familiar with Excel VBA and PowerPoint
+
+-Experience with database such as AWS and MongoDB
+
+-Familiar with data visualization tools such as PowerBI and Tableau
+
+-Data engineering and web-scraping skills
+
+-Familiar with PHP programming
+
+-Familiar with services providers such as Crunchbase, Tracxn, Pitchbook, SecondMeasure, etc.
+
+-Strong attention to detail
+
+-Intellectually curious with strong interpersonal and communication skills
+
+-Hard working
+
+-Self-motivated & proactive
+
+-Resourceful

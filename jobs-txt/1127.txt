@@ -1,0 +1,34 @@
+About the job
+As a Data Scientist in our Analytic Solutions team, you will contribute to the firm’s objectives by delivering rapid and scalable solutions that unlock value for Cerberus desks, portfolio companies, or other businesses/investments. You’ll do this by designing, implementing, and deploying (1) machine learning models, (2) data visualizations & business intelligence, and (3) insights & analytics for a broad range of business objectives. You may also participate in due diligence analyses of future investments and evaluate 3rd party solutions and cloud-based tools for client adoption.
+
+Responsibilities:
+
+
+Develop, plan, and execute analytical projects as an individual contributor and in teams
+Delivery focused: Help design analytical and technical solutions using a rigorous hypothesis-based approach, partner with technical teams to build a development plan, and then help execute the development and implementation with a focus on high-impact return
+Agile and pragmatic: Ability to rapidly deliver results in high pressured projects with the skill to pivot quickly with iterative, POC, or agile methods
+Contemporary and innovative approach: ability to develop novel solutions using modern platforms (e.g., Cloud based platforms like Azure, AWS), languages/technologies (e.g., Python, Spark, SQL), and tools (e.g., Power BI)
+Structured approach: Bring order to disparate requirements with high tolerance for ambiguity, very strong problem solving ability, and excellent client engagement skills
+Synthesize analytical findings for consumption by senior business executives
+Communicator: Ability to break down complex structures and problems into succinct components for a range of clients and colleagues at all levels of seniority
+Storytelling: Be a story teller capable of delivering practical data insights in a compelling manner (e.g., via presentations/dashboards) actionable by senior leadership
+Become trusted advisor and thought leader on business data and analytical techniques
+Technology polymath: experience with a wide range of technology and can learn and develop any solutions across the full data science lifecycle and application stack
+Test & Learn mentality: Challenge our current best thinking, test theories, evaluate feature concepts and iterate rapidly
+Creativity: Invent creative ways to answer key business questions by leveraging existing data assets or creating new ones
+Trusted voice: Establish and manage relationships with partners
+Subject matter expertise: Develop deep subject matter expertise across techniques, technologies, and industries
+Requirements:
+
+University degree in Mathematics, Engineering, Statistics, Computer Science or Physics. Advanced degree preferred but not required.
+Solid knowledge of statistics (e.g., hypothesis testing, probability distributions), machine learning (e.g., regression, regularization, PCA, random forest, XGBoost, deep learning, clustering), and other data science techniques (e.g., time series analysis, NLP, computer vision, mathematical optimization).
+Ability to write algorithms and implement pipelines in Python. Knowledge of Scala, R, is a plus.
+Experienced in SQL. Familiarity with various relational database platforms is a plus (SQL Server, MySql, PostgreSQL, Oracle, Snowflake, Vertica, etc). Ability to write efficient and robust queries.
+Familiarity with DevOps process for model deployment and unit testing.
+Experience of work in cloud environments, especially MS Azure, is a plus.
+Experience of work in collaborative development environment (GIT, Azure DevOps, JIRA).
+Exceptional intellectual curiosity
+Exceptional problem solving ability
+Ability to present ideas and solutions in business-friendly and user-friendly language to colleagues, management and clients.
+
+The base salary for this position is expected to be between $140,000.00 and $170,000.00. The base salary offered to the chosen candidate will be commensurate with a candidate’s relevant experience and other qualifications for the position, as determined by the Company in its sole discretion. In addition to base salary, this position is eligible for an annual discretionary bonus, which is often a meaningful portion of the compensation package, and a robust benefits package.

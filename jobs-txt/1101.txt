@@ -1,0 +1,112 @@
+About the job
+Data Scientist
+
+As a Data Scientist Consultant, your work at Tegria will center on strategic opportunities and implementation, process improvement, and growing Tegria as a company. The primary focus of this position will be to help healthcare organizations on a wide range of data related projects that include data wrangling, data analysis, report development, data visualization, ETL development, and data strategy consulting. As a data science expert on the team, you are expected to have general knowledge across analytics, maintain deep expertise in data science, and be comfortable being deployed on almost any engagement that includes data science.
+
+Embracing our mission to humanize healthcare
+
+Living our Tegria values–being real, serving intentionally, and stepping in and stepping up
+
+Embracing our mission to humanize healthcare
+Living our Tegria values–being real, serving intentionally, and stepping in and stepping up
+Translating business requirements into application storyboards and use cases
+Working with customers in assessments to understand business needs and translate into a solution opportunity
+Explaining technical concepts to non-technical audiences at both internal teammates and clients
+Ensuring the best possible performance, quality, and responsiveness of applications
+Providing recommendations and best practices with deep knowledge understanding of specific solutions available in the industry
+Participating in development activities as needed to support the development team
+Maintaining code quality, organization, and automatization
+Participating as a team member in meetings and collaboration with team
+Responsible for regular communication with others involved in the development process
+Providing support for our healthcare clients
+Meeting project deadlines in a remote setting
+Partnering with our internal Tegria teams to help promote consulting work and team-specific services
+Mentoring other consultants and development team members both internal and at clients on project activities and deliverables
+Learning additional technologies as required and appropriate
+Client Engagement Delivery
+
+Working independently or as part of a project team on a client engagement. Could be full-time on a single customer engagement or part-time across customers
+Serving as a liaison between diverse IT and operations groups
+Facilitating meetings and owning meeting scheduling and coordination, preparation, documentation, and follow-up
+Utilizing, reviewing, and creating project tools and templates for assigned projects
+Creating and maintaining project plans
+Evaluating and documenting current-state processes through discovery and analysis. Presenting recommendations for improvements based on industry experience and best-practices
+Facilitating future-state workflow, policy, and process design and planning
+Building, testing, training, converting and/or deploying new infrastructure, workflows, policies, and processes
+Participating in major milestone reviews and decision gates
+Presenting to a wide variety of audiences
+Documenting measurable outcomes resulting from initiatives through KPI analysis and impact tracking
+Effectively utilizing communication, decision-making, and escalation pathways
+Executing effective project wrap-up through outcomes documentation, lessons-learned, and leave-behind materials allowing customers to sustain ongoing operations
+Mentoring Associate(s) on project activities and deliverables and collaborating with others on the same
+Mentoring customer counterparts for successful, long-term ownership and growth
+Internal Team Development
+
+Contributing to personal and team development by participating in training activities and team events, while sharing your experience and expertise to help your team grow
+Participating in internal projects for Tegria's strategic growth
+Planning and executing team- and company-wide gatherings, such as retreats, inter-team meetings, etc.
+Modeling and holding fellow team members accountable to company values
+Incorporating diversity and healthcare equity as a guiding principle of internal development and client-facing delivery
+Referring new talent to Tegria's Talent team to continue growing Tegria's knowledge and capabilities
+What we’re looking for
+
+We expect:
+
+5+ years of professional experience delivering project or program enhancements within a healthcare organization or healthcare consulting practice
+Bachelor’s degree or above in Data Science, Mathematics, Statistics, Computer Science, or related field or a portfolio of work demonstrating expert data science acumen
+Highly proficient in the following:
+R or Python programming language for data science
+Supervised and unsupervised machine learning, probabilistic modeling, and statistical methodologies
+Data visualization and communication
+Capable of and comfortable with working remotely
+Capable of and comfortable with traveling to client sites as needed
+We’d love to see:
+
+Prior consulting experience
+Masters or Ph.D. in Data Science, Mathematics, Statistics, Computer Science, or a related field
+Some experience querying, implementing, supporting, optimizing, or upgrading Epic or similar EMR Certification in one or more Epic data model and/or application(s)
+Certifications, bootcamps, Kaggle submissions, personal website/blogs, or other demonstrations of data science knowledge
+Knowledge in the following:
+SQL database development
+Unstructured data processing
+Spark, Databricks, or similar distributed data analysis runtimes
+Jupyter, Databricks, or similar data science notebook technologies
+Natural language processing, particularly on medical text
+Formal semantics or expert systems
+Scala
+Need a few more details?
+
+Group: Tegria Services Group
+
+Department: Consulting & Technology
+
+Reports to: Analytics – Manager
+
+Compensation: Commensurate with experience
+
+Status: Exempt
+
+Eligibility: Must be legally authorized to work in the United States without sponsorship
+
+Work Location: This position is remote. Must work in a location within the United States.
+
+Travel: Up to 25%
+
+Benefits Eligibility: Eligible
+
+Now, a little about us ...
+
+At Tegria, we bring bold ideas and breakthroughs to improve care, technology, revenue, and operations in ways that move healthcare organizations from patient-centered to human-centered. We are helping healthcare put people first—both patients and those who dedicate their lives to delivering care.
+
+And at the very core of this vital work is our incredibly talented people.
+
+People with different backgrounds who welcome challenge and change. People who listen first, ask hard questions, and make decisions to cultivate a culture of equity and inclusion. People who chase after goals, growth, and generosity. We’re real. We’re nimble, and we believe in our mission to humanize healthcare.
+
+Perks and benefits
+
+Top talent deserves top rewards. We’ve carefully curated a best-in-class benefits package, meant to meet you wherever you are in your life and career.
+
+Your health, holistically. We offer a choice of multiple health and dental plans with nationally recognized networks, as well as vision benefits, a total wellness program, and an employee assistance program for you and your family.
+Your financial well-being. We offer competitive wages, retirement savings plans, company-paid disability and life insurance, pre-tax savings opportunities (HSA and/or FSA), and more.
+And everything in between. Our lifestyle benefits are unrivaled, including professional development offerings, opportunities for remote work, and our favorite: a generous paid-time-off program, giving you the flexibility to plan a vacation, take time away for illness (or life’s important events), and shift your schedule to accommodate those unexpected curve balls thrown your way.
+Tegria is an equal employment opportunity employer and provides equal employment opportunities (EEO) to all persons regardless of age, color, national origin, citizenship status, physical or mental disability, race, religion, creed, gender, sex, sexual orientation, gender identity and/or expression, genetic information, marital status, status with regard to public assistance, veteran status, or any other characteristic protected by federal, state or local law. All qualified candidates are encouraged to apply.

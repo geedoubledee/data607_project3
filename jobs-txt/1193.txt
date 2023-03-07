@@ -1,0 +1,39 @@
+About the job
+Machine Leaning Engineer (Deep / Reinforcement Learning)
+
+Artificial Intelligence
+
+San Francisco/ Hybrid
+
+$120,000 - 200,000
+
+
+Do you want to work with one of the hottest artificial intelligence scale-ups on the planet? We’re partnered with an AI house, one of the most heavily invested in start-ups within research, recently securing $100m and are now working across various sectors such as Energy, EDA and logistics etc... We’re looking for Machine Learning Engineers(Mid-level to Senior) to work alongside some of the brightest minds within Reinforcement Learning that come from the likes of Oxford, Cambridge and MIT, as they grow their new San Francisco office.
+
+
+You will collaboratively work with them and others across the globe in researching and solving Reinforcement & Machine Learning problems with real world applications. For example, they are contributing to research efforts within the ongoing Covid-19 pandemic from a protein discovery perspective in collaboration with BioNTech, as well as other sectors including but not limited to industrial automation, rail, logistics and energy. You will also work with cutting-edge companies like Google and Nvidia on collaboration projects that are both challenging and the chance to use the latest cutting-edge hardware to deploy next generation industry solutions.
+
+
+To be successful in this role you will design and deploy clean, highly scalable algorithms based on SOTA ML and deep learning methodologies and apply your expansive knowledge of recent, topical research domains to design novel solutions for industry. Ideally you will come from an academic background, at minimum masters level but PhD is preferred within computer science, operational research or reinforcement learning.
+
+
+Background in Deep or preferably reinforcement learning algorithms and models
+Designing, deploying and debugging production standard Python code, knowledge of C++ is very advantageous.
+Extensive knowledge of libraries including Tensorflow, Pytorch and Jax
+Previous use of CI/CD tools for automation of building and deploying ML projects
+
+In return the benefits package is vast, including healthcare, performance based bonus, shares, gym membership and enhanced annual leave entitlement. Salaries are flexible and generous.
+
+
+This role is open to US Citizens and Permanent residents/ green card holders only
+
+
+This company is an equal opportunity employer and value diversity. They do not discriminate on the basis of race, religion, colour, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.
+
+
+** If you're interested in this opportunity, please submit your CV via the link provided **
+
+
+Cubiq Recruitment is recognised as a trusted supplier of permanent, contract and interim recruitment services to AI, Software, ERP, Engineering, Manufacturing and Commercial sectors. Our teams of specialist recruiters operate across all core commercial engineering & technology disciplines and specialist areas.
+
+If you're interested in finding out more about this opportunity, please submit your CV via the link provided and we will contact you shortly for a confidential discussion.

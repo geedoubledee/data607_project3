@@ -1,0 +1,41 @@
+About the job
+About Integra Connect:
+
+We are a value-based, precision medicine company specializing in solutions for providers, patients, life science and EMS companies. With the emergence of value-based care, Integra Connect’s mission is to help specialty care providers succeed both clinically and financially. We accomplish this through a comprehensive offering of technology and services, unified by our cloud-based platform, combined with unmatched industry expertise. We are looking for like-minded individuals committed to making a difference in healthcare. Come join our growing team!
+
+
+Job Description:
+
+The Data Scientist will be a key member on the Data Science and AI team within the precision oncology organization. The Data Science and AI team is responsible for developing innovative analytical solutions and products that benefit the entire enterprise. The team generates insights for providers, payers, pharma, and biotech by leveraging the available health care data from electronic medical records, healthcare claims, pharmacy claims and genomics data for oncology, urology, and other patients via the Integra precision oncology platform. Utilizing analytical, statistical, and programming skills to collect, analyze, and interpret large data sets, the Data Scientist will extract meaningful information from all patient data from our rapid growing network of healthcare practices. The solutions created by the Data Scientist will positively impact patient outcomes, while reducing cost of healthcare.
+
+Come join one of the hottest companies that is revolutionizing healthcare!
+
+
+Responsibilities:
+
+The Data Scientist will work with stakeholders throughout the organization to identify opportunities for leveraging company data to drive beneficial solutions to patients, providers, pharma, and payers.
+Apply predictive modeling to increase and optimize customer experiences, revenue generation, and other business outcomes. Mine for insights and analyze available healthcare data via the precision oncology platform to drive optimization and improvement of product development, marketing techniques and business strategies.
+Assess the effectiveness of data sources and develop custom algorithms that address specific business needs. Collaborate closely with the precision oncology platform and database teams to transform curated healthcare claims (part B, Part D, CMS, and payer); electronic health record, pharmacy dispensing, patient-reported outcomes, primary market research and other source data types into high value information/knowledge to satisfy required project output for multiple Integra business units.
+Coordinate with different functional teams to implement predictive models and monitor outcomes. Develop processes and tools to monitor and analyze model performance and data accuracy.
+Collaboratively support all analytical services offered by the precision oncology platform developed to enhance and enrich the personalized medicine solutions for oncology patients cared for at specialized practices and providers that partner with Integra.
+Attend key (scientific/medical) conferences; identify emerging trends; contribute to high quality peer reviewed journal publications and collaboratively support the expansion of analytical efforts of the enterprise in the US and global markets. Modest travel might be required to attend conferences (up to 10%).
+
+Qualifications:
+
+Bachelor’s degree in a field related to computational discipline (e.g., computer science, data science, AI, biomedical informatics, statistics, applied mathematics or biomedical engineering) or other demonstrable scientific/analytical expertise.
+A strong background in computer science, statistical programming, in-depth understanding of informatics as well as the design, development and execution of AI based technologies for various research and clinical informatics focused project needs. Understanding of statistics, health analytics (e.g., Kaplan-Meier for outcomes-based analysis such as PFS, OS).
+Proven experience in statistical programming (e.g., R or SAS), data mining and/or advanced programming experience in python along with querying relational databases using SLQ to analyze data and draw insights from large data sets.
+Expertise in applying machine learning techniques and deep learning techniques. Experience with advanced statistical techniques and mathematical concepts (regression, properties of distributions, statistical tests, and proper usage, etc.) and with applications to healthcare will be preferable. Experience visualizing and presenting data insights to stakeholders using PoweBI, Tableau, D3, ggplot, etc.
+Oncology expertise from a scientific, medical, or pharmaceutical background with basic understanding of the mechanism of oncology, basic analytics (e.g., survival analysis) and common therapies (chemo, IO etc.). This role would involve both engagement with data assets and domain experts.
+Proven experience in medical/scientific writing experience, including conference abstracts. Authorship or co-authorship on peer reviewed papers.
+Preferred qualities: Strong problem-solving skills with an emphasis on product development, pro-active, collaborative, creative, energetic, positive, tinkerer, curious, open minded.
+
+Benefits:
+
+Integra Connect, LLC provides a comprehensive benefits plan.
+
+Medical/Dental/Vision Insurance beginning the 1st of the month following your date of hire
+Paid Time Off
+401k with employer match
+Paid Holidays and Floating Holiday
+Equal Opportunity Employer

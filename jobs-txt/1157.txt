@@ -1,0 +1,43 @@
+About the job
+We Breathe Life Into Data
+
+At Komodo Health, our mission is to reduce the global burden of disease. And we believe that smarter use of data is essential to this mission. That’s why we built the Healthcare Map — the industry’s largest, most complete, precise view of the U.S. healthcare system — by combining de-identified, real-world patient data with innovative algorithms and decades of clinical experience. The Healthcare Map serves as our foundation for a powerful suite of software applications, helping us answer healthcare’s most complex questions for our partners. Across the healthcare ecosystem, we’re helping our clients unlock critical insights to track detailed patient behaviors and treatment patterns, identify gaps in care, address unmet patient needs, and reduce the global burden of disease.
+
+As we pursue these goals, it remains essential to us that we stay grounded in our values: be awesome, seek growth, deliver “wow,” and enjoy the ride. At Komodo, you will be joining a team of ambitious, supportive Dragons with diverse backgrounds but a shared passion to deliver on our mission to reduce the burden of disease — and enjoy the journey along the way.
+
+The Opportunity at Komodo Health
+
+Komodo Data Scientists address the most critical challenges of our customers by working with one of the most comprehensive datasets covering US healthcare. On the Platform team our focus is developing analytical approaches that enrich and illuminate our data and which scale to a broad set of use cases. Because we’re solving problems that tie back to real health outcomes we take pride in the quality and impact of the solutions we offer.
+
+In this effort you will be partnering with product managers, data and full-stack engineers, and customer-facing teams to deliver on Komodo’s mission of reducing the global burden of disease.
+
+Looking back on your first 12 months at Komodo Health, you will have…
+Immersed yourself in several specific healthcare challenges faced by our customers where thoughtful application of data science has material impact.
+Collaborated with product managers to develop analytics underlying visualizations that inform the data-driven decisions of our users.
+Become a key contributor to a Python/SQL codebase that underlies Komodo’s latest, cutting-edge product offerings.
+Worked with open-source tools like dbt and Apache Superset.
+Engaged with Data Scientists across the Platform to understand the breadth of problems Komodo tackles, and provided them valuable feedback.
+What You Bring To Komodo Health
+Deep interest in solving problems facing the healthcare system in the US today.
+Fluency in analytical and modeling approaches that are effective in solving real-world problems in healthcare—EDA, regression, statistical methods—and good judgment in choosing an appropriate level of complexity for the problem at hand.
+Proficiency in Python and SQL, and willingness to learn new technologies when needed.
+Experience with data visualization either using Python libraries or BI tools like Tableau, Superset, Domo, etc.
+Experience with efficiently computing on large-scale data.
+Background with version control and familiarity with best practices for collaborative software development.
+Collaborative approach that puts team achievements first.
+Clear written and spoken communication with both technical and non-technical stakeholders.
+Compensation At Komodo Health
+
+We are committed to providing competitive compensation for all roles at Komodo Health. We carefully consider multiple factors when determining compensation, including your skills, experience, and location while balancing internal equity relative to peers at the company. The targeted base salary range for the Data Scientist role is $123,900 to $186,300 plus a competitive bonus and equity package.
+
+Where You’ll Work
+
+Komodo Health has a hybrid work model; we recognize the power of choice and importance of flexibility for the well-being of both our company and our individual Dragons. Roles may be completely remote based anywhere in the country listed, remote but based in a specific region, or local (commuting distance) to one of our hubs in San Francisco, New York City, or Chicago with remote work options.
+
+What We Offer
+
+On top of our commitment to providing competitive, fair pay for all roles at Komodo Health, we’re proud to offer robust and inclusive benefits to all Dragons at Komodo Health. We offer global time off programs, extensive internal and external career development and learning opportunities, multiple affinity groups celebrating our team’s diversity, and an annual wellness and productivity stipend to support you in being your healthiest, best self.
+
+Equal Opportunity Statement
+
+Komodo Health provides equal employment opportunities to all applicants and employees. We prohibit discrimination and harassment of any type with regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state, or local laws.

@@ -1,0 +1,54 @@
+About the job
+Headquartered in Plano, TX, Cinemark Holdings, Inc. is a leader in the motion picture exhibition industry with 500+ theatres in the U.S. and Latin America.
+
+
+Join Our Team!
+
+Do you enjoy working together as a team to accomplish major goals? Join Cinemark to utilize and expand your skills! We are dedicated to making the movie experience memorable, “One Guest at a time.” Not only are we in the movie business, we are also in the people business. Our world class talent creates a warm and friendly culture through shared values. Allow Cinemark to provide you growth and leadership opportunities for the long term.
+
+
+What is a Data Scientist?
+
+A Data Scientist is part of the Consumer Intelligence & Analytics group which is the advanced analytics service arm for Cinemark. The Data Scientist is responsible for development and application of analytic methods for solving business problems and deriving consumer and business insight. The Data Scientist has an enterprise focus supporting the key business objectives and core business functions of the organization. The highest priority requirement of a Data Scientist is curiosity and personal drive to over-deliver on internal stakeholders’ needs for analysis and insight.
+
+
+The Data Scientist will have open access to all forms of enterprise data and scope of work covers basic to advanced numerical methods including modeling and simulation. Regression, classification, optimization and machine learning all potentially play a role in this function. This is truly an amazing opportunity to be on the ground floor of designing and building the decision sciences competency for a multi-billion dollar entertainment operation.
+
+
+We are seeking a highly skilled individual capable of translating machine learning prototypes into fully automated, scalable machine learning products. The ideal candidate should possess a comprehensive understanding of machine learning technologies and be able to bridge any technological gap creatively.
+
+
+
+A Day in the Life of a Data Scientist II:
+
+Advanced numerical methods: develop and implement predictive models, segmentation methods, optimization algorithms, machine learning.
+Know and understand statistical limitations of data; keen understanding of analysis of variance.
+Perform work and analysis for a ‘multi-channel’ environment applying analytics to online and offline environments.
+Research and develop new forms of analytic methods applicable to relevant business objectives.
+Duties and responsibilities include but are not limited to consumer insights including all relevant customer behavior analysis, product and promotion testing, real estate, concessions (merchandise) performance and allocation.
+Produce compiled data, reports and ‘visualized’ results for all levels of the organization.
+
+You Will Need to Have:
+
+MSc/PhD in Statistics, Math, Operation Research or related degree with 4+ years’ experience
+5+ years hands-on experience and proficiency with:
+Computational Programming with Python and R
+ELT process (SSIS or any ELT tool)
+Statistical Modeling
+Knowledge of Classification Systems, Recommendation Systems, Predictive Modeling
+Objective evidence of advance SQL capability, querying large, complex datasets using relational databases
+Proven analytical capability with intermediate to advance knowledge of statistics as it relates to all aspects of data set analysis including error, experimental design
+Experience in working with customer data in a retail/entertainment business environment preferred
+Visualization tools experience, PowerBI preferred
+Strong data interpretation, visualization and presentation skills
+Ability to explain statistical approaches/models used, rationale/merits of different approaches, results and interpretational to team members
+Able to work effectively in a collaborative team environment
+Familiarity with machine learning
+Intellectually curious / quick thinker
+Willingness / ability to take ownership as technical lead of a project
+
+
+This job description is not an exhaustive list of all responsibilities, duties, skills, efforts, requirements or working conditions associated with the job. While this is intended to be an accurate reflection of the current job, management reserves the right to revise the job or to require that other or different tasks be performed as assigned.
+
+
+Cinemark USA, Inc. is an Equal Opportunity Employer

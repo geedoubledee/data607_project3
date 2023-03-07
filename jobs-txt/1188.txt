@@ -1,0 +1,42 @@
+About the job
+We are a digitally native technology services company where innovation, design and engineering meet scale. We use some of the latest technologies in the digital and cognitive field to empower organizations in every aspect.
+
+Right now, we’re looking for Data Scientists to join our team at Globant!
+
+You will get the chance to:
+Work with professionals who have created some of the most revolutionary solutions in their fields.
+Make an impact. Work in large-scale projects globally.
+Develop your career in our Studios. Each Studio represents deep pockets of expertise on the latest technologies and trends and delivers tailored solutions focused on specific challenges.
+Develop your career within an industry or multiple industries.
+Work in the city you want, and be nourished by cultural exchanges.
+Be empowered to choose your career path: we have more than 600 simultaneous projects, so you can choose where and how to work.
+Be part of an agile pod. Driven by a culture of self-regulated teamwork, each team -or POD- works directly with our customers with a full maturity path that evolves as they increase speed, quality and autonomy.
+
+What would help you succeed:
+Believe and love what you do.
+Enjoy solving problems.
+Have imagination and you love innovating.
+Being flexible & goal oriented.
+Advanced English skills.
+High performance analytics.
+Experience with Java or Python.
+Practical experience in Google Cloud Platform, using at least this part of the stack: Apache Beam, DataFlow, DataProc, DataPrep (is a plus!), Big Query and Cloud Storage.
+Understand, guide and define the actionable output and required decision support to be obtained from a model.
+Explicit and mathematize working hypothesis -axiomatize- to either validate or reject through modeling.
+Analyze data sources for completeness of data semantics and gaps.
+Develop the process to assess information quality and ready the data to be fed into a mathematical model.
+Tune/calibrate/train the model for the required accuracy -generality trade off
+Extract actionable output from model.
+Analyze, interpret and present output.
+Build required analytical workflow for modelling - system wide exempted.
+Circle back to a refined problem definition to keep improving performance and actionability related to business strategy and capabilities.
+
+At Globant we believe that an inclusive culture and a diverse environment makes us stronger. We encourage people to have an inclusive spirit as our global footprint expands. We seek to generate a place of inspiration and growth for everyone. A safe space, based on equity as a value, where everyone's careers can be promoted and developed in the same way. There is no innovation without diversity and there is no improvement without plurality.
+
+This job be filled from Anywhere in Colombia
+
+Are you ready?
+
+Job Segment: Developer, Engineer, Computer Science, Java, Testing, Technology, Engineering, Big Data
+
+Job Segment: Testing, Engineer, Java, Scientific, Database, Technology, Engineering

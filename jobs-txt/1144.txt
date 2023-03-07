@@ -1,0 +1,53 @@
+About the job
+AWM Smart Shelf is reinventing retail and looking for smart, talented people to work on building exciting applications. The initial focus of this position is working on AWM Frictionless which is a cashierless-shopping solution for shoppers to be able to grab what they want from a store and simply walk out.
+
+Our solution uses real-time computer vision and deep learning to determine what shoppers take. We're looking for an experienced Data Scientist to help analyze, improve, and further develop our predictive algorithms.
+
+We’re looking for nimble, practical problem solvers and we value a diversity of perspectives. If this sounds like fun, we'd love to hear from you!
+
+Responsibilities
+
+? Analyzing and improving the performance of existing predictive algorithms
+
+? Designing, training, and validating features as well as new predictive algorithms
+
+? Implementing and monitoring KPIs and dashboards
+
+Required Skills
+
+? Expert knowledge of Python and data analysis packages (e.g. pandas, numpy, scikit-learn, etc.)
+
+? Deep understanding of predictive modeling, algorithms, machine learning, clustering, and classification
+
+? Strong knowledge of statistics and data analysis
+
+? Strong problems solving and communication skills
+
+? Knowledge of SQL
+
+? Experience cleaning and validating data
+
+Nice to Haves
+
+? Experience with GCP
+
+? Experience with monitoring and dashboarding tools such as Tableau, PowerBI, Grafana
+
+? Experience with large, distributed datasets and tools such as Spark
+
+
+What We Offer
+
+? A dynamic environment where you can make an impact using the latest technologies
+
+? Paid vacation and sick time
+
+? Health benefits
+
+? Opportunity for growth
+
+? 401k plan
+
+? Potential for employee stock option plan participation
+
+**PLEASE APPLY TO BE CONSIDERED**

@@ -1,0 +1,33 @@
+About the job
+You will be helping to build a forecasting and algorithmic trading platform:
+
+Build machine learning models to forecast demand, market prices, and participant behavior.
+Build decision-making "agents" to act autonomously in power markets
+Bring an experimental mindset, prototyping and developing with the right model for the job.
+
+Requirements:
+
+You are fluent in Python and its wider numerical ecosystem (Pandas, NumPy, Scikit-learn, etc.)
+You have a passion for time-series forecasting and a desire to apply that within the energy sector
+You have experience building algorithmic decision tools (e.g. mixed-integer linear programming)
+You have exposure to energy markets or battery systems modelling
+You have experience applying the data science toolset to time-series problems.
+You have at least 3 years of work/educational experience developing and productionising real-time projects in Machine Learning and Data Science
+You have a BA/BSc degree in Computer Science, Machine Learning or related technical field
+
+Preferred:
+
+MS or PhD degree in Computer Science, Machine Learning, or related technical field
+Knowledge in probabilistic programming, Bayesian methods, causal inference, dynamical systems, and/or reinforcement learning
+Knowledge of relational and/or non-relational databases (eg, SQL), and SQLAlchemy
+Full-stack / machine learning engineering experience
+Version control code (Git) including dev, test and production environments
+AWS, continuous integration, monitoring and alerting
+
+Lorien is an Equal Opportunity Employer - All qualified applicants will receive
+
+consideration without regard to race, color, religion, gender, national origin,
+
+age, disability, veteran status, or any other factor determined to be unlawful
+
+under applicable law.

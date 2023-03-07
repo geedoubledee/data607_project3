@@ -1,0 +1,21 @@
+About the job
+Our client is an award winning globally recognized organization, looking to hire several Data Scientists with application experience in the Manufacturing/Electrical Engineering space.
+
+
+The data scientist will collaborate with members of design, production, quality and manufacturing engineering teams to improve their most-difficult manufacturing processes and equipment through data science, experimentation, and modeling to drive tangible optimizations to the production environment.
+
+
+Required:
+
+Masters Degree in computer science, electrical engineering or related field.
+5 years of professional work experience as a Data Scientist in the manufacturing/EE /Automation/Robotics space
+5 years of professional work experience in a consultancy focused position
+Fluency in Python, tensor flow, nlp especially the data scientific stack (Jupyter/Pandas/scikit-learn)
+Outstanding communication skills (verbal, written and remote)
+
+Responsibilities:
+
+Collaborate with other data scientists, engineers, research scientists, statisticians, and manufacturing teams
+Communicate findings internally and externally to clients
+Support a wide variety of collaborations via data analysis and visualization, statistical modeling, optimization and experimental design
+Engage stakeholders to align project goals iteratively at every step of a project’s life cycle including data procurement, modeling methodology, validation, deployment and monitoring.

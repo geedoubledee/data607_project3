@@ -1,0 +1,48 @@
+About the job
+What To Expect
+
+The Business Analytics team’s mission is to enable a data driven business and generate values from our data. The team is responsible for providing insights around our business and its associated processes, as well as customers and products. The team directly supports business leaders from our retail locations and at the headquarter, and up to our executive team.
+
+We are looking for a hands-on data scientist who can lead key cross-functional projects for both energy and automotive business using data science tools and techniques to drive business process automations and support sales & service strategies by leveraging our data.
+
+What You’ll Do
+Contribute to all the stages of data science projects: from translating a complex business problem into a data science problem to performing data analysis & modeling, and providing solutions to the business.
+Develop and maintain complex data pipelines, supporting our team’s mission in democratizing data and enabling a data driven organization, partnering with Data Analysts, Data Engineers, Machine Learning (ML) Engineers, and Product Managers.
+Effectively communicate actionable insights to all levels of the organization with varying degree of data science understanding and backgrounds.
+Collaborate closely with leadership, engineering, and other stakeholders to deliver impactful business insights.
+Apply various ML, advanced analytics and visualization techniques to various datasets across the company.
+What You’ll Bring
+MS. or 2+ years of equivalent experience in a quantitative field (e.g. Data Science, Applied Mathematics, Business Analytics, Operations Research, Statistics, Computer Science, Artificial Intelligence, Economics or Engineering).
+Results oriented with strong business acumen and in-depth data science skills.
+Strong written, verbal, and interpersonal communication skills. Ability to communicate effectively at all levels in the organization.
+Proven track record of extracting data insights and building ML models and, especially in business analytics (or related) domain. Uplevel team’s ML capabilities in one or more major areas (e.g. forecasting, predictive modeling, descriptive analytics, or Natural Language Processing (NLP)).
+Expert in SQL and Python, especially in standard data science libraries and frameworks such as pandas, numpy, scikit-learn, Tensorflow/PyTorch, PySpark, etc.
+Proficiency in one or more visualization tools such as Tableau, Streamlit etc.
+Expert in data wrangling and analyzing massive and complex datasets, structured or unstructured.
+Ability to self-start and work independently in an unstructured environment as well as navigate (and bring structure to) ambiguity, bringing a problem from 0 to 1.
+Excellent problem-framing, problem solving and project management skills as well as ability to change direction quickly.
+Ability to manage and prioritize multiple projects.
+Benefits
+
+Along with competitive pay, as a full-time Tesla employee, you are eligible for the following benefits at day 1 of hire:
+Aetna PPO and HSA plans > 2 medical plan options with $0 payroll deduction
+Family-building, fertility, adoption and surrogacy benefits
+Dental (including orthodontic coverage) and vision plans, both have options with a $0 paycheck contribution
+Company Paid (Health Savings Account) HSA Contribution when enrolled in the High Deductible Aetna medical plan with HSA
+Healthcare and Dependent Care Flexible Spending Accounts (FSA)
+LGBTQ+ care concierge services
+401(k) with employer match, Employee Stock Purchase Plans, and other financial benefits
+Company paid Basic Life, AD&D, short-term and long-term disability insurance
+Employee Assistance Program
+Sick and Vacation time (Flex time for salary positions), and Paid Holidays
+Back-up childcare and parenting support resources
+Voluntary benefits to include: critical illness, hospital indemnity, accident insurance, theft & legal services, and pet insurance
+Weight Loss and Tobacco Cessation Programs
+Tesla Babies program
+Commuter benefits
+Employee discounts and perks program
+Expected Compensation
+
+$80,000 - $258,000/annual salary + cash and stock awards + benefits
+
+Pay offered may vary depending on multiple individualized factors, including market location, job-related knowledge, skills, and experience. The total compensation package for this position may also include other elements dependent on the position offered. Details of participation in these benefit plans will be provided if an employee receives an offer of employment.

@@ -1,0 +1,30 @@
+About the job
+Data Scientist
+
+Altamira delivers a variety of analytic and engineering capabilities to the US National Security community, but the tech culture and the caliber of the individuals that bring these capabilities to fruition are what really set us apart. Our Dayton, OH office is highly focused on the Space-based mission set with a heavy emphasis on sensor exploitation and analysis; Tampa, FL focuses on ‘art-of-the-possible’ analytics of all kinds with an emphasis on graph technologies, NLP, and wrangling complex data sets; and all forces converge at our headquarters in the Northern Virginia/Washington DC area where we host our tech events and support engineering and analytic missions across several IC and DOD agencies.
+
+While our work occurs in different states and different mission domains, we’ve got analytics at the heart of every operation and genuine curiosity for new methods, techniques, and solutions. Our specialties are data science and analytics, data engineering, software engineering, and end-to-end analytic solutions architecture. We’ve also got some awesome benefits like the Altamira Healthy Living program, with ongoing competitions and a flexible spending stipend for health and wellness-related items.
+
+Location: Tampa, FL
+
+The Role: An Altamira Data Scientist/Analyst is an integral member of an analytic and engineering team. The data scientist is expected to participate in the design, development, and implementation of novel analytics to address a variety of customer problem sets. We are highly interested in individuals who can craft narratives around their analytics, producing highly visual representations of both the output and the innerworkings of analytic methods. The Data Scientist should be versed in statistics, predictive modeling, machine learning, computational simulation, geospatial modeling, network science, or other analytic techniques. This individual will also have a firm grasp of the environments in which the analytics must be deployed, whether stand-alone, within a broader software architecture, in the cloud, etc. While a heavy programming background is not required, sufficient technical knowledge to implement the analytics is highly desired.
+
+Your skills:
+Demonstrable expertise in an area of data science or analytics (e.g. machine learning, deep learning, NLP, computer vision, predictive modeling and forecasting, statistics)
+Ability to review academic literature, extract analytic methods, and apply them to new data sets and mission areas
+Familiarity with conducting literature reviews, producing Analysis of Alternatives (AoA) of analytic methods, and exploring commercial software
+Working knowledge of 1 or more programming languages
+Experience working with machine learning frameworks (e.g. TensorFlow, PyTorch, scikit-learn)
+Experience delivering analytic solutions in cloud environments (AWS strongly preferred)
+Ability to visually represent and communicate complex analytics is strongly desired
+Familiarity with specific sensor phenomenologies is desired (e.g. SAR & RF, OPIR, etc.)
+
+Your quals:
+Secret security clearance, with ability to obtain TS/SCI is required
+Bachelor’s Degree (BS) or higher in similar technical field to above
+1 year of relevant work experience
+Significant coursework or professional experience in machine learning, deep learning, NLP, computer vision, predictive modeling and forecasting, statistics, or similar analytic domain
+Experience delivering software or technical solutions to DOD or IC customers, USAF, JAIC, NRO, NGA, or other intelligence organizations strongly desired
+Familiarity with data visualization software, tools, and techniques is desired
+
+Altamira is an Equal Opportunity/Affirmative Action employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability, or protected veteran status. We focus on recruiting talented, self-motivated employees that find a way to get things done. Join our team of experts as we engineer national security!

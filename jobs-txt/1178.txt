@@ -1,0 +1,27 @@
+About the job
+Data Scientist (Insurance)
+
+9 Month Contract to Hire!
+
+Fully Remote
+
+$60-$80/ hour
+
+
+You will be a part of one of the most successful insurance companies based in Chicago. This is a 9-month contract with a possible contract-to-hire opportunity. In this role, you will be working as a liaison between multiple teams within the company.
+
+
+THE ROLE
+
+You will utilize advanced statistical/AI techniques to create high-performing predictive models and creative analyses to address business objectives and client needs.
+Assure compliance with regulatory and privacy requirements during the design and implementation of modeling and analysis projects.
+Follow industry trends in insurance and related data/AI processes and businesses. Function as the analytics expert in meetings with other internal areas and external vendors. Actively participates in proof-of-concept tests of new data, software, and technologies.
+Utilize scientific approaches (e.g. experimental design) to verify the performance of algorithms and/or predictive models.
+
+SKILLS REQUIRED
+
+Graduate Degree in a quantitative discipline such as statistics, computer science, mathematics, economics, physics, or operations research
+1+ years of experience with predictive analytics in financial services or insurance (preferred but not mandatory).
+Strong expertise in statistical modeling techniques such as linear regression, generalized linear model (GLM), survival analysis, machine learning models (e.g. XgBoost, neural network and deep learning), cluster analysis, and unsupervised learning approaches.
+Substantial programming experience with several of the following: R, Python, PySpark, SQL, Hadoop.
+Comfort in using SQL Server, PostgreSQL/ MySQL, experience in tools based on Git or SVN, and working knowledge of cloud computing platforms such as Microsoft Azure, AWS or Google Cloud.

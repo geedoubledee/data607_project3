@@ -1,0 +1,51 @@
+About the job
+This job is sourced from a job board. Learn moreFocusKPI is seeking a Data Scientist to enable deep media insights through advanced analytics for our client, one of the largest retailers/e-commerce companies in the U.S..
+
+Work Location: Remote in the U.S.
+
+Duration: 6 months contract with potential for extension and conversion, depending on budget and performance
+
+Pay range: $50/hour to $75/hour
+
+Responsibilities
+
+Perform hands-on coding to retrieve and analyze large datasets using Python and SQL
+Integrate disparate data sources and leverage state-of-the-art analytics best practices to deliver integrated actionable insights to partners and stakeholders
+Manage and streamline data extraction process with great attention to details
+Assess the potential usefulness, validity, and rigor of new data sources
+Work with cross-functional team to ensure that the quality of the data are of the highest standard
+Help with media mix models to connect the impact of marketing tactics and business short-term and long-term outcomes
+
+Qualifications
+
+Master’s degree in statistics/mathematics, engineering, computer science, economics, or a related field
+3+ years of industry experience in data, analytics, and data science role
+Proficient coding skills (SQL/Python/R)
+Deep knowledge of relational database capabilities and experience with big data technologies (Hive/Hadoop)
+Proficient BI/BA data visualization tools (Tableau, PowerBI, ThoughtSpot, Looker, etc.)
+Experience working with Marketing Mix Modeling (MMM) and/or Multi-Touch Attribution Models (MTA) is a must
+Experience with Modeling and Machine learning
+Experience with cloud technologies such as GCP, AWS, Azure
+Experience in integrating, structuring, and analyzing large amounts of data from diverse sources
+Strong project management skills and attend-to-detail documentation skills.
+Strong written and verbal communication with the ability to communicate complex technical topics clearly to a range of audiences and to ‘tell a story that provides insight into the business
+Passion for working in a fast-paced agile environment.
+A collaborative mindset and sense of curiosity
+
+Preferred Qualifications
+
+Ph.D. degree in statistics/mathematics, engineering, computer science, economics, or a related field
+Experience with predictive modeling algorithms and optimization techniques
+Experience applying statistics to business problems
+Experience with advertising, measurement, and/or digital marketing analytics
+Experience with advertising technology platforms, Ad servers, DSPs, DMPs, etc.
+
+Thank you!
+
+FocusKPI Hiring Team
+
+Founded in 2010, FocusKPI, Inc. (FocusKPI) is a data science and technology firm specializing in predictive analytics practice and methodologies. FocusKPI is a US company headquartered in Silicon Valley, California with an East Coast office in Boston, Massachusetts.
+
+NOTICE: Please be aware of fraudulent emails regarding job postings, job offers and fake checks. FocusKPI's recruiting team will strictly reach out via @focuskpi.com email domain. If you have received fraudulent emails now or in the past, please report it to https://reportfraud.ftc.gov/ .
+
+The domain @focuskpijobs.com is fraudulent and not related to FocusKPI. Please do not not reply or communicate to anyone with @focuskpijobs.com.

@@ -1,0 +1,26 @@
+About the job
+Thena is a pre-seed startup that is redefining customer experience for businesses. We are looking for a smart, energetic, and driven Machine Learning Engineer to join our team in our Palo Alto office. The successful candidate will have 2-4 years of industry experience and a strong background in developing and deploying ML models that drive business value. In this role, you will work closely with our data science and engineering teams to build and deploy scalable and efficient ML models that solve complex business problems.
+
+If you are a talented Machine Learning Engineer with a passion for enterprise software development and a desire to work in a dynamic startup environment, then we encourage you to apply for the Machine Engineering role at Thena.
+
+Role:
+Develop, fine-tune, and deploy ML models for B2B customer communication and collaboration use cases.
+Collaborate with cross-functional teams to define requirements, design models, and deploy them in production.
+Optimize model performance and accuracy through experimentation, iteration, and testing.
+Build and maintain ML infrastructure and tools to support model development and deployment.
+Stay up-to-date with the latest research and best practices in ML, and share knowledge with the team.
+
+Requirements
+2-4 years of industry experience in machine learning engineering, with a focus on natural language processing (NLP) and text classification models.
+Experience with ML Ops, including deploying and managing ML models in production environments.
+Proficiency in Python and deep learning frameworks such as PyTorch or TensorFlow.
+Experience with Embeddings and building on top of LLMs.
+Strong problem-solving and analytical skills, with the ability to develop creative solutions to complex problems.
+Strong communication skills, with the ability to collaborate effectively with cross-functional teams.
+Bachelor's or Master's degree in Computer Science, Electrical Engineering, or a related field.
+
+Benefits
+Competitive salary and benefits package, including insurance for self and family.
+Best-in-class equipment to work with.
+ESOPs to build long-term wealth.
+The opportunity to work in a fun and fast-paced startup environment.

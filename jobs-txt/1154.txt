@@ -1,0 +1,69 @@
+About the job
+Data Scientist
+
+About Indegene
+
+Indegene (www.indegene.com) is on a mission to empower every healthcare enterprise in its transformation journey. We are uniquely positioned to solve the challenges of the healthcare industry through our combination of deep medical knowledge and verticalized technology to help make healthcare affordable and accessible to every person on the planet.
+
+We are innovators at heart and real innovation for us means constantly obsessing over what will drive success for our customers in the future. No wonder 18 of the top 20 global biopharma organizations lean on us for an agile and enduring partnership. With close to 5000 brilliant employees spread across the US, Europe, China, Japan, and India, we have delivered over 100 strategic engagements and fully commercialized a $2B+portfolio
+
+We have brought together a group of incredibly passionate and brilliant people and entrusted them to solve some of healthcare’s most challenging problems, which has led to our culture being centered on passion, innovation, and collaboration. We’re passionate about healthcare; we believe that technology and innovation will carve an indomitable path in transforming healthcare for the better, and to achieve this, we collaborate with the best minds in the medical and technological domains.
+
+Indegene is focused on helping customers drive Customer Experience by unlocking the value of Enterprise data. This drives the charter for our data management team including Data Strategy, Data Governance, Data Quality, Data Operations, Data Platforms, and Data Literacy. The team’s mission is to enable the right data, at the right time, with the right controls compliant with Data Policies & Standards, centralized tools and capabilities, while ensuring data is high quality, discoverable, and accessible when needed.
+
+
+
+Position Summary:
+
+We are looking for a data scientist to further develop a prototype solution to screen for illness by using machine learning techniques on retinal scan data.
+
+Role will provide support on:
+
+· ML and non-ML algorithm development, testing and product ionization.
+
+· Deployment of algorithms to testing and production platforms.
+
+· Development and implementation of software quality standards.
+
+
+Support and implement the following goals in 2023:
+
+• Re-Develop initial models to increase performance of accuracy using higher quality data set
+
+• Continuous refinement of model(s) performance accuracy level on higher quality data
+
+• Continue with on-going integration of updated models with 3rd Party vendor
+
+• Continuous improvement of deployment processes
+
+
+Service & Deliverables
+
+Data cleaning and standardization
+
+Implement data cleaning, standardization, and imputation methods in line with goals for the project.
+
+
+Feature engineering
+
+Investigate and engineer features from the extracted data using standardized processes
+
+
+Model development
+
+Identify appropriate statistical/ML methods. Provide an analysis plan for model development. Train, test, and validate the methods for various clinical trial outcomes.
+
+
+Model maintenance
+
+Provide the appropriate model maintenance plan for ongoing monitoring and updating.
+
+
+Integration
+
+Support integration of models into production frameworks
+
+
+Documentation
+
+Generate required training and educational material around all the activities listed above, adhering to guidelines provided by the AZ team

@@ -1,0 +1,45 @@
+About the job
+605 is an independent TV measurement and analytics firm that offers advertising and content measurement, full-funnel attribution, media planning, optimization and analytical solutions. Comprised of engineers, analysts, data scientists, media experts and marketing strategists, 605 forges new paths using groundbreaking innovations that set industry standards for audience targeting and measurement.
+
+Senior Data Scientists at 605 are highly skilled data scientists, statisticians, and/or other skilled researchers (PhD, ABD, Masters with experience, or comparable). The Senior Data Scientist must be able to analyze big data, apply machine learning and statistical models, and communicate findings clearly to all levels of an organization.
+
+Responsibilities include:
+Coding original R/Python/Spark scripts as well as optimizing current scripts daily
+Implementing machine learning and statistical models to solve complex problems
+Flexibly working on a variety of different externally facing client projects over the course of a week
+Collaborating with fellow data scientists, data engineers and account managers to identify and implement efficiencies and automate solutions
+Mentoring junior data scientists and analysts
+Working with sales leads to build new business opportunities
+
+Requirements
+7+ years work experience in comparable field and a Master's degree (or equivalent work experience)
+5+ years coding experience with 2+ years specifically in R or Python
+3+ years implementing machine learning and statistical methods to solve complex problems
+Strong machine learning and/or statistical skills and intuition. Expertise in at least one of: causality, model evaluation, or forecasting
+Experience adapting, implementing, and scaling various solutions utilizing machine learning techniques
+Experience manipulating multiple big data sets
+Adaptable enough to use existing tools, models, and methods to new needs
+Strict integrity working with confidential, private, and high-value client information
+Ability to balance workload across a variety of different projects over the course of a week
+Excellent attention to detail
+Excellent oral and written communication skills to interpret and translate results to a variety of technical and non-technical audiences through reports; white papers; and internal, external, and client-facing presentations
+
+Preferred Skills
+Previous experience with Spark
+Experience working in data science in the television or digital marketing industry
+Experience designing and analyzing experiments
+Experience analyzing high-dimensional time series or event stream data
+
+Benefits
+Comprehensive medical, dental and vision insurance for employees and their families
+Company-paid life insurance, short and long term disability
+401k with match
+Pre-tax flexible compensation plan for medical, transit, parking or dependent care expenses
+Generous vacation, personal and sick days
+100% paid parental and family caregiving leave
+Educational reimbursement program
+A kitchen stocked with sodas, snacks, yogurt and other goodies
+A tight-knit startup community who likes to eat! We celebrate everyone’s birthdays, have frequent team lunches, and do events in and out of the office
+605 is an active participant in conferences
+
+Candidates who meet the qualifications of this role can expect to earn an annual salary of $125,000 - $150,000.

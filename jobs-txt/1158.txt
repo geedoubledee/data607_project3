@@ -1,0 +1,61 @@
+About the job
+Come help us build the world's most reliable on-demand, logistics engine for delivery! We're bringing on experienced engineers to help us create and maintain a 24x7, no downtime, global infrastructure system that powers DoorDash’s three-sided marketplace of consumers, merchants, and dashers.
+
+At DoorDash, our Data Scientists have the opportunity to dive into a wealth of delivery data to improve Dasher assignment, ETA prediction, Dasher capacity planning, search ranking & personalization, and fighting fraud & abuse. Useful blogs to learn about these use cases are - blog #1, blog #2, and blog #3.
+
+About The Team
+
+The ML Platform team is aimed at building an industry leading Machine Learning platform for DoorDash Data Scientists and Machine Learning engineers to easily and quickly apply Machine Learning to a diverse set of use cases at scale. A recent blog that detailed some of the challenges is here.
+
+About The Role
+
+You will work alongside our Data Scientists and Product Engineers to collaborate on various ideas and ensure that there is a highly reliable, world class platform to run their ML models on.
+You will help build high performance and flexible infrastructure and services that can rapidly evolve to handle new technologies, techniques and modeling approaches
+You will implement and operate an intuitive, easy to use and flexible ML development framework.
+
+You’re Excited About This Opportunity Because You Will…
+
+Join a growing company and grow right along with us.
+Take on significant technical challenges and have a large impact.
+Create industry best practices for Machine Learning infrastructure
+
+We’re Excited About You Because…
+
+High-energy and confident - you’ll do whatever it takes to win
+You’re an owner - driven, focused, and quick to take ownership of your work
+Humble - you’re willing to jump in and you’re open to feedback
+Adaptable, resilient, and able to thrive in ambiguity - things change quickly in our fast-paced startup and you’ll need to be able to keep up!
+Growth-minded - you’re eager to expand your skill set and excited to carve out your career path in a hyper-growth setting
+Desire for impact - ready to take on a lot of responsibility and work collaboratively with your team
+
+Qualifications
+
+B.S., M.S., or PhD. in Computer Science or equivalent
+Exceptionally strong knowledge of CS fundamental concepts and OOP languages
+4+ years of industry experience
+Prior experience building machine learning systems in production such as enabling data analytics at scale
+Prior experience in machine learning - you've developed and deployed your own models - even if these are simple proof of concepts
+Systems Engineering - you've built meaningful pieces of infrastructure in a cloud computing environment. Bonus if those were data processing systems or distributed systems
+
+Nice To Haves
+
+Experience with real-time technology problems
+Familiar with Pandas / Python machine learning libraries
+Familiar with Spark, MLLib, Databricks MLFlow, Apache Airflow and similar related technologies.
+Familiar with a cloud based environment such as AWS
+
+About DoorDash
+
+At DoorDash, our mission to empower local economies shapes how our team members move quickly, learn, and reiterate in order to make impactful decisions that display empathy for our range of users—from Dashers to merchant partners to consumers. We are a technology and logistics company that started with door-to-door delivery, and we are looking for team members who can help us go from a company that is known for delivering food to a company that people turn to for any and all goods.
+
+DoorDash is growing rapidly and changing constantly, which gives our team members the opportunity to share their unique perspectives, solve new challenges, and own their careers. We're committed to supporting employees’ happiness, healthiness, and overall well-being by providing comprehensive benefits and perks including premium healthcare, wellness expense reimbursement, paid parental leave and more.
+
+Our Commitment to Diversity and Inclusion
+
+We’re committed to growing and empowering a more inclusive community within our company, industry, and cities. That’s why we hire and cultivate diverse teams of people from all backgrounds, experiences, and perspectives. We believe that true innovation happens when everyone has room at the table and the tools, resources, and opportunity to excel.
+
+Statement of Non-Discrimination: In keeping with our beliefs and goals, no employee or applicant will face discrimination or harassment based on: race, color, ancestry, national origin, religion, age, gender, marital/domestic partner status, sexual orientation, gender identity or expression, disability status, or veteran status. Above and beyond discrimination and harassment based on “protected categories,” we also strive to prevent other subtler forms of inappropriate behavior (i.e., stereotyping) from ever gaining a foothold in our office. Whether blatant or hidden, barriers to success have no place at DoorDash. We value a diverse workforce – people who identify as women, non-binary or gender non-conforming, LGBTQIA+, American Indian or Native Alaskan, Black or African American, Hispanic or Latinx, Native Hawaiian or Other Pacific Islander, differently-abled, caretakers and parents, and veterans are strongly encouraged to apply. Thank you to the Level Playing Field Institute for this statement of non-discrimination.
+
+Pursuant to the San Francisco Fair Chance Ordinance, Los Angeles Fair Chance Initiative for Hiring Ordinance, and any other state or local hiring regulations, we will consider for employment any qualified applicant, including those with arrest and conviction records, in a manner consistent with the applicable regulation.
+
+If you need any accommodations, please inform your recruiting contact upon initial connection.

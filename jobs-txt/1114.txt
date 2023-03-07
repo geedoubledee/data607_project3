@@ -1,0 +1,68 @@
+About the job
+This job is sourced from a job board. Learn moreDescription
+
+Bardess is looking for a skilled data scientist.
+
+Bardess is a data analytics consultancy which specializes in data science, data architecture/engineering, and BI. Our data science clients span all industries, including technology, life sciences, financial services, CPG, retail, media, and manufacturing.
+
+You will be working alongside highly experienced technical consultants, several of whom have PhDs in computational scientific fields, as well as project managers and sales staff. Bardess consultants are self-motivated, results-oriented people, and diplomatic problem solvers.
+
+Recent example projects
+
+Transaction clustering on 2 billion rows of point-of-sale data, using Spark - for major convenience store chain
+Credit risk model for major vehicle leasing company
+Store/product revenue predictions, sales forecasting, and optimization for major retail company
+Business partnership with new time series forecasting software product
+
+Responsibilities
+
+Use a range of machine learning and statistics techniques to design and implement data science solutions that meet client business requirements
+ETL and data prep
+Operationalization of data science solutions, e.g. setting up automated prediction pipelines
+Communicate with client to help determine needs, plan out delivery, and present results
+Work independently to deliver client projects, and collaboratively with other Bardess employees
+
+Experience
+
+Qualifications and Skills
+
+2 years relevant data science experience
+
+Education
+
+Bachelors, ideally in scientific or computational field
+Masters or PhD preferred
+
+Skills
+
+advanced knowledge and demonstrated experience in data science and machine learning theory
+strong experience with Python and/or R
+strong experience with SQL
+excellent communication skills
+ability to work both independently to identify customer requirements, and collaboratively to address those requirements
+
+Helpful-to-have Skills
+
+experience with big data platforms and data warehouse technologies such as Spark and Snowflake
+experience working in consulting or major industry
+experience communicating with clients/stakeholders, and managing projects
+experience with shell/command-line tools
+ability and desire to train clients in core data science concepts
+
+Location and Travel
+
+During coronavirus pandemic, fully remote
+
+Post-pandemic, work is primarily remote, but there may be occasional client travel, primarily in NY/NJ/PA area
+
+NY/NJ/PA location preferred
+
+Employment Type
+
+Full-time or contractor
+
+Apply
+
+Please email your resume, cover letter, and the opportunity of interest to: recruiting@bardess.com.
+
+Contract or full time

@@ -1,0 +1,69 @@
+About the job
+Senior, Staff or Principal Machine Learning Engineer
+
+
+The EliseLabs organization within EliseAI is looking to hire for machine learning engineer roles at the senior, or above level. This position is available at both our New York office or Silicon Valley, for hybrid or in-person work.
+
+
+EliseLabs builds a powerful natural language development platform that facilitates automated, human quality conversational experiences. Today, our platform hosts the leading AI leasing assistant in the prop-tech space, serving over 100 of the top multifamily property management companies. It is our mission to make the same technology accessible across domains and industries.
+
+
+To build these products, the following are some of the modules you will help design and maintain: our core conversational library (think Pandas for conversations), our dynamic graph database to representing all data, our efficient query language for deeply nested objects, an execution service to register and run user-defined classes and functions (think MLFlow but more generic), computer vision, audio and natural language machine learning models, deployment server and infrastructure, and many more.
+
+
+You will have direct impact on a product that serves tens of thousands of conversations daily in one domain today, and you will help scale the platform to serve millions of conversations daily across the first one hundred domains.
+
+
+Responsibilities:
+
+Design, build and scale entire components of the platform
+Collaborate closely with product and machine learning engineers to deliver a data centric AI platform
+Learn and drive engineering best practices. We build software for developers
+
+Qualifications:
+
+Thrives taking on impossible problems; you will be part of a product that revolutionizes the state of conversational AI
+Is driven and excited to join a highly productive team composed of engineers and scientists at a fast-growing startup
+Has strong programming and system design skills
+Experience with large generative language models
+Comfortable with standard deep learning libraries, like Hugging Face, Torch, deployment tools
+
+Example projects:
+
+build SOTA NLP inference and language generation models
+build large distributed machine learning infrastructure
+develop machine learning driven data processing engines
+
+Nice to haves include:
+
+Experience with C
+Compiler experience
+Has strong fundamentals in machine learning and statistics evidenced by a track record of independent quantitative research (academic or industry) or projects
+PHD in quantitative discipline such as computer science, physics, or similar
+
+As part of EliseAI, the Labs team is well-resourced, but operates largely independently from the prop-tech focused organization. This allows us to take the risks and enables high rewards in a fast-paced development environment. Rather than iterating, we build paradigm shifting tools that unlock 10x improvements over existing technologies.
+
+
+EliseLabs actively develops three product categories:
+
+Standalone APIs serving individual components for the conversational AI lifecycle: data exploration, human labeling, model training, deployment and inference
+A platform providing an integrated development environment to create automated conversational agents
+Conversations as a service, a concierge service to implement automated or partially automated conversations for our enterprise client with custom integrations
+
+Why join
+
+Growth and impact. It’s not often that you can get in on the ground floor of a funded startup that’s scaling. That means that instead of following a playbook, you’ll be writing it. Every single day you will be challenged to identify how we can scale and execute on it. You’ll learn what works when you succeed and what doesn’t when you fail. Either way, the rest of the team will be here to support you.
+
+
+Compensation & Benefits
+
+In addition to the growth and impact you’ll have at EliseAI, we offer competitive salaries along with the following benefits:
+
+Top of personal market compensation (base salary range is between $225,000 and $380,000, flexibility for uniquely qualified candidates)
+Equity in the company in the form of stock options
+Medical, Dental and Vision premiums covered at 100%
+Fully paid parental leave
+Commuter benefits
+401k benefits
+Monthly fitness stipend
+Unlimited vacation and paid holidays

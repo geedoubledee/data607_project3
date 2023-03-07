@@ -1,0 +1,18 @@
+About the job
+Stryd is a talented, multidisciplinary team that is enthusiastic about the future of wearable technology for athletes. Out of this passion, we’ve developed technology for athletes and fitness enthusiasts that provides insight into their health, technique and performance. Our informative and guiding technologies are integrated into wearables that people are excited and proud to wear. Our work environment is fast-paced, and there is tremendous room for growth. For more information, see https://stryd.com.
+
+
+We seek Data Engineers who can develop groundbreaking artificial intelligence and machine learning models based on real-time training physiology and biomechanics data. Your main responsibility is to optimize and personalize the run training experience across the Stryd ecosystem. You will be collaborating with a team of product managers, digital designers, engineers, and business stakeholders. You will help identify and address customer pain points by taking new ideas and turning them into features or digital products.
+
+
+The ideal candidate will have many of the following:
+
+
+Experience in statistical modeling and exploratory data analysis (e.g. significance testing, regression modeling, sampling theory, and etc.) and knowledge of linear algebra, calculus, probability and statistics
+Extensive knowledge of Python/Matlab or similar analysis tools, as well as the corresponding packages (e.g. NumPy, Pandas, scikit-learn). Ability to analyze the data and design complex algorithms using these tools
+Proven ability to sift through data, identify critical information, develop hypotheses, perform rigorous analyses, and make recommendations to broader audiences
+Strong interest in learning human performance, running physiology and biomechanics
+Runner preferred. Familiarity with different run training philosophies/systems preferred
+?
+
+This position is for full-time employment with market competitive salary and with options for both remote work and relocation to work at the Stryd Headquarters in Boulder, CO, USA.

@@ -1,0 +1,45 @@
+About the job
+Summary
+
+Job Description
+
+Under limited supervision, the Data Scientist works closely with business stakeholders to
+
+understand how data can be used to achieve their goals. Designs data modeling
+
+processes, creates algorithms and predictive models and helps analyze the data and
+
+shares insights. Critical thinking and problem-solving skills are essential for interpreting
+
+data. Must have a passion for machine-learning and research. This position will be tasked
+
+with helping the company analyze trends to make better data-based decisions.
+
+Job Duties
+
+Analyzes large amounts of information to discover trends and patterns.
+Designs machine learning models for predictive analytics.
+Presents information using data visualization techniques.
+Undertakes preprocessing of structured and unstructured data.
+Identifies valuable data sources and automates collection processes.
+Performs other duties as assigned.
+
+Education & Experience
+
+Typically requires a bachelor's degree in Mathematics, Computer Science, Physics,
+
+Economics, Engineering, Statistics, Opersations Research, Quantitative Social Science or a
+
+related techincal field area and at least seven (7) years of related experience.
+
+Knowledge, Skills, Abilities
+
+Basic knowledge of software development principles and architecture.
+Excellent verbal and written communication skills.
+Ability to break down and understand complex business problems, define a solution and
+
+implement it using advanced quantitative methods.
+
+Must be a team player with excellent analytical and problem solving skills.
+
+GPC conducts its business without regard to sex, race, creed, color, religion, marital status, national origin, citizenship status, age, pregnancy, sexual orientation, gender identity or expression, genetic information, disability, military status, status as a veteran, or any other protected characteristic. GPC's policy is to recruit, hire, train, promote, assign, transfer and terminate employees based on their own ability, achievement, experience and conduct and other legitimate business reasons.

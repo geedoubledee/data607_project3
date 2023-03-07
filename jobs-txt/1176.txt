@@ -1,0 +1,15 @@
+About the job
+This position is in the Department of Labor(DOL), Office of Workers' Compensations Program (OWCP), Division of Administrative Operations (DAO), Medical and Pharmaceutical Standards Unit (MPSU).
+
+
+Duties
+
+Major duties for this position include but are not limited to, the following:
+
+Conduct research into, extract, gather, interpret, and analyze medical and pharmaceutical data from various databases and sources.
+Have proficiency in SQL, R, SAS, Python, Spark, Jupiter, notebook-based workflows, or other data analytics tools for use in the development of predictive and statistical models to assist in medical and pharmacy healthcare data management and decision making.
+Apply advanced quantitative, computer science, mathematical, and statistical skills to interpret large structured and unstructured data sets to answer specific questions and assist in making data driven decisions regarding OWCP agency operations and management of workers' compensation programs.
+Identify, evaluate, and measure significant issues and opportunities related to compliance, drug cost discrepancies and outliers between pharmacy benefit manager (PBM) contract requirements and amounts billed to the government.
+Evaluate the impact of short- and long-term drug policy changes, perform root cause analyses to understand observed trends in utilization and cost, and refine policies and processes associated with the effective and efficient delivery/reimbursement of pharmacy benefits nationwide.
+
+Please see full position requirements on usajobs.gov by clicking apply.

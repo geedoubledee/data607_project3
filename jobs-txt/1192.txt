@@ -1,0 +1,52 @@
+About the job
+Responsibilities
+
+Noblis is seeking to hire Data Scientists (All Levels) in Reston, VA
+
+As a Data Scientist with our team, you will be working with our federal clients to rapidly develop innovative proof of concept and prototype solutions for our clients’ immediate mission challenges. In your role, you will work on multiple projects with teams of other data scientists, software developers, and SMEs to apply the best practices and state of the art data science and machine learning processes. As a data scientist you will be working closely with federal clients providing services to develop AI/ML models and weights to selected data to facilitate object detection, data triage, search/optimization, inference, facial recognition, behavior detection, and automated discovery and decision making, maintaining model versioning system and experience identifying new vulnerabilities in models.
+
+On Our Team, You Will
+Identify, apply, and adapt the latest research methodologies and open source solutions
+Develop and train new machine learning models
+Identify, curate, and process large data sets
+Research, apply, analyze, and document technical approaches and their outcomes
+Have opportunities to use various types of compute resources including on premises hardware and cloud resources
+Qualifications
+
+Required minimum skills and knowledge:
+All degrees must be in a STEM field such as computer science, statistics, data analytics, computer engineering, mathematics, and physics
+Entry-Level: Bachelor's Degree +0-3 years of professional work experience or Master's Degree + 1-2 years of professional work experience
+Mid-Level: Bachelor's Degree +3-5 years of professional work experience or Master’s Degree + 2-4 years of professional work experience
+Must be a US Citizen and able to obtain necessary clearance
+Desired Skills And Knowledge
+Top Secret clearance
+The ideal candidate has proficiency with major data science tools and languages such as Python, R, NiFi, PostgreSQL/SQL, Spark, and Git
+Demonstrated experience with cleaning, managing, optimizing performance with, and processing large volumes of data
+The Data Scientist has familiarity with industry best practices for software/hardware optimization when processing large data sets and offers experience in the following required task areas: experience with machine learning, statistical modeling, time-series forecasting, and/or geospatial analytics; experience with Hadoop, Spark, or other parallel storage/computing processes is a plus
+#nowhiring
+
+#externalreferral
+
+#hotjobs
+
+Client Engagement
+Learn about and support Noblis’ client engagement, corporate values, and corporate strategic priorities, including providing input to proposal writers.
+Build a productive relationship with your client and understand their structure and goals.
+Participate in the proposal process by providing input to proposal writers.
+Overview
+
+At Noblis we recognize and reward your contributions, provide you with growth opportunities, and support your total well-being. Our offerings include health, life, disability, financial, and retirement benefits, as well as paid leave, professional development, tuition assistance, and work-life programs. Our award programs acknowledge employees for exceptional performance and superior demonstration of our service standards. Full-time and part-time employees working at least 20 hours a week on a regular basis are eligible to participate in our benefit programs. Other offerings may be provided for employees not within this category. We encourage you to learn more about our total benefits by visiting the Benefits page on our Careers site.
+
+Salary at Noblis is determined by various factors, including but not limited to, the combination of education, certifications, knowledge, skills, competencies, and experience, internal and external equity, location, and clearance level, as well as contract-specific affordability and organizational requirements and applicable employment laws. The projected compensation range for this position is provided within the posting and are based on full time status. Part time staff receive a prorated salary based on regularly scheduled hours. The estimated minimum and maximum displayed represents the broadest range for this position (inclusive of high geographic and high clearance requirements), and is just one component of Noblis’ total compensation package for employees.
+
+With the continuing impacts of COVID-19 around the world, we are taking action to protect the health and well-being of our colleagues and maintain the safety of the communities where we operate. Noblis seeks an environment free from COVID-19 and prefers all employees to be fully vaccinated for COVID-19. Attestation of vaccination status will be required for employment with Noblis. Unvaccinated employees may be subject to additional health and safety requirements to include any federal, state and/or client restrictions.
+
+Noblis and our wholly owned subsidiaries, Noblis ESI , and Noblis MSD tackle the nation's toughest problems and apply advanced solutions to our clients' most critical missions. We bring the best of scientific thought, management, and engineering expertise together in an environment of independence and objectivity to deliver enduring impact on federal missions. Noblis works with a wide range of government clients in the defense, intelligence and federal civil sectors. Learn more at Noblis -About Us
+
+Why work at a Noblis company?
+
+Our employees find greater meaning in their work and balance the other things in life that matter to them. Our people are our greatest asset. They are exceptionally skilled, knowledgeable, team-oriented, and mission-driven individuals who want to do work that matters and benefits the public. Noblis has won numerous workplace awards . Noblis maintains a drug-free workplace.
+
+Noblis is an Equal Opportunity Employer. Employment decisions are made without regard to race (as well as because of or on the basis of traits historically associated with race, including hair texture, hair type, and protective hairstyles such as braids, locks, and twists), color, religion, national origin, gender, sexual orientation, gender identity, age, physical or mental disability, pregnancy, childbirth, lactation and related medical conditions, genetic factors, military/veteran status, or other characteristics protected by law.
+
+Noblis is committed to the full inclusion of all qualified individuals. As part of this commitment, Noblis will ensure that persons with disabilities are provided reasonable accommodations. If reasonable accommodation is needed to participate in the job application or interview process, to perform essential job functions, and/or to receive other benefits and privileges of employment, please contact employee-relations@noblis.org .

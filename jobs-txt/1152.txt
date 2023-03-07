@@ -1,0 +1,43 @@
+About the job
+Company
+
+Home Partners of America, a Blackstone Portfolio company, is rewriting the rules of home ownership. Are you looking to grow your career and help great people get into great homes, come work with us! At Home Partners of America, we promote a culture where amazing people (like you) can grow both personally and professionally through our mission driven work. We are looking for team members that want to change the way people view home ownership.
+
+Your Role
+
+The Data Scientist will work with production data and systems used in HPA’s most critical business intelligence and data analytics tasks, with the opportunity to engage with the production process from beginning to end. Projects will center on working with large datasets around real estate, credit underwriting, consumer behavior and property-level information, such as maintenance spend and rental payment tendencies, to create forecasts and models. Other projects will include further development of existing algorithms and models for determining rent pricing strategies, home values, portfolio analysis and management, risk modeling of consumers and other data analytics exercises as required.
+
+The Data Scientist can expect to be writing code and scripting on a daily basis, working cross-functionally with the Data Engineers and Software Developers on the team as well as gaining exposure to data management, data storage and data visualization techniques. This position supports the activities of the Analytics team and will work directly with the company’s key decision makers and senior management team on a regular basis.
+
+Responsibilities
+Conduct research and analysis at the direction of Senior Management and the Analytics Team.
+Communicate technical findings to both technical and non-technical audiences, including Analytics leadership, the marketing team, the operations team, and external stakeholders such as investors.
+Design strategies for analyzing large datasets, including geospatial datasets.
+Assist in working through strategies for cleansing data.
+Develop financial and technical models for reporting and business intelligence tasks.
+Work hands-on with large sets of real estate data and consumer data to help develop new applications, databases and data structures.
+Perform ad hoc requests in line with business priorities.
+
+Requirements
+Undergraduate Degree or Master’s Degree in Computer Science, Engineering, Statistics, Economics, or commensurate technical experience.
+2-3 years of experience in a technical role or analytics role (software development, data science, etc.)
+1-2 years previous scripting experience (Python, Ruby, R, etc.).
+Demonstrated ability to manage multiple projects simultaneously, work under pressure, work independently and meet deadlines.
+Technical familiarity with analysis techniques such as machine learning and regression analysis.
+Previous experience with SQL and geospatial analysis a big plus.
+Proficient with data-centric software packages (scikit-learn, pandas, numpy, Tableau, R, Excel, etc).
+
+Who is Home Partners of America?
+
+HPA is a company that provides residents access to housing through our lease purchase program and choice lease program. We approve someone, they pick the house they want to live in. We buy the house, lease it to them, and they have the right to buy it later on.
+
+Perks/Benefits:
+
+Here at HPA/PPM we offer premier healthcare at affordable rates and access to 401K. Here are some amazing benefits you may not find anywhere else!
+Mental Wellness resources through Headspace & Ginger, Pet Insurance, Adoption assistance program, Compassion leave for pregnancy loss or failed adoption, and eldercare/special needs.
+33 paid days off to start (which includes PTO, Holidays, and personal days)
+Hybrid working environment.
+
+EEOC Statement:
+
+Home Partners of America and Pathlight Property Management are Equal Opportunity Employers and prohibits discrimination and harassment of any kind. All employment decisions including the decision to hire, promote, discipline or discharge are based on business needs, job requirements and individual qualifications without regard to race, color, religion or belief, sex (including pregnancy, gender identity or sexual orientation), national origin, age, disability status, genetic information, veteran or any other status protected by the laws or regulations in the locations in which we operate.

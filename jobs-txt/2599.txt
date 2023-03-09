@@ -1,0 +1,43 @@
+Description
+DATA SCIENTIST
+Hiring Range: $7,058 - $7,944 Monthly
+New to the City of Grand Junction Team? Receive 40 hours Paid Time Off starting on your hire date!
+Open until filled.
+About the Position:
+Visit Grand Junction is searching for an analytical expert to join our team as a Data Scientist. In this role, you will collect, convert, and integrate raw data from various sources and develop and implement analytics into meaningful insights to market Grand Junction as a destination of choice. The successful candidate will be proficient with data-oriented programming languages and visualization software, possess the ability to apply data mining, data modeling, natural language processing, and machine learning to extract and analyze large data sets, and be comfortable translating insights to others through the use of visualization and presentations. This position has supervisory responsibilities over data and business development personnel.
+
+About Visit Grand Junction:
+Visit Grand Junction (Visit GJ), the Destination Marketing Organization, is a Department of the City of Grand Junction. Visit GJ is dedicated to marketing the Grand Junction area, outside of Mesa County, to attract year-round tourism, thereby providing for a sustainable and consistent economy and enhanced quality of life for residents. The team consists of dynamic individuals who are culture-focused, innovative, driven, and dedicated to supporting the travel and tourism industry while reaching departmental goals that serve the Grand Junction community and guests. The Department has evolved into a state-of-the-art marketing organization utilizing data science as its foundation.
+What We Offer:
+We know that a healthy and happy workforce is a thriving workforce, which is why we offer a comprehensive benefits package that supports quality work-life balance including 32 days of paid annual leave to be used for holiday, personal, and/or sick days, health insurance options, employer-matched retirement, a City employee health clinic, wellness program, and an Employee Assistance Program. Of equal importance, we offer an opportunity to serve the community you love and live in. Our employees find their work rewarding and fulfilling, knowing that their day job makes a positive impact.
+
+Our Culture:
+At the City of Grand Junction, we lead the way with continuous improvement, collaborative partnerships, and exemplary service. Our core values are demonstrated by our willingness to challenge the status quo, ability to work together using all areas of expertise to achieve a common goal, and commitment to fulfilling the needs of our community through thoughtful interactions.
+Duties
+What You'll Do:
+Validate, upload, process, and manipulate large sets within data and analyses platforms to build easily understood insights that drive optimization and improvement of marketing campaigns and business strategies; translate, communicate, and present data analyses effectively.
+Utilize data visualization software for full-stack data management from multiple sources to analyze and interpret data and drive concepts from identification and ideation through execution that results in tangible, measurable and impactful business improvement strategies; maintain awareness and understanding of the implications of hidden biases within data sets.
+Apply data mining and data engineering techniques utilizing open-source data visualization, analysis, and machine learning tools, analyzing campaign results and relationships between multiple parameters utilizing market segmentation while triangulating data sources from multi-touch attribution to uncover actionable insights which result in increasingly impactful advertising campaigns.
+Scale measurement programs utilizing data visualization software that attribute the impact of marketing campaigns by analyzing campaign reporting; optimize media effectiveness within and across all Visit Grand Junction channels; identify return on investment on all marketing efforts.
+Utilize statistical computer languages and code; create and deploy advanced machine learning algorithms and statistics (simulation, optimization, clustering, decision tree learning, AI, scenario analysts, etc.) for analyzing data and building statistical models and algorithms to model predicting outcomes of interest, advantages, and drawbacks.
+Leverage statistical and computational knowledge to build algorithms for calculating variances, advantages, and disadvantages of business strategies; utilize predictive modeling to increase and optimize revenue generation, target markets, and other strategic outcomes.
+Apply data cleansing techniques such as deduplication, scaling and normalization, dimensionality reduction, imputation, and cross-validation to effectively segment and categorize data resulting in accurate messaging and content that engages with appropriate audiences and resonates with their interests.
+Implement advanced statistical techniques and concepts including but not limited to regression diagnostics and analysis, properties of distributions, probability and statistical tests, and data modeling using relevant tools and applications to enhance data validity, avoid assumptions, and increase probability of preferred outcomes.
+Attend and participate in professional group meetings; stay abreast of new trends and innovations in the field of destination marketing.
+Click here to view the full job description for Data Scientist
+Qualifications
+What We're Looking For:
+One (1) year of experience (college coursework accepted) manipulating data sets and building statistical models.
+Master’s degree in Data Science, Statistics, Mathematics, or Computer Science.
+Depth and breadth in quantitative knowledge. Excellent machine learning, statistical analysis, and strong problem-solving analysis.
+Intellectual curiosity; staying current with the latest best practices in data science, data technology tools, and rapidly changing marketing trends and consumer insights.
+Expertise preparation of a variety of clear and concise analytical summaries and other reports and written correspondence.
+Demonstratable track record of dealing well with ambiguity, prioritizing needs, and delivering results in a fast-paced environment.
+Superior verbal and written communication skills with the ability to effectively advocate technical solutions to business audiences.
+Supplemental Information
+Explore the Area:
+Grand Junction, Colorado is the gateway to the mountains and canyonlands of western Colorado and eastern Utah. Centrally located between Denver, CO (250 miles east) and Salt Lake City, UT (270 miles west), Grand Junction is surrounded by 1.2 million acres of public land. Residents enjoy world-class whitewater rafting on the Colorado and Green Rivers, golfing, fishing, skiing and snowboarding, and exploring mountain bike and hiking trails through the Colorado National Monument and the Grand Mesa National Forest. Grand Junction has a robust downtown and hosts multiple art, music, food, and market events annually. With a population of over 150,000 in Mesa County (65,000 within the City limits) we have many of the big town amenities without the big town stresses such as traffic and trail congestion. With an average of 245 days of sunshine, Grand Junction is the perfect place to work and play.
+Learn more about our area on Visit Grand Junction's website and Instagram!
+At the City of Grand Junction, we proudly operate as an Equal Opportunity Employer, purposely building an inclusive workforce representative of various cultures, perspectives, and experiences. We believe in respect for all and do not discriminate based on race, color, religion, sex, gender identification, sexual orientation, national origin, age, disability, and/or genetic information.
+
+If you have questions or need assistance or accommodation due to a disability, please contact our Human Resources office at 970.244.1512

@@ -1,0 +1,47 @@
+In this role, you will have the opportunity to have a major impact on the value created from our AI product suite, data pipelines and analytics capabilities. You will be responsible for overseeing the team that owns data best practices and data science throughout Travel, having direct ownership of the strategy that we execute to meaningfully impact revenue across our Travel businesses. You will also play a key role in driving adoption of these tools across the industry group, working closely with other leaders to consult and showcase how to apply these tools to maximize effect. We're looking for someone who has strong analytical/ML skills and a keen sense of how to apply these to solve business problems.
+This role will provide visibility and access to senior-level leadership as you help drive behavior change across our organization. You will work closely with the AI Product's GM setting strategy and action plans while getting reps pitching those to SLT members for buy-in.
+We believe that diverse, inclusive teams are better teams. Think of the bullets below as guidelines: if you only partially meet the qualifications on this posting, we encourage you to apply anyway!
+What You'll Do:
+Set and execute the strategy of the Travel data team
+Be responsible for product integration and value creation of our machine learning-driven products in key BUs to showcase revenue opportunities
+Work with your team to Ideate, opportunity size, and pitch wholistic AI Products opportunities to get senior leadership buy-in
+Oversee multiple on-going work streams and experiments – allocating your time effectively to ensure highest priority work is accomplished
+Train your team to build and launch templated data components to enhance likelihood of success for an implementation – this may come in the form of visualizations, notebooks, and/or algorithms
+Actively involved in product roadmapping and/or feature prioritization to provide perspective and expertise on sophisticated ways to leverage our data
+Own data pipelines for Travel BUs
+Oversee daily operations of the data team across Travel
+Own implementation of advanced data practices across Travel
+What We're Looking For:
+7+ years of experience blending product expertise and machine learning practitioner background.
+Demonstrated experience developing and delivering high business value strategic initiatives
+Demonstrated ability to lead high-performing, analytical teams
+Demonstrated ability to drive business decisions and behavior changes through analytical capabilities
+Strong knowledge of machine learning, statistical modeling and optimization, with experience working directly or indirectly on a specific business-application in this field
+Analytical skill-set with a data-centric approach to problem solving. You take in information and prioritize effectively to maximize lasting impact
+Entrepreneurial mindset with strong business acumen and capability of innovating and executing solutions to create value for consumers
+A results-oriented thinker who enjoys figuring out new problems and are regularly showing results with a positive attitude
+You thrive in ambiguity. You can ingest various data points and feedback to form a new playbook and framework in situations where there isn't a perfect solution
+Bring a roll-up-your-sleeves attitude and develop a deep understanding of how our editorial, SEO, and marketing functions operate to ensure alignment with your product roadmap and their needs/opportunity areas.
+Blend a deep understanding of state-of-the-art AI methods (large language models, deep learning, reinforcement learning) with deep business context to set a technical product roadmap.
+Present ML product roadmap and vision to key business executives to gain alignment around core milestones and resourcing.
+Compensation
+Cash Compensation Range: $145,000 - $260,000*
+Note actual salary is based on geographic location, qualifications, and experience.
+Enrollment in Red Ventures Long Term Incentive Plan (Equity)
+Additionally, the following benefits are provided by Red Ventures, subject to eligibility requirements.
+Health Insurance Coverage (medical, dental, and vision)
+Life Insurance
+Short and Long-Term Disability Insurance
+Flexible Spending Accounts
+Paid Time Off
+Holiday Pay
+401(k) with match
+Employee Assistance Program
+Paid Parental Bonding Benefit Program
+Who We Are:
+Over the last twenty years, Red Ventures has built a portfolio of influential brands, digital platforms, and strategic partnerships that work together to connect millions of people with expert advice. Through premium content and personalized digital experiences, Red Ventures builds online journeys that make it easier for people to make important decisions about their homes, health, travel, finances, education and entertainment. Founded in 2000, Red Ventures has 3,000 employees in 10 cities across the US, as well as in the UK and Brazil. Red Ventures owns and operates several large digital brands including Healthline, The Points Guy, Bankrate, MYMOVE, and Allconnect.com.
+For more information, visit https://redventures.com and follow @RedVentures on social platforms.
+We offer competitive salaries and a comprehensive benefits program for full-time employees, including medical, dental and vision coverage, paid time off, life insurance, disability coverage, employee assistance program, 401(k) plan and a paid parental leave program.
+Red Ventures is an equal opportunity employer that does not discriminate against any employee or applicant because of race, creed, color, religion, gender, sexual orientation, gender identity/expression, national origin, disability, age, genetic information, veteran status, marital status, pregnancy or any other basis protected by law. Employment at Red Ventures is based solely on a person's merit and qualifications.
+We are committed to providing equal employment opportunities to qualified individuals with disabilities. This includes providing reasonable accommodation where appropriate. Should you require a reasonable accommodation to apply or participate in the job application or interview process, please contact accommodation@redventures.com.
+#TPG

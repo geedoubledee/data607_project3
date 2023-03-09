@@ -1,0 +1,42 @@
+Description
+About this role:
+The role will be responsible for leading a Data Science team that creates and operationalizes Machine Learning models and automated tools that use internal and external data to create benchmarking metrics and differentiated insights for research publications and client advisory services.
+What you’ll do:
+Create a strategy and overall vision for where and how data science can further development of scaled insights for our clients’ most critical needs. A few potential projects or domains you may get involved with:
+Applying Natural Language Processing (NLP) to classify content created by/and-or about brands
+Delivering dashboards (Tableau) and web apps (Streamlit) for self-service insights for domains like Social Media and Search Marketing
+Creating contextual word embedding models/packages to accelerate development of existing and new tools
+Ingesting and delivering insights from new external data assets in collaboration with Product and Engineering teams
+Manage Data Science team operations and talent development
+Identify new data sources that could add value to our research practice
+Work with data engineers and product managers to develop analytics and ML pipelines to support scalable analysis and internal tools
+Partner directly with peer managers in Product and Survey Analytics to align user & client needs with the Data Science team
+Partner closely with Global Product Management (Customer & Market Research) to deliver insights to the practice and support product development, research agendas, and sales enablement
+What you’ll need:
+Bachelors in a quantitative research field (e.g., Computer Science, Electrical Engineering, Applied Mathematics, Physics, etc.).
+10 + years of total experience, including 3-5 years progressive hands-on experience building predictive models, recommendation systems, and/or NLP/text mining tools.
+2+ years of experience managing a team of junior data scientists
+Experience managing a budget
+Well-versed in the foundational approaches to the major data science disciplines, such as data preparation, advanced statistics, machine learning, data pipelining and natural language processing
+Practical, intuitive problem solver with a demonstrated ability to translate business objectives into actionable data science tasks and translate quantitative analysis into actionable business strategies
+Connections to the external ML/Data Science community
+Experience and proficiency with various programming languages (Python), machine learning models (transformers), statistical packages, SQL/relational databases, and cloud computing (AWS, GCP)
+Experienced in new product development and product development lifecycle, including product strategy, development, and launch.
+What we offer:
+In addition to an outstanding work environment with rapid advancement potential, Gartner associates enjoy exceptional compensation and benefits, including:
+Competitive base salary
+Flexible work environment
+A great work culture
+#LI-KS1
+#LI-remote
+Who are we?
+Gartner delivers actionable, objective insight to executives and their teams. Our expert guidance and tools enable faster, smarter decisions and stronger performance on an organization’s most critical priorities. We’ve grown exponentially since our founding in 1979 and we're proud to have nearly 16,000 associates globally that support our 14,000+ clients in more than 100 countries.
+What makes Gartner a great place to work?
+Our teams are composed of individuals from different geographies, cultures, religions, ethnicities, races, genders, sexual orientations, abilities and generations. We believe that a variety of experiences makes us stronger—as individuals, as communities and as an organization. That’s why we're recognized worldwide as a great place to work year after year. We've been recognized by Fortune as one of the World’s Most Admired Companies, named a Best Place to Work for LGBTQ Equality by the Human Rights Campaign Corporate Equality Index and a Best Place to Work for Disability Inclusion by the Disability Equality Index. Looking for a place to turn your big ideas into reality? Join #LifeAtGartner
+What we offer:
+Our people are our most valuable asset, so we invest in them from Day 1. When you join our team, you’ll have access to a vast array of benefits to help you live your life well. These resources are designed to support your physical, financial and emotional well-being. We encourage continued personal and professional growth through ongoing learning and development opportunities. Our employee resource groups, charity match and volunteer programs keep you connected to your internal Gartner community and causes that matter to you.
+The policy of Gartner is to provide equal employment opportunities to all applicants and employees without regard to race, color, creed, religion, sex, sexual orientation, gender identity, marital status, citizenship status, age, national origin, ancestry, disability, veteran status, or any other legally protected status and to affirmatively seek to advance the principles of equal employment opportunity.
+Gartner is committed to being an Equal Opportunity Employer and offers opportunities to all job seekers, including job seekers with disabilities. If you are a qualified individual with a disability or a disabled veteran, you may request a reasonable accommodation if you are unable or limited in your ability to use or access the Company’s career webpage as a result of your disability. You may request reasonable accommodations by calling Human Resources at +1 (203) 964-0096 or by sending an email to ApplicantAccommodations@gartner.com .
+Job Requisition ID:73568
+By submitting your information and application, you confirm that you have read and agree to the country or regional recruitment notice linked below applicable to your place of residence.
+Gartner Applicant Privacy Link: https://jobs.gartner.com/applicant-privacy-policy

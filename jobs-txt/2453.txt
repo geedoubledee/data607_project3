@@ -1,0 +1,22 @@
+Job Summary:
+The Decision Science team focuses on creating innovative mathematical models to inform business decision making through data. The team is interested in all fields related to data science, with emphasis on statistics, operations research, econometrics, and machine learning.
+The Decision Science team resides within the Disney Decision Science + Integration (DDSI) organization. DDSI provides internal consulting services for clients across The Walt Disney Company. The DDSI team sits at the intersection of business strategy, advanced analytics, and technology integration to help our partners explore opportunities for analytics, shape business decisions, and drive value. Our work includes conceptualizing new solutions, systems design and development, implementation and integration with business processes, and ongoing business support.
+The Decision Science Manager will lead the ideation, development and implementation of statistical and machine learning techniques to resolve and support business decisions. In this position you will act as a thought partner and subject matter expert to develop and refine ideas, generate hypothesis, analyze data and apply advanced statistical models to formulate solutions. The Decision Science Manager focuses on leading complex projects or technical initiatives that materially enhance the team’s capabilities, will assist and mentor team members, and takes a broad perspective to identify innovative solutions concerning system requirements and design.
+Responsibilities:
+Breadth to assume responsibility for output, based on multiple technical disciplines, or depth to introduce key technical innovations
+Understands a large, or multiple significant, lines of business (e.g., media, resorts, etc.) or business domains (e.g., sales, marketing, finance, pricing)
+Applies knowledge of multiple technical disciplines and business domain to develop algorithms and evaluate output via tools such as Python, R, Tableau, Gurobi, AWS cloud tools
+Innovates to address new or large problems, which may relate to system requirements and design
+Impacts the success of projects or technical initiatives, including through responsibility for design proposals; may also drive clear definition of detailed responsibilities relative to partner teams
+Checks in with leader to confirm or seek feedback on approach, risks, and issues for projects or initiatives. Requires relatively little guidance in further development of technical knowledge and skills
+Negotiates responsibilities or leads change within and across functional teams
+Basic Qualifications:
+At least 2-4 years of related/relevant experience
+Ability to understand and support multiple large business domains
+Competence in multiple topics from statistics, optimization, machine learning, and/or econometrics. Distinction in breadth of knowledge enabling responsibility for large, complex, or varied output
+Competence in mathematical computing with at least one programming language (e.g. Python, R, Java), and the ability to learn technical methods and tools independently
+How to Stand Out:
+Proven knowledge of marketing analytics, including predictive modeling, marketing mix modeling, and causal inference
+Familiarity with media advertising, including TV promotions and various digital media tactics
+Required Education:
+Master's or Ph.D. in technical discipline (Statistics, Operations Research, Industrial Engineering, Mathematics, Machine Learning, Econometrics, or related field) or equivalent experience

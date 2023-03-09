@@ -1,0 +1,35 @@
+CGS is seeking a Senior Database Administrator to work Remotely.
+
+CGS is seeking a passionate PostgreSQL Database Administrator to support a rapidly growing Data Analytics and Business Intelligence platform focused on providing data solutions that empower our Federal customers. The main priority will be to manage our database environments proactively and as we continue our growth, you will also play a key role in ensuring scalability of our data systems.
+Job Description
+You will ensure the availability and performance of the databases that support our systems, ensuring that they have sufficient resources allocated to support high resilience and speed.
+You will perform and assist developers in performance tuning.
+You will proactively monitor the database systems to ensure secure services with minimum downtime and improve maintenance of the databases to include rollouts, patching, and upgrades.
+You will create and maintain technical documentation using defined technical documentation templates, as well as gaining an in-depth knowledge of the business data so you can propose and implement effective solutions.
+You will work within a structured and agile development approach.
+Required Skills
+Bachelor's degree
+Must be US Citizenship
+10 Years of experience with administrating PostgreSQL Databases in Linux environments.
+Experience with setting up, monitoring and maintaining PostgreSQL instances.
+Experience with implementing and maintaining PostgreSQL backup and disaster recovery processes.
+Desired Skills
+Experience implementing and maintaining data warehouses.
+Experience with AWS RDS for PostgreSQL.
+Experience with working in cloud environments such as Azure and/or AWS
+Prior professional services or federal consulting experience
+
+SOME BENEFITS OF THIS POSITION INCLUDE:
+Health, Dental, & Vision insurance
+Life Insurance
+401k
+Flexible Spending Account (Health, Dependent Care, and Commuter)
+Paid Time Off & Observance of State/Federal Holidays
+
+This is a job post for a position with CGS. We are a business driven by providing our clients the most exceptional care in the sector. To offer our clients and their patients the best service and care, we take pride in creating the best team of motivated individuals to provide top tier service.
+Our staff core values are as follows:
+Honesty through hard work and self-awareness, professionalism in all we do, and to deliver the best quality to our consumers, forging those relations for years to come.
+
+For more information about CGS please visit: https://www.cgsfederal.com
+
+EhdpsD9Dmt

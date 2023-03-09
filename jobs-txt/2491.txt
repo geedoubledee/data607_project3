@@ -1,0 +1,41 @@
+Overview:
+Omni Hotels and Resorts creates genuine, authentic guest experiences at 60 distinctive luxury hotels and resorts in leading business gateways and leisure destinations across North America. Omni Hotels is known for its exemplary culture, authenticity to the markets in which we operate, innovation and exceptional service. Our commitment to career development has created tenure and loyalty that enables us to perpetuate our family atmosphere.
+Job Description:
+The Business Intelligence Developer will work with senior leadership to provide data driven insights to drive tactical execution of the strategic plans for Omni Hotels & Resorts.
+
+The incumbent will provide data-driven insights primarily using SSRS to assist in solving complex business problems and recommend solutions that directly impact our revenue management team and overall revenue growth for the company.
+Responsibilities:
+Create reports using Microsoft SQL Server Reporting Services (SSRS); write complex SQL queries against SQL server database to validate the reports; and provide performance tuning and maintenance of existing reports
+Ability to tackle complex business problems by converting raw data into meaningful and actionable business insights.
+Writes and maintains database stored procedures, functions, and queries.
+Troubleshoot issues with reports currently in production and provide timely fixes.
+Create and deliver insightful presentations that summarize complex analysis and inform business unit owners.
+Ability to write, update and troubleshoot existing complex SQL queries.
+Respond to business report requests by following standard SDLC processes, from requirements gathering, design, QA testing, deployment, and support.
+Engage closely with stakeholders to determine reporting business needs, document, and define requirements, create a plan to implement the solution and deliver on the plan.
+Analyze existing SQL queries for performance improvements.
+Support, maintain and troubleshoot report issues related to Microsoft Reporting Services (2014+).
+Maintain and support data feeds to external partners using SQL Server Integration Services (2014+).
+Reverse engineering of existing code and perform impact analysis of the changes done.
+Document functionality and designs of reports. Assist with creating reporting models, architectures, frameworks, and strategies based on business requirements.
+Develop technical solutions to support and streamline data reporting requests.
+Qualifications:
+Advanced experience and knowledge of SSRS and Visual Studio
+Direct experience authoring reports for at least 3 years using Microsoft Reporting Services (SSRS 2014+)
+Experience in complex SQL development leveraging analytics functions
+Collaborate with Revenue Management senior leadership to identify, prioritize and execute analytical work that enables a deep understanding of demand trends at the market level
+Ability to assist in analytics projects for other departments when needed
+Experience with code documentation
+Process and meticulous with advanced analytical skills
+Experience developing business intelligence solutions in the travel and hospitality industry is a plus
+Ability to work flexible hours, as needed, given tight project deadlines
+Ability to communicate status, issues, designs, and plans to managers, peers, and business partners
+Must adhere to organizational codes of conduct and confidentiality
+Bachelor’s degree required.
+Details:
+The annual salary range is $80,000 - $100,000
+Open to remote working arrangement, or working hybrid 3 days per week in Dallas, TX.
+
+Omni Hotels & Resorts is an equal opportunity/AA/Disability/Veteran employer. The EEO is the Law poster and its supplement are available using the following links: EEOC is the Law Poster and the following link is the OFCCP's Pay Transparency Nondiscrimination policy statement
+
+If you are interested in applying for employment with Omni Hotels & Resorts and need special assistance to apply for a posted position, please send an email to applicationassistance@omnihotels.com .

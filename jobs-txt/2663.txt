@@ -1,0 +1,38 @@
+Data Engineer/Power BI
+Location: Remote (Based out of VA)
+Marathon TS is seeking an individual to join our Analytics Team as a Data Engineer. This work will be performed remotely via telework. This is an exciting opportunity to work on a team supporting one of our DOD clients using your data engineering and data wrangling skills to help create the data foundation needed to support this important work. You and your teammates will be working together to implement state-of-the-art intelligent automation of processes, data preparation and visualization.
+Requirements:
+Bachelors in Information Systems, Computer Science or related field
+8 years software development experience
+3 years experience as a PowerBI developer
+3 years working with databases, data modeling, data management, and data curation
+2 years working with structured and unstructured data sources
+Data preparation experience using SQL or scripting languages to create ETL processes, perform data cleansing, check data integrity
+Experience developing with leading BI tools (e.g., Power BI, Qlik, Tableau)
+Must be able to create interactive dashboards, reports and data visualizations in PowerBI.
+Expertise building new dataset connections to active and passive data sources based on organization needs.
+Experience creating and maintaining report documentation.
+Experience performing data extraction, cleansing and wrangling on data sets from internal and external partners.
+SQL RDBMS experience - preferably Microsoft SQL Server.
+Ability to work independently as well as in small teams to problem-solve
+Current DOD clearance or ability to obtain a DOD public trust clearance
+UiPath experience desired
+Job Type: Full-time
+Pay: $126,722.00 - $137,383.00 per year
+Benefits:
+401(k)
+Dental insurance
+Health insurance
+Paid time off
+Vision insurance
+Schedule:
+8 hour shift
+Application Question(s):
+Do you meet the US Citizen clearance requirement for this position?
+Experience:
+Software Development: 6 years (Required)
+Power BI: 3 years (Required)
+Microsoft SQL Server: 1 year (Required)
+SQL: 1 year (Required)
+ETL: 1 year (Required)
+Work Location: Remote

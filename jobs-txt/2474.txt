@@ -1,0 +1,16 @@
+Job Description:
+Develop high-quality, maintainable code to build and deploy computer vision modules and machine learning models as part of an AI pipeline
+Works with data and software engineering team to integrate models into pipeline
+Support construction and iteration of product prototypes
+Support data pipeline engineering and automation
+Stay up to date with state of the art developments in computer vision tasks
+Other duties as required by supervisors
+Additional Requirements:
+Experience working in MLOps and building pipelines for deploying ML models
+Programming skills in Python, C/C++ or Javascript
+Understanding of machine learning and deep learning fundamentals
+Develop internal tooling as needed to support ML efforts
+Production deployment and performance monitoring including code refactoring and optimization as needed
+Support infrastructure engineering, security engineering, and architecture
+Willing to learn and work well in a cross functional team environment
+Fresh graduates are welcome to apply on a full-time basis

@@ -1,0 +1,36 @@
+This position is a fully remote role.
+HGV Now Offers Day One Team Member Benefits!
+What will I be doing?
+This position will be accountable for analytics for all areas of the business. The goal will be to deliver quality work in a timely fashion consistent with established standards. Work will consist dashboard development, framework maintenance and development.
+The Business Intelligence group is a team of report developers operating in Tableau and Cognos environments. This group is in charge of report development and improvement, framework development, training, reporting governance, tuning, some aspects of data warehousing and Cognos and Tableau system administration. The position involves effective understanding of business needs combined with a knowledge of pertinent data to design reporting solutions that are significant and well thought out based on business requirements, standards and best practices.
+Operations
+Assistance with prioritization of incoming business requests
+Respond to ad hoc report requests and issues from the enterprise
+Collaborate with partners regarding information needs
+Assistance with some aspects of Cognos Administration
+Development
+Develop reporting solutions for all business areas based on business needs
+Develop dashboards within the IBM Cognos suite
+Create, enhance, and maintain Framework Manager Models
+Collaborate with business users and members of IT, including business analysts, database administrators, and managers, to design and develop Cognos reporting capability
+Exhibit a commitment to data quality by validating results against sources specified in the requirements
+Develop and maintain stored procedures
+Write and support queries against databases to be used for reporting and for validation/unit testing
+Support
+Provide production support for Reporting issues during and outside of business hours as needed
+Training
+Provide occasional training of Cognos software, environment, and configuration to other report writers and consumers
+Other
+Other duties as needed, responsibilities subject to change
+Our dedication to excellence is recognized and celebrated by some outstanding accolades, including being named to Newsweek's Top 100 Most Loved Workplaces® list consecutively in 2021 and 2022, awarded two sought-after Stevie® Awards in The 20th Annual American Business Awards® including a Gold Stevie for Company of the Year – Hospitality and Leisure and a Silver Stevie Award for Achievement in Growth, being named a top company in Travel & Hospitality by LinkedIn on its 2022 Top Companies Industry Edition list, ranking first in the hotel and travel industry on Dave Thomas Foundation’s “Best Adoption-Friendly Workplaces” list and becoming a Great Place to Work® certified company in 2022.
+We offer an excellent benefit package to our full-time Team Members that include medical, dental and vision insurance, 401K plan, Paid Time Off (PTO) program and extraordinary travel benefits!
+Qualifications
+What are we looking for?
+Significant experience developing reports in the reports studio using advanced Cognos functions.
+Significant SQL experience
+Preferred Qualifications:
+Data Modeling experience
+Knowledge of Google Big Query
+Timeshare industry experience
+Bachelor's Degree
+We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status. We will ensure that individuals with disabilities are provided reasonable accommodation to participate in the job application or interview process, to perform essential job functions, and to receive other benefits and privileges of employment. Please contact us to request accommodation.

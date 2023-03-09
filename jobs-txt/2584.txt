@@ -1,0 +1,35 @@
+About Leviton:
+At Leviton we make innovative products to meet the needs of today’s residential, commercial, and industrial customers globally; providing them with the light, power, and information they need to move forward and do more every day. As a part of Leviton, you’ll join a stable company with over 115 years of history developing products that directly impact everyday lives.
+Overview:
+Position is part of Electrical Engineering team that develops wiring devices for residential use. Example of product applications: light controls, personal protection, load centers, etc. Individual will be responsible for developing state of the art algorithms for embedded systems employed in our products.
+Responsibilities:
+Playing a key role in developing advanced algorithms and deploying them in our products.
+Analyzing signal signature data, extracting features using statistical, signal processing, data mining and/or optimization techniques.
+Designing algorithms for fault event detection in real time applications.
+Develop algorithms to detect, characterize and generate voltage and current signals for sensor, power metering and lighting control equipment
+Implementing models and algorithms in Python, C/C++, and/or MATLAB
+Optimizing machine learning solutions for implementation in an embedded environment.
+Participating in laboratory and field tests to collect and analyze experimental data to support the verification, validation, and improvement of technical solutions
+Analyzes marketing and engineering data to determine software feasibility of product proposal
+Develops technical specifications and identifies test requirements for products
+Prepares product or system software, block diagrams and object code utilizing engineering group input
+Participates as needed to fabricate engineering prototype
+Implements process improvements to decrease time to market of new and existing products
+This position requires a motivated, creative engineer with the ability to design a variety of new products from concept through production release
+Qualifications:
+Education & Experience
+BS degree in electrical engineering, computer science, computer engineering, physics, math, or related field of study (MS degree preferred)
+2+ years’ of professional experience is preferred
+Skills & Abilities
+Strong knowledge of programming in C, C++ and Python (Python strongly preferred, Matlab acceptable)
+Strong data analytic skills and experience in dealing with real-world time series data.
+Proven experience in embedded system and firmware development.
+Proficient with signal processing and DSP techniques such as spectral analysis, filter design, and signal feature extraction
+Knowledge in machine learning / deep learning (Experience in time series analysis and classification strongly preferred)
+Experience working with libraries such as TensorFlow, Numpy, Pandas, Sklearn, etc
+Ability to read and understand electrical schematics is preferred
+Comfortable using lab equipment and tools such as debuggers, logic analyzers, oscilloscopes, etc.
+Excellent teamwork, communication, and organizational skills.
+Travel
+Up to 10% travel required. ##LI-SK1 #LI-Hyrbrid #IND2
+Salary will be dependent upon the individual’s skills, experience, and qualifications.

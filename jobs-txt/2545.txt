@@ -1,0 +1,43 @@
+Your Opportunity
+
+** This role can be telecommute**
+
+The Schwab Cybersecurity Services (SCS) organization is a centralized Center of Excellence (COE) within Schwab Technology Services (STS) that provides security services to advance Schwab’s security posture of critical assets.
+
+As a Senior member within the Cybersecurity Data Protection, Data Engineering Team, you’ll serve as a versatile (senior) machine learning engineer. You’ll exercise your expertise in data structures, algorithms, machine learning fundamentals and various frameworks and software engineering and system design to build an end-to-end ML workflow pipeline in the cloud (preferably GCP). We work exclusively with cyber data, and you’ll be expected to support the deployment of various ML use cases on the cloud, working alongside with other data engineers and data scientists.
+What you are good at
+
+Collaborate with data engineers and data scientists to build data and model pipelines that deploy ML workflow in the cloud (GCP preferred)
+Be the go-to person for software engineering and software design as it relates to bringing code to production
+Implement the best practices to deal with issues related to latency, resilience, throughput, modularity, scalability, and reusability as they pertain to different use cases
+Research, advise and implement ways to improve the existing machine learning infrastructure
+Collaborate with other teams on topics of shared interests so that we can reuse the common tools and techniques
+What you have
+
+Bachelor’s degree (MS preferred) in Computer Science or related quantitative field
+Must have 2+ years of software development experience or must demonstrate significant experience of applying software engineering best practices (system design for scale, modularity, version control, unit testing, documentation etc.) on real-world projects
+Must have experience in at least one of the following areas: machine learning, data mining, pattern recognition or predictive modeling
+Must be fluent in Python. Experience in C/C++, Java or another programming language is a plus.
+Experience with machine learning and deep learning frameworks: scikit-learn, TensorFlow/Keras, PyTorch (optional)
+Experience working with cloud (GCP preferred) technologies for data processing and developing production level ML models – Cloud Storage, BigQuery, Dataflow, Cloud Composer, Vertex AI, PubSub, Cloud Functions
+Ability to clearly communicate technical and non-technical subjects to different stakeholders
+Colorado Compensation
+Target Total Compensation - $139,200 - $231,900
+
+New York City Compensation
+Target Total Compensation – $151,800-$303,600
+
+Your actual pay will be based on your skills and experience - talk with your recruiter to learn more.
+
+Workplace Flexibility Program: We're proud to support our employees in a working approach that allows you to bring your best self to work – whether that’s in the office or remote.
+Most Schwabbies have the opportunity to work in the office and/or at home based on their preference*
+Employees may have the flexibility for a hybrid schedule, where they divide their time between working remotely or in the office.
+Employees and managers can discuss additional flexibility options based on their role, business needs, and individual circumstances.
+Subject to change. Schwab is continually evaluating its approach to ensuring the safety and well-being of our employees
+
+Why work for us?
+Own Your Tomorrow embodies everything we do! We are committed to helping our employees ignite their potential and achieve their dreams. Our employees get to play a central role in reinventing a multi-trillion-dollar industry, creating a better, more modern way to build and manage wealth.
+Benefits: A competitive and flexible package designed to empower you for today and tomorrow. We offer a competitive and flexible package designed to help you make the most of your life at work and at home—today and in the future. Explore further.
+Schwab is committed to building a diverse and inclusive workplace where everyone feels valued. As an Equal Opportunity Employer, our policy is to provide equal employment opportunities to all employees and applicants without regard to any status that is protected by law. Please click here to see the policy.
+Schwab is an affirmative action employer, focused on advancing women, racial and ethnic minorities, veterans, and individuals with disabilities in the workplace. If you have a disability and require reasonable accommodations in the application process, contact Human Resources at applicantaccessibility@schwab.com or call 800-275-1281.
+TD Ameritrade, a subsidiary of Charles Schwab, is an Equal Opportunity Employer. At TD Ameritrade we believe People Matter. We value diversity and believe that it goes beyond all protected classes, thoughts, ideas, and perspectives.

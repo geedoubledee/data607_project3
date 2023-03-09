@@ -1,0 +1,71 @@
+Introduction
+At IBM, work is more than a job - it's a calling: To build. To design. To code. To consult. To think along with clients and sell. To make markets. To invent. To collaborate. Not just to do something better, but to attempt things you've never thought possible. Are you ready to lead in this new era of technology and solve some of the world's most challenging problems? If so, lets talk.
+
+Your Role and Responsibilities
+Deep understanding and knowledge of working in non cloud (on prem) database 19c of Oracle eBS Apps R12.2.9.
+Responsible for diagnosing and resolving Oracle system administration related Incidents.
+Coordinate with functional analysts / developers to perform technical trouble shooting.
+Handle alerts raised by alert monitoring system from application / database.
+Perform nightly monitoring of key Oracle EBS batch jobs using batch monitoring tools.
+OID related configuration & Password setups.
+SSO configuration & SSL setups.
+DB & Application refresh.
+Workflow mailer server configuration.
+OAM Enterprise Manager configurations, monitoring etc.
+Patch Impact analysis, where patch needs to be applied.
+Apply CPU patches and other required patches.
+Perform database tuning, SQL tuning and monitor database performance to maintain system health.
+Logical DB maintenance.
+Work with Oracle Support by raising SRs on relevant issues.
+Assist developer(s) in database activities .
+Online ADOP Patching.
+
+Required Technical and Professional Expertise
+10+ years of experience as Oracle eBS Apps DBA.
+Should have worked in non cloud environment in Oracle Database 19c and eBS application R12.2.5 onwards.
+Should have hands on SSO, OID/OAM set up, Workflow mailer and applying patches.
+
+
+Preferred Technical and Professional Expertise
+Responsible for diagnosing and resolving Oracle system administration related Incidents.
+DB & application refresh.
+perform database tuning, SQL tuning and monitor database performance to maintain system health.
+Logical DB maintenance.
+Work with Oracle Support by raising SRs on relevant issues.
+Assist developer(s) in database activities
+Online ADOP Patching.
+
+About Business Unit
+IBM Consulting is IBM’s consulting and global professional services business, with market leading capabilities in business and technology transformation. With deep expertise in many industries, we offer strategy, experience, technology, and operations services to many of the most innovative and valuable companies in the world. Our people are focused on accelerating our clients’ businesses through the power of collaboration. We believe in the power of technology responsibly used to help people, partners and the planet.
+This job requires you to provide your COVID-19 vaccination status with supporting documentation, where legally permissible.
+
+Your Life @ IBM
+Are you craving to learn more? Prepared to solve some of the world's most unique challenges? And ready to shape the future for millions of people? If so, then it's time to join us, express your individuality, unleash your curiosity and discover new possibilities.
+
+Every IBMer, and potential ones like yourself, has a voice, carves their own path, and uses their expertise to help co-create and add to our story. Together, we have the power to make meaningful change – to alter the fabric of our clients, of society and IBM itself, to create a truly positive impact and make the world work better for everyone.
+
+It's time to define your career.
+
+About IBM
+IBM’s greatest invention is the IBMer. We believe that through the application of intelligence, reason and science, we can improve business, society and the human condition, bringing the power of an open hybrid cloud and AI strategy to life for our clients and partners around the world.
+
+Restlessly reinventing since 1911, we are not only one of the largest corporate organizations in the world, we’re also one of the biggest technology and consulting employers, with many of the Fortune 50 companies relying on the IBM Cloud to run their business.
+
+At IBM, we pride ourselves on being an early adopter of artificial intelligence, quantum computing and blockchain. Now it’s time for you to join us on our journey to being a responsible technology innovator and a force for good in the world.
+
+Location Statement
+IBM offers a wide range of resources for eligible IBMers to thrive both inside and outside of work. In addition to a competitive benefits program consisting of medical and life insurance, retirement plans, and time off, eligible employees may also have access to:
+
+12 weeks of paid parental bonding leave. Family care options are also available to support eligible employees during COVID-19.
+World-class training and educational resources on our personalized, AI-driven learning platform. IBM's learning culture supports your restless attitude to grow your skills and build the depth and scale of knowledge needed to achieve your career goals.
+Well-being programs to support mental and physical health.
+Financial programs that empower you to plan, save, and manage your money (including expert financial counseling, 401(k), IBM stock discount, etc.).
+Select educational reimbursement opportunities.
+Diverse and inclusive employee resource groups where you can network and connect with IBMers across the globe.
+Giving and volunteer programs to benefit charitable organizations and local communities.
+Discounts on retail products, services, and experiences.
+
+We consider qualified applicants with criminal histories, consistent with applicable law.
+
+Being You @ IBM
+IBM is committed to creating a diverse environment and is proud to be an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, pregnancy, disability, age, veteran status, or other characteristics. IBM is also committed to compliance with all fair employment practices regarding citizenship and immigration status.

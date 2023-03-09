@@ -1,0 +1,46 @@
+Junior Machine Learning Engineer
+Salary
+$110,000 - $125,000
+Benefits:
+Health, Vision, & Dental Insurance
+Progressive PTO Policy
+401(k) with 4% Employer Max
+*This is a remote position, however the selected candidate will have to travel to one of the locations either in Dallas, TX or San Diego, CA for their first month for training. Travel & lodging are provided. Occasional travel is required for collaboration beyond the first month as well.
+As a Junior Machine Learning Engineer, you will
+Interpret data to identify patterns and trends that can be used to generate new insights or models
+Recommend improvements to existing algorithms based on new data or insights
+Design and implement new features or functionality for existing products or platforms based on stakeholder feedback
+Create prototypes of new products or features to test with users before fully developing them
+Use static images received from medical imaging to develop high-quality computer vision, and machine learning models
+Provide technical support to other members of the engineering and/or scientist teams who are working on related projects
+Research new technologies and applications to determine their feasibility for commercial use
+Using Tensorflow and/or Tensorflow 2, write code using Python to implement machine learning models in production environments
+Develop new models based on user and stakeholder preference to improve existing products
+As a Machine Learning Engineer/Scientist/Developer, you have
+Previous experience as a Machine Learning Engineer, Machine Learning Scientist, and/or a Machine Learning Developer
+Experience and knowledge in developing high-quality computer vision with static images, and machine learning models (Static Medical Imaging preferred)
+Exceptional data management skills and the ability to perform complex modeling on dynamic data sets
+Proficiency in working in complex software systems, able to apply AI techniques to solve real problems, and able to deliver software of high build quality that is performant and easily supportable
+Previous experience with Python, Tensorflow, & Tensorflow 2
+Adept at working with cross functional teams of driven individuals to solve challenging problems
+About SignalPet
+SignalPET was created to help clinicians gain more diagnostic value from traditional radiographs. Powered by patented artificial intelligence, clinicians are now instantly supported by the most advanced technology medicine has to offer. SignalPET provides a second set of eyes™ for routine radiology screenings, offering objective, consistent results on over 50 radiology test panels that cover over 85% of the most common veterinary x-ray findings. SignalPET's mission is to ensure the highest level of medical quality to our clients. Powered by advanced machine learning and the world's largest database of annotated veterinary radiographs, our patented AI detects and deciphers digital images in a more comprehensive and superior manner than the human eye. SignalPET's industry-leading artificial intelligence solution provides objective, consistent, data-driven results on radiographic studies in to support you, the practitioner, with the information and confidence to make the best possible decisions and ensure high-quality outcomes for your patients and clients.
+Ref: INDHP
+Job Type: Full-time
+Salary: $110,000.00 - $125,000.00 per year
+Benefits:
+401(k)
+401(k) matching
+Dental insurance
+Health insurance
+Paid time off
+Vision insurance
+Application Question(s):
+Have you developed AI models for Computer Vision?
+Have you developed AI models for medical analysis?
+Experience:
+Python: 3 years (Preferred)
+TensorFlow: 3 years (Preferred)
+Deep NeuralNetworks (DNN): 3 years (Preferred)
+time in a corporate/start-up environment: 2 years (Preferred)
+Work Location: Remote

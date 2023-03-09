@@ -1,0 +1,66 @@
+At Bayer we’re visionaries, driven to solve the world’s toughest challenges and striving for a world where ,Health for all, Hunger for none’ is no longer a dream, but a real possibility. We’re doing it with energy, curiosity and sheer dedication, always learning from unique perspectives of those around us, expanding our thinking, growing our capabilities and redefining ‘impossible’. There are so many reasons to join us. If you’re hungry to build a varied and meaningful career in a community of brilliant and diverse minds to make a real difference, there’s only one choice.
+
+Applied Machine Learning Engineer
+
+YOUR TASKS AND RESPONSIBILITIES
+The primary responsibilities of this role, Machine Learning Operations Engineer, are to:
+Reports to Head of Applied Machine Learning
+Designs and implements scalable tools/services for machine learning training and inference while selecting the suitable cloud and on-premises infrastructure for production-level machine learning models.
+Experience and proficiency working with high-dimensional biological datasets, including transcriptomics, or connected multi-omics (transcriptomics/proteomics/imaging) datasets.
+Plays a hands-on role in building interpretable ML products while incorporating suggestions from wet-lab scientists
+The primary location for this role is Cambridge, MA. Relocation assistance may be provided.
+Visa sponsorship may be provided for this role.
+
+WHO YOU ARE
+Your success will be driven by your demonstration of our LIFE (Leadership Integrity Flexibility Efficiency) values. More specifically related to this position, Bayer seeks an incumbent who possesses the following:
+Required Qualifications:
+Must have one of the following:
+Bachelor's degree in a relevant discipline with at least 3+ years of relevant experience, OR
+Master's degree in a relevant discipline with 1+ years of relevant experience, OR
+Ph.D. in Machine Learning with an emphasis on drug discovery preferred.
+Demonstrated experience with open-source deep learning frameworks, such as TensorFlow/PyTorch, as well as competency in Python programming;
+Direct knowledge regarding the implementation of deep learning techniques including Transformers, CNNs, and VAE;
+Highly self-motivated individual with exceptional analytic abilities and scientific rigor who aspires to scientific excellence;
+Capable of presenting their work in a simplified manner to effectively communicate with other senior members to arrive at a decision about the progress of the project(s);
+
+Preferred Qualifications:
+Familiarity with concepts and actors in molecular biology, such as the principles of gene regulation and the interactions and connections between genes, RNA, and proteins;
+Basic understanding of outputs of omics technologies, particularly transcriptomics and gene expression determination, ideally with an understanding of the analysis of RNA-seq data;
+Record of Publications.
+
+YOUR APPLICATION
+
+
+
+Bayer offers a wide variety of competitive compensation and benefits programs. If you meet the requirements of this unique opportunity, and want to impact our mission Science for a better life, we encourage you to apply now. Be part of something bigger. Be you. Be Bayer.
+To all recruitment agencies: Bayer does not accept unsolicited third party resumes.
+
+Bayer is an Equal Opportunity Employer/Disabled/Veterans
+
+Bayer is committed to providing access and reasonable accommodations in its application process for individuals with disabilities and encourages applicants with disabilities to request any needed accommodation(s) using the contact information below.
+
+
+
+
+IMPORTANT NOTE for POTENTIAL US CANDIDATES: Bayer expects its employees to be fully vaccinated against COVID-19. Bayer active employees are also expected to disclose their vaccination status and if fully vaccinated, provide proof of vaccination status to Occupational Medicine. Bayer defines fully vaccinated in alignment with CDC which is two weeks after completing the two-dose vaccine regimen or two weeks after completing the one-dose regimen. Additionally, Bayer employees are also required to comply with state, local and customer requirements.
+
+
+
+
+Location:
+United States : Massachusetts : Cambridge
+
+Division:
+Pharmaceuticals
+
+Reference Code:
+780983
+
+
+
+
+Contact Us
+
+
+Email:
+hrop_usa@bayer.com

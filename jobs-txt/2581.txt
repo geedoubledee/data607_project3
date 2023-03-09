@@ -1,0 +1,14 @@
+CPS Energy is looking for an Oracle Database Administrator who will be responsible for backup, recovery, server architecture, performance tuning, security, auditing, metadata management, optimization, statistics, capacity planning, connectivity, and other data solutions of mission-critical database systems.
+Tasks & Responsibilities:
+Develop databases with SQL, stored procedures, triggers, transactional modeling, dimensional modeling, normalization, indexing methods, constraints, and object usage.
+Performs as technology subject matter expert for relational database management systems such as Oracle 12.1 and 12.2. Qualifications
+Administer all database objects, including tables, clusters, indexes, views and sequences, packages, and procedures.
+Assist with impact analysis of any changes made to database objects.
+Evaluate releases of Oracle and its tools, and third-party products to ensure that the organization is running the products that are most appropriate.
+Modify existing databases and database management systems or directs programmers and analysts to make changes with appropriate database objects such as indexes, tables, partitions, triggers, constraints, stored procedures, large objects, views, etc.
+Requirements:
+Strong knowledge of Oracle database administration in Linux and virtual environments.
+Experience with backups, restores and recovery models.
+Knowledge of High Availability (HA) and Disaster Recovery (DR) options for Oracle.
+Experience and knowledge in migrating code and database changes through the various stages of the development life cycle.
+On-call rotation is required to support 24/7 environment and is also expected to be able to work outside business hours to support corporate needs.

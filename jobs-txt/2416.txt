@@ -1,0 +1,54 @@
+About Us
+
+EcoCart's mission is to make the fight against climate change easy, accessible, and affordable for everyone. We live at the intersection of E-Commerce and Climate Tech and build software that determines the ecological footprint of the manufacturing and delivery of goods sold by e-commerce brands around the world. Then through consumer-facing features, EcoCart enables shoppers to offset the emissions of the goods they are purchasing by donating to offset projects that EcoCart vets and supports. We are backed by top VCs, executives from Facebook, Affirm, & Klaviyo, and by top-tier e-commerce founders of Chubbies, Blue Bottle Coffee, BarkBox, & Felix Gray.
+
+We are a 30-person, remote-first company looking for people who are motivated by being part of a team building products that will help change the world. We're growing quickly, and want you to grow with us - Join us in our mission to make commerce sustainable!
+
+The Opportunity
+
+The Data Engineer will use various methods to transform raw data into useful data systems. Whether creating algorithms or conducting statistical analyses, they will strive for efficiency by aligning data systems with business goals.
+
+The right candidate will have strong analytical skills and the ability to combine data from different sources. They should also be familiar with several programming languages and have knowledge of machine learning methods. If you are detail-oriented, with excellent organizational skills and experience in this field, we’d like to hear from you!
+
+Salary Range: $130,000-$150,000
+Check out our tech stack on StackShare: https://stackshare.io/ecocart-io/ecocart-io
+In this role you will
+Analyze and organize raw data in conjunction with Analysts
+Build data systems and pipelines within the AWS Ecosystem
+Develop Python code to enable data migrations and ETLs across the company
+Evaluate business needs and objectives
+Interpret trends and patterns
+Conduct complex data analysis and report on results
+Prepare data for prescriptive and predictive modeling
+Build algorithms and prototypes
+Combine raw information from different sources
+Explore ways to enhance data quality and reliability
+Identify opportunities for data acquisition
+Develop analytical tools and programs
+Collaborate with data scientists and architects on several projects
+We are looking for
+3 - 4 years of experience as a Data Engineer or similar role
+Experience with ETL/ELT tools (e.g. AWS Glue, Fivetran, SSIS)
+Technical expertise with data models, data mining, and segmentation techniques
+Knowledge of programming languages (e.g. Java and Python)
+Hands-on experience with SQL and NoSQL database design
+Experience with DynamoDB, Lambda, and Redshift
+Great numerical and analytical skills
+A collaborative individual who enjoys working on a team building things together
+Bonus points
+Experience programming in Python
+Experience in Machine Learning and/or Statistics
+Startup experience
+Ecommerce experience
+Benefits
+
+Series A Equity
+Unlimited PTO
+Flexible hours
+Remote-first environment
+Best-of-the-best options for medical, dental, & vision insurance
+401(k)
+Mental health benefits
+Life insurance
+Periodic days of rest, where the entire company enjoys a day off!
+Proactive, collaborative company culture with a shared vision for climate impact!

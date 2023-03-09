@@ -1,0 +1,29 @@
+Database Administrator, Advanced - REMOTE
+1) Maintaining and updating the CONNECT System as needed.
+2) Managing and maintaining all production and non‐production databases.
+3) Responsibility for standards and design of physical data storage, maintenance, access, and security administration.
+4) Performing backup and recovery on Database Management Systems, configuring database parameters and prototype designs against logical data models, defining data repository requirements, data dictionaries, and warehousing requirements.
+5) Optimizing database access and allocating/re‐allocating database resources for optimum configuration, database performance, and cost.
+6) Designing and developing Oracle Database in a standalone or Real Application Clusters (RAC) environment.
+7) Providing emergency after hours support for critical applications as needed upon the written approval of the client's Project Manage.
+Knowledge, skills, and abilities:
+1) Bachelor’s degree in Computer Science, Information Systems, or another related field, or equivalent work experience.
+2) A minimum of three (3) years of experience working with various database management systems in database design, testing, implementation, maintenance, and administration in a multiple platform environment.
+3) Database Administration skills such as Oracle installation and server build out in for RAC or single instance.
+4) Experience with patching and upgrading Oracle Database (DB) to 18c/19c.
+5) Experience working in a development environment with application scheduled releases and experience with Procedural Language extension to Structured Query Language (PL/SQL).
+6) Experience with partitioning, performance tuning, and supporting multiple databases.
+7) A minimum of three (3) years of experience with performing general troubleshooting database maintenance activities including backup and recovery, capacity planning, and managing user accounts.
+8) Experience in identifying and documenting risk areas and mitigation strategies for process and procedure activities.
+9) Experience creating data design models, database architecture, and data repository design.
+10) Experienced with migration of Oracle DB from an on‐premises environment to a Cloud environment.
+11) A minimum of two (2) years of experience with Azure cloud platform
+Job Types: Contract, Temporary
+Schedule:
+8 hour shift
+Experience:
+Oracle Database (DB) to 18c/19c: 3 years (Required)
+Database administration: 3 years (Required)
+Azure cloud platform: 3 years (Required)
+CONNECT System: 3 years (Required)
+Work Location: Remote

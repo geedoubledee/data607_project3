@@ -1,0 +1,31 @@
+What we're looking for
+Stytch is the platform for user authentication. We build infrastructure that sits in the critical path of our customer's applications. As a data engineer, you'll work on designing and building event-driven architecture systems to drive analytics insights and observability tooling for our customers.
+
+What Excites You
+Championing data-driven insights - you see data analytics and observability as a product critical to success
+Solving problems with pragmatic solutions — you know when to make trade-offs between completeness and utility and you know when to cut scope to ship something good enough quickly
+Building products that make developers lives easier — as a data engineer for a developer infrastructure company, what you build will have an immediate impact on our customers
+Shaping the culture and growing the team through recruiting, mentorship, and establishing best practices
+Learning new skills and technologies in a fast paced environment
+
+What Excites Us
+Comfort working in a modern data stack using tools like Snowflake, Redshift, DBT, Fivetran, ElasticSearch, and Kinesis
+Appreciation for schema design and architecture that balance flexibility and simplicity
+Experience designing and building highly reliable back-end and ETL systems
+3+ years as a data or backend engineer
+
+What Success Looks Like
+Technical — build new, highly reliable services that our customers can depend on
+Ownership — advocate for projects and solutions that you believe in and ship them to production
+Leadership — level up your teammates by providing mentorship and guidance
+
+Our Tech Stack
+Data moves through Snowflake, ElasticSearch, MySQL, and Kinesis
+Go and Node for application services
+We run on AWS with Kubernetes for containerization
+gRPC and protobufs for internal service communication
+
+Expected base salary $150,000-$300,000. The anticipated base salary range is not inclusive of full benefits including equity, health care insurance, time off, paid parental leave, etc. This base salary is accurate based on information at the time of posting. Actual compensation for hired candidates will be determined using a number of factors including experience, skills, and qualifications.
+We're looking to hire a GREAT team and that means hiring people who are highly empathetic, ambitious, and excited about building the future of user authentication. You should feel empowered to apply for this role even if your experience doesn't exactly match up to our job description (our job descriptions are directional and not perfect recipes for exactly what we need). We are committed to building a diverse, inclusive, and equitable workspace where everyone (regardless of age, education, ethnicity, gender, sexual orientation, or any personal characteristics) feels like they belong. We look forward to hearing from you!
+
+Learn more about our team and culture here!

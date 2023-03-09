@@ -1,0 +1,25 @@
+Responsibilities:
+· Create Lab Content for Azure Machine Learning topics.
+· Develop validations for lab step completion.
+Essential skills:
+· Microsoft Azure Machine Learning, Python, Azure Cognitive Services, Azure Form Recognizer.
+Non-essential skills:
+· Power Apps, Power Automate, Azure Functions, Web Development
+Experience:
+· Experience in Azure Machine Learning.
+· Experience in Image, Audio, Video and Document processing using Azure Cognitive APIs.
+· Experience in Azure MLOPs.
+· Experience extracting information from documents using Azure Form Recognizer.
+· Experience in Linear Regression, Classification Techniques, Logistic Regression.
+· Experience in building applications using Power Apps, Power Automate and Azure functions is nice to have.
+· Strong python scripting and PowerShell Scripting skills
+· Implement end-to-end DevOps automated processes and pipelines via Azure DevOps, Implement CI/CD, Infrastructure as Code (IaC)
+· Good to have Azure DevOps and ARM templates
+Job Type: Contract
+Salary: From $59.00 per hour
+Schedule:
+8 hour shift
+Experience:
+Python: 1 year (Required)
+SQL: 1 year (Required)
+Work Location: Remote

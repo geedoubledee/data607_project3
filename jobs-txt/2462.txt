@@ -1,0 +1,44 @@
+Data Scientist
+
+This role has been designated as ‘Edge’, which means you will primarily work outside of an HPE office.
+Job Description:
+
+Hewlett Packard Enterprise is the global edge-to-cloud company advancing the way people live and work. We help companies connect, protect, analyze, and act on their data and applications wherever they live, from edge to cloud, so they can turn insights into outcomes at the speed required to thrive in today’s complex world. Our culture thrives on finding new and better ways to accelerate what’s next. We know diverse backgrounds are valued and succeed here. We have the flexibility to manage our work and personal needs. We make bold moves, together, and are a force for good. If you are looking to stretch and grow your career our culture will embrace you. Open up opportunities with HPE.
+Aruba, a Hewlett Packard Enterprise Company, is a leading provider of next-generation working solutions for the mobile enterprise: htttp://www.arubanetworks.com/company/about-us
+The data science team in Aruba’s cloud software division develops and delivers ML/AI modules for all of Aruba’s cloud-based software products. We have an exciting opportunity for a Data Scientist to join our team.
+Sounds like you? Then we have the right opportunity for you!
+How You'll Make Your Mark:
+Formulates and defines analytics solution objectives and technical requirements based on user needs, an understanding of business processes, industry requirements, and advanced analytic models.
+Conceptualizes, builds, develops and enhances a client's analytic model. Selects the relevant analytic modeling methodology for the use case, available structured and unstructured data, cost and timing constraints to solve the business issue and deliver clear business focused insights.
+Embeds analytic models in an enhanced business process of operational system by collaborating with Application Developers. Responsible for measuring business performance based on the model.
+As a fully functioning analytics team member, applies best practices to analytics solutions and contributes to the development of improved best practices. Leads the model enhancements.
+Summarizes complex ideas by developing visual models to display insights to simplify user experience.
+Communicate the analytics solution to the appropriate stakeholders.
+About you:
+BS, MS or PhD degree in Computer Science, Statistics, Physical Sciences or equivalent preferred.
+Advanced knowledge of advanced data science methodologies.
+Ability to translate business requirements into mathematical models and data science objectives to achieve measurable business outcomes.
+Advanced understanding of analytics frameworks in Python.
+Advanced understanding of analytics deployment architectures.
+Advanced machine learning, data integration, and mathematical modeling skills and ETL tools.
+Advanced communication and presentation skills.
+Strong interpersonal skills and effectiveness in working across geographical boundaries.
+Working knowledge of Python languages. Working knowledge of Hadoop framework desired.
+Advanced knowledge of data visualization techniques and software tools.
+What we can offer you:
+Extensive benefits, a competitive salary and participation in the shared values and purpose that make Hewlett Packard Enterprise one of the world´s most attractive employers! At HPE, our goal is to provide equal opportunities, flexible work-life balance, and constantly evolving career growth.
+If you are looking for challenges in an exciting, supportive and international work environment, then we definitely want to hear from you. Continue the conversation by clicking apply now below, or directly via our Careers Portal at www.hpe.com/careers.
+Then let’s stay connected!
+Find out more about us and follow us on:
+https://www.facebook.com/HPECareers
+https://twitter.com/HPE_Careers
+HPE is an Equal Employment Opportunity/ Veterans/Disabled/LGBT and Affirmative Action employer. We are committed to diversity and building a team that represents a variety of backgrounds, perspectives, and skills. We do not discriminate and all decisions we make are made on the basis of qualifications, merit, and business need. Our goal is to be one global diverse team that is representative of our customers, in an inclusive environment where we can continue to innovate and grow together.
+#Aruba #ArubaUS #Diversity
+Job:
+Engineering
+Job Level:
+Expert
+
+Hewlett Packard Enterprise is EEO F/M/Protected Veteran/ Individual with Disabilities.
+
+HPE will comply with all applicable laws related to the use of arrest and conviction records, including the San Francisco Fair Chance Ordinance and similar laws and will consider for employment qualified applicants with criminal histories.

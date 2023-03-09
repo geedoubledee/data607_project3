@@ -1,0 +1,10 @@
+Databricks (s.Python, sql)
+Candidates should be really strong in Python and SQL
+Azure Data Factory
+Synapse Analytics
+Parque and Delta table
+Job Type: Full-time
+Salary: $84,107.15 - $190,640.87 per year
+Schedule:
+8 hour shift
+Work Location: Remote

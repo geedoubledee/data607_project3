@@ -1,0 +1,25 @@
+Hiring data engineer with following skills.
+Role
+Senior data engineer (GlUE/PYSPARK)
+Develops and maintains scalable data pipelines and builds out new API integrations for data transfer.
+Performs data analysis required to troubleshoot data-related issues and assist in the resolution of data issues.
+Must-have
+BS or MS degree in Computer Science or a related technical field
+5+ years of extensive ETL development experience using Pyspark/Glue on AWS
+5+ years of experience in CSV, JSON, Parquet file formats, especially with nested data types
+5+ years of experience in S3, Athena, RDS, Glue catalogue, Cloudformation
+Strong understanding of ETL/Data-pipelines/BigData architecture
+Strong Database/SQL experience in any RDBMS
+Nice-to-have
+Experience in schema design, data ingestion experience on Snowflake (or equivalent MPP)
+Experience in orchestrating data processing jobs using Step Function/Glue workflow/Apache Airflow (MWAA)
+Experience in data analysis using Excel formulas, vlookup, pivot, slicers
+Job Type: Contract
+Pay: $60.00 - $70.00 per hour
+Schedule:
+8 hour shift
+Experience:
+Informatica: 1 year (Preferred)
+SQL: 1 year (Preferred)
+Data warehouse: 1 year (Preferred)
+Work Location: Remote

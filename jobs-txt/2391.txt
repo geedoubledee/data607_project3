@@ -1,0 +1,42 @@
+Primary Purpose
+The Cleveland Guardians Baseball Research & Development (R&D) group is seeking data scientists at a variety of experience levels, including senior, entry-level, and interns/fellows. Prior experience with sports is not necessary if you have some curiosity or interest in learning about data science applications in baseball.
+
+If you enjoy tackling challenging problems, using interesting real data, collaborating with smart people, and having a direct impact on what happens on the baseball field and in our business, this may be the opportunity for you!
+
+People in this role will use statistical and machine learning techniques to better understand and quantify the game of baseball. You will analyze video, player tracking, and biomechanics data as well as traditional baseball data sources like box scores to help us acquire and develop baseball players into a championship-caliber team. You will work alongside the rest of the R&D, data engineering, and IT groups, and interact with coaches, scouts, and executives from across the organization.
+The Cleveland Guardians prefer our employees (or teammates) reside in Cleveland, Ohio, but we will consider and discuss the possibility of remote work. We can also be flexible on start dates.
+If you meet some of the qualifications below, we encourage you to apply or reach out for more information. We know that historically marginalized groups – including people of color, women, people from working class backgrounds, and people who identify as LGBTQ – are less likely to apply unless and until they meet every requirement for a job. We encourage you to reach out if you have questions about the role or your qualifications. We are happy to help you feel ready to apply!
+Responsibilities
+Design, build, test, and deploy statistical and/or machine learning models to support all facets of baseball operations, including scouting, player development, and the major league team.
+Effectively communicate actionable insights to key stakeholders across the organization.
+Using data to visualize model outputs and important baseball concepts.
+Qualifications
+Demonstrated experience or advanced degree in a quantitative field such as Statistics, Computer Science, Economics, Machine Learning, or Operations Research.
+Programming skills in a language such as R or Python to work efficiently at scale with large data sets.
+Desire to continue learning about data science applications in baseball.
+Preferred Experience
+We are looking for a variety of skill sets. If you have demonstrated experience with one or more of the following, you may be who we are looking for.
+Demonstrated research experience in a sports context (baseball is a plus).
+Experience with a database language such as SQL.
+Experience with computer vision.
+Experience working with spatiotemporal data.
+Experience working with high-dimensional time series data.
+Experience with deep learning frameworks such as TensorFlow or Torch.
+Experience with Bayesian statistics and languages such as Stan.
+Standard Requirements
+All applicants for employment with the Cleveland Guardians will need to comply with the Cleveland Guardian Vaccination Policy as a condition of employment. Potential candidates for employment will be notified of the requirements of this policy prior to the start of employment.
+Represent the Cleveland Guardians in a positive fashion to all business partners and the general public.
+Ability to develop and maintain successful working relationship with members of the Front Office.
+Ability to act according to the organizational values and service excellence at all times.
+Ability to work with multicultural populations and have a commitment to fairness and equality.
+Ability to work in a diverse and changing environment.
+About Us
+Our teammates are at the core of what we believe in: People, Collaboration, Learning, and Excellence (PeopleCLE). We look to hire individuals who are committed to our purpose of uniting and inspiring our city with the power of team. Our mission is to win the World Series while creating a compelling fan experience.
+We believe that we will achieve our goals by making evidence and model-based decisions and creating environments that support our people and empower them to continuously learn. This role might be for you if you are looking to join a team that works together to learn new ways to make model-based decisions that lead to excellent outcomes.
+
+We also pride ourselves on creating an attractive work environment highlighted by a healthy work-life balance, exceptional benefits such as health, vision, and dental coverage, and competitive 401k plan with employer contribution and match.
+Our Hiring Process
+A short, three question questionnaire to help us get to know you better than we do from just your application. No coding involved.
+Two approximately 30-minute phone calls.
+A longer take-home questionnaire to help us learn how you think through problems. No coding or project involved.
+A final round of interviews with our R&D department as well as teammates across Baseball Operations.

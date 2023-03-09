@@ -1,0 +1,42 @@
+Position: Business Analyst
+Location: Remote
+Duration: 36 Months
+Who we are:
+Cloud and Things is building a platform to allow you to build your career! Our goal is to solve problems and deliver results for our clients. At Cloud and Things, you can be a part of the transformation of the public sector’s IT environment. Our team is on the forefront of helping to solve the government's most complex IT challenges. If you are seeking a role that offers you the opportunity to work on rewarding projects, consider a career with Cloud and Things.
+Overview:
+In this role you will meet with stakeholders to facilitate/gather requirements and research existing policies, materials, and identify/decompose requirements.
+Job Duties:
+Support program management team in defining and prioritizing project tasks.
+Conduct stakeholder engagement sessions to identify system and policy requirements.
+Develop user stories that define the project business objectives
+Analyze and prioritize requirements and identify associated risks.
+Drive open decisions to ensure pace is maintained
+Research and document project landscape, including identification of technologies available to support project goals and policy and process needs for successful implementation
+Perform analysis on the specific project business domain.
+Produce deliverables that may including strategic plans, detailed documentation of requirements, business process documentation, business process flows, test plans and results.
+Required Qualifications:
+Bachelors in IT and/or Business-related degree and relevant experience.
+Knowledge creating processing diagrams, including "to-be" and current state analysis.
+Knowledge performing detailed analysis of software/systems.
+Knowledge creating entity relationship diagrams (ERDs).
+Knowledge of joint application development (JAD) sessions.
+Strong familiarity with project management software tools, methodologies, and best practices.
+Excellent analytical skills.
+Strong interpersonal skills and extremely resourceful.
+Exceptional written and verbal communications skills, with the ability to manage and develop key relationships with colleagues and clients through collaborative thinking and a strong customer focus.
+Proficiency with Microsoft Office Suite.
+Cloud and Things complies with all applicable federal, state, and local laws regarding recruitment and hiring. All qualified applicants are considered for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability, protected veteran status, or any other category protected by applicable federal, state, or local laws.
+Reference ID: 806
+Job Type: Contract
+Benefits:
+401(k) matching
+Flexible schedule
+Paid time off
+Schedule:
+8 hour shift
+Monday to Friday
+Experience:
+SQL: 5 years (Required)
+Business Analyst: 7 years (Required)
+test plans: 5 years (Preferred)
+Work Location: Remote

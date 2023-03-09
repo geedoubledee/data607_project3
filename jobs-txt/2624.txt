@@ -1,0 +1,18 @@
+Required Skills:
+5+ years of hands-on data analysis & SQL
+Must have experience within Data Lineage / Data Visualization / Data Cleaning / Data Modeling
+ETL/SSIS
+Will be working with product owners to build acceptance criteria for user stories, assist with unit testing and integration testing.
+Will participate in daily stand up calls and other scrum ceremonies
+Will work with data modelers and analysts to build comprehensive data warehouses and assist with peer code review.
+*
+Nice to Haves: (NOT REQUIRED)
+AI/ML
+-Hadoop
+R, Python
+Linear Algebra and Calculus
+Job Type: Contract
+Salary: $40.00 - $65.00 per hour
+Schedule:
+8 hour shift
+Work Location: Hybrid remote in Texhoma, TX 73960

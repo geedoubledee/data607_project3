@@ -1,0 +1,47 @@
+This position will partner with Data Scientists and Data Engineers to operationalize models and deliver insights to the business
+Take responsibility for ensuring that Machine Learning code, models and pipelines are deployed successfully into production, and troubleshooting issues that arise
+Continuously integrate and ship code into Delta's on premise and cloud Production environments
+Transform data science protypes and applying appropriate Client algorithms and tools
+Train and retrain Client models
+Develop deep learning systems to various use cases based on the business needs
+Automate model training and testing and deployment via machine learning continuous delivery pipelines
+Build data APIs and data delivery services that support critical operational and analytical applications for Delta's internal business operations, customers and partners
+Ensure a good data flow between database and backend systems
+Design and implement metrics to verify model and algorithm effectiveness.
+Optimizing solutions for performance and scalability
+Define KPIs and acceptance criteria for model performance in production
+Ensure that the Delta methodology, standards and procedures are adopted and implemented
+Ensure that the technical solutions meet the customers' business goals and that customer satisfaction with the project and conclusion is high.
+Act as a Point of contact for technical issues, creating documentation, monitoring service levels.
+Coordinate activities with internal/external technology owners/service providers.
+Consult within project team and other Delta teams, with outside vendors or consultants to ensure project or product integrity
+Mentor other Senior Developers on the team
+WHAT ARE WE LOOKING FOR? / WHAT EXPERIENCE DO YOU NEED?
+- The Machine Learning Engineer position requires a BS/MS degree, preferably in a technical or scientific field
+- 5+ years of experience in designing, developing, integrating and running business, big data and/or data science applications
+- Knowledge of mining complex data (including structure and unstructured), identifying patterns, and feature engineering
+- Experience with design patterns and implementation and deployment AI and/or data science products.
+- Experienced with deploying and managing infrastructures based on Docker, Kubernetes, or OpenStack, and Clouds such as OpenShift, Azure, AWS or Google Cloud Platform
+- Proficiency with Python, Java, Scala, Spark
+- Experience developing, testing and deploying APIs
+- Experience building applications based on Microservices Architecture
+- A solid understanding of large scale data processing platforms (Apache Spark, Apache Hadoop )
+- Knowledge of data engineering and experience with big data
+- Linux and shell scripting expertise
+- Proficiency with SQL and NoSQL databases
+- Proficiency with scalable data extraction tools (e.g. Cassandra, MongoDB)-
+- Experienced in using AI/Client platforms, technologies, techniques (e.g. TensorFlow, Apache MXnet, Theano, Keras, CNTK, scikit-learn, H2O, Spark MLlib, etc)-
+- Experience with automating application deployment, continuous delivery, and continuous integration (Jenkins, Ansible)
+Experience with VersionOne, JIRA, GIT(gitlab, Bitbucket or other.),
+- Experience using Agile/Scrum methodologies
+- Candidate must be solutions oriented using rigorous logic and methods to solve difficult problems with effective solutions, probing all sources for answers.
+- Candidate must also have excellent written and verbal skills with the ability to communicate effectively with all levels of employees and management.
+- Additionally, candidate must be a self-learner with the ability to pick up new technologies and provide tangible results.
+- Strong problem solving skills and capability to understand and set direction for complex technology integration
+- Understanding and focus on business outcomes
+- Strong teamwork skills
+Job Type: Contract
+Pay: $86,039.24 - $223,989.65 per year
+Schedule:
+8 hour shift
+Work Location: Remote

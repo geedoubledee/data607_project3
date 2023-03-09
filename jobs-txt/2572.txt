@@ -1,0 +1,50 @@
+Sharethrough is one of the top global independent omnichannel ad exchanges. Driven by our conviction that advertising should be underpinned by respect & care, we believe taking a human-centric approach to advertising and monetization is the key to a sustainable path forward for the independent and accessible internet to thrive.
+
+With headquarters based in Montreal, QC, Sharethrough promotes a remote-first work environment to allow us to hire top talent all across North America!
+
+Why You'll Love Working with the Data Science Team
+
+In this role, you’ll pair with your data science and product peers to explore new ways to optimize the 20 billion impressions flowing through our exchange every day. You’ll have a dedicated optimization team to implement your ideas. We believe in an experiment-driven approach that enables you to test out your ideas. While we’ve implemented some tremendously impactful optimization products already, we believe we’ve just scratched the surface.
+About the Role
+Develop research questions and explore data in order to understand various subtleties of auction dynamics, user behavior, and forecast effects of changes
+Design and deploy machine learning models to optimize exchange performance and help partners achieve success
+Build out MLOps infrastructure for model deployment and monitoring of model performance
+Partner with Product and Engineering in analytical projects and influence product strategy
+
+About You
+5+ years of experience working in a data science role
+Degree in Statistics, Computer Science, Econometrics, or similar domain
+Proficient with SQL, Python, AWS, Sagemaker and Big Data
+Experienced deploying and maintaining data science pipelines in production
+Strong familiarity with experimental design
+Comfortable communicating and pairing with product and engineering teams
+
+Tech Stack
+SQL
+Python
+AWS
+Sagemaker
+Big Data
+What's In It For You?
+Competitive compensation packages
+Generous group health insurance plan
+Access to the virtual healthcare platform Dialogue
+Access to the company's stock option plan
+16 days of vacation per year, which increases with seniority at the company
+3 paid Caring days
+1 paid volunteer day
+Offices closed during the holidays
+Wellness allocation of $840 per year (for gym memberships, sportswear, etc.)
+In-house training programs on our company and industry
+Encouragement and funding of continuing education and training
+Very active social committee and free online sports classes
+Access to a tool that measures your engagement and job satisfaction anonymously
+Pairing with a buddy for your first 6 months
+Advantageous referral program
+Inclusive, inspiring, and dynamic work environment
+Casual dress code
+Work from home and flexible hours
+And more!
+We’re Committed to Having an Inclusive and Diverse Environment!
+
+Want to apply but feel like you don't meet every requirement? Apply anyways! Studies show that women and minorities are less likely to apply if they do not exactly fit all the requirements in the job description. At Sharethrough, we are dedicated to building a diverse and inclusive workspace, so if you feel eager about this opportunity but feel like your experience is not perfectly aligned with the job description - apply! There may be other roles you fit the profile for.

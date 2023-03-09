@@ -1,0 +1,34 @@
+Coleman Health Services, a nationally recognized mental health and substance use services provider, is seeking a qualified team member who can help enhance our business intelligence system to help turn data into knowledge through data analysis and outcomes reporting for all business units, grants and enterprises.
+What can Coleman offer you:
+?Health, dental, vision insurance
+?Health Savings Account
+?Annual Wellness reimbursement
+?Start with three weeks of paid-time off
+?Bereavement time off
+?Discounts on Verizon service plans
+?Excellent team environment
+?Highest commitment to quality care
+?$250 Quarterly Employee Recognition Program, Wellness Reimbursement & more!
+Are you looking to make a meaningful difference in your community? Would you like to work for an award-winning, nationally recognized behavioral health and rehabilitation organization? If you answered yes, then Coleman might be a great fit for you!
+Our Company Culture and Benefits Set Us Apart! Regardless of your role at Coleman Health Services, your work makes a lasting impact on those we serve. When you join our team, you become part of a collaborative community of dedicated professionals whose primary mission is to improve the lives of our clients. In return, you can also expect opportunities for career advancement and continued professional training.
+Job Duties of the Business Intelligence Developer:
+Design, build and deploy Power BI solutions, KPI dashboards, custom visualizations, and reports for requested projects.
+Proficiently design and deploy DAX queries in Power BI Desktop.
+Collaborate with clinical and administrative management and staff to design, test and implement analytic tools that supports grants reporting, enterprise/business unit needs and to improve data collection and reporting strategies.
+Create and connect various data sources, linking and importing data flows and transforming data across platforms.
+Experience with multiple analytic programming languages such as SQL, R, Python, or DAX.
+Responsible for design methodology, dashboard security, and project documentation.
+Understand the clinical nature of the business to be able to translate business questions into reporting and analytic solutions.
+Qualifications of the Business Intelligence Developer:
+Bachelor's degree in Data Analytics, Information Systems, Statistics, Computer Science, Applied Mathematics or related field.
+3 years of business intelligence development or related technical experience using Power BI.
+3 years of experience with programming languages such as MS-SQL and DAX, data gateways and warehouse design.
+Demonstrated experience in producing technical documentation and report distribution.
+Effective verbal, written and interpersonal communication skills.
+Desire to creatively develop analytical solutions to business problems.
+Strong follow-through skills for managing multiple projects.
+Ability to work independently and in a cross functional team.
+Preference given to the following candidates:
+Prior industry experience in Behavioral Health or closely related healthcare field.
+Microsoft Power BI Certification.
+Qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, sexual orientation, gender identity, disability or protected veteran status. E.O.E. Persons with a disability can request an accommodation to complete the application process by emailing careers@colemanservices.org with the subject line "Accommodation Request."

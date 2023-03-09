@@ -1,0 +1,51 @@
+Data Scientist
+
+At Stanson Health (a Premier Inc subsidiary), we are passionate about building products that measurably improve patient care quality, safety, and affordability. Our products positively impact millions of patients by giving providers real-time treatment recommendations or automating time-consuming administrative tasks such as prior authorization. Foundational to all our products is a proprietary AI engine that processes patient information in real-time, leveraging state-of-the-art machine learning at scale.
+What will you be doing:
+As part of the Data Science team, you will have responsibility for conceptualizing, designing, implementing and deploying new machine learning algorithms into production daily. You will be a member of a multidisciplinary team of data scientists, engineers, and clinicians tackling complex problems in a data-driven and collaborative way. As a fully remote team, we value self-driven, result-oriented individuals mindful of tradeoffs between near-term needs and long-term strategic goals.
+
+What we're looking for:
+
+Required Qualifications
+Work Experience:
+Years of Applicable Experience - 2 or more years
+Skills & Experience:
+Airflow, Applied Machine Learning, Cross Functional Projects, Python, Software Development
+Education:
+Bachelors
+In order to comply with applicable legal obligations, Premier requires employees to provide proof of full vaccination against COVID-19. We will consider requests for disability or religious accommodations during the recruiting process as needed. Premier will also observe state laws related to vaccination, as applicable.
+
+PREFERRED QUALIFICATIONS
+Two or more years in applied machine learning in fields such as Natural language processing (NLP) or Computer Vision (CV)
+Strong preference in Python, model development frameworks such as PyTorch or Tensorflow
+Experience with manipulating and analyzing large-scale datasets
+Experience working in cross-functional teams
+Software Development using source control and versioning
+#LI-SD1
+#LI-Remote
+
+Premier’s compensation philosophy is to ensure that compensation is reasonable, equitable, and competitive in order to attract and retain talented and highly skilled employees. Premier’s internal salary range for this role is $64,000 - $118,000. Final salary is dependent upon several market factors including, but not limited to, departmental budgets, internal equity, education, unique skills/experience, and geographic location. Premier utilizes a wide-range salary structure to allow base salary flexibility within our ranges.
+
+Employees also receive access to the following benefits:
+Health, dental, vision, life and disability insurance
+401k retirement program
+Paid time off
+Participation in Premier’s employee incentive plans
+Tuition reimbursement and professional development opportunities
+Premier at a glance:
+Ranked #1 on Charlotte’s Healthiest Employers list for 2019, 2020 and 2022, and 49th Healthiest Employer in America (2022)
+Named one of the World’s Most Ethical Companies® by Ethisphere® Institute for the 13th year in a row
+The only company to be recognized by KLAS twice for Overall Healthcare Management Consulting
+
+Employees receive:
+Perks and discounts
+Access to on-site and online exercise classes
+Paid time off to volunteer in their communities
+
+Premier is looking for smart, agile individuals like you to help us transform the healthcare industry. Here you will find critical thinkers who have the freedom to make an impact. Colleagues who share your thirst to learn more and do things better. Teammates committed to improving the health of a nation. See why incredible challenges require incredible people.
+
+Qualified applicants will receive consideration for employment without regard to unlawful discrimination because of their age, race, color, religion, national origin, ancestry, citizenship status, gender, sexual orientation, gender identity, gender expression, marital status, familial status, pregnancy status, genetic information, status as a victim of domestic violence, covered military or protected veteran status, disability, or any other applicable federal, state or local protected class, trait or status or that of persons with whom an applicant associates. We also consider qualified applicants with criminal histories, consistent with applicable federal, state and local law. In addition, as a federal contractor, Premier complies with government regulations, including affirmative action responsibilities, where they apply.
+
+Premier also provides reasonable accommodations to qualified individuals with a disability or those who have a sincerely held religious belief. If you need assistance in the application process, please reply to
+diversity_and_accommodations@premierinc.com
+or contact Premier Recruiting at 704.816.5200.

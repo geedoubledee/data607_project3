@@ -1,0 +1,23 @@
+TikTok is the leading destination for short-form mobile video. Our mission is to inspire creativity and bring joy. TikTok has global offices including Los Angeles, New York, London, Paris, Berlin, Dubai, Mumbai, Singapore, Jakarta, Seoul and Tokyo.
+
+The Monetization Office supports the strategies and operations of multiple aspects of the business such as advertisement, e-commerce, live streaming, etc. Covering both domestic and global business, we make sure of a sustained and steady growth of revenue, improve the operating workforce and financial capital efficiency, and ensure the safety and compliance of the business.
+
+The Data Science team, within the Monetization Office, are involved in all phases of analytics projects to support and optimize Bytedance's monetization business. Coming from diverse disciplines that include business, engineering, mathematics, operations research and statistics, we build data-driven technologies that help align the highest-level corporate strategies with effective day-to-day operations, and unlock business growth potential. As part of the team, you will partner closely with strategy and product teams in a high-impact and fast-paced environment, exploring data and building advanced analytical models to find insights, diagnose problems and tell compelling stories.
+
+What You'll Do
+Lead data-driven projects from definition to execution, from gathering data, defining metrics to communicating actionable insights;
+Propose innovative solutions by exploratory data analysis from complex and high-dimensional datasets, applying statistical and modeling techniques to evaluate performance, make valuable discoveries and solve non-routine analysis problems;
+Use a flexible, analytical approach to design predictive models and advanced algorithms that lead to optimal value extraction from the data;
+Collaborate with various partners and influence leadership to continuously make impact, drive monetization strategy and business evolvement;
+Visualize and synthesize analytics and statistical approaches into easy-to-consume storylines for the team to provide indicated actions for executive audiences
+BS degree or above in a quantitative discipline (e.g., Statistics, Mathematics, CS) or equivalent practical experience. Industry experience in data science is strongly preferred.
+High proficiency in fundamental SQL and demonstrated skills in handling terabyte size datasets, diving into data to discover hidden patterns and using visualization tools ((e.g. Tableau, PowerBI) to present results.
+Experience with statistical software (e.g. R, Python).
+Experience building data science models (Regression, Decision Trees, K-Means, etc.). Knowledge of ML and risk control field a plus.
+Strong analytical and problem solving ability with strong attention to detail and accuracy.
+Excellent communication skills and able to manage stakeholders across businesses and levels.
+Proficiency in Mandarin a plus.
+Able to work in a fast-paced and challenging environment.
+TikTok is committed to creating an inclusive space where employees are valued for their skills, experiences, and unique perspectives. Our platform connects people from across the globe and so does our workplace. At TikTok, our mission is to inspire creativity and bring joy. To achieve that goal, we are committed to celebrating our diverse voices and to creating an environment that reflects the many communities we reach. We believe individuals shouldn't be disadvantaged because of their background or identity, but instead should be considered based on their strengths and experience. We are passionate about this and hope you are too.
+
+TikTok is committed to providing reasonable accommodations during our recruitment process. If you need assistance or an accommodation, please reach out to us at USRC@tiktok.com

@@ -1,0 +1,45 @@
+Braze (Nasdaq: BRZE) is a leading, comprehensive customer engagement platform that powers interactions between consumers and brands they love. With Braze, global brands like Burger King, Delivery Hero, HBO Max, Mercari, and Venmo can ingest and process customer data in real time, orchestrate and optimize contextually relevant, cross-channel marketing campaigns, and continuously evolve their customer engagement strategies. And we do it at scale – last fiscal year our customers used Braze to send approximately 1.5 trillion messages to billions of monthly active users.
+But we're so much more than our platform. Although we've recently grown to a team of over 1,300 people, Braze still buzzes with energy, collaboration, and transparency. We value curiosity, individuality, and tenacity—as part of the team, you'll be encouraged to take your seat at the table and create your own destiny. Our values are inspired by our employees, which means Braze is a place where you can truly be yourself. We're growing, with a focus on building for the long term under tenured leadership and continuing to evolve for the better.
+Need more proof? Braze is proudly certified as a Great Place to Work® in the U.S. and the UK. In 2022, Braze ranked #1 on Fortune's Best Small and Medium Workplace in New York, #5 on Fortune's Best Workplaces for Millennials in the US, and #11 on Fortune's Best Medium Sized Workplace for Women in the UK.
+You'll find many of us at headquarters in New York City or around the world in Austin, Berlin, Chicago, London, Paris, San Francisco, Singapore, Tokyo, and Toronto.
+WHO YOU ARE
+You love everything about data and want to share your passion with everyone. You have an opinion on when to use a line graph vs. a bar chart. You want to ensure that time doesn't get wasted trying to figure out if a KPI has gone up or down. You know and express your opinions on the trade-offs between different BI tools. You care about efficiency, performance, security, and color palettes.
+WHAT YOU'LL DO
+Manage Braze's primary Business Intelligence solutions
+Work with the Analytics team to find new data sets that may be of interest to various teams in the company.
+Partner with the Data Engineering team to ensure that reports are delivered in an efficient and timely manner
+Curate Dashboards and self-driven Data Tools to empower Braze employees
+Build key dashboards for our executives and other key leaders within the organization, based on requirements that you gather.
+Support the organization by responding to questions on how to use our data tools and interpret the data
+Be the authority on how to consume information from the data.
+Work with the product teams to design and develop new reports
+WHO YOU ARE
+4+ years of experience in BI, Data Analysis, and Data Modeling
+4+ years of SQL experience
+Experience with Programming and/or Scripting Languages (Python, R, Java, VBA, C#, C++, etc.)
+Experience with data visualization tools (experience with Looker is a plus)
+Experience in Data Modeling (experience with dbt is a plus, but not required)
+Strong listening, written, and verbal communication skills: you will need to to quickly understand needs or issues and deliver a clear and concise response
+Ability to manage conflicting priorities and thrive in a fast-paced environment
+You're known for being a good collaborator - you'll be working closely with our Analytics and Data Engineering Departments
+Fast learner, self-starter, go-getter, and intellectually curious
+IDEALLY, WHAT YOU'LL HAVE
+Experience working within an Agile team
+Project Management Experience
+Experience with NoSQL databases (MongoDB, Redis)
+For candidates based in the United States, the pay range for this position at the start of employment is expected to be between $76,500 and $126,000/year with an expected On Target Earnings (OTE) between $90,000 and $140,000/year (including bonus or commission). Your exact offer may vary depending on multiple individualized factors, including market location, job-related knowledge, skills, and experience. In addition to cash compensation, Braze offers full- and part- time employees a comprehensive Total Rewards package that includes equity grants of restricted stock (RSUs) so that all Braze employees own a piece of our company.
+WHAT WE OFFER
+From comprehensive benefits to remote availability to flexible time off, we've got you covered so you can prioritize work-life harmony.
+Competitive compensation that includes equity
+Retirement and Employee Stock Purchase Plans
+Flexible paid time off
+Comprehensive benefit plans covering medical, dental, vision, life, and disability
+Family services that include fertility benefits and equal paid parental leave
+Global presence, dog-friendly offices, and remote availability
+Professional development supported by formal career pathing, learning platforms, and tuition reimbursement
+Community engagement opportunities throughout the year, including an annual company wide Volunteerism Week
+Employee Resource Groups that provide supportive communities within Braze
+Collaborative, transparent, and fun culture recognized as a Great Place to Work®
+Details of these benefit plans will be provided if a candidate receives an offer of employment. Benefits may vary by location.
+If you are a California resident subject to the California Consumer Privacy Act ("CCPA"), as amended by the California Privacy Rights Act ("CPRA") which comes into effect January 1, 2023, click here to understand how Braze processes your personal information and how you can exercise your rights.
+If you are located in the EU or UK visit our privacy policy to understand how Braze processes your personal information and how you can exercise your rights.

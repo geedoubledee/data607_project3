@@ -1,0 +1,35 @@
+ROLE AND RESPONSIBILITIES:
+Analyze, design, develop and deploy Power BI solutions as per business requirements
+Understand business requirements in BI context and design efficient data models to transform raw data into meaningful insights
+Analyze data and be able to translate and present data through informative visuals and reports that aid in decision making
+Develop interactive visual reports, dashboards and KPI scorecards using Microsoft Power BI desktop
+Develop custom visuals, charts and measures as per requirements
+Analyze and build Analysis Services reporting models that meet reporting requirements.
+Connect to various data sources, import and transform these data for Business Intelligence.
+Implement row level security on data using the application security layer models in Microsoft Power BI
+Write and debug DAX queries
+Responsible for design methodology and project documentation.
+Troubleshoot and support all aspects relating to refresh schedules, data, reports and access for
+Power BI reports and dashboards
+Analyze, design, deploy, troubleshoot and support Power BI solutions for Power BI Report Server and Power BI Service
+Work with team members at all levels for performance improvement and suggestions
+REQUIREMENTS:
+BS/MS in Computer Science, Information System, Analytics or related field.
+5+ years of experience working with Microsoft Power BI and administration with deep understanding of Microsoft Power BI desktop and service
+Extensive experience creating user-friendly, insightful and interactive reports, dashboard and KPI scorecards using Power BI desktop
+Strong proficiency in both Power BI languages – Power Query M and DAX
+Strong experience sourcing data from a variety of sources (databases, flat files, data gateways, etc) for complex data modeling
+Hands on experience with developing and optimizing complex SQL queries to manipulate data for Business Intelligence
+Experience with Power BI Report Server a would be a plus
+Experience in R/Python scripting would be plus
+This position offers a hybrid work schedule requiring you to be in the office Monday and Wednesday with an option to work from home the remainder of the week (unless a specific business need arises requiring in-office attendance on other days). Note that work schedules and office reporting requirements may change from time to time based on business needs.
+Job Type: Contract
+Salary: Up to $55.00 per hour
+Experience level:
+5 years
+Schedule:
+Day shift
+Application Question(s):
+Are you a US resident or a green card holder?
+How many years of experience do you have as a Power BI Developer?
+Work Location: One location

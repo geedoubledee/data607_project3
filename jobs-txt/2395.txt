@@ -1,0 +1,25 @@
+SF, NY, Toronto, Portland, or remote
+Full-time
+SQL, R, Python
+Mercury
+In the 1840s, Charles Babbage and Ada Lovelace worked on an early version of the computer known as the “Analytics Engine”. In the words of computing historian Doron Swade, “What Lovelace saw...was that numbers could represent entities other than quantity” and together they laid the foundation for general-purpose computing.
+While much has changed since then, the importance of numbers in building great technology remains. We’re looking for Data Scientists who can help us build our analytics engine by making meaning from data and identifying opportunities for improvement.
+In this role, you’ll be responsible for proactively deriving data insights and partnering with engineering, marketing, design, onboarding, and other product business teams to inform how we invest in and build Mercury’s future. You’ll be early to building a data-informed culture across Mercury so that we can all determine what's happening, react quickly, and invest intelligently.
+Here are some things you’ll do on the job:
+Understand funnels, usage patterns, and long term trends to identify opportunities to improve Mercury’s products.
+Define and analyze metrics that inform tactical decisions and overall strategy for teams that allow us to monitor the health of our products.
+Educate teams on how to best use data and define best practices for making decisions on prioritization, experimentation, risk models, and more.
+Use a variety of exploratory, data visualization, and statistical techniques to uncover actionable insights, including A/B testing, cohort analysis, regression modeling, trend analysis, user segmentation, and machine learning.
+Assess risk and tradeoffs of different approaches in solutions for Growth, Product, Compliance, or other important areas of the business.
+Influence and partner with engineering, design, and business teams to implement data-based recommendations that will improve entrepreneurs’ lives and generate revenue for Mercury.
+You should:
+Have 2+ years of experience working with product teams on goaling, experimentation, funnels, and finding new opportunities with minimal guidance.
+Have fluency in SQL, and other statistical programming languages (e.g. Python, R, etc.).
+Have experience crafting data pipelines and dashboards, and understand different database structures.
+Have the ability to proactively ask questions, turn them into analyses, and make your case to various stakeholders, including senior leadership.
+And ideally, the know-how to make cool graphs.
+Our salary ranges are based on paying competitively for our size and industry, and all employees receive salary + equity + benefits. Individual pay decisions are based on a number of factors, including qualifications for the role, experience level, skillset, and balancing internal equity relative to peers at the company.
+The ranges shared are for the expectations as laid out in the job description, however we are often open to a wide variety of profiles, and recognize that the person we hire may be less experienced or more senior than this job description as posted. If that ends up being the case, the updated salary range will be communicated with you as a candidate.
+The salary range for candidates in the New York City or San Francisco area is $145,000–$175,000.
+The salary range for candidates in the US outside of the New York City / San Francisco area is $135,000–$150,000.
+The salary range for candidates in Canada is CAD 150,000–180,000.

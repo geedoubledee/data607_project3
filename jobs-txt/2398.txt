@@ -1,0 +1,44 @@
+Our Company
+
+Changing the world through digital experiences is what Adobe’s all about. We give everyone—from emerging artists to global brands—everything they need to design and deliver exceptional digital experiences! We’re passionate about empowering people to create beautiful and powerful images, videos, and apps, and transform how companies interact with customers across every screen.
+
+We’re on a mission to hire the very best and are committed to creating exceptional employee experiences where everyone is respected and has access to equal opportunity. We realize that new ideas can come from everywhere in the organization, and we know the next big idea could be yours!
+
+Our Company
+At Adobe, we’re changing the world. How? We give people the tools to bring their ideas to life and create content that makes life more fun and work more significant. We give businesses and organizations the power to truly engage their customers. We're the ones behind the elegantly designed content that streams across your laptop, TV, phone, and tablet every day—and the ones who harness the massive power of big data to help companies move from data to insight, and from insight to action by delivering content that people crave most.
+At Adobe, you will be immersed in an exceptional work environment that is recognized throughout the world by numerous “best places to work” awards. We are committed to helping each other grow through our unique Check-In approach where open feedback flows freely. If you’re looking to build your career, Adobe’s the place for you. Every day, we get to work with some of the most creative, analytical, authentic and inspiring people in the world.
+We’re a company that understands that product innovation comes from people innovation, and that’s why we invest in cultivating leaders throughout the organization. If you are passionate about leading from where you sit, join us.
+The opportunity
+
+We are looking for an enthusiastic Business Intelligence developer to join the Enterprise Digital Media Business Intelligence team. Adobe’s Enterprise Digital Media business is growing rapidly and represents over $2B+ across Adobe’s flagship Creative Cloud and Document Cloud offerings. The Business Intelligence Team plays a crucial role in driving the growth and success of this business by providing the critical systems, tools, and insights that our Sales and Post-Sales Field teams need to make our customers successful.
+
+The ideal candidate for this position is part developer, part analyst and part influential leader. As a BI analyst and developer, you will lead development of comprehensive dashboard solutions that provide our business leaders with the data and insights they need to make decisions and service our customers with excellence.
+
+What you'll do:
+Create sophisticated and intuitive business intelligence tools (e.g., Power BI dashboards) which provide insights and direction to field representatives, management, and executives
+Effectively utilize the navigation features in Power BI (e.g. bookmarks, drill-through) to guide users through a compelling data-driven story
+Utilize SQL to curate and query large data sets, perform analyses, and create custom views
+Synthesize analytic findings into clear communications to share with key stakeholders
+
+What you need to succeed
+Degree in CS, IT, Statistics, or related fields; and coursework or job experience with advanced data and analytics
+5+ years of experience in Business Intelligence and Analytics with a proven track record of creating complex dashboards and ability to conduct analytics
+At least 2+ years of experience in the Power BI platform specifically
+Exceptional ability to design and create data visualizations at speed that are intuitive, informative, and impactful and deliver insight to the business
+Advanced experience using SQL to extract data, understand data structures, run queries and analyze data in a data warehouse environment
+Strong communication skills and the ability to synthesize findings from analyses into clear, concise communications for business leadership
+Strong working knowledge of Microsoft Excel
+Team player attitude and strong ability to collaborate with colleagues across the globe
+Record of consistently meeting deadlines while working in a fast-paced environment and juggling multiple projects
+Experience with Microsoft Power Apps is a plus
+Any experience with advanced analytic techniques (e.g., predictive models, regression models, cluster analysis etc) is a plus
+Strong alignment with Adobe's Core Values: Genuine, Exceptional, Innovative, and Involved
+
+Adobe is an equal opportunity employer. We welcome and encourage diversity in the workplace regardless of race, gender, sexual orientation, gender identity, disability, or veteran status.
+
+Pursuant to the New York City Pay Transparency Law, below is a summary of compensation elements for this role if based in New York City.
+New York Starting Salary $110,000 - $142,800
+
+At Adobe, for sales roles starting salaries are expressed as total target compensation (TTC = base + commission), and short-term incentives are in the form of sales commission plans. Non-sales roles starting salaries are expressed as base salary and short-term incentives are in the form of the Annual Incentive Plan (AIP).
+
+In addition, certain roles may be eligible for long-term incentives in the form of a new hire equity award.

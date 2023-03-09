@@ -1,0 +1,26 @@
+Job Description:
+Are you interested in joining a fast paced and cutting-edge organization where you can make an immediate impact on the business? Do you want to be an AI/ML advocate, using data to answer important questions and shape strategy for leadership? You can be a part of the Artificial Intelligence Center of Excellence (AI CoE) within Fidelity Institutional (FI) that constantly pushes the potential of data to drive the business forward! At Fidelity Insitutional’s Artificial Intelligence Center of Excellence (FI AI COE), you won’t be just tinkering around the edges, you’ll be building critical solutions that will benefit our clients and internal stakeholders for years to come.
+The FI AI COE is seeking a Director with experience in building Recommender systems, Personalization algorithms, contextual bandits, causal ML, various deep learning related technologies,
+The Expertise and Skills You Bring (The order of these bullets does not matter)
+Minimum Master’s Degree in Engineering, Computer Science, Mathematics, Computational Statistics, Operations Research, Machine Learning or related technical fields
+10+ years of prior work experience as a data scientist
+Hands on experience in most of the following: recommender systems, reinforcement learning, contextual bandits, deep learning, non-linear optimization, learning to rank, ads targeting, etc.
+Experience in implementing recommendation engines and personalization, next best action algorithms at scale. 4-5 projects deployed in production and delivering value would be ideal.
+Programming skills in Python, SQL, Spark, R, hands on experience on using AWS framework is a plus
+Exposure to Deep Learning applications and tools like TensorFlow, PyTorch, Caffe is required
+Experience in the financial domain and familiarity with financial recommendation/ personalization systems would be an added plus
+Ability to partner closely with a diverse set of business stakeholders to identify needs and deliver AI/ML solutions
+Implement new technologies in a production environment with product, IT, and data engineering teams
+The Team
+The Fidelity Institutional AI COE is a team of data scientists developing advanced analytics and artificial intelligence solutions to support a variety of different applications for a host of clients, both internal and external, across FI. The team occupies a unique position, able to understand the business problems that both our clients and internal partners face, while applying advanced analytics, machine learning, and visualization to solve problems and provide results-oriented solutions to market. Our team of high caliber scientists, mathematicians and statisticians use rigorous quantitative approaches to ensure that we are efficiently building algorithms and technology relevant to the business or customer experience issue at hand.
+Certifications:
+Company Overview
+Fidelity Investments is a privately held company with a mission to strengthen the financial well-being of our clients. We help people invest and plan for their future. We assist companies and non-profit organizations in delivering benefits to their employees. And we provide institutions and independent advisors with investment and technology solutions to help invest their own clients' money.
+
+Join Us
+At Fidelity, you'll find endless opportunities to build a meaningful career that positively impacts peoples' lives, including yours. You can take advantage of flexible benefits that support you through every stage of your career, empowering you to thrive at work and at home. Honored with a Glassdoor Employees' Choice Award, we have been recognized by our employees as a Best Place to Work in 2022. And you don't need a finance background to succeed at Fidelity—we offer a range of opportunities for learning so you can build the career you've always imagined.
+Many of our associates are continuing to work remotely temporarily due to COVID-19. When Fidelity employees eventually return to the office, our goal is for most people to work flexibly in a way that balances both personal and business needs with time onsite and offsite through what we're calling "Dynamic Working."
+We invite you to Find Your Fidelity at fidelitycareers.com.
+
+Fidelity Investments is an equal opportunity employer. We believe that the most effective way to attract, develop and retain a diverse workforce is to build an enduring culture of inclusion and belonging.
+Fidelity will reasonably accommodate applicants with disabilities who need adjustments to participate in the application or interview process. To initiate a request for an accommodation, contact the HR Accommodation Team by sending an email to accommodations @fmr.com, or by calling 800-835-5099, prompt 2, option 3.

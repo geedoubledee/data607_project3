@@ -1,0 +1,28 @@
+Contract: 6-month CTH
+JOB SUMMARY:
+The Data Engineer will be responsible for expanding, optimizing and monitoring our data and data pipeline architecture, as well as optimizing data flow and collection across organizational teams. The Data Engineer will support our software engineers, database architects and data analysts on data initiatives and will ensure optimal data delivery architecture is consistent throughout ongoing projects.
+KEY RESPONSIBILITIES:
+Create and maintain optimal data pipeline architecture to support our next generation of products and data initiatives.
+Assemble large, complex data sets that meet functional business requirements.
+Identify, design, and implement internal process improvements: automating manual processes, optimizing data delivery, re-designing infrastructure for greater scalability.
+Experience in the development of SSIS, ETL and other standardized data management tools.
+Build analytics tools that utilize the data pipeline to provide actionable insights into customer acquisition, operational efficiency and other key business performance metrics.
+Performs other duties as required.
+QUALIFICATIONS:
+Build processes supporting data transformation, data structures, metadata, dependency and workload management.
+Strong project management and organizational skills.
+Ability to work independently, handle multiple tasks and projects simultaneously.
+EDUCATION/EXPERIENCE:
+Bachelors degree or equivalent experience required.
+Project management skills preferred.
+Willingness to work in a high-tech, continually evolving, innovative environment.
+Job Types: Full-time, Contract
+Pay: $60.00 - $65.00 per hour
+Schedule:
+8 hour shift
+Ability to commute/relocate:
+Tulsa, OK 74136: Reliably commute or planning to relocate before starting work (Required)
+Experience:
+ETL: 3 years (Preferred)
+Azure: 3 years (Preferred)
+Work Location: Hybrid remote in Tulsa, OK 74136

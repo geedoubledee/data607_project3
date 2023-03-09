@@ -1,0 +1,50 @@
+Are you interested in helping to improve the health and care of our United States Veterans through meaningful work in a collaborative environment? The Million Veteran Program is a Veterans Health Administration (VHA), Office of Research & Development (ORD) supported national program with VA Palo Alto Health Care System.
+The Million Veteran Program (MVP) is an Office of Research and Development (ORD) funded program that establishes a national longitudinal cohort of Veterans for genetic and observational research. The Palo Alto MVP Chair Office is one of three Chair Offices that have distinct responsibilities for the overall conduct and execution of MVP. The Palo Alto Chair Office is responsible for Data Generation and Utilization and is also the Human Subjects Protection Regulatory Core for the National Program. Chair Office staff are expected to work closely with MVP Program Office Leadership in ORD, MVP recruitment sites (approximately 60), MVP Coordinating Centers (10) and Researchers approved to utilize MVP data.
+The Palo Alto MVP Chair Office at VA Palo Alto is seeking a full-time Associate Director of Data Science (Health Science Officer). The position is a temporary appointment.
+Direct Job Annoucement: https://www.usajobs.gov/GetJob/ViewDetails/688736100
+Key Duties:
+· Provides directions and oversight towards both the genomic data and scientific domains for the Million Veteran Program (MVP).
+· Lead the activities of the architecture software application that manages the metadata associated with MVP’s largest sequencing database.
+· Engaged in long-term strategic planning to enhance the metadata platform for the MVP.
+· Oversee technical issues within the software application and diagnosing the unique challenges.
+· Lead all activities of examination and data manipulation and management techniques to analyze the genome application platform.
+· Provide supervisory management and leadership among the MVP Data Science Staff.
+· Lead architect scientist of the software application platform that processes the metadata associated with the large sequencing data set.
+· Designs the major components of the platform to ensure that analyses of genome processing can be done in an efficient organized manner.
+· Oversees testing processes for major projects.
+· Executes real-scale tests of the genomic processing platform by feeding the data and conclusions from the tests.
+Qualifications:
+· Must be a U.S. Citizen.
+· Must have leadership experience within a related health science research program.
+· Master's or higher degree in a public health or scientific research-related field.
+· Excellent communication and interpersonal skills with the ability to collaborate with a large and diverse team.
+· Strong attention to details and have good organizational skills.
+· Proficient in Microsoft Office Programs (e.g. Excel, Word) required
+Application information:
+Candidates must be a U.S. Citizen. Education and experience will be evaluated by Human Resources to determine if the top candidate meets the criteria for the GS-14 level. The General Schedule (GS) salary table can be found on the Office of Personnel Management website at opm.gov.
+Please send a cover letter and resume. Applications will be accepted until the position is filled. Only complete applications will be considered.
+Job Types: Full-time, Temporary
+Salary: $131,507.00 - $170,800.00 per year
+Job Types: Temporary, Full-time
+Pay: $131,507.00 - $170,800.00 per year
+Benefits:
+401(k)
+Dental insurance
+Flexible spending account
+Health insurance
+Health savings account
+Life insurance
+Paid time off
+Vision insurance
+Schedule:
+8 hour shift
+Monday to Friday
+COVID-19 considerations:
+VA-issued masks are to be worn on campus.
+Ability to commute/relocate:
+Palo Alto, CA 94304: Reliably commute or planning to relocate before starting work (Required)
+Application Question(s):
+Are you a U.S. Citizen? Yes or No
+Experience:
+research leadership: 1 year (Preferred)
+Work Location: One location

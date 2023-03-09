@@ -1,0 +1,31 @@
+Overview:
+This position works under the direction of the Manager, Business Intelligence Developer and works closely with developers and other subject-matter experts (SMEs) including physicians and clinical operations staff. The BI Developer is responsible for creating and optimizing T-SQL queries that power Lone Star Circle of Care (LSCC)’s suite of reports and analyses.
+Responsibilities:
+Analyze various types of technical and healthcare data, processes and systems.
+Manage relationships with key stakeholders across the business.
+Create comprehensive documentation for new development, updates, and enhancements.
+Write and optimize T-SQL scripts.
+Have a clear understanding of data and end user workflows to validate accurate results and reconcile discrepancies.
+Develop Dashboards and other forms of data visualization using MS Power BI and Power Apps.
+Support existing and create new Extract, Transform, and Load (ETL) processes.
+Perform other related duties as assigned.
+Qualifications:
+REQUIRED EXPERIENCE, EDUCATION, AND LICENSE:
+
+Bachelor’s Degree in Science, Engineering, Computer Science, Economics, Statistics, Mathematics, Actuarial Sciences, Epidemiology, or similar.
+Demonstrated excellence in the technical skills required in one or more higher level programming languages (specifically SQL and/or a statistical or object-oriented language).
+Strong Excel and MS Office suite skills.
+Develop over time a strong working knowledge of the healthcare data types used most often in clinical quality metrics (e.g. ICD, CPT, NDC, etc.).
+
+PREFERRED EXPERIENCE, EDUCATION, AND LICENSE:
+
+Two (2) years of T-SQL experience with a strong emphasis on Reporting and Aggregating.
+Graduate degree or equivalent experience in related field.
+Experience using SQL Server Reporting Services (SSRS) or similar report tools
+Experience with process improvement/automation (VBA, PowerShell, Python, C#)
+Statistics experience (particularly experience with R or SAS)
+Experience with data visualization software such as Power BI tools highly preferred.
+Experience explaining data analyses to cross-functional teams who are not focused on analytical work.
+Working knowledge of healthcare terminology and structured vocabularies (e.g. ICD, CPT, NDC, etc.)
+Knowledge of data warehousing highly preferred.
+Experience with Collaboration tools like SharePoint or MS Teams.

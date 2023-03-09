@@ -1,0 +1,34 @@
+Who we are:
+Bliss Point Media is a rapidly growing performance media advertising agency startup based in Santa Monica that combines world-class media capabilities with cutting-edge statistics and computer science. Using technology as a differentiator, Bliss Point Media brings modern statistical and computational techniques to bear on our clients' biggest marketing opportunities across linear TV and streaming/OTT video platforms. Our approach provides our clients with unique and powerful tools to maximize the effectiveness of their advertising campaigns while providing an experience of strategic depth and flawless execution. We work with some of the world's most recognizable new brands as well as established companies that want to rewrite their media playbook.
+This position is remote-optional. We are open to remote candidates located anywhere in the US. Bliss Point Media has offices in Santa Monica, Berkeley, and New York City.
+What you'll be doing:
+Bliss Point's clients are performance advertisers, which is to say they make investments with the expectation of a quantifiable return. Our job is to quantify those returns with maximal precision, and steward our clients' investments so as to make the return/investment ratio as attractive as possible.
+Bliss Point's approach to this challenge involves deploying a suite of algorithms that are both purpose-built and general purpose; that is, specifically designed for a given context, but broadly applicable to different advertisers operating within that context.
+Surrounding this core set of consistent, repeated questions, there are innumerable auxiliary questions: Should we test incrementality using an A/B audience holdout or a geographic holdout? How many impressions do we need to achieve statistical significance for our incrementality test, and how should those impressions be allocated between the control and exposed groups? What is the optimal frequency when we're running a promotion versus not? Are we better off ramping up media some time in advance of a promotion, or in a just-in-time fashion? When we ramp spend on TV, how much extra branded search spend should we budget for? Ad infinitum.
+This role will be auxiliary to the Client Strategy team, providing econometric support across the client base to bolster strategy and execution of campaign investments. In addition to analytical work, the role will have a significant interpersonal aspect: communicating methods and findings to clients, and contributing to the learning & development track for the client strategy team. The Econometrics Manager will report to the Director of Econometrics.
+We'd love to hear from you if:
+Research shows that while men apply to jobs when they meet an average of 60% of the criteria, women and other marginalized folks tend to only apply when they check every box. So if you think you qualify, but don't necessarily meet every single point on the job description, please still get in touch. We'd love to connect and see if you could be a great fit.
+Requirements:
+Degree in statistics, data science, applied math, economics, or related field
+Great foundations in probability theory and econometrics
+2 - 3 years of experience in applied data science
+Significant practical experience with SQL and R/Python
+Lots of hands-on experience with real-world, imperfect data, and a zeal for turning disorder into sensible order
+Greater emphasis on: causal inference, especially experimental design, hypothesis testing, observational and quasi-experimental measurement techniques
+Lesser emphasis on: big data, deep learning, artificial intelligence, etc.
+A love of solving puzzles with data!
+Compensation
+Bliss Point Media will offer a competitive total compensation package of $92,000-$125,000, with a starting base salary of $80,000-$100,000. There is an additional 15%-25% bonus target awarded quarterly based on company & individual performance as well as opportunity for equity.
+Benefits
+Bliss Point Media will invest in you, your wellness, and your future!
+Full medical benefits, including dental and vision coverage.
+Unlimited vacation policy
+12 company holidays
+Company matching to employee 401(K) contributions: up to 4% of employee's salary
+Generous parental leave
+Flexible wellness stipend
+Home-office supply stipend
+Cell phone reimbursement
+We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, sex, gender, gender expression, sexual orientation, age, marital status, veteran status, or disability status. We will ensure that individuals with disabilities are provided reasonable accommodation to participate in the job application or interview process, to perform essential job functions, and to receive other benefits and privileges of employment. Please contact us to request accommodation.
+COVID-19 Vaccination Requirement
+Bliss Point Media/Tinuiti requires anyone working onsite, visiting Bliss Point Media/Tinuiti offices or attending company sponsored events to provide proof they are fully vaccinated against COVID-19 unless a medical or religious accommodation is requested and approved by The People Team. Please reach out Careers@Blisspointmedia.com if you have questions or concerns about this policy and how it may apply to your candidacy for a role with Bliss Point Media/Tinuiti. It is also our employees' duty to recognize the potential risks of vaccinations and consult with a medical professional to help in determining what is best for their health. Bliss Point Media/Tinuiti reserves the right to update or modify this policy at any point in time.

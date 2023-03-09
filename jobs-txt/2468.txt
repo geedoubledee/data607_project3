@@ -1,0 +1,32 @@
+About Ceribell
+Ceribell Inc. is a rapidly growing venture capital backed medical technology startup based in Sunnyvale, CA. Ceribell deploys a cloud-linked, portable electroencephalogram (EEG) device to assess brain waves in minutes to identify the occurrence of seizures in emergency rooms and intensive care units. The Ceribell system is comprised of a brain stethoscope that converts brain waves into sound, enabling nurses and doctors to quickly diagnose seizures in order to more quickly administer live saving therapies. Ceribell received the first ever FDA 510(k) clearance for a digital seizure detection algorithm, and is growing its customer base and revenue rapidly. You can find more information at www.ceribell.com.
+The Role
+Ceribell, Inc. is looking for a Business Intelligence Developer to help us build out our analytics and data infrastructure and BI tools. We are looking for someone who craves exposure to multiple facets of business from operations to commercial and is motivated by providing structurally clean, relevant data and turning it into insights. In this role you will help us shape the internal data structures that will feed the final outputs driving business decisions for all aspects of the business.
+This is a hybrid role
+What You'll Do
+Plan, design, develop, test, implement, and maintain advanced BI applications, reports/dashboards in support of the corporate objectives to help leadership make quick and effective decisions
+Identify undeveloped data and extract insights that will help guide and influence effective business decisions
+Identify, design, and implement internal process improvements: automating manual processes, optimizing data delivery, re-designing infrastructure for greater functionality and scalability
+Build the infrastructure required for optimal extraction, transformation, and loading (ETL) of data from a wide variety of data sources
+Optimize current data systems and/or integrate and build them from the ground up to support our data initiatives, increase operational efficiency, improve collaboration and knowledge sharing
+Gather, analyze, and document business requirements and translate into technical specifications, prototypes, and end state products
+Work closely with various cross functional team members to design, build, test, and maintain analytics solutions
+Minimum Qualifications:
+BA/BS degree or higher in related field
+A minimum of 3-5 years of related experience
+Advanced analytical skills
+Experience with Power BI
+Experience with AWS storage and compute services
+Strong SQL Skills and strong understanding Data Modeling
+Experience developing custom ETL solutions using Python and SQL
+What we offer:
+$110K-$120K + bonus + equity
+100% Employer Paid Health, Dental and Vision for the Employee
+50%- 70% Employer Paid Heath, Dental and Vision for dependents (according to plan selection)
+Ceribell Equity
+A flexible vacation policy and 11 paid holidays
+Monthly Cell Phone Reimbursement
+Flex spending account, life insurance, and disability insurance
+Excellent parental leave policy
+Joining a mission minded organization!
+Job Type: Full-time

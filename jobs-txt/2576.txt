@@ -1,0 +1,38 @@
+Location:
+127 Public Square - Cleveland, Ohio 44114
+ABOUT THE JOB (JOB BRIEF)
+The Financial Crimes Data Science Manager is primarily responsible for conducting quantitative modeling and analytics of financial crimes, covering all key aspects, i.e. data identification and gathering, methodology/technique selection, performance assessment, documentation, and ongoing monitoring. Leading critical projects, this role is responsible for owning modeling practices, methods, and techniques as well as for influencing data strategy with a focus on leveraging both current and emerging technologies and applications. The Financial Crimes Data Science Manager acts as a leader, strategic advisor and credible thought partner to senior level business partners; as well as manages the integration of activities within and across teams, anticipates business needs, recommends solutions that are both effective and efficient, and communicates the right message.
+ESSENTIAL JOB FUNCTIONS
+Independently perform a broad range of quantitative works, including model development and ad hoc analytics to address financial crime compliance needs in AML/BSA/OFAC
+Research, compile and evaluate large sets of data to assess quality and determine suitability for model building
+Develop/maintain internal models and test/configure vendor solutions to ensure conceptually sound design, proper implementation, and acceptable model performance
+Document model development process and outcomes properly and support model validation and review
+Employ innovative techniques to drive continuous improvements in model effectiveness and efficiency, e.g. reducing false positives
+Proactively develop and build technical skills and business knowledge, coach and mentor junior members
+Effectively collaborate with compliance, technology, and risk partners; guides, advises, challenges, and influences to drive organizational impact
+Provide strategic consultation and thought leadership to senior level business partners
+REQUIRED QUALIFICATIONS
+Master’s degree (or its equivalent) in statistics, mathematics, economics, computer science, data sciences, predictive modeling, or other quantitative disciplines and at least 4 years of relevant experience, preferred in AML/BSA, OFAC, or fraud modeling/analytics
+Solid expertise with both traditional and Machine Learning (ML)/Artificial Intelligence (AI) modeling practice and solutions
+Hands-on work experience with statistical coding in SAS and/or Python
+Knowledge of and ability to leverage traditional databases, cloud-based computing, and distribution computing
+In-depth understanding of financial crime regulatory requirements, technology, and data analysis best practices
+Demonstrated project management experience
+Excellent verbal, written and visual communication skills; ability to translate technical observations to a non-technical audience
+A credible thought leader that can guide, advise, challenge, and influence at all levels of the organization and drive organizational impact
+COMPENSATION AND BENEFITS
+This position is eligible to earn a base salary in the range of $120,000 to $160,000 annually depending on job-related factors such as level of experience. Compensation for this role also includes eligibility for short-term incentive compensation and deferred incentive compensation subject to individual and company performance. Please click
+here
+for a list of benefits for which this position is eligible.
+
+Please click
+here
+for a list of benefits for which this position is eligible.
+Key has implemented a role-based Mobile by Design approach to our employee workspaces, dedicating space to those whose roles require specific workspaces, while providing flexible options for roles which are less dependent on assigned workspaces and can be performed effectively in a mobile environment. As a result, this role may be mobile or home based, which means you may work either at a home office or in a Key facility to perform your job duties.
+KeyCorp is an Equal Opportunity and Affirmative Action Employer committed to building a diverse, equitable and inclusive culture. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, veteran status or other protected category.
+
+Qualified individuals with disabilities or disabled veterans who are unable or limited in their ability to apply on this site may request reasonable accommodations by emailing
+HR_Compliance@keybank.com
+.
+
+#LI-Remote

@@ -1,0 +1,79 @@
+Job Profile
+
+Position Overview
+
+At PNC, our people are our greatest differentiator and competitive advantage in the markets we serve. We are all united in delivering the best experience for our customers. We work together each day to foster an inclusive workplace culture where all of our employees feel respected, valued and have an opportunity to contribute to the company’s success. As a head of Advanced Analytics within PNC's Data Science Innovation organization, you will be based within PNC's footprint.
+
+This is a hybrid position which requires the flexibility to work both in the office and remotely and is based in Pittsburgh, PA. Certain job responsibilities may require time in the office on a regular basis.
+
+Job Description
+
+Execute the vision of the Data Science Innovation organization by delivering state-of-the-art Machine Learning-backed services and data products to support business functions.
+Acquire a deep understanding of PNC's relationships, products and services.
+Interface with business stakeholders to understand their goals and translate them into analytical and computational problems for data scientist to tackle.
+Effectively translate complex technical results for non-technical audiences.
+Lead cross-functional collaborations with partners in technology, security, risk and various lines of business to ensure that solutions developed are resilient and impactful.
+Lead a team of data scientists and analysts working in close collaboration with engineers and developers.
+Develop top data scient talent by advising interns and development program analysts.
+Manages the priorities and strategy of data science activities.
+Oversee the end-to-end development of machine learning models and statistical tools to support business functions.
+Provides senior leadership, direction, and methodology for Data Scientists to create appropriate models and data-driven solutions for the business.
+Recruits, trains, and develops best-in-class team(s) of Data Scientists.
+Works with executive leadership to identify data science project opportunities and leads planning activities including budget and scope determination.
+Oversees relationship with business and technology teams to develop data-driven solutions for the business.
+
+PNC Employees take pride in our reputation and to continue building upon that we expect our employees to be:
+Customer Focused - Knowledgeable of the values and practices that align customer needs and satisfaction as primary considerations in all business decisions and able to leverage that information in creating customized customer solutions.
+Managing Risk - Assessing and effectively managing all of the risks associated with their business objectives and activities to ensure they adhere to and support PNC's Enterprise Risk Management Framework.
+
+PNC also has fundamental expectations of our people managers. As a manager of talent in PNC, you will be expected to:
+Include Intentionally - Cultivates diverse teams and inclusive workplaces to expand thinking.
+Live the Values - Role models our values with transparency and courage.
+Enable Change - Takes action to drive change and innovation that will transform our business.
+Achieve Results - Takes personal ownership to deliver results. Empowers and trusts others in decision making.
+Develop the Best - Raises the bar with every talent decision and guides the achievement of all employees and customers.
+
+Competencies
+
+Data Architecture – Knowledge and ability to create models and standards to govern which data is collected, and how it is stored, arranged, integrated, and put to use in data systems and in organizations.
+
+Data Mining – Knowledge of tools, techniques and practices in data mining technologies used to acquire essential business information.
+
+Disruptive Innovation – Knowledge of concepts, principles, and approaches of disruptive innovation; ability to adopt the knowledge into related processes and practices.
+
+Information Capture – Knowledge of the processes and the ability to identify, capture and document relevant business information in an auditable, organized, understandable and easily retrievable manner.
+
+Machine Learning – Knowledge of principles, technologies and algorithms of machine learning; ability to develop, implement and deliver related systems, products and services.
+
+Modeling: Data, Process, Events, Objects – Knowledge of and the ability to use tools and techniques for analyzing and documenting logical relationships among data, processes or events.
+
+Prototyping – Knowledge of and ability to implement prototyping disciplines, tools and techniques in evolutionary models within the target environment.
+
+Query and Database Access Tools – Knowledge of and the ability to use, support and access facilities for extracting and formatting a database management system.
+
+Work Experience
+
+Roles at this level typically require a university / college degree. Higher level education such as a Masters degree, PhD, or certifications is desirable. Industry-relevant experience is typically 8+ years. At least 5 years of prior management experience is typically required. Proven leadership experience with a moderate to large scope of responsibility is required. In lieu of a degree, a comparable combination of education and experience (including military service) may be considered.
+
+Education
+
+Masters
+
+Additional Job Description
+
+Base Salary: Commensurate with skills and experience.
+
+Benefits
+PNC offers employees a comprehensive range of benefits to help meet your needs now and in the future. Depending on your eligibility, options for full-time employees include medical/prescription drug coverage (with a Health Savings Account feature); dental and vision options; employee and spouse/child life insurance; short- and long-term disability protection; maternity and parental leave; paid holidays, vacation days and occasional absence time; 401(k), pension and stock purchase plans; dependent care reimbursement account; back-up child/elder care; adoption assistance; educational assistance and a robust wellness program with financial incentives. To learn more about these and other programs, including benefits for part-time employees, visit pncbenefits.com > New to PNC.
+
+Disability Accommodations Statement:
+The PNC workplace is inclusive and supportive of individual needs. If you have a physical or other impairment that might require an accommodation, including technical assistance with the PNC Careers website or submission process, please call 877-968-7762 and select Option 4: Recruiting or contact us via email at pathfinder@pnc.com.
+
+The Human Resources Service Center hours of operation are Monday - Friday 9:00 AM to 5:00 PM ET.
+
+Equal Employment Opportunity (EEO):
+PNC provides equal employment opportunity to qualified persons regardless of race, color, sex, religion, national origin, age, sexual orientation, gender identity, disability, veteran status, or other categories protected by law.
+
+California Residents
+
+Refer to the California Consumer Privacy Act Privacy Notice to gain understanding of how PNC may use or disclose your personal information in our hiring practices.

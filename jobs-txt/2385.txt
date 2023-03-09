@@ -1,0 +1,67 @@
+Why Mayo Clinic
+Mayo Clinic is the nation's best hospital (U.S. News & World Report, 2022-2023) and ranked #1 in more specialties than any other care provider. We have a vast array of opportunities ranging from Nursing, Clinical, to Finance, IT, Administrative, Research and Support Services to name a few. Across all locations, you’ll find career opportunities that support diversity, equity and inclusion. At Mayo Clinic, we invest in you with opportunities for growth and development and our benefits and compensation package are highly competitive. We invite you to be a part of our team where you’ll discover a culture of teamwork, professionalism, mutual respect, and most importantly, a life-changing career!
+
+Mayo Clinic offers a variety of employee benefits. For additional information please visit Mayo Clinic Benefits. Eligibility may vary.
+
+Position description
+This is a full time remote position within the United States.
+
+Responsible for the analyzing and visualizing various data sources utilized by Mayo Clinic Department of Laboratories for trends, insights and outliers.
+
+In conjunction with more senior technical staff and MCL partners, develops dashboards and other reporting solutions using various clinical data sources. Partner with key business stakeholders across MCL to understand their data needs and develop reporting solutions leveraging Tableau and other BI tools such as PowerBI, Web Crystal Reports. Experience in analyzing data using SQL is necessary. Ability to work on multiple dashboard/report requests and reprioritize based on changing demands.
+
+Performs various development activities such as gathering requirements from business partners, writing SQL queries against underlying data sources and develop reports/dashboards. Evaluates alternative approaches and presents recommendations to stakeholders, colleagues, and unit leadership. Works effectively across departmental organizations gaining consensus of stakeholders. Willingness to learn new tools and acquire new skills. May interface with vendor support service groups or other external support teams to ensure proper escalation during outages or periods of degraded system performance.
+
+Mayo Clinic will not sponsor or transfer visas for this position including F1 OPT STEM.
+
+Qualifications
+Bachelor’s degree and training/experience in technical development;
+
+OR, Associate’s degree and 5 years’ professional experience in technical development.
+
+Additional qualifications
+The following are preferred:
+Knowledge and experience in Data Warehousing and Data Analysis.
+2+ Years' Experience with SQL.
+2+ Year of Tableau or experience with similar tools.
+Experience with Power BI, Looker, Crystal Reports or Web Intelligence or other data visualization tool is desired.
+Experience with Electronic Health Record (EHR) systems such as Epic will be considered a plus.
+Knowledge of system design principles, software development methodologies, and computer programming. Ability to take responsibility and accountability for own activities. Possesses ability to multi-task and prioritize issues appropriately. Aids in the evaluation of alternative approaches and may help in presenting recommendations to teams and unit. Evidence of strong communication and organizational skills.
+
+May interface with vendor support service groups or other external support teams to ensure proper escalation during outages or periods of degraded system performance. Acts as a liaison to Mayo departments and vendors to adequately support the division's computing systems. Experience working in healthcare technology. Exposure to managing both custom developed and vendor-supplied applications.
+
+Exemption status
+Exempt
+
+Compensation Detail
+$71,240 - $121,264 / year
+
+Benefits eligible
+Yes
+
+Schedule
+Full Time
+
+Hours / Pay period
+80
+
+Schedule details
+M-F
+
+Weekend schedule
+Occasionally as needed.
+
+Remote
+Yes
+
+International Assignment
+No
+
+Site description
+Mayo Clinic is located in the heart of downtown Rochester, Minnesota, a vibrant, friendly city that provides a highly livable environment for more than 34,000 Mayo staff and students. The city is consistently ranked among the best places to live in the United States because of its affordable cost of living, healthy lifestyle, excellent school systems and exceptionally high quality of life.
+
+Recruiter
+Ted Keefe
+
+EOE
+As an Affirmative Action and Equal Opportunity Employer Mayo Clinic is committed to creating an inclusive environment that values the diversity of its employees and does not discriminate against any employee or candidate. Women, minorities, veterans, people from the LGBTQ communities and people with disabilities are strongly encouraged to apply to join our teams. Reasonable accommodations to access job openings or to apply for a job are available.

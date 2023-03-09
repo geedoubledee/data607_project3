@@ -1,0 +1,45 @@
+At Yelp, it’s our mission to connect people with great local businesses. Yelp’s unique dataset contains billions of interactions between users and businesses around the globe, from a review of a coffee shop to requesting a repair quote with a photo of a leaky faucet. Data Scientists at Yelp work to make sense of these interactions to deliver impactful analyses and products to our users, business partners and the general public.
+
+The Data Science & Analytics team performs analyses, builds models, and designs experiments that directly impact Yelp’s products and users. Our teams sit in Yelp’s central product management organization and work directly with cross-functional leaders to understand quantitatively how our products are performing and where the largest opportunities are. We are adept at tasks like modeling user preferences, inference from user and marketplace experiments, and generating insights about the health of local economies. With diverse backgrounds and expertise, we strive for learning and growth in a collaborative environment.
+
+This opportunity is fully remote and does not require you to be located in any particular state within the US. We welcome applicants from throughout the US.
+Where You Come In:
+Join a team of Data Scientists and Data Science Analysts that develop analytical frameworks and reliable measurement strategies for Yelp products
+Design, execute, and analyze complex business and user experiments
+Partner with other Data Scientists and Data Engineers to set the vision for and develop our experimentation platform
+Devise and evaluate models for diverse business needs, such as identifying growth opportunities, estimating the impact of new features on our platforms, and personalizing the user experience
+Proactively research and build ETL pipelines for product and marketplace metrics
+Communicate key insights from analyses, experiments and data products to stakeholders
+
+What It Takes to Succeed:
+Ability to apply statistical, analytical and technical expertise to product and business problems
+Prior experience structuring and leading impactful data science projects independently
+Oral and written communication skills to mentor colleagues, and work effectively with partners on engineering, product and business teams
+Expertise in SQL, and R or Python for data analysis and platform development
+Enthusiasm for building a culture of learning and development
+MS/PhD in quantitative field and 3+ years of industry experience in a senior quantitative role preferred
+
+It's Nice To Have:
+Product analytics experience with small business or consumer technology products
+Prior industry experience building online experimentation and machine learning platforms
+
+What You'll Get
+This opportunity has the option to be fully remote in locations across the US.
+Compensation range is $96,000-$220,000 annually. You may also be offered a bonus, restricted stock units, and benefits.
+For more information about US benefits at Yelp, please check out this link.
+
+#LI-Remote
+
+At Yelp, we believe that diversity is an expression of all the unique characteristics that make us human: race, age, sexual orientation, gender identity, religion, disability, and education — and those are just a few. We recognize that diverse backgrounds and perspectives strengthen our teams and our product. The foundation of our diversity efforts are closely tied to our core values, which include “Playing Well With Others” and “Authenticity.”
+
+We’re proud to be an equal opportunity employer and consider qualified applicants without regard to race, color, religion, sex, national origin, ancestry, age, genetic information, sexual orientation, gender identity, marital or family status, veteran status, medical condition or disability.
+
+Actual salary offered may vary based on multiple factors, including but not limited to, an individual's location and experience.
+
+We will consider for employment qualified candidates with arrest and conviction records, consistent with applicable law (including, for example, the San Francisco Fair Chance Ordinance for roles based in San Francisco).
+
+We are committed to providing reasonable accommodations for individuals with disabilities in our job application process. If you need assistance or an accommodation due to a disability, you may contact us at accommodations-recruiting@yelp.com or 415-969-8488.
+
+Note: Yelp does not accept agency resumes. Please do not forward resumes to any recruiting alias or employee. Yelp is not responsible for any fees related to unsolicited resumes.
+
+CCPA Privacy Notice

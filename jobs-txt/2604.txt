@@ -1,0 +1,42 @@
+Position Summary:
+We are looking for a SQL Database Administrator focusing on Azure SQL database and AWS RDS PostgreSQL services to join our team. You will be working closely with the Development teams on both Azure and AWS hosted application and servers to ensure the environment is built, configured, managed, and monitored correctly to support the business. You will help drive decisions on rightsizing of compute and storage. Preform database troubleshooting of performance issues, ensuring the highest level of reliability for the platform, and tuning the environment for maximum scalability and security. If you’re ready to join a smaller team where you can make a bigger impact, we want to meet you!
+Principal Responsibilities:
+Write SQL queries, views, or stored procedures to extract data from SQL Servers in a consistent and efficient manner that follows industry best practices.
+Interpret existing complex SQL queries and stored procedures to reverse engineer existing code.
+Create and automate or increase the efficiency of existing reports
+Assist in data analysis functions.
+Elicit requirements from stakeholders to better define report content.
+Document the results of work activities.
+Support the generation of standard reports as well as ad hoc queries.
+Ensure effective communication to the management team and business clients.
+Make recommendations for improvements in reporting tools, techniques, and processes.
+Participate in efforts to analyze, design, and migrate data as needed.
+Identify and clean up malformed data.
+Perform bulk data updates when needed.
+Identify SQL performance issues and provide corrective measures
+Collaborating with Dev team members as well as all of engineering
+Other duties as assigned
+Education, Experience, Skills and Abilities Requirements:
+Passion for problem-solving and analysis.
+Perseverance to drive a hard problem to the conclusion under minimal supervised guidance.
+Experience with Azure SQL Databases
+Experience with PostgreSQL Databases
+Proficient in T-SQL, ANSI SQL, Stored procedures, functions, scripts, and triggers with extensive use of T-SQL programming. (5+ years)
+Experience with data analysis, data profiling, data troubleshooting and data reconciliation
+Experience as a Data Analyst/Report Writer or other roles heavily utilizing SQL
+Microsoft Certified: Azure Database Administrator Associate
+AWS Certified Database
+You should also expect:
+A collaborative and challenging environment
+To be surrounded and supported by our diverse, passionate, and talented technology and management team.
+Engagements and interactions with senior leadership
+Training and development of skills in your area of work with some of the best technology experts in our industry.
+Special Working Conditions:
+Ability to work remotely with a secure and reliability internet connection.
+Ability to work nights and weekends as required.
+Ability to work on-call schedule if required.
+#LI-TH1
+#LI-REMOTE
+Click
+here
+for some insight into our culture!

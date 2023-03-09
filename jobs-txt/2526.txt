@@ -1,0 +1,9 @@
+The Database Administrator (DBA) maintains and updates the organization’s database, ensuring the database meets all organizational and regulatory requirements including security and data encryption. Duties also include system performance monitoring, setting optimum values for database parameters, implementing new releases, completing and documenting maintenance and security requirements, evaluating computer operating systems and hardware products, and management of change control for new releases and updates.
+
+Required:
+At least a Bachelor’s Degree in an HIS/Computer related field
+At least three years of experience with structured query language (SQL) and database management systems.
+
+
+Location: Upson Regional Medical Center · Hospital Information Services
+Schedule: Full Time, Days, M-F 8-430

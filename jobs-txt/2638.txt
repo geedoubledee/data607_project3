@@ -1,0 +1,48 @@
+Responsibilities
+TikTok is the leading destination for short-form mobile video. Our mission is to inspire creativity and bring joy. TikTok has global offices including Los Angeles, New York, London, Paris, Berlin, Dubai, Singapore, Jakarta, Seoul and Tokyo.
+
+Why Join Us
+At TikTok, our people are humble, intelligent, compassionate and creative. We create to inspire - for you, for us, and for more than 1 billion users on our platform. We lead with curiosity and aim for the highest, never shying away from taking calculated risks and embracing ambiguity as it comes. Here, the opportunities are limitless for those who dare to pursue bold ideas that exist just beyond the boundary of possibility. Join us and make impact happen with a career at TikTok.
+
+Team Introduction
+As a member of the Data Science and Product Analytics team, you will work with diverse and highly collaborative teams of product managers, engineers, and other data analysts to drive product impact. You will be working on exciting projects to provide the best user experiences to create, consume and enjoy content on TikTok. You will have the opportunity to define metrics and identify opportunities from one of the richest data sets in the world, and convert the insights into real changes for both new initiatives and scaled products. You are a self-starter who is excited about data, excels in product logic thinking, clear communication, and brings distinctive problem-solving skills and impeccable business judgment.
+
+We are looking for talented individuals to join our team in 2023. As a graduate, you will get unparalleled opportunities for you to kickstart your career, pursue bold ideas and explore limitless growth opportunities. Co-create a future driven by your inspiration with TikTok.
+
+Successful candidates must be able to commit to one of the following start dates below:
+1. January 16, 2023
+2. February 6, 2023
+3. March 6, 2023
+4. May 22, 2023
+5. June 12, 2023
+6. July 17, 2023
+7. August 14, 2023
+We will prioritize candidates who are able to commit to these start dates. Please state your availability and graduation date clearly in your resume.
+
+Application deadline: February 15th, 2023
+Candidates can apply to a maximum of two positions and will be considered for jobs in the order you apply. The application limit is applicable to TikTok and its affiliates' jobs globally. Applications will be reviewed on a rolling basis - we encourage you to apply early.
+
+Responsibilities:
+Develop comprehensive product metrics and quantitative measurement structure based on product stages and business purposes.
+Design and implement reporting dashboards and the associated data pipeline to deliver insights and improve the workflows of internal teams.
+Partner closely with key stakeholders to optimize overall product adoption and performance driven growth. Provide suggestions for improvements to align with the business goal.
+Measure and visualize the effectiveness of product updates, conduct research and analysis on various business processes to identify business problems, and further provide optimization suggestions to improve operating efficiency.
+Be creative and think outside of the box to bring innovative product solutions to our users.
+Qualifications
+Bachelor's or Master's degree in data analytics/ quantitative or related fields or equivalent practical experience.
+Final year or recent graduate with a background in data analytics/ quantitative, or a related technical discipline.
+Experience with one of the programming languages: SQL, R, Python.
+Ability to conduct rigorous analysis and communicate conclusions to both technical and non-technical audiences.
+Understanding of data modeling and statistical analysis techniques, including: hypothesis testing, model evaluation, and common regression and classification algorithms.
+Solid communication and collaboration skills with the ability to work effectively with internal teams in a cross-cultural and cross-functional environment.
+Must obtain work authorization in country of employment at the time of hire, and maintain ongoing work authorization during employment.
+Preferred Qualifications:
+Demonstrated data science or product analysis experience from previous internship, work experience, etc. Product management experience is a plus.
+Demonstrated experience handling terabyte size datasets, applying statistics and machine learning techniques and algorithms, using visualization tools to present data.
+Demonstrated success in leading data-driven projects from definition to execution, from defining metrics to communicating actionable insights.
+Understanding of deep learning, or distributed computing (Hive/Hadoop).
+TikTok is committed to creating an inclusive space where employees are valued for their skills, experiences, and unique perspectives. Our platform connects people from across the globe and so does our workplace. At TikTok, our mission is to inspire creativity and bring joy. To achieve that goal, we are committed to celebrating our diverse voices and to creating an environment that reflects the many communities we reach. We are passionate about this and hope you are too.
+
+TikTok is committed to providing reasonable accommodations during our recruitment process. If you need assistance or an accommodation, please reach out to us at Accommodations-AMS@tiktok.com.
+
+By submitting an application for this role, you accept and agree to our global applicant privacy policy, which may be accessed here: https://careers.tiktok.com/legal/privacy.

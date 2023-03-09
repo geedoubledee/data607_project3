@@ -1,0 +1,32 @@
+Found is a modern weight care platform and community focused on integrated support. According to a recent CDC study, nearly 50% of Americans want to lose weight, and on average, Americans have gained 30 lbs during the pandemic. But the existing weight loss industry focuses on shame - if you don't have the willpower to eat less and workout more, you aren't trying hard enough.
+Modern science shows us that weight care is complex - food and movement are important, but so are hormones, genetics, sleep, stress, mental health, and daily habits. Found's unique approach incorporates personalized coaching, an online community, and if indicated, medical and prescription solutions.
+Research shows that addressing weight health reduces the long-term risk of diabetes, heart disease, and some forms of cancer. We believe in giving our community tools that will help them add years to their lives and reach their goals. We believe it's not just what you've lost, it's what you've Found. Found has raised more than $130mm from leading investors, including Atomic, GV, WestCap, IVP, TCG, Define Ventures and more.
+The Opportunity
+Being able to deliver a truly personalized and effective weight care solution is built on a foundation of data backed science. We are looking for a leader to help us leverage all aspects of Data Science to further this goal. The ideal candidate is comfortable both as an IC designing and writing models across multiple disciplines, building roadmaps and partnering with engineering to build the pipelines and data access needed, and building a highly talented team around them to help. This is a ground floor role that will have a massive impact on our product and business.
+What You'll Do
+Work cross functionally with leaders across product, growth, marketing, and business operations to identify the highest leverage places for Data Science to deploy their time and craft a roadmap to make it happen
+Be hands on executing that roadmap by building models and teasing signal from the noise to drive forward our product and business operations
+Assess roadmap for talent needs and build a team to meet them
+Work closely with Behavioral Science and Clinical Operations to drive forward the most effective product features and care program
+Work closely with Product and Engineering to identify data needs and be a partner in building out the Found data platform
+Be a champion of privacy and security when it come to consumer data
+What You Have
+10+ years of experience in hands on data science roles or 5+ years of experience with a postgraduate degree in a Data Science related field
+3+ years of experience leading teams and managing roadmaps and execution priorities
+Excellent hands on modeling and data analysis skills
+Experience with modern data stacks, languages, and warehouses (Spark, Snowflake/BigQuery, R, Python/Pandas)
+Experience building and deploying ML models at scale, preferably in a B2C product
+Demonstrated ability to recruit and coach a highly talented team
+Talent for taking often complicated statistical or mathematical concepts and explaining it in simple and direct terms ("Explain it to me like I'm five")
+Ability to motivate by providing a clear vision and execution roadmap to continually level up the Found data platform and the overall product and care program
+Bonus Points
+Experience working with B2C healthcare
+Experience building a data science discipline in a startup environment
+What You'll Get
+Competitive compensation
+Medical, dental, vision, and life insurance
+PTO, company-paid holidays, parental leave
+401K, wellness and wifi perks
+Flexible, remote-first work culture
+Found is an Equal Opportunity Employer. We seek and celebrate diversity in its many forms. If you're excited about this opportunity but do not meet 100% of the qualifications, we encourage you to apply.
+Please review our CCPA policies.

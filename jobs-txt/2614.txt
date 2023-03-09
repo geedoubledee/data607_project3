@@ -1,0 +1,59 @@
+Fusion Technology LLC is in search of a highly skilled and experienced Business Intelligence Developer candidate to fill this an On-Site position, based in Washington DC.
+Job Title: Business Intelligence Developer
+Salary: $110,000.00 - $120,000.00
+Location: On-Site 25% and Remote 75% - Washington DC
+Submission End Date: Ongoing
+Job Description:
+The Business Intelligence Developer is responsible for analysis and evalustion of user business problems and the development of system recommendations to meet requirements. Duties may include: coordinating with business and technology teams to ascertain system requirements, input data acquisitions, execution of user acceptance and my coordinate testing and system controls.
+Duties Include, but are NOT Limited To:
+Driving insightful analystics and action-based reporting that measures business performance.
+Support FAA, which is continuously striving for improved data, processes, and developing infrastructure.
+Mature the Power BI reporting.
+Lead the development of operational dashboards, periodic business reviews and effective metrics.
+Analyze complex business problems and issues using data.
+Participate in cross-functional teams to address business issues.
+Develop SSAS tabular models utilizing complex DAX functions and SQL queries, stored procedures using T-SQL, CTE, XMLA, PowerShell scripts.
+Requirements
+Bachelor's degree in data analytics, systems engineering, or related field
+8+ years of relevant experience
+Proven SQL and Query writing skills
+Significant Power Platform (Power BI, Power Apps, Power Automate) experience
+Knowledge of Oracle and SQL Server SQL
+Strong understanding of relational and dimensional data modeling
+Ability to obtain a Public Trust clearance
+Visit Fusiontechnology-llc.com for more details regarding our company mission and objectives.
+Job Types: Full-time, Contract
+Pay: $110,000.00 - $120,000.00 per year
+Benefits:
+401(k)
+401(k) matching
+Dental insurance
+Flexible schedule
+Flexible spending account
+Health insurance
+Health savings account
+Life insurance
+Paid time off
+Parental leave
+Professional development assistance
+Referral program
+Relocation assistance
+Retirement plan
+Tuition reimbursement
+Vision insurance
+Schedule:
+8 hour shift
+Monday to Friday
+Application Question(s):
+Are you a U.S. Citizen?
+If you hold a Green Card, have you been employed in the U.S. for minimum of 3 years?
+How many years of experience do you have with Microsoft Office applications (work, excel, outlook, etc.)?
+Do you have SQL and Query writing experience?
+How much experience do you have with Power Platform (Power BI, Power Apps, Power Automate)?
+How much experience do you have with relational and dimensional data modeling?
+How much experience do you have with Oracle and SQL?
+Education:
+Bachelor's (Required)
+Experience:
+Business Intelligence Development: 8 years (Required)
+Work Location: One location

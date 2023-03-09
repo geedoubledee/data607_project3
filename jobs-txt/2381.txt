@@ -1,0 +1,49 @@
+PolyCon Solutions is seeking a Mid-level Business Intelligence Developer to support our Federal Aviation Administration (FAA) client with the analysis and evaluation of user business problems and the development of system recommendations to meet requirements. The ideal candidate analyzes current and technical processes to formulate and develop new and modified business information processing systems. They also will coordinate with business and technology teams to ascertain system requirements, such as program functions, output requirements, input data acquisition, execution of user acceptance, and may coordinate testing and system controls. This position requires a great deal of interactions with the FAA Security Team, FAA executives and individual team members.
+Responsibilities:
+Helps to mature Power BI reporting
+Leads the development of operational dashboards, periodic business reviews, and effective metrics
+Analyzes complex business problems and issues using data to provide insight to decision makers
+Participates in cross-functional teams to address business issues
+Works closely with Business Analysts and end users to evaluate business requirements and advise on appropriate informative views and dashboards
+Designs, develops, deploys, monitors, reports and improves enterprise process data visualization
+Develops Power BI reports, dashboards, publish reports to power BI service and establish gateway refresh schedules using DAX and PowerPivot BI
+Works on Microsoft BI analytics stack (SSIS, SSAS) and work on investigating new tools, tool capabilities and engage with Business to propose, manage, and implement solutions
+Develops SSAS tabular models utilizing complex DAX functions and SQL queries, stored procedures using T-SQL, CTE, XMLA, PowerShell scripts
+Works on complex data modelling and design patterns for BI/Analytics reporting requirements
+Develops proof of concepts to mock up complex reporting requirements with upcoming technologies on Microsoft Analytics platform
+Maintains, updates, and manages audit reports, and oversee data error corrections with team managers
+Required Qualifications:
+Proven SQL & Query writing skills
+Significant Power Platform (Power BI, Power Apps, Power Automate) experience
+Hands-on knowledge of Oracle and SQL Server SQL, as well as strong understanding of relational and dimensional data modeling
+Ability to document business requirements and translate into technical reporting specifications
+Able to obtain a Public Trust clearance
+Self-starter with the ability to work independently, while at the same time being a solid group contributor with strong leadership skills
+Education and Experience:
+Bachelor's Degree in Data Analytics, Systems Engineering or a related field with 8 years of relative experience
+Company Overview:
+PolyCon Solutions is a certified participant of the U.S. Small Business Administration 8(a) Program and an Economically Disadvantaged Woman Owned Small Business (EDWOSB) that provides cutting-edge acquisition, program, financial and logistical support to the federal government. We offer a comprehensive benefits package to include medical, dental, short- and long-term disability insurance and life insurance. Other benefits include 401K, paid government holidays, and Paid Time Off (PTO).
+PolyCon Solutions provides equal employment opportunities to all employees and applicants for employment and prohibits discrimination and harassment of any type without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state or local laws. This policy applies to all terms and conditions of employment, including recruiting, hiring, placement, promotion, termination, layoff, recall, transfer, leaves of absence, compensation and training.
+Job Type: Full-time
+Pay: $94,250.00 - $145,000.00 per year
+Benefits:
+401(k)
+401(k) matching
+Dental insurance
+Flexible schedule
+Health insurance
+Life insurance
+Paid time off
+Vision insurance
+Schedule:
+8 hour shift
+Monday to Friday
+Ability to commute/relocate:
+Washington, DC 20024: Reliably commute or planning to relocate before starting work (Required)
+Education:
+Bachelor's (Required)
+Experience:
+Federal Aviation Administration (FAA): 1 year (Preferred)
+Power BI: 4 years (Preferred)
+Microsoft SQL Server: 4 years (Preferred)
+Work Location: One location

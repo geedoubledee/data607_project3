@@ -1,0 +1,6 @@
+POSITION SUMMARY/RESPONSIBILITIES
+Provides technical expertise and guidance relating to MS SQL Server and Oracle databases. Actively participates in project teams, work groups and development efforts as assigned. Manages multiple SQL server databases, and ensures appropriate levels of performance, availability and security. Works to assure hardware and software resources are adequately being utilized. Documents database procedures and provides training to technical and end user staff as needed.
+EDUCATION/EXPERIENCE
+Experience with upgrading and migrating databases. Experience with installing, configuring, upgrading, managing and troubleshooting SQL and Oracle databases on physical and virtual servers is required. Four years college level work toward a degree in computer science or data processing or the equivalent in experience or training is required. Bachelor’s degree in one of the above areas is preferred. Minimum five years experience in a related field. Experience in the healthcare industry is preferred. Work experience is required, using one or more of each of the following:
+Databases: SQL or Oracle
+Operating Systems: Windows; UNIX; HPUX; LINUX

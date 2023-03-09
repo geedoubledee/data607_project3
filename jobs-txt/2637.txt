@@ -1,0 +1,31 @@
+Position Title: Microsoft SQL Database Admin
+Location: Sunnyvale , CA (remote)
+Role Type: Long term contract
+Description
+Primary Function Of Position
+3+ years of experience in database administration, operations, and production support.
+Experience in database and application performance tuning.
+Experience writing T-SQL stored procs or complex queries for reporting.
+Experience in installation, configuration, patching, migration, upgrades HA/DR strategies.
+Must have strong experience in Microsoft SQL server and using various replication & developing data pipeline strategies.
+Should be able to support 24X7 support for critical systems.
+Experience in tools like Jira, ServiceNow, confluence, bit bucket, GIT
+Experience working on AWS cloud
+Experience in Postgres/MySQL/MongoDB.
+Experience in SQL Query performance tuning. Profiler/indexing/ understanding optimizer and execution plans
+Thank you
+Job Type: Contract
+Pay: $70.00 - $75.00 per hour
+Benefits:
+401(k)
+Health insurance
+Schedule:
+8 hour shift
+Education:
+Bachelor's (Preferred)
+Experience:
+performance tuning.: 3 years (Required)
+writing T-SQL stored: 3 years (Required)
+PostgreSQL: 3 years (Preferred)
+database administration: 3 years (Required)
+Work Location: One location

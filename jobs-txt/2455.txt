@@ -1,0 +1,43 @@
+Company Description
+
+Domino’s Pizza, which began in 1960 as a single store location in Ypsilanti, MI, has had a lot to celebrate lately: we’re a reshaped, reenergized brand of honesty, transparency and accountability – not to mention, great food! In the rise to becoming a true technology leader, the brand is now consistently one of the top five companies in online transactions and 65% of our sales in the U.S. are taken through digital channels. The brand continues to ‘deliver the dream’ to local business owners, 90% of which started as delivery drivers and pizza makers in our stores. That’s just the tip of the iceberg…or as we might say, one “slice” of the pie! If this sounds like a brand you’d like to be a part of, consider joining our team!
+
+Job Description
+
+Summary: The Analytics & Insights team has been a key contributor to driving Domino’s industry-leading growth by pairing strategic thought leadership with the latest analytic techniques in the fields of data science, machine learning, artificial intelligence, and primary research. The A&I team leverages their skills to drive outstanding consumer and employee experiences to fuel future growth.
+The Digital Experience Data Science Manager will lead a team of Data Scientists that are transforming our digital experiences from best-in-class to world-class. This Manager will leverage their industry expertise to lead a team focused on strategically optimizing the digital customer journey and experience on our web and app platforms. This includes guiding projects focused on driving incrementality through improved engagement and conversion on digital platforms, as well as delivering actionable customer and visit-level insights. In addition, this leader will partner with Marketing and IT teams to improve the digital experience and oversee a team providing A/B testing and sophisticated web analytics approaches utilizing the vast customer data within Domino’s web logs, UCD, and other databases – and will be asked to bring new and innovative tools and approaches to the table to continue to advance our digital analytic capabilities. Key to the role will be contributing to the vision, execution, and performance of strategic digital initiatives.
+RESPONSIBILITIES AND DUTIES
+Generate and Implement Continuous Process Improvements
+Provide thought leadership and drive a better understanding of best practices in digital marketing tool stack, web analytics, digital content, and campaign management
+Identify and develop new techniques to utilize Domino’s customer database to support marketing functions
+Partner with marketing and IT teams to implement developed processes into Domino’s workstreams
+Drive the transition to a more performance-oriented and test/learn-focused organization; develop a vision and craft a compelling business case for additional evolution: e.g., CRM integration, customer insights, dynamic ordering experiences, etc.
+Collaborate with and Empower Marketing Digital Experience team
+Build strategies for amplifying concepts, insights, and implications related to strategic business outcomes
+Lead technology & strategy solution engagements across multi-functional workstreams including customer data platform, data onboarding and activation, and analytics planning and execution
+Drive requirements definitions and provide guidance on tagging structures and strategies ensuring appropriate and accurate tracking and measurement
+Collaborate on new DX tests, establishing key questions to analyze and clear KPIs
+Design and setup tests to measure new DX testing tactics and campaigns
+Create persuasive and actionable findings to inform and influence Marketing partners plus the Leadership Team
+Managing People & Projects
+Act as a change agent with experience in leading teams from vision to driving business results
+Manage team members by defining the roadmap, establishing priorities, guiding the understanding of business questions and the digital experience eco-system, and focusing on career development
+Closely collaborate with business partners to develop and rollout recommendations and tools
+Partner with internal and external business stakeholders to establish deliverables and timelines. Ensure team is accountable to commitments, including timing and accuracy of insights and other deliverables.
+Manage cross team efforts preparing for strategic meetings. Both project management and presentation authoring & review.
+
+Qualifications
+Bachelor's degree in Data Science, Statistics, Mathematics, Engineering, Computer Science, or related field
+5+ years of relevant professional experience, strong leadership experience, formal management preferred
+Deep experience within a digital analytics role including A/B, multivariate testing, and personalization tools
+Strong experience solving business problems with data science, emphasis on business outcomes
+Applied experience with statistical computer languages (SQL, R, Python, etc.)
+Knowledge of advanced statistical techniques and concepts (regression, probability, properties of distributions, statistical tests, etc.) and experience with applications
+Expert knowledge of creating engaging and compelling stories and presentations from data
+Proficient in Microsoft Office
+Advanced project management skills
+Outstanding written and verbal communication
+
+Additional Information
+
+All your information will be kept confidential according to EEO guidelines

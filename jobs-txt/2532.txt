@@ -1,0 +1,50 @@
+Location Designation: Remote
+
+When you join New York Life, you’re joining a company that values career development, collaboration, innovation, and inclusiveness. We want employees to feel proud about being part of a company that is committed to doing the right thing. You’ll have the opportunity to grow your career while developing personally and professionally through various resources and programs. New York Life is a relationship-based company and appreciates how both virtual and in-person interactions support our culture.
+
+Position Summary
+Are you seeking an opportunity to be an integral member of an innovative team at one of the world’s most admired companies? The newly established Strategic Insights team will be responsible for developing cross-functional reporting capabilities for senior management of the Foundational Business.
+
+New York Life’s Strategic Insights team is looking for an outstanding Business Intelligence Developer to design and build dashboards to make KPI’s and KLI’s accessible to New York Life leadership. The person in this role is expected to bring the data to life for decision making by transforming information into imagery to tell a story. Insights shared in these dashboards will be key elements in the development of strategic initiatives to further the goals of the foundational business. The ideal candidate has extensive experience with data visualization, cares about data quality, aesthetics, and how data is visually delivered and consumed by the end user.
+
+Responsibilities
+
+Lead the process of visualizing data derived from multiple sources and incorporating the results into actionable insights.
+Engage with stakeholders to understand and define requirements to deliver aesthetically pleasing, effective visualizations that yield actionable insights.
+Transform large volumes of complex data into digestible bits to enable technical/non-technical end users make data driven decisions while optimizing the user experience and adhering to branding standards.
+Integrate innovative visuals into dashboards
+Own the delivery of your visualization product
+Define and align common KPIs across multiple functional groups
+Remain up to date with latest visualization, standards, systems and future forward tools and languages
+
+Experience
+4 + years of Tableau experience
+Excellent analytical and problem-solving skills, combined with strong business judgement and an ability to present analysis in a clear and compelling manner
+Advanced SQL knowledge, working with “big data”, Python, AWS Cloud services, data wrangling tools and Hadoop
+Proactive mind set with a strong sense of ownership and delivery
+Excellent verbal and written communications skills with the ability to clearly present ideas, concepts, and solutions
+Quick learner both in terms of new technical skills and acquiring domain knowledge
+Maintain existing dashboards and help in production support
+Team player who embraces innovative solutions.
+Highly organized, self-motivated, and detail oriented.
+Ability to work cross-functionally within the organization.
+
+Qualifications
+Bachelor’s degree; Masters preferred
+4+ years of experience in a data visualization
+
+About the Team
+The lifeblood of our organization is our people. We have a compelling story, a goal-oriented culture, and we take really good care of people. How good? Here is a glimpse: great benefits, open door policy, upward mobility and a strong desire to see you succeed. Ready to be part of a winning team? Let’s talk.
+
+SF: LI - LS1
+#LI - REMOTE
+
+Salary range: $95,000-$145,000
+Overtime eligible: Exempt
+Discretionary bonus eligible: Yes
+Sales bonus eligible: No
+
+Click here to learn more about our benefits. Starting salary is dependent upon several factors including previous work experience, specific industry experience, and/or skills required.
+
+Recognized as one of Fortune’s World’s Most Admired Companies, New York Life is committed to improving local communities through a culture of employee giving and volunteerism, supported by the Foundation. We're proud that due to our mutuality, we operate in the best interests of our policy owners. We invite you to bring your talents to New York Life, so we can continue to help families and businesses “Be Good At Life.” To learn more, please visit LinkedIn, our Newsroom and the Careers page of www.NewYorkLife.com.
+Job Requisition ID: 88087

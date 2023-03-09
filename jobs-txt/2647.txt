@@ -1,0 +1,17 @@
+Title: Data engineer with data catalogue
+Work: Remote
+Interview mode: skype
+Duration: 11+ months
+8+ years of experience is required.
+Job Description:
+Required:
+Data catalog curation; landing page, articles, tags, profiling, search, conversations, endorsements, notifications, deprecations
+Training/mentoring of data catalog stewards
+Writing, maintaining, executing data catalog processes, maintain it run book
+Preferred:
+Data catalog administration; add and configure data sources, metadata extract, query log ingestion, data sampling and compose query editor
+Experience establishing, monitoring, reporting data catalog metrics for Alation Analytics
+Job Type: Contract
+Pay: $48.00 per hour
+Schedule:
+8 hour shift

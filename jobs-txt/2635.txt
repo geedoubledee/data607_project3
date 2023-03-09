@@ -1,0 +1,43 @@
+Position Summary
+Reasons you will want this position:
+We are a rapidly growing company that incorporates data science in all our products, and we will provide you with limitless opportunities to discover unique data correlations
+Our culture appreciates and rewards creative ideas especially highly functional ones that achieve better outcomes for everyone
+This is a key position for our continued success in healthcare technologies and will work regularly with our executives and senior leadership
+You will be able to sharpen your communication and presentation skills as this position is highly interactive with our client’s primary stakeholders
+Work where you are most productive: from home, in the office, or hybrid
+Summary
+As the Head of Data Science, you are the engine for all analytic insights Cedar Gate provides to its clients. You will lead a team in delivering mission critical analytics that enable our clients to transition from Fee-For-Service to Value Based Care. You will engage at the highest levels of client organizations to lead innovation and solutioning and drive execution within Cedar Gate. This role will work closely with the executive team defining our Product’s analytic strategy and roadmap, and ensure our solutions continues to deliver maximum value for clients, seeking to leverage data to drive improvements in healthcare.
+
+We are looking for an accomplished, strategic leader who can conceptualize and implement a comprehensive strategy for leveraging analytics to provide a long-term competitive advantage. You should have leadership experience in developing and implementing organizational strategy for analytics. You should have a holistic understanding of healthcare and of the numerous factors and relationships that drive healthcare costs. We expect you to utilize informatics and analytics functions to enhance provider engagement, payer contracting, medical cost management, and to better serve and engage consumers.
+
+Roles & Responsibilities
+Lead the Data Science Team in managing the development and application of all analytics/informatics used in our technology
+Provide unique insights into healthcare and data analytics through the application of RWD for RWE
+Expertly use analytic technology, tools, and methods in driving health plan performance and leveraging predictive analytics
+Translate and explain complex models and healthcare analytics to senior management, physicians, staff, and potential network partners
+Earn the trust of our executives, our clients, your peers, and your team as a leader and visionary in data science
+Incorporate your prior experiences in medicine, health policy, health economics, or medical reimbursement in the data relationships you uncover and share
+Demonstrate a strong understanding of the mechanics of data structures, provider pricing methodologies, consumer analytics, and risk/gain-share payment models
+Improve the efficiency of analytic functions and their effect on organizational performance
+Understand provider performance standards and techniques especially cost and quality
+Provide innovative, strategic thinking and leadership to our clients and internally throughout Cedar Gate Technologies
+Required Experience / Qualifications
+Master's/PhD/MD in analytic field or comparable years in relevant professional experience
+At least 5 years of experience in Analytics role with experience in healthcare
+At least 5 years leading team (directly or indirectly) to achieve analytics solutions
+Deep understanding of the healthcare delivery system and focus on actionable analytics
+Developing and executing analytical and/or research activities using common data science toolkits, data visualization tools, techniques, and algorithms
+Investigating and identifying patterns in big data to generate business insights
+Experience formulating / selling / implementing innovative solutions to solve business needs
+Ability to work in a fast-paced environment and juggle multiple tasks, projects; strong prioritization skills to meet deadlines
+Confident and calm presence; ability to lead client discussions, resolve conflict, and drive progress; able to direct product workshops and brainstorming sessions
+Strong presentation, communication, and writing skills
+
+Your Future Working Environment
+If you join Cedar Gate, you can make great ideas happen for some of the world's most dynamic companies. With broad global resources and deep technical know-how, we collaborate with clients to cultivate ideas and deliver results in the medical industry. Choose a career at Cedar Gate and enjoy an innovative environment where challenging and interesting work is part of daily life.
+Next to our excellent terms of employment and fringe benefits, we invest considerable resources to provide ongoing training that builds and extends professional, technical, and management skills in all areas. At Cedar Gate, you will operate in a professional environment where teamwork and innovation are immensely encouraged. Together with colleagues, you will work on high-impact projects for many dynamic companies.
+
+About Cedar Gate
+Cedar Gate enables payers, providers, employers, and service administrators to excel at value-based care. Our unified technology and services platform enhances and automates data management activities to deliver employer and provider analytics, care management, and payment technology necessary to pursue every payment model and optimize performance in all lines of business. From primary care attribution to bundled payments to capitation, our platform is designed to improve clinical, financial, and operational outcomes for all.
+
+Based in Greenwich, CT, Cedar Gate is private equity-backed by GTCR, a leading Chicago-based private equity firm, Ascension Ventures, a strategic healthcare venture firm, and Cobalt Ventures, the investment subsidiary of BCBS of Kansas City. To learn more, visit www.cedargate.com.

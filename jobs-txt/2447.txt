@@ -1,0 +1,32 @@
+Overview
+Intuit is a global technology platform that helps our customers and communities overcome their most important financial challenges. We help give over 50 million consumers, small business, and self-employed customers around the world the opportunity to prosper.
+
+Our AI+Data product management team is at the forefront of transforming Intuit into an AI-driven expert platform. At the heart of this transformation is the creation of a secure, modern, blazing-fast and finely curated data map of the world's financial information, provided to Intuit with trust and care by tens of millions of people and businesses worldwide.
+
+Our team is building the products, workflows, and methodologies that will be used to profoundly change the way we all manage our financial lives. To tackle this momentous initiative and achieve our ambitious goals, we are looking for a stellar Senior Product Manager.
+
+Our new Senior Product Manager will focus on our self-serve data curation and ETL home grown products aimed to empower our data producers to explore, curate, analyze and generate world-class data sets that will be leveraged by the various parts of the business to profoundly change the way users interact with our products.
+
+You will be learning about the various data models and existing workflows, think through unifying elements and common denominators, dream up data and workflow interfaces, translate it all into engineering-ready user stories, and work with product designers to create a self-serve web application that will make working with data a delightful experience. While Intuit is home to thousands of employees, your role would fit into our smaller team that functions more like a start-up. We’re passionate, move fast, and above all are hyper-focused on empowering our users to leverage data to drive their financial success.
+What you'll bring
+What you will bring
+5+ years of experience as a Product Manager in a modern, data-driven environment.
+Experience in building self-serve products from scratch. Specific experience with building products for data transformations, processing and analytics is a strong plus.
+In depth knowledge of data products, data pipelines, data processing technologies, modern big data cloud infrastructure and technologies.
+Strong ability to think through unifying elements and common denominators; dream up data and workflow interfaces; translate it all into engineering-ready user stories; and work with product designers to create a self-serve product that will make working with data a delightful experience.
+A passion for user experience and building self-serve products, delighting your users is your ultimate mission.
+Familiarity with Big Data frameworks and Domain Driven Design approaches to data as a product.
+Data driven approach for everything you do, understanding your customers, roadmap prioritization and measuring success.
+Ability to work in an agile fashion with your teams; go broad to go narrow; build, test, iterate.
+Ability to nurture various projects in parallel, in different stages of maturity and velocity.
+Undergraduate degree required in Computer Science, Artificial Intelligence, Machine Learning, or a related technical discipline (equivalent professional experience will be considered); advanced degree a plus
+How you will lead
+How you will lead
+Deeply understand the customer problems and needs leveraging follow-me-home research, usability studies, first-hand interviews, customer feedback, experiments, and usage/adoption metrics.
+Demonstrate strong communication and leadership skills with engineering, architecture teams, and business stakeholders.
+Own your product. Set a clear vision, define your roadmap and share with cross functional teams
+Inspire and lead your team and others to execute and deliver your vision and solutions to solve customers’ biggest problems.
+Ruthlessly prioritize your team’s backlog to ensure your team is making maximum customer impact.
+Identify, design, experiment, and iterate on product capabilities leveraging customers/end users’ feedback, behavioral customer data, and market research.
+Define and analyze key success metrics to support and inform product decisions.
+Drive product development with cross-functional teams to deliver high-impact customer experiences quickly.

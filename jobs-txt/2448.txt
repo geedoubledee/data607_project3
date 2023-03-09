@@ -1,0 +1,21 @@
+At Windfall, data is our product — and data science lies at the heart of everything we do. We are looking for experienced data scientists who are able to run machine learning models in production from day one, and who are driven to deeply understand and build upon our unique data assets. We value data curiosity, attention to detail, and an analytical mindset as we work together to capture signals and understand trends that will empower our clients to identify and engage their most promising constituents. Every member of our team has a tangible impact on the success of our business and our customers.
+
+We’re on a mission to change how organizations perceive and use people data - and we hold true to Windfall’s core values: (1) Be an excellent communicator; (2) Operate with transparency; (3) Provide leverage, not optimization; (4) Make a difference every day; and (5) Act with integrity and trust. Join us!
+Responsibilities:
+Build production-quality, custom predictive models to enhance and expand our core product
+Collaborate with team members and stakeholders to deliver findings to clients quickly & reliably
+Investigate new data sources, perform statistical analyses, and document findings
+Work with engineering and data vendors to improve the accuracy of our data sources
+Requirements:
+Advanced degree in a quantitative discipline
+3 – 8+ years of full-time data science experience, including applied techniques in modern data science and machine learning in production environments
+Expert knowledge of Python & SQL
+Collaborative, team-focused attitude with a strong desire to advance the product and learn new things
+The ability to communicate technical ideas to a non-technical audience
+Self-starter with experience turning ideas into actionable designs
+Excellent written and verbal communication
+Eligible to work within the United States
+About Windfall
+Windfall is a people intelligence and AI company that gives go-to-market teams actionable insights. By democratizing access to people data, organizations can intelligently prioritize go-to-market resources to drive greater business outcomes. Powered by best-in-class machine learning and propensity modeling, Windfall activates insights into workflows that engage the right people for each respective organization. More than 800 data-driven organizations use Windfall to power their business.
+
+We comply with CCPA. For more information on how we comply, review our privacy notice.

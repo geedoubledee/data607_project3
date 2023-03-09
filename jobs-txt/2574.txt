@@ -1,0 +1,70 @@
+Requisition ID: R10034143
+Category: Research and Sciences
+Location: Linthicum, Maryland, United States of America
+Citizenship Required: United States Citizenship
+Clearance Type: SCI
+Telecommute: No- Teleworking not available for this position
+Shift: Days (United States of America)
+Travel Required: Yes, 10% of the Time
+Positions Available: 7
+
+At Northrop Grumman, our employees have incredible opportunities to work on revolutionary systems that impact people's lives around the world today, and for generations to come. Our pioneering and inventive spirit has enabled us to be at the forefront of many technological advancements in our nation's history - from the first flight across the Atlantic Ocean, to stealth bombers, to landing on the moon. We look for people who have bold new ideas, courage and a pioneering spirit to join forces to invent the future, and have fun along the way. Our culture thrives on intellectual curiosity, cognitive diversity and bringing your whole self to work — and we have an insatiable drive to do what others think is impossible. Our employees are not only part of history, they're making history.
+
+The Northrop Grumman Mission Systems (NGMS) Advanced Processing Solutions Business pushes the boundaries of innovation, redefines the leading edge of exotic new technologies, and drives advances in the sciences. One of our most challenging new fields is Transformational Computing, which combines the unique properties of superconductivity and quantum mechanics to develop radical new energy-efficient computing systems. Our team is chartered with providing the skills to transform computing beyond Moore’s Law, advancing development of computer architectures, processing/memory subsystems, and large scale high performance computing systems. You’ll work in a fast-paced team environment alongside a broad array of scientists and engineers to make these processing solutions a reality and deliver remarkable new advantages to the warfighter.
+About this position: We are seeking a data scientist/analyst who will make significant and ongoing contributions to the maturation of our data driven processes. You will be responsible for collecting, processing and presenting information, including actionable insights, from multiple disparate data sets. The ideal candidate possesses both the analytical aptitude and problem solving skillset necessary for extracting value from a collection of novel data sets. In addition to being a highly proficient data analyst, this candidate is expected to foster a data pipeline by engineering analytics that lend themselves to automation and scale. As a function of engaging with stakeholders and taking ownership of outcomes, the candidate can comprehend the general problem space and is confident in socializing, demonstrating, and presenting insights generated from the data.
+This position requires work on site located at our Advanced Technology Lab (ATL) in Linthicum, MD.
+Your responsibilities:
+Analyze multiple data sources in detail to identify trends and patterns using engineering fundamentals.
+Interpret data, analyze results using statistical techniques and provide ongoing reports.
+Summarize and socialize data, make conclusions and provide direction on problems identified.
+Effectively generate ideas and support building tools in order to automate analysis processes.
+Strong communication & visualization of the data to articulate the findings. - Develop and implement data collection systems, data analytics and other strategies that optimize statistical efficiency and quality.
+Design, model, and document the logical and conceptual relationship of data and database changes for metrics and analytics.
+What you need to be successful in the role:
+Comfort with requirements-analysis and stake-holder engagement.
+Strong problem solving skills and root-cause analysis to ensure that curated data is accurate, repeatable, and explainable.
+Solid communication skills (written, verbal, and visual)
+Ability to communicate data and engineering analysis regarding conclusions that were reached.
+Ability to create and present data reports to support investigations.
+Excellent attention to detail.
+Development /programming of tools to improve pipeline efficiency, eliminate repetitive tasks, and implement new analysis tools/techniques.
+Prioritization skills to manage work load and make sound decisions for assigned team's data analysis activities.
+This position can be filled as a Principal Data Scientist OR a Sr. Principal Data Scientist. Qualifications for both are listed below:
+Basic Qualifications for a Principal Data Scientist:
+Bachelor's degree in a technical area with 5 years of relevant experience (3 years with technical MS)
+Experienced in Microsoft Excel (Pivot tables, VLookup, etc.)
+Knowledge of data gathering, cleansing and transformation techniques
+Experience with common data science toolkits such as Python/R
+Excel VBA Programming
+Able to obtain and maintain a Top Secret (TS/SCI) clearance per business requirements. US Citizenship is a requirement of this.
+Preferred Qualifications:
+Product Lifecycle experience
+Proficient using query languages such as SQL
+Strong applied statistics skills, such as distributions, statistical testing, regression, etc.
+JMP proficiency (SAS statistical tool)
+MATLAB experience
+Active TS/SCI clearance
+Basic Qualifications for a Sr. Principal Data Scientist:
+Bachelor's degree in a technical area with 9 years of relevant experience (7 years with technical MS; 4 years with a PhD in related field)
+Experienced in Microsoft Excel (Pivot tables, VLookup, etc.)
+Knowledge of data gathering, cleansing and transformation techniques
+Experience with common data science toolkits such as Python/R
+Excel VBA Programming
+Able to obtain and maintain a Top Secret (TS/SCI) clearance per business requirements. US Citizenship is a requirement of this.
+Preferred Qualifications:
+Product Lifecycle experience
+Proficient using query languages such as SQL
+Strong applied statistics skills, such as distributions, statistical testing, regression, etc.
+JMP proficiency (SAS statistical tool)
+MATLAB experience
+Active TS/SCI clearance
+"
+
+Salary Range: $106,500 USD - $159,700 USD
+Salary Range 2: $132,100 USD - $198,100 USD
+
+
+Employees may be eligible for a discretionary bonus in addition to base pay. Annual bonuses are designed to reward individual contributions as well as allow employees to share in company results. Employees in Vice President or Director positions may be eligible for Long Term Incentives. In addition, Northrop Grumman provides a variety of benefits including health insurance coverage, life and disability insurance, savings plan, Company paid holidays and paid time off (PTO) for vacation and/or personal business.
+
+The health and safety of our employees and their families is a top priority. The company encourages employees to remain up-to-date on their COVID-19 vaccinations. U.S. Northrop Grumman employees may be required, in the future, to be vaccinated or have an approved disability/medical or religious accommodation, pursuant to future court decisions and/or government action on the currently stayed federal contractor vaccine mandate under Executive Order 14042 https://www.saferfederalworkforce.gov/contractors/.
+Northrop Grumman is committed to hiring and retaining a diverse workforce. We are proud to be an Equal Opportunity/Affirmative Action Employer, making decisions without regard to race, color, religion, creed, sex, sexual orientation, gender identity, marital status, national origin, age, veteran status, disability, or any other protected class. For our complete EEO/AA and Pay Transparency statement, please visit http://www.northropgrumman.com/EEO. U.S. Citizenship is required for most positions.

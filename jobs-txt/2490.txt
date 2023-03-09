@@ -1,0 +1,27 @@
+The McIntire School of Commerce at the University of Virginia is seeking a Director of Data Analytics. This position plays a key technical and professional leadership role, defining the direction and implementation of equity-centered, data-related projects and products to advance the critical goals of the McIntire School. The director identifies trends and developments in information technology and data analytics, assesses related impact on business operations, and recommends implementation of technology or services that support the strategic direction of the University. They oversee the efforts within McIntire and collaborate with partners across the University to improve practices and infrastructure for mission-focused, data-driven analysis, crossing multiple data types and systems to provide equity-centered insights and actionable recommendations to leadership. The director provides leadership and management of the IT data and software development teams, including CRM specialists. The mission and goal of the office of Information Technology is to move the McIntire school from data to insights using a systematic, data-driven approach to business problems.
+
+The University of Virginia is one of the highest-ranked public universities in the United States, and the McIntire School of Commerce (www.commerce.virginia.edu) awards Bachelor of Science in Commerce and Master of Science degrees in the Management of Information Technology, Business Analytics, Commerce, Accounting and Global Commerce. McIntire is recognized for excellence and innovation in undergraduate and graduate business education and scholarship. The McIntire School is dedicated to educating and inspiring students to become visionary leaders who shape global business with integrity, purpose, intercultural fluency and a fundamental understanding of how commerce can contribute to the common good for all. We are committed to a policy of equal opportunity for all persons and welcome diversity in all forms.
+
+Qualifications:
+Master's degree and at least five years of related work experience in data analytics or data science.
+Three or more years of experience managing a team is strongly preferred.
+Substantive experience working with large, complex and diverse data sets from multiple sources and in multiple formats.
+A proven track record of delivering reporting solutions that meet the needs of a variety of stakeholders.
+Project management experience, including the demonstrated ability to manage multiple concurrent projects to completion and produce exceptional results.
+Ability to work in a highly collaborative, matrixed environment, exercising influence and achieving results.
+Capacity to build relationships of trust with diverse stakeholders (including senior leadership, faculty and staff) and work effectively with them.
+A high level of individual initiative and drive, balanced by an ability to take direction from others and add value to projects originating with others.
+Strong skills working with spreadsheets, presentation software and visual analytics tools (with a strong preference toward PowerBI and Qlik Sense).
+A commitment to advancing diversity, equity and inclusion.
+Higher education experience strongly preferred.
+
+Anticipated hiring range: $110,000 - $130,000
+
+For more information about UVA and the Charlottesville community, please see www.virginia.edu/life/charlottesville and https://embarkcva.com/
+
+The selected candidate will be required to complete a background check at the time of the offer per University policy.
+
+
+
+COVID Vaccination Requirement and Guidelines
+Please visit the UVA COVID-19 Job Requirements and Guidelines webpage prior to applying for current information regarding vaccination requirements and guidelines for employment at UVA.

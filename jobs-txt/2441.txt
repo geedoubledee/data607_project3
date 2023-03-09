@@ -1,0 +1,33 @@
+At Runway, we believe everyone has a story to tell. Our mission is to make professional video and content creation accessible to all. We are taking recent advancements in computer graphics, the web, and machine learning to push the boundaries of creativity and in turn, lower the barriers of content creation; unfastening a new wave of storytelling
+Over the last three years, we've raised funding from top-tier investors including Coatue, Lux, and Amplify, all with a team small enough to fit at one (growing) table. Our team consists of creative, open minded, caring and entrepreneurial individuals from all walks of life. We aspire to build incredible things which starts with building an incredible team, so we'd love to hear from you!
+About the role
+We're building a next-generation creative tool that enables a new level of interactivity with cloud-based machine learning models. For our tool to be maximally expressive, we're working to establish a seamless feedback loop between our users and the machine learning models powering Runway's abilities. It's not sufficient for our models to be accurate; nor is it enough for our user interface to be beautiful and responsive; we need to ensure that the link between the two is as fast and reliable as possible.
+For this reason, we're looking for a Machine Learning Engineer who can help us create the server-side engine that powers our interactive tools for image and video synthesis. You'll be working closely with our research and frontend teams to design and build low-latency, high-reliability machine learning deployments. We're looking for someone who is deeply interested in the intersection of machine learning and systems design, and has extensive experience building web-based real-time server applications.
+A peek at our technical stack
+The rich UI of our video editing and collaboration tools is powered by Typescript and React/Redux, while the real time compositing and graphics engine behind our interactive preview runs on WebGL2 and WebAssembly. Our video streaming backend components are written in Python, use a lot of FFmpeg/libav and HLS for on-the-fly transcoding, PyTorch and TorchScript for ML inference, and are deployed as containerized services on Kubernetes. Our API endpoints for real-time collaboration and media asset management are written in Typescript and node.js and are deployed as serverless functions on AWS Lambda.
+What you'll do
+Work with a world-class engineering team pushing the boundaries of content creation on the browser
+Collaborate with our research team to deploy state-of-the-art computer vision models to production
+Improve the performance and efficiency of our machine learning deployments
+What you'll need
+Solid knowledge of at least one machine learning research framework (e.g. PyTorch, Tensorflow), and at least one high-performance inference framework (e.g. TensorRT, Apache TVM)
+Experience profiling and optimizing deep neural networks, including knowledge of GPU profiling tools such as NVIDIA Nsight
+Familiarity with Python-based image and video manipulation/encoding/decoding frameworks, such as OpenCV and PyAV
+Experience with cloud orchestration systems such as Kubernetes and cloud providers such as AWS, GCP, and Azure
+Ability to write robust and maintainable client-server architectures and APIs
+Ability to rapidly prototype solutions and iterate on them with tight product deadlines
+Strong communication, collaboration, and documentation skills
+
+Runway strives to recruit and retain exceptional talent from diverse backgrounds while ensuring pay equity for our team. Our salary ranges are based on competitive market rates for our size, stage and industry, and salary is just one part of the overall compensation package we provide.
+There are many factors that go into salary determinations, including relevant experience, skill level and qualifications assessed during the interview process, and maintaining internal equity with peers on the team. The range shared below is a general expectation for the function as posted, but we are also open to considering candidates who may be more or less experienced than outlined in the job description. In this case, we will communicate any updates in the expected salary range.
+Lastly, the provided range is the expected salary for candidates in the U.S. Outside of those regions, there may be a change in the range, which again, will be communicated to candidates.
+Salary range: $165,000-$210,000
+
+Working at Runway
+We are a small and growing team of artists, engineers, researchers, and dreamers working together to reimagine creativity. And we're building a unique team of talented individuals from diverse backgrounds. We believe that this will allow us to continue to up-level each other, our company, and our product. We're looking for people that will add to our culture, not just fit in.
+We're committed to creating a space where our employees can bring their full selves to work and have equal opportunity to succeed. So regardless of race, gender identity or expression, sexual orientation, religion, origin, ability, age, veteran status, if joining this mission speaks to you, we encourage you to apply!
+Keep exploring Runway:
+Our Behaviors and Company Mission
+Runway raises $35M Series B
+Runway Research | Runway Graphics | Runway Blog
+We're excited to be recognized as a best place to work! Crain's | InHerSight | BuiltIn NYC

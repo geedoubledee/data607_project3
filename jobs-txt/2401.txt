@@ -1,0 +1,56 @@
+Paramount Networks International, a unit of Paramount Global is comprised of many of the world's most popular multimedia entertainment brands, including MTV, MTV LIVE HD, Nickelodeon, Nick Jr., Comedy Central, Paramount Channel, BET and more. Paramount brands reach more than 3.8 billion cumulative subscribers in 180+ countries and territories via more than 200 locally programmed and operated TV channels and more than 550 digital media and mobile TV properties, in 40 languages.
+Data analytics & data science is at the heart of decision making in steaming and drives critical decisions across marketing, content & customer service! We are scaling up our international data analytics team for streaming to transform how we manage customers across all life cycles. Through testing, we drive business, product, and operational decisions by providing rich data, strategic insights, and product improvement decision-support. We are looking for an Analyst who is passionate about data and entertainment and who thrives in a dynamic and fast-paced environment!
+
+This role participates in forecasting, consumer behavior modeling, predictive analysis, A/B testing and data science projects!
+
+Objectives & Responsibilities:
+Use data to measure marketing outcomes and guide marketing budget allocation.
+Deliver full-funnel MMM models for marketing planning and multi-touch attribution models (MTA) for optimizing marketing spend.
+Marketing Attribution using AI and ML for channel-level media planning & budget optimization.
+Deliver Artificial Intelligence & Machine learning based solutions around client problems: Customer Segmentation & Targeting, Propensity Modelling, Churn Modelling, Lifetime Value Estimation, Forecasting, Recommender Systems, Modelling Response to Incentives, Marketing Mix Optimization, and Price Optimization
+Partner closely with key partners (marketing, content, operations, finance) to understand business objectives and support these objectives through best use of advanced analytics.
+The role will support the Marketing organization through CAC/LTV and cohort-based acquisition/retention models and decision frameworks aimed at handling customer growth investment and economics.
+Work with Streaming management to help answer tough business questions.
+Develop and drive useful customer intelligence from our core data assets using advanced analytics
+Develop advanced analytics algorithms exploiting our data assets including growth subscriptions, viewing behaviors and content engagement, customer service interactions, service quality and performance information and customer metrics.
+Strengthen our internal data science capabilities by continuously innovating and driving new ideas, building technology, training and developing.
+Growth marketing optimization (work closely with marketing team) including demand marketing with marketing mix modelling and user engagement
+Consumption reporting for content optimization (work closely with content team)
+Work closely with monetization team to understand subscriber and payment data structures and metrics. Find opportunities for driving subscription growth and retention.
+Rapidly prototype, build and deploy production level analytical models to monitor critical datasets via streaming and batch processes
+Basic Qualifications
+Bachelor’s degree (preferably in Computer Science, Analytics, Economics, Mathematics, Statistics, or a related field)
+4+ years using Python for predictive modeling, market mix modeling, forecasting, and statistical analysis.
+4+ years using SQL for data extraction, feature development etc.
+3+ years doing statistical modeling, including regression, time series analysis and other techniques.
+Experience with a/b/multivariate testing, attribution, and media mix modeling.
+1+ year working with at least one advanced analytical area including Predictive Modeling, Optimization, Clustering or NLP.
+1+ year with data modeling and querying data warehouses at scale.
+Additional Qualifications
+Exceptional analytical and quantitative skills, hands-on experience of advanced modeling methods.
+Strong mathematical / statistical abilities.
+Expert-level proficiency and thorough understanding of statistical/ML predictive techniques such as regression/classification, clustering, dimensionality reduction, forecasting, optimization etc. and at least one of the upcoming technologies like deep learning (DL), natural language processing (NLP), reinforcement learning (RL), and Bayesian methods.
+Experience of working on a project end-to-end: problem scoping, data gathering, EDA, modelling, insights and visualizations
+Experience with Salesforce
+Ability to quickly understand a business objective, problem solving to build an analytical solution and partner communication.
+Good proficiency in verbal and written communication in English.
+Excellent interpersonal skills, entrepreneurial mentality and resilient spirit with experience navigating cross-functional organizations.
+Experience with AWS, Snowflake/Redshift.
+Experience with Google Cloud Platform and Big Query.
+Spark, Python, R, Alteryx, ETL and Data Type Knowledge and Experience.
+Scikit Learn, Anaconda, RAPIDS, or any data science packages.
+Knowledge of streaming entertainment or subscription-based services.
+
+ADDITIONAL INFORMATION
+
+Hiring Salary Range: $150,000.00 - 160,000.00.
+
+The hiring salary range for this position applies to New York City, California, Colorado, Washington state, and most other geographies. Starting pay for the successful applicant depends on a variety of job-related factors, including but not limited to geographic location, market demands, experience, training, and education. The benefits available for this position include medical, dental, vision, 401(k) plan, life insurance coverage, disability benefits, tuition assistance program and PTO or, if applicable, as otherwise dictated by the appropriate Collective Bargaining Agreement. This position is bonus eligible.
+
+https://www.paramount.com/careers/benefits
+
+Paramount is an equal opportunity employer (EOE) including disability/vet.
+
+At Paramount, the spirit of inclusion feeds into everything that we do, on-screen and off. From the programming and movies we create to employee benefits/programs and social impact outreach initiatives, we believe that opportunity, access, resources and rewards should be available to and for the benefit of all. Paramount is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ethnicity, ancestry, religion, creed, sex, national origin, sexual orientation, age, citizenship status, marital status, disability, gender identity, gender expression, and Veteran status.
+
+If you are a qualified individual with a disability or a disabled veteran, you may request a reasonable accommodation if you are unable or limited in your ability to use or access. https://www.paramount.com/careers as a result of your disability. You can request reasonable accommodations by calling 212.846.5500 or by sending an email to viacomaccommodations@viacom.com. Only messages left for this purpose will be returned.

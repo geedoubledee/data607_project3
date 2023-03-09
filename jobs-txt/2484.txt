@@ -1,0 +1,31 @@
+About Us
+WorkFusion puts technology to work.
+We’re a global team of hard-working, smart, kind and dedicated employees who are driven to reinvent the future of work. Our AI-enabled Digital Workers work alongside their human colleagues to perform highly skilled and decision-centric work in operations areas including customer service and onboarding, account opening and identify verification, anti-money laundering programs, and other document-intensive compliance activities. Companies in highly regulated areas, such as banking and insurance, rely on our solutions including three of the top five U.S. banks and four of the top 10 EU banks.
+
+We are looking for an experienced Director of Data Science to build, lead and scale our critical technical AI team in creating innovative, impactful core automation capabilities for our Fortune 500 customers. You'll lead a cross-functional and international team to define, implement and promote core cutting-edge AI functionality that sits at the heart of our digital workers. This role presents a unique opportunity to apply pragmatic management to achieve tangible business outcomes at an AI-first company while interacting with multiple stakeholders – including but not limited to Product, Engineering, Customer Success, Sales and Professional Services. You'll be working with and managing brilliant individuals you can learn from and want to learn from you and will be part of our collaborative and diverse culture.
+
+If this sounds interesting, we'd love for you to join us and help define the future of Intelligent Automation solutions!
+You will be
+Leading a cross-functional team of Applied scientists and ML Engineers, with a mixture of ICs and managers, to craft, develop and deliver core AI capabilities that directly impact the company's top line revenue
+Working closely with other key stakeholders - including the leaders of the Product & Sales organizations and the Exec team to technically impact the planning, execution and cohesion of the company's product strategy
+Collaborating with the Engineering organization to influence critical architecture and infrastructure decisions to support the effective hosting, delivery and maintenance of your teams' outputs
+Empowering your team to work on high-impact, de-risked projects building and scaling cutting-edge ML research, including transformers, federated learning, differential privacy and active learning
+Instilling tools, processes and best practices to enable your team to package valuable ML models to allow for effortless consumption by other teams
+Scaling the hiring of the AI team & incorporating the right team structure to set it up for effective short-term and long-term technical success
+Influencing & prioritizing the Applied AI product direction by empowering your team to ask the right questions, dig in the right places and arrive at relevant answers to help stakeholders solve multiple customer needs
+Rapidly prototyping, iterating, and designing end-to-end production-friendly AI models and ML systems
+What you will bring
+You have a Masters or Ph.D. in Computer Science, Data Science, AI/ML/NLP/Computational Linguistics, Math, Physics or related areas, and preferably also an MBA or similar business experience
+You have prior success as a Data Science or Machine Learning Engineering leader – managing technical managers, scientists and engineers while working on challenging problems at scale
+You have been professionally developing ML/NLP models for 10+ years and understand the life cycle of an AI product, with the preferable majority of it in dynamic startup environments
+You have excellent interpersonal, persuasion, and communication skills to communicate strategic and technical ideas to science, engineering, and business audiences
+You're experienced in team design, growing managers, & supporting team members at all skill levels, and have done so for 5+ years
+You have a demonstrable track record of dealing well with ambiguity, prioritizing needs, and delivering results in a dynamic environment
+You have a working knowledge of major deep learning frameworks like PyTorch and Tensorflow
+You have familiarity with transfer learning using BERT-like pre-trained models and document processing techniques like OCR using OpenCV, Tesseract, etc.
+You have experience with MLOps to build end-to-end pipelines and deploy models in production
+
+Currently, WorkFusion is a hybrid remote workforce worldwide with headquarters on Wall Street in New York City and additional hubs in Canada, Europe, and Asia.
+We value diversity and inclusion, and we are building a dynamic team with a variety of backgrounds, perspectives, and skills. We look forward to meeting you.
+
+Our salary for the Lead Application AI Scientist ranges between $225,000 - $250,000 annually and will align with the candidate’s experience and skill set. This position is also eligible for a variable annual bonus, based on both individual and company performance. In addition, WorkFusion offers a comprehensive benefits package, including Medical Insurance, Dental Insurance, Vision Insurance, Life and AD&D Insurance, Short Term and Long Term Disability, Unlimited Paid Time Off and 401k (with a Company match of 100% of the first 4%)

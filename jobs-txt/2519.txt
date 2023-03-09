@@ -1,0 +1,95 @@
+Application Deadline
+
+
+Open Until Filled
+Metro-North Railroad reserves the right to remove this posting prior to the Application Deadline.
+In order to protect our employees and continue to provide safe and reliable service to our communities, as of November 14, 2021 we are requiring all new MTA hires to be fully vaccinated against COVID-19 prior to their start date. MTA will consider exceptions for religious and medical reasons, where appropriate. “Fully vaccinated” means you must have both doses of a 2-dose vaccine and two weeks have elapsed since the second dose, or have received 1 dose of a 1-dose vaccine and two weeks have elapsed since the dose. Proof of your vaccination status in the form of a CDC vaccine card must be submitted prior to your start date.
+
+Compensation
+
+
+Grade G
+MIN $88,132 / MID $110,165 / MAX $132,198
+
+Opening
+
+
+MTA Metro-North Railroad is a dynamic organization, operating out of the jewel of New York City, Grand Central Terminal. We provide service to over 86.5 million customers, traveling in and out of New York and Connecticut. A subsidiary of the Metropolitan Transportation Authority, Metro-North Railroad is one of the busiest commuter railroad in the nation. MTA Metro-North Railroad strives to provide a safe and reliable commute, excellent customer service and rewarding opportunities to its employees.
+
+Position Objective
+
+
+The Assistant Director – EAM Technology and Data Science is a key technical resource for MNR’s EAM Program. This position is responsible for the setup, design, implementation and continued maintenance and management of Metro North’s interim EAM system. The individual to assume this position will become an expert (if not already) in the set-up and configuration of the EAM Infor software and associated packages including the design and configuration of mobile applications meeting the overall business requirements. They will also create, as needed, business specific Infor and Cognos reports, as well as manage the overall maintenance of the EAM system including; user set-up, group and security definition, and delivery of KPI start centers defined around specific business roles.
+This Assistant Director directly supports the Director of EAM Programs and liaise with EAM support groups throughout Metro North’s operational environment – supporting all phases of the EAM program implementation from the identification of requirements and creation of business and functional specifications and assistance defining systems processes, in line with defined business processes. They will also provide input on all data activities including data validation, cleansing activities, as well as defining the ETL (Extract, Transform and Load) approach for all existing data which will be integrated into the new solution and will assist in creating a data analysis framework to ultimately assist in the delivery of a decision support framework/system to better analyze and transition data to actionable intelligence.
+
+Responsibilities
+
+
+Assisting the business to identify and collect EAM data, and the reporting of data and system survey findings
+Developing asset data and location data hierarchies
+Identification and specification of Decision Support systems and analysis
+Development of cross systems data validation and cleansing procedures
+Development of mapping tables and business objects to assist in smooth inter-system data exchange
+Development of data interfaces to external systems, as well as systems integration points
+Development of business reports, KPI’s and Dashboards
+
+Required Qualifications
+
+
+Highly skilled in Enterprise Asset Management data requirements
+Must be self-motivated, with the ability to motivate others and influence decisions
+Strong computer skills with working knowledge of Microsoft Word, Excel and Access. A good understanding of databases
+Strong knowledge of data integrity principles
+Strong knowledge of relational databases
+Strong Computer Development knowledge in at least 2 structured relational databases
+Strong business administrative skills to provide written reports and spreadsheet manipulations
+Must be able to demonstrate a high level of initiative, professional integrity and demeanor
+Ability to work independently as well as in groups to achieve defined goals and objectives
+Strong written and verbal communication skills and interpersonal skills with the ability to effectively communicate at all levels of the company and with outside agencies
+Strong organization, administrative and management skills with ability to effectively manage multiple tasks simultaneously
+Ability to manage many diverse activities simultaneously
+
+Preferred Qualifications
+
+
+Experience of Project and Program Management principles
+Working knowledge of windows applications, specifically, MS Publisher, Visio, and MS Project
+
+Required Education/Experience
+
+
+Bachelor’s Degree in Engineering, Business or related field
+Minimum of seven (7) years of experience in Enterprise Asset Management or database management
+Minimum four (4) years of experience of Software Development using at least 2 relational databases
+Minimum three (3) years of experience delivering data strategies, business Intelligence and Systems Analysis Activities
+
+Preferred Education/Experience
+
+
+Experience of EAM/ERP or other Enterprise Systems configuration
+Master’s degree in Engineering, Business or related field
+Transit Working Knowledge – particularly with a commuter railroad
+
+Other Information
+
+
+As an employee of Metro-North Railroad you may be required to complete a New York State financial disclosure statement, if you earn more than $101,379.00 or if you hold a position designated as a policy maker.
+Employees driving company vehicles must complete defensive driver training once every three years for current MNR drivers; or within 180 days of hire or transfer for an employee entering an authorized driving position.
+
+Selection Criteria
+
+
+Due to the competitive nature of the selection process, not all qualified candidates who meet the minimum requirements for the position are guaranteed an interview. To be selected for a position, one must meet the following criteria: (1) satisfy the minimum requirements listed in the job posting, (2) if applicable, successfully pass a written and practical exam, (3) satisfy a background investigation (including but not limited to, employment, education, and criminal history), and (4) pass a verbal interview. Metro-North may also require the applicant to undergo a physical ability test, and, if the Company extends a conditional offer, may require him or her to undergo a medical examination, which may include toxicological testing. Failure to pass any step within the hiring process will result in the disqualification of your application.
+Additional Criteria for Current Employees: Current Metro-North employees must be in active service to be eligible for consideration. Agreement Employees applying for a position outside of their present craft are required to have worked in your current union for at least one (1) year preceding the Application Deadline to be eligible to apply for a posted position, and have completed the agreed upon formal training commitment, including on-the-job training or lock-in requirement, if applicable (for example: Signal Trainee, Foreman-In-Training, etc.). If you are transferring to another craft, you may be required to forfeit your seniority in your present union. Non-agreement employees must have worked in your current position for a minimum of one (1) year preceding the Application Deadline. Along with a background investigation (including but not limited to, employment, education, and criminal history), employees are also subject to an internal investigation, which includes an evaluation not limited to discipline records and performance assessments.
+We offer a competitive salary and a comprehensive benefits package. If interested, please apply online at www.mta.info
+
+How To Apply
+
+
+ALL APPLICANTS MUST APPLY ONLINE TO BE CONSIDERED. METRO-NORTH NO LONGER ACCEPTS HARD COPIES OF RESUMES.
+Qualified applicants can submit an online application
+
+When applying for positions, please ensure that you attach a resume during the application process and that you receive a confirmation e-mail that your application was accepted. If you do not receive an email confirmation, your application may not have been received and will not be able to be considered after the deadline date. If you encounter problems, please call the BSC Customer Management Center at (646) 376-0123 Monday through Friday (except MTA-HQ holidays), 8:30am - 5:00pm.
+EMPLOYEES WHO DO NOT APPLY ON LINE VIA THE INTRANET MAY BE DISQUALIFIED FOR FURTHER CONSIDERATION FOR THIS POSITION.
+MTA and its subsidiary and affiliated agencies are Equal Opportunity Employers, including with respect to veteran status and individuals with disabilities.
+The MTA encourages qualified applicants from diverse backgrounds, experiences, and abilities, including military service members, to apply.

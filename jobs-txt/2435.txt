@@ -1,0 +1,34 @@
+JOB OVERVIEW
+Are you a Data Scientist with significant experience creating Machine Learning Algorithms to predict data outcomes
+We need someone like you to predict biological data associated with plant breeding.
+As a Data Scientist with significant experience with mathematical statistics and predictive modeling, you will enjoy putting your programming expertise in either “R” and/or “Python” to good use as you help agricultural breeders in the field who are running trials.
+As a Data Scientist with machine learning expertise, your Master of Science or PhD in a quantitative discipline will be an excellent contribution to the Biometrics Team at BASF as you work on research and development projects involving statistical analysis, machine learning, and data visualization. This is a full-time contractor position subject to renewal after the end of the initial contract.
+Purpose
+The Biometrics Team at Research Triangle Park, North Carolina is looking for a graduate level contractor who will contribute to the team’s breeding analytics pipeline with insights gained from analyzing and integrating heterogenous data sets including crop yield trials data, genomic data, management practices and environmental data.
+Responsibilities
+Intuitively framing problems and determining the appropriate analytical approaches to solve them.
+Assisting with data collection, ingestion, wrangling, cleansing, and verifying the integrity of data used for analysis.
+Conducting exploratory analysis to extract insights and uncover important groups, trends, and relationships in data.
+Selecting features, building, and optimizing classifiers using machine learning techniques
+Support the development of analytics pipelines.
+Requirements
+Must have Master of Science or a PhD in a quantitative discipline such as Statistics, Engineering, Mathematics, Data Science, Statistical Genetics, or a related field.
+Demonstrated proficiency in either / both of the following programing languages: R, Python.
+Demonstrated proficiency in Unix/Linux, and SQL.
+Mastery of probability & statistics (Descriptive and Inferential Statistics), machine learning (regression, classification, neural networks).
+Proven ability to think strategically and solve problems creatively.
+Outstanding verbal and written communication skills. Ability to assume ownership of tasks, manage workload, and meet deadlines.
+A drive to learn and master new technologies and techniques. Experience and interest in agriculture/biological data is a plus.
+Job Types: Full-time, Contract
+Salary: $50.00 per hour
+Schedule:
+8 hour shift
+Education:
+Master's (Required)
+Experience:
+Machine Learning: 1 year (Preferred)
+R: 1 year (Preferred)
+Python: 1 year (Preferred)
+Unix/Linux: 1 year (Preferred)
+SQL: 1 year (Preferred)
+Work Location: One location

@@ -1,0 +1,49 @@
+Job Description:
+
+Headquartered in Alpharetta, Georgia, National Christian Foundation (NCF) is a nonprofit grantmaking ministry that provides creative giving solutions and inspires biblical generosity among Christian families, advisors, and charities. NCF has received over $21 billion in contributions and made over $15 billion in giver-recommended grants to more than 71,000 charities. NCF is an industry leader in accepting gifts of appreciated assets such as stocks, real estate, and business interests, which enable givers to save taxes and maximize charitable gifts. We combine a faith-based approach and like-minded local presence with the support and expertise of a trusted national organization. Learn more at www.ncfgiving.com.
+NCF is looking for a Director of Data & Analytics that will be responsible for designing and building our next generation data platform for data-driven decision making & self-serve analytics across the organization. This team owns building and managing our data platforms and data flows, supports critical data tooling, and provides analytics resources and guidance throughout the organization. This will include designing and planning the migration from our existing data platform to our next generation data platform.
+We are looking for a goal-driven leader with technical and management experience to accelerate our journey to foster a data-driven culture, provide operational and decision support, and improve business and customer support. In this role, you will be accountable for the end-to-end data & analytics platform for the entire organization.
+This is a generational opportunity to impact and influence the design, architecture, and build out of our entre data platform. This platform will enable NCF to grow and scale in accomplishing our mission of seeing lives changed by mobilizing resources across literally thousands of Christian ministries through inspiring biblical generosity.
+This role can be remote. We are hiring in the following states: AL, AR, AZ, CO, CT, FL, GA, IL, KS, KY, MI, MN, NC, NY, PA, SC, TN, WA, WI.
+Reports to: SVP, Software Engineering
+Management/Supervision: Yes
+Duties & Responsibilities
+Essential Functions
+Design the overall end-to-end data platform to support NCF’s entire business and develop the migration strategy from our existing data platform.
+Drive the data analytics and data science strategy across the organization.
+Direct and manage the team around our various data and analytics platforms.
+Mentor and help guide team members to realize their full potential.
+Foster cross-team collaboration to execute complex projects.
+Energizing our people to see the possibilities for efficiency, effectiveness of using modern data thinking, methods, and architecture.
+Defining the future data architecture and operating model based on modern thinking including data mesh, lake house, domain driven architecture and using UX techniques to uncover high value user journeys.
+Define, design and drive ML capabilities from the ground up; collaborate with business stakeholders to ensure ML solutions are adopted to successfully deliver the business outcomes.
+Find great answers to complex and ambiguous questions and collaborating across teams to develop their data architectures.
+Knowledgeable and conversant with modern computing paradigms; always curious and driven to learn more and applying this to your work and demonstrate expertise in modern digital thinking including domain driven design, data mesh, data lake, APIs, microservices, cloud, etc.
+Other Duties as Assigned
+Required Experience:
+
+Experience, Education
+Postgraduate work or equivalent experience (Masters or PhD) in a quantitative field such as math, physics, computer science, statistics, etc.
+Minimum of 5 years’ experience in a leadership position managing an analytics team including vendors and partners.
+Hands on experience with Python, SQL and relational databases and cloud-based data warehouse (Snowflake, Azure Synapse, etc.)
+Have previously led an organization-wide data platform project.
+Experience with analytic and data visualization tools (PowerBI, Tableau, Qlik, etc.)
+Experience in AI, Python programming and one of the following Deep Learning frameworks (PyTorch, MXNet, TensorFlow, Keras) and big data technologies (Hive, PySpark, Synapse, Databricks, etc.)
+Ability to both use existing libraries (ML, Deep Learning, Re-enforcement Learning) as well as design algorithms ground-up.
+Knowledge and experience working within cloud computing environments (Azure preferred).
+Ability to create effective relationships, listen, influence, and collaborate internally and externally at all organizational levels.
+Ability to work through ambiguous situations with a can-do attitude and proactively determine creative solutions.
+Desire to operate at the intersection of technology and business, spearheading organizational, operational, and technological change.
+Strong oral and written communication skills and ability to formulate and deliver insights around complex business problems in a thoughtful and persuasive manner.
+Exceptionally strong personal initiative, good business instincts, and comfort with ambiguity.?
+Deep understanding of analytics and business technology markets, trends, and dynamics.?
+Ability to manage multiple simultaneous high-priority projects (often including project management of cross-functional teams).
+Good written and verbal communication skills at all levels of the organization.
+Christ Centered
+Profession that Jesus Christ is Lord and Savior.
+Lifestyle that is consistent with the teachings of Jesus and the Bible.
+Agreement and support of NCF’s Statement of Faith.
+Demonstrates the values of faithfulness, love, and service.
+Applicants should read more about NCF’s vision, mission, and beliefs by visiting our website at www.ncfgiving.com/about/
+If you are interested in serving at NCF, please apply online at www.ncfgiving.com/careers-at-ncf/
+From: National Christian Foundation

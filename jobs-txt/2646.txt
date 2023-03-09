@@ -1,0 +1,35 @@
+COVID-19 continues to significantly impact our employees, families and communities. With employee health and safety as our top priority, and as a federal contractor, Lockheed Martin is taking action to address the increased risk and uncertainty COVID-19 variants pose in the workplace and ensuring we meet our commitments to national security.
+
+To uphold safety for all employees, we will continue to request vaccination status for all Lockheed Martin employees including new hires. All current and newly hired employees are required to follow onsite safety measures based upon the COVID-19 Community Level at the specific work location.
+Description:Work with stakeholders throughout the organization to identify opportunities for leveraging company data to drive business solutions.
+Mine and analyze data from databases to drive optimization and improvement of product development, marketing techniques and business strategies.
+Assess the effectiveness and accuracy of new data sources and data gathering techniques.
+Develop custom data models and algorithms to apply to data sets.
+Use predictive modeling to increase and optimize customer experiences, ad targeting and other business outcomes.
+Develop company A/B testing framework and test model quality.
+Coordinate with different functional teams to implement models and monitor outcomes.
+Develop processes and tools to monitor and analyze model performance and data accuracy.
+Basic Qualifications:
+Statistics – Good applied statistical skills, including knowledge of statistical tests, distributions, regression, maximum likelihood estimators, etc.
+
+Proficiency in statistics is essential for data-driven companies.
+Machine Learning – good knowledge of machine learning methods like k-Nearest Neighbors, Naive Bayes, SVM, Decision Forests.
+
+Strong Math Skills (Multivariable Calculus and Linear Algebra) - understanding the fundamentals of Multivariable Calculus and Linear Algebra is important as they form the basis of a lot of predictive performance or algorithm optimization techniques.
+Desired Skills:
+Top Secret Clearance
+Strong Software Engineering Background
+Hands-on experience with data science tools
+Problem-solving aptitude
+Analytical mind and great business sense
+Degree in Computer Science, Engineering or relevant field is preferred
+Proven Experience as Data Analyst or Data Scientist
+BASIC QUALIFICATIONS:
+job.Qualifications
+
+Lockheed Martin is an Equal Opportunity/Affirmative Action Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, pregnancy, sexual orientation, gender identity, national origin, age, protected veteran status, or disability status.
+Join us at Lockheed Martin, where your mission is ours. Our customers tackle the hardest missions. Those that demand extraordinary amounts of courage, resilience and precision. They’re dangerous. Critical. Sometimes they even provide an opportunity to change the world and save lives. Those are the missions we care about.
+
+As a leading technology innovation company, Lockheed Martin’s vast team works with partners around the world to bring proven performance to our customers’ toughest challenges. Lockheed Martin has employees based in many states throughout the U.S., and Internationally, with business locations in many nations and territories.
+EXPERIENCE LEVEL:
+Experienced Professional

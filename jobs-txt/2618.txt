@@ -1,0 +1,31 @@
+Our Opportunity:
+Chewy is looking for a Data Scientist for our Fulfillment & Logistics org in Boston, MA, Minneapolis, MN, or Plantation, FL. We are looking for high caliber Data Scientist to join our growing Data Science. You'll bring experience spanning Machine learning, Advanced Statistical Techniques, Data Science, Software Engineering and leadership skills. This role offers a great opportunity for professional growth with the leading online pet retailer in the US.
+What You'll Do:
+Work collaboratively with Engineering and Product teams to deliver technologies that improve Chewy’s fulfillment and Logistics operations.
+Plan, manage and execute on data science projects independently, albeit drawing upon the input and expertise from multiple stakeholders
+Drive continuous improvements to the assets that are delivered, bringing in best of new advances in the space
+Understand and manage technical and operational aspects of running machine learning systems at scale.
+Drive development of data science practices across Chewy teams. Push adoption of emerging and relevant approaches to solve Supply Chain Optimization problems.
+Establish strong working relationships at all organizational levels across different functional teams. You may work with multiple teams and systems across Fulfillment, Supply Chain, and Business Intelligence.
+What You'll Need:
+MS or PhD in field (Computer Science, Mathematics, - Machine Learning, AI, Statistics, or equivalent).
+5+ years of experience working in data science or applied machine learning.
+Deep understanding of regression modeling, forecasting techniques, time series analysis, machine-learning concepts such as supervised and unsupervised learning.
+Demonstrated experience of translating ambiguous customer requirements into clear problem definitions and delivering them.
+Track record dealing with complex and ambiguous problems that drive business value.
+Good programming practices, ability to write readable, fast code.
+Excellent verbal and written communication skills. Able to explain details of complex concepts to non-expert stakeholders in simple understandable way.
+Working knowledge of AWS data toolset (Glue, Athena, Sagemaker etc).
+Experience in hiring and developing junior members.
+Position may require some travel.
+Bonus:
+Experience in a fulfillment or logistics or e-commerce environment.
+If you have a disability under the Americans with Disabilities Act or similar law, or you require a religious accommodation, and you wish to discuss potential accommodations related to applying for employment at our company, please contact HR@Chewy.com.
+To access Chewy’s Privacy Policy, which contains information regarding information collected from job applicants and how we use it
+If you have a disability under the Americans with Disabilities Act or similar law, and you need an accommodation during the application process or to perform these job requirements, or if you need a religious accommodation, please contact CAAR@chewy.com.
+
+If you have a question regarding your application, please contact HR@chewy.com.
+
+Chewy is committed to equal opportunity. We value and embrace diversity and inclusion of all Team Members.
+
+To access Chewy’s Privacy Policy, which contains information regarding information collected from job applicants and how we use it

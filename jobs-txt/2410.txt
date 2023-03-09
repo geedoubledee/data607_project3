@@ -1,0 +1,49 @@
+About PerfectRec
+PerfectRec is a machine-learning powered decision engine focused on helping people find good, personalized recommendations without exhaustive research. We are starting with electronics, then other products such as cars and clothing, but ultimately we'll expand into other, more complicated decisions such as where to live or work. (Since you're reading this, our non-ML based recommendation is that you really consider working here.)
+
+We are starting with smartphones, laptops and other consumer electronics since there is an immediate and growing need for reliable recommendations for these products. Spammy search results, fake reviews, and paid affiliate sites make it nearly impossible to get an honest and relevant product recommendation. Finding the right item to meet your unique needs is tricky. And making the wrong choice based on bad information is a frustrating waste of time and money. We hope to attract billions of users, collectively save them billions and billions of hours on their product searches, and provide a similar amount of value by guiding our users to the right products for themselves.
+We're solving the problem by combining actual human subject-area experts with machine learning to help everyone — regardless of their expertise — find their perfect product, quickly. To do that, we guide users through a series of questions about what they're looking for. After each answer, we share updated recommendations and encourage answering more questions to further improve our recommendations. Ultimately, we will get more information about a user's specific needs from a few quick multiple-choice questions than Amazon or Google can deduce from a search query and their past browsing data. This will enable us to make better recommendations tailored to each user's unique needs.
+A Small Team Where You Can Have A Big Impact
+PerfectRec is a small, early-stage startup where you can have a big impact. Our founding team has experience building successful startups and working at big organizations, like Google, Amazon, Twitch and UC Berkeley. We are growing fast, and looking for people who are excited to build a new product where they can have a big impact.
+Founder Led, Founder Funded
+Our CEO Joe Golden bootstrapped his first startup, Collage.com, to ~$100m in revenue and a successful exit in March 2021. He's using some of the proceeds from that sale to launch PerfectRec and give us a long runway of at least 3 years to build a great team and outstanding decision-engine.
+Working At PerfectRec
+We are an all-remote company, so we don't care where you live as long as you work well in a fast-paced, collaborative remote environment.
+PerfectRec is an Equal Opportunity Employer. We are committed to finding the best candidates for every role and giving them the tools and guidance they need to succeed. Our all-remote structure enables us to recruit anywhere in the world, so our talent pool isn't limited to a few big cities, and our asynchronous structure allows our team to work when it's best for them. We celebrate diversity and are committed to creating an inclusive environment for all employees.
+Learn more about how we work and our differentiating values.
+What You'll Bring
+Strong sense of ownership. Ownership is taking responsibility for the outcomes of a task or project. You'll relish these ownership opportunities and ensure that tasks, projects, or the team are making positive forward progress.
+Clear and concise communication. Building software is a team sport that relies heavily on great communication. You'll be responsible for clear, thoughtful, and concise written and verbal communication. This includes the ability to give and receive feedback with empathy and understanding whether in a code review or a 1:1.
+Willingness to teach and learn. We're always evolving with new tools and practices. You'll be willing to jump in and learn unfamiliar technologies while also bringing others along with you. Mentorship and helping others learn are important parts of achieving this.
+Creative problem solving. Creating a decision engine that can make recommendations across wide ranging domains is hard, and the potential data sources are limitless. You'll be able to evaluate and explore existing sets of data, suggest new sources of data, and be able to build models that learn from this data in novel ways.
+Balance of perfection and pragmatism. Software has a lot of trade-offs and ways to solve problems. You'll be able to recognize and balance the trade-offs between long-term system health and bringing value to customers faster. Your tooling choices will reflect ability to solve the problem the best way and not just the latest and greatest.
+What You'll Do
+Create and explore datasets for powering recommendations, working closely with domain experts.
+Prototype models for making recommendations in new domains.
+Identify ways to evaluate and compare competing models.
+Add new capabilities that are shared between models in different categories.
+Solve technical problems across the stack and contribute to all parts of our code base, including creation of our internal machine learning library.
+Share your expertise and experience to grow with the team.
+Collaborate with product, design, and engineers to understand customer needs, design solutions, and prototype, launch, and iterate.
+Build a product that is genuinely loved by users and respects their time.
+Relevant Experience
+We believe that everybody has the ability to learn and grow. So, relevant doesn't mean required or that you need everything on the list (this isn't a Pokédex). If you've used other tools, languages, and frameworks that are similar to what is listed, please apply! We only list specific tools so that you know the tech stack you're walking into.
+Python or R.
+Exploratory data analysis and data visualization.
+Classical machine learning techniques like classification, regression, regularization, and cross-validation.
+sklearn, Keras (or other deep learning frameworks like Tensorflow and PyTorch).
+Recommender systems, including learning-to-rank.
+SQL.
+Technical writing.
+Salary & Benefits
+We believe in offering generous compensation and benefits tailored to our all-remote workplace. We pay well because we want to work with highly motivated people that will help make the company successful.
+Pay Range and Level of Role
+$130,000 - $300,000 salary and stock options which vest over 4 years. We are hiring data scientists with different levels of experience. Compensation is based on background and experience.
+Benefits
+100% remote and no cost-of-living pay cuts. We want you to work where you work best and we are not going to "adjust" your pay if you move somewhere with a lower cost of living.
+We pay 100% of your and your dependents' healthcare premium in a high-quality, national PPO plan for US-based employees. For international employees, we will work with you if you're not covered by your national health plan.
+We will buy the office equipment you need to succeed. Lots of companies are miserly about equipment. We are not going to do that because your time is valuable.
+401k with generous matching. Once we have 20 employees, we'll set up a 401k program with generous matching.
+Generous PTO. We trust everyone to take time off appropriately for themselves. We're pro-regular vacations - not taking regular breaks isn't good for individuals or the team. Once we have 20 employees, we will establish a more formal PTO policy.
+Worry-free sick days. If you're sick, take the time off to get well. Just let your manager know as soon as practicable.
+Free products that we're reviewing. We are becoming product experts together, and we will send you cool stuff like monitors and TVs as we add new recommendation lines. (Unfortunately, we probably won't be able to do this for cars.)

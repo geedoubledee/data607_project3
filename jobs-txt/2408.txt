@@ -1,0 +1,50 @@
+What will your day look like?
+You will be responsible to provide hands-on guidance to the Advanced Analytics team and lead the development, validation, documentation, and implementation of statistical and advanced machine learning models that are used for decisioning and product management throughout the member lifecycle, including segmentation, optimization, and prescriptive analytics. The Manager will develop and maintain collaborative relationships and leverage effective communication with internal clients to understand the business needs, propose appropriate quantitative solutions, and develop data-driven recommendations to improve member experience and achieve business objectives. The incumbent will drive and deliver data driven recommendations and decisions for the development and implementation of policies and business plans related to loan origination, portfolio management, loss forecasting and portfolio monitoring. The Manager, Decision Science will proactively collaborate and provide insights with cross-functional partners including Business Intelligence, Model Risk Management, and Information Technology (Database Engineers, Application Development and Information Security).
+Requirements to do the job include the ability to clearly and concisely deliver presentations of analysis results and recommendations to senior leadership and business partners. The incumbent is a key contributor to the success of the Risk Analytics team. General direction is provided by the Sr. Manager, Decision Science and Insights.
+Responsibilities
+Do you see yourself doing this?
+Set and execute project plan for the advanced analytics team and partner with technology team to develop and execute strategy on data management and model implementation.
+Manage the advanced analytics team to solve business problems and support business and risk strategic objectives. Collaborate with various partners to prioritize requests/needs and provide a holistic view of the analysis.
+Lead data scientists and data analysts to deliver end-to-end model development and analytics projects throughout loan life cycle management (i.e. acquisition, origination, account management and collection).
+Collaborate with stakeholders across the department to understand business needs and solve business problems through rigorous data analysis, experimentation, modeling, algorithms, and Visualizations.
+Provide guidance and perform advanced data analytics (e.g. data mining, statistical analysis, predictive analytics), and develop, document, and support the deployment of quantitative models, which are used for decisioning and product management through member lifecycle including acquisition, activation, utilization, relationship deepening and retention.
+The risk analytics projects may include but not be limited to: automated credit decisioning, risk rating models, pricing models, loan loss forecasting, as well as CECL models and validation.
+Acquire and integrate data from multiple data sources for analysis, perform exploratory to advanced predictive and/or modeling analytics, and identify data relationships such as trends, patterns and correlations in order to solve business questions as well as provide actionable recommendations.
+Leverage multiple complex data sources such as credit bureau reports, and customer supplied information at large scale to optimize approve / decline and credit line assignment decisions.
+Be able to presents data and analysis in a clear and concise manner allowing the internal clients to quickly understand the results and make data driven decisions.
+Work jointly with engineers to deploy models into production environment.
+Review and perform model validation and documentation of newly-developed predictive models to ensure they follow best industry practices and comply with internal and regulatory requirements.
+Stay knowledgeable about new processes, technology, and best practices in data analytics and data science
+Promote a risk-aware culture, ensure efficient and effective risk and compliance management practices by adhering to required standards and processes.
+Deliver superior results through quality execution and best practice adaptation
+Demonstrate courage, ability and agility to understand and address organizational transition in real-time; establish expectations for the unexpected
+Translate strategic and operating plans into meaningful direction of projects, goals, priorities and activities
+Capture, analyze, and understand the internal environment, team dynamics, and talent capabilities to address organizational refinement, agility and growth
+Champion Employee/Internal Customer Engagement, employee development and all cultural hallmarks through a strong leadership signature and a growing command of Alliant’s leadership competencies
+Continually assess and provide discerning development, insightful coaching and talent utilization/optimization for direct reports
+Apply High Performance Management practices in leading an engaged workforce in order to effectively leverage the full potential and talent of this function
+Provide a structural and consistent approach to ensure that individual development plans are in place, performance management is consistent, performance management process is respected and followed, and coaching and feedback are provided on a regular and dynamic basis
+Work with your direct reports and help seek out growth opportunities for your reports; continually challenge them to maximize their engagement and productivity
+Help propagate messaging across the organization that fosters a broader knowledge of Credit Risk, promotes collaboration and influences constructive and positive change
+Adhere to and ensure compliance of all business transactions with policy and process of the Bank Secrecy Act Ensures compliance with all applicable state and federal laws, company procedures and policies. Maintains integrity and ethics in all actions and conversations with or regarding members and their accounts; complies with Privacy Act directives.
+Qualifications
+What makes you a great fit?
+Required
+PhD. in Mathematics, Statistics, Quantitative Finance, Engineering, Computer Science, or another quantitative field required, and you have
+You’ll be a great fit if in addition to the completion of an Advanced degree (M.S.
+6+ years of data analytics and modeling experience in the financial services industry, required; consumer lending experience, preferred
+Experience with full cycle model development and project delivery
+Working experience as lead role in the team of analysts and/or modeling project
+Demonstrated leadership, management, collaboration, and written/verbal communication skills
+Hands-on work experience on building and deploying decisioning models that are used for one or more of the areas in credit risk, collections, marketing, or fraud
+Expert knowledge in one of the statistical programming languages such as Python or R, and database languages such as SQL
+Basic knowledge on lending, credit risk measures (PD, LGD and EAD)
+Excellent communication skills and ability to present complex analyses and technical subject matter clearly and concisely to internal customers with different technical backgrounds
+Strong teamwork and interpersonal skills to collaborate with people across functions
+Self-motivated and impact-oriented
+When you’re happy, we’re happy!
+As a thank you for joining our team, you’ll benefit from:
+Competitive medical, dental, and free vision benefits
+Competitive compensation plan
+Contributions towards gym memberships
+Generous PTO and banking holidays off

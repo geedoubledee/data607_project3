@@ -1,0 +1,52 @@
+Special Instructions to Applicants : All interested applicants must attach a cover letter and a resume in the Supporting Documents section of the application in a PDF format . Please note that the applicant tracking system does not convert attachments in Word format successfully.
+Position Summary
+OpenStax (part of Rice University) is a non-profit textbook publisher, learning software producer, and platform for learning research. Our mission is to provide every student and instructor with free access to high-quality teaching and learning resources that help them succeed in their educational journey. We have created a library of more than 50 free and openly licensed college textbooks that have served millions of students across the globe, resulting in over one billion dollars in savings. We have created additional software and course materials to help students read with more engagement and practice more effectively, incorporating our research team’s expertise in cognitive science and machine learning.
+The Business Intelligence Analyst I reviews data to produce market intelligence reports. This individual is responsible for development of complex technical analysis and design, new programming, modifications, scheduling, tuning, testing and maintenance of systems in support of new and existing Business Intelligence and other projects.
+OpenStax seeks to become an organization that continuously strives to learn, reflect, and make actionable better policies and practices for diversity, equity, and inclusivity at work and in education.You will join a team who is driving change at a pivotal phase of our evolution, as we deliver high quality educational content, ranging from textbooks to simulations and videos to exercises to full courses, and give educators and learners the support they need in core college and high school disciplines.
+We celebrate diversity of all kinds and we are committed to nurturing an inclusive environment. We seek to hire, develop, and retain talented people from all backgrounds. We are part of a private university, but our team comes from a variety of backgrounds and includes people who attended universities and community colleges, as well as people who did not graduate from college.
+The hiring range is $73,120 to $98,710. Remote work is acceptable. Rice Benefits . This position requires U.S. work authorization.
+Minimum Requirements:
+Bachelor's degree
+In lieu of the education requirement, additional related experience, above and beyond what is required, on an equivalent year for year basis may be substituted
+5 years of experience analyzing and reporting on data from different systems
+In lieu of the experience requirement, additional related education, above and beyond what is required, on an equivalent year for year basis may be substituted
+Essential Functions
+Provides complex analysis, conceptualize, design, implement and develop solutions for critical business intelligence (BI) components
+Performs dataflow, system and data analysis and develops meaningful and useful presentation of data in BI applications
+Plans and implements standards, defines/codes conformed global and reusable objects, performs complex database design, data modeling EDW and programming and streamline the systems
+Consults with client groups to assess user needs and understand the business processes; converts user requirements into technical solutions
+Contributes to data analysis, designs and developments of new and ongoing business intelligence (BI) projects involving complex EDW structures OR on OLTP systems
+Collaborates closely with internal and external teams to understand and apply changes/modifications impacting data warehouse
+Conducts and participates in code walkthroughs and document technical design
+Assists in quality control testing
+Meticulously follows software methodologies defined
+Monitors ETL processes, system audits, dashboard reporting and presentation layer functioning and performance
+Pro-actively resolves issues as found
+Supports the performance of systems
+Follows the release cycles and implements on-time delivery of bug fixes, change requests and enhancements
+Troubleshoots and solves technical problems
+Performs all other duties as assigned
+Additional Functions
+Light web design and technology work
+Database design and structure
+Required Qualifications
+Strong programming skills, relational database skills with expertise in advanced SQL and PL/SQL
+Skills in Shell Programming and any object oriented programming language
+Mastery in business intelligence and data warehousing concepts and methodologies
+Expert in data modeling and designing data warehouse from heterogeneous OLTP sources
+Ability to design physical and reporting data models for seamless cross-functional and cross-systems data reporting
+Able to design complex ETL’s extracting data through XML files, RDBMS and flat file sources
+High expertise on databases, data acquisition, ETL strategies and tools and technologies
+Mastery in reporting/analytics and data visualization tools
+Ability to prioritize workload and work with minimal supervision
+Experience with scripting language like Python, Shell, JavaScript, HTML5
+Broad understanding of multiple existing and next generation business intelligence tools and technologies
+Ability to mentor lower level developers on definitive tasks
+Preferred Qualifications
+Analytical mindset
+Data visualization and interpretation
+Familiarity with HTML and CSS
+Experience with postgres databases
+Experience with Salesforce and/or Pardot
+Rice University is an Equal Opportunity Employer with commitment to diversity at all levels, and considers for employment qualified applicants without regard to race, color, religion, age, sex, sexual orientation, gender identity, national or ethnic origin, genetic information, disability or protected veteran status.
+Current Rice University COVID policies, which include vaccination, face mask, testing, gatherings, occupancy limits, and travel policies can be found here: https://coronavirus.rice.edu/policies

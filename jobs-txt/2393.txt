@@ -1,0 +1,86 @@
+At Bayer we’re visionaries, driven to solve the world’s toughest challenges and striving for a world where ,Health for all, Hunger for none’ is no longer a dream, but a real possibility. We’re doing it with energy, curiosity and sheer dedication, always learning from unique perspectives of those around us, expanding our thinking, growing our capabilities and redefining ‘impossible’. There are so many reasons to join us. If you’re hungry to build a varied and meaningful career in a community of brilliant and diverse minds to make a real difference, there’s only one choice.
+
+Director of Applied Machine Learning
+
+YOUR TASKS AND RESPONSIBILITIES
+
+The primary responsibilities of this role, Applied Machine Learning Scientist are to:
+
+Independently seeks and builds collaborations inside and outside functions within Bayer as well as externally in academia to help modernize the drug development pipeline while collaborating with subject matter experts to provide best in class ML products;
+Provides technical leadership in the design and deployment of scalable tools and services for machine learning training and inference, as well as the selection of the appropriate cloud and on premises infrastructure for production level machine learning models with implementation of CI or CD solutions;
+Directly reports to the most relevant R&D decision making bodies and leads project teams comprised of cross functional individuals;
+Ensures scientific rigor and the application of top tier ML based solutions for the analysis of high dimensional biological datasets, such as transcriptomics or connected multi omics transcriptomics or proteomics or imaging datasets;
+Expertly comprehends and directs the development of solutions for constructing interpretable ML goods while incorporating ideas from wet lab scientists;
+Prior experience with algorithms for single-cell RNA seq data aggregation and analysis would be preferred;
+Applied ML Scientist will be responsible for providing leadership and overall guidance in establishing capabilities for machine learning based analysis of high dimensional biological datasets, such as transcriptomics or connected multi-omics, to support target identification and validation, as well as compound mode of action characterization and hit prioritization, in the applied machine learning group;
+Scientist will be responsible for the conception, execution, and delivery of machine learning solutions to business partners;
+Ideal candidate would be responsible for guiding and motivating others;
+Demonstrating leadership by identifying relevant gaps in the implementation of a modernized drug development pipeline;
+Experience with production machine learning models, and being willing to speak up and provide insightful suggestions.
+You will be working in close collaboration with colleagues within DS & AI and IT organization as part of the broader PH R&D organization to establish enterprise-wide capabilities;
+The preferred locations for this role are Whippany, NJ or Boston/Cambridge, MA, but residence-based candidates located in the Eastern Time Zone of the US will also be considered. Relocation assistance may be offered for this role.
+Visa sponsorship may be offered for this role.
+
+WHO YOU ARE
+
+Your success will be driven by your demonstration of our life values, more specifically related to this position, Bayer seeks an incumbent who possesses the following:
+
+Required qualifications:
+
+Must have one of the following:
+Bachelor's degree with seven years of relevant experience, with a preference for experience in Machine Learning and a focus on Drug Discovery; OR
+Master's degree with at least five years of relevant experience, with a preference for experience in Machine Learning and a focus on Drug Discovery; OR
+Ph.D. with at least three years of relevant experience, with a preference for experience in Machine Learning with a focus on drug discovery;
+Expertise in leading teams with a strong emphasis on advanced analytics that are comprised of members from diverse backgrounds;
+Experience as a Technical Team Leader with demonstrated business acumen and knowledge of project leadership competencies;
+Capability to comprehend and present complex topics effectively and persuasively to R&D leadership teams, decision making bodies, and large audiences comprised of stakeholders from multiple functions;
+Demonstrated contributions toward implementation of machine learning strategy and roadmap including the best practices for deployment and implementation of models (cloud as well as on premises platforms);
+Highly self-motivated individual with exceptional analytic abilities and scientific rigor who aspires to scientific excellence;
+Familiarity with concepts and actors in molecular biology, such as the principles of gene regulation and the interactions and connections between genes, RNA, and proteins;
+Advanced knowledge about the inner working of omics technologies, notably transcriptomics and gene expression determination, ideally with knowledge of RNA seq data analysis.
+
+Preferred qualifications:
+
+Record of publications at prestigious conferences including ICML (International Conference on Machine Learning), NIPS (Neural Information Processing Systems), ICLR (International Conference on Learning Representations), and others.
+
+Employees can expect to be paid a salary of approximately between $145000 to $199800. Additional compensation may include a bonus or commission (if relevant). Other benefits include health care, vision, dental, retirement, PTO, sick leave, etc.. If selected for this role, the offer may vary based on market data/ranges, an applicant’s skills and prior relevant experience, certain degrees and certifications, and other relevant factors.
+
+#LI-US
+
+
+YOUR APPLICATION
+
+
+
+Bayer offers a wide variety of competitive compensation and benefits programs. If you meet the requirements of this unique opportunity, and want to impact our mission Science for a better life, we encourage you to apply now. Be part of something bigger. Be you. Be Bayer.
+To all recruitment agencies: Bayer does not accept unsolicited third party resumes.
+
+Bayer is an Equal Opportunity Employer/Disabled/Veterans
+
+Bayer is committed to providing access and reasonable accommodations in its application process for individuals with disabilities and encourages applicants with disabilities to request any needed accommodation(s) using the contact information below.
+
+
+
+
+IMPORTANT NOTE for POTENTIAL US CANDIDATES: Bayer expects its employees to be fully vaccinated against COVID-19. Bayer active employees are also expected to disclose their vaccination status and if fully vaccinated, provide proof of vaccination status to Occupational Medicine. Bayer defines fully vaccinated in alignment with CDC which is two weeks after completing the two-dose vaccine regimen or two weeks after completing the one-dose regimen. Additionally, Bayer employees are also required to comply with state, local and customer requirements.
+
+
+
+
+Location:
+United States : New Jersey : Whippany || United States : Massachusetts : Boston || United States : Massachusetts : Cambridge || United States : Residence Based : Residence Based
+
+Division:
+Pharmaceuticals
+
+Reference Code:
+734461
+
+
+
+
+Contact Us
+
+
+Email:
+hrop_usa@bayer.com

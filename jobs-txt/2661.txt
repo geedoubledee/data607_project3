@@ -1,0 +1,31 @@
+Company Description
+Hyperscience is transforming the future of work to elevate human potential. Our human-centered approach to automation enables a new era of human and machine collaboration that delivers dramatically improved organizational agility, without the legacy cost and burden of change management. By combining data, people, and processes into digital assembly lines, the Hyperscience Platform turns complex processes into simple, configurable workflows. Our industry-leading machine learning technology continuously learns and evolves, to involve humans only when needed. For more information, please visit www.hyperscience.com.
+Machine Learning (ML) is the core of our effort to automate the future work. We turn ML lab experiments into enterprise-ready AI solutions to solve complex machine perception and natural language understanding problems. This is an opportunity to work on the full lifecycle of an AI solution - you will research cutting-edge techniques in document understanding, which sits at the intersection of Computer Vision, NLP, and spatial modeling. You will take your idea from research to production and integrate your ideas directly into our product to drive a positive impact for users. Finally, you will build and maintain training, inference, and monitoring pipelines.
+Responsibilities
+Contribute to research efforts in the document understanding and extraction field
+Productionize models and auxiliary ML features into the application to serve enterprise customers
+Propose engineering and model improvements to refine Hyperscience’s document processing functionality
+Collaborate with team members to build common ML tools, frameworks, and infrastructure
+Frame open-ended real world product challenges into new AI-driven features and product offerings
+Qualifications
+Solid understanding of Math and CS fundamentals
+Strong analytical skillsKnowledge of modern ML/DL technologies (experience applying ML to real-world projects)
+Hands-on experience solving ML challenges in Pytorch
+Able to perform applied research projects and bring them to production
+Experience with one or more general purpose languages (Java, C/C++, Python, etc)
+Demonstrated ability to write high-quality code
+Team player with strong communication skills
+Proficiency in written and spoken English language
+The target base compensation range for this role: $191,000 - $235,000. Actual compensation will be dependent upon the individuals skills, experience, qualifications, geographical location, and our business needs and objectives. Our overall compensation packages include base salary, equity and the benefits and perks listed below. Our Talent Acquisition team will speak more about our Total Rewards philosophy and approach during the hiring process.
+*
+Benefits*
+Top-notch healthcare for you and your family
+30 days of paid leave annually to help nurture work-life symbiosis
+A 100% 401(k) match for up to 6% of your annual salary
+Stock options
+Wellness reimbursements for qualified expenses
+6-month parental leave
+A monthly childcare, education and elder care reimbursement for up to 2 dependents
+$50 internet expense reimbursements
+We are an equal opportunity employer. We welcome people of different backgrounds, experiences, abilities and perspectives. Qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, sexual orientation, gender identity, disability or protected veteran status.
+Job Type: Full-time

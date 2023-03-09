@@ -1,0 +1,27 @@
+The Opportunity:
+You’ll identify user requirements, implement, and maintain complex computer databases, and test and coordinate modifications to the computer database systems. You will ensure the performance of the system, comprehend the platform on which the database runs, and add new users to the system. You’ll plan and coordinate security measures, including data integrity, backup systems, and database security. You will work to enhance the quality of the data in existing repositories and prepare the data for migration to a new system. You’ll evaluate data quality, consistency, and adherence to standards and formulate plans for enhancing data quality and maturing the existing data holdings to align with the overarching data strategy. You will prepare the existing data for migration to the future systems and apply basic principles, theories, and concepts to job assignments. You’ll provide full competence in the area, solve a diverse range of complex problems, work with limited direction, and interface with internal and external customers.
+Join us. The world can’t wait.
+You Have:
+Experience with database administration of an Oracle Database Management System (DBMS), including Oracle Performance Tuning, Oracle Administration, Operating Systems (OSs), Scripting Languages, and Oracle Administration in a RedHat Linux and Solaris environment
+Experience with creating and modifying scripts
+Experience with participating in continuous improvement efforts in enhancing performance and providing increased functionality, including performing proactive maintenance, such as ensuring continued space availability, monitoring activity, and documenting problems, changes, and solutions
+Experience with testing and troubleshooting designed applications and their database connections
+Ability to provide software support for installation and testing of Oracle DBMS vendor patches, including installation and configuration of the Oracle patch utility
+Ability to obtain a security clearance
+Bachelor’s degree in Computer Science
+
+Nice If You Have:
+Experience with migrating on prem to AWS RDS
+Oracle DBA Certification
+Clearance:
+Applicants selected will be subject to a security investigation and may need to meet eligibility requirements for access to classified information.
+Create Your Career:
+Grow With Us
+Your growth matters to us—that’s why we offer a variety of ways for you to develop your career. With professional and leadership development opportunities like upskilling programs, tuition reimbursement, mentoring, and firm-sponsored networking, you can chart a unique and fulfilling career path on your own terms.
+A Place Where You Belong
+Diverse perspectives cultivate collective ingenuity. Booz Allen’s culture of respect, equity, and opportunity means that, here, you are free to bring your whole self to work. With an array of business resource groups and other opportunities for connection, you’ll build your community in no time.
+Support Your Well-Being
+Our comprehensive benefits package includes wellness programs with HSA contributions, paid holidays, paid parental leave, a generous 401(k) match, and more. With these benefits, plus the option for flexible schedules and remote and hybrid locations, we’ll support you as you pursue a balanced, fulfilling life—at work and at home.
+Your Candidate Journey
+At Booz Allen, we know our people are what propel us forward, and we value relationships most of all. Here, we’ve compiled a list of resources so you’ll know what to expect as we forge a connection with you during your journey as a candidate with us.
+We’re an equal employment opportunity/affirmative action employer that empowers our people to fearlessly drive change – no matter their race, color, ethnicity, religion, sex (including pregnancy, childbirth, lactation, or related medical conditions), national origin, ancestry, age, marital status, sexual orientation, gender identity and expression, disability, veteran status, military or uniformed service member status, genetic information, or any other status protected by applicable federal, state, local, or international law.

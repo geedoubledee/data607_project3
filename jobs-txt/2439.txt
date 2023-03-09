@@ -1,0 +1,47 @@
+*Nutrisystem is on a hybrid schedule. We are in-office Tuesday-Thursday and remote on Monday and Friday each week*
+
+Job Purpose:
+The Enterprise Data Warehouse (EDW) is the corporate repository of integrated operational data. Nutrisystem is moving from on-premises management of it’s Data Warehouse and Business Intelligence to cloud Data Management and reporting. Working with EIS and offshore resources, this role will lead the development of the cloud DW while supporting the current DW environment.
+
+Interaction with Others:
+External Contact: This position will work with external data and system vendors to exploit cutting edge Data Management technologies and integrate/export data following Nutrisystem security guidelines.
+Internal Contact: This position will have significant contact with
+Offshore development resources
+EIS physical IT resource management and Architecture staff
+Internal business sponsors and subject matter experts.
+
+Essential Job Responsibilities:
+Working with IT and business resources, support the Data Warehouse strategy and Business Intelligence initiatives:
+Lead development activities to migrate the current on-premises SQL Server DW to Snowflake on AWS.
+Gather requirements for Data Warehouse improvements and translate them to high level design documents including Physical Data Models. Provide technical architecture vision and recommend strategy/solutions.
+Design and develop transformation processes and data structures for the Data Warehouse following best practice procedures.
+Lead resolution of Data Warehouse load issues.
+Support the analytical needs of the business users. Build strong relationships to help identify opportunities to enhance the analytical capabilities of the Data Warehouse.
+Partnering with business stakeholders and technical report developers, establish, maintain, and promote consistent methodology for reporting and analytics deployment. Perform ad hoc data analysis to meet business unit data validation needs.
+Participate in Data Quality initiatives and lead the data transformation component design to improve and maintain high quality data. Support performance tuning.
+Foster teamwork through cooperative interactions with co-workers. Where needed, ensure project integration by communicating activities and status to project manager, appropriate project team members, and business users.
+
+Job Qualifications:
+BS degree, preferably in Information Technology, Management Information Systems, Computer Science or similar discipline.
+Post-college training in Data Management and vendor tool use
+5-8+ years of Data Warehousing/ BI experience.
+This role serves as the primary technical resource for managing and moving data in and out of the Data Warehouse. The candidate must:
+Be well versed in Data Warehouse design concepts including Kimball and Inmon methodologies
+Have hands-on experience with ETL and ELT methodologies and tools.
+Have experience with SQL Server 2016 and SSIS.
+Experience with business reporting requirements analysis.
+Familiarity with Data Management and Business Intelligence tools, such as Business Objects, Microsoft Power BI, QlikSense, Tableau, Looker, AWS S3 and Redshift, or Snowflake.
+Demonstrated ability to clearly communicate with all levels within an organization.
+Have experience leading small or offshore development teams
+understanding and experience with building and deploying Business Intelligence and analytics applications.
+Familiarity with Financial, Sales, Marketing, and Logistics reporting environments.
+Strong sense of leadership, strong analytical skills, excellent communication Have expert skills and good technical abilities.
+Preferred candidates will have experience with:
+SSAS.
+Analytics design and development is preferred.
+Hands on development experience with .Net and/or Java is a plus.
+Comfortable working in a fast-paced team. Capable of grasping new concepts quickly and acting with a sense of urgency.
+Preferred candidate may have certifications like:
+CBIP (Certified Business Intelligence Professional)
+CDMP (Certified Data Management Professional)
+Vendor-specific certifications

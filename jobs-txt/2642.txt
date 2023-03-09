@@ -1,0 +1,25 @@
+About Pinterest:
+Millions of people across the world come to Pinterest to find new ideas every day. It's where they get inspiration, dream about new possibilities and plan for what matters most. Our mission is to help those people find their inspiration and create a life they love. In your role, you'll be challenged to take on work that upholds this mission and pushes Pinterest forward. You'll grow as a person and leader in your field, all the while helping Pinners make their lives better in the positive corner of the internet.
+Our new progressive work model is called PinFlex, a term that's uniquely Pinterest to describe our flexible approach to living and working. Visit our PinFlex landing page to learn more.
+Pinterest brings millions of people the inspiration to create a life they love for everything; whether that be tonight’s dinner, next summer’s vacation, or a dream house down the road. The ML foundation team in Core provides foundational tools and infrastructure used by hundreds of ML engineers across Core org, including recommendations, search, visual search, growth/notifications, content, trust and safety. We aim to ensure that ML systems are healthy (production-grade quality) and fast (for modelers to iterate upon). The job will touch most pieces of ML systems including ML dataset/feature store, training platform, model inference service etc.
+What you’ll do:
+Design and build core components of the ML lifecycle.
+Work with internal customers, ML engineers, and data scientists in Core org, to understand and solve development velocity pain points
+Work with the ML platform team and product teams to productionize their models, improve their productivity and unblock ML innovations.
+What we're looking for:
+Experience with the technologies used on one of the subteams above.
+Solid communication to solve problems for customers across teams.
+Experience with production ML systems, preferably the end-to-end lifecycle of an ML model.
+Experience in Recommendation/Search or Ads systems would be a big plus.
+Colorado based applicants only:
+The minimum and maximum salary for this position is $155,300 to $232,900 in Colorado;
+This position is eligible for equity; and
+Information regarding the culture at Pinterest and benefits available for this position can be found here.
+This compensation and benefits information is based on Pinterest’s good faith estimate as of the date of publication and may be modified in the future. The level of pay within the range will depend on a variety of job-related factors that may include location, travel, shift requirements, relevant prior experience and/or education, or particular skills and expertise.
+#LI-AK7
+#LI-REMOTE
+Our Commitment to Diversity:
+At Pinterest, our mission is to bring everyone the inspiration to create a life they love—and that includes our employees. We’re taking on the most exciting challenges of our working lives, and we succeed with a team that represents an inclusive and diverse set of identities and backgrounds.
+
+Not Specified
+0

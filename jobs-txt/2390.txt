@@ -1,0 +1,38 @@
+Job Title: Business Intelligence Developer
+Job Location: 100% Remote – East Coast hours
+Job Duration: Long-Term
+Job Description:
+The Executive Office of Technology Services and Security (EOTSS) is seeking an experienced Business Intelligence (BI) Developer to join our Data Office.
+As part of the Commonwealth’s central data team, you’ll be on the front lines working to improve the value of our data systems across state government.
+As a BI developer, you will work in a vital role to deliver policy and operational insights to our partner agencies and improve the Commonwealth’s capacity for data-driven decision-making.
+Responsibilities:
+Translate business requirements into technical specifications
+Access, transform, and format data to meet business needs
+Design, build, deploy, and maintain BI solutions that meet high standards for functionality, usability, accessibility, and visual appeal in Tableau, PowerBI, and other BI tools
+Conduct user acceptance testing and troubleshoot issues
+Develop and update technical documentation
+Support and assist state agency partners with BI skill-building
+Knowledge, skills & abilities:
+At least three (3) years of proven, professional experience building effective BI solutions that meet business needs
+Working expertise in common BI tools, including Tableau and PowerBI
+Strong analytics skills
+Strong UX/design skills; ability to create intuitive, aesthetic data visualizations that will be useful and used
+In-depth understanding of database management systems, online analytical processing, and ETL frameworks
+Proficiency in SQL
+Able to keep pace with project timelines, including periods of fast-paced, sequential deadlines
+Experience in an Agile work environment
+Experience with government administrative data a plus
+Candidates selected for interviews should be prepared to present examples of their work.
+Education and Certifications:
+Bachelor’s Degree in computer science, information systems, business administration, data science or related field, or equivalent work experience
+Job Type: Full-time
+Experience level:
+5 years
+8 years
+Schedule:
+Monday to Friday
+Experience:
+Informatica: 6 years (Preferred)
+SQL: 7 years (Preferred)
+Data warehouse: 7 years (Preferred)
+Work Location: Remote

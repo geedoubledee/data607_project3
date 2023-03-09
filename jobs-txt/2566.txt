@@ -1,0 +1,13 @@
+· You will architect, code and deploy ML models (from scratch) to predict credit risk.
+· Design, run, and analyze A/B and multivariate tests to test hypotheses aimed at optimizing user experience and portfolio risk.
+· You will perform data exploration and build statistical models on user behavior to discover opportunities for decreasing user defaults. And you must truly be excited about this part.
+· You'll use behavioral and social data to gain insights into how humans make financial choices
+· You will spend a lot of time in building out predictive features from super sparse data sources.
+· You'll continually acquire new data sources to develop a rich dataset that characterizes risk.
+Job Type: Full-time
+Salary: $65,000.00 - $70,000.00 per year
+Benefits:
+Health insurance
+Schedule:
+8 hour shift
+Work Location: One location

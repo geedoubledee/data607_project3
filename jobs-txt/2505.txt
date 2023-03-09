@@ -1,0 +1,52 @@
+We are searching for a highly-qualified scientist or engineer with experience in ML (Machine Learning), DL (Deep Learning) and Computer Vision to join a fast-growing AI company that is addressing real-world challenges in the Health Care industry.
+Our client has beautiful offices in downtown Ann Arbor. Employees are well compensated, promoted from within and taught new programming languages, techniques and disciplines as part of their jobs. The culture is relaxed. The PTO is generous.
+The ideal candidate has worked on a commercial product and has had their work released to customers.
+LOCATION
+Ann Arbor Michigan
+Since this role deals with Personal Health Information, candidates are required to perform the majority of their work onsite.
+COMPENSATION
+$90K to $130K (potentially higher for an excellent-fit candidate). Excellent, comprehensive benefits.
+Some relocation assistance available for a highly qualified candidate.
+EDUCATION
+Computer Science or engineering degree
+REQUIRED SKILLS FOR MACHINE LEARNING SCIENTIST
+Minimum of 3 years' commercial experience using machine learning
+Proficiency with Python development.
+Solid experience with computer vision
+Experience with data noise removal, data augmentation, dataset truthing and construction
+Expertise in visualizing and manipulating large datasets
+Proficiency with a deep learning library (e.g., PyTorch, TensorFlow, or Keras) and deployment of models across languages a plus
+ANY OF THE FOLLOWING WOULD BE BENEFICIAL
+Experience working with x-ray images or in the medical domain
+Experience with deployment of models across languages
+RESPONSIBILITIES IN THIS ROLE MAY INCLUDE
+Understanding business objectives and developing models that help to achieve them, along with metrics to track progress
+Analyzing deep learning algorithms that could be used to solve a problem and ranking them by their success probability
+Exploring and visualizing data to gain an understanding of it, then identifying differences in data distribution that could affect performance when deploying the model in the real world
+Verifying data quality and/or ensuring it via data cleaning
+Defining validation strategies
+Training models and tuning hyperparameters
+Analyzing errors of the model and designing strategies to overcome them
+TAGS
+Machine Learning | ML | Deep Learning | DL | Computer Vision | Java | Python | PyTorch | TensorFlow | Keras | 3833-I
+To view more opportunities, please visit stoutsystems.com/jobs.
+Don't see what you want? Subscribe to our job announcement service www.stoutsystems.com/sign-up.
+Job Type: Full-time
+Pay: $90,000.00 - $150,000.00 per year
+Benefits:
+401(k)
+401(k) matching
+Dental insurance
+Flexible schedule
+Health insurance
+Life insurance
+Paid time off
+Retirement plan
+Vision insurance
+Schedule:
+Monday to Friday
+Supplemental pay types:
+Bonus pay
+Ability to commute/relocate:
+Ann Arbor, MI 48106: Reliably commute or willing to relocate with an employer-provided relocation package (Required)
+Work Location: One location

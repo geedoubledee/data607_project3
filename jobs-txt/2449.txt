@@ -1,0 +1,24 @@
+We'd love to hear from you if you are:
+Excited to make a big impact at one of LinkedIn's Top 50 technology startups
+Passionate about solving problems in a huge market ($2T market size)
+Energized by working on products that have traction (30X revenue growth in 3 years)
+Looking for an opportunity to work closely with serial entrepreneurs and strong leaders who have scaled companies like Amazon, Meta, Alibaba, Robinhood, SoFi, Microsoft, etc.
+Responsibilities:
+Lead an amazing group of Data/Business Operations Analysts who drive deep insights into our business and help us make better decisions. These analysts will be focused on different business drivers (Growth, Retention, & Opex Efficiency) across different products (Insurance, Finance, Membership).
+Transition our team from mostly pipeline and report creation to proactively developing insights and predictions that result in concrete, actionable recommendations for business or product improvement
+Develop and manage the roadmap for continual improvement of our analytics and reporting tools
+Partner with Data Engineering to build the foundational data architecture that will underpin your analytics framework
+Develop a long term vision and nearer term priorities for the Business Operations & Analytics team within Jerry
+Qualifications:
+8+ years of experience in Analytics, Technical Product Management, Data Science, Business Intelligence, Business Operations or other quantitative disciplines and a degree in statistics, economics, business, mathematics, or similar quantitative discipline
+3+ years of analytical people management experience
+Strong interpersonal and communication skills. Must be able to explain technical concepts and analysis implications clearly to a wide and senior audience, and be able to translate business objectives into actionable analysis
+Proven track record of solving ambiguous and complex data problems
+Proficiency using SQL to query large relational databases and ability to build and maintain processes to extract & integrate data from various sources
+Deep experience developing successful analytics-based solutions to business problems
+Exceptional critical thinking and attention to detail
+About Jerry:
+Jerry is building the first Super App to save car owners time and money on all their car expenses. Drivers deserve better. That’s why we’re committed to making shopping for insurance, financing, maintenance, repairs, parking and more just a few clicks, texts, or swipes away.
+Jerry is taking processes that haven’t substantively changed in decades and reimagining and redesigning them. Using artificial intelligence, machine learning and bots, Jerry eliminates the need for long forms and phone calls while providing personalized services for all car-owners’ needs.
+Today, Jerry is the #1 rated and most downloaded app in its category and the fastest way to compare and buy car insurance. We have more than 2M customers and we are just getting started. Join our team of curious and passionate people who love tackling real-world problems and be a part of building a revolutionary product that’s disrupting a massive market.
+Jerry was founded in 2017 by serial entrepreneurs and has raised more than $130 million in financing.

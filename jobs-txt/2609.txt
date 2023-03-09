@@ -1,0 +1,22 @@
+GridIron IT is seeking a ERP (SAP) Business Process Analyst with an Active Secret or Top Secret Clearance.
+Role Description:
+Provide Tier 2 support to client's employees with ERP (SAP) transactions to include:
+Defense Travel System
+High volume ZTRN PRs/POs (currently manual, but may transition to a new Miscellaneous Pay invoice, park and post tool) and Reimbursable Funding document SME
+Fuel such as bunker fuel, fuel upload and due to volume of MILSTRIP. Provide Workflow support for PRs/POs
+Required Skills: SAP FI & Enterprise Controlling (CO);SAP FI Accounts Payable (AP);SAP FI Accounts Receivable (AR)
+Job Types: Full-time, Contract
+Pay: $75.00 - $80.00 per hour
+Benefits:
+Dental insurance
+Health insurance
+Vision insurance
+Schedule:
+8 hour shift
+Monday to Friday
+Application Question(s):
+Do you have experience with SAP FI & Enterprise Controlling (CO)?
+Do you have experience with SAP FI (AP) and (AR)?
+Security clearance:
+Secret (Required)
+Work Location: Remote

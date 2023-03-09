@@ -1,0 +1,15 @@
+Our client is an E-Learning platform revolutionizing virtual education in an increasingly remote world. Their product allows users to create and share content quickly on a massive scale. They provide a close-knit, supportive work culture along with excellent benefits and perks. They are looking for a Database Administrator/Developer to join their database team.
+
+Term: Full Time/Direct Hire
+
+Location: 100% Remote
+
+Skills:
+Experience developing and administering large databases in a production environment is required.
+Some experience architecting databases is desired.
+3+ years of MS SQL Server experience.
+Ability to identify and solve database performance issues.
+Strong communication skills are a must.
+Experience with AWS is a plus.
+We are unable to sponsor at this time.*
+indsepps1hi

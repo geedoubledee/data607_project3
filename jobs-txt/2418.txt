@@ -1,0 +1,40 @@
+Job Title: - Data Engineer
+Position: - W2 Employment ( Should work on our W2 )
+Eligible Visa status: - OPT, Day1 CPT, H1B, H1B T
+(Authorized to work anywhere in the USA and for only those who are staying in the USA)
+Long term contract
+Job Description
+Has Bachelor's or Primary's Degree in a technology related field (e.g. Engineering, Computer Science, etc.).
+5+ years of experience in implementing data solutions in data analytics space
+1-2 years of experience in developing data applications in Cloud (AWS)
+Extensive experience in Object Oriented Programming (Java, Scala, Python), data movement technologies (ETL/ELT), Messaging Technologies (ActiveMQ, Kafka), Relational and NoSQL databases (Cassandra, Spark, Elastic search, Graph database), Hadoop ecosystem (Hadoop, Hive, Sqoop, Flume, HBase), API and in-memory technologies.
+strong knowledge of developing highly scalable distributed systems using Open source technologies
+Experience in Java, Python, Unix scripting or related programming languages.
+Understanding of Machine Learning is preferable.
+Experience with DevOps, Continuous Integration and Continuous Delivery (Maven, Jenkins, Stash, Ansible, Chef, Docker)
+Solid experience in Agile methodologies (Kanban and SCRUM)
+Cloud experience (AWS preferred)
+You have strong technical design and analysis skill
+You the ability to deal with ambiguity and work in fast paced environment
+Your deep experience supporting critically important applications quickly
+You have excellent communication skills, both through written and verbal channels
+You have excellent collaboration skills to work with multiple teams in the organization
+Your ability to understand and adapt to changing business priorities and technology advancements
+Knowledge and technology trends in implementing of data ecosystem
+Strategizing and critical problem-solving skills
+Benefits: -
+Competitive salary
+Flexible work schedule & part-time off
+E-verified
+H1B and GC filling
+On-job technical support
+Skill Enhancement
+Guesthouse facilities are also available
+Opportunity to work with Fortune 500 Companies
+Thanks, regards
+N9 IT SOLUTIONS
+Job Type: Full-time
+Pay: $40.00 - $45.00 per hour
+Schedule:
+8 hour shift
+Work Location: Remote

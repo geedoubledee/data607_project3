@@ -1,0 +1,30 @@
+Los Gatos, California
+Data Science and Engineering
+Who are we?
+Netflix is the world's leading internet entertainment service with over 220+ million memberships in over 190 countries enjoying TV series, documentaries and feature films across a wide variety of genres and languages. And as of November 2022 we added an advertisement branch to our business, making Netflix service accessible to an even broader member base with ad-supported plans!
+Ads Data Engineering team sits at the core of building a data ecosystem that will power Netflix’ understanding and decision making about what impact ads have on our business. It is a part of a larger data engineering org within Content and Studio Data Engineering horizontal, with a strong sense of engineering community that fosters technical and personal growth. This team’s main focus is to build rich, connected, and easily accessible data about ad inventories, forecasting, targeting, and much more. Core data about ads is used across multiple business areas and functions, from getting informative analytics to feature development for statistical models. The scope of this team’s work is rapidly growing and there are many opportunities for impacting Netflix’s journey into advertisement. We need an innovative leader, with ad ecosystem experience, to drive the team’s evolution in a quickly evolving business.
+Who are you?
+Beyond talented, you are curious, creative, and tenacious
+You have strong beliefs that are weakly held: you can argue, and hear, all sides of a debate and adapt to new perspectives that emerge from it
+You have an extensive background and strong technical expertise working with advertising data and understand how to build for scale, privacy, and business impact
+You have previous experience in building data systems from the ground up
+A role model for integrity: you have great judgment and can make tough decisions without agonizing
+You have a high tolerance for ambiguity and fast-changing context
+You enjoy working on hard problems with new tech, but what really drives you is creating levers for making big impact
+You are experienced in hiring and leading high-caliber data teams with diverse technical strengths
+You have some people leadership experience: being a strong technical mentor and champion cultivating individual growth
+What will you do?
+Provide technical vision and strategy for building a data ecosystems that enables Netflix to leverage data about ads within cross-functional teams
+Build strong relationships across business, science, analytics, and engineering partners
+Balance immediate stakeholder needs vs longer term vision
+Lead a dream team of data engineers to execute on a shared vision between analytics, engineering and business partners
+Grow and mentor this team through thoughtful observation and courageous, honest feedback
+Build a secure and robust data ecosystems for all data related to ads analytics
+What (ideally) do you know?
+Domains related to advertising, data privacy, GDPR
+How to work with analytics practitioners in various contexts
+A collection of Big Data tech (S3, Spark, Elasticsearch, graph databases)
+Cloud based (AWS) application development
+Team based software development tools and best practices
+Netflix Culture
+Netflix offers amazing colleagues, constantly evolving technology, fascinating analytical and technical challenges, and a Freedom & Responsibility culture that is truly unique. Ourculture is an integral part of what makes us successful, and we approach diversity and inclusion seriously and thoughtfully. We are an equal opportunity employer and celebrate diversity, recognizing that bringing together different perspectives and backgrounds helps build stronger teams. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status. You can learn more about Netflix culture at jobs.netflix.com/culture.

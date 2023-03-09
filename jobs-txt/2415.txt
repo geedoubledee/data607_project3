@@ -1,0 +1,58 @@
+Description:
+Primary Duties & Responsibilities:
+Apply engineering best practices in order to analyze, design, develop, deploy and support data pipelines.
+Develop the data pipeline code using continuous Deployment and integration practices.
+Participate in an Agile implementation and maintenance of development and release procedures.
+Participate in Code Reviews and feedback to the team
+Explain technical solutions to technical teams.
+Contribute to a collaborative work environment in which all team members are respected regardless of their individual differences and are motivated to improve both their individual and team contributions.
+Identify data quality issues and their root causes. Propose fixes and design data audits within the pipeline.
+Qualifications:
+Bachelor's Degree
+1-3 years of professional experience.
+At least 1 year of professional software engineering, debugging and software documentation experience.
+Code Knowledge: SQL, Python
+Experience with Agile methodologies/DevOps environment.
+Awareness of database structures, theories, principles, and practices.
+Awareness of Data Integration Patterns and Tooling including ELT/ETL, EII, Replication, Event Streaming, Virtualization to support batch and real-time data needs.
+Has or develops understanding of 1-3 subject areas/domains of data.
+Self-motivated and able to work with minimal direction
+Proficient programming skills.
+Skills-Proficiency Level:
+Agile Methodologies - Basic
+Application Platforms - Intermediate
+Data Auditing - Basic
+Data Integrity - Intermediate
+Data Privacy - Basic
+Data Quality - Basic
+DevOps - Basic
+Domain Expertise - Basic
+Engineering Practices - Intermediate
+Integration Patterns - Basic
+Programming Languages - Intermediate
+Root Cause Analysis - Basic
+Software Debugging - Basic
+Software Documentation - Basic
+Software Engineering - Intermediate
+Strategic Thinking - Basic
+Technical Communication - Intermediate
+Written Communication - Intermediate
+If this role has a NMIS requirement, please select it here
+(No Value)
+Please provide a description of how this role fits into the organization and your team
+The ODA team provides data and reporting solutions to tech teams at NM, and the Data Engineers on the ODA team are responsible for analyzing needs, identifying sources, migrating and cleansing data, and making the data available for reporting tools.
+What are the must haves for this role?
+Proficient with SQL
+Proficient with software coding language (ideally python)
+Clear communication
+What are the nice to haves for this role?
+Familiar with ETL processes, data analysis, AWS tools, agile methodologies
+Job Type: Contract
+Pay: $39.87 - $45.00 per hour
+Schedule:
+8 hour shift
+Experience:
+Informatica: 1 year (Preferred)
+SQL: 1 year (Preferred)
+Data warehouse: 1 year (Preferred)
+Work Location: Remote

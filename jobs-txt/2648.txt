@@ -1,0 +1,36 @@
+At Medium, words matter. We are building the best place for reading and writing on the internet—a place where today’s smartest writers, thinkers, experts, and storytellers can share big, interesting ideas; a place where ideas are judged on the value they provide to readers, not the fleeting attention they can attract for advertisers.
+
+We are looking for a Senior Data Scientist who will help us build a new future for the written word on the web as part of a team that translates data into actionable insights. Broadly, Data Scientists at Medium focus on analysis — interpreting data, sharing insights, and developing models that improve the product.
+We work together to analyze patterns at a macro level, answering questions the rest of the company hasn’t thought to ask yet.
+
+You’ll spend most of your time working on a product team: a group of engineers, designers, a product manager, and you, the Data Scientist, all working together in a small group to build new features.
+
+You’ll extract key data and findings, define metrics, evaluate A|B tests, identify opportunities based on the data, and share new insights that no one considered before. You’ll bring data to bear on a set of thorny questions at the intersection of tech and media, helping us grow our ecosystem of readers and writers and build a new economic model for written content.
+Day to day, you will:
+Be a strategic partner to a diverse range of stakeholders in editorial, engineering, marketing, and product management, generating data-driven insights to influence the direction of our product roadmap and critical operating decisions.
+Partner with the organization to define our goals and the portfolio of metrics to measure performance against
+Identify the level and cadence of information needed to operate key business areas and build dashboards and reports to drive decisions.
+Leverage a range of sophisticated ML techniques to uncover deeper insights about our users and content
+Design and analyze experiments to answer key business questions.
+Build data pipelines and models that enable incisive analyses and performant data visualizations
+Provide mentorship and guidance to team members, identify and recommend best practices, and help level up overall team capabilities
+Be a champion for Data Science and evidence-based decision-making throughout the organization, educating and advocating for its use.
+Requirements:
+6+ years of experience doing quantitative analysis and ML at a consumer-facing technology company
+Experience with stakeholder management; effectively driving shared priorities and persuading through storytelling with data
+Strong Python skills at running data analytics using Pandas, Jupyter Notebook, and the Python ecosystem
+Experience writing and optimizing complex SQL queries on large data sets
+Experience with data pipeline, from data preparation to analysis to deployment
+Strong in inferential statistics, especially in an experimentation setting (hypothesis testing, power analysis, experimental design)
+Skilled in building machine learning models, including classification models, natural language processing, and training models on large data sets
+Experience manipulating large data sets through SQL, Python
+Skills & Experience that is "Nice to Have" includes:
+Experience leading others in a data/analytics function
+Experience developing in Looker
+Natural Language Processing (NLP) with large data sets
+Experience in big data technologies like Spark
+Experience with production model deployment in cloud environments like AWS
+Management consulting or similar internal strategy experience
+At Medium, we foster an inclusive, supportive, fun yet challenging team environment. We value having a team that is made up of a diverse set of backgrounds and respect the healthy expression of diverse opinions. We embrace experimentation and the examination of all kinds of ideas through reasoning and testing. Come join us as we continue to change the world of digital media. Medium is an equal opportunity employer.
+
+Interested? We'd love to hear from you.

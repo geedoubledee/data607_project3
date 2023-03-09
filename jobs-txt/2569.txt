@@ -1,0 +1,31 @@
+At Nova Credit, we’re on a mission to make financial access easier, no matter where you’re from or where you go. We’ve built a platform that enables lenders to access a single, predictive cross-border credit database to help underwrite immigrants and other global citizens. In effect, we are the first global infrastructure for financial identity to seamlessly move around the world. We’re passionate about financial inclusion, and committed to building a diverse and fulfilling work culture.
+
+In Data & Analytics, you will play an essential role in leading, researching, designing, and building Nova Credit’s global data and analysis strategy. You will report to Nova Credit’s Chief Data & Analytics Officer. You will serve as a conduit to bring key functions together, including data partnerships, risk & analytics, product & engineering, and customer success to develop and implement Nova Credit’s core data systems. You will work with customer-facing teams to analytically demonstrate the strength of Nova Credit’s products and services. Ultimately, your role is to ensure that Nova Credit’s products deliver high-quality predictive risk signals. Every initiative you work on will be critical for the company’s success.
+
+RESPONSIBILITIES:
+CashFlow Underwriting Analytics: Lead the Cash Analytics team in their work with bank transaction data to develop categorization, affordability insights, and scores for credit underwriting strategies
+Credit Risk Analytics: Leverage and integrate data streams to deliver reporting and analytic insights with a focus on providing end users with superior credit, risk, underwriting strategies, model risk management, and governance.
+Data & Analytics Strategy: Research and contribute to the formulation of Nova Credit's long-term data strategy with global credit bureaus, alternative data providers, and evolving predictive data sources
+Business Support: Develop a robust customer-facing knowledge base and set of tools to communicate the intricacies of Nova Credit’s platform, bureau integrations, and data assets. Support Business Development and Success teams in product expansion, inquiry, and resolution work streams
+Cross-functional Collaboration: Interface with engineering management to guide the stable and reliable deployment of DnA insights into product knowledge
+People Management: Lead and support a small team of Data Scientists in building out our global data and analysis strategy
+WITHIN THE FIRST MONTH, YOU’LL:
+Understand Nova Credit's bank transaction analytics strategy
+Contribute to our cash flow underwriting module
+Meet the team and explore their skills/competencies
+WITHIN THE FIRST QUARTER, YOU’LL:
+Design and support the implementation of cashflow analytic tools for underwriting on both expense and income dimensions
+WITHIN THE FIRST YEAR, YOU’LL:
+Work with the Analytics team to design and calibrate an affordability score using bank transaction data
+QUALIFICATIONS:
+7+ years of experience working with cashflow and credit underwriting analytics, credit and bank transaction data, and strategy development
+Experience in consumer financial services; should have the capacity to develop industry-standard analyses and tools
+Experience in model governance and risk management, leveraging regulatory principles such as SR 11-7
+Relevant Ph.D. or Master’s preferred (e.g. Economics, Statistics, Operations Research)
+Experience with machine learning and statistical modeling tools
+Intellectual curiosity is essential along with creativity and technical expertise as you work with data from diverse sources to develop powerful insights.
+Base Salary Range for U.S.-based candidates: $203,000 - $229,000, dependent on the candidate’s individual experience, skills, education, location, and qualifications.
+
+We consider all elements of compensation as a part of the value we provide to Novans. This may include base salary, equity grants, incentive compensation for eligible roles, professional development, flexible PTO, and tenure rewards. We offer U.S.-based Novans competitive, employer-subsidized medical, dental, and vision plans, in addition to mental health and wellness benefits and a range of other benefits & perks.
+
+Everyone is welcome at Nova Credit. We are an equal-opportunity employer where our diversity and inclusion are central pillars to our company strategy. We look for applicants who understand, embrace, and thrive in a multicultural and increasingly globalized world. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.

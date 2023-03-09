@@ -1,0 +1,33 @@
+About Ledger Investing
+Ledger Investing is a Y Combinator backed insure-tech startup that is transforming the way insurance risks are financed. Today, Ledger is an online marketplace connecting insurance risk to capital, focusing on securitization. Insurance risk originators are able to source capital more efficiently vs. the traditional value-chain. Capital providers gain access to an asset class that is highly diversified vs. most asset classes. Insurance securitization has quickly grown to be a $100 billion market but is limited in scope due to opacity and complexity. Ledger is expanding this market to $1 trillion by building a seamless data pipeline from the policyholder to the capital markets, enabling transparency, and bringing best-in-class analytics and real-time insights to the table. Our recent $75 million Series B round of investment funding has set us up for exponential growth. We are on our way to disrupting the industry by serving as an unparalleled, advantageous marketplace for virtually all types of insurance risks and capital, including traditional reinsurers, institutional investors, and accredited investors.
+About the Team:
+Data scientists at Ledger are critical to the success of the company. Our team specializes in modeling the behavior of casualty insurance risk portfolios. We analyze and predict the performance of every insurance program that seeks capital through us, and our analyses are critical in determining on what terms, if any, our investors are willing to offer capital for each program. In short, our math forms the ground truth that serves as the basis of negotiations for transactions with tens of millions of dollars at stake.
+About the Position:
+As our company continues to grow, we are focused on opportunities to use technology to scale efficiently. From a data science perspective, one such core opportunity is providing a seamless infrastructure layer that allows everyone in the organization to easily train, backtest, and deploy statistical models. We heavily rely on Stan for our modeling, which has not gotten as much attention as some other tools in the data science and machine learning communities for this sort of infrastructure.
+A complete analytical process for a single insurance program may consist of a half a dozen or more independent statistical models. The identity, configuration and method of combination of these models varies considerably from program to program, and we are responsible for providing daily or weekly performance updates on dozens of these programs. Striking the right balance between flexibility and consistency for deploying these analytical processes to production is another key problem.
+If these problems sound fun and interesting, we'd love to have you on our team.
+About You:
+Successful candidates will have all of the following attributes:
+Strong knowledge of statistics, machine learning, and data science.
+Extensive experience with Python and its associated ecosystem for machine learning (e.g., NumPy, SciPy, Pandas, Jupyter, etc).
+Extensive experience with virtualization, cloud environments, cluster computing, and other techniques for efficiently deploying models for large-scale production use.
+Experience with relational databases and strong ability to write queries in SQL.
+Familiarity with version control, especially Git/GitHub.
+Ability to work independently and communicate ideas effectively.
+The following attributes will help you stand out from the crowd:
+A track record of building or contributing to open-source projects.
+Working knowledge of property & casualty insurance, particularly from an actuarial and/or underwriting perspective.
+Experience with Stan or another open-source tool for estimating Bayesian models via HMC.
+Your Benefits:
+Competitive salary, bonus potential, and equity compensation
+Work from anywhere. We're flexible. Our headquarters is in New York, but this position can be fully remote or hybrid.
+Uncapped paid time off
+Paid Holidays
+401k
+Medical, dental, and vision insurance - multiple plans to choose from
+Company paid Life and AD&D insurance
+ClassPass - We contribute to your monthly membership offering a large range of providers & services in Fitness and Wellness. Get a massage on us!
+Up to $5,000 paid by Ledger towards your dream desk setup! Customize what works for you.
+
+For US based positions:
+Ledger Investing is an equal opportunity employer and complies with all applicable federal, state, and local fair employment practices laws. We strictly prohibit and do not tolerate discrimination against employees, applicants, or any other covered persons because of race, color, religion, creed, national origin or ancestry, ethnicity, sex, gender (including gender nonconformity and status as a transgender or transsexual individual), sexual orientation, marital status, age, physical or mental disability, citizenship, past, current or prospective service in the uniformed services, predisposing genetic characteristic, domestic violence victim status, arrest records, or any other characteristic protected under applicable federal, state or local law.

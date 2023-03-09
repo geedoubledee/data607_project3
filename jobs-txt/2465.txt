@@ -1,0 +1,49 @@
+The Company:
+As the largest not-for-profit healthcare system in Texas and one of the largest in the United States, Baylor Scott & White Health was born from the 2013 combination of Baylor Health Care System and Scott & White Healthcare. Today, Baylor Scott & White includes 52 hospitals, more than 800 patient care sites, more than 7,300 active physicians, over 49,000 employees and the Scott & White Health Plan.
+Baylor Scott & White Health (BSWH) is actively investing in and expanding its analytics & data science capabilities to transform how healthcare is delivered and create a meaningful, customer-for-life experience. The Analytics & Intelligence is central to BSWH’s overall strategy and mission by delivering industry leading, world class analytics solutions that personalize the customer experience. We believe that building world class products and solutions starts with assembling the right teams, which is why we are focused on bringing in high-quality talent that complements our team dynamics and adds to our culture. Our new state-of-the-art building in downtown Dallas, ushers in a new era of collaboration and inspiration rarely seen in healthcare.
+As the largest not-for-profit healthcare system in the state of Texas, Baylor Scott & White’s patients and members span the continuum of racial, ethnic, gender, and socioeconomic diversity. The Analytics & Intelligence team upholds both an ethical and practical support of diversity within its team. We believe that diverse perspectives, which reflect the broad ecosystems from which our patients and members come, within the A&I team, allow us to approach advanced analytics with greater customer-centricity and to innovate on behalf of members and patients with greater empathy and efficiency. We encourage all diverse candidates to apply for consideration, as your inherently valuable perspectives allow us to better serve our stakeholders.
+Job Summary:
+Reporting to the VP of Customer Analytics, the Director of Advanced Analytics - Data Science for BSWH will lead a team of data scientists to initially focus on building out advanced analytics capabilities and a team of data scientists to enable our customer centricity strategy. They will also work closely with key business stakeholders to develop use cases related to difficult to solve and complex business challenges, build machine learning models where they will identify key data features that will enable the models to derive insights that are predictive in nature and enable stakeholders to take action to improve business outcomes.
+This position can be based in Dallas, Austin, or a Remote/Hybrid arrangement may be considered.
+Roles & Responsibilities:
+Work collaboratively with executive leaders in different domains of data to define, measure, develop, and deliver impactful analytics products and solutions that drive actionable insights and measurable business value
+Lead team to deliver improved health system outcomes (improved customer experience, satisfaction, loyalty, quality, safety, and limit non-beneficial clinical variation, etc.) by leveraging advanced data science and engineering approaches
+Lead team to design machine learning systems using programming skills, which involves assessing and organizing large datasets, executing tests/experiments to automate predictive models.
+Collaborate closely with business and IT stakeholders to thoroughly understand current business functional processes and requirements
+Lead team to determine the appropriate analytical technique and create the model to generate the insight required as defined by the requirements of the use case, in some cases
+Ensure team is focused on ability to iterate and improve the predictability and explain-ability of complex ML models
+Lead team to design methods and frameworks that ensure data science tools and techniques used are consistent across teams, scalable, and efficient
+Maintain expertise and awareness of emerging data science techniques, technologies, and potential business applications for ML/AI
+Collaboratively work with data platform team in designing and building cloud-based infrastructure to facilitate analytics and experimentation
+Lead team to build and maintain a robust library of data science solutions, reusable templates, algorithms, and supporting code
+Working in a consultative manner, manage multiple executive stakeholder relationships effectively, curating use cases and data features
+Lead and develop more junior data scientists, providing mentorship, coaching, and guidance for professional development
+Perform other position-appropriate duties as required in a competent, professional, and courteous manner
+Knowledge, Skills, and Abilities:
+Master’s degree in a quantitative field like computer science, engineering, statistics, mathematics, economics, or related field or significant, demonstrated experience in the role.
+Experience leading and growing leveraged teams of data scientists in managing multiple concurrent, complex, and scaled data science projects
+9+ years of hands-on data scientist mathematical predictive modeling experience in a business environment or equivalent
+Proficiency in common language / tools for AI/ML – (e.g. Python/Pyspark, Keras, Tensorflow libraries, etc.)
+Experience working in a cloud environment such as Azure, and their ML services and tooling
+Solid interpersonal skills, such as great communication and collaboration, due to the high-level interaction with other analytics and intelligence teams, as well as cross functional teams
+Experience investigating and implementing cutting edge data science methodologies, technologies, and platforms in a large-scale and complex organization
+Familiarity with developing complex algorithms associated with advanced analytic topics, including binary classification algorithms, regression algorithms, Neural Network frameworks, and Natural Language Processing
+Demonstrated and comprehensive knowledge and understanding of software engineering topics, including classes, functions, version control, CI/CD, and unit tests
+Technical expertise with multiple cloud compute environments – e.g. Azure, GCP, etc.
+Experience working in EDW cloud technologies – e.g. Snowflake
+Preferred Experience:
+PhD in above mentioned technical field
+Advanced knowledge of statistical and machine learning techniques (deep learning, boosted trees, reinforcement learning, etc.)
+Intellectual curiosity along with excellent problem-solving and quantitative skills including the ability to disaggregate issues, identify root causes, and recommend solutions
+Strong interpersonal and communication skills in addition to technical skillset. Ability to build strong relationships, work within and lead teams, and translate technical concepts simply for non-technical stakeholders
+NLP, Text, speech, streaming data
+Experimental design and A/B testing
+Forecasting, time-series, prediction, recommendation
+Data cleansing, feature creation, feature selection, value imputation
+Prescriptive modeling, simulation, optimization
+Deployment of predictions/recommendation models
+Workflow skills/tools (agile, code control, etc.)
+Experience in consumer marketing and/or healthcare (clinical or payor / ACO) ideal
+Minimum Requirements:
+Bachelor’s Degree or equivalent experience. Master’s Degree strongly preferred.
+5 years of experience. 9+ years strongly preferred.

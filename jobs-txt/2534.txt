@@ -1,0 +1,62 @@
+WHAT MAKES US A GREAT PLACE TO WORK
+
+We are proud to be [1] consistently recognized as one of the world's best places to work, a champion of diversity and a model of social responsibility. We are currently ranked the #1 consulting firm on Glassdoor’s Best Places to Work list, and we have maintained a spot in the top four on Glassdoor's list for the last 12 years. We believe that diversity, inclusion and collaboration is key to building extraordinary teams. We hire people with exceptional talents, abilities and potential, then create an environment where you can become the best version of yourself and thrive both professionally and personally. We are publicly recognized by external parties such as Fortune, Vault, Mogul, Working Mother, Glassdoor and the Human Rights Campaign for being a great place to work for [2] diversity and inclusion, women, LGBTQ and parents.
+
+WHAT YOU’LL DO
+
+As a senior member of the growing Data Science team in Bain’s Advanced Analytics Group, you will:
+Work with Global AAG leadership and local Mexico City Partners to build out our Advanced Analytics capabilities in Mexico
+Collaborate closely with and influence business consulting staff and leaders as part of multi-disciplinary teams to assess opportunities and develop data driven solutions for Bain clients across a variety of sectors
+Translate business objectives into data and analytics solutions and, translate results into business insights using appropriate data engineering and data science applications
+Partner closely with Engineering and product leaders at Bain to support development of innovative analytics solutions and products
+Provide thought leadership in state-of-the-art machine learning techniques
+Develop and deploy industry-leading machine learning models, aimed at solving client problems across industry verticals and business functions.
+Help develop Advanced Analytics intellectual property and identify areas of new opportunity for data science and analytics for Bain and its clients
+This position will be located in one of the US Bain offices and will require regular travel to Mexico City
+Travel is required
+Lead recruiting and onboarding for local data science talent
+Ensure standards and guidelines are being used by team to develop re-usable common frameworks, model and components that address repeatable tasks and problem/data sets in specific industries or business functions
+Share learnings and drive adoption of best demonstrated practices with your teammates in AAG about theoretical and technical developments in the rapidly evolving data science field, collaborate with the open source community, and work together to create a great working environment that attracts other great data scientists
+Develop relationships with external data and analytics vendors and interact as needed
+Keep abreast of new and current data science techniques and technologies
+Provide client and client development support
+Participate in expert advisory activities that required deep expertise in data science domain
+Advise client executives on data and analytics strategy and roadmap design
+Work with consulting teams to understand business problems, translate them into data science projects and appropriately prioritize and execute
+Be an expert advisor in proposal discussions
+Act as an ambassador and coach towards data science teams at our clients and partners to raise their capabilities and ensure that our work is successfully deployed
+Other duties as required
+ABOUT YOU
+
+We are looking for someone who has:
+Advanced Degree in a quantitative discipline such as Computer Science, Engineering, Econometrics, Statistics or Information Sciences such as business analytics or informatics
+10+ years of experience in analytics
+3+ years of experience managing data scientists
+Shipped production, enterprise scale data products
+Track record of leading and collaborating on strategic initiatives
+Strategic consulting experience is a plus
+Strong interpersonal and communication skills, including the ability to explain and discuss mathematical and machine learning technicalities with colleagues and clients from other disciplines
+Interest in learning about business applications, business models and economics of machine learning and data technologies - you will have the opportunity to work with world-leading practitioners in this area
+Ability to collaborate with people at all levels and with multi-office/region teams
+Solid fundamental knowledge of supervised, unsupervised, reinforcement learning machine learning algorithms such as classifiers, cluster analysis, dimension reduction, regression, CNN, RNN, DQN, GAN, temporal difference methods, sequence modeling, NLP/NLU, word/doc embeddings, collaborative filtering, self-attention, transformers, etc.
+Experience with MLOps - scalable development to deployment of complex data science workflows
+Experience with model explainability and interpretability techniques
+Proficiency in Python required
+Experience with Containers, Dockers and Git is required
+Experience in machine learning frameworks and tools (e.g. scikit-learn, mlr, caret, H2O, TensorFlow, MXNet, Pytorch, Caffe/Caffe2, CNTK, MLlib) required
+Experience with cloud platforms required
+Experience in big data technologies such as Hadoop, BigQuery, S3, MapReduce, Apache Spark is required
+Ability to work independently and juggle priorities to thrive in a fast paced environment, while also collaborating as part of a team in complex situations
+Fluency in Spanish and English
+Applicant must have received, or be willing to receive, the COVID-19 vaccine, and be fully vaccinated (established 2 weeks following final dose) by date of employment with Bain & Company to be considered for US based jobs subject to required accommodation process.
+
+Bain & Company is a global consultancy that helps the world’s most ambitious change makers define the future.
+
+Across 65 cities in 40 countries, we work alongside our clients as one team with a shared ambition to achieve extraordinary results, outperform the competition, and redefine industries. We complement our tailored, integrated expertise with a vibrant ecosystem of digital innovators to deliver better, faster, and more enduring outcomes. Our 10-year commitment to invest more than $1 billion in pro bono services brings our talent, expertise, and insight to organizations tackling today’s urgent challenges in education, racial equity, social justice, economic development, and the environment. Since our founding in 1973, we have measured our success by the success of our clients, and we proudly maintain the highest level of client advocacy in the industry.
+#LI-CM2
+
+References
+
+Visible links
+1. https://www.bain.com/about/awards-recognition/
+2. https://www.bain.com/about/further-global-responsibility/diversity-equity-inclusion/

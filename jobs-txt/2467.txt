@@ -1,0 +1,47 @@
+Senior Director of Data Science
+Waltham, MA; Gaithersburg, MD; or our Cambridge, UK location
+At AstraZeneca, we work together to deliver innovative medicines to patients across global boundaries. We make an impact and find solutions to challenges. We do this with integrity, even in the most difficult situations, because we are committed to doing the right thing.
+The Digital Health Oncology R&D Human-centered AI and Machine Learning Team aims to transform the patient experience and clinical trial process. We will do so by deploying digital solutions to clinical trials and in the real world to decrease patient burden. The approach the team takes will incorporate clinical trial data, Real World Evidence (RWE) data, clinical free text, medical imaging, Patient Reported Outcomes (PROs), and device data to define new digital approaches to addressing the pressing problems across the AZ R&D portfolio.
+This Opportunity
+The team is looking for a Senior Director of Data Science to specialize in development of innovative machine learning methods focused on multi-modal datasets including clinical trial data, RWE, imaging data, and other biomedical data sources to address patient burden. This role will have a heavy emphasis on clinical trial design, optimization and incorporation of machine learning into clinical trial process and supporting functions. This Data Scientist will also work closely with subject matter experts and stakeholders to develop innovative new machine learning enabled process innovation. Applicants should have a strong foundation in statistics, experience with machine learning in a production environment, demonstrated success leading a team of data scientists in industry and experience maintaining a portfolio of machine-learning enabled products.
+Examples of projects the team works on include machine learning models for developing digital biomarkers, digital therapeutics, computer vision diagnostics and clinical decision support tools, approaches to quantitatively analyze wearable data, linking of medical imaging data with ‘omics and longitudinal outcomes to identify and/or validate new drug targets, and much more!
+Typical Accountabilities
+Leads team of data scientists to provide advanced data science expertise to AstraZeneca projects and recommend data science solutions.
+Engages with the wider organization to articulate complex challenges and opportunities. Define the direction of analytical and cross-functional teams to identify, structure, and implement analytical solutions.
+Manages portfolio of data science projects and/or products to drive strategic company priorities.
+Delivers pioneering data science solutions to AstraZeneca projects, appropriately communicating with non-technical collaborators.
+Design review with non-technical partners and interpretation of complex business needs into tangible technical solutions.
+Lead regular code reviews with teams to ensure quality delivery.
+Works within established frameworks to deliver a variety of tasks that support projects in meeting their objectives.
+Independently keeps own knowledge up to date and learns from senior team members, proposing appropriate training courses for personal development.
+Reviews working practices and ensures non-compliant processes are escalated.
+Manages, coaches, and develops data scientists. Represents team at internal and external venues and ensures both development of internal resources and recruitment of external talent.
+Partners with cross-functional team leads in a multidisciplinary environment with world leading clinicians, data scientists, biological experts, statisticians and IT professionals.
+Education, Qualifications, Skills and Experience
+Essential
+Minimum 5-10 years of industry experience leading a team of data scientists to deliver machine learning and analytics models into production
+Deep understanding of drug development and clinical trial process and data (all phases)
+Outstanding track-record of delivering a portfolio in a highly regulated clinical setting
+Practical software development skills in standard data science tools: Python, Agile, Code versioning (bitbucket/git), UNIX skills, familiarity working in cloud environment (AWS preferred)
+End-to-end experience leading collaborative data science projects in an industry setting
+ML Ops experience: model tracking, model governance, multiple models in different production contexts
+Experience developing machine learning first products including optimization, timeseries analysis, forecasting, graph data modeling and analytics and natural language processing
+Knowledge of range of mathematical and statistical modelling techniques and drive to continue to learn and develop these skills
+Communication, business analysis, and consultancy; ability to present compelling cases to stakeholders and operate dynamically to identify solutions
+Desirable
+Ph.D. degree in rigorous quantitative science (such as mathematics, computer science, engineering) or M.B.A. with analytics experience in industry.
+10+ years of experience within the pharmaceutical industry or tech sector with extensive knowledge of clinical trial process (all phases) and associated regulatory activities.
+Advanced machine learning models: transformer-based NLP models, reinforcement learning, ML-based optimization, GNNs, state-of-the-art timeseries & forecasting models
+Why AstraZeneca?
+At AstraZeneca we’re dedicated to being an excellent Place to Work. Where you are empowered to push the boundaries of science and unleash your ambitious spirit. There’s no better place to make a difference to medicine, patients and society. An inclusive culture that champions diversity and collaboration, and always committed to lifelong learning, growth and development. We’re on an exciting journey to pioneer the future of healthcare.
+So, what’s next?
+Are you ready to bring new insights and fresh thinking to the table? Brilliant! We have one seat available, and we hope it’s yours.
+Closing Date: December 12, 2022
+Competitive remuneration and benefits apply
+We offer a competitive Total Reward program including a market driven base salary, bonus and long term incentive. We have a generous paid time off program and a comprehensive benefits package.
+Where can I find out more?
+Our Social Media, Follow AstraZeneca on LinkedIn https://www.linkedin.com/company/1603/
+Follow AstraZeneca on Facebook https://www.facebook.com/astrazenecacareers/
+Follow AstraZeneca on Instagram https://www.instagram.com/astrazeneca_careers/?hl=en
+AstraZeneca embraces diversity and equality of opportunity. We are committed to building an inclusive and diverse team representing all backgrounds, with as wide a range of perspectives as possible, and harnessing industry-leading skills. We believe that the more inclusive we are, the better our work will be. We welcome and consider applications to join our team from all qualified candidates, regardless of their characteristics. We follow all applicable laws and regulations on non-discrimination in employment (and recruitment), as well as work authorization and employment eligibility verification requirements.
+We will ensure that individuals with disabilities are provided reasonable accommodation to participate in the job application or interview process, to perform essential job functions, and to receive other benefits and privileges of employment. Please contact us to request accommodation.

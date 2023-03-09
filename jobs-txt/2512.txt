@@ -1,0 +1,90 @@
+Location: 100% Remote (US-wide)
+
+We give you a world of potential
+
+Computershare has an exciting opportunity for 2 permanent full-time Database Administrators - Oracle to join our Computershare Technology Services (CTS) team. Computershare Technology Services (CTS) provides global technology and infrastructure/support services for existing Computershare proprietary software together with a full range of development services for new products.
+This role is 100% remote US-wide.
+There are a few things that make this opportunity truly fantastic:
+We work in a fun and collaborative global team environment with a supportive management team to ensure you reach your career goals, no matter where they may take you
+We offer continuous learning and education opportunities and put emphasis on continued improvement and growth
+We believe that creativity fosters opportunity, and that the ideas of our employees will be what keeps us ahead in the market
+We offer a competitive total compensation package, with further details found below
+
+A role you will love
+
+As the Database Administrator, you will be working within the Service Operations department. Your team is responsible for providing technical support of the database technologies and systems across our operational region. You will play an integral part in keeping our data safe, secure and performing at optimal levels using different technologies including Oracle and MS SQL Server.
+The environment includes over 15,000 databases across platforms ranging from SQL 2008-2019 and Oracle 19 and both Windows failover clustering and availability groups are used with both physical and virtualized instances. You’ll have the opportunity to work with global counterparts for regional alignment.
+You will also:
+Own and resolve database related incidents and requests
+Participate in 24x7 on call rotation with team members
+Fulfil requests and resolve incidents within agreed SLAs
+Review service-related reports and notifications
+Complete database backups, maintenance, and monitoring
+Respond to database related alerts and escalations
+Engineer solutions to recurring problems
+Ensure Database Systems are highly available and comply with global and regional standards
+Provide project support, liaising with key stakeholders to ensure a high level of service
+Build and migrate database environments according to standard templates and best practice
+Identify and work with CTS and business teams to implement process improvement
+Any other reasonable activity including supporting and assisting with system upgrades
+
+What will you bring to the role?
+4+ years of Production Oracle DBA experience
+Strong experience in Oracle 12c, 19c administration on Exadata RAC
+Experience in building new databases and upgrading/patching existing ones
+Hands-on experience in cloning and refreshing non-production databases
+Experience working with monitoring tools such as OEM Enterprise 13c Cloud Control, Toad, Fog light etc.
+Experience working with RMAN backup recovery, export/import (data pump) utilities and configure backups per company standards
+Good knowledge of replication technologies such as Oracle Data Guard, Golden Gate
+Solid experience in automating administration tasks using Linux shell scripting, Cron
+Strong ability to work autonomously, as well as collaboratively within a team
+Experience in troubleshooting and resolving database problems in a timely fashion
+Good communication and documentation skills
+Bonus points if you have:
+Working knowledge of Linux administration skills
+Experience working in large estate, multi-domain organizations
+Experience working with Oracle Data Appliance (ODA) and Goldengate
+Experience with ServiceNow ticketing system
+Oracle DBA certification
+Ability to perform basic PL/SQL development and provide tuning recommendations to developers and users
+Experience with Rubrik Enterprise Backup software
+Experience in AWS RDS
+Experience working with Windows servers, Active Directory and Kerberos authentication
+
+A company to be proud of
+
+Computershare (ASX:CPU) is a world leader in financial administration with over 14,000 employees across 21 different countries delivering expertise to over 44,000 clients. At Computershare, it’s more than just a job, our open and inclusive culture means that we will help you to grow, to move forward and make the most of the world of opportunities we have available. With infinite possibilities, we could take you anywhere.
+
+Rewards designed for you
+
+Employee Share Plan. Set aside salary to purchase shares in our company and you’ll increase your investment when you receive a generous company contribution towards additional shares.
+
+Health and Wellbeing. Our health and wellbeing rewards can be tailored to support you and your family.
+
+Save for Your Future. We will support you along your retirement savings journey.
+
+Paid time away from work. Our employees enjoy a competitive paid time off package, including a day each year to volunteer time for a good cause that is important to you.
+
+Employee Discounts. We’ve partnered with other organizations to offer you extra savings. Enjoy discounts with banks, car manufacturers, on flights, accommodation, and days out as well as with many big brand shops.
+
+Extra Rewards. From tuition reimbursement to cash bonus recruitment referral programs, our comprehensive benefits package offers a multitude of options.
+
+Compensation. Approximately $86,000 - $125,000 USD per year, depending on experience.
+
+A diverse and inclusive place to work
+
+Computershare celebrates the diversity of our people, and we welcome applications from everyone.
+
+We believe that having a culture of inclusion is essential in delivering good results. Attracting, retaining, and developing a diverse workforce where employees feel valued, respected, and empowered allows people to reach their full potential. As a business this diversity helps us to better reflect and understand our customers’ needs to allow us to drive better outcomes.
+
+We are happy to accommodate individual needs during your application journey. If you require disability accommodations or adjustments, please email us at TalentAcquisition@computershare.com detailing your requirements and contact information.
+
+Computershare is an equal opportunity employer. Qualified applicants will receive consideration for employment regardless of race, color, religion, sex, sexual orientation, gender identity or expression, national or ethnic origin, age, disability, protected veteran status, or other characteristics protected by applicable law.
+
+Covid-secure
+
+We’ve kept our business running during the pandemic by moving most of our employees to remote working, and by creating and maintaining a safe environment for those people who need to be in the office. We carefully limit the amount of people at our locations and ensure that those who cannot work remotely are kept safe with proper distancing and protective equipment.
+
+In most circumstances we are currently performing all interviews, assessments, and background checks online to ensure the safety of everyone involved. Should you be successful in securing a role and it can be performed from home, we will arrange for equipment to be sent to you and your onboarding and training will be provided remotely.
+#CPUIT
+#-LI-REMOTE

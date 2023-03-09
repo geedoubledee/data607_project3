@@ -1,0 +1,42 @@
+The perks include a free ski pass, and a set of benefits including...
+Medical, Dental, Vision insurance, and a 401(k) retirement plan
+Hourly employees are generally eligible for accrued Paid Time Off (PTO), Extra Time Off (ETO) and Sick Time. Salaried employees are generally eligible for Flexible Time Off (FTO)
+Paid Parental Leave for eligible mothers and fathers
+Healthcare & Dependent Care Flexible Spending Accounts
+Life, AD&D, and disability insurance
+
+Reach Your Peak at Vail Resorts. At Vail Resorts, our team is made whole by the brave, passionate individuals who ambitiously push boundaries and challenge the status quo. Whether you’re looking for seasonal work or the career of a lifetime, join us today to reach your peak.
+
+Remote work is currently permitted from British Columbia and the 16 U.S. states in which we currently operate. This includes: California, Colorado, Indiana, Michigan, Minnesota, Missouri, New Hampshire, New York, Nevada, Ohio, Pennsylvania, Utah, Vermont, Washington State, Wisconsin, and Wyoming. Please note that the ability to work remotely, and the particulars related to such work, are subject to change at any time; and, accordingly, the Company reserves the right to change its policies and/or require in-person/in-office work at any time in its sole discretion.
+
+Vail Resorts is an equal opportunity employer. Qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, sexual orientation, gender identity, disability, protected veteran status or any other status protected by applicable law.
+Job Summary:
+The Data Science & Data Engineering team is responsible for using our internal data assets to deliver performant, scalable, and impactful data-focused solutions across the business! The team supports modeling initiatives in collaboration with our technology and business partners to enable both strategic opportunities as well as guest facing initiatives. As we continue to grow, our objectives are to deliver increased performance of our existing portfolio of in-market models, granularity of algorithmic decision making, and scalability of solutions across our core lines of business.
+
+As a Machine Learning Engineer you will act as a contributor within the development initiatives for the team and business. You will work on the end-to-end architecture and deployment of data processing, model execution, and delivery of our team’s machine learning solutions to activation and decision endpoints across the organization. Additionally you will help assist in the integration and democratization of new technologies that bring scale, agility, and efficiency to the way we work with data!
+
+Job Specifications:
+Shift & Schedule Availability: Full Time / Year Round
+Outlet: Corporate
+Other Specifics: Remote
+
+Job Responsibilities:
+Aid in the architecture and development of machine learning engineering projects that advance our enterprise goals of realizing data-focused impact through delivering intelligent solutions across our organization
+Contribute to core infrastructure, libraries, and documentation
+Participate in the domains of data engineering, data science, computer science, and machine learning
+Other duties as assigned
+
+Job Requirements:
+Awareness of how to develop and automate scalable machine learning pipelines in cloud ecosystems (Azure/AWS/GCP)
+Knowledge of data warehousing systems, data systems integration, and cloud data solutions including data lakes or managed services like Snowflake or Databricks
+Some experience with Data Science and Machine Learning development tools and processes (TensorFlow, PyTorch, scikit-learn, MLFlow, etc.)
+Competent in Python and SQL across a variety of platforms
+Familiarity with Linux environments and maintaining packages and software versions
+Working knowledge of common development tools like git and docker
+Ability to develop clear documentation and business partner management across audiences with multiple levels of technical skills
+
+The budgeted range starts at $82,800 - $106,425. Actual pay will be adjusted based on experience.
+
+Vail Resorts is an equal opportunity employer. Qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, sexual orientation, gender identity, disability, protected veteran status or any other status protected by applicable law.
+
+Requisition ID 488968

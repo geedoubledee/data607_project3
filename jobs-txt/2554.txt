@@ -1,0 +1,112 @@
+Job Summary:
+The Data Science Institute (DSI) is looking for multiple data scientists to join our growing team. Our mission is to perform cutting-edge research in the fundamentals of data science, to catalyze the translation of this research into practice, and to advance scientific discovery in collaboration with researchers across campus and beyond. Our vision is to lead a vibrant, innovative, inclusive, and collaborative data science research community and advance the social good through a coherent research agenda backed by resources, space, and data science expertise. As a data scientist in the DSI, you will be key to our success.
+
+The DSI data scientists will consult with domain scientists across a wide range of topics and participate in research projects as highly-valued team members. Data scientists are encouraged to help facilitate collaborations and shape research projects in their early stages. Self-directed research is possible if mechanisms can be identified to support that work and if it aligns with the mission and vision of the DSI. In addition, data scientists are expected to participate in the programmatic activities of the institute.
+
+We are aiming to hire a diverse portfolio of data scientists at multiple levels with complementary skillsets who will interact as a team and learn from each other. The chosen title and salary will be determined based on the applicant's experience and qualifications. The DSI is committed to providing opportunities for professional development and career advancement.
+
+
+Responsibilities:
+Data Scientist I (RE020)
+Data Scientist III (RE061)
+Data Scientist II (RE021)
+
+Institutional Statement on Diversity:
+Diversity is a source of strength, creativity, and innovation for UW-Madison. We value the contributions of each person and respect the profound ways their identity, culture, background, experience, status, abilities, and opinion enrich the university community. We commit ourselves to the pursuit of excellence in teaching, research, outreach, and diversity as inextricably linked goals.
+
+The University of Wisconsin-Madison fulfills its public mission by creating a welcoming and inclusive community for people from every background - people who as students, faculty, and staff serve Wisconsin and the world.
+
+For more information on diversity and inclusion on campus, please visit: Diversity and Inclusion
+
+
+Education:
+Required
+Master's Degree
+Preferred focus in statistics, computer science, or a related discipline that leverages data science techniques.
+
+Preferred
+PhD or other terminal degree
+Preferred focus in statistics, computer science, or a related discipline that leverages data science techniques.
+
+
+Qualifications:
+Required Qualifications:
+
+More than 3 years of experience in one or more essential areas of data science and AI/ML, for example:
+Constructing research pipelines, including data wrangling, data cleaning, modeling, visualization, and analysis
+Machine learning
+Modern statistical methods
+Databases and data management
+Cloud Computing, high-throughput computing, high-performance computing
+Software engineering and/or contributions to open-source scientific software
+Strong oral and written communication skills, with attention to interpersonal relationships, and consensus building
+Demonstrated strong work ethic and professionalism, including responsibility, discretion, and reliability
+A track record of productive research, reflected in publications, projects, and current and past collaborations
+Strong organizational skills and attention to detail
+Ability to set priorities, exercise initiative, solve problems, adapt to changes quickly, make independent judgments, and work both independently and collaboratively as part of a team
+
+Desired Qualifications:
+
+Experience working in a research environment and engaging with highly technical researchers across a variety of methodological fields, research domains, and computational platforms
+Experience working on multiple projects simultaneously
+Experience in a consulting role, including: making first contact, working with a researcher to understand what is needed, breaking a research problem down into pieces with clear deliverables, scoping a statement of work, and project management
+Experience managing others in a small research team
+Experience with collaborative online research platforms such as GitHub, GitLab, and distributed revision control
+Experience contributing to grant proposals and/or seeking out opportunities to support research
+A track record of positive impact on your local working environment such as initiatives aimed at diversity, equity, and inclusion and/or direct contributions to projects with positive social impact
+
+Work Type:
+Full or Part Time: 75% - 100%
+
+This position may require some work to be performed in-person, onsite, at a designated campus work location. Some work may be performed remotely, at an offsite, non-campus work location.
+
+
+Appointment Type, Duration:
+Ongoing/Renewable
+
+
+Salary:
+Minimum $60,000 ANNUAL (12 months)
+Depending on Qualifications
+Applicants for this position will be considered for the titles listed in this posting. The title and compensation is determined by the experience and qualifications of the finalist. Early career finalist can expect an annual salary of $60,000 - $80,000, mid-career $75,000 - $100,000, and advanced $90,000 or more. Employees in this position can expect to receive benefits such as generous vacation, holidays, and paid time off; competitive insurances and savings accounts; retirement benefits
+
+
+Additional Information:
+This position is being posted at multiple levels and the chosen title will be determined based on the applicants experience and qualifications. An applicant who is transitioning into a data scientist role for the first time and whose experience has mainly been in the context of their own graduate or post-graduate research will likely be considered as early in their career. An applicant who has previous professional experience in a data science role or has taken on significant technical projects may be considered as mid-career. An applicant who has significant expertise and several years of experience in a similar role, particularly if it included supervising others, will be considered as advanced.
+
+
+How to Apply:
+To apply for the position, please click on the "Apply Now" button. You will be required to submit a cover letter and CV highlighting your qualifications as they relate to this position. Cover letters will be used as a writing sample to determine the best-qualified applicants. Please also provide a document of up to 3 pages in length with technical descriptions of your contributions to data science projects, with links to code, papers, or deployments if applicable.
+
+
+Contact:
+Benjamin Ball
+ben.ball@wisc.edu
+608-262-1006
+Relay Access (WTRS): 7-1-1. See RELAY_SERVICE for further information.
+
+Official Title:
+Data Scientist I(RE020) or Data Scientist II(RE021) or Data Scientist III(RE061)
+
+
+Department(s):
+A348100-VCRGE/DATA SCIENCE INSTITUTE
+
+
+Employment Class:
+Academic Staff-Renewable
+
+
+Job Number:
+267182-AS
+
+
+The University of Wisconsin is an Equal Opportunity and Affirmative Action Employer. We promote excellence through diversity and encourage all qualified individuals to apply.
+
+If you need to request an accommodation because of a disability, you can find information about how to make a request at the following website: https://employeedisabilities.wisc.edu/disability-accommodation-information-for-applicants/
+
+Employment will require a criminal background check. It will also require you and your references to answer questions regarding sexual violence and sexual harassment.
+
+The University of Wisconsin System will not reveal the identities of applicants who request confidentiality in writing, except that the identity of the successful candidate will be released. See Wis. Stat. sec. 19.36(7).
+
+The Annual Security and Fire Safety Report contains current campus safety and disciplinary policies, crime statistics for the previous 3 calendar years, and on-campus student housing fire safety policies and fire statistics for the previous 3 calendar years. UW-Madison will provide a paper copy upon request; please contact the University of Wisconsin Police Department.

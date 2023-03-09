@@ -1,0 +1,34 @@
+WebstaurantStore, a Clark Associates Company and the internet’s largest restaurant supplier, is looking for candidates who love technology to join our growing company as a Data Warehouse Developer.
+This is a ground floor opportunity to help build out our enterprise data warehouse. You will be working with our enterprise data warehouse architect, developers, business analysts, and Search Engine Optimization (SEO) experts on expanding our multi-company enterprise data warehouse utilizing traditional data warehouse modeling techniques (Enmon/Kimball). If you love taking data and turning it into insightful knowledge, this is the position for you!
+Requirements:
+In-depth knowledge of Power BI
+Solid understanding of database management systems, online analytical processing (OLAP) and ETL (Extract, transform, load) framework
+An understanding of Microsoft Reporting Services
+Understanding of T-SQL queries
+Working knowledge of Microsoft SQL Server
+Proven experience designing, developing and maintaining business intelligence solutions
+Understanding of data warehouse design (e.g. dimensional modeling) and data mining
+Crafting and executing queries upon request for stake holders
+Presenting information through reports and visualization
+Strong attention to detail
+Experience with Azure DevOps and Agile development a plus
+Responsibilities:
+Help define and create a corporate business intelligence center of excellence
+Create, maintain, and improve performance of corporate Power BI models and reports
+Troubleshoot slow running reports
+Suggest solutions to overcome issues and solve future reporting initiatives
+Document and maintain a reporting catalog based on MDM standards that ensures data quality and governance
+Work directly with application developers, business analysts, SEO analysts and quality assurance personnel to deliver new Power BI models to stakeholders
+
+WebstaurantStore’s Development department is offering an optional condensed work week allowing you to choose a schedule that suits your lifestyle.
+We offer competitive compensation and a comprehensive benefits package including remote work, paid time off, medical/dental insurance, gym membership reimbursement, a 401k with company match, profit sharing along with an annual bonus.
+Do you desire to be part of a cutting-edge web based company? Do you wish to be part of a team in which your ideas and solutions are put into place? Do you want to work for an employer who values your skills and what you can bring to the table, while investing in your future by providing the training required to stay up-to-date on current technologies? Apply today to join our team!
+#Dice
+
+Remote work qualifications
+Access to a reliable and secure high-speed internet connection. Cable or fiber internet connections (at least 75mbps download/10mbps upload) are preferred, as satellite connections often cannot support the technologies used to perform day-to-day tasks.
+Access to a home router and modem.
+A dedicated home office space that is noise- and distraction-free. The space should have strong wireless connection or a wired Ethernet connection (wired connection is preferred, if possible).
+A valid, physical address (apartment, suite, etc.). PO Boxes are not supported, as a physical address is required for you to receive your computer equipment.
+The desire and ability to work and communicate with other team members via chat, webcam, etc.
+Legal residents of one of the following states: (AK, AL, AR, AZ, DE, FL, GA, IA, ID, IN, KS, KY, MD, ME, MI, MN, MO, MS, NC, NH, NM, NV, OH, OK, PA, SC, SD, TN, TX, UT, VA, VT, WI, WV, and WY). H-1B Visa Sponsorship Not Available, W2 only.

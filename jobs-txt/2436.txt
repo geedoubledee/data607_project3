@@ -1,0 +1,61 @@
+JOB TYPE: Freelance, Contract Position (no agencies/C2C - see notes below)
+LOCATION: Remote - Work from anywhere (TimeZone: EST | Partial overlap)
+HOURLY RANGE: Our client is looking to pay $70 – $90/hr
+ESTIMATED DURATION: 40h/week - Long-term
+
+ABOUT US:
+Braintrust is the only network that gives in-demand talent all the freedom of freelance with all the benefits, community, and stability of a full-time role. As the first decentralized talent network, our revolutionary Web3 model ensures the community that relies on Braintrust to find work are the same people who own and build it through the blockchain token, BTRST. So unlike other marketplaces that take 20% to 50% of talent earnings, Braintrust allows talent to keep 100% of earnings and to vote on key changes to improve the network. Braintrust is working to change the way freelance works – for good.
+We've onboarded some of the world's most reputable brands and now we need a Machine Learning Engineer for one of our clients.
+
+THE OPPORTUNITY
+KEY REQUIREMENTS
+You must be an engineer who is passionate about machine learning with relevant experience in both researching and implementing recent machine learning models.
+You will be expected to design, test, and implement a variety of machine learning models for structured and unstructured data.
+You will be expected to research and present novel strategies for multi-label text classification with hierarchical labels.
+You will need to contribute domain knowledge to determine the best combination of models to deploy using both theoretical and experimental techniques.
+You will need to be proficient in developing metrics to assess and improve models.
+You should be capable of deploying and scaling models for efficient real-time inference on various
+size datasets.
+You will be expected to work with existing product and UX teams to improve infrastructure and
+processes, from collecting data to the use of model outputs.
+You should be able to search for and select appropriate data sets before performing data collection
+and data modeling.
+MUST HAVE
+Education & Experience: B.S. or higher in Computer Science or a related field with 3+ years of relevant/direct industry experience both in researching and implementing recent machine learning models (with knowledge of the latest advances). Certifications will be considered. In lieu of a degree, a comparable combination of education and experience (including military service) may be considered.
+
+Technical Skills:
+Determine the best machine learning approach to problems from both theory and
+experimentation
+Understand probability, statistics, linear algebra, and calculus
+Implement recent machine learning models
+Know and keep up with the latest ML and NLP advances
+Familiar with loading and transforming data from databases, including, query and database access tools, etc.
+Soft Skills:
+Communicate machine learning ideas and results to both technical and non-technical audiences
+Comfortable championing new ideas with peers, stakeholders, and leadership with a startup mindset
+Balance creativity and focus, knowing when to work with the team and when to embrace your own solution-finding journey
+Empathic and open to feedback
+Proactive and a self-learner
+NICE TO HAVE
+M.S. or Ph.D. related to machine learning
+Experience deploying machine learning models within enterprise SaaS production environments
+Experience in music/media metadata
+Experience with data deduplication/entity resolution
+
+What you’ll be working on
+
+Our client is a growing music industry company working in the music/media metadata space for large enterprise clients to reconcile media rights data. Their product utilizes multiple datasets to correct, amend, and disambiguate rights data to improve the accuracy of the payments pipeline that their clients depend on.
+
+JOB TITLE
+Machine Learning Engineer
+
+JOB DESCRIPTION
+VFM, headquartered in New York, NY, is hiring a Machine Learning Engineer for a contract/contract-to-hire opportunity for our enterprise product team.
+Apply Now!
+
+ABOUT THE HIRING PROCESS:
+Qualified candidates will be invited to do a screening interview with the Braintrust staff. We will answer your questions about the project, and our platform. If we determine it is the right fit for both parties, we'll invite you to join the platform and create a profile to apply directly for this project.
+C2C Candidates: This role is not available to C2C candidates working with an agency. But if you are a professional contractor who has created an LLC/corp around your consulting practice, this is well aligned with Braintrust and we’d welcome your application.
+Braintrust values the multitude of talents and perspectives that a diverse workforce brings. All qualified applicants will receive consideration for employment without regard to race, national origin, religion, age, color, sex, sexual orientation, gender identity, disability, or protected veteran status.
+
+This is a remote position.

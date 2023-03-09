@@ -1,0 +1,28 @@
+Our Opportunity:
+The Chewy Campus Recruiting Team is looking for Data Scientists to join our quickly growing Science team in Plantation, FL, Boston, MA, Minneapolis, MN, or Seattle, WA. The team uses Business Economics, Statistics, and Machine Learning techniques to understand and serve the needs of our pet parents. Developing data-driven solutions, we are an interdisciplinary team of data scientists who are committed to solving business problems using cutting edge technologies and developing data-driven marketing solutions.
+As part of the Data Science team at Chewy, you will have the opportunity to provide structure to business problems for new and existing Chewy customers by applying data science principles to design, test, implement, and develop data-based solutions, including reporting, auditing, and preparing large databases for statistical analysis. You will perform feature and behavior analysis, understand the need and fit of different ML/statistical techniques, develop the best-suited models with business intuition, validate/re-fit those models as needed, and employ them at scale.
+What You'll Do:
+Work with stakeholders to transform their ideas/preliminary findings/analyses into machine learning-driven business strategies, programs, and actions that help drive core objectives
+Guide the design of experiments, measurement, and analyses. Make recommendations for experimentation and measurement by researching state-of-the-art methods, and tuning the current methods with simulations. Use causal inference methods to bring precision and speed in the decision-making process
+Maintain responsibility for the full Data Science lifecycle from conception to prototyping, testing, deploying, and measuring the overall business value of the models. Develop model health reports to ensure the integrity of the underlying processes and assumptions; If needed, refit the model following the model lifecycle
+Using the ML model outputs, work with a team of strategic analysts and engineers to triangulate different inputs and optimize the solutions for different business problems
+Ideate, architect, and build the technical platforms for our algorithmic engines
+Use data to improve how we make decisions, and ultimately enhance customer experience and drive loyalty. Surface deep insight hidden in our data lakes and provide tactical and strategic guidance on how to act on findings
+Work with the data engineering teams to develop the automated pipelines to perform different stages of the model lifecycle (data collection and cleaning, model development and validation, model deployment and scoring, periodic validation and refitting, etc.)
+What You'll Need:
+Currently enrolled full-time in an accredited bachelor’s degree program with an anticipated graduation date between December 2022 and June 2023.Programs should include Data Science, Machine Learning, Economics, Statistics, Mathematics, Engineering, or related discipline.
+Excellent verbal and written communication skills and the ability to explain details of complex concepts to non-expert stakeholders in a simple and understandable way.
+Travel may be required.
+Current permanent U.S. work authorization required.
+Bonus:
+Proficiency in coding and data analysis using Python, SQL, R, SAS, or Scala
+Knowledge of AWS data toolset (Glue, Athena, Sagemaker, Redshift, etc.)
+Experience of translating ambiguous customer requirements into clear problem definitions and delivering them
+Proven experience in the design and execution of analytical projects
+If you have a disability under the Americans with Disabilities Act or similar law, and you need an accommodation during the application process or to perform these job requirements, or if you need a religious accommodation, please contact CAAR@chewy.com.
+
+If you have a question regarding your application, please contact HR@chewy.com.
+
+Chewy is committed to equal opportunity. We value and embrace diversity and inclusion of all Team Members.
+
+To access Chewy’s Privacy Policy, which contains information regarding information collected from job applicants and how we use it

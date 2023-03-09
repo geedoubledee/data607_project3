@@ -1,0 +1,36 @@
+Company Description
+
+McDonald’s is proud to be one of the most recognized brands in the world, with restaurants in over 100 countries that serve 70 million customers daily. As the global leader in the food service industry, our legacy of innovation and hard work continues to drive us.
+From drive thru updates to delivery to mobile order and pay, we are innovating quickly and growing. Joining McDonald's means thinking big and preparing for a career that can have influence around the world.
+At McDonald’s, we see every day as a chance to create positive impact. We lead through our values centered on inclusivity, service, integrity, community and family. From support of Ronald McDonald House Charities to our Youth Opportunity project and sustainability initiatives, our values keep us dedicated to using our scale for good: good for our customers, people, industry and planet. We also offer a broad range of outstanding benefits including a sabbatical program, tuition assistance and flexible work arrangements - check them out here!
+While most of us are working remote during COVID-19, we're excited to get back to our state-of-the-art headquarters in the booming West Loop of downtown Chicago! It's set up to be a global hub that cultivates collaboration:
+Take a class at Hamburger University
+Sample future items in our Test Kitchen
+Utilize the latest technology to connect with your team around the globe
+We are an equal opportunity employer committed to the diversity of our crew members, staff, operators, and suppliers. We promote an inclusive work environment that creates feel-good moments for everyone. We are interested in people who enhance our company culture: Does this role interest you? We encourage you to apply even if you don’t meet every single requirement!
+
+Job Description
+
+Based out of our headquarters in the West Loop of Chicago, the Data Analytics Manager of Pricing Science will be a critical part of the company’s continued transformation efforts. This position will develop targeting schemas and segmentation approaches by using internal data and external market intelligence to analyze competitive pricing, market trends, and customer preferences, evaluate and improve on existing pricing tactics and strategies, and develop and implement new pricing structures and approaches. They will exercise influential leadership skills with key partners both within and outside the business. In addition, they will work with markets to develop and execute pricing strategies.
+Develop processes, insights, and models for pricing strategy insights for global markets to unlock measurable shareholder value.
+Serve as a cross-functional technical and data expert resource while supporting pricing analysis, insights, and big data.
+Problem-solve complex pricing challenges using SAS and other languages.
+Develop and deploy pricing analytics in a transformational global business environment using modern statistical methods and machine learning.
+Streamline the current technical pricing processes, programs and environments – including streamlining code and improving current reporting, insight protocols, and analytics.
+Participate in a cross-functional role to provide pricing solutions and recommendations to support business model changes.
+
+Qualifications
+
+Must be fully vaccinated (i.e., at least 2 weeks after last dose) for COVID-19 and, if hired, present proof of vaccination by start date.
+Bachelor’s degree in Statistics, Marketing Analytics, Economics, Data Science
+Master’s degree focused on analytics for growth and profit strategies is preferred
+Prior experience developing and executing pricing capabilities leveraging SAS and Python in hosted and distributed environments
+Experience in additional other languages and tools is a plus
+Strong business acumen required
+Excellent written and oral communication skills; experience working with upper-level management
+
+Additional Information
+
+McDonald’s is committed to providing qualified individuals with disabilities reasonable accommodations to perform the essential functions of their jobs. Additionally, if you (or another applicant of whom you are aware) require assistance accessing or reading this job posting or otherwise seek assistance in the application process, please contact recruiting.supportteam@us.mcd.com
+McDonald’s provides equal employment opportunities to all employees and applicants for employment and prohibits discrimination and harassment of any type without regard to sex, sex stereotyping, pregnancy (including pregnancy, childbirth, and medical conditions related to pregnancy, childbirth, or breastfeeding), race, color, religion, ancestry or national origin, age, disability status, medical condition, marital status, sexual orientation, gender, gender identity, gender expression, transgender status, protected military or veteran status, citizenship status, genetic information, or any other characteristic protected by federal, state or local laws. This policy applies to all terms and conditions of employment, including recruiting, hiring, placement, promotion, termination, layoff, recall, transfer, leaves of absence, compensation and training.
+Nothing in this job posting or description should be construed as an offer or guarantee of employment.

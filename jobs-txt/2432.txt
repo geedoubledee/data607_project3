@@ -1,0 +1,25 @@
+Qualifications
+Database Administrator - Uses specialized software to store and organize data, which may include capacity planning, installation, configuration, database design, migration, performance monitoring, security and troubleshooting, as well as backup and data recovery.
+Senior 60 - 84 Months: Candidate is able to work independently, without assistance and provides guidance to others. May have an advanced education.
+Oracle Certified Specialist: Oracle Exadata 11g Implementation Specialist.
+Oracle E-Business Suite R12 Applications Database Administrator Certified Professional Certification
+60 months experience administering and supporting Oracle Databases version 11gR2 and above. Experience must include working with the installation of Oracle software, applying Patch Set Updates, and working with ASM disk storage.
+24 months experience in the installation, administration, and supporting Oracle Databases version 12c. Experience must include working with the installation of 12c Oracle software and applying Patch Set Updates.
+Oracle Certified Professional - Oracle Database 11g Administrator.
+Oracle Certified Expert: Oracle Real Applications Clusters 11g and Grid Infrastructure Administrator
+24 months experience installing Oracle database and Oracle Grid Infrastructure software on IBM PowerHA / HACMP clusters. (Non RAC)
+6 months experience in the installation, administration, and support of Oracle Database 19c.
+12 months experience patching Oracle Exadata
+Day-to-Day tasks
+Support all areas of Oracle, including software installation, upgrades, patching, and database troubleshooting in an IBM AIX and Oracle Exadata environment with RAC, PowerHA, ASM, DataGuard, and Enterprise Manager.
+Perform database migrations from legacy data centers. Work as part of a project team to support 2,000 databases on 250 servers and provide 24x7 support when required.
+Work during off hours, 4am-12pm, to perform software installs, upgrades and apply patches, as required.
+Work independently to troubleshoot all aspects of Oracle software installation, upgrades, and patches.
+Job Type: Contract
+Pay: $90,000.00 - $100,000.00 per year
+Schedule:
+8 hour shift
+Experience:
+Oracle Database 19c.: 1 year (Preferred)
+Oracle Exadata: 1 year (Preferred)
+Work Location: Remote

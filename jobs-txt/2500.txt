@@ -1,0 +1,32 @@
+Wisemen Multimedia is currently looking for a Jr. SQL Database Administrator to join us! Advance your career on a project that supports an enterprise-class U.S. Federal Agency application.
+This is a full-time contract position (40 hours weekly). Average time in job is approximately 10 years. No longer a remote position and requires ability to work side-by-side with Client. Must be able to commute to facility approximately 15 mins north of downtown Atlanta inside the perimeter.
+
+The successful candidate will serve as the backup for our Senior SQL Server DBA, who is responsible for:
+Maximizing database stability, up time of databases supporting the Enterprise. Includes Production, Test, Development environments through system monitoring, performance tuning, and routine maintenance tasks such as index rebuilds, file compression, statistical updates, and database consistency checks.
+Managing the storage environments for the databases, including optimal sizing, monitoring space, requesting additional storage, and providing growth statistics.
+Creating tables, views, indexes, database links, views, materialized views, stored procedures, and other database objects as needed; creating and assigning database roles and privileges.
+Creating and executing database backup and recovery policies, and maintain integrity and reliability of access to information.
+Importing and exporting data to and from the database servers.
+Performing routine backup and recovery testing, including testing and documenting recovery scenarios.
+Working with application/development teams to assist in overall database design, helping developers tune queries, assigning proper indexes, and aiding developers in the creation of triggers and stored procedures.
+Responsible for database performance monitoring and capacity planning.
+Monitor and analyze disk I/O, queue lengths.
+Conduct troubleshooting of issues associated with supported SQL databases.
+Performing SQL performance tuning tasks.
+Creating and maintaining detailed SOPs, configuration documentation, and maintenance plans for the database environment.
+Assist internal client teams with management of production server systems such as network security teams, data center teams, system security officers.
+Serve as technical liaison between IT teams.
+Provide support of client site change control activities, supporting change control requests and review boards with respect to system implementation.
+Perform security hardening via group policies, local policies, scripting, etc.
+Distinguish between necessary security settings that would protect the system while insuring usability versus security settings to meet security compliance.
+
+Qualifications:
+High School Diploma required. Bachelor's degree or work experience in a related field preferred.
+Must be a U.S. Citizen. This is a requirement to obtain the required clearance.
+Must be willing to work on-site in Atlanta, GA 40 hours weekly M-F (inside near top of perimeter). There is no telework or overtime and no relocation for this contract.
+Should be looking for long-term work. This is NOT a short-term opportunity.
+
+
+About Wisemen Multimedia:
+
+Founded in 2010, we are a minority owned, HUBZone certified, small business concern and GSA Schedule holder, based in Atlanta, GA. As an enterprise solutions provider, we offer a wide range of consulting and solutions development services designed to help you deploy the right resources at the right time the first time. With decades of experience, our leadership team leverages modern technology and future concepts to deliver our flagship services with excellence. We specialize in helping commercial clients enhance their capabilities while improving operational efficiency, and we champion efforts to help modernize agencies and reduce government burden. We value all employees and job candidates as unique individuals, and we welcome the variety of experiences they bring to our company. As such, we have a strict non-discrimination policy. We believe everyone should be treated equally regardless of race, sex, gender identification, sexual orientation, national origin, native language, religion, age, disability, marital status, citizenship, genetic information, pregnancy, or any other characteristic protected by law. Wisemen Multimedia LLC (“Wisemen”) is seeking qualified candidates to fill several full-time, part-time, and intern positions. Wisemen embraces diversity and strongly encourages all qualified individuals, including people of varied ethnicity, gender identity, sexual orientation, and physical abilities, to apply, especially if you live in a Historically Underutilized Business Zone (HUBZone). Please copy and paste the link below and enter your home address to determine if you live in a HUBZone. https://maps.certify.sba.gov/hubzone/map#center=39.828200,-98.579500&zoom=5

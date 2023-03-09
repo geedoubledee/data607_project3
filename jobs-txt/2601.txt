@@ -1,0 +1,50 @@
+Business Intelligence Developer
+Development - Systems Management, Lincoln Center
+Fordham University
+Fordham University has an excellent reputation as a dynamic institution located in New York City. Founded in 1841, Fordham enrolls more than 16,000 undergraduate and graduate students in its 9 Colleges and Schools.
+Fordham University offers a comprehensive and competitive benefits packageto its employees, which includes medical, dental, vision, life, and disability insurance.
+We offer tuition remission for employees and their dependents.
+A generous immediate employer match towards a 403(b) retirement plan.
+As a tax-exempt organization under section 501(c)(3) of the Internal Revenue Code (IRC), Fordham is considered a qualifying employer for the Public Service Loan Forgiveness (PSLF) program, a federal program designed to forgive student loan debt for employees of certain public and certain nonprofit employers.
+As part of its work-life balance program, the University provides generous PTO including 15 vacation days, 12 sick days, 2 personal days, 6 summer Fridays, and holidaysthat include paid time off between Christmas and New year.
+University employees have access to the Employee Assistance Program (EAP). EAP provides no-cost, professional, and confidential services, to help employees and family members address a variety of personal, family, life, and work-related issues.
+Position Summary
+Fordham University seeks a Business Intelligence Developer with a Power BI specialization who will provide expert-level business intelligence solutions for the Office of Development and University Relations (DAUR). They will report to the Executive Director, Advancement Systems and Analytics.
+This position is eligible for a hybrid work arrangement pursuant to University’s Hybrid/Remote Work Policy. Please review the policy here.
+Essential Functions
+Develops interactive and insightful Power BI visualizations that are easy to understand.
+Designs, develops, deploys, and manages Power BI data flows and datasets.
+Elicits and understands requirements from DAUR teams to develop and deliver operational reports and/or analytic data models that support daily business operations, business intelligence dashboards, and subject area analysis.
+Performs data analysis, dashboard interface design, develop user acceptance testing (UAT) criteria, and BI documentation.
+Participates in design reviews with other members and groups within DAUR.
+Owns the administration of the Power BI platform for DAUR (not for the entire University).
+Provides daily operational and production support for existing Power BI solutions, including dashboards, reports, data refreshes, and user access control.
+Assists with training technical and non-technical staff on how to effectively leverage reports and dashboards.
+Keeps abreast of BI and Data Analytics trends and technology.
+Required Qualifications
+Bachelor’s degree in information technology, computer science, finance, or any business-related field.
+Two or more years of business intelligence development experience.
+Significant and expert-level Power BI platform experience developing and building intuitive and impactful dashboards and data visualizations.
+Experience writing and maintaining complex DAX queries and writing SQL queries in MS SQL Server Management Studio.
+Experience developing and maintaining complex data flows and datasets.
+Experience with BI development best practices such as agile methodologies, requirements gathering, requirements analysis, prototyping, testing, and deployment to production.
+Successful candidates should have a knowledge of and commitment to the goals of Jesuit Education.
+Minimum Starting Salary: $88,000
+Maximum Starting Salary : $110,000
+Note: Salary is commensurate with qualifications, experience, and skills.
+FLSA CATEGORY: Exempt
+START DATE: ASAP
+APPLY HERE: https://careers.fordham.edu/postings/3792
+ABOUT FORDHAM
+Founded in 1841, Fordham is the Jesuit University of New York, offering an exceptional education distinguished by the Jesuit tradition to more than 16,000 students in its 9 colleges and schools. It has residential campuses in the Bronx and Manhattan, a campus in West Harrison, N.Y., the Louis Calder Center Biological Field Station in Armonk, N.Y., and the London Centre in the United Kingdom.
+Fordham University is committed to excellence through diversity and welcomes candidates of all backgrounds.
+Fordham is an Equal Opportunity Employer – Veterans/Disabled and other protected categories
+Job Type: Full-time
+Pay: $88,000.00 - $110,000.00 per year
+Schedule:
+8 hour shift
+Education:
+Bachelor's (Required)
+Experience:
+business intelligence development: 2 years (Required)
+Work Location: One location

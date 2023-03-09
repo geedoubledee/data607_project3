@@ -1,0 +1,25 @@
+Infosys is seeking SQL Server DBA. This role requires close partnership and collaboration with other Data Engineers and Subject Matter Experts. Essential Job Duties DBA Consultant having experience with Microsoft SQL Database Administration. The DBA needs to maintain best practices and collaborates with the architecture and application teams to set the technical vision and target architecture
+
+Required Qualifications:
+Candidate must be located within commuting distance of Phoenix, AZ or be willing to relocate to the area. This position may require travel in the US
+Bachelor’s degree or foreign equivalent required from an accredited institution. Will also consider three years of progressive experience in the specialty in lieu of every year of education
+At least 4 years of Information Technology experience
+At least 4 years of experience in MS SQL server administration and maintenance
+Should have worked in SQL Server Advanced Features like Replication and Always on
+Work on issues related to performance tuning and Optimization (PTO), using native monitoring and troubleshooting tools
+Experience and desire to work in a Global delivery environment
+Must be able to work in 24x7 production support environment
+Participate in an on-call rotation for support of systems outside of normal business hours.
+U.S. citizens and those authorized to work in the U.S. are encouraged to apply. We are unable to sponsor at this time
+Preferred Qualifications:
+Experience with project management
+Experience and desire to work in a management consulting environment that requires regular travel
+Planning and Co-ordination skills
+Good Communication and Analytical skills
+The job entails sitting as well as working at a computer for extended periods of time. Should be able to communicate by telephone, email or face to face.
+
+About US:
+Infosys is a global leader in next-generation digital services and consulting. We enable clients in more than 50 countries to navigate their digital transformation. With over four decades of experience in managing the systems and workings of global enterprises, we expertly steer our clients through their digital journey. We do it by enabling the enterprise with an AI-powered core that helps prioritize the execution of change. We also empower the business with agile digital at scale to deliver unprecedented levels of performance and customer delight. Our always-on learning agenda drives their continuous improvement through building and transferring digital skills, expertise, and ideas from our innovation ecosystem.
+
+Visit www.infosys.com to see how Infosys (NYSE: INFY) can help your enterprise navigate your next.
+EOE/Minority/Female/Veteran/Disabled/Sexual Orientation/Gender Identity/National Origin

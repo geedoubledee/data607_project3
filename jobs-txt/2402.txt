@@ -1,0 +1,8 @@
+Needs someone who can do programming in SQL along with DBA skills
+T-SQL – Manipulation of reports – Extraction for reports – Updating the files/databases to get things in synch
+Data tuning – Query tuning – Minor programming (Writing SQL queries) – Pulling data
+Won’t be writing complex queries more like high level queries (Matching 2 or 3 database tables together to create a singular report)
+Top 3 skills:
+SQL database
+SQL scripting and modifications
+T-SQL stored procedures

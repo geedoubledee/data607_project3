@@ -1,0 +1,23 @@
+The Pirates Why
+The Pittsburgh Pirates are a storied franchise in Major League Baseball who are reinventing themselves on every level. Boldly and relentlessly pursuing excellence by:
+purposefully developing a player and people-centered culture;
+deeply connecting with our fans, partners, and colleagues;
+passionately creating lifetime memories for generations of families and friends; and
+meaningfully impacting our communities and the game of baseball.
+At the Pirates, we believe in the power of a diverse workforce and strive to create an inclusive culture centered in Passion, Innovation, Respect, Accountability, Teamwork, Empathy, and Service.
+Job Summary
+The Database Administrator is responsible for maintaining and overseeing the database structures used for data storage and retrieval within the business operations of the Pirates. This position will utilize best practices for extraction, transformation, cleansing, backfilling, and load of all internal and external data into the Pirates cloud-based data warehouse. The Database Administrator is also responsible for updating and maintaining the scheduling for all business intelligence data processes.
+Responsibilities:
+Oversee the daily operation, performance, and maintenance of the data assets used within business operations and makes use of Pirates' standards and industry best practices to implement efficient and high-performance access to data.
+Design, create, and extend processes for data extraction, transformation, cleansing, and load to and from internal and external data sources for both structured and unstructured data.
+Monitor and maintain database structure relationships, inclusive of index management/optimization.
+Identify and mitigate field/table redundancy in data warehouse.
+Develop new and upkeep existing API/FTP/Scraping processes. Clean, normalize, and properly integrate data into data warehouse in an accessible way.
+Maintain, update, and build all Business Intelligence scheduled data processes, maintaining relationships with vendors to backfill missing or incomplete data.
+Work with Director, CRM & Consumer Insights and Pirates data partners to ensure accuracy and timeliness of data integrations with ticketing system.
+Collaborate with Director, Enterprise Systems to ensure processes comply with internal firewalls and securities.
+Identify opportunities to regularly share commonly used data to business leaders.
+Other duties as assigned by management.
+Assist with data retrieval for ad-hoc data analysis.
+Collaborate with Manager, Data Visualization to design, create, and maintain reporting structures using Tableau.
+Job Type: Full-time

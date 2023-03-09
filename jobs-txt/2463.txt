@@ -1,0 +1,48 @@
+SMG – Service Management Group is hiring a Data Scientist to join our team!
+SMG helps organizations generate new revenue, grow existing revenue, reduce churn and detractors, and drive operational efficiencies. Our unique software with a service (SwaS) model puts a dual focus on platform technology and professional services, making it easy for brands to activate insights based on customer, patient, and employee feedback.
+Are you looking for the next professional opportunity that will challenge you and advance your career? Join our team now! SMG is searching for a Data Scientist who will use their technical expertise to create tools, automation methods, and R packages to drive the productivity of the research and client insights functions within the company. This role will not directly serve clients but will boost the effectiveness of the researchers and insights specialists by producing tools to increase productivity, remove pain points, and reduce the burden of repeated manual data analysis and reporting tasks.
+An ideal candidate for this role will be self-motivated, have exceptional problem-solving and listening skills, be able to design and iteratively improve solutions based on stakeholder feedback, and possess the necessary technical skills to deliver reliable solutions in a timely manner.
+As a Data Scientist at SMG, this is what you will do:
+Identify opportunities to deploy automated data analytics solutions to increase the efficiency, reliability, and reproducibility of data analysis and to reduce the time required to complete analytic work.
+Build, deploy, and maintain tools for automating repetitive or time-consuming data analysis and data visualization tasks which are currently being manually executed. Some of these tools will employ machine learning or AI models to generate insights or to reduce researcher and analyst workload.
+Build automated reporting systems via RMarkdown or Shiny.
+Write and maintain R packages for deploying and sharing useful functions across the research group.
+Port the functionality of SPSS user-saved procedures (‘drop-downs’) into R.
+Collaborate with research, insights, product, and engineering teams.
+You are a perfect match for the role if you have:
+A Master’s degree or higher in a relevant field such as computer science, data science, applied statistics, or a quantitative social science field or a bachelor’s degree plus a portfolio of relevant work, prior work experience, or completion of non-degree granting post-baccalaureate training in data science.
+Advanced expertise and experience in
+R programming
+SQL
+Creating automated reports using R (via RMarkdown / Quarto)
+Creating and deploying Shiny applications or dashboards.
+Common data science R packages such as the tidyverse, data.table, or ggplot2.
+Experience with quality software development practices such as version control, unit testing, and functional programming.
+Some experience with non-R dashboard tools such as Microsoft Power BI or Tableau
+Ability to write clean, well-commented code and clear documentation
+Knowledge of supervised and unsupervised learning models.
+Some experience with SPSS
+Experience with MS Office stack, especially Excel and PowerPoint
+Speak and write fluent English
+Required tech stack experience:
+R
+Automated reporting experience using R packages such as RMarkdown, Quarto, Bookdown
+Shiny
+Experience with SQL or similar relational database
+Git
+Microsoft Office applications, especially Excel and PowerPoint
+Nice-to-have experience and skills
+Fluency in Python, including with common data science libraries such as Pandas, numpy, and scikit-learn
+Experience creating R packages
+Expertise in at least one machine learning framework such as tidymodels, caret, mlr3, h2o, scikit-learn
+Experience in creating, deploying, and maintaining production data science applications
+Experience working with survey data
+Experience with Qlik
+Agile project management
+What we offer to our talent:
+This is a remote full-time position. You can work from anywhere that allows a minimum of four hours of business working hours overlap with US Central time zone.
+Competitive compensation package and ample opportunities to learn and grow.
+Diverse, experienced, and friendly team which will welcome you, support you and challenge you.
+We are proud to be an equal opportunity employer. We celebrate diversity and create an inclusive work environment in which all our colleagues experience belonging, have their unique needs respected and met, have equal access to opportunities and resources, and feel fully engaged to contribute to the company’s success.
+
+b6v4zFAvdH

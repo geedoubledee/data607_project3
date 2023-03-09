@@ -1,0 +1,40 @@
+What does a great Business Analyst do?
+The Business Analyst is responsible for gathering business requirements and interpreting business needs into detailed requirements that can be easily understood by the development teams. Duties also include creation of business requirements documentation, ensuring product quality, ease of maintenance, and reusability of the final solution.
+
+As a Business Analyst, you can look forward to:
+Serve as the conduit between the client business units and the technology teams to translate business needs into functional and non-functional requirements.
+Clarify requirements, critically evaluate information from multiple sources, reconcile conflicts, decompose high-level information into details, abstract up from low-level information to a general understanding, and distinguish user requests from the underlying true needs.
+Create and maintain requirements specifications according to standard templates, using natural language.
+Collaborate with developers and architects to establish the technical vision and analyze tradeoffs between usability, performance needs, and other non-functional requirements.
+Accountable for self-organization and tracking completion of assigned tasks as well as reporting project status and issues.
+Additional job functions include providing input to test cases and test data, review testing results to ensure the system meets business requirements and design.
+
+Basic qualifications for consideration:
+Bachelor's degree in information technology, computer science or related area; equivalent experience above the required minimum may substitute for education.
+Minimum of 3 years of experience as a Business Analyst. General experience includes increasing responsibilities in operations or information systems analysis and design.
+Strong problem solving and analytical ability, including knowledge of business analysis techniques and processes (i.e. interviews, document analysis, prototypes, process maps, use cases, or data mapping).
+Excellent oral and written communication skills to include documentation, meeting facilitation, ability to tailor information based upon the audience, and negotiation skills to resolve conflicts.
+Basic project management skills with the ability to self-manage and work on multiple assignments given changing priorities.
+Customer service attitude and willingness to work in a team-oriented environment.
+Ability to assimilate, organize, and summarize large amounts of information.
+Experience with using a formalized software development lifecycle methodology or an Agile framework.
+Experience in Microsoft Office Suite, Microsoft Visio, and SharePoint.
+
+Must Haves
+1. US Citizen and must pass Fiserv’s standard background check.
+2. Bachelor's degree or equivalent experience with 3+ years of experience partnering with business owners to define and translate needs into business requirements and technical solutions.
+3. Proven experience with Software Development Life Cycle (SDLC) process.
+4. Excellent oral and written communication.
+
+Nice to Have
+1. Experience with Higher Education Student Loan Industry.
+2. Knowledge of 5 8WCAG Accessibility standards and tools for validation.
+We will ensure that individuals with disabilities are provided reasonable accommodation to participate in the job application or interview process, to perform essential job functions, and to receive other benefits and privileges of employment. Please contact us to request accommodation.
+Learn more about Fiserv:
+To support the total well-being of our associates, Fiserv takes a broad approach to our benefits. We offer a comprehensive benefits package that provides flexibility and affordability with a variety of medical, dental, vision, life insurance and disability options. We are #FISVProud of our benefits and well-being programs. Our commitment to wellness, wellness education, preventive services and fitness activities are designed to meet you where you are.
+Life moves fast. And as it does, we know most people aren’t thinking about “financial services”. But we are.
+We help people and businesses move money and information every minute of every day. Our solutions connect financial institutions, corporations, merchants and consumers to one another, millions of times a day, behind the scenes, reliably and securely.
+We’re Fiserv, a global leader in Fintech and payments enabling innovative financial services experiences that are in step with the way people live and work today. The company’s approximately 44,000 associates proudly serve clients in more than 100 countries, so their customers, members and consumers can move money when and where they need it, at the point of thought.
+Our Aspiration is to move money and information in a way that moves the world. As a FORTUNE™ 500 company and one of FORTUNE Magazine World’s Most Admired Companies for the eighth consecutive year, we are committed to excellence and purposeful innovation.
+Explore the possibilities of a career with Fiserv and Find Your Forward with us.
+Fiserv is an Equal Employment Opportunity Employer, and it is the Company’s policy to make all employment decisions without regard to race, color, religion, creed, age, sex, national origin, veteran status, disability (as long as the individual is able to perform the essential functions of the job with or without reasonable accommodation), and any other characteristic protected by Law.

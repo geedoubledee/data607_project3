@@ -1,0 +1,50 @@
+Required Qualifications
+2+ years of relevant work experience in data analysis or related field. (e.g., as a statistician / data scientist / scientific researcher)
+Fundamental knowledge in fields such as statistics, machine learning, deep learning.
+2+ years of practical experience developing, deploying production machine learning applications such as supervised learning, unsupervised learning.
+2+ years of programing skills in Python.
+Interest in researching cutting-edge methods in AI, particularly reinforcement learning and federated machine learning.
+Job Specific Qualifications
+Analysis
+Expertise in at least one of the following fields: Deep Reinforcement Learning, Federated Machine Learning, Generative Adversarial Networks
+Experience with Neural Networks, including CNNs
+Experience applying scientific methodologies to parameter and model tuning
+Experience working with data driven Python with modules such as TensorFlow, Keras, NumPy, SciPi, Pandas, Matplotlib, PyTorch, Scikit-Learn
+Familiarity with CUDA framework and GPU training / inference
+Experience with version control tools, such as Git
+Problem Solving
+Solves complex problems with hypothesis-driven data science
+Understanding of data ingestion and transformation
+Capable of running multiple scenarios and pick up the optimal solution
+Capable of understanding advanced mathematical or physical explanations, to implement or execute the requested tasks. (e.g., Fourier Transform, Power Spectral Density, Monte Carlo simulation, etc.)
+Team & Business Skills
+Work incollaboration with data science team and mentors junior scientists
+Demonstrated ability to collaborate with a diverse team
+Consistently improves communication skills, both verbally and in written materials
+Demonstrated creativity in problem solving
+Demonstrated leadership and self-direction; demonstrated willingness to both teach others and learn new techniques
+Flexibility in task switching. For instance, when there are urgent requests or change of projects, can accommodate the changes without protesting
+Mindful of iterations and quality check in a smaller team, before presenting results to larger audience
+Raises critical issues when detected
+Want to learn more about the Consulting Services Team? Check us out on our platform: https://www.wwt.com/service/consulting-services/overview
+The well-being of WWT employees is essential. So, when it comes to our benefits package, WWT has one of the best. We offer the following benefits to all full-time employees:
+Health and Wellbeing: Heath, Dental, and Vision Care, Onsite Health Centers, Employee Assistance Program, Wellness program
+Financial Benefits: Competitive pay, Profit Sharing, 401k Plan with Company Matching, Life and Disability Insurance, Tuition Reimbursement
+Paid Time Off: PTO & Holidays, Parental Leave, Sick Leave, Military Leave, Bereavement
+Additional Perks: Nursing Mothers Benefits, Voluntary Legal, Pet Insurance, Employee Discount Program
+Diversity, Equity, and Inclusion is more than a commitment at WWT - it is the foundation of what we do. Through diverse networks and pipelines, we have a clear vision: to create a Great Place to Work for All. We believe inclusion includes U. Be who U are at WWT!
+Equal Opportunity Employer Minorities/Women/Veterans/Individuals with Disabilities
+Certain states and localities require employers to post a reasonable estimate of salary range. Please feel free to discuss this further with your recruiter. Actual salary will be based on a variety of factors, including location, experience, skill set, performance, licensure and certification, and business needs. The range for this position in other geographic locations may differ.
+Some WWT customers have a COVID-19 vaccine requirement. In order to work on projects for these customers, employees must be fully vaccinated or have an appropriate religious or medical accommodation.
+Requirements:
+Why WWT?
+Fueled by creativity and ideation, World Wide Technology strives to accelerate our growth and nurture future innovation. From our world class culture, to our generous benefits, to developing cutting edge technology solutions, WWT constantly works towards its mission of creating a profitable growth company that is a great place to work. We encourage our employees to embrace collaboration, get creative and think outside the box when it comes to delivering some of the most advanced technology solutions for our customers.
+At a glance, WWT was founded in 1990 in St. Louis, Missouri. We employ over 7,600 individuals and closed nearly $14 Billion in revenue. We have an inclusive culture and believe our core values are the key to company and employee success. WWT is proud to announce that it has been named on the FORTUNE "100 Best Places to Work For®" list for the 11th consecutive year!
+Want to work with highly motivated individuals that come together to form high performance team? Come join WWT today!
+Position Overview:
+World Wide Technology, Inc. has a unique opportunity for a talented, dedicated person to fill the role of Mid Data Scientist. They're up for joining a nimble, start-up team that's backed by a forward-thinking global organization. This person will work as part of a product focused startup, to ensure software products are built of the highest quality. The data science team is responsible for developing a reinforcement learning/federated machine learning solution in conjunction with the software engineering team. The Mid Data Scientist is responsible for helping lead the science work on the product - researching appropriate methods, testing and iterating on solutions, and ensuring quality of deliverables. This is a remote position, with the possibility for occasional travel.
+Responsibilities:
+Work closely engineering and technology teams
+Research and develop internal capabilities to enhance the team members' skillsets on latest data science techniques; work towards producing innovative solutions to the existing challenges
+Provide thought leadership in algorithmic and process innovations, and contribute to creativity in solving unconventional problems
+Provide mentorship and training to junior team members

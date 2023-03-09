@@ -1,0 +1,51 @@
+Business Intelligence Developer
+About Kalkomey
+Kalkomey Enterprises is the trusted guide to outdoor success. Our platform connects millions of people to the outdoors every year and we are the leading provider of safety-related education for outdoor recreational activities such as hunting, fishing, boating, snowmobiling and more in North America. Since our founding in 1995, our industry and product expertise has grown such that today we offer over 360 high-quality online and in-person educational courses, a suite of integrated web and mobile applications, and resources tailored to ensure our outdoor enthusiasts recreate safely and successfully.
+Kalkomey believes passionately that experiencing the outdoors improves our lives as individuals, families, and communities. We leverage our strong foundation in recreational safety education to become the trusted guide for consumers to experience success in all facets of their outdoor endeavors. And as passionate as we are in our mission, we are as equally passionate about fostering a work environment that supports our employees’ own strengths and personal passions.
+Kalkomey is seeking a Business Intelligence Developer to join our Business Intelligence team. In this role, you will work as a data engineer to facilitate the create of a data warehousing platform. Ultimately, we want to provide out business with a world-class, self-service data platform. We pull from multiple data sources including Rest APIs, Postgres, and MySQL.
+
+We have recently implemented Apache Airflow and would like a candidate with a strong Python foundation to help us leverage this tool to its full potential. In addition to Airflow/ELT, we want a candidate who is comfortable with cloud-based technologies like AWS S3 and Redshift, but other cloud equivalents are acceptable.
+
+If you think you meet some of the qualifications but not all, that is okay! Desire to learn and grow is the most important, but we will need to hit the ground running with Airflow, so Python and SQL are a must have.
+
+Essential Duties and Responsibilities
+Work closely with team members to understand business objectives and provide solutions to facilitate analytics.
+Create and maintain airflow data pipelines. Data sources vary between on prem and cloud-based services.
+Act as a subject matter expert for all ETL solutions.
+Create data models to facilitate data discovery and dashboards creation.
+Assist with reporting/analytical solutions for Kalkomey’s SaaS solutions.
+Work with various development teams to retrieve data from source database.
+Gather large, complex data sets from source systems to provide insightful reports and dashboards.
+Maintain and support data analytics platforms.
+Work with various departments to provide insight into functional data.
+Ad Hoc data retrieval and reporting.
+
+Qualifications
+2+ years experience in data engineering
+Strong skills in Python and SQL scripting
+Exposure to MySQL and Postgres databases
+Experience extracting data from various database platforms, file formats, and Rest APIs
+Experience with an ETL platform (we use Apache Airflow)
+Ability to work autonomously, think creatively, and desire to continuously learn new skills
+Passion for data engineering, teamwork, and the outdoors!
+
+Preferred
+Experience working with Apache Airflow as an ETL platform
+Experience with Sisense, Tableau, or PowerBI
+Experience with AWS S3 and Redshift
+Knowledge of star schemas and snowflake data models for BI tool analysis
+Understanding of the Agile methodology and Scrum framework
+
+What we Offer:
+In addition to a competitive salary and annual bonus, we offer these great benefits:
+Employer matched 401(k)
+Medical/Dental/Vision insurance with generous employer contributions (including HSA)
+Maternity and Paternity benefits
+3 weeks paid vacation, paid community service day, and a flexible work schedule
+Automatic WFH contribution to each pay check
+DashPass subscription for free lunch delivery
+Annual fitness and wellness stipend
+
+Kalkomey Enterprises, LLC is an Equal Opportunity Employer. All applicants will be considered for employment without attention to race, color, religion, sex, sexual orientation, gender identity, national origin, veteran, or disability status.
+
+bUkiu5UqQ1

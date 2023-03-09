@@ -1,0 +1,71 @@
+Introduction
+
+
+This is a contractual position with limited State of Maryland benefits
+
+
+Work that matters. The Maryland Department of Housing and Community Development is a nationally recognized leader in affordable housing programs. The department is committed to enhancing our Information Technology capabilities. We are recruiting for a database administrator proficient working in a team environment or individually, and skilled in the administration of relational databases using such as SQL Management Studio, as well as VisualStudio.Net, other programming tools.
+
+Qualified candidates will possess experience developing software in a team environment,individually, or using AGILE development methodologies. Proficiency with Microsoft SQL Server is required, as is the ability to use Microsoft VisualStudio.
+
+The candidate must be familiar with database development and administration, including designing, testing, deploying and maintaining databases. The candidate will have the ability to perform all assignments independently or in a team environment.
+
+This is a contractual position, expected to last 4-5 years, contingent upon funding and satisfactory employee performance.
+
+
+DHCD offers a flexible work schedule, telework opportunities, job sharing options, career advancement, casual business dress on Fridays, and a competitive salary. DHCD’s office is located in close proximity to the New Carrollton metro stop.
+GRADE
+19
+LOCATION OF POSITION
+7800 Harkins Road Lanham, MD 20706.
+
+The Department of Housing and Community Development Headquarters is located in Prince George's County across from the New Carrollton Metro stop.
+POSITION DUTIES
+The main purpose of this position is the design, development, testing, implementation and maintenance of database and related software systems. This position requires familiarity of Housing and Community Development programs. Some of the Department’s line-of-business software use Commercial-Off-The-Shelf (COTS) software as their foundation, but other software are developed entirely from scratch. The position must recognize and treat appropriately any non-public information, including Personally Identifiable Information (PII). The incumbent must understand and adhere with Departmental programming standards and methodologies, including State Software Development Life Cycle (SDLC) guidelines.
+
+Please note: this is a non-competitive position, as it is a short-term contract, expected to last 4-5 years, contingent upon funding and satisfactory employee performance.
+
+Special Note: Applicants may be contacted for other opportunities within DHCD.
+MINIMUM QUALIFICATIONS
+Education: Typically requires a Bachelor's degree from an accredited college or university.
+
+Experience: One to two years of experience performing database development and administration for multi-tiered client-server software in an organization with extensive level of program integration and reliance on technology.
+
+Notes:
+
+1. Candidates may substitute graduation from an accredited high school or possession of a high school equivalency certificate plus thirty credit hours from an accredited college or university in Computer Information Technology, Management Information Systems, Computer Science or other information technology-related field to include course work in database management systems for the required education.
+
+2. Candidates may substitute graduation from an accredited high school or possession of a high school equivalency certificate and one year of experience designing, developing, testing, implementing and maintaining applications systems and programs using generally accepted computer programming languages or maintaining and modifying operating systems for computers for the required education.
+
+3. Candidates may substitute experience operating computer systems; or scheduling, controlling input and output or maintaining a tape library to process data on computer systems; or converting data from project specifications by developing program code using generally accepted computer programming languages on a year-for-year basis for a high school education.
+
+4. Candidates may substitute U.S. Armed Forces military service experience as a commissioned officer in Database Administration classifications or Database Administration specialty codes in the Information Technology field of work on a year-for-year basis for the required education.
+DESIRED OR PREFERRED QUALIFICATIONS
+One year of experience with Microsoft SQL Management Studio
+One year of experience administering enterprise databases
+SELECTION PROCESS
+Please provide sufficient information on your application to document that you meet the minimum qualifications for this recruitment. Unofficial transcripts, certifications or diplomas to document educational or certification qualifications are required. Educational credentials from foreign countries must be evaluated by an approved education review service. This evaluation must be submitted with your application. For further information, you may call International Consultants of Delaware, Inc. (302) 737-8715 or World Education Services Inc. 1-800-932-3897 or (202) 331-2925. Successful candidates will be placed on the employment (eligible) list for at least one year. Eligible list may be used to fill future vacancies of the same classification. Successful candidates must document eligibility to work in the U.S. upon hire.
+
+Please note: The Maryland Department of Housing and Community Development is not sponsoring new employees in application of the H-1B Visa at this time due to budgetary constraints. All applicants must be legally authorized to work in the United States under the Immigration and Reform Control Act of 1986. Federal regulations prohibit H1B Visa candidates from paying sponsorship fees, all sponsorship fees must be assumed by the potential employer.
+EXAMINATION PROCESS
+The examination will consist of a rating of your education, training, and experience related to the requirements of the position. You may be required to complete a qualifications supplement, or the rating may be based on your application. Therefore, it is important that you provide complete and accurate information on your application. Report all experience and education that is related to this position.
+BENEFITS
+Contractual employees who work for an agency covered under the State Employee and Retiree Health and Welfare Benefits Program (the Program), have a current employment contract and work 30 or more hours a week (or on average 130 hours per month) may be eligible for subsidized health benefits coverage for themselves and their dependents. As a contractual employee, you will be responsible for paying 25% of the premiums for your medical and prescription coverage, including any eligible dependents you have enrolled. The State of Maryland will subsidize the remaining 75% of the cost for these benefits. You can also elect to enroll in dental coverage, accidental death and dismemberment insurance, and life insurance, but will be responsible to pay the full premium for these benefits. Leave may be granted to a temporary/contractual employee who has worked 106 days in a 12 month period. This leave accrues at a rate of one hour for every 30 hours worked, not to exceed 40 hours per calendar year.
+FURTHER INSTRUCTIONS
+Online applications are STRONGLY preferred. However, if you wish to submit a paper application, you may mail your application and materials to:
+Kathleen Hubbard
+Department of Housing and Community Development
+Office of Human Resources
+7800 Harkins Road, Lanham, MD 20706
+All application materials must be received by the filing deadline. If you are unable to upload your transcripts into the system, please send via email to Kathleen.Hubbard@maryland.gov. Please include the following information in the body of the email:
+Attn: Kathleen Hubbard, Senior HR Generalist
+Your First and Last Name
+Recruitment #
+Classification (Job Title) of Recruitment
+Incorrect application forms, or resumes in place of the application, will not be accepted. If you are interested in these positions and cannot apply online please fill out the paper application. For questions concerning these positions, please call 301-429-7418.
+
+TTY Users: call via Maryland Relay.
+
+We thank our Veterans for their service to our country, and encourage them to apply.
+
+As an equal opportunity employer, Maryland is committed to recruiting, retaining and promoting employees who are reflective of the State’s diversity.

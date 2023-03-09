@@ -1,0 +1,40 @@
+About Alethea Group
+Alethea Group is a technology company helping the Fortune 500, private companies and nonprofits protect themselves from harms stemming from disinformation. Leveraging its multi-channel machine learning platform, Artemis, Alethea detects disinformation narratives across the internet, enabling customers to proactively defend against this pervasive threat. With Artemis-powered early detection, Alethea customers can protect their reputations, key assets, physical safety and market value. The company was founded in 2019 and is woman owned.
+Position Summary
+Alethea Group is seeking a Head of Data Science to lead our Data Science team. We're looking for an experienced technical lead to grow our team as well as its technical vision. You will help scale our technology and enable Alethea Group's customers to make better data-driven decisions. In partnership with our Analysis and Engineering teams, you will help design and productize methodologically-sound modeling techniques that aid in understanding the online disinformation threat. While this is a leadership position, you will be deeply technical, having extensive experience personally designing and executing advanced machine learning models for a range of different research questions, as well as a deep knowledge of their theoretical underpinnings. This position has high visibility within and will have a significant impact on the company. This position reports directly to the Senior Vice President of Engineering.
+Responsibilities Include:
+Collaborate with business leaders across Alethea Group to define and execute on a vision for data and analytics that will enable customers to make data-driven decisions.
+Design, build, and drive overall strategy and roadmap for the processes, systems and tools, and capabilities required to produce and maintain our core data assets.
+Drive the Data Science team's delivery of a modern ML solution by developing technical strategy and designing and scaling data, models, and platform experiences.
+Continue to attract, lead, and mentor members of our high-performing team of data scientists, machine learning engineers, and data analysts, with a dedicated focus on their professional development and growth.
+Set data standards and oversee stewardship, ensuring that all products and services have data standards built in from the start.
+Develop internal frameworks, methodologies, and best practices that help facilitate the modeling lifecycle.
+Collaborate with leadership to make reasonable trade-offs on staffing whilst prioritizing initiatives.
+Become a senior advisor to senior engineering and technical leaders on org-wide initiatives that are both technical and cultural in nature.
+Stay informed and educated on industry trends and how we can implement them into our product solutions.
+Deliver solutions to solve business specific problems mapped to use cases.
+Implement new statistical or other mathematical methodologies as needed for specific models or analysis.
+About You:
+Masters or Ph.D. in a quantitative or technical field
+Current position of at least Principal Engineer, Principal Data Scientist , or Director (or equivalent)
+Minimum of 10 years of professional, deep technical experience in advanced Data Science domains such as predictive modeling, statistical analysis, machine learning, text mining, geo-spatial modeling, time series forecasting, optimization
+Deep technical experience, including extensive experience personally designing and executing advanced machine learning models for a range of different research questions
+Deep theoretical understanding of machine learning approaches, including individual methods' unique strengths and weaknesses, and demonstrated ability to make effective modeling choices based on trade-offs
+Proven track record of designing and driving effective research agendas in under-defined, open-ended research spaces, with demonstrable actionable results
+Strong leadership capabilities with experience collaborating with and leading, mentoring, and engaging teams
+Extensive hands-on technical experience applying supervised/unsupervised modeling techniques to turn big data into actionable insights
+Extensive experience leading large-scale ML system design across an organization/division
+Proven track record of peer-reviewed publications, particularly in machine learning
+Significant experience using important machine learning libraries (Jax, Tensorflow, PyTorch, Transformers, Scikit-learn, Pandas)
+Experience in the modeling lifecycle including, ETL pipelines, exploration, modeling, deployment, quantization, and monitoring
+Experience with model distillation and quantization approaches
+Self-motivated and proactive, helping to identify challenges and provide solutions
+Strong communication and presentation skills to explain highly technical solutions to technical and non-technical audiences
+Compensation and Benefits
+Salary and stock options are negotiated based on experience
+Healthcare at the gold-tier level, dental, and vision is fully funded by the employer. 50% of dependent coverage is provided by the employer
+Unlimited vacation and sick leave, including office closure between Christmas and New Years, and extended holidays at Thanksgiving and the 4th of July
+Employer sponsored 401k with a 3% match
+Remote-first role, with the ability to work anywhere in the United States. Headquarters is located in Washington, D.C.
+Alethea Group welcomes talent from all backgrounds, experiences, perspectives, abilities and walks of life. We strive to create an inclusive and diverse workforce, providing a supportive environment for all employees. Kindness is one of our core values. We strongly encourage you to apply even if you don't meet every qualification.
+Alethea Group is an equal opportunity employer that encourages people of all backgrounds, genders, ethnicities, abilities, and sexual orientations to apply. We are committed to being an inclusive place to work, while maintaining a workforce that represents the communities we serve.

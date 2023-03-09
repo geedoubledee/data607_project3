@@ -1,0 +1,39 @@
+Vice President Product Manager - Data Science
+J.P. Morgan Chase is seeking a talented leader for the position of Product Manager for our Commercial Bank (CB) Digital, Data and Product group. The roles will have responsibility for the delivery of Data Strategy focused on traditional banking products and services. The Product Managers will work with, and have accountability to, the Head of Data & Analytics at Digital, Data and Product (DDP) group at Commercial Bank.
+Key Responsibilities:
+In this role, you are responsible for setting up and ensuring successful execution of data strategy for digital banking products at CB. This includes applying statistical models (Machine Learning/Deep Learning) on large datasets to
+
+
+
+(1) establish and determine core performance metrics of banking products & services
+(2) analyze user adoption and market trends
+(3) forecast market potential and risks
+
+
+Specific responsibilities include building data strategy and integration roadmap, business requirement gathering, creation of an integrated roadmap across products, bridging design and development teams, development of KPIs and execution against, delivery, internal and external feedback and integration for agile initial build and for future dot releases, and adoption.
+Managing across a matrixed organization with key dependencies from partners and functions outside of the organizational hierarchy and line of business.
+You are an entrepreneurial leader who will partner with the CB Sales, Marketing and Business Development leadership to ensure that Digital Banking initiatives and projects support and grow the firm's CB business.
+
+Qualifications:
+10+ years of total professional experience including leading projects.
+Proven end-to-end problem-solving skills with the ability to solve large, complex business problems, obtain consensus and drive organizational transformation.
+Effective use of business knowledge and technical expertise to challenge assumptions and operating models coming from experience in strategy, product management and go to market at large organizations
+Experience in product management, Agile Development, Product Owner role
+Successful track record demonstrating a high level of personal initiative, setting and achieving challenging goals and demonstrating entrepreneurial spirit within large enterprises and startups to resolve diverse business challenges.
+Ability to interact with colleagues at all levels, work through influence across functional boundaries to achieve goals without direct control over resources.
+Experience in software firms, Financial institutions, building products and leading cross functional launch initiatives is preferable
+Excellent written and oral communication skills and strong relationship building across the organization
+Passion for building something new, working across boundaries to drive change and helping others succeed.
+Degree in Mathematics, Engineering, Computer Science or in a related discipline
+Business Intelligence, Data science, ML, AI, Analytics, Data Integration experience is a must for Data Analytics Product Manager
+
+The final title and job grade is at the discretion of the firm and will be discussed at the time of offer. It may be different than what is listed on the requisition based on candidate experience level.
+JPMorgan Chase & Co., one of the oldest financial institutions, offers innovative financial solutions to millions of consumers, small businesses and many of the world's most prominent corporate, institutional and government clients under the J.P. Morgan and Chase brands. Our history spans over 200 years and today we are a leader in investment banking, consumer and small business banking, commercial banking, financial transaction processing and asset management.
+We recognize that our people are our strength and the diverse talents they bring to our global workforce are directly linked to our success. We are an equal opportunity employer and place a high value on diversity and inclusion at our company. We do not discriminate on the basis of any protected attribute, including race, religion, color, national origin, gender, sexual orientation, gender identity, gender expression, age, marital or veteran status, pregnancy or disability, or any other basis protected under applicable law. In accordance with applicable law, we make reasonable accommodations for applicants' and employees' religious practices and beliefs, as well as any mental health or physical disability needs.
+The health and safety of our colleagues, candidates, clients and communities has been a top priority in light of the COVID-19 pandemic. JPMorgan Chase was awarded the "WELL Health-Safety Rating" for all of our 6,200 locations globally based on our operational policies, maintenance protocols, stakeholder engagement and emergency plans to address a post-COVID-19 environment.
+As a part of our commitment to health and safety, we have implemented various COVID-related health and safety requirements for our workforce. Employees are expected to follow the Firm's current COVID-19 or other infectious disease health and safety requirements, including local requirements. Requirements include sharing information including your vaccine card in the firm's vaccine record tool, and may include mask wearing. Requirements may change in the future with the evolving public health landscape. JPMorgan Chase will consider accommodation requests as required by applicable law.
+
+We offer a competitive total rewards package including base salary determined based on the role, experience, skill set, and location. For those in eligible roles, discretionary incentive compensation which may be awarded in recognition of individual achievements and contributions. We also offer a range of benefits and programs to meet employee needs, based on eligibility. These benefits include comprehensive health care coverage, on-site health and wellness centers, a retirement savings plan, backup childcare, tuition reimbursement, mental health support, financial coaching and more. Additional details about total compensation and benefits will be provided during the hiring process.
+Equal Opportunity Employer/Disability/Veterans
+Base Pay/Salary
+Palo Alto,CA $123,500.00 - $180,000.00 / year

@@ -1,0 +1,40 @@
+The Retail Pharmacy Analytics team serves as a critical partner to the retail pharmacy business, helping them to achieve core business goals related to script volume, immunizations, and digital activation. The team builds advanced analytic solutions (using Machine Learning and other statistical techniques) to identify/create campaigns and interventions, put them into production, and measure them. Additionally, the team builds tools and capabilities to enable business units to design, run, and measure their own interventions.
+
+The Executive Director would directly manage 3 directors, who each manage teams of 5-10 data scientist/analytics consultants/managers. The primary responsibilities are to ensure alignment between our team’s roadmaps and the vision of senior stakeholders and data engineering, ensure we are delivering against those roadmaps with high quality work and transparency, and to ensure our team feels challenged/enthusiastic/fulfilled by our work.
+
+The compensation range reflects the enterprise wise range for base salary only.
+
+Pay Range
+The typical pay range for this role is:
+Minimum: 157,800
+Maximum: 347,200
+
+Please keep in mind that this range represents the pay range for all positions in the job grade within which this position falls. The actual salary offer will take into account a wide range of factors, including location.
+
+Required Qualifications
+12+ years of total experience
+6+ years in Healthcare/Pharmacy space
+6+ years of experience managing large data science teams
+6+ years of experience in building strategic roadmaps in Analytics and executing on identified opportunities
+3+ years of experience with modern DS tools/stack
+3+ years of experience leading teams of 10+ FTEs in data science
+3+ years of experience collaborating with data engineering team(s)
+3+ years of experience developing and autonomously leading relationship with core clients, from peers up to VP level, to align on initiatives, provide regular updates, and solicit buy-in and feedback along execution
+
+Preferred Qualifications
+Experience with both ML and statistics
+Experience with engineering scaled solutions, collaboratively with data engineering teams
+Experience with engineering scaled solutions
+Experience operating in cloud environment
+Ability to translate business problems into analytical solutions, frame and break down problems for analytics team
+Ability to structure data analysis, driving analytics insights and analytical solutions, and present recommendations to senior staff and internal clients and stakeholders
+Strong people leadership, positive, collaborative, relationship-builder, ability to manage up and down
+Ability to lead through ambiguity and complexity to take calculated risks to solve problems, forge new paths for growth, and achieve challenging goals. Demonstrated resilience and resourcefulness when faced with challenges and obstacles.
+Strong executive presence and communication skills: capable of influencing and driving collaboration at all levels within the organization. Proven ability to influence key stakeholders as well as drive meaningful change and innovation.
+The ideal candidate will have high emotional intelligence and an exceptional ability to collaborate with internal and external stakeholders.
+
+Education
+Advanced degree (Master’s or PhD) in quantitative field (Statistics, Computer Science, Mathematics, Physics, Data science, etc) required.
+
+Business Overview
+Bring your heart to CVS Health Every one of us at CVS Health shares a single, clear purpose: Bringing our heart to every moment of your health. This purpose guides our commitment to deliver enhanced human-centric health care for a rapidly changing world. Anchored in our brand — with heart at its center — our purpose sends a personal message that how we deliver our services is just as important as what we deliver. Our Heart At Work Behaviors™ support this purpose. We want everyone who works at CVS Health to feel empowered by the role they play in transforming our culture and accelerating our ability to innovate and deliver solutions to make health care more personal, convenient and affordable. We strive to promote and sustain a culture of diversity, inclusion and belonging every day. CVS Health is an affirmative action employer, and is an equal opportunity employer, as are the physician-owned businesses for which CVS Health provides management services. We do not discriminate in recruiting, hiring, promotion, or any other personnel action based on race, ethnicity, color, national origin, sex/gender, sexual orientation, gender identity or expression, religion, age, disability, protected veteran status, or any other characteristic protected by applicable federal, state, or local law. We proudly support and encourage people with military experience (active, veterans, reservists and National Guard) as well as military spouses to apply for CVS Health job opportunities.

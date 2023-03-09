@@ -1,0 +1,53 @@
+Requisition Number: ENG-002-0622
+Location: Boulder, CO
+Employment Type: Full Time, Salary
+Stratom, Inc. is a high-tech company specializing in autonomous robotics and unmanned vehicles. The company attracts high-performing professionals who thrive on the development and implementation of innovative solutions and who are committed to honesty, integrity, and excellence.
+What you'll get to do:
+Stratom is seeking a versatile individual with professional experience in Machine Learning and team leadership to be a major contributor to our unmanned vehicle and autonomous robotic arm projects. As a growing R&D firm, each team member is asked to wear many hats and contribute to a wide variety of disciplines, so resourcefulness and adaptability are highly valued. A strong candidate will also have outstanding interpersonal skills and be ready to become a prominent leader within our engineering team right away.
+Skills:
+We are seeking an individual with a combination of the skills listed below and certainly don’t expect you to have experience with each line item. If you believe you strike a good balance for the job, please don’t hesitate to apply.
+Software Engineering:
+Develop, train, and test models for object detection, tracking, classification, and segmentation.
+Using ML approaches to solve autonomous vehicles and other robotic problems.
+Understanding of data collection and labeling design and execution
+Experience working with image (visual, IR, etc.) and point cloud data
+Deploying models to embedded hardware, such as the NVIDIA Jetson and similar targets.
+Experience with deep learning frameworks such as PyTorch, Tensorflow, etc.
+Professional development experience with C++ and Python.
+Experience with the Robotic Operating System (ROS).
+FOSS libraries, frameworks, and tools that support the development of robotics systems.
+Ability to contribute core engineering skills and expertise in systems engineering, robotics, embedded systems, sensor selection, electrical engineering, and/or software development.
+Work with customers and leading teammates to develop operational concepts, system-level requirements, and interface definitions.
+Writing requirements, developing test plans, and completing verification/validation procedures.
+Comfortable working at various levels on a project team and across multiple disciplines.
+Domain knowledge in autonomous vehicle sensing technology and perception algorithm development (Images, Point Clouds, etc.)
+Engineering Leadership:
+Demonstrated project management, leadership, and people skills
+Ability to guide and provide task prioritization to team members
+Proven ability to grow and develop peers and subordinates
+You'll Bring These Qualifications:
+Education and Experience: Minimum 3+ years of experience building, training, evaluating, and deploying models. A Bachelor of Science in a relevant Engineering Field (Electrical, Computer, Mechanical, Computer Science, or Robotics) is required. An advanced degree or certification in any of these disciplines is preferred.
+Additional Requirements: This position requires the use of information that is subject to the International Traffic in Arms Regulations (ITAR) and/or the Export Administration Regulations (EAR); non-U.S. persons selected must meet eligibility requirements for access to export-restricted information. The ITAR/EAR defines a U.S. person as a U.S. Citizen, U.S. Permanent Resident (i.e. 'Green Card Holder'), Political Asylee, or Refugee.
+DoD Security Clearance or ability to obtain one.
+Ability to travel up to 10% for system integrations and prototype demonstrations.
+Compensation and Benefits: Salary range of $120,000 - $180,000
+Employment Type: This is an Exempt Full-time Salaried position
+Stratom, Inc. offers an array of benefits to eligible full-time employees, including health insurance, life and AD&D insurance, a retirement investment plan, annual paid time off, and holiday pay. Stratom provides reasonable accommodation so that qualified applicants with a disability may participate in the selection process. Please advise us of any accommodations you request in order to express interest in a position by e-mailing or calling the below information. Please state your request for assistance in your message. Only reasonable accommodation requests related to applying for a specific position within Stratom, Inc. will be reviewed at the e-mail address and phone number supplied. Thank you for considering a career with Stratom, Inc. To apply for this position, please submit your resume with the Requisition Number by calling (802) 535-4075. Stratom is an equal opportunity/ affirmative action employer. It is company policy to provide equal opportunity in all areas of employment practice without regard to race, color, religion, sex, sexual orientation, national origin, age, marital status, veteran status, citizenship or disability.
+Job Type: Full-time
+Pay: $120,000.00 - $180,000.00 per year
+Benefits:
+Dental insurance
+Health insurance
+Paid time off
+Vision insurance
+Schedule:
+Monday to Friday
+Ability to commute/relocate:
+Boulder, CO 80301: Reliably commute or planning to relocate before starting work (Required)
+Application Question(s):
+Are you a US Citizen?
+Education:
+Bachelor's (Preferred)
+Experience:
+building, training, evaluating, and deploying models: 3 years (Preferred)
+Work Location: One location

@@ -1,0 +1,44 @@
+It's fun to work in a company where people truly BELIEVE in what they're doing!
+We're committed to bringing passion and customer focus to the business.
+The Database Administrator is responsible for the performance, integrity, and security of multiple data bases in the corporation. Additionally will provide advanced technical expertise for database design, development, implementation, data flow, and analysis.
+Essential Duties and Responsibilities
+Maintains database performance by calculating optimum values for database parameters, implementing new releases, and completing maintenance requirements..
+Recommends solution by defining database physical structure and functional capabilities, database security, and data backup and recovery specifications.
+Installs revised or new system by proposing specifications and flowcharts, recommending optimum access techniques, and coordinating installation requirements.
+Supports database functions by designing and coding utilities and reporting tools.
+Maintains quality service by establishing and enforcing database policy, procedures, and standards.
+Provide proactive and reactive data management support to users.
+Coordinate related training for users.
+Ensures that all departmental documents and activities are performed in compliance with applicable laws, regulations, policies and procedures as applicable to this position, including completion of required compliance training.
+Performs other duties and responsibilities as assigned.
+Qualifications
+To perform this job successfully, an individual must be able to perform each essential duty satisfactorily. The requirements listed below are representative of the knowledge, skill, and/or ability required.
+Skills
+Ability to read and comprehend simple instructions, short correspondence, and memos.
+Ability to read and interpret documents such as procedure manuals, general business correspondence and/or journals or government regulations
+Ability to write simple-to-business correspondence, routine reports, and procedures.
+Ability to speak effectively and present information in one-on-one/small group situations, to customers, clients, and other employees in the organization.
+Education and/or Experience
+BS/BA Degree (4 year) from an accredited university/college OR
+Four to six years of experience as a Database Administrator.
+In-depth knowledge of Microsoft SQL administration required. Knowledge of DB2 preferred.
+Computer Skills
+MS Office programs.
+Telephone, scanner, copier and fax machines.
+Personal Computer keyboard.
+Certificates, Licenses, Registrations
+MCSE: Data Management and Analytics or similar a plus.
+
+Other Qualifications (including physical requirements)
+Strong oral and written communication skills.
+Strong organizational, problem solving, and planning skills with the ability to set priorities.
+General banking knowledge preferred.
+Able to arrive at work on time, work on site and have regular work attendance.
+Able to multitask.
+Able to work in fast paced atmosphere.
+Able to meet deadlines.
+Able to work outside of normal business hours.
+Able to work cooperatively with other co-workers regardless of personality, presence or communication style.
+Able to provide cordial customer service regardless of customer personality, presence or communication style.
+Willingness to take advantage of opportunities to be involved in community and charitable organizations.
+Equal Employment Opportunity Information: Simmons First National Corporation and its subsidiaries are committed to a policy of equal employment with respect to a person's race, color, religion, sex, ancestry, sexual orientation, gender identity, national origin, covered veterans, military status, physical or mental disability or any other legally protected classifications. Simmons First National Corporation and its subsidiaries are committed to Affirmative Action Programs consisting of results-oriented procedures to ensure equal employment opportunities. These programs require positive action in lieu of neutral non-discrimination and merit hiring/performance policies.

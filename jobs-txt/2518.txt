@@ -1,0 +1,41 @@
+We’re looking for a Senior Data Scientist who’s excited to build new product functionality from start to finish and polish our existing data products. Our team is creating innovative new tools, such as Risk Scoring and Automated Valuation Models, that help our customers understand the post-renovation value of their homes and help the company drive smart decisions.
+Our team is focused on crafting a user experience that makes the complex process of financing a renovation accessible and easy to understand. On any given day, we might be working on the interfaces that will help homeowners navigate the process of funding their renovation or the systems that enable our lending partners to offer our products.
+What you’ll do at RenoFi
+Design and build advanced data products using statistics and ML techniques. These data products serve as a core market differentiator for RenoFi
+Mine large datasets and perform analyses for gathering valuable insights and leverage this information to make recommendations that will influence how we make business decisions
+Collaborate with multiple departments and use a combination of computer science and applications, modeling, statistics, analytics, and math to solve problems
+Extract data from multiple sources
+Sift and analyze data from multiple angles, looking for trends that highlight problems or opportunities
+Communicate essential findings and insights to leadership
+Make recommendations to adapt our existing operational processes and business strategies
+What you'll bring to the team
+You have professional experience with the real estate market
+You have 2+ years of experience applying methods from machine learning and statistics to real-world datasets
+You are proficient in implementing different machine learning algorithms
+You have experience designing and/or deploying machine learning systems in production
+You have experience in spatial and temporal data science techniques
+Fluency in Python and familiarity with its tech stack such as NumPy, Pandas, Scikit learn
+You have advanced knowledge of SQL
+You write code that follows best practices
+You are eager to ship products to get user feedback as soon as possible
+Knowledge of GCP and cloud computing in general
+We are committed to hiring and cultivating a diverse team. If you are uncertain about whether you meet our requirements, please apply anyway!
+*
+ABOUT US: *
+The demand for home renovations has never been stronger, yet, it's surprisingly difficult for a new homeowner to renovate. It can take a decade to build up enough home equity and savings to pay for a major renovation. As a result, recent homeowners do a lot of financially-suboptimal things to compensate like borrow from their 401k, rack up credit card debt, and use high-interest personal loans. Or they just live unhappily for years in a home that doesn't meet their family's needs.
+But by completing a major renovation, homeowners are increasing the value of their home. Professional real estate investors leverage this After Renovation Value (ARV) to roll the increase in value into new properties all the time. But there hasn't been a great way for homeowners to take advantage of this. If homeowners had an ability to borrow against the ARV, they could increase their borrowing power up to 10x.
+To meet this need, RenoFi created a platform that enables homeowners to borrow funds from RenoFi approved lenders in the form of the first home equity loan purpose-built for renovations! Unlike standard home equity loans, RenoFi Loans use the value of your home post-renovation which lets you borrow the most money at the best possible terms. RenoFi is creating a full suite of renovation loan products to better suit the needs of today’s homeowners!
+For homeowners, RenoFi makes it possible to renovate years earlier than might be otherwise feasible. For contractors, we empower the financing of renovations at the point of sale, reducing instances of scope reduction, and ensuring prompt payment. Our lender partners, most often credit unions, rely on RenoFi's platform to generate loans, create efficiencies, and grow membership. The lenders pay RenoFi for the new loans, which allows us to offer our services to homeowners for free. RenoFi is truly a win-win-win for everyone involved.
+RenoFi is backed by some of the best startup investors in the world, including First Round Capital, Comcast Ventures, and Canaan Partners.
+*
+WE ARE A GLOBALLY DISTRIBUTED TEAM*
+RenoFi has been built from the start as a fully distributed team with an intentional focus on growing a strong team and culture that spans timezones and nationalities. Here's one fun example!
+Please highlight any prior experience working remotely when applying. US or GMT-adjacent timezones will be prioritized.
+RenoFi offers competitive cash and equity compensation. Some benefit offerings will vary from country to country. In the United States, we offer competitive health and retirement plans. All staff across the globe enjoy a flexible vacation policy.
+*
+READ MORE ABOUT RENOFI*
+Our post announcing our funding: https://www.renofi.com/blog/financing-should-not-be-the-hardest-part-of-renovating/
+Blog post by our lead investor announcing his investment in RenoFi: https://www.canaan.com/latest/brendan-dickinson-announcing-our-investment-in-renofi
+National coverage by Housing Wire: https://www.housingwire.com/articles/renofi-raises-6-4-million-to-help-lenders-offer-home-renovation-loans/
+#LI-Remote
+Job Type: Full-time

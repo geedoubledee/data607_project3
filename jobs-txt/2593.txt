@@ -1,0 +1,20 @@
+Job Summary
+The Machine Learning Engineer is responsible for researching, experimenting, and developing machine learning, statistics and cutting-edge AI algorithms for AI-based products and platforms. Duties involve working in collaboration with Sr. Machine learning engineer, designing, developing and researching machine learning systems, models, and schemes. Studying, transforming and converting data science prototypes. Searching and selecting appropriate data sets before performing data collection and data modeling. Collaborating with technical team in supporting AI-based products releases in large-scale deployment across clinical settings.
+Requirements:
+Job Responsibilities:
+Providing technology support for all aspects of AI product development related to Radnet AI projects
+Supporting development and deployment of new machine learning products and platforms, as well as maintaining and improving current models. This includes conducting machine learning research, writing and testing code; training, testing, and analyzing the models; and maintaining the technical infrastructure and documentation
+Contribute to the ongoing evolution of the existing AI product portfolio of applications and services
+Participate in product architecture design to ensure product scalability and reliability
+Support collaboration with product management and clinical data science team to drive desired clinical outcomes
+Support collaboration with product software development team members in managing the required design, documentation and software development processes per global medical device regulations
+Job Qualifications:
+Master's degree in Computer Science or comparable field, or B.S. degree in STEM with 3+ years of industry experience in machine learning software development
+Proficient with Python programming and implementing deep learning models using deep learning frameworks such as Keras/Tensorflow or PyTorch
+Some experience with Python and basic libraries for machine learning and data analysis such as Pandas, Numpy, scikit-learn, and OpenCV)
+Familiarity with cloud computing tools such as AWS, code version control tools such as GitHub, and Containerization tools such as Docker.
+Ability to understand and apply principles found in scientific publications
+Understanding of data analysis/exploration principles and of machine learning methods
+Experience in medical imaging a plus
+Pay Range:
+$100000 - $160000 / per year

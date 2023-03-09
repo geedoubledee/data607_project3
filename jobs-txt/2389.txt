@@ -1,0 +1,47 @@
+Overview: Every day, Imagine Communications is delivering billions of media moments all over the world — anywhere, anytime and on any device. Imagine Communications delivers innovative, end-to-end media software and networking solutions to over 3,000 customers in more than 185 countries, including the top broadcast facilities and the most technologically advanced sports and live-event venues.
+Why Imagine?
+Imagine Communications offers a generous Medical, Dental, Vision and Life Insurance package and HSA and 401(k) options with company matching. We like to make sure all our employees are safe when travelling so we’ve got travel insurance covered too. Employee Wellbeing is a priority for us, so all employees and their family have access to our EAP and Wellness programs, including LifeSpeak and Vitality. Volunteer in your community and we will pay for that too.
+A Bit About The Role: The ideal applicant will have experience working with Ingres and Oracle databases but, a good grounding in Ingres, Oracle, or SQL Server and a willingness to cross-train as necessary is acceptable. A good grounding in Unix/Linux is also desirable.
+The work involves ensuring that database changes are rolled out to internal databases, packaging and installing releases to clients, monitoring, and maintaining database installations, writing batch scripts to support the work, and providing 2nd-line support for technical issues. Additionally, the work involves installing new customer environments, including installing and configuring the RDBMS, databases, company software and DR.
+The applicant will work closely with Software Engineering and Systems Administrators in the UK and US. Initially, the applicant will work closely with UK teams. For the long term, the applicant will support customers in the North American time zone but may also address carry-over issues from other locations. They will join a rotation to provide 24/7 support for clients.
+*
+Provide technical expertise in the areas of database administration, application deployments and upgrades both on internal and external client installations.
+Test and prepare implementation of database software upgrades and patch releases for customers
+Create and make available databases for Support, Development and Test
+Manage standard DBA tasks, including securing databases, managing space, monitoring performance, installing patches
+Provide 24/7 on-call support on a rotational basis
+Maintain documentation of new or amended procedures
+Conduct Technical Surveys and contribute to strategic planning
+Ensure all working practices comply with Health and Safety regulations
+About You: Experience with Ingres relational databases is of primary importance. Additional experience with Oracle and SQL databases is beneficial. Skills should also include the following:
+*
+Analytical ability to investigate, using appropriate tools, database failures, error log entries and other problem indications and to propose and implement solutions.
+Capacity to effectively communicate issues to others with less detailed database knowledge such that problems can be explained to clients.
+Ability to work under pressure and remain calm and objective when dealing with problems while concurrently responding at a pace that meets the urgency of the situation, especially customer issues governed by operational service levels.
+Has professional client facing skills and the ability to plan and prioritize workload and complete documentation
+Is available to work out of standard business hours and as part of an emergency on-call rotation, when required.
+Can make decisions on what actions are required within the bounds of responsibility and to escalate problems as necessary to management.
+*
+Desirable: *
+Database administration experience
+Experience applying critical patch updates to databases and applications in production environments
+Commercial experience with software deployments and installations
+*
+Celebrating difference, together stronger*
+At Imagine Communications, we don’t just accept difference — we celebrate it, we support it, and we thrive on it for the benefit of our customers, our employees, our products, and our communities. We are committed to providing an environment of mutual respect. Imagine Communications is proud to be an equal opportunity workplace and is an affirmative action employer.
+Job Type: Full-time
+Salary: $95,000.00 - $110,000.00 per year
+Benefits:
+401(k)
+401(k) matching
+Dental insurance
+Employee assistance program
+Health insurance
+Health savings account
+Life insurance
+Paid time off
+Referral program
+Vision insurance
+Schedule:
+Monday to Friday
+On call

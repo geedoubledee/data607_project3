@@ -1,0 +1,51 @@
+Who are we?
+XGen Ai was founded in 2019 and provides the leading eCommerce ML technology for enterprise brands and automates data science processes for Brand managers. We service house-named brands along with some of the top luxury fashion brands in the world. Our diverse teams are located between Vancouver, Canada, Milan, Italy, NYC, and Tampa, Florida along with remote/hybrid teams across the USA and Europe.
+Why join us?
+As a team, we have built a company culture around innovation and breaking boundaries. We encourage new ideas, thinking outside the box, and ceaseless learning to expand yourself as an individual as well as a team member. Our culture encourages, supports, and celebrates diversity and looks to expand and build it constantly. Those that go above and beyond in their given role are always recognized and rewarded. In addition to base pay, we also offer quarterly bonuses based on production targets and stock option grants.
+What you'll be doing as our Machine Learning Engineer
+Involved in the machine learning operation creation and maintenance
+Act as the connection point between ML R&D and the Production Environment by being part of the design planning for any and all ML services ensuring that the service functions in the way set by the ML team while meeting the standards and principles of any service operating in Production.
+Acting as a source point to be alerted for ML issues in production (such as incorrect model outputs, static recommendations, and going beyond set error thresholds) and then coordinating with the appropriate team members to resolve those issues and put in/fix processes to prevent those issues from occurring again.
+Understand the goals and roadmaps of the ML Engineers to proactively ensure that any necessary components are in place to accomplish those targets.
+Help in the development of ML Ops related new features in coordination with the AI team: for instance: ML analytics, hyperparameter tuning, etc.
+Ensuring that machine learning infrastructure is highly available, reliable, and meets the service-level agreements (SLAs).
+Setting up a system to proactively monitor compute, memory, network latency, etc.
+Must haves
+Citizenship or work visas for the USA or Canada
+Strong experience in building production-grade applications with Python
+2+ years working with machine learning frameworks (TensorFlow, PyTorch, Keras)
+2+ years working with data science libraries (NumPy, SciPy, Pandas, SciKit-Learn)
+1+ years experience building and deploying Python applications in the cloud (AWS preferred)
+1+ years experience with containerization (Docker preferred)
+Proficient in tuning and deploying models and capable of adapting open source models
+Bonus points
+Experience with AWS SageMaker
+Experience working with various AWS services, such as Lambda, S3, DynamoDB, Athena, ApiGateway
+Experience with the Julia language
+Experience with ElasticSearch
+If you are qualified for this role, please complete the following coding assessment:
+https://coderbyte.com/sl-candidate?promo=xgen-hys2q: aws-assessment--lskmjxvgrf
+Job Type: Full-time Employment role
+Salary: $80,000 - $120,000 per year
+Benefits:
+Dental insurance
+Health insurance
+Paid time off
+Vision insurance
+Compensation package:
+Bonus pay
+Schedule:
+8 hour shift
+Monday to Friday
+Work Location: Remote in the USA or Canada
+Job Type: Full-time
+Pay: $80,000.00 - $120,000.00 per year
+Benefits:
+Dental insurance
+Health insurance
+Paid time off
+Vision insurance
+Schedule:
+8 hour shift
+Monday to Friday
+Work Location: Remote

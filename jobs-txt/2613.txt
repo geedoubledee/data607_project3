@@ -1,0 +1,53 @@
+Why you should join us:
+At Sound Agriculture, we believe our food system can nourish consumers, farming communities, and the planet. Through a deeper understanding of plant and microbial biology, we are leveraging the natural power of plants to make agriculture more agile and resilient. Our work focuses on developing nutrient efficiency products and modernizing plant breeding to improve the way we farm and the food we eat. Sound is a Series C startup funded by leading investors in food and agriculture such as Leaps by Bayer, Northpond Ventures, S2G Ventures, Fall Line Capital, Cultivian Sandbox Ventures, Cavallo Ventures and Syngenta Group Ventures.
+What you'll do:
+We're adding a Sr. Manager, Agronomic Data Science to drive the creation of infrastructure, digital workflows, modeling, and analysis to enable superior understanding, placement and improved performance of our nutrient efficiency business – in particular our flagship product, SOURCE. Our technology can replace up to 30% of nitrogen fertilizer which accounts for 3-5% of all greenhouse gas emissions worldwide. Using SOURCE at the right time, place, and agronomic conditions is crucial to the product's success and customer value.
+The Sr. Manager, Agronomic Data Science leads a team with expertise in data science and the systems to perform in-depth analysis. They collaborate closely with functions such as Software Product Management, Product Marketing, Sales Agronomy, Sustainability, and Corporate Marketing, gaining a deep understanding for our grower customers and partner dealers.
+This role reports to our VP, Product and can be based in our Emeryville, CA headquarters, or remote, and has expected travel of 10-20% annually. (Well qualified candidates may be considered at Director level.)
+Responsibilities
+Drive the development of key insights, tools, and data visualization (40%)
+Uncover insights in the performance of SOURCE in order to optimize customers' ROI through better placement and usage, incorporating a variety of agronomic factors
+Continuously improve customer and partner-facing tools that enhance our product placement capability, in collaboration with our Software Product Manager
+Create dashboards and interfaces that foster data visibility and actionability for key internal stakeholders
+Identify opportunities, large and small, to create automation and analyses that multiply the effectiveness of our business. Working with Product Management, initiate and manage their development and deployment
+Lead infrastructure construction and development (30%)
+Build robust, scalable, and secure data architecture for a range of internal and external agronomic data streams
+Connect and integrate millions of acres of internal and external agronomic data rapidly and efficiently, leveraging farm information systems like John Deere Operations Center and Climate Fieldview
+Scale up ML modeling, data availability, and analysis to support international growth and sustainability
+Build for 3x and open paths to 10x and beyond
+Hire, lead, and develop a team (30%)
+Grow the organization as a combination of a hands-on developer, data architect, and expert data science practitioner with authority to make strategic decisions and lead development
+Stand up a focused, integrated, and effective agronomic data function at Sound Agriculture, encompassing agronomic data science, analysis, data engineering, data management, and software development
+Lead and develop that team to drive outstanding performance
+Serve as a pillar in the community of data science and engineering at Sound, sharing best practice and capabilities with Research, Sustainability, Revenue Operations, Production, Marketing, and Sales
+Targeted Skills & Experience
+5+ years of experience in data science and passion for sustainable agriculture
+Advanced degree in data science, physics, statistics, mathematics, agronomy, or geosciences required; agronomic sciences degree or formal exposure to agronomy is ideal
+Demonstrated ability to build, develop, and get the best from a high-performing team
+Relentless drive to improve data models rapidly and consistently while ensuring robust infrastructure to support rapid scale
+Expertise–or the ability to develop expertise rapidly–on the complex systems of agricultural production, and the application of that knowledge toward making our customers and company successful
+Experience in the initiation and management of software development projects, from user story creation to requirements, sprint management, acceptance testing, rollout, maintenance, replacement, and retirement
+Familiarity with IT capability analysis and build-versus-buy decision making to properly stage both technical debt and delivery of value
+Demonstrated capability in data architecture, data engineering, and software development
+Experience with data lake and warehouse principles and tools, and the use of cloud services to create right-sized data resources to enable efficient ETL work and support FAIR principles.
+Expertise with statistics and visualization packages such as SAS and JMP, and business intelligence tools such as Tableau. Intermediate skill with at least one scripting language such as python or javascript.
+#LI-REMOTE
+This role demonstrates our company values by:
+Boldness: Tackle big questions like "how can we optimize performance of SOURCE across millions of acres, given complex and diverse environmental factors and management practices in production agriculture?"
+Ownership: Make it your professional mission to build and drive rapid progress in one of the most important and complex aspects of our business: using agronomic data to make our customers, our products, and our company more successful
+Respect: Collaborate with a variety of stakeholders who have essential expertise and key stakes in the activities and success of the Agronomic Data Team
+Creativity: Identify data-driven approaches to age-old nutrient efficiency problems in agriculture without being limited by how it's always been done
+What we offer:
+Opportunity to work in an early-stage, disruptive startup with a talented, experienced, and growing team of dedicated individuals
+Competitive compensation package
+Performance bonus structure
+Comprehensive health care plans that include Medical, Dental and Vision coverage
+Flex Spending Account (Healthcare, Dependent Care & Commuter Benefit)
+401k Plan
+Flexible paid time off
+Regular team events and engagement activities (we actually like hanging out with each other!)
+Sound Agriculture does not accept unsolicited resumes from individual recruiters or third party recruiting agencies in response to job postings. We will not respond to unsolicited requests to submit candidates.
+Equal Employment Opportunity
+We seek a diverse pool of applicants and consider all qualified candidates regardless of race, ancestry, color, gender identity or expression, sexual orientation, religion, national origin, citizenship, disability, Veteran status, marital status, or any other protected status.
+Sound participates in E-Verify and will provide the federal government with your Form I-9 information to confirm that you are authorized to work in the United States. If E-Verify cannot confirm that you are authorized to work, Sound is required to give you written instructions and an opportunity to contact the Department of Homeland Security (DHS) or Social Security Administration (SSA) so you can begin to resolve the issue before Sound takes any action, including terminating your employment.
+Job Type: Full-time

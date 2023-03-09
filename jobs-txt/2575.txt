@@ -1,0 +1,25 @@
+At Ford Motor Company, we believe freedom of movement drives human progress. We also believe in providing you with the freedom to define and realize your dreams. With our incredible plans for the future of mobility, we have a wide variety of opportunities for you to accelerate your career potential as you help us define tomorrow’s transportation.
+Creating the future of smart mobility requires the highly intelligent use of data, metrics and analytics. That’s where you can make an impact as part of our Global Data Insight & Analytics team. We are the trusted advisers that enable Ford to clearly see business conditions, customer needs and the competitive landscape. With our support, key decision makers can act in meaningful, positive ways. Join us and use your data expertise and analytical skills to drive evidence-based, timely decision making.
+We are seeking high-potential Machine Learning and AI scientists to assist in all phases of project work, including problem identification, formulation, model development, and deployment. These scientists must have strong self-discipline, initiative, and possess a passion for life-long learning to face evolving challenges in rapidly changing mobility technology. Successful candidates will be given the autonomy to conduct original research and choose appropriate methodologies to solve world-class machine learning problems. This position involves the development and deployment of AI and ML technology in areas such as autonomous vehicles, cybersecurity, customer interaction, product design, development, manufacturing, quality, and marketing of connected vehicles. If hired, you will be a member of a team that applies cutting-edge AI and Machine Learning techniques to develop innovative solutions for these problems and participate in building a strategy for future contributions in these domains and more
+
+The minimum requirements we seek:
+Bachelor’s degree in Computer Science, Data Science, Engineering, Statistics, Economics, Mathematics, Business or Physics
+2+ years of experience with scientific programming/packages
+1+ years of experience in applying predictive modeling and machine learning tools and techniques to deliver real-world solutions
+Our preferred requirements:
+Proficiency in at least one programming language (preferably Python) for development
+Ability to pick up new concepts quickly, self-starter
+What you’ll receive in return:
+As part of the Ford family, you’ll enjoy excellent compensation and a comprehensive benefits package that includes generous PTO, retirement, savings, and stock investment plans, incentive compensation, and much more. You’ll also experience exciting opportunities for professional and personal growth and recognition.
+Candidates for positions with Ford Motor Company must be legally authorized to work in the United States. Verification of employment eligibility will be required at the time of hire. Visa sponsorship is available for this position.
+We are an Equal Opportunity Employer committed to a culturally diverse workforce. All qualified applicants will receive consideration for employment without regard to race, religion, color, age, sex, national origin, sexual orientation, gender identity, disability status, or protected veteran status.
+
+For information on Ford's salary and benefits, please visit: https://corporate.ford.com/content/dam/corporate/us/en-us/documents/careers/2022-benefits-and-comp-GSR-sal-plan-2.pdf
+
+Analyze source data and data flows, working with structured and unstructured data (text, audio, images, video, etc.)
+Manipulate high-volume, high-dimensionality data from varying sources to expose and highlight patterns, anomalies, relationships, and trends
+Apply AI and Machine Learning technology to solve complex, real-world problems
+Analyze and visualize diverse sources of data, interpret results in a business context and report results clearly and concisely
+Fulfill problem formulation and ML technique consulting requests in a timely manner
+Communicate and present analytical models to business customers and executive management
+Work collaboratively with different business partners and be able to present results in a clear and concise ma

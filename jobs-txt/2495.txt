@@ -1,0 +1,37 @@
+JOB RESPONSIBILITIES:
+Develop complex SQL scripts for data analysis and extraction; develop and maintain programs as required for the ETL process.
+Design and implement distributed data processing pipelines using Spark, Hive, Sqoop, Python, and other tools and languages prevalent in the Hadoop ecosystem. Demonstrate ability to design and implement end-to-end solutions.
+Build utilities, user-defined functions, and frameworks to better enable data flow patterns.
+Research, evaluate and utilize new technologies/tools/frameworks centered around Hadoop and other elements in the Big Data space.
+Define and build data acquisitions and consumption strategies.
+Build and incorporate automated unit tests, participate in integration testing efforts.
+Work with teams to resolve operational & performance issues.
+Work with architecture/engineering leads and other teams to ensure quality solutions are implemented, and engineering best practices are defined and adhered to.
+Assist in the development and training of the IT department.
+QUALIFICATIONS & EXPERIENCES:
+Bachelors degree in Computer Science, Information Technology, Engineering, similar degree or experience
+Advanced knowledge of the Python programming language and common libraries, including pandas and numpy
+Working SQL knowledge and experience working with relational databases, query authoring (SQL) as well as working familiarity with a variety of databases
+Experience building and optimizing data pipelines, architectures and data sets
+Experience performing root cause analysis on internal and external data and processes to answer specific business questions and find opportunities for improvement
+Build processes supporting data transformation, data structures, metadata, dependency and workload management
+Job Type: Full-time
+Pay: $80,000.00 - $150,000.00 per year
+Benefits:
+401(k)
+401(k) matching
+Dental insurance
+Employee discount
+Flexible schedule
+Flexible spending account
+Health insurance
+Health savings account
+Paid time off
+Professional development assistance
+Relocation assistance
+Retirement plan
+Vision insurance
+Schedule:
+8 hour shift
+Monday to Friday
+Work Location: Remote

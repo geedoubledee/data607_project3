@@ -1,0 +1,55 @@
+Company Description
+
+Since we opened our doors in 2009, the world of commerce has evolved immensely, and so has Square. After enabling anyone to take payments and never miss a sale, we saw sellers stymied by disparate, outmoded products and tools that wouldn’t work together.
+
+To solve this problem, we expanded into software and built integrated solutions to help sellers sell online, manage inventory, book appointments, engage loyal buyers, and hire and pay staff. Across it all, we’ve embedded financial services tools at the point of sale, so merchants can access a business loan and manage their cash flow in one place. Afterpay furthers our goal to provide omnichannel tools that unlock meaningful value and growth, enabling sellers to capture the next generation shopper, increase order sizes, and compete at a larger scale.
+
+Today, we are a partner to sellers of all sizes – large, enterprise-scale businesses with complex operations, sellers just starting, as well as merchants who began selling with Square and have grown larger over time. As our sellers grow, so do our solutions. There is a massive opportunity in front of us. We’re building a significant, meaningful, and lasting business, and we are helping sellers worldwide do the same.
+
+Job Description
+
+We are looking for a Data Science Manager to join our team and help continue to build and grow the Square eCommerce team). You will report to the Head of Data Science & Analytics and partner with product, marketing, design, and engineering leads on product and business strategies. You and your team will leverage engineering, analytics, and machine learning to empower data-driven decision-making in the full lifecycle of product development and bring our products to market. Although this is a leadership role, we want someone who brings hands-on technical experience - you should expect an interview process that optimizes both leadership and technical skills.
+You will:
+Lead a team of Data Scientists and help them set goals, collaborate, and scale with their cross-functional partners
+Provide mentorship to team members through feedback, coaching, and hands-on technical guidance as needed, focusing on their long-term growth
+Partner with senior cross-functional leaders including Product, Product Marketing, Engineering, and Design to ensure data-driven decisions across the organization by applying the appropriate data science & analytics approaches where they will have a material impact
+
+Qualifications
+
+You have:
+2+ years of experience in people management with a track record of building high-performance teams and growing talent
+6+ years of data science and analytics experience or equivalent
+Experience building relationships to influence product partners with data
+Experience leading cross-functional projects that depend on the contributions of others in multiple disciplines
+Familiarity with data warehouse design and best practices
+Fluency with data, analytics, and visualization technologies (we use SQL, Looker, and Python) that will allow you to support and mentor the team and their technical growth
+Experience applying both statistical and machine-learning techniques to solve practical product problems such as predicting churn, LTV, cross-selling, and clustering user archetypes
+Nice to have:
+M.S. or Ph.D. in a quantitative field (mathematics, statistics, or similar STEM field)
+Experience working on business and product initiatives focused on GTM, growth, and retention
+Direct experience with eCommerce business and/or SaaS
+
+Additional Information
+
+Block takes a market-based approach to pay, and pay may vary depending on your location. U.S. locations are categorized into one of four zones based on a cost of labor index for that geographic area. The successful candidate’s starting pay will be determined based on job-related skills, experience, qualifications, work location, and market conditions. These ranges may be modified in the future.
+
+Zone A: USD $245,100 - USD $299,500
+Zone B: USD $245,100 - USD $299,500
+Zone C: USD $245,100 - USD $299,500
+Zone D: USD $245,100 - USD $299,500
+To find a location’s zone designation, please refer to this resource. If a location of interest is not listed, please speak with a recruiter for additional information.
+Benefits include the following:
+Healthcare coverage
+Retirement Plans including company match
+Employee Stock Purchase Program
+Wellness programs, including access to mental health, 1:1 financial planners, and a monthly wellness allowance
+Paid parental and caregiving leave
+Paid time off
+Learning and Development resources
+Paid Life insurance, AD&D. and disability benefits
+Perks such as WFH reimbursements and free access to caregiving, legal, and discounted resources
+This role is also eligible to participate in Block's equity plan subject to the terms of the applicable plans and policies, and may be eligible for a sign-on bonus. Sales roles may be eligible to participate in a commission plan subject to the terms of the applicable plans and policies. Pay and benefits are subject to change at any time, consistent with the terms of any applicable compensation or benefit plans.
+We’re working to build a more inclusive economy where our customers have equal access to opportunity, and we strive to live by these same values in building our workplace. Block is a proud equal opportunity employer. We work hard to evaluate all employees and job applicants consistently, without regard to race, color, religion, gender, national origin, age, disability, veteran status, pregnancy, gender expression or identity, sexual orientation, citizenship, or any other legally protected class.
+We believe in being fair, and are committed to an inclusive interview experience, including providing reasonable accommodations to disabled applicants throughout the recruitment process. We encourage applicants to share any needed accommodations with their recruiter, who will treat these requests as confidentially as possible. Want to learn more about what we’re doing to build a workplace that is fair and square? Check out our I+D page.
+Additionally, we consider qualified applicants with criminal histories for employment on our team, assessing candidates in a manner consistent with the requirements of the San Francisco Fair Chance Ordinance.
+Block, Inc. (NYSE: SQ) is a global technology company with a focus on financial services. Made up of Square, Cash App, Spiral, TIDAL, and TBD, we build tools to help more people access the economy. Square helps sellers run and grow their businesses with its integrated ecosystem of commerce solutions, business software, and banking services. With Cash App, anyone can easily send, spend, or invest their money in stocks or Bitcoin. Spiral (formerly Square Crypto) builds and funds free, open-source Bitcoin projects. Artists use TIDAL to help them succeed as entrepreneurs and connect more deeply with fans. TBD is building an open developer platform to make it easier to access Bitcoin and other blockchain technologies without having to go through an institution.

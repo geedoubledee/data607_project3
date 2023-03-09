@@ -1,0 +1,62 @@
+Compare.com is a start-up company that has changed the way consumers shop for car insurance in the United States. We are Great Places to Work Certified, are expanding our product breadth and are looking to add the best talents to our team. Are you up for the challenge? If so, keep reading.
+Who will love this job:
+This position is a great opportunity for an entrepreneurially - minded person who enjoys making a difference in a start-up environment. We are looking for an experienced Machine Learning Engineer to complement the team to help create and extend existing models. Compare.com views Machine Learning (ML) as an integral component of our strategy, and we want you to help us build ML as a competency for Compare.com from the ground up.
+The ideal candidate will have strong analytical curiosity and a passion for applying advanced modelling techniques in problem solving. He or she must be self-motivated, dependable, and determined team player and be able to communicate complex concepts in simple terms and can tie analytic results to business outcomes.
+What you’ll be responsible for:
+Building extending, deploying, maintaining, and troubleshooting ML solutions to help drive business metrics.
+Developing and initiating projects from start to finish.
+Collaborating with developers, product owners and other team members to rapidly build, test and deploy robust algorithms and data analytic solutions.
+Collaborating with Analytics and Data teams to optimize ML model performance and data pipelines.
+Ensuring our relevancy in the field of ML by staying up to date on the latest ML techniques and become the subject matter expert within the company.
+Being an advocate for data science, working with senior managers throughout the business, supporting helping them understand where and when it can add value to their processes.
+Developing solutions to complex problems without considerable technical direction.
+Creation of meaningful datasets for modelling and evaluation from a vast quantity of data in multiple formats.
+Communicating results to key decision-makers
+Other duties as assigned – we’re a start-up!
+You are an ideal candidate for this role if you:
+Technical:
+Degree in quantitative discipline (Statistics, Math, Data Science, Computer Science, Engineering)
+2+ years of experience as a machine learning engineer or data scientist
+Experience in the end-end deployment of Machine Learning Models
+Proven and demonstrated experience with data preparation, building, scaling, and optimizing machine learning solutions
+2+ years of experience with developing software in object-oriented programming languages, including Python, Scala, Java, or C++
+Experience with machine learning tools, including TensorFlow, Pytorch, or Scikit Learn
+Experience with DB structured query language (e.g. SQL)
+High degree of comfort and experience operating within an Agile environment (e.g., Kanban, Scrum)
+Experience utilizing or building CI/CD pipelines
+Experience utilizing and implementing components in cloud-based infrastructure (e.g., Azure, Amazon Web Services)
+Proficiency writing code and understanding object-oriented paradigms
+Non-Technical:
+Are self-driven, organized, dependable and a determined team player
+Have a positive outlook and desire to drive and instill data quality throughout the organization
+Think analytically and solve complex problems within a team structure
+Are flexible and able to adapt to new processes and requirements in a dynamic environment
+Have strong, clear, and concise written and verbal communication skills
+Can effectively communicates technical information to non-technical people as and when required
+Are an advocate for innovation and drive change through persuasion and consensus
+Can translate issues/problems into solutions with tangible changes that improve the team or the organization
+Are flexible and able to adapt to new processes and requirements in a dynamic environment
+Have a positive outlook and desire to drive and instill Technical Excellence within the IT dept.
+Have strong, clear, and concise written and verbal communication skills
+Can communicate technical information to non-technical people as and when required
+Can plan and manage your own workload within multiple projects, delivering results within agreed deadlines
+Can proactively demonstrate new ideas and innovation
+
+At this time, Compare.com will not sponsor a new applicant for employment authorization for this position.
+Compare.com is an equal opportunity employer committed to diversity in the workplace and promotes a drug-free environment.
+While we are open to remote work, we will not be able to support employees based out of CA, CO, MA, NY or NJ.
+Our Business
+Compare.com is a website which is reinventing how consumers shop for services in the US. Our aim is to bring new transparency to the auto insurance market and to help people save money. We intend to be the same for other online comparison shopping, branching out to other related insurance and unrelated financial services.
+Our People & Culture
+So, what’s it like to be an employee of Compare.com? At Compare.com, every day is different, and we are different, maybe even a bit counterculture. Flexibility is key, as we plan for long-term but adjust continuously. We firmly and wholeheartedly believe that people who like what they do, do it better and we go out of our way to ensure that coming to work is enjoyable. Doing the job and doing it well is the key no matter who you are. At Compare.com we are a team, we work as a team and if we fall, we fall as a team and lean on each other to pick us up. Effective interaction with the team is required, as is challenging each other’s ideas to come to the best possible solution. We are looking for someone who comes with strong problem-solving skills and a wealth of good ideas on their own, but also recognizes the inherent creativity in all of us and accepts willingly that the next great idea may not be their own genesis.
+
+Compare.com offers an honest and open culture and every member of our staff is treated as an equal. Our benefits and 401k package is highly competitive, as is our work/life balance, flexible work schedules, and generous PTO structure. Achievement is recognized and rewarded, but most of all coming to work is fun. We work hard to produce high quality work, but we like to play as well. These days that involves more Slack trivia, Drawasaurus and Zoom cooking classes together than it does ping pong and happy hours.
+Benefits & Perks
+Competitive Compensation, Bonus Program, & Stock Scheme
+Health, Dental, Vision, and Disability coverages
+HSA + generous employer contribution annually
+401k + company match
+Generous PTO + Flexible Hours
+Paid Parental Leave program
+Wellness Fund
+Training & Development Stipend

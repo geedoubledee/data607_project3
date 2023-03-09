@@ -1,0 +1,38 @@
+***Now offering a 4.5 day workweek!!
+The Database Administrator plays a key part in maintaining server availability/uptime. In this role, a person will be responsible for performance tuning misbehaving systems as issues arise, helping maintain the SQL Servers (patching and installing), and ensuring backups/maintenance is working. In addition, a person in this role will provide invaluable resources and assistance to database developers to help them obtain their goals. This position is part of a highly collaborative environment working with other skilled professionals which include but are not limited to database developers, senior database administrators, and software developers to continuously improve database architecture and execution. Starting pay $95K. Salary based on experience.
+Responsibilities
+Install and maintain MS SQL Servers
+Configure and maintain Windows Cluster/SQL Server AlwaysOn Availability Groups
+Plan, manage and optimized SQL server HA/DR policies and procedures
+Create/migrate and deploy databases
+Create and maintain database backup, maintenance and restore plans
+Create automation for repeating database tasks
+Monitor and troubleshoot performance related issues
+Test disaster recovery scenarios
+Create tables, views, stored procedures, functions, and report queries related to database administration
+Assume other database duties as assigned.
+Skills/Knowledge/Abilities Preferred
+At least 2 years’ experience in MS SQL database administration
+Work closely with a Senior Database Administer
+Familiarity with Windows Clusters and Microsoft AlwaysOn Availability Groups
+Knowledge of T-SQL execution plans to problem solve along with proper indexing application
+PowerShell scripting is a plus
+Job Type: Full-time
+Pay: From $95,000.00 per year
+Benefits:
+401(k)
+Dental insurance
+Employee discount
+Flexible schedule
+Flexible spending account
+Health insurance
+Life insurance
+Paid time off
+Parental leave
+Referral program
+Vision insurance
+Schedule:
+8 hour shift
+Ability to commute/relocate:
+Lincoln, NE 68521: Reliably commute or planning to relocate before starting work (Required)
+Work Location: One location

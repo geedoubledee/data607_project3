@@ -1,0 +1,22 @@
+W ork Schedule :
+This is a full-time, 40 hours per week position scheduled Monday through Friday between the hours of 8:00 AM – 5:00 PM, plus an afterhours/weekend on call rotation. Applicants hired into this position can work remotely from most states. This will be discussed during the interview process. Hours may vary based on the operational needs of the department.
+Be part of something remarkable
+Are you technical? Do you know Red Hat, Azure, SQL, Oracle, Epic - Iris?
+We are seeking an EPIC - Operational Database Administrator (ODBA) to:
+Maintain Iris (the database system Epic runs on)
+Build and maintain the virtual servers that Iris runs on as well as the Operating system (Red Hat)
+Create and maintain the Epic environments and instances used by UW Health.
+Work with Epic, management, and the server team to determine hardware requirements
+Maintain the files that allow for Epic client communication with the database
+Lead/assist in any troubleshooting activities
+Act as SMEs for new projects
+Learn More About IS at UW Health
+Education :
+Minimum – Associates Degree (relevant work experience my be considered in lieu of)
+Work Experience :
+Licenses and Certifications :
+Minimum – Cache DBA certification required within one (1) year of employment
+Our Commitment to Diversity, Equity, and Inclusion
+UW Health is committed to being a diverse, equitable, inclusive and anti-racist workplace and is an Equal Employment Opportunity, Affirmative Action employer. Our integrity shines through in patient care interactions and our daily work practices as we work to embrace the knowledge, unique perspectives and qualities each employee and faculty member brings to work each day. Applications from Black, Indigenous and People of Color (BIPOC) individuals, LGBTQ+ and non-binary identities, women, persons with disabilities, military service members and veterans are strongly encouraged. EOE, including disability/veterans.
+View Full Job Description
+UW Hospital and Clinics benefits

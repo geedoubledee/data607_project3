@@ -1,0 +1,20 @@
+Aetna Resources LLC, a CVS Health company, is hiring for the following role in New York, NY: Senior Manager, Data Engineering to design and develop complex and large-scale data structures and pipelines to organize, collect, and standardize data to generate meaningful insights and address reporting needs. Duties include: design, create and manage large-scale data structures, data pipelines, and efficient Extract/Load/Transform (ETL) workflows; develop large-scale data structures and pipelines to organize, collect and standardize data to generate insights and address reporting needs; write ETL processes, design database systems, and develop tools for real-time and offline analytic processing; collaborate with data science teams, transform data and integrate algorithms and models into automated processes; design data marts and data models to support Data Scientists and other internal customers. Integrate data from a variety of sources, assuring that they adhere to data quality and accessibility standards; and analyze current information technology environments to identify and assess critical capabilities and recommend solutions to business problems.
+
+Pay Range
+The typical pay range for this role is:
+Minimum: 156,825
+Maximum: 156,825
+
+Please keep in mind that this range represents the pay range for all positions in the job grade within which this position falls. The actual salary offer will take into account a wide range of factors, including location.
+
+Required Qualifications
+Master’s degree (or foreign equivalent) in Computer Information Systems, Computer Science, Information Technology, Electronic Engineering, Engineering or a related field and two (2) years of experience in each of the following: Hadoop; Scala; Java; Python; Linux; Teradata; Hive; managing GIT source repositories; writing source code; preparing test data; and testing and debugging programs.
+
+Preferred Qualifications
+See Required Qualifications.
+
+Education
+See Required Qualifications.
+
+Business Overview
+Bring your heart to CVS Health Every one of us at CVS Health shares a single, clear purpose: Bringing our heart to every moment of your health. This purpose guides our commitment to deliver enhanced human-centric health care for a rapidly changing world. Anchored in our brand — with heart at its center — our purpose sends a personal message that how we deliver our services is just as important as what we deliver. Our Heart At Work Behaviors™ support this purpose. We want everyone who works at CVS Health to feel empowered by the role they play in transforming our culture and accelerating our ability to innovate and deliver solutions to make health care more personal, convenient and affordable. We strive to promote and sustain a culture of diversity, inclusion and belonging every day. CVS Health is an affirmative action employer, and is an equal opportunity employer, as are the physician-owned businesses for which CVS Health provides management services. We do not discriminate in recruiting, hiring, promotion, or any other personnel action based on race, ethnicity, color, national origin, sex/gender, sexual orientation, gender identity or expression, religion, age, disability, protected veteran status, or any other characteristic protected by applicable federal, state, or local law. We proudly support and encourage people with military experience (active, veterans, reservists and National Guard) as well as military spouses to apply for CVS Health job opportunities.

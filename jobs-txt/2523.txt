@@ -1,0 +1,25 @@
+Job Description:
+7+ years of work-related experience in database administration.
+Experience with Snowflake in administration, Monitoring, security, managing roles and permissions.
+Experience in Snowflake performance tuning, usage/utilization monitoring.
+Should have knowledge of snowflake pricing model and experience in implementing enterprise-wide best practices to optimize usage and pricing.
+Strong knowledge and hands on experience with SQL.
+Experience with Snowflake SnowSQL and writing user defined functions.
+Should have experience in working with snowflake support in resolution of issues.
+Experience with GitHub, CI/CD pipeline tools like Jenkins is a plus.
+Good to know Snowflake concepts like Snowpipe, SnowSQL, Clustering, usage of materialized views.
+Knowledge of how to implement security features like SSO, column masking, role-based administration.
+Experience of semi-structured (XML, JSON) and unstructured data handling and streaming data loads.
+Prefer SnowPro certification (basic) or SnowPro Architect Certification.
+Job Type: Contract
+Salary: Up to $65.00 per hour
+Schedule:
+8 hour shift
+Monday to Friday
+Experience:
+snowflake: 7 years (Required)
+Database administration: 1 year (Preferred)
+Oracle: 1 year (Preferred)
+Work Location: Remote
+Speak with the employer
++91 0887 763 5209

@@ -1,0 +1,39 @@
+No email inquires - please apply online for consideration: https://grnh.se/117500d94us
+About Kintsugi
+Kintsugi is on a mission to scale access to mental healthcare for all. We are developing novel voice biomarker software to detect signs of depression and anxiety from short clips of free form speech. Awarded multiple distinctions for AI technology and recently named one of Forbes’ Top 50 AI companies to watch in 2022, Kintsugi helps to close mental health care gaps across risk-bearing health systems, ultimately saving time and lives.
+At Kintsugi, we believe that mental health is just as important as physical health. We exist to ensure that everyone who needs mental healthcare has access to the right care at the right time.
+See mental health differently with Kintsugi.
+To learn more: https://www.kintsugihealth.com
+About the Team
+We’re the wearer of many hats dedicated to helping communities find access to mental health. Our mission is ambitious, and each member of our team has an important role to play in helping us realize it. Meet some of the team members who you will learn and grow alongside here.
+The Role
+You will be part of the Machine Learning (ML) team and contribute to building robust, production-ready models. You will leverage our extensive speech dataset while experimenting with a multitude of deep-learning architectures to explore state-of-the-art speech analysis methods to solve a variety of classification and regression tasks. Working alongside our cloud engineering team, you will help deploy these models and ensure they stay performant in a wide range of customer-facing applications.
+Responsibilities
+Design and implement ML models to predict signs of anxiety and depression from speech in a reproducible fashion
+Integrate with our fast paced and highly collaborative engineering and research teams to drive model compute and metric performance improvements
+Identify, evaluate and implement technologies to track and improve performance and reliability of our ML systems
+Identify sources of bias in our ML models and implement methods to ensure equitable performance
+Work with our cloud team to define requirements for production model deployment while balancing compute costs and model performance
+Qualifications
+M.S./Ph.D. in Computer Science or B.S. with 2+ years of experience in building production-grade machine learning models in industry and/or academic research settings
+Strong programming skills in python with extensive experience with the scientific and deep-learning stack (numpy, pandas, numba, torch, tensorflow, jupyter)
+A proven track record of building end-to-end neural network models and presenting results to colleagues
+Experience optimizing the compute performance of models for production
+Ambitious team player with strong communication skills (oral and written)
+Experience implementing and experimenting with cutting-edge ML techniques from the literature
+Bonus Qualifications
+Background in speech processing or audio classification
+Experience with experiment tracking and reproducibility tools (MLFlow, WandB, DataBricks, etc)
+Experience working in a cloud environment (GCP, AWS, Azure, etc)
+Recent publication(s) in peer-reviewed AI journals
+Job Type: Full-time
+Pay: $85,894.15 - $170,000.00 per year
+Benefits:
+401(k)
+Dental insurance
+Health insurance
+Paid time off
+Vision insurance
+Schedule:
+Monday to Friday
+Work Location: Remote

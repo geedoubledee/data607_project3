@@ -1,0 +1,50 @@
+At ICON, it’s our people that set us apart. Our diverse teams enable us to become a better partner to our customers and help us to fulfil our mission to advance and improve patients’ lives.
+
+Our ‘Own It’ culture is driven by four key values that bring us together as individuals and set us apart as an organisation: Accountability & Delivery, Collaboration, Partnership and Integrity. We want to be the Clinical Research Organisation that delivers excellence to our clients and to patients at every touch-point. In short, to be the partner of choice in drug development.
+
+That’s our vision. We’re driven by it. And we need talented people who share it.
+If you’re as driven as we are, join us. You’ll be working in a dynamic and supportive environment, with some of the brightest and the friendliest people in the sector, and you’ll be helping shape an industry.
+Healthcare Intelligence Experts.
+
+Symphony Health, part of the ICON plc family, comprises curious thinkers and intellectual problem solvers driving the healthcare data industry forward. We leverage our large, integrated healthcare data repository and our analytic expertise to build customized, agile data solutions which answer the questions our clients - life science manufacturers, payers, and providers - have today, as well as those they’ll have tomorrow. Together, we can help patients get the right drugs at the right times.
+
+What will you do?
+Symphony Health is seeking a hands-on, results oriented Manager, Data Science to lead teams of operational data analysts and who will work closely with multiple teams including Symphony IT & Operations and ICON IT, Governance & Privacy, Business Development, Analytics and Project Management Teams. The expectations is that the manager will foster a team environment and facilitate cross-training of team members by mentoring team members through complex projects and technical issues.
+Overall, the Manager will manage day to day activities of team which engages both internal and external customers to evaluate their needs and custom specifications and translate these into business requirements. Using professional communication, both written and verbal, with all customers to foster a win-win relationship, the Manager will also be responsible for overseeing the research of reported issues from customers to identify the root cause and apply permanent solutions, ensuring high customer satisfaction. Further, the manager will be responsible for analyzing departmental procedures and processes to improve inefficiencies and streamline processes.
+
+Duties:
+· Obtain and maintain knowledge of ICON and Symphony’s operational processes, databases and product offerings and solutions
+Liaise with the, Symphony IT & Operations and ICON IT, Governance & Privacy, Business Development, Analytics and Project Management Teams to analyze departmental procedures and processes to improve upon inefficiencies, streamline processes and maintain departmental documentation.
+Provide operational support to the Symphony and ICON Governance & Privacy Compliance Team.
+Support Operational Management to ensure operation data analysts are properly educated and aware of their obligations
+Implement the direction of the Operations Management including process change, documentation change, education of the change, and implementation of processes and procedures.
+Propose creative process improvements that both support process efficiencies. For example:
+o Incorporate practices and processes into all products and services to create a great trust-based experience with clients and internal users.
+o Lead cross functional efforts in business, analytics, technology, internal audit, quality assurance to develop effective and efficient polices, processes, roles & responsibilities, training, and communications to all teams.
+Accurately update and maintain all documentation required of operational processes, client business requirements, and quality control processes and protocols.
+Manage the Operation Data Analyst team by establishing clear goals, developing future state core competencies with our people, and by building upon a culture of open communication and collaboration.
+What do you have?
+5+ years of relevant experience including working closely with or leading healthcare data analytics
+Previous experience with healthcare data
+Previous experience with managing a team
+Deep experience using SQL required, and additional experience with Python, R, and SAS preferred
+Previous experience working in a data analytics environment
+Technology security experience is a plus.
+Experience working in a dynamic and fluid environment especially with management of large scale data protection compliance initiatives
+Strong interpersonal and influencing skills to foster trust and collaboration in a team environment; effectively able build relationships with diverse groups of people.
+Ability to work with minimal supervision, deliver to tight timelines, and create structure in complex and ambiguous situations.
+Bachelor’s degree required; Master’s degree preferred.
+Based in the US, able to work remotely from home.
+To qualify, applicants must be legally authorized to work in the United States, and should not require, now or in the future, sponsorship for employment visa status.
+
+Benefits of Working in ICON:
+Our success depends on the quality of our people. That’s why we’ve made it a priority to build a culture that rewards high performance and nurtures talent.
+
+We offer very competitive salary packages. And to keep them competitive, we regularly benchmark them against our competitors. Our annual bonuses reflect delivery of performance goals – both ours and yours.
+We also provide a range of health-related benefits to employees and their families and offer competitive retirement plans – and related benefits such as life assurance – so you can save and plan with confidence for the years ahead.
+But beyond the competitive salaries and comprehensive benefits, you’ll benefit from an environment where you are encouraged to fulfil your sense of purpose and drive lasting change.
+
+ICON is an equal opportunity and inclusive employer and is committed to providing a workplace free of discrimination and harassment. All qualified applicants will receive equal consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability or protected veteran status.
+If, because of a medical condition or disability, you need a reasonable accommodation for any part of the application process, or in order to perform the essential functions of a position, please let us know through the form below.
+#LI-REMOTE
+#LI-LE1

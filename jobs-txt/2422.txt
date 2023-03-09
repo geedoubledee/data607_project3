@@ -1,0 +1,30 @@
+Job Type: Full Time
+We are looking for Jr. Data Scientists to join our team.
+Kyla is the next generation of healthcare tech. Our mission is to help people live longer and healthier. With the latest AI technologies, we provide the best digital healthcare for everyone. We have several digital products such as mobile app, and three web applications for companies and doctors. We work with Fortune 500 companies. Our solutions are used by thousands, and recently we won the Exceptional Innovation By The 2020 Pandemic Tech Innovation Awards. Our team is bright minds who love their job and development and are not afraid of working in a fast-growing lean startup.
+If you would like to join us, do not hesitate to apply.
+Required skills:
+— Intermediate or higher English level — you will have to read a lot of medical/scientific literature in English. Good writing, basic speaking;
+— Familiarity with probabilistic and statistical concepts and/or eagerness to learn more;
+— Willingness to study medical literature;
+— Proficiency in one or more: Python, Java, R;
+— Knowledge of data structures and algorithms
+As a plus:
+MS/BS Degree in Statistics, Mathematics or equivalent work experience
+Medical Doctor completed/in-progress degree
+Experience in statistical data analysis and/or science research
+Familiarity with graph databases such as neo4j
+Experience with Bayesian software such as Netica, Stan, PyMC3
+What we offer you:
+— Competitive salary;
+— 100% remote job;
+— Flexible work hours;
+— Personalized development plan for your professional and career growth;
+— Paid online courses;
+— Working directly for USA product company while developing innovative AI-driven healthcare;
+— Sharing success of the company in the form of performance bonuses and successful exit reward;
+Responsibilities:
+— Research medical literature to build Bayesian Networks holding expert medical knowledge
+— Collaborate with data scientists, medical doctors, nurses and software engineers
+— Research and develop novel inference, statistical, and graphical models
+— Positively impact human lives by developing a platform offering free healthcare
+We are looking forward to meeting you!

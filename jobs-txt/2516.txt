@@ -1,0 +1,41 @@
+Be part of a team that unleashes the power of leading-edge technologies to help improve the health and well-being of those most vulnerable in our country and communities. Working at Gainwell carries its rewards. You’ll have an incredible opportunity to grow your career in a company that values work flexibility, learning, and career development. You’ll add to your technical credentials and certifications while enjoying a generous, flexible vacation policy and educational assistance. We also have comprehensive leadership and technical development academies to help build your skills and capabilities.
+
+Summary
+
+As an Oracle Database Administrator at Gainwell, you can contribute your skills as we harness the power of technology to help our clients improve the health and well-being of the members they serve — a community’s most vulnerable. Connect your passion with purpose, teaming with people who thrive on finding innovative solutions to some of healthcare’s biggest challenges. Here are the details of this position.
+Your role in our mission
+
+Handles and leads complex or critical data/database management initiatives that typically involve multiple disciplines and multiple business groups.
+Manage database performance, capacity, and availability
+DBMS SW implementation, upgrade, patching
+Diagnoses and resolves performance issues. Provides expertise in database tuning including table partitioning strategies
+Works with the application team to identify and tune long running SQL statements
+Consults extensively with multiple client groups to provide strategic solutions, influencing long-range internal and enterprise-level data/ database architecture and management strategies
+Provide advice to business and technical personnel on data analysis principles, methods and trends using excellent written and verbal communications
+Design complex Data Transformation Strategies for Business Intelligence or Data Migration
+Lead complex Model Conversion (Data Mapping) to produce a Data Dictionary and data mapping matrix between the external software and the internal database for business function replacement
+Develop and maintain database support documentation
+Serves as a consultant on technological advancements. Provides oversight, mentoring and leadership to less experienced staff
+Responsible for providing hands-on experience technical support for assessing, architecting, and migrating Oracle databases from client-hosted environments to AWS
+Work with external AWS consultants and AWS AMS services to request services and support
+Work with on premises DBA staff
+Develops customer technology solutions using various industry products and technologies.
+Engages in technical problem solving across multiple technologies; often needs to develop new methods to apply to the situation
+What we're looking for
+
+Three or more years of experience in Oracle database design or maintenance
+Experience working with software installation/upgrading procedures
+Experience working with file and system maintenance procedures
+Experience working with database creation techniques and database management systems (DBMS)
+Experience working with performance modeling and benchmarking skills and relational databases
+
+What you should expect in this role
+
+Work remotely within the United States.
+10% or less in Travel
+
+The pay range for this position is $51,700.00 - $73,900.00 per year, however, the base pay offered may vary depending on geographic region, internal equity, job-related knowledge, skills, and experience among other factors. Put your passion to work at Gainwell. You’ll have the opportunity to grow your career in a company that values work flexibility, learning, and career development. All salaried, full-time candidates are eligible for our generous, flexible vacation policy, a 401(k) employer match, comprehensive health benefits, and educational assistance. We also have a variety of leadership and technical development academies to help build your skills and capabilities.
+
+We believe nothing is impossible when you bring together people who care deeply about making healthcare work better for everyone. Build your career with Gainwell, an industry leader. You’ll be joining a company where collaboration, innovation, and inclusion fuel our growth. Learn more about Gainwell at our company website and visit our Careers site for all available job role openings.
+
+Gainwell Technologies is committed to a diverse, equitable, and inclusive workplace. We are proud to be an Equal Opportunity Employer, where all qualified applicants will receive consideration for employment without regard to race, religion, color, national origin, gender (including pregnancy, childbirth, or related medical condition), sexual orientation, gender identity, gender expression, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics. We celebrate diversity and are dedicated to creating an inclusive environment for all employees.

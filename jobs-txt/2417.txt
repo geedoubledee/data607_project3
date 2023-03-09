@@ -1,0 +1,56 @@
+Stefanini Group is hiring!
+Do you want to be a part of a highly innovative, digitally transformative team and work on cutting-edge, state-of-the-art technologies? If yes, then this is for you!
+Open to W2 candidates only!
+Position Description:
+Data Engineer Position Overview, we believe freedom of movement drives human progress
+We also believe in providing you with the freedom to define and realize your dreams
+With our incredible plans for the future of mobility, we have a wide variety of opportunities for you to accelerate your career potential as you help us define tomorrow's transportation
+Global Data Insight & Analytics organization is looking for a Data Engineer focused on building and driving the strategy forward for our internal AI/ML platform
+This role will work in a small, cross-functional team
+The position will collaborate directly and continuously with other Data, Software & Machine Learning Engineers, Business Partners, Product Managers, and Designers, and will release early and often
+The team you will be working on is focused on building the Mach1ML platform - an AI/ML enablement platform to democratize Machine Learning across the client's enterprise (similar to Uber's Michelangelo, Facebook's FBLearner, etc.)
+Position Responsibilities:
+Work closely with Tech Anchor, Product Manager, and Product Owner to deliver machine learning use cases using Agile Methodology
+Work with other Data, Software, and ML Engineers to tackle challenging AI problems
+Lead/work with the team on Data Engineering tasks such as ML automation, data warehousing, data ingestion, data transformation, data visualization, etc.
+Participate in Pair Programming for cross-training/upskilling, problem-solving, and speed to delivery
+Leverage the latest ML and GCP technologies
+Work with Architects for solution designing on AI/ML data capabilities for the AI/ML platform
+Drive PoCs/Discoveries of new tools and technologies to support robust ML Platform
+Collaborate with other data engineers to understand platform vision, break out tasks and help them solve complex issues
+Grow technical capabilities/expertise and provide guidance to other data /software engineers on the team
+Experience Required:
+1+ years of experience with Machine Learning Technologies
+2+ years of work experience in Data Engineering tasks such as ML automation, data warehousing, data ingestion, data transformation, data visualization, etc.
+Experience in building systems that collect, manage, and convert raw data into usable information for data scientists to interpret
+Experience and a good understanding of Python, Cloud / Google Cloud, AI/ML, Distributed/Parallel Data Processing, Data Engineering
+Understanding or desire to learn end-to-end Machine Learning technology stack (Tools such as Kubeflow, Kubernetes, GCP, Jupyter Notebook, HPC, etc.)
+Strong communication and presentation skills, ability to share/teach others, work collaboratively with others
+Good understanding of cloud design considerations and limitations and impact of pricing
+Prior experience working: container technology, Docker files, Docker images, GitHub, CI/CD concepts.
+Experience Preferred:
+Experience in leading Data Engineering tasks such as ML automation, data warehousing, data ingestion, data transformation, data visualization, etc.
+Experience in building systems that collect, manage, and convert raw data into usable information for data scientists to interpret
+Experience working with the Google Cloud platform
+Experience in Software Craftsmanship such as Paired Programming, Test Driven Development, DevOps etc.
+Experience in supporting continuous improvement by investigating development alternatives
+Experience applying Agile practices to solution delivery
+Must be team-oriented and have excellent communication and presentation skills
+Must be a self-starter to understand existing bottlenecks and come up with innovative solutions
+Open to learning new technology
+Knowledge of coding and best practices
+Education Required:
+Bachelor's degree in Computer Science / Computer Engineering / Data Engineering or similar technical discipline
+Education Preferred:
+Master's in Computer Science / Data Engineering
+Who We Are
+The Stefanini Group is a global provider of offshore, onshore, and nearshore outsourcing, IT digital consulting, systems integration, application, and strategic staffing services to Fortune 1000 enterprises around the world. Our presence is in countries like the Americas, Europe, Africa, and Asia, and more than 400 clients across a broad spectrum of markets, including financial services, manufacturing, telecommunications, chemical services, technology, public sector, and utilities. Stefanini is a CMM level 5, IT consulting, company with a global presence. We are CMM Level 5 company.
+Job Types: Full-time, Contract
+Salary: $70.00 - $77.00 per hour
+Schedule:
+8 hour shift
+Application Question(s):
+Can you work on W2?
+Experience:
+Machine learning: 1 year (Preferred)
+Work Location: Remote

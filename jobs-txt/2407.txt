@@ -1,0 +1,29 @@
+FC Project Manager II, Data Science
+Our Opportunity:
+Chewy is hiring a FC Project Manager II, Data Science for a technical role to support our North American fulfillment center network. If you are excited about leading a project using data science to drive step function improvement and revolutionize e-commerce fulfillment then this opportunity is for you. Chewy is proud to offer competitive benefits, leadership development programs, rapid career growth potential, and employee incentives.
+What we do:
+Use analytics, stat, machine learning and simulation to provide world class fulfillment solutions for the Chewy fulfillment network.
+Routinely and effectively partner with leadership to define key business metrics, build models, and use descriptive analytics to support large scale operations decisions.
+Work with engineering and operations leadership to identify process bottlenecks and build solutions supported by data.
+Basic Qualifications
+At least 6 years of related full-time experience in an analytical role developing and deploying data science techniques, preferably in supply chain or warehouse operations
+Excellent predictive modeling and machine learning skills and experience with data science techniques. A proven track record of implementing model outputs into real world solutions.
+Familiarity with Python/R and popular libraries for statistics/machine learning (scipy, numpy, pandas, sklearn, dplyr, NLTK) and experience in applying machine learning methods such as binary/multi classification, clustering, decision trees, etc. to solve the business problems
+Minimum of 6 years of practical SQL programming query development and performance optimization experience.
+Minimum of 6 years of experience with business intelligence and data visualization tools, e.g. Tableau, QlikView.
+Minimum of 6 years of experience designing and applying analytic and/or algorithmic solutions to operational processes.
+Experience with statistical analysis tools (such as R, Minitab), root cause analysis, process design and control.
+Requires strong quantitative and analytical skills; this role caters to someone that loves to solve difficult and complex problems.
+Preferred Qualifications
+Master’s in Computer Science, Operations Research, quantitative sciences including engineering, statistics, computer science, business with focus on analytics
+Familiarity with fulfillment operations, ability to operate productively with limited supervision, and demonstrated intuition to allocate time to productive efforts is critical.
+Practical experience designing/implementing machine learning algorithms tailored to particular business needs and tested on large datasets.
+5-6 years of progressive experience with heavy emphasis on operations analytics and process improvement.
+Familiarity with mathematical modelling & simulation techniques – probability, optimization (linear programming, etc.), graph theory, state models.
+If you have a disability under the Americans with Disabilities Act or similar law, and you need an accommodation during the application process or to perform these job requirements, or if you need a religious accommodation, please contact CAAR@chewy.com.
+
+If you have a question regarding your application, please contact HR@chewy.com.
+
+Chewy is committed to equal opportunity. We value and embrace diversity and inclusion of all Team Members.
+
+To access Chewy’s Privacy Policy, which contains information regarding information collected from job applicants and how we use it

@@ -1,0 +1,52 @@
+DESCRIPTION: BeaconFire Inc. is headquartered in central NJ, specializing in Software Development, Web Development, and Business Intelligence; we are looking for an Entry-level Front-end developer who is passionate about combining technology and design to create user-friendly websites.
+Responsibilities:
+Develop websites using HTML, CSS, Node.js, React.js, and Angular2+, among other tools
+Write scalable, secure, maintainable code that powers our clients’ platforms
+Create, deploy, and maintain automated system tests
+Work with Testing Teams to understand defects or issues opened and resolves them in a timely manner
+Support continuous improvement by investigating alternatives and technologies and presenting these for architectural review
+Collaborate effectively with other team members to accomplish shared user story and sprint goals
+Invest time into professional development to stay up to date with new technologies and programming languages
+Debug and fix programming bugs
+Other duties as assigned
+Basic Qualifications:
+Proficient understanding of HTML and CSS
+Experience in programming language JavaScript or similar (e.g. Java, Python, C, C++, C#, etc.) and solid understanding of the software development life cycle
+Basic knowledge of code version control (e.g. Git, SVN)
+A passion for creating pixel-perfect web pages
+Good verbal communication and interpersonal skills
+Preferred Qualifications:
+Bachelor's degree or higher in Computer Science or related fields
+1 year of practical experience in JavaScript coding
+Familiarity with at least one JavaScript framework (Angular2+, React.js, Express.js)
+Experience with unit and integration testing of code, with an understanding of JavaScript testing frameworks like Jasmine, Cucumber, Mocha, Jest, and Karma
+Experience providing REST/SOAP APIs for user interface consumption
+Experience working within an Agile development methodology (Scrum)
+Understanding of OOP concepts
+Location: Remote
+Salary: $65,000.00 to $80,000.00 /year
+BeaconFire is an e-verified company, and we provide sponsorship (H1b Visa/Green card) to all qualified candidates.
+Job Type: Full-time
+Pay: $65,000.00 - $80,000.00 per year
+Benefits:
+401(k)
+Dental insurance
+Employee discount
+Health insurance
+Health savings account
+Life insurance
+Paid time off
+Professional development assistance
+Referral program
+Relocation assistance
+Retirement plan
+Vision insurance
+Compensation package:
+Bonus pay
+Schedule:
+Monday to Friday
+Education:
+Bachelor's (Preferred)
+Experience:
+JavaScript: 1 year (Preferred)
+Work Location: One location

@@ -1,0 +1,60 @@
+HOW MIGHT YOU DEFY IMAGINATION?
+You’ve earned your degree. How will you use that achievement to reach your goals? Do more with the knowledge you’ve worked hard to acquire and the passion you already have. At Amgen, our shared mission—to serve patients—drives all that we do. It is key to our becoming one of the world’s leading biotechnology companies, reaching over 10 million patients worldwide. Become the professional you are meant to be in this meaningful role.
+CDnA - Data Science Manager (Omnichannel Orchestration)
+Live
+What you will do
+Let’s do this. Let’s change the world. As part of the Commercial Data Science team, you will collaborate with business partners, service owners and IS peers to develop predictive models and insights across the US Commercial Organization. This position will innovate and build significant business impact through the use of sophisticated analytics techniques to help Amgen with its mission to serve patients by helping them get the therapies they need.
+This position will be primarily responsible for:
+Supporting the development of data science, machine learning, and artificial intelligence capabilities across Amgen’s commercial organization
+Leading measurement and tracking of various omnichannel CX enablement initiatives
+Measuring the impact of cross-channel campaigns and the overall omnichannel program
+Crafting and deploying a framework to supervise performance of various campaigns, and tactics at a granular level
+Building high-performance algorithms, prototypes, predictive models, and proof of concepts
+Identifying business needs and proposing potential analytics approaches for solutions
+Creating prototypes and demonstrations to access and apply data assets
+Communicating analysis ideas, progress and results to leadership and business partners
+Working collaboratively with cross-functional teams on projects and/or programs with aims to systematically derive insights that ultimately derive substantial business value for Amgen and our patients
+Win
+What we expect of you
+We are all different, yet we all use our unique contributions to serve patients.
+Basic Qualifications:
+Doctorate degree
+OR
+Master’s degree and 2 years of data science and/or analytics experience
+Or
+Bachelor’s degree and 4 years of data science and/or analytics experience
+Or
+Associate’s degree and 10 years of data science and/or analytics experience
+Or
+High school diploma / GED and 12 years of data science and/or analytics experience
+Preferred Qualifications:
+Relevant work experience in campaign measurement, marketing analytics and resource optimization in the pharma domain
+Experience with databases including relational, NoSQL, and Graph
+Programming experience with Python, R, or SAS and experience with ML libraries like scikit-learn, MLib, or TensorFlow
+Write well-abstracted and reusable code in Python, R, or Scala; you freely navigate in Linux environment; you can stand up web applications; documentation, version control, and code review is in your blood
+Experience working with large datasets, experience working with distributed computing tools (Spark, Hive, etc.)
+Diligent technical proficiency with strong logical, problem solving, and decision-making skills.
+Excellent organization/planning skills and talent for leading many large and sophisticated datasets.
+Ability to collaborate and influence business partners and other IS resources to drive analytic projects end-to-end
+Ability to communicate analysis in a clear, detailed, and practical manner
+Passion for learning and staying on top of current developments in sophisticated analytics
+Biotech / Pharma experience
+Thrive
+Some of the vast rewards of working here
+As we work to develop treatments that take care of others, we also work to care for our teammates’ professional and personal growth and well-being.
+Full support and career-development resources to expand your skills, enhance your expertise, and maximize your potential along your career journey
+A diverse and inclusive community of belonging, where teammates are empowered to bring ideas to the table and act
+Generous Total Rewards Plan—comprising health, finance and wealth, work/life balance, and career benefits—with compensation and benefits rated above 4 stars (out of 5) on Glassdoor
+
+Apply now
+for a career that defies imagination
+Objects in your future are closer than they appear. Join us.
+careers.amgen.com
+
+Join Us
+If you're seeking a career where you can truly make a difference in the lives of others, a career where you can work at the absolute forefront of biotechnology with the top minds in the field, you'll find it at Amgen.
+Amgen, a biotechnology pioneer, discovers, develops and delivers innovative human therapeutics. Our medicines have helped millions of patients in the fight against cancer, kidney disease, rheumatoid arthritis and other serious illnesses.
+As an organization dedicated to improving the quality of life for people around the world, Amgen fosters an inclusive environment of diverse, ethical, committed and highly accomplished people who respect each other but compete intensely to win. Together, we live the Amgen values as we continue advancing science to serve patients.
+Amgen is an Equal Opportunity employer and will consider all qualified applicants for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, protected veteran status, or disability status.
+We will ensure that individuals with disabilities are provided reasonable accommodation to participate in the job application or interview process, to perform essential job functions, and to receive other benefits and privileges of employment. Please contact us to request accommodation.
+Amgen requires all staff in the United States, Puerto Rico and Canada to be vaccinated from COVID 19 as a condition of employment. In accordance with applicable law, Amgen will provide reasonable accommodations to staff members who qualify on the basis of a medical reason or a sincerely held religious belief, practice, or observance. Such accommodation may not pose an undue hardship to Amgen, its operations, or its staff.

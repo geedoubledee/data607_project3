@@ -1,0 +1,48 @@
+Gridiron IT is seeking a CCTE Data Engineer to support a Federal Client on a remote basis.
+Task Responsibilities:
+Works with Senior Data Engineer to support ETL (Extract Transform and Load) Data harmonization, data modeling, and reporting of different research programs on computational and curated data from source system to dev/staging/production environments
+Maintain, Develop and Supports Existing ETL, SQL code and Data support to enhance data quality, improve source cleansing efforts with Data source owners, validation, code performance enhancement and configuration to enable CI/CD readiness
+Participates in Agile ritual meetings. Thrive in an autonomous environment surrounded by unsolved unique Research environment problems
+Position supports Data Engineering and Management for applications that are developed in-house that are both public and intranet facing
+Approximately 20+ databases, data repository and multiple web applications that serve to either showcase scientific data via dashboards or curate scientific data
+Position will work on following tools and technology: Jenkins, Slack, Atlassian JIRA, Confluence, Bitbucket, MYSQL, PGSQL, MongoDB, Pentaho, Power Designer, Flat files, JSON, QLIK Sense, Microsoft Teams, VDI among others
+Assist in maintaining and managing existing datahub ETL on Pentaho Data Integration
+Create and modify ETL pipelines, SQL code, Data profiling. (adding or changing environmental variables, testing steps, or build steps, etc.)
+Work with cross functional team teams in application development supporting data needs on Datamart for assigned project
+Documentation of processes, individual project requirements, SOP development and cross training to enhance multi-functional knowledge share
+Automate Data Capture and Data refresh processes to reduce time to process and deploy data to increase efficiency and expand capability of the team
+Troubleshooting any data issues on source, translation, data repo or DataMart, research issue, find root cause, report the issue to Data lead, and look for solutions
+Qualifications:
+Must be able to have a Government Furnished Equipment (GFE Computer), access to the EPA VPN, and access to a VDI Pro machine furnished by VDI
+Must be able to attain a background investigation that will enable the candidate to have a security clearance capable of administering systems that are critical to CCTE business and mission
+Experience with open-source tools and open to learning new tools sets. In most cases there is not a support mechanism in place except for reading the documentation
+4-year degree in Computer Engineering, Computer Science, Information Technology, or related field
+Minimum 5-year experience with ETL (Extract Transform and Load) platform such as Pentaho, Informatica or Data Stage
+Minimum 5-year experience with SQL Development and Data Management and Modeling
+Minimum 3-year experience with basic Linux administration skills for ETL applications to manage, execute and schedule ETL applications
+Minimum 3-year experience in an Agile development such as scrum or Kanban
+Minimum 3-year experience with source code version control management, code merging, Git, and Bitbucket
+Additional Preferred qualifications but not required:
+Experience with Database Administration and basic Linux administration needed for DBA
+Experience with reporting platforms like Tableau, QLIK and POWERBI
+Experience with automated data integration and data validation
+Experience with Atlassian tools such as Bitbucket, Jira, Confluence
+Job Type: Full-time
+Pay: $150,000.00 - $170,000.00 per year
+Benefits:
+401(k)
+Dental insurance
+Health insurance
+Vision insurance
+Schedule:
+8 hour shift
+Monday to Friday
+Application Question(s):
+This position requires US Citizenship and ability to obtain a Public Trust Clearance. Please state if you're eligible.
+Experience:
+ETL: 5 years (Required)
+Pentaho or Informatica: 3 years (Required)
+SQL: 5 years (Required)
+MongoDB: 3 years (Required)
+Federal government: 1 year (Preferred)
+Work Location: Remote

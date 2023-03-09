@@ -1,0 +1,91 @@
+General Information
+Location:
+US-AZ - Phoenix
+Position Type:
+Full Time
+Virtual Eligible:
+Yes
+Job Category:
+Marketing
+Ref #:
+6179
+
+Description and Requirements
+Are you searching for a rewarding, fulfilling position that offers challenging work and the ability to make a big impact while working side-by-side with a team of fun, innovative people? Ideally, would you like this position to be with an organization that makes a positive contribution to the world? If so…we would love to hear from you!
+
+About Us
+University of Phoenix is a leading higher education institution founded in 1976 by Dr. John Sperling. Our mission is to improve the lives of our students, their families and future generations through higher education. Our values (which hopefully you share) are: Brave. Honest. Focused.
+
+Our University values and embraces all team members and their unique perspectives. We fundamentally believe in fostering an environment which deeply respects, celebrates, and actively encourages a diverse workforce. We are committed to hiring – and learning from – those who share our passion to help others achieve their educational aspirations.
+
+We offer excellent benefits, an effective recognition program, and outstanding learning and development tools, including tuition vouchers for employees and their qualified family members.
+About the Position
+
+A Director, Marketing Data Science collects, manages, and analyzes user and product data to provide business intelligence solutions for Product, Marketing, Finance, and Operations teams, and is a key stakeholder in enhancing the University’s data technologies. The individual uses predictive modeling, customer segmentation, lead scoring, forecasting and media mix modeling to better influence our data driven decisions that help to increase new and total degreed enrollment and contribute to revenue growth. A Director, Marketing Data Science uses expert knowledge in R and Python to execute large and complex marketing analytics projects and uses SQL to query, load, transform and retrieve data.
+What You’ll Do
+
+1. Manage and continuously improve the predictive marketing models at the University; drive data-driven decisions and advance our data-focused culture.
+
+2. Build statistical models to explain the multi-faceted drivers behind customer behavior and measure the effectiveness of marketing initiatives.
+
+3. Run simulations to optimize media mix across different advertising channels and develop a framework for making tradeoff decisions across geographies and marketing objectives.
+
+4. Partner with a cross-functional teams to automate data collection and identify new signals that enhance marketing models.
+
+5. Collaborate with stakeholders to develop and improve audience profiling.
+
+6. Perform other duties as assigned or apparent.
+
+NOTE: The primary accountabilities above are intended to describe the general content and requirements of this position and are not intended to be an exhaustive statement of duties. Incumbents may perform all or most of the primary accountabilities listed above. Specific goals or responsibilities will be documented in the incumbents’ performance objectives as outlined by the incumbents’ immediate supervisor or manager.
+
+Job Supervisory Responsibilities: None
+
+
+MINIMUM EDUCATION AND RELATED WORK EXPERIENCE:
+
+Bachelor’s degree in a quantitative field, such as Statistics, Math, Econometrics or similar field with significant, practical modeling experience
+Five (5) years of industry experience building statistical models
+
+
+ADDITIONAL QUALIFICATIONS:
+
+Experience with a broad range of statistical methods, including generalized linear models, and multi-level/hierarchical models
+Experience with media mix modeling, marketing attribution, customer segmentation and time series analysis
+Excellent communication skills and ability to explain complex modeling approaches in simple terms
+Knowledge of Bayesian techniques and experience programming in probabilistic programming languages (e.g., Stan, TensorFlow Probability, PyMC3)
+Experience with cloud platforms including but not limited to AWS, Azure, Google Cloud
+Experience with PowerBI and Adobe Experience Products such as AAM, Analytics, Target
+Excellent written and verbal communication skills
+Advanced Excel, and PowerPoint skills
+Creative problem-solving ability
+Ability to juggle multiple initiatives simultaneously
+Experience and comfort working in a large, matrixed organization
+Comfortable with changing business priorities
+
+#LI-SM1
+As an Equal Opportunity employer, we particularly encourage applications from members of historically underrepresented racial/ethnic groups, women, individuals with disabilities, veterans, LGBTQ community members, and others who demonstrate the ability to help us achieve our vision of a diverse and inclusive community.
+
+If you are an active-duty military member seeking employment when off-duty, compliance with Department of Defense Joint Ethics Regulation, 5500-7-R, is required prior to starting employment with University of Phoenix. You are advised to contact your base Judge Advocate General to seek such approval and answer any questions.
+Hiring Range
+
+Hiring range for this position is between $142300 and $170000.
+Actual starting base pay may vary based on factors such as education, experience, skills, and location.
+94200
+142300
+142300
+170000
+Your work is critical to helping adult learners achieve their dreams, and we’re committed to rewarding you for your efforts. We offer a competitive, comprehensive total rewards package designed to help you achieve your health, financial, educational and work-life balance goals.
+Full-time employees are eligible for:
+Medical, dental and vision plans; Flexible Spending Accounts; Health Savings Accounts; Life and Disability insurance; and our Wellness incentive program;
+Competitive 401(k) employer match;
+Substantial tuition discount for you and eligible dependents; and,
+A generous time off package, including paid vacation, sick time and company holidays.
+
+Hourly midpoint
+68.41
+Hourly minimum
+45.29
+Manual Hourly Midpoint
+81.73
+Manual Hourly Minimum
+68.41

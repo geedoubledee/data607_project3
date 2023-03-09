@@ -1,0 +1,24 @@
+Job Title : Data Engineer
+Position type : C2C/W2
+Experience : 7 + yrs
+Job description
+Data Engineer : 7+ years
+On-Prem Microsoft SQL Server - Strong
+SSIS - Expert level
+SSRS - Expert level
+T-SQL and Stored Procedures - Expert level
+Data warehousing concepts - Strong
+Cloud experience and Azure SQL Exposure - 3+ years
+Job Types: Contract, Full-time
+Pay: From $140,000.00 per year
+Benefits:
+Health insurance
+Schedule:
+8 hour shift
+Experience:
+Microsoft SQL Server: 5 years (Required)
+SSIS: 5 years (Required)
+SSRS: 5 years (Required)
+T-SQL: 5 years (Required)
+Azure: 5 years (Required)
+Work Location: Remote

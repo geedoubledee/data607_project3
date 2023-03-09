@@ -1,0 +1,66 @@
+Epic Cogito Business Intelligence Developer (Remote Eligible)
+Position Summary:
+The Epic Business Intelligence Developer (BID) is responsible for all stages of the business intelligence cycle: understanding business objective, collecting business requirements and translating them into data requirements, designing and developing reports or dashboards (code and visualization), scheduling and deployment of business intelligence components in accordance with supplied standards and best practices, and completing accurate and timely documentation. Collaborates with business and technology departments to understand system data and its use, data analysis and validation, and providing support around the data and how it is integrated. Monitors production systems for issues and resolves issues or elevate them for resolution when necessary.
+
+Responsibilities:
+Develops logical modeling and presentation solutions to implement requirements using best practices within the business intelligence environments
+Develops, maintains, reviews and explain data models
+Uses various software applications such as desktop tools, spreadsheets, report writing software, statistical software, graphical presentation tools, and Business Intelligence applications to assemble, manipulate and/or format data
+Designs, develops and troubleshoots extract packages that implement complex programming processes
+Works with Application Analysts to test and validate reports after installation and implementation of system patches, service utilities and version upgrades as assigned
+Maintains data integrity and security for assigned applications and systems
+Maintains and develops documentation to identify and define processes or procedures.
+Manages multiple tasks simultaneously and react to problems quickly
+Translates concepts and directions into practical solutions
+Partners with quality, operational, financial and business leaders on report design and optimization to meet quality, safety, financial and efficiency needs
+Performs other related duties as assigned
+Familiar with standard concepts, practices, and procedures within the field
+Regular and predictable attendance is an essential job function
+Competent to meet age specific needs of the unit assigned
+Requirements and Minimum Qualifications:
+Bachelors’ degree in a related field preferred, or equivalent education/experience required
+Minimum 5 years of analytics experience required, with 3 years of SQL report writing required
+Minimum of 3 years of experience in healthcare required
+Epic Clarity certification/accreditation required or is willing to obtain within 90 days of hire
+Certification to be initiated as directed and completed within 3 months of hire; employee must remain current in certification
+
+Other required system application training/certifications to complete assigned work as necessary
+Experience with relational database structures, multi-dimensional database, and data warehouse design architecture required
+Data Visualization experience using a variety of BI tools preferred (Power BI, SSRS, Tableau, Crystal Reports, etc.)
+Experience in leading technical work across multiple technology teams preferred
+Participates in after hours on-call, on-call rotation and service recovery efforts as required
+Comprehensive understanding of clinical or business principles to evaluate information system and healthcare regulatory needs
+Demonstrated knowledge in enterprise-wide analytics architecture including data integration, data modeling, and master data management
+Strong interpersonal skills with an ability to independent manage customer expectations
+Skilled at tracking tasks, following processes, documenting progress, defining next steps, identifying owners, and holding people accountable
+Working Conditions:
+Must be able to lift and move up to 10 lbs
+Must be able to reach arms above or below shoulder height
+Must be able to maintain a sitting position
+Typical equipment used in an office job
+Repetitive movements
+
+About Kootenai Health
+Kootenai Health has a solid reputation in the Pacific Northwest and has a rich history that spans nearly 60 years of innovation, achievements, and healthcare benchmarks. Our main campus is located in Coeur d'Alene, Idaho, and includes a 330-bed community-owned hospital. We have been recognized among large employers as the No. 1 Best Place to Work in Healthcare by Modern Healthcare magazine and are regularly recognized by Cleverly and Associates for providing value to our community.
+Magnet Designated since 2006 – This designation is nursing's top honor, accepted nationally as the gold standard in nursing excellence. Kootenai was the first hospital in the Inland Northwest to receive this designation and the second in Idaho.
+Member of the Mayo Clinic Care Network – In 2014, Kootenai Health became the 30th member, a national network of like-minded organizations that share a commitment to better serving patients and their families. Kootenai Health is the first health care organization in the Pacific Northwest to be selected as a member of the Mayo Clinic Care Network, and, like all network members, will remain a locally-owned and independent health care provider.
+Most Wired / Wireless Hospital, Hospital & Health Networks – Kootenai is consistently named one of the country's 100 Most Wired hospitals. In this same survey, Kootenai also earned a spot on the Top 25 Most Wireless hospitals.
+Three Time Great Workplace Award – Kootenai Health has been recognized as one of the most engaged and productive workforces in the world!
+As your next employer, we are excited to offer you:
+100% employer-paid health insurance premiums for full-time employees. Part-time employees pay only a small portion a month for medical, dental, and vision coverage
+Tuition assistance program
+457 retirement plan
+Convenient near campus daycare
+Competitive salaries with a 12% differential for nights and an 8% differential for weekends
+An award-winning and incentive-driven wellness program
+Employee reward, recognition, and retention programs
+Professional development and leadership training opportunities
+And much more
+Have you considered a career at Kootenai Health? Maybe you should!
+
+Apply today!
+
+Kootenai Health complies with applicable federal civil rights laws and does not discriminate based on race, color, national origin, age, disability, veteran status, or sex. Kootenai Health does not exclude people or treat them differently because of race, color, national origin, age, disability, veteran status, or sex.
+
+Location: Kootenai Health · Finance - Decision Support
+Schedule: Full Time, Days

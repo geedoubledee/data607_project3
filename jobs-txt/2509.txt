@@ -1,0 +1,23 @@
+We are looking for a Machine Learning engineer who can join us in expanding our NLU capabilities to understand every kind of enterprise issue. You will be tuning our existing NLU models as well as building new models to adapt to different domains beyond enterprise IT, taking advantage of the latest and greatest transfer learning technologies. This work is highly impactful on our team's core value that is to build a natural language platform to help employees with all their enterprise problems, with deep collaboration to many of the functionalities within Moveworks.
+If you are looking to do the best work of your career with a bright, dedicated, and impact-driven team alongside you, we'd love to have a conversation.
+Who we are:
+Moveworks is revolutionizing how companies support their employees — with the first AI platform that makes getting help at work effortless. Using advanced conversational AI built for the enterprise, Moveworks gives employees exactly what they need, from IT support to HR help to policy information. Our platform allows customers like Snowflake, Slack, DocuSign, LinkedIn, Instacart, Illumina, Epic Games, Hearst Media to move forward on what matters.
+
+Founded in 2016, Moveworks has raised $315 million in funding, at a valuation of $2.1 billion. We've been named to the Forbes AI 50 list for three consecutive years, while earning recognition as the Best Chatbot Solution at the 2021 AI Breakthrough Awards. Above all, we've built an AI company that puts people first, which is why Built In named Moveworks the #1 Best Place to Work in the Bay Area.
+What Will you do?
+Apply machine learning, NLP, and deep learning methods to unstructured data sets and complex systems
+Use your knowledge of machine learning fundamentals to develop and execute new algorithms, evaluate with small scale experiments and later productionize solutions at scale
+Investigate and solve exciting and difficult challenges in various NLU tasks, classification, data science, content analysis, knowledge graph
+Research and develop innovative, scalable and dynamic solutions to hard problems
+Use the latest advances in machine learning, data science, neural network, and deep learning to enhance our products and create delightful user experiences
+Spend time weekly reading, discussing, and potentially building models off of the latest ML research
+What do you bring to the table?
+You have experience training and serving machine learning modeling.
+Experience to productionize ML models in a scalable system is a plus
+You have strong familiarity with frameworks like PyTorch, TensorFlow, Keras, LightGBM
+You are familiar with deep learning architectures and algorithms
+You have experience with NLP frameworks like SpaCY, Gensim, or NLTK
+You feel at home developing on Linux with languages like Python, c++, or GoLang
+Desire to work at a startup pace in a small company with a high degree of ownership
+Strong motivation, gumption, and an appetite for continuous, incremental changes and completing challenging projects fast
+High level of curiosity about engineering outside of your immediate discipline and an incessant desire to learn

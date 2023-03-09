@@ -1,0 +1,45 @@
+We are seeking…
+A driven and talented team player to add to our Software Engineering team. The machine learning engineer will develop and maintain machine learning models and applications.
+You will:
+Work on existing machine learning algorithms and tools based on the user requirements.
+Prototype and test models for feasibility/scalability studies.
+Work with machine learning production pipelines (TFX, AWS Sagemaker, etc)
+Deploy machine learning models to production.
+Write tools to monitor production machine learning models to ensure accuracy remains high.
+Document machine learning processes.
+Write clear, maintainable, and tested code.
+If local, assist in creating and maintaining an AL laboratory.
+On occasion, travel to a client site.
+You are:
+Ethical.
+Motivated.
+Organized.
+Passionate about your work.
+Experienced in Active Listening Skills.
+Able to Take Initiative and Act Accordingly.
+You have:
+BSEE, BSCE, BSCS, Bachelor’s degree in Mathematics, Data Science, or a related field required
+At least 2 years of experience in machine learning field required
+Advanced proficiency in Python, ML frameworks, ML tools, and databases required
+Critical thinking skills and are comfortable supporting collaborative problem solving in a team environment.
+Knowledge of Machine Learning Operations (MLOps).
+Understanding of your own limits and are comfortable asking for assistance when needed.
+Nice to haves:
+Master’s degree in computer science, data science, mathematics, or a related field.
+Experience with computer vision.
+Experience using Nvidia Triton Inference server or other AI cloud platforms.
+Experience with AI at the edge.
+
+Benefits
+Health Insurance
+Dental Insurance
+Vision Insurance
+Life Insurance
+Disability Insurance
+401(k) with 4% company match
+Paid Time Off (PTO)
+Paid Holidays
+Parental Leave
+Pay for Certification Program/ Tuition reimbursement
+Other Duties:
+Please note this job description is not designed to cover or contain a comprehensive listing of activities, duties or responsibilities that are required of the employee for this job. Duties, responsibilities and activities may change at any time with or without notice.

@@ -1,0 +1,27 @@
+Job Description:
+As part of Fidelity’s Discretionary Assets & Revenue Center of Excellence, you will be building critical solutions to help inform business strategy and decision making. You will be creating automated models for forecasting assets, flows, and revenue and will get to explore a wide range of data, from industry/competitive data to customer demographics. If you are someone who loves data and has strong intellectual curiosity, this is a fantastic opportunity to leverage your skills and create meaningful business value.
+The Team
+The Discretionary Assets & Revenue Center of Excellence is a single point of expertise for Fidelity’s managed investment products, with firm-wide responsibilities for analyzing and forecasting assets and revenue. The team delivers scalable solutions to provide business leaders with valuable information on Fidelity’s products, competitors, and broader industry trends. The team has a mix of finance and data professionals and delivers value by seeking out automation opportunities, creating process efficiencies, and delivering data-driven insights to help inform senior leaders across the organization.
+The Expertise You Have
+Bachelor’s degree in Data Science, Mathematics, Statistics, Computer Science, or related field with 3+ years of data science experience
+The Skills You Bring
+Experience in extracting, transforming, and analyzing data using SQL or SQL-like languages
+Experience in solving analytical problems using quantitative approaches, machine learning and/or other AI techniques
+Experience with statistical data analysis such as regression, probability, and classification
+Experience in programming using Python, R, and/or equivalent programming language
+Experience in communicating analysis in a clear, concise, and actionable manor to both technical and non-technical stakeholders
+Experience with Tableau, Power BI or other data visualization tools
+Experience with Alteryx is preferred, but not required
+The Value You Deliver
+You will play a critical role in building out a data science capability within the team, as we look to upgrade our analysis and forecasting capabilities. You will work to develop data science solutions by identifying and gathering data, transforming it, performing modeling and analysis, and delivering insights. You will be able to distill large amounts of complex information into actionable solutions and will present their work clearly and concisely, with impactful visualizations to articulate the story. They will accomplish this by collaborating with a variety of stakeholders, including finance and technology associates and will be able to communicate their work to both technical and non-technical stakeholders.
+Certifications:
+Company Overview
+Fidelity Investments is a privately held company with a mission to strengthen the financial well-being of our clients. We help people invest and plan for their future. We assist companies and non-profit organizations in delivering benefits to their employees. And we provide institutions and independent advisors with investment and technology solutions to help invest their own clients' money.
+
+Join Us
+At Fidelity, you'll find endless opportunities to build a meaningful career that positively impacts peoples' lives, including yours. You can take advantage of flexible benefits that support you through every stage of your career, empowering you to thrive at work and at home. Honored with a Glassdoor Employees' Choice Award, we have been recognized by our employees as a Best Place to Work in 2022. And you don't need a finance background to succeed at Fidelity—we offer a range of opportunities for learning so you can build the career you've always imagined.
+Many of our associates are continuing to work remotely temporarily due to COVID-19. When Fidelity employees eventually return to the office, our goal is for most people to work flexibly in a way that balances both personal and business needs with time onsite and offsite through what we're calling "Dynamic Working."
+We invite you to Find Your Fidelity at fidelitycareers.com.
+
+Fidelity Investments is an equal opportunity employer. We believe that the most effective way to attract, develop and retain a diverse workforce is to build an enduring culture of inclusion and belonging.
+Fidelity will reasonably accommodate applicants with disabilities who need adjustments to participate in the application or interview process. To initiate a request for an accommodation, contact the HR Accommodation Team by sending an email to accommodations @fmr.com, or by calling 800-835-5099, prompt 2, option 3.

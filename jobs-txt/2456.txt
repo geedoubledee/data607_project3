@@ -1,0 +1,33 @@
+You will help Jeeng apply state-of-the-art machine learning for real-time bidding at scale. You will contribute to the full stack of machine learning development: from analyzing large datasets of user events, building training datasets, feature engineering, model tuning, automating model retraining, and deploying into production.
+Specific Goals
+Analyze large-scale user event data to identify areas of improvement for Jeeng’s machine learning
+Run machine learning modeling from experiment hypothesis through to live real-time bidding
+Apply data and feature engineering to expand the signals available for machine learning training and real-time inferencing
+Report on machine learning experiment results
+Keep documentation on machine learning systems up-to-date
+Collaborate with product management, business representatives, and other software engineers to identify areas for machine learning innovation
+
+Requirements:
+5+ years of experience with Machine Learning and Data Science
+3+ years Python software engineering experience
+Experience with advanced SQL
+Cloud development experience (AWS preferred)
+Experience deploying models into production systems
+Great communication skills and high standards
+This is extra, but if you have it, it will make us happy
+Experience with Java or Scala
+Experience working remotely
+Knowledge of the digital and AdTech landscape
+
+The pay range for this position is $125,000 - $150,000. This role is also eligible to participate in our commission plan, which will be determined later in the process. The pay and commission offered may vary depending on several factors, such as job-related knowledge, skills, and experience.
+Plus, we offer a great package of perks and compensations:
+Company Stock Options - we believe that every employee should benefit from the company’s success, as we all contribute to it. Hence, we offer stock options to all our employees and continue to reward with more stock options over time.
+Unlimited PTO
+401K matching - the company is matching dollar for dollar, up to 4% or $5,000 (whichever is higher)
+Very generous health benefits: Medical, Dental, and Vision - for employees and their dependents
+$50 per month for wifi fee upon submitting a receipt
+$100 one-time fee for home office for new employees
+Insurance policies covered by the company: Short term Disability (STD), Long Term Disability (LTD), Life insurance, AD&D insurance
+
+Experience:
+5+

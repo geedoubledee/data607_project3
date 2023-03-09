@@ -1,0 +1,47 @@
+About Pixalate:
+At Pixalate, we are passionate about data-driven products and rooting out white-collar crime in digital advertising.
+
+Our software has transformed how digital advertising and Connected TV approaches quality and fraud prevention technology. As we continue to win the hearts and minds of our customers worldwide, we are looking for a Director of Data QA Engineering to join Team Pixalate.
+In this role you will be responsible for the integrity and precision of data across all our products. Come up with, create, maintain and enhance Data Verification processes across the organization. This is a new role for us, so you will help shape it.
+
+Key Responsibilities:
+Own the strategy and execution of data quality efforts across multiple teams
+Analyze, profile and validate data to identify potential data quality issues while working with multiple teams to understand their data quality needs and help prioritize different efforts across the organization
+Work with data scientists, data analysts, product managers, and engineers, and apply your expertise in quality assurance to deliver high-quality data-driven products
+Continuous learning and deep understanding of the processes that generate the data to be QAed
+Write testing plans and routines, manage regression testing processes for internal and external data pipelines, and be the point person for clearing data for release according to delivery specifications
+Design, monitor and maintain QA reports, KPIs, and quality trends for the internal or external data systems
+Perform in-depth exploration of causes, trends, opportunities for anomalies
+Document, automate and enforce data quality, data integrity, and QA best practices
+Develop scripts in SQL/Python/etc. to achieve data quality objectives
+Minimum qualifications:
+BS in Computer Science, Electrical Engineering, Math, Physics, or another quantitative field
+3-5 years of professional experience in data quality assurance
+Experience with the Agile development process preferred
+Hands-on experience with at least one scripting language like Python
+Hands-on experience with SQL
+Experience with XML, JASON, CSV, etc. file format
+Have excellent interpersonal and written/verbal communication skills
+Be highly motivated and flexible
+Effectively handle multiple projects simultaneously
+Preferred qualifications:
+Familiarity with online advertising and advertising fraud
+Excellent verbal and written communication skills, with extreme attention to detail
+A team player who can collaborate with engineers, product managers, marketers, and other cross-functional teams
+Ability to initiate and drive projects to completion with minimal guidance
+Demonstrable ability to quickly understand new concepts
+Experience with Amazon AWS, and UNIX CLI
+Fluency in SQL and ability to write complex queries to extract large amounts of data
+Fluency in Python (highly preferred), or other scripting language
+What perks do we have to offer?
+We focus on doing things differently and challenge each other to be the best we can be.
+Remote work environment
+Solving critical social problems of Ad Fraud, Data Privacy and Children safety on the internet
+Flexible hours
+Excellent Benefit package
+Extremely competitive compensation
+401K and healthcare benefits
+Stock options
+Zero micromanagement
+
+ZWqdf6n68I

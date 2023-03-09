@@ -1,0 +1,23 @@
+The Director of Data Engineering position will develop new APIs and web-based products to consume and execute machine learning models. Primary focus will be to integrate data science models with Caesars Digital Product team and develop internal web-based consumption tool.
+KEY JOB FUNCTIONS :
+Efficiently collect, process and access data necessary for Data Science team
+Build infrastructure and “pipelines” for handling data, using generalization and abstraction layers to improve efficiency and sustainability of data architecture
+Design redundancies, automated monitoring and robust architecture to minimize data downtime
+Working with distributed clusters of variety of servers
+Collaborate with data scientists to productionalize machine learning models
+Collaborate with digital product teams to align with product road maps and ensure API feeds are always working
+Develop web-based tools to serve data science insights to internal stakeholders
+EDUCATION and/or EXPERIENCE:
+MS or PhD in quantitative field, preferred computer science
+Graduation from a top-tier program or other evidence of high performance/potential preferred
+Demonstrated experience in developing data solutions
+Previous experience working in a cloud environment
+2+ years relevant analytics experience preferred
+5+ years relevant management experience preferred
+Real time data (ie Spark, Kafka) experience required
+Web development, client and server side scripting (ie HTML, Javascript, PHP, Python Flask) experience required
+Javascript libraries JQuery, Vue.js, chart.js preferred
+Relational Database (ie SQL) experience required
+Must possess very strong interpersonal, communication and consensus building skills; willing to work on developing and managing key relationships across the organization.
+Must be able to work in a deadline-oriented environment, ensuring decisions and management communication is occurring in a timely fashion across all geographical areas of operations
+Ability to uphold and demonstrate the highest level of integrity in all situations and recognize standards required by a regulated business

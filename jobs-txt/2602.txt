@@ -1,0 +1,41 @@
+Title- Team Lead
+Duration – 06/30/2023
+Location – Harrisburg, PA
+Interview Type: Virtual interview MS team.
+Note: This position will be assigned to APS 625 Forster Street, Harrisburg with authorization to work remotely as appropriate. Does your candidate agree to this requirement?
+Agency: DHS
+OBJECTIVES OF ENGAGEMENT-
+Team Lead TL2 A4 SC1
+ISSUING OFFICE
+This request is issued from the Adult Protective Services Division (APS), within the Commonwealth of Pennsylvania’s Office of Long-Term Living (OLTL).
+BACKGROUND/PROBLEM STATEMENT
+The contractor’s primary responsibilities will be to analyze and evaluate data and related projects for the Adult Protective Services Division. This position will be responsible for development and management of the Adult Protective Services information system. It includes analyzing service trends and data reporting. The position works closely with the APS Division staff and is responsible for the management and reporting of APS data. The position serves as the functional expert for the Social Assistance Management System (SAMS) system and as the liaison for the development and maintenance of SAMS between users and the third-party vendor. The position is responsible for managing large-scale enhancement projects for APS and assists in the determination of necessary changes and the order in which they should be implemented. The position is further responsible for performing and overseeing complex analytical and evaluative programs and projects for the APS Division and provides staff with information used for planning, improvement, monitoring, and resource allocation for the programs. The position also develops and manages routine daily, weekly, monthly, and annual reports for the Division using SQL Server and Crystal Reports.
+INCURRING COSTS
+APS is not responsible for any costs or expenses incurred by the service providers in the preparation of their quotes.
+RESOURCES
+In addition, APS will supply all necessary hardware, software, network connection, phone and fax for daily use as need to complete assigned work items. This position will be assigned to APS 625 Forster Street, Harrisburg with authorization to work remotely as appropriate.
+CONTRACTOR REQUIREMENTS
+1. Points of contact
+2. Criminal History Background Check
+3. Security access
+OBJECTIVES OF ENGAGEMENT
+As a member of the APS team, the contractor will complete all assigned tasks related to the support and maintenance of the data systems to complete analytical reports and ad hoc requests from the Division staff within required timeframes. The contractor will work collaboratively with the customer (OLTL Staff) and other stakeholders of the systems application development teams (Deloitte, Bureau of Information Services, Wellsky & others as identified). All project deliverables will satisfy the business requirements and objectives of the tasks and will meet the Office of Long-Term Living’s security policies, procedures, standards and best practices. The contractor will complete all required time reporting activities and provide appropriate task status updates to the team lead on assigned projects.
+TASKS TO BE PERFORMED
+Specific work items for the contractor from 07/01/2022 – 06/30/2023 are:
+* Research and analyze data to identify trends, operational gaps, develop plans and proposals to address issues
+* Interact with business leads and stakeholders to understand business needs and provide guidance and/or solutions
+* Generate and distribute daily, weekly, monthly and annual reports
+* Coordinate with stakeholders to improve business processes
+* Provide technical support to end users
+* Maintain existing databases, manage data uploads
+CONTRACTOR SKILLS AND EXPERIENCE REQUIREMENTS
+The selected vendor shall provide one Contractor who will possess a minimum of 8 years’ of industry (IT) experience in the analysis, design, coding, unit and integration testing and deployment of application code as well as superior communication skills (both verbal and written). Additionally, the contractor must demonstrate specific experience in developing reports for end users. The contractor must have strong analytical and problem-solving skills, ability to interact with all levels of personnel.
+Job Type: Contract
+Salary: $53.00 - $57.00 per hour
+Schedule:
+8 hour shift
+Day shift
+Monday to Friday
+Ability to commute/relocate:
+Harrisburg, PA: Reliably commute or planning to relocate before starting work (Required)
+Work Location: One location

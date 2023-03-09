@@ -1,0 +1,37 @@
+Paul Davis Restoration, Inc. is a national franchise organization that provides property damage emergency services, restoration, and reconstruction services for residential and commercial properties due to water, fire, mold, storm, and other disasters. The Paul Davis Network is made up of more than 320 franchises across the US and Canada.
+
+The Business Intelligence Developer is a member of the Business Intelligence team and will support the business intelligence and reporting needs of Paul Davis Restoration, Inc. This individual will be responsible for developing, testing, and implementing business intelligence and reporting solutions to enable the BI team to effectively deliver its initiatives and meet team goals.
+
+KEY RESPONSIBILITIES
+Design, develop, and test highly complex BI solutions on the Microsoft Business Intelligence stack (SSRS, SQL Server Database, SSIS, Azure Data Factory and Power BI) ·
+Design, develop and test high-quality Extract, Transformation and Load (ETL) processes, programs and scripts to migrate data from source systems into the Data Warehouse and Data Marts ·
+Extract complex data from multiple data sources into usable and meaningful reports and analyses by implementing stored procedures and SQL queries ·
+Provide ongoing performance monitoring and tuning and production support related to Data Warehouse, Data Mart, ETL and BI Reporting environment ·
+Work in conjunction with Business users to gather requirements to be used in developing dashboards, data visualizations, analytics and other BI related solutions ·
+Troubleshoot data integration and data quality issues and bugs, analyze reasons for failure, implement optimal solutions, and revise procedures and documentation as needed ·
+Develops and implement BI Standards and Best Practices ·
+All other projects and duties as assigned
+WORK EXPERIENCE & SKILLS (Required)
+BS degree in Business, Computer Science, Engineering, Information Systems or related field (or equivalent experience) ·
+Strong knowledge of Data Warehouse architecture and design ·
+Ability to take initiative and lead technical projects end-to-end ·
+Excellent interpersonal, listening, verbal, and written communication skills ·
+Ability to communicate technical details to technical and non-technical resources ·
+Excellent organization and prioritization skills with strong ability to multi-task and shift focus as necessary to meet deadlines ·
+Demonstrated ability to drive to deadlines, balancing multiple priorities, and ensuring quality standards ·
+Excellent analytical, problem-solving, and innovative thinking skills
+EDUCATION, CERTIFICATION AND EXPERIENCE (Required)
+3+ years proven experience in database programming including complex SQL queries, complex stored procedures, database performance tuning and optimization on SQL Server database platform ·
+3+ years' experience in SSRS report development ·
+3+ years' experience in SSIS data integration development ·
+2+ years’ experience developing data visualization reporting using Power BI
+PHYSICAL ENVIRONMENT
+Must be able to stay in a stationary position up to 100% of the time
+The person in this position needs to occasionally move about inside the office to access file cabinets, office machinery, etc.
+Constantly operates a computer and other office productivity machinery, such as a calculator, fax machine, copy machine, and computer printer.
+Must be able to observe and perceive information on a computer and documents
+Must be able to communicate and converse with customers over the phone
+Occasionally will lift up to 10lbs
+Ability to safely operate a company vehicle
+WORK ENVIRONMENT The employee will be working indoors. The employee will be exposed to air conditioning and heat. The employees will be exposed to normal noises throughout the office. TRAVEL This position may require up to 5% travel. This position may require travel for trainings. REASONABLE ACCOMMODATION FOR DISABILITY Any applicant or employee, who believes that a reasonable accommodation is required for purposes of federal or state disability law is required to contact Human Resources to begin the interactive exchange process. The ADA defines “reasonable accommodation” as a change or adjustment to a job or work environment that allows a qualified individual with a disability to satisfactorily perform the essential functions of a particular job, and does not cause an undue hardship for the employer. DISCLAIMER Paul Davis Restoration is an equal opportunity. Paul Davis Restoration provides equal employment opportunity to all individuals regardless of their race, color, creed, religion, gender, age, sexual orientation, national origin, disability, veteran status, or any other characteristic protected by state, federal, or local law.
+Flexible work from home options available.

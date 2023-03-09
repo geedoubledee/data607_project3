@@ -1,0 +1,44 @@
+Job description
+Design conceptual data architectures solution for data-centric analytics projects.
+Analyze data sources, design and evaluate feasible technical solutions to be implemented by data engineers. The solutions might include database modeling and design, relational database architecture, metadata and repository creation and configuration management.
+Understand the complexity of data and design systems and models to handle different data sources/formats, which includes structured, semi-structured, and unstructured, as well as stream processing.
+Use data mapping, data mining and data transformational analysis tools to design and develop technical solution architectures.
+Prepare and maintain accurate solution design and architectural documentations for delivery, platform and operations team.
+Play a contributing role in the development and update of enterprise data architectural strategies, patterns, standards, processes and tools as new/unique data sources, use cases and requirements come up.
+Support and adhere to the development of data management policies, standards and procedures.
+Define integrated views of data drawing together data from across the enterprise, both in real-time and as extracts.
+Collaborate with platform and IT to as need to finalize the right solution including pattern and architecture for the analytics use cases.
+Address governance and security challenges associated with solutions.
+Support the delivery team engineers in tuning queries for performance and scalability, help them package deployments and collaborate with IT to migrate code between Development, Quality Assurance (QA), and Production environments.
+Support test automation, troubleshooting ETL job functionality, validating data, as well as create test data and table structures through use of SQL.
+Design and develop data pipelines or ETL processes.
+Must be able to work in an agile, rapid delivery environment.
+5+ years of data strategy, architecture related experience designing, architecting, and implementing big data solutions.
+9-10+ years of experience:
+· ETL experience
+· Natural Language Processing (NLP)
+· Metadata tagging and link analysis
+· Experience with script and/or parser development to extract structured and unstructured data from files
+· Data warehousing, mining, analysis, self-service, or machine learning
+· Data Modelling
+· Technologies such as Informatica, SQL programming and hands-on experience in Python, R, APIs, Spark, Python or Kafka
+· Big Data and Big data technologies
+· Data visualization tools such as PowerBI, Qlik and Tableau
+Experience with traditional ETL integration tools as well as more modern real-time messaging/integration platforms.
+Experience with relational database modeling concepts and modeling for the modern big data platform.
+Strong understanding of Operational, Relational, Analytical, Master, and Reference data models.
+Deep understanding of data transfer formats such as XML, JSON, and Avro.
+Understanding of Cloud technologies such as Microsoft Azure, Google Cloud, Amazon Web Services (AWS).
+Knowledgeable in tools used to identify and manage structured and unstructured data.
+Expert using data governance technologies such as Collibra or Informatica EDC.
+Strong communicator at the technical levels
+Strong, demonstrated writing and presentation skills
+Job Type: Contract
+Pay: From $70.00 per hour
+Schedule:
+8 hour shift
+Experience:
+Informatica: 7 years (Required)
+SQL: 5 years (Required)
+Data warehouse: 7 years (Required)
+Work Location: Remote

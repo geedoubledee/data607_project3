@@ -1,0 +1,91 @@
+Details
+Department: Data Delivery Governance
+Schedule: 8 hour shift, Monday-Friday
+Location: REMOTE
+
+
+Benefits
+
+Paid time off (PTO)
+Various health insurance options & wellness plans
+Retirement benefits including employer match plans
+Long-term & short-term disability
+Employee assistance programs (EAP)
+Parental leave & adoption assistance
+Tuition reimbursement
+Ways to give back to your community
+
+Please note, benefits and benefits eligibility can vary by position, exclusions may apply for some roles (for example: PRN, Short-Term Option, etc.). Connect with your Talent Advisor today for additional specifics.
+
+
+Responsibilities
+
+Find your calling in a rewarding career in transformative technology. Align your skill with work that matters.
+
+We are hiring a Senior Administrator - Database! #AscensionTechnologies #LI-Remote
+
+Manages administration and maintenance of assigned database systems, function(s), and/or resources within the realm of on-prem and cloud-based environments, in addition to providing DBA lead and managerial oversight.
+
+Responsibilities:
+Managed Services and other vendor partners management across all Ascension database platforms for both on-prem and cloud-based environments
+Manage installation and maintenance support for all in-scope database technology disciplines
+Develop processes and standards for best-practice optimization of database platform configurations, performance, backup/recovery, and security
+Manage processes for governing database access
+Maintain database platforms with proper upgrade and patching cycles
+Effectively diagnose and troubleshoot database issues in collaboration with other infrastructure teams
+Recommend and implement emerging database technologies
+Develop and manage database platform reports, visualizations, and dashboards
+Develop automation standards for repeated, routine database tasks
+Be available for on-call support, as needed
+
+Skills:
+Expertise with utilizing database management tools for all supported database technology disciplines
+Advanced knowledge of database security, backup and recovery, and performance monitoring best-practices
+Understanding of relational and dimensional data modeling
+PowerShell and Unix shell scripting skills
+Familiarity with SSAS, SSIS, and SSRS components of MSSQL
+Working knowledge of MSSQL AlwaysOn, Oracle RAC and Data Guard, and other ancillary high availability (HA) solutions
+Working knowledge of Idera, Solarwinds, or similar database platform monitoring/alerting products
+Basic knowledge of networking concepts and design, such as TCP protocol, DNS, etc
+Strong mathematical and statistical knowledge
+Excellent written and verbal communication skills
+Impeccable attention to detail
+
+
+Requirements
+
+Education:
+High school diploma/GED with 2 years of experience, or Associate's degree, or Bachelor's degree required.
+
+Work Experience:
+
+3 years of experience preferred.
+
+
+Additional Preferences
+
+Education and Experience Preferences:
+Bachelor’s degree in computer science or a related field
+5 to 10 years of experience with enterprise levels of database administration, database architecture, or a related field
+Administrative experience with multiple database disciplines, such as MSSQL, Oracle, MySQL, PostgreSQL, and MongoDB
+Administrative experience with Windows and Linux/Unix server environments, as well as storage appliance technologies for conventional SAN and hyper-converged disciplines
+Experience with latest VMware and Microsoft Hyper-V virtualization technologies
+Experience with working in Microsoft Azure, Google GCP, and other cloud-based disciplines
+
+Why Join Our Team
+
+When you join Ascension, you join a team of over 150,000 individuals across the country committed to a Mission of serving others and providing compassionate, personalized care to all. Our inclusive culture, continuing education programs, career coaches and benefit offerings are just a few of the resources and tools that team members can use to create a rewarding career path. In fact, Ascension spent nearly $46 million in tuition assistance alone to support associate growth and development. If you are looking for a career where you can grow and make a difference in your community, we invite you to join our team today.
+
+
+Equal Employment Opportunity Employer
+
+Ascension Technologies is an equal opportunity employer (EEO) and affords equal opportunity to all associates and applicants without regard to race, color, religion, national origin, citizenship, gender identity, sexual orientation, age, physical or mental disability, veteran status, genetic data, or other legally protected status. For further information regarding your EEO rights, click on the following link to the “EEO is the Law” poster:
+
+http://www.dol.gov/ofccp/regs/compliance/posters/pdf/eeopost.pdf
+
+EEO is the Law Poster Supplement
+
+Please note that Ascension will make an offer of employment only to individuals who have applied for a position using our official application. Be on alert for possible fraudulent offers of employment. Ascension will not solicit money or banking information from applicants.
+This employer participates in the Electronic Employment Verification Program. Please click the E-Verify link below for more information.
+
+E-Verify

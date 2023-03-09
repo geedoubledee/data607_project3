@@ -1,0 +1,28 @@
+What We Do:
+Primordial Labs is developing Scipio, a tactical AI assistant for drones that significantly reduces the cognitive load on pilots through machine learning.
+Job Description:
+(Please Note: This is a 100% remote position that requires residence in the United States.)
+
+We're looking for machine learning engineers with a background in reinforcement learning. Candidates with expertise in any of the following areas are highly desirable:
+Closing the sim2real gap
+Sparse rewards and credit assignment over long time horizons
+Offline learning
+Options learning and other hierarchical approaches
+Unsupervised exploration techniques
+Gym development (especially around complex DoD wargaming and platform simulation systems!)
+As a company co-founded and led by engineers, we are focused on developer experience. We promise to minimize distractions (read: meetings) and to provide tools which maximize productivity. We are also committed to providing competitive total compensation, including profit sharing.
+What You'll Do:
+We are a small company, so you can expect to be an integral part of all phases of product development. Including lots and lots of flight testing. Here are a few examples of how you'll contribute to the development of our tactical AI assistant, Scipio:
+Develop policies for tasks ranging from low-level aircraft control to high-level task assignment.
+Transition policies to a number of physical unmanned vehicles and evaluate performance in the field.
+Incorporate new aircraft/sensor models and simulation environments into our multi-fidelity hierarchical M&S framework.
+About You:
+There are no educational requirements. We're more interested in projects you've worked on - both on the job and on the side. So please be prepared to discuss those! The ideal candidate will have excellent Python skills and be adept in at least one ML framework (PyTorch, TensorFlow, etc.).
+Application Process:
+We have a two-stage interview process.
+
+The first stage is a screener which is a combination of technical discussion about relevant engineering concepts as well as your past experience. This screener is generally around 30 minutes.
+
+After the screener, if both sides believe it makes sense, we will provide you with an 'offline' coding test. This test is done on your own time, at your own pace, so you do not feel the pressure of coding live with us watching. We want you to do your best with a clear mind and free of interview jitters. The questions are a combination of algorithm and system design. Once you complete the test, we'll all hop back on another call and you will walk us through your code. We are not just looking for the right answers, we're interested in your thought processes and technical approach.
+
+We are committed to a low-stress interview experience and promise there will be no trick questions or brain teasers!

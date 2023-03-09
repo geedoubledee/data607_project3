@@ -1,0 +1,37 @@
+Decision Science Product Manager – IDeaS Sustainment, Asia Resorts
+Job Overview
+The Disney Decision Science + Integration (DDSI) organization provides internal consulting services for clients across The Walt Disney Company including the Disney Parks, Experiences and Products segment which include Parks & Resorts both domestic and international, Consumer Products and Disney Signature Experiences as well as the Disney Media & Entertainment Distribution segment which include Studios Content (Disney Theatrical Group), General Entertainment Content, and ESPN and Sports Content.
+The Decision Science Product team in DDSI leverages advanced analytics, technology, optimization, statistical, and econometric modeling to explore opportunities, shape business decisions, and drive business value. Our work includes conceptualizing new solutions, solution design and development, partnering with decision scientists, data engineers, and application developers, implementation (and integration with business processes), and ongoing business support to maximize profitability and improve the value proposition for our Guests, Cast Members, and Shareholders.
+
+DDSI seeks data-driven and business-minded Cast Members who are passionate about learning our client’s businesses, forming relationships with key partners, and driving value through the tactical and strategic use of data and analytics. You will support development and improvement of existing solutions by scoping, implementing, and testing enhancements in order to address business problems. You should enjoy connecting with clients to brainstorm ways to better support business decisions; being a thought partner in analytical settings; designing and building data visualization dashboards; and developing, managing and improving analytical solutions.
+Responsibilities
+Internal Consultant – You will act as a Company-wide consultant, with particular expertise on IDeaS G3 RMS to ensure the long-term success of the resort revenue management solution at our Shanghai, Hong Kong and Tokyo resorts.
+Strategic Partner – You will engage with internal domestic and international clients, as well as external vendors for projects that drive value, improve business efficiencies, or guide strategy development.
+Product Manager – You will support the assessment of business needs, requirements gathering, solution design, delivery, testing, and user training on the analytics application. You will manage client requests and prioritize them into a product roadmap.
+Storyteller – Through polished presentations, deliver and effectively communicate key insights, findings, and recommendations in a concise, actionable, and efficient manner to stakeholders and leadership.
+Problem Solver – When presented with new challenges, you will research and network to find solutions, evaluated within the context of business impact.
+Data Analyst – Collect, analyze, and visualize large data sets to determine patterns, gather insights, and uncover new revenue opportunities.
+Basic Qualifications
+Experience with any revenue management system
+Ability to meet with partners and clients outside of East Coast business hours for approximately 10% of the work week
+Ability to work autonomously and confidently with minimal oversight
+Ability to build trust and influence partnerships across a diverse group of clients, partners, vendors, and stakeholders, both internally and externally
+Ability to effectively train others on revenue management and dynamic pricing concepts, technology, and implementation
+Experience managing, implementing, or sustaining a hotel revenue management system in a large property environment
+Knowledge of dynamic pricing science, statistical methods, forecasting, and/or optimization
+Ability to simplify complex analytics into recommendations that are easily understood and executable
+Ability to prioritize in response to an ambiguous and rapidly changing business environment
+Creative problem-solving and decision-making skills
+Strong written and oral communication, presentation, and interpersonal skills
+Commitment to developing a diverse, equitable, and inclusive work environment
+Preferred Qualifications
+Experience with various hotel industry technologies: IDeaS G3 RMS, Opera PMS, and/or any hotel RMS / CRS /PMS
+Experience as a hotel revenue manager for a large property or multiple properties
+Experience with product management, project management, and/or system integration and implementation
+Understanding of advanced analytical methods for forecasting and/or optimization
+Experience demonstrating the value of a product or initiative after implementation
+Experience using data visualization technologies, such as Tableau, designing and developing interactive reports and dashboards
+Experience with one or more of the following languages: SQL, Python, SAS, and/or R
+Conversational proficiency in Mandarin, Cantonese and/or Japanese
+Required Education
+Bachelor’s degree in Business Administration, Hotel Administration, Statistics, Mathematics, Engineering, Economics, Data Analytics, Computer Science, or other relevant field; or equivalent experience.

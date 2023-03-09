@@ -1,0 +1,36 @@
+Role: Database Administrator
+Location: Blue Ash, OH (ONSITE)
+Description:
+Responsible for the design, development, installation and performance of our Netezza appliances.
+Experience with Multi-Rack Netezza Administration is required.
+The successful candidate will be part of a team responsible for all appliance support, monitoring, performance, and documentation of all Netezza databases.
+Data management tasks including:
+User/Group/Permissions maintenance; Work Load Management; Database/Schema/Table design and maintenance; monitoring and performance; installs and upgrades of all related appliance software; collaboration with IBM Netezza support.
+Support primarily Netezza appliance environment that will include configuration, administration and maintenance of business-critical 24x7 non-production and production environments.
+The DBA will work with project teams and collaborate with the Database Team to deliver successful implementations.
+A general understanding of underlying operating system, storage technologies, memory management, disk arrays, NAS/SAN, networking is needed to perform the job functions.
+Strong analytical and troubleshooting skillset required.
+Ability to work within a cross functional team environment required.
+Ability to self-prioritize workload and manage deadlines effectively required.
+Strong communication skills, both written and verbal required.
+Extensive experience with different backup/restore and disaster recovery solutions
+Expert level experience in administering large databases in mission critical environment.
+Must have Netezza Hardware and Network component knowledge.
+Develop and define administrative and operational standard practices using Netezza utilities (Groom, Distribution, statistics, Zone Maps).
+Solid experience in Netezza system configuration and setup with its utilities and tool sets.
+Strong knowledge and experience with computer hardware including Servers, Network, SAN technologies, I/O subsystems
+Strong communication, organizational, and time-management skills.
+Self-starter, positive attitude, problem solving skills and self-initiative are must qualitie
+Standout skills/experience:
+Supporting multiple projects, experience working with offshore, Test Automation, Coupa, Maximo (set up and testing
+INTERESTED PLEASE SHARE ME YOU ARE PROFILE TO varsha at sunixasolutions dotcom or call me at Nine Four Nine 8Nine9 Nine5Zero5
+Job Types: Contract, Temporary
+Pay: $20.00 - $60.00 per hour
+Schedule:
+8 hour shift
+Experience:
+Netezza Administration: 10 years (Required)
+Netezza Hardware: 10 years (Required)
+Work Location: Remote
+Speak with the employer
++91 9498999505

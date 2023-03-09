@@ -1,0 +1,63 @@
+Job Title : Tableau BI Developer (689477)
+Duration: 6+ Months Possibility of extensions.
+Location: Remote
+Tableau Developer Responsibilities:
+Act as Tableau developer and work closely with the ETL team to ensure data sources are accurate, available
+and analyzable.
+Hands on with Tableau Desktop (dashboard creation, report authoring and troubleshooting, data source
+management).
+Create and edit Oracle SQL queries within Tableau to build calculated fields.
+Create interactive filters, parameters, and calculations for preparing dashboards and worksheets in Tableau.
+Build and publish interactive dashboards on Tableau Server. Collaborate with ETL team and QA analysts to
+test, clean, and standardize data to meet the business requirements.
+Have the confidence to work cross-functionally with various departments including business stakeholders and
+technical personnel to exchange ideas.
+Must have excellent verbal communications skills and documentation skills to maintain workflows and
+dashboard functionality.
+Tableau Developer Requirements:
+4+ years of experience designing and developing business intelligence dashboards using Tableau.
+At least 4 years of experience using Tableau v10.x.
+2-3 years in UI, UX experience demonstrable with evidence of using a combination of user interface tools
+such as wire frames, prototypes, mock-ups, or white boarding to illustrate product usability.
+Experience working with large and complex data set able to write simple Oracle queries to create calculated
+fields.
+Practical understanding of data systems (BI analytics, data blending, data warehousing, data ETL, etc.) on
+process automation and standardization.
+Experience working in a support team environment by documenting, researching, and solving problems via
+phone calls or email ticketing system.
+Experience working directly with business analysts or business sponsors to gather and validate functional
+requirements and provide the design specifications.
+Excellent oral, written skills and listening skills.
+Ability to work on multiple projects and flexibility to change priorities when needed.
+Required / Desired Skills
+Bachelor's Degree or higher in Computer Science or closely related discipline is required.
+Required
+4+ years of experience designing and developing business intelligence dashboards using Tableau.
+Required
+4
+Years
+Practical understanding of data systems (BI analytics, data blending, data warehousing, data ETL, etc.) on process automation and standardization
+Required
+4
+Years
+At least 4 years of experience using Tableau v10.x.
+Required
+4
+Years
+2-3 years in UI,UX experience demonstrable w/evidence of using a combo of user interface tools like wire frames,prototypes,mock-ups,or white boarding
+Required
+3
+Years
+Job Type: Contract
+Pay: $62.00 - $68.00 per hour
+Schedule:
+8 hour shift
+Monday to Friday
+Experience:
+business intelligence dashboards using Tableau.: 7 years (Required)
+data systems (BI analytics, data blending: 5 years (Required)
+data warehousing, data ETL: 6 years (Required)
+on process automation and standardization: 5 years (Required)
+Tableau v10.x.: 6 years (Required)
+wire frames,prototypes,mock-ups,or white boarding: 4 years (Required)
+Work Location: Remote

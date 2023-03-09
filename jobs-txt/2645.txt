@@ -1,0 +1,77 @@
+Data Engineer, Integrity Data Hub (IDH) - 100% Remote position
+Background on NASWA
+The National Association of State Workforce Agencies (NASWA) is the national organization representing all 50 state workforce agencies, D.C. and U.S. territories. These agencies deliver training, employment, career, and business services, in addition to administering the unemployment insurance (UI), veteran reemployment, and labor market information programs. NASWA provides policy expertise, shares promising state practices, and promotes state innovation and leadership in workforce development.
+One of the projects managed by the NASWA UI Integrity Center is the development of the UI Integrity Data Hub (IDH). The Data Hub is an improper payment detection and analytics platform that allows participating states to submit and score UI claims data against data sources for cross state matching, suspicious data element detection, identity, and bank account verification. The Data Hub project team is seeking a full-time Data Engineer to provide data engineering support for the infrastructure for development of ongoing reporting functions, analysis, and modeling capabilities. This role is expected to include development, maintenance, and optimization of data architectures, complex data queries, data extraction, transformation, and loading (ETL) initiatives, and provide possible assistance on data analysis and reporting.
+Brief Overview of Position
+The Data Engineer will be responsible for a hands on role expanding and optimizing data quality, data pipelines, and architecture, as well as optimizing data flow and collection in the IDH AWS ecosystem. The Data Engineer will support NASWA software developers, system architects, and data/program analysts on data initiatives. The Data Engineer will ensure optimal data quality and consistent and secure delivery throughout ongoing projects. They must be self-directed and comfortable supporting the data needs of multiple teams and products. The Data Engineer will work with IDH staff, the Project Manager, and other members of the project team to meet data-related objectives.
+Roles and Responsibilities
+Design and perform data pipeline related implementation and production support tasks such as data migration, ETL, validation, and conversion.
+Evaluate and/or implement changes in production transactional system to support ETL data pipelines as needed.
+Experience building and optimizing ETL data pipelines, architectures and data sets an AWS or open source ecosystem
+Understand best practices for data separation, security, and disaster recovery through multiple data centers and AWS regions.
+Provide insight into system data quality, recommend, and implement solutions to resolve data quality issues.
+Advanced working SQL knowledge and experience working with relational databases, query authoring (SQL) as well as working familiarity with a variety of databases
+Experience with Jupyter notebooks and data analytics libraries
+Evaluate data analysis and visualization tools and use these tools to assist analysts in developing recurring and ad-hoc reports/dashboards.
+Build, configure, or install analytics tools that utilize the data pipeline to provide actionable insights into customer acquisition, operational efficiency, and other key business performance metrics.
+Candidates must be comfortable working on a virtual team.
+Candidates must have effective time and task management skills, be detail oriented, and value accuracy.
+Candidates should display professionalism with internal and external stakeholders
+Desired Experience
+Experience with implementation and design of non-relation NoSQL, and Graph databases such as Neptune, or Neo4J.
+Experience with open source data pipeline and workflow management tools such as: AWS Glue, Apache Airflow or Nifi
+Experience with AWS cloud services: RDS, Redshift, EC2, EMR,
+Experience with stream-processing systems such as: Kinesis, Storm, or Spark-Streaming
+Experience with big data tools such as: Spark and Hadoop
+Experience with object-oriented/object function scripting languages: Python, Java, Scala, etc.
+Understanding necessity and methods of data obfuscation or data de-identification of PII
+Experience with machine learning fields, e.g., natural language processing, statistical learning theory/algorithm
+Experience creating reports and using data visualization tools (ex. Tableau).
+Required Experience
+3+ years of data engineering and software development experience
+AWS Cloud development experience
+Excellent client-facing and internal communication skills
+Excellent written and verbal communication skills
+Collaborates well with other teammates
+Ability to be productive working remotely
+Solid organizational skills including attention to detail and multi-tasking skills
+Strong working knowledge of Microsoft Office
+Preferred Experience
+4+ years data engineering and software development experience
+2+ years AWS cloud infrastructure experience
+Education (including credentials, certificates, etc.)
+Bachelor’s degree in Computer Science, Statistics, Informatics, Information Systems or another quantitative field required
+Job Details
+Location: Remote/telework position.
+Title: IDH Data Engineer
+Report to: IDH Data Analytics Team Lead
+Term: Full Time
+Salary Range: $105,000 - $120,000 per year
+Benefits: NASWA offers competitive benefits including a great health care package, 401(k) with a generous company contribution, educational assistance, plentiful time off, a remote work stipend, laptop. monitors and other office equipment plus other great options.
+Travel Requirements: Occasional travel around the United States (and possibly US territories) for working sessions.
+This job description is not designed to cover or contain a comprehensive listing of activities, duties or responsibilities that are required of the employee. Duties, responsibilities, and activities may change, or new ones may be assigned at any time with or without notice.
+NASWA is an equal opportunity employer. NASWA does not unlawfully discriminate on the basis of race, color, religion, national origin, sex, age, marital status, military status, personal appearance, sexual orientation, gender identity or expression, family responsibilities, genetic information, disability, matriculation, political affiliation or any other characteristic protected by Federal or District of Columbia law. Our non-discrimination policy applies to all facets of employment, including recruiting, hiring, employment, promotion, demotion, dismissal, compensation, and training opportunities.
+Job Type: Full-time
+Pay: $105,000.00 - $120,000.00 per year
+Benefits:
+401(k)
+401(k) matching
+Dental insurance
+Employee assistance program
+Flexible schedule
+Flexible spending account
+Health insurance
+Health savings account
+Life insurance
+Paid time off
+Professional development assistance
+Tuition reimbursement
+Vision insurance
+Schedule:
+8 hour shift
+Application Question(s):
+Are you comfortable with the posted salary range for this position?
+Experience:
+data engineering and software development: 3 years (Required)
+AWS Cloud development: 1 year (Required)
+Work Location: Remote

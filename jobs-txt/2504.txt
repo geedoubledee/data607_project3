@@ -1,0 +1,30 @@
+About the company
+Xen.AI, is an Artificial Intelligence (AI) research and development (R&D) organization with operations in USA and India. We help our customers to develop innovative and custom solutions using Artificial Intelligence, Machine Learning, Deep Learning, Data Science and Open Source technologies. Please visit https://xen.ai/ to know more about us.
+Compensation for this position
+For the 1st year - 100% revenue based compensation based on the client projects that you help to get and deliver.
+After 1st year, based on company's progress we can consider formal corporate positions with market standard salary and equity etc.
+About the position
+Xen.AI is looking for a hands-on technology Head for AI, Machine Learning and Data Science SaaS solutions development and projects delivery, who has proven hands-on experience in developing AI, Machine Learning, Deep Learning and Data Science SaaS solutions and delivering client projects in various verticals such as Industrial, IoT, Smart Cities, Infrastructure, Supply Chain, ECommerce, Banking, Insurance, Finance, Manufacturing, Healthcare, Medical, Life Sciences, Pharmaceuticals, Government, Defense projects etc. Selected candidates would be able to work remotely from any location. This can be a full time or part-time role. For the 1st year compensation would be 100% revenue based on the client projects that you help to deliver.
+Requirements
+10+ years of proven hands-on, engineering leadership, SaaS solutions development and project delivery experience in various industries
+Proven track record of successfully delivering innovating AI, Machine Learning, Deep Learning and Data Science solutions & client projects in various verticals such as Industrial, IoT, Smart Cities, Infrastructure, Supply chain, Banking, Insurance, Finance, AdTech, Media, eCommerce, Manufacturing, Healthcare, Medical, Life Sciences, Pharmaceuticals, Government, Defense projects etc.
+Hands-on coding experience with the latest AI, Machine Learning, Deep Learning tools and frameworks such as Google TensorFlow, Scikit-learn, Keras, Numpy, Pandas, Apache Spark, SparkML, Scala, Hadoop, Java, Python, R, AWS, Azure Cloud computing.
+Experience with Amazon Web Services (AWS) or other cloud platforms like Google Cloud or Microsoft Azure and their big data and Machine Learning services such as AWS Sagemaker, Elastic Map Reduce (EMR), Apache Spark, Databricks etc
+Highly self motivated.
+Well organized, focused, aggressive, result oriented, can-do attitude.
+Excellent leadership skills.
+Excellent communication skills.
+Masters Degree or PhD.
+Must have Work Authorization in US, we will not be able to support any VISA sponsorship. No H1B or OPT.
+Compensation for this position
+For the 1st year - 100% revenue based compensation based on the client projects that you help to get and deliver.
+After 1st year, based on company's progress we can consider formal corporate positions with market standard salary and equity etc.
+Please visit https://xen.ai/ to know more about us.
+Job Types: Part-time, Contract
+Pay: $1.00 per year
+Schedule:
+Self-determined schedule
+Experience:
+Python: 5 years (Required)
+AI & Machine learning: 5 years (Required)
+Work Location: Remote

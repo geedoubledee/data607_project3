@@ -1,0 +1,20 @@
+Big data with python, Spark
+· 5-10 years of experience as a Big Data Developer
+· In-depth knowledge of Big Data technologies - Spark, HDFS, Hive, Kudu, Impala
+· Solid programming experience in Python
+· Production experience in core Hadoop technologies including HDFS, Hive and YARN
+· Strong working knowledge of SQL and the ability to write, debug, and optimize distributed SQL queries
+· Strong analytical abilities; ability to translate business requirements and use cases into a Hadoop solution, including ingestion of many data sources, ETL processing, data access, and consumption, as well as custom analytics
+· Experience working with Data Governance tools like Apache Sentry, Kerberos, Atlas, Ranger
+· Experience working with streaming data with technologies like Kafka, Spark streaming
+· Strong understanding of big data performance tuning
+· Experience handling different kinds of structured and unstructured data formats (Parquet/Delta Lake/Avro/XML/JSON/YAML/CSV/Zip/Xlsx/Text etc.)
+Job Type: Contract
+Pay: $55.00 - $60.00 per hour
+Schedule:
+8 hour shift
+Experience:
+Data warehouse: 4 years (Preferred)
+Spark: 5 years (Required)
+Python: 5 years (Required)
+Work Location: Remote

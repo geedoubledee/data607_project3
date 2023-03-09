@@ -1,0 +1,28 @@
+Acima Credit is a young and dynamic leasing company that provides consumers financing options for life necessities that otherwise would not be available to them. We help with financing options from tires/wheels to furniture and appliances. Acima blends the use of innovative online technology with a fast and easy application process for thousands of retailers nationwide. Customers love us because we make the impossible possible. Retailers love us because we make it easy for them.
+Summary:
+We are looking for a Data Scientist that is interested in applying their understanding of machine learning techniques and statistics to analyze our many complex datasets. They will be nose deep in interesting payment, behavioral, credit, fraud, and economic datasets, to name a few. The insights gleaned and models trained from the analyses done on these datasets can quickly change the course of the company.
+We want a Data Scientist that will take advantage of the many opportunities at Acima to develop their skills and deepen their understanding of data science, production systems, and databases from our other skilled data scientists.
+Responsibilities
+Wrangle data using python or SQL to access our Redshift hosted data warehouse
+Build models to predict various business insights using python, notebooks, etc.
+Build dashboards showcasing your findings using the BI tool, Sisense/Periscope
+Build, maintain, and document various python microservices which run in Docker on AWS
+Collaborate with team members
+Benefits/Compensation
+Flexible schedules: Hybrid (mix of office and home office) or full remote.
+Unlimited DTO (discretionary time off).
+Medical insurance with United Healthcare (IHC network) Acima pays 85% of the employee premium.
+Health Savings Account (HSA) with company contribution.
+Dental insurance (Cigna) and Vision insurance (United Healthcare)
+Paid holidays
+401K match 6%/3%
+Free Dev lunches every Friday for locals
+Fully stocked snack bar with beverages
+Onsite gym and bike locker
+College tuition reimbursement program (STEM)
+Free car charging
+Qualifications
+Can commute to Draper Utah for in office work (a hybrid of work from home and office is potentially feasible)
+Be willing to work in Python (numpy, pandas, scipy, sklearn, xgboost, tensorflow, flask, fastapi, pydantic, etc.)
+Understands how to train models that generalize well
+Ability to work independently and to take responsibility

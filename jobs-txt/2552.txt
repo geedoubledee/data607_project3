@@ -1,0 +1,29 @@
+Job title: Data Engineer with Workday prism
+Location: Atlanta, GA / Reston, VA
+Duration: 12+ Months
+Client: Fannie Mae
+Job Description:
+Hands on experience in ETL Development, Informatica and Autosys
+Experience with Prism
+Very Strong in SQL
+Very strong in AWS ETL Tools and framework
+Very strong in writing Lambdas and Deploy using cloud formation templates
+Strong in python and data processing libraries
+Good to have: Pyspark, Salesforce, AWS AppFlow, REST API
+Job Type: Contract
+Salary: $65.00 - $70.00 per hour
+Benefits:
+Dental insurance
+Flexible schedule
+Health insurance
+Paid time off
+Vision insurance
+Schedule:
+8 hour shift
+Monday to Friday
+Experience:
+PRISM: 7 years (Required)
+ETL: 6 years (Required)
+Work Location: Remote
+Speak with the employer
++91 609-917-9952

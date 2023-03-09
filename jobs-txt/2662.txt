@@ -1,0 +1,61 @@
+Job Title: - Data Scientist
+Position: - W2 Employment ( Should work on our W2 )
+Eligible Visa status: -OPT, Day1 CPT, H1B, H1B T, H4 EAD
+(Authorized to work anywhere in the USA and for only those who are staying in the USA)
+Long term contract
+Job description
+This role is responsible for leading efforts to develop and deliver complex data solutions to accomplish technology and business goals.
+Key responsibilities include code design and delivery tasks associated with the integration, cleaning, transformation, and control of data in operational and analytics data systems.
+They guide stakeholders, Product Owners, and Software Engineers through the design and execution processes.
+Provide technical thought leadership based on the significant experience they have built through implementing multiple complex data solutions, and their knowledge of the interaction across multiple data flows and systems.
+The ideal candidate is adept at using large data sets to find opportunities for product and process optimization and using models to test the effectiveness of different courses of action
+Key Responsibilities:
+Ensure that the design and engineering approach for complex data solutions is consistent across multiple flows and systems.
+Collaborate amongst team members to assist with knowledge gaps and or provide instructional training when needed.
+Assist other work groups in application development using python or writing advanced SQL queries when deemed necessary.
+Conduct research, designs prototyping and other exploration activities such as evaluating new toolsets.
+Utilize multiple architectural components in design and development of client requirements.
+Maintain, improve, clean and manipulate data for the operational and/or analytics data systems.
+Constantly looking for better ways of solving technical problems and designing the solution without being afraid of challenging the status quo.
+Collaborate with development teams to understand data requirements and ensure the data architecture is feasible to implement and subsequently implemented accurately.
+Assemble large, complex data sets that meet functional/ nonfunctional requirements.
+Build processes supporting data transformation, data structures, metadata, data quality controls, dependency and workload management.
+Define and build data pipelines that enable faster, better, data informed decision making within the business.
+Contribute to existing test suites (integration, regression, performance), analyze test reports, identify any test issues/errors, and triage the underlying cause.
+Document and communicate required information for deployment, maintenance, support, and business functionality.
+Adhere to team delivery/release process and cadence pertaining to code deployment and release
+Identify gaps in data management standards adherence and work with appropriate partners to develop plans to close gaps.
+Lead concept and experimentation testing and synthesize the results to validate and improve analytical solution.
+Experience using a variety of data mining/data analysis methods, using a variety of data tools, building and implementing models, using/creating algorithms and creating/running simulations.
+They must have a proven ability to drive business results with their data-based insights
+The right candidate will have a passion for discovering solutions hidden in large data sets and working with stakeholders to improve business outcomes.
+Qualifications for Data Scientist:
+Problem solving skills with an emphasis on product development.
+Experience using statistical computer languages (Python, SQL, hive, etc.) to manipulate data and draw insights from large data sets.
+Experience working with and creating data architectures.
+Knowledge of a variety of machine learning techniques (clustering, decision tree learning, artificial neural networks, etc.) and their real-world advantages/drawbacks.
+Knowledge of advanced statistical techniques and concepts (regression, properties of distributions, statistical tests and proper usage, etc.) and experience with applications.
+Excellent written and verbal communication skills for coordinating across teams.
+A drive to learn and master new technologies and techniques.
+5-7 years of experience manipulating data sets and building statistical models, Mathematics, Computer Science or another quantitative field
+Experience creating and using advanced machine learning algorithms and statistics: regression, simulation, scenario analysis, modeling, clustering, decision trees, neural networks, etc.
+Experience with distributed data/computing tools: Hadoop, Hive, MySQL, etc.
+Benefits: -
+Competitive salary
+Flexible work schedule & part-time off
+E-verified
+H1B and GC filling
+On job technical support
+Skill Enhancement
+Guesthouse facilities are also available
+Opportunity to work with Fortune 500 Companies
+Job Type: Full-time
+Salary: $40.00 - $60.00 per hour
+Schedule:
+8 hour shift
+Experience:
+Python: 1 year (Preferred)
+SQL: 1 year (Preferred)
+Work Location: Remote
+Speak with the employer
++91

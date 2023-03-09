@@ -1,0 +1,33 @@
+Requisition ID
+999008685
+
+Medidata: Power Smarter Treatments and Healthier People
+Medidata is leading the digital transformation of life sciences, creating hope for millions of patients. Medidata helps generate the evidence and insights to help pharmaceutical, biotech, medical device and diagnostics companies, and academic researchers accelerate value, minimize risk, and optimize outcomes. More than one million registered users across 1,900+ customers and partners access the world's most trusted platform for clinical development, commercial, and real-world data. Medidata, a Dassault Systèmes company, is headquartered in New York City and has offices around the world to meet the needs of its customers. Discover more at www.medidata.com and follow us @medidata.
+Our Team:
+Medidata is looking for individuals who will help us tackle some of the most complex questions facing the industry today using our proprietary platform and advanced analytics. At Medidata, we never work alone. This role will partner heavily with all of the key stakeholder functions including product, delivery, data science, engineering, partnerships, and biostatistics. Successful Medidata AI candidates will be skilled in analytical/quantitative thinking, structured communication, and excited about building the next horizon of Medidata’s mission to power smarter treatments and healthier people.
+Who We're Looking For:
+Leverage your managerial, programming and statistical expertise, and solid ADaM and SDTM experience, to oversee the statistical programming team and assist in the development and support of innovative approaches to optimize clinical trials, including synthetic control arms.
+Supervise a team of statistical programmers, manage workload and projects related to customer synthetic control arms
+Manage/support team members in review of protocols, statistical analysis plans, and other study related documents to support accurate data mapping and statistical analysis. Manage/support team in review of specification for different datasets, SDTM/ADAM. Manage/support team in development of SAS programs to generate/validate variables and datasets.
+Work collaboratively with team and with data standardization subject matter experts, statistical programmers and biostatisticians and other Acorn AI groups to assist in evaluating the accuracy of integrated historical data
+Supervise team performing statistical analysis and reporting of clinical trial data, both safety and efficacy, utilizing SAS programming
+Requirements (Education and Experiences):
+A good understanding of the drug development life cycle and experience with the manipulation, analysis and reporting of clinical trials’ data.
+Regulatory submissions experience utilizing define.xml (V2.0 released April 2014, V2.1 May 2019) and other submission documents. Understanding of FDA guidelines.
+Strong SAS analysis and reporting skills. Solid experience implementing CDISC Standards (SDTM/ADaM). Proficiency in SAS MACRO development.
+History of effective management of people or projects, especially statistical programming projects
+Excellent written and verbal ability, including the ability to be persuasive to a technical or non-technical audience
+Ability to work in a fast paced environment and work on multiple projects at the same time
+Experience with ISS and ISE
+Experience in Oncology trials a plus
+Experience with multiple sponsors a plus
+Master’s degree, PhD, or equivalent, in Statistics, Biostatistics or Mathematics
+8+ years of statistical analysis and/or SAS programming experience in the Pharmaceutical & Biotech industry. Experience with additional programming languages a plus.
+The salary range posted below refers only to positions that will be physically based in New York City. As with all roles, Medidata sets ranges based on a number of factors including function, level, candidate expertise and experience, and geographic location. Pay ranges for candidates in locations other than New York City, may differ based on the local market data in that region. The base salary pay range for this position is $157,500 to $210,000.
+Base pay is one part of the Total Rewards that Medidata provides to compensate and recognize employees for their work. Most sales positions are eligible for a commission under the terms of applicable plan documents, while many of Medidata’s non-sales positions are eligible for annual bonuses. Additionally, Medidata provides best-in-class Benefits. We believe that benefits should connect you to the support you need when it matters most and should help you care for those who matter most. For that reason, we provide an array of options to help support you physically, financially and emotionally through the big milestones and in your everyday life.
+#LI-ME1
+#LI-Remote
+Equal Employment Opportunity
+In order to provide equal employment and advancement opportunities to all individuals, employment decisions at Medidata are based on merit, qualifications and abilities. Medidata is committed to a policy of non-discrimination and equal opportunity for all employees and qualified applicants without regard to race, color, religion, gender, sex (including pregnancy, childbirth or medical or common conditions related to pregnancy or childbirth), sexual orientation, gender identity, gender expression, marital status, familial status, national origin, ancestry, age, disability, veteran status, military service, application for military service, genetic information, receipt of free medical care, or any other characteristic protected under applicable law. Medidata will make reasonable accommodations for qualified individuals with known disabilities, in accordance with applicable law.
+Covid Statement
+Our Company requires all U.S. employees to be fully vaccinated against COVID-19 and to provide documentation of full vaccination, unless qualified for a medical, religious or state-required accommodation or otherwise exempt consistent with applicable law. Although accommodation requests will be considered (and granted where appropriate/possible), it may be determined that a candidate is unable to adequately perform the essential functions of the position without imposing an undue hardship due to customer requirements, staffing needs, or other business reasons. Definition of full-vaccination: Employees are considered to be fully vaccinated two weeks after their second dose in a 2-dose series or two weeks after a single-dose vaccine.

@@ -1,0 +1,46 @@
+eClinical Solutions helps life sciences organizations around the world accelerate clinical development initiatives with expert data services and the elluminate Clinical Data Cloud – the foundation of digital trials. Together, the elluminate platform and digital data services give clients self-service access to all their data from one centralized location plus advanced analytics that help them make smarter, faster business decisions.
+
+You will make an impact:
+
+As the Business Analyst - AI/ML Initiatives, you will be an integral member of the Product Management team, focusing on the use of artificial intelligence and machine learning (AI/ML) technologies and techniques. AI/ML techniques will be used to satisfy a variety of user cases across the spectrum of the elluminate platform. Success in this position requires a proficient knowledge of both AI/ML methodologies and clinical development.
+
+Core responsibilities focus on translating user requirements into well-defined user stories for development by the Engineering team. User stories must initially convey adequate detail to allow the development engineers to estimate the development effort. As part of an agile development methodology, requirements may be refined during iterative development in consultation with Engineering and user representatives. You will collaborate with the SQA team to define user acceptance criteria. Additionally, a user facing description of the requirement must be authored for inclusion in release notes. You will also collaborate with the Product Manager to assure sufficient knowledge transfer to the SQA team as well as internal stakeholders so that they fully appreciate the new feature and/or changes.
+
+Accelerate your skills and career within a fast-growing company while impacting the future of healthcare.
+
+Your day to day:
+
+Develop a detailed understanding of the current product offering, and user experience
+Identify AI/ML based approaches to automate and accelerate delivery of solutions addressing clinical development challenges; fill product gaps and generate new ideas/products that grow market share; improve customer experience; and drive revenue growth
+Gather input from user representatives and critically examine how to best meet the user needs in a manner that meets their goals while adding value
+Write Epics and Stories to document and effectively communicate requirements
+Work closely with product managers, UX designer, and software engineering team to refine stories for development
+Partner with product management team to categorize and organize the backlog across numerous categories
+Collaborate with product management, engineering, services, and marketing teams across numerous projects
+Develop and test wireframe prototypes for new features as needed to support user experience best practices
+Review incremental deliverables from software engineering, present prototypes to stakeholders, and provide feedback
+Participate in agile methodology meetings including daily standups, backlog grooming, and sprint planning
+Develop and work with technical writing for preparation of release notes
+Develop comprehensive user personas and support key use case development through user interviews, observations, and industry knowledge and research
+
+Take the first step towards your dream career. Here is what we are looking for in this role.
+
+Qualifications:
+
+Bachelor’s degree in Data Science, a Life Science discipline, Computer Science, or equivalent work experience preferred
+3+ years of experience as a business analyst in an agile software development team and cloud-based software preferred
+3+ years of experience in the life sciences specifically clinical trial space with knowledge of clinical trial processing systems preferred
+Specialized knowledge in AI/ML, NLP, or closely related skill set
+Must have strong technical aptitude and strategic thinking
+Excellent written and verbal communication skills, able to convey complex ideas clearly and simply
+User design input experience and interest a plus
+Experience using JIRA is a plus
+Experience with FDA 21 CFR Part 11 Validation requirements is a plus
+Methodical and meticulous, with excellent attention to detail
+Ability to work independently and autonomously, with minimal supervision
+Strong organizational skills and ability to multitask
+Demonstrate a proactive approach towards work, projects, and initiatives
+
+Accelerate your skills and career within a fast-growing company while impacting the future of healthcare. We have shared our story, now we look forward to learning yours!
+
+We are proud to be an equal opportunity employer that values diversity. Our management team is committed to the principle that employment decisions are based on qualifications, merit, culture fit and business need.

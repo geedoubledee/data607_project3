@@ -1,0 +1,54 @@
+The Fragiadakis Lab, the Data Science CoLab, is seeking researchers in computational biology, bioinformatics, and data science to tackle current challenges in immunology. As a member of the lab, you will learn the analysis methods, as well as the conceptual and biological background, to analyze CyTOF and single-cell RNA sequencing data. Once comfortable with these methods, under direct supervision, you will perform analyses to contribute to our understanding of immune state in our patient cohorts. You will integrate molecular data with clinical information in an effort to understand how the immune system impacts disease outcomes. You will be expected to document your analyses, present your progress and results, and participate in lab meetings.
+
+We currently have several projects examining the relationship between immune state and health outcomes in a variety of UCSF patient cohorts, including infection, autoimmunity, and cancer. Our aim is to better understand how the immune system is wired and responds, in order to develop better disease diagnosis and treatments. As a member of the lab you will contribute to the design of new experiments, help maintain our computational infrastructure, and track the flow of samples and information for large-scale studies. This position is in Dr. Fragiadakis’s Lab (Data Science CoLab dscolab.ucsf.edu) a computational immunology research lab that pursues questions of immune state using single-cell methods, providing an environment of computational biologists and data scientists with which to work.
+
+While this position requires some proficiency in programming and data analysis, candidates who are fast and eager learners, who can readily adopt new bioinformatics pipelines/workflows that have been developed in the lab and the field at-large and apply them to a series of diverse projects can be successful in this role. An aptitude for collaborative work and organization is required to excel in our environment of diverse researchers. The candidate will receive training in data analysis, as well as develop expertise and intuition in biology. This position is ideal for recent graduates and can serve as a stepping stone for a graduate program or career in bioinformatics, computational biology, or data science. Candidates may additionally apply for a spot in the CoLabs Postbac Research Program for additional training.
+
+Department Description
+
+
+THE COLABS
+CoLabs is a new model for research collaborations and core labs for the UCSF community. CoLabs brings together several established and successful but previously separate cores plus new institutional support into a new centralized research organization at the Parnassus campus. CoLabs seeks to revitalize the model for core resources by capitalizing on critical personnel and cutting-edge technologies and driving collaboration across disciplines. CoLabs will centralize research teams and create a set of common pipelines and workflows. It will recruit and retain world-class staff and develop transformative methods and technologies through engagement with the research community and institutional investments.
+
+The CoLabs initiative is launching now with participation of five founding CoLabs teams, Biological Imaging Development (BIDC), Data Science (DS), Disease to Biology (D2B), Flow Cytometry, and Genomics. The CoLabs will help organize and integrate the UCSF community through common pipelines and data curation around a set of collaborative “CoProjects” that will tackle fundamental questions in the biomedical research. CoProject day-to-day operations are managed and run through the CoLabs. Several CoProjects are already underway, with more coming in line soon.
+
+Required Qualifications
+Bachelor's degree in biology, computational / programming (bioinformatics, computational biology, statistics, computer science, engineering), or related area and / or equivalent experience / training
+Knowledge in a programming language such as R, Python, or similar programming languages
+Interpersonal skills in order to work with both technical and non-technical personnel at various levels in the organization
+Ability to communicate technical information in a clear and concise manner
+Self motivated, able to learn quickly, meet deadlines and demonstrate problem solving skills
+Preferred Qualifications
+Basic knowledge of applications programming and web development
+Basic knowledge of databases
+Basic project management skills
+Basic knowledge of modern biology
+Basic knowledge of GitHub or equivalent
+About UCSF
+The University of California, San Francisco (UCSF) is a leading university dedicated to promoting health worldwide through advanced biomedical research, graduate-level education in the life sciences and health professions, and excellence in patient care. It is the only campus in the 10-campus UC system dedicated exclusively to the health sciences. We bring together the world’s leading experts in nearly every area of health. We are home to five Nobel laureates who have advanced the understanding of cancer, neurodegenerative diseases, aging and stem cells.
+Pride Values
+UCSF is a diverse community made of people with many skills and talents. We seek candidates whose work experience or community service has prepared them to contribute to our commitment to professionalism, respect, integrity, diversity and excellence – also known as our PRIDE values.
+
+In addition to our PRIDE values, UCSF is committed to equity – both in how we deliver care as well as our workforce. We are committed to building a broadly diverse community, nurturing a culture that is welcoming and supportive, and engaging diverse ideas for the provision of culturally competent education, discovery, and patient care. Additional information about UCSF is available at diversity.ucsf.edu
+
+Join us to find a rewarding career contributing to improving healthcare worldwide.
+Equal Employment Opportunity
+The University of California San Francisco is an Equal Opportunity/Affirmative Action Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, age, protected veteran or disabled status, or genetic information.
+Organization
+Campus
+Job Code and Payroll Title
+009403 BIOINFORMATICS PROGR 1
+Job Category
+Clinical Systems / IT Professionals, Research and Scientific
+Bargaining Unit
+99 - Policy-Covered (No Bargaining Unit)
+Employee Class
+Career
+Percentage
+100%
+Location
+Parnassus Heights (SF)
+Shift
+Variable
+Shift Length
+Variable

@@ -1,0 +1,24 @@
+Commerce Casino is the world’s largest card casino offering more than 200 tables. Established in 1983, the casino values its staff of over 2,500 employees and is proud to be known as “Where the World Comes to Play.” Commerce Casino offers a comprehensive benefits package to include medical, dental, vision, life, flexible spending accounts, 401(k), vacation time, and much more!
+
+POSITION SUMMARY
+
+This position will be tasked with rapidly building, testing, and scaling high‐priority use cases that drive incremental revenues and move the business closer to the goal of a 1:1 personalized guest experience. These use cases require significant advances to the current analytical models, prioritization logic, and delivery channels used to deliver guest experiences and communications. They will work with operational leadership to provide a data driven approach to our customer contact strategy and timing across channels and all aspects of the customer journey. This position also manages model monitoring and refresh processes within the MDLC.
+
+PRIMARY JOB FUNCTIONS
+
+Apply data science and analytics to identify opportunities to build and improve our machine learning platforms, and prototype solutions that measurably improve the outcomes for the platforms
+Build a roster of high-impact analytical opportunities and engage with your team to deliver high-quality analyses to steer and drive action
+Lead, mentor and grow fellow data scientists by providing continuous and candid feedback and recognizing individual strengths and contributions
+Build processes and solutions to improve the quality, rigor and agility of analyses
+Evolve our machine learning strategy in close partnership with senior leaders by building on the learnings uncovered by your team and shaping the infrastructure necessary to collect the data needed at scale
+QUALIFICATIONS
+
+Required Qualifications:
+Master's degree or higher in a quantitative field such as mathematics, statistics, engineering, physics, economics, or computer science
+2+ years of experience in people management with experience building teams and growing talent
+Hands on familiarity with machine learning and statistical modeling techniques applying machine learning techniques such as neural networks, random forest, GBM and SVM, Probabilistic Graphical Models, Deep Learning architectures, using open-source languages like Python, PySpark, PyTorch
+Hands on experience with deep learning toolkits such as Tensorflow, Keras, PyTorch, Dynet
+Hands on experience writing data processing and data pipeline for model development including gathering and building datasets to collect intents, joining and aggregating source datasets, cleaning messy data, designing feedback loop on data need
+Experience with model governance requirements. Able to de-mystify AI models to make them transparent and explainable
+Experience with agile project management methodologies for data science
+Other Requirements: Must have a foundational understanding of process and procedure development and implementation. Must possess the ability to assume responsibility and be self-motivated. Must have excellent verbal and interpersonal skills with management and employees, in addition to excellent written communication skills. Must be detail-oriented and able to work in a fast paced environment. Must be able to sustain a high level of confidentiality and professionalism. Must demonstrate positive/enthusiastic approach to all assignments. Outstanding attendance/punctuality. Must be clean, well-groomed, and have a professional appearance per company standards.

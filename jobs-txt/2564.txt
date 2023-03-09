@@ -1,0 +1,44 @@
+In alignment with our Microsoft values, we are committed to cultivating an inclusive work environment for all employees to positively impact our culture every day.
+
+Cloud Operations + Innovation (CO+I) is the team behind one of the World’s largest Cloud Infrastructures, responsible for powering all Microsoft online Products and Services as well as powering Microsoft’s “Cloud First” mission. Our focus is on smart growth, high efficiency, and delivering a trusted experience to customers and partners worldwide, and we are looking for passionate, high energy program managers to help achieve that mission.
+
+If you want to have fundamental impact on how Microsoft’s Cloud is deployed and operated globally, want to be involved with one of the most strategically important teams at Microsoft, have strong technical and business acumen, leadership, creativity, and out of the box thinking are some of the skills you bring to the table - this job is for you!
+
+We are looking for an exceptional program manager whose main task is to collaborate with our engineering team and build solutions that improve our Data Center delivery cycle time. As a senior program manager, you will partner with various teams to develop business requirements to standardize the data input and optimize algorithms for data quality check.
+Responsibilities
+Responsibilities:
+Clean, analyze, data-mine and visualize a variety of Data Center delivery data to identify opportunities, insights, and anomalies.
+Understand business problems and use mathematical frameworks to deliver machine learning models that can be used to solve Data Center delivery problems.
+Set up large and complex data pipelines.
+
+Qualifications
+Qualifications:
+
+Bachelor’s degree in computer science, mathematics, or Engineering degree or equivalent
+5+ years' experience driving execution with hyper-scale cloud engineering groups preferred.
+Professional PM certification, ESi, PMP, PMI, Prince 2 or equivalent
+Experience with Data Cleansing and Normalization.
+Excellent interpersonal, communication and presentation skills.
+Ability to navigate ambiguity, solve complex challenges, and operate in a fast-paced team environment.
+
+Preferred Qualifications
+Python and Power BI coding skill preferred
+SQL database experience preferred
+Data Architecture experience preferred
+
+The ideal candidate possesses the following:
+MBA or equivalent advanced degree
+Experience setting up, building and maintaining production data pipelines
+Experience starting large analytic projects and collaborating with teams across global and functions
+Experience solving business problems and using mathematical techniques using available data
+
+Search Terms
+Data Scientist, Data Analyst, Data Center, Datacenter, Engineering
+
+Ability to meet Microsoft, customer and/or government security screening requirements are required for this role. These requirements include, but are not limited to, the following specialized security screenings: Microsoft Cloud Background Check: This position will be required to pass the Microsoft Cloud background check upon hire/transfer and every two years thereafter.
+
+#COICareers
+
+Microsoft is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to age, ancestry, color, family or medical care leave, gender identity or expression, genetic information, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran status, race, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable laws, regulations and ordinances. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. If you need assistance and/or a reasonable accommodation due to a disability during the application or the recruiting process, please send a request via the Accommodation request form.
+
+Benefits/perks listed below may vary depending on the nature of your employment with Microsoft and the country where you work.

@@ -1,0 +1,37 @@
+Senior Business Intelligence Engineer (Looker) - Remote
+
+About the work
+In this role, you will collaborate with the Engineering team in regards to the data sources, data warehouse, ETL, and any other supporting system or process for Looker. You will Partner with the business team leaders to translate business KPIs into Dashboards, Analysis and reporting.
+
+Key responsibilities:
+Build LookML for new datasets and create the explorers for different use cases and group-based permissions.
+Create looks and dashboards, including both standalone and embedded dashboards
+Optimize commonly-used dashboards as well as Looker server instances to minimize response time and improve user experience.
+Promote best practices with development of Looker dashboards and embedded visualizations in the user and developer community.
+Attend technical and business meetings and act as a subject matter expert
+Establish and maintain collaborative relationships with stakeholders
+Be part of and help grow our diverse Data team
+
+Who you are (Minimum qualifications)
+At least 7+ years of experience in a Business Intelligence function
+At least 5+ years of experience with Looker /LookML Development
+Advanced knowledge and experience BI with Analytic concepts
+Advanced proficiency in SQL
+
+Ideally you also (preferred qualifications)
+You have a Bachelor’s degree or equivalent work history
+You have strong interpersonal skills with the ability to interact with all levels of staff
+You are Looker Certified
+
+Doesn’t hurt that we also offer….
+A high-growth, friendly and engaging work environment with the potential for endless career opportunities
+Unlimited PTO
+100% Employer Paid medical option, plus dental and vision options for election
+100% Employer Paid life insurance, including short and long-term disability
+401K with dollar for dollar match up to 6% (includes a 4% safe harbor match and 2% discretionary match) AND immediate vesting after meeting eligibility
+12 Company paid holidays
+Remote work environment
+#LI-Remote
+
+About Us
+Founded in 2016, Dallas, TX based ShiftKey is a platform that is completely disrupting the way healthcare facilities typically find licensed and certified professionals to fill available shifts. Leveraging marketplace dynamics and deep industry knowledge, the company is playing a vital role in mitigating America’s healthcare staffing shortages, enabling direct connections between facilities and healthcare professionals. By offering the opportunity to work as much or as little as they choose and putting the power back into the hands of healthcare workers, ShiftKey is bringing more licensed professionals back into the workforce, a solution that is solving a major crisis in healthcare. Since its inception, healthcare facilities have posted more than 35 million hours of shifts on ShiftKey, interacting with hundreds of thousands of professionals looking for flexible work. For more information, visit www.ShiftKey.com

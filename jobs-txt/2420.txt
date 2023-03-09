@@ -1,0 +1,32 @@
+Brookfield, WI, USA
+Summary:
+Hiring Fresher to 1 year experience in Data Science, ML with python and strong analytical skills with a passion to take part in R&D.
+About AugRay:
+Augray is on a mission to build next generation method of communication using Extended Reality – XR (AR/ VR/ MR) technologies and change the way businesses re conducted and how interactions happen with people. In an age where innovation is happening all around us, there’s commonality – people are driving these changes. We offer a solution that helps to articulate product demonstration and how people conversation takes place using smartphones and wearable glasses.
+We are a fast-growing tech start up and have grown to over 100 employees today, launched 3 products and customers across 3 continents including brands like CocaCola, Reliance, Caterpillar, Simpsons and more.
+We’re a small and impactful team of engineers, artists, solution geeks continuously working to improve our product and our craft. We use modern, cutting-edge tech stack and love experimenting and patenting with new technologies to create our products and provide opportunities for them to continue to learn and grow into leaders and experts.
+We are excited to find a person that has the passion, experience, and ability to own significant R&D tasks and product evolution working individually and or along with a team of virtual engineers.
+About the Role:
+Research isn’t just a buzzword to you In your role as a Data Science Associate, you will use AI, ML (Machine Learning) to deliver insightful and actionable intelligence and predictive solutions to our team to create innovative solutions for our products. You will gain experience working in AR (Augmented Reality), ML, NLP and developing data driven solutions to create algorithms while working closely with other team members of our Data Science and engineering team to deliver value to our product evolution. Aside from supporting our data science model creation and data teams, you'll also assist the product team with growth opportunities. You over-invest in the visual and interaction and a passion to solve challenges while creating innovative patentable approaches.
+Required Skills:
+Work with Product Managers and Engineers to dive deep into data and the user experience
+Construct product metrics and statistical models to identify growth opportunities
+Handle data annotation and data analysis requests from multiple stakeholders with high efficiency and quality in a fast-paced environment.
+Help with the development of the annotation guidelines.
+Analyze language data and evaluate trends and patterns.
+Participate in an annotation tool testing and onboarding.
+Track and report quality metrics and ensure delivery on all KPIs and SLAs agreed with stakeholders.
+Maximize productivity, process efficiency and quality through streamlined workflows, process standardization, documentation, audits and investigations on a periodic basis.
+Qualifications:
+Bachelor’s or equivalent experience in Mathematics, Statistics, Econometrics, Computer Science, Electrical or Computer Engineering, or related field
+1+ years’ of experience as data scientist, modeling in python or R
+Bachelor/master’s degree students pursuing degrees in data science, statistics, applied math, computer science, engineering or other quantitative fields providing sufficient data science foundations
+Exposure to writing code (Python preferred, R and SQL okay), collaboration (Git), developing models (machine learning, boosting & bagging algorithms, &/or regression techniques), and performing predictive analytics testing and evaluation (match case analysis, confidence intervals, experimental design, A/B testing, etc.).
+A hunger to learn and work on challenging problems.
+
+
+Location: Remote (work along with other remote engineers)
+Compensation: 55K to 60K with benefits
+Please contact: interns@wisdominfotech.com
+Immigration status: You should be a US Citizen or GC holder
+Start Date: ASAP

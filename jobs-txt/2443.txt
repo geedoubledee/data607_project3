@@ -1,0 +1,30 @@
+The database market is massive (IDC estimates it to be $121B+ by 2025!) and MongoDB is at the head of its disruption. At MongoDB we are transforming industries and empowering developers to build amazing apps that people use every day. We are the leading modern data platform and the first database provider to IPO in over 20 years. Join our team and be at the forefront of innovation and creativity.
+The Director of Data Science will play a key role in the build-out of MongoDB's broader data capabilities. Leading our centralized data science team, he or she will partner directly with cross-functional stakeholders around the company to define our vision and roadmap for data science and lead a talented team of data scientists to execute on them as we scale to be a multi-billion dollar business. This position requires a driven self-starter who is passionate about delivering tangible business results via data-science, is able to work with senior leadership comfortably, and enjoys working in a dynamic and fast-paced environment.
+What you'll be doing
+Lead MongoDB's centralized data science team
+Define the company's data science and ML strategy in partnership with executive and functional leadership
+Partner with cross-functional stakeholders across the business to set and execute a balanced agenda that meets the data science needs of the company
+Recruit and develop an exceptionally talented team of data scientists
+Champion the use of advanced data products to drive decision making and automation across the company and at all levels of the organization
+Collaborate with product teams and business units to identify and prioritize opportunities to leverage data science to drive business value creation
+Collaborate with the data engineering team to ensure appropriate investments in data, tooling, and architecture for our data science & machine-learning stack
+What we're looking for
+10+ years of relevant professional data science experience with a background in some combination of marketing, growth, product and/or web
+A track record of partnering cross-functionally to develop and deploy novel data solutions in production environments
+4+ years experience performing advanced analytics using structured and unstructured data
+3+ years of managing a team of data scientists and machine learning engineers
+Expert understanding of methods in statistics, data science, and machine learning
+Fluent in Python or R and SQL; MQL a plus
+Familiarity and comfort working in a big data environment with unstructured or semi-structured data
+Strong ability to understand business priorities and prioritize appropriately
+Excellent communication skills - oral, written, and visual
+Eager to roll up your sleeves and dig into any problem in a fast-paced, high-growth environment
+Bachelor's in a quantitative field, Master's or PhD strongly preferred
+Success Measures
+People: Recruit, develop, retain, and motivate your team
+Communication: Successfully communicate the data science/analytics roadmap with the ability to communicate complex technical topics simply and convincingly to a wide range of audiences
+Execution: ensure a process and cadence for end-to-end delivery of data science, from conception to implementation and ongoing maintenance & improvement
+Long term vision: Maintain rolling 3 year view of key priorities and investments required to execute against them
+To drive the personal growth and business impact of our employees, we're committed to developing a supportive and enriching culture for everyone. From employee affinity groups, to fertility assistance and a generous parental leave policy, we value our employees' wellbeing and want to support them along every step of their professional and personal journeys. Learn more about what it's like to work at MongoDB, and help us make an impact on the world!
+MongoDB is committed to providing any necessary accommodations for individuals with disabilities within our application and interview process. To request an accommodation due to a disability, please inform your recruiter.
+MongoDB, Inc. provides equal employment opportunities to all employees and applicants for employment and prohibits discrimination and harassment of any type and makes all hiring decisions without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state or local laws.

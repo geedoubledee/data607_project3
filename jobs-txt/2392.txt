@@ -1,0 +1,27 @@
+Data Scientist
+Reston, Herndon, McLean, VA
+TS/SCI + Poly is required
+Typical roles on this program could include many of the following responsibilities:
+Data mining or extracting usable data from valuable data sources
+Using machine learning tools to select features, create and optimize classifiers
+Carrying out preprocessing of structured and unstructured data
+Enhancing data collection procedures to include all relevant information for developing analytic systems
+Processing, cleansing, and validating the integrity of data to be used for analysis
+Analyzing large amounts of information to find patterns and solutions
+Developing prediction systems and machine learning algorithms
+Presenting results in a clear manner
+Proposing solutions and strategies to tackle missions challenges
+Required Skills:
+If you have strengths in any of the following areas, we highly encourage you to apply:
+Programming Skills – knowledge of statistical programming languages like R, Python, and database query languages like SQL, Hive, Pig is desirable. Familiarity with Scala, Java, or C++ is an added advantage.
+Statistics – Good applied statistical skills, including knowledge of statistical tests, distributions, regression, maximum likelihood estimators, etc. Proficiency in statistics is essential for data-driven companies.
+Machine Learning – good knowledge of machine learning methods like k-Nearest Neighbors, Naive Bayes, SVM, Decision Forests.
+Strong Math Skills (Multivariable Calculus and Linear Algebra) - understanding the fundamentals of Multivariable Calculus and Linear Algebra is important as they form the basis of a lot of predictive performance or algorithm optimization techniques.
+Data Wrangling – proficiency in handling imperfections in data is an important aspect of a data scientist job description.
+Experience with Data Visualization Tools like matplotlib, ggplot, d3.js., Tableau that help to visually encode data
+Excellent Communication Skills – it is incredibly important to describe findings to a technical and non-technical audience.
+Strong Software Engineering Background
+Hands-on experience with data science tools
+Problem-solving aptitude
+Analytical mind and great business sense
+Degree in Computer Science, Engineering or relevant field is preferred

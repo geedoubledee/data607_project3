@@ -1,0 +1,53 @@
+About OneView Commerce
+OneView Commerce is a pioneer in digital transformation, helping global retailers execute on their commerce strategies and delight their customers in-store. Our cloud-native, serverless Digital Store Platform combines point of sale, real-time inventory management, and enterprise promotions to deliver comprehensive store technology that drives increased footfalls, expands basket size and improves margins while providing an exceptional customer experience.
+Discipline has resulted in a single code base that drives an enterprise platform capable of serving 20 to 5000 store estates. We work with both large innovative leaders and disruptive entrepreneurial retailers from around the world to rethink retail in this digital revolution. OneView empowers creativity and control of the user experience that is unmatched in the industry today. OneView significantly reduces regret spend and dramatically increases the speed to market while eliminating the dependency on the software vendor for control and innovation.
+We are committed to the principles and best practices of agile development that is driven by Scrum Methodology. To us, it is not a methodology, it is a way of life. Scrum is used by all teams at OneView to add focus, clarity, and transparency to everything we do.
+Position Summary:
+Reporting to the Director of Cloud Operations, the OneView Database Architect will oversee the architecture, infrastructure, management, and support of the OneView Cloud Platform's databases. The Database Architect's primary responsibility will be to ensure that all platform databases are well-architected, properly deployed and configured, secure, and efficient
+In this role, you will work closely with development and operations teams at OneView to ensure that the company is aware of any and all database-specific configurations, challenges, requirements, or features. You will be responsible for ensuring that the OneView Platform's database integrations meet all customer requirements while following industry and system best practices. You will work closely with the architecture team to ensure that all new database-related features are well-designed, secure, and integrate cleanly into our existing platform. You will identify potential performance issues and improvements on the database, and prioritize delivering features that will keep environment performance as efficient as possible. If a database migration or changeover is needed, you will be in the lead for managing that operation from start to finish to ensure that the process goes smoothly for the OneView team and does not cause any negative impacts to customers.
+Responsibilities:
+Act as OneView's in-house expert on databases that are used by the cloud platform.
+Serve on the Architecture Team to ensure that database considerations are kept front-and-center for all current and future architecture.
+Ensure that all databases are set up in a secure, sustainable manner to keep our customer's data as safe as possible.
+Assist the development teams with properly building features that link into the database to keep all DB operations fast, secure, and efficient.
+Assist the operations teams with deploying, configuring, and automating database management, to ensure our infrastructure works well and follows industry best practices.
+Communicate with customers as our "database expert" when needed, so that customers feel confident our database infrastructure is being built and managed correctly.
+Coordinate among multiple teams at OneView to ensure that our database systems are continually improved over time.
+Oversee management, versioning, and support of deployed databases, to prevent outdated or legacy systems from languishing in critical environments.
+Work with the OneView documentation team to ensure database integrations, features, and configurations are well-documented for both internal and external usage.
+Required Skills/Experience:
+Bachelor's degree in Business or Information Technology or a related field, or equivalent work experience.
+3+ years experience as a database architect and/or administrator.
+2+ years experience working with cloud computing solutions, specifically in regards to cloud-deployed databases.
+2+ years experience working with specific database solutions - Firestore (Firebase) and MongoDB.
+Demonstrable knowledge of NoSQL data modeling and aggregation techniques.
+Experience building ETLs (Extract Transform Load) from noSQL dbs (like firestore) to RDBMS or Data Warehouses like BigQuery.
+Familiarization with proper database architecture and infrastructure practices.
+Experience with database considerations of the software development lifecycle.
+Experience working in a Scrum/Agile environment.
+Comfortable in a fast paced, entrepreneurial company environment.
+Must be highly motivated, able to work independently, and interested in an environment of constant learning and development.
+Detail-oriented with strong problem-solving skills.
+Ability to work and communicate with both internal and customer teams.
+Preferred Skills/Experience:
+Experience with IBM Cloudant and/or CouchDB
+Experience with modern software development infrastructure including git source control, CI/CD and NPM.
+Experience with Node/Typescript (application development)
+Experience with Python (operations automation and scripting)
+Experience with AWS and GCP
+AWS/GCP cloud database certifications
+Company Overview:
+At OneView Commerce, we are focused on building and developing a strong team that does great work and has fun doing it! We work globally as a leading supplier of point of sale and store systems for leading omnichannel thought leaders.Our management teamof industry veterans have experience in all aspects of software development, delivery, sales and marketing. OneView is based inBoston’s Seaport Innovation District.
+OneView Commerce is an equal opportunity employer and all qualified applicants will be considered for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, veteran or disability status.
+We do not accept resumes from agencies, headhunters, or other suppliers who have not signed a formal agreement with us.
+Job Type: Contract
+Pay: $110.00 - $140.00 per hour
+Schedule:
+Monday to Friday
+Ability to commute/relocate:
+Austin, TX 78702: Reliably commute or planning to relocate before starting work (Required)
+Experience:
+Database administration: 3 years (Required)
+Cloud architecture: 2 years (Preferred)
+NoSQL: 2 years (Required)
+Work Location: Hybrid remote in Austin, TX 78702

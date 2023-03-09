@@ -1,0 +1,47 @@
+Sr. Director, Data Science - Remote
+
+Join us as we build a next-generation analytics platform and foundation to focus on better operating performance and enable greater growth. , You'll help build value driven intelligent real estate analytics solutions with machine learning, deep learning and reinforcement learning platforms to lay foundation for optimizing agent and broker efficiency and bring Anywhere's renowned real estate brands into the next era of data-driven excellence.
+What we’re looking for:
+You’re an expert, versatile, and motivated senior data science leader who understands the business needs, have great problem-solving skills and is able to lead the team to use machine learning, deep learning model and AI tools to solve the business problem and make impact for the large organization
+What you’ll do:
+As a leader, you will be mastering our data and working closely with the product team and the go to market team to design applied data science products which enable us to use it most effectively. Crafting, defining and implementing machine learning and predictive models/solutions that meet the needs of millions of agents, brokers, home buyers, and sellers. This role will involve working with versatile data scientists, engineers, product managers and designers to investigate new data sources, perform data modeling, and deploy new features.
+Skills, accomplishments, & interests you should have:
+Master or PhD in Economic, Statistics, Computer Science or related quantitative field or equivalent combination of training and experience.
+10+ years of hands-on modeling experience.
+Consistent track record in leading a team of data scientist in an Agile Development environment.
+Demonstrable experience with machine learning data modeling projects and model development for solving business problems with validated expertise data science and machine learning fundamentals!
+Proven knowledge of Python, TensorFlow, and other programming language for statistical analysis, modeling and visualization.
+Expertise with a range of machine learning modeling techniques: GBM, XGboost, Deep Learning, Linear Regression, Random Forest, GLM, SVM etc.
+Experience of working in the public cloud& using open-source AI/ML tools.
+Strong problem solving and integrative thinking skill.
+Good interpersonal skills.
+A phenomenal teammate!
+Preferred Skills:
+Solid grasp in unsupervised learning modeling techniques like Hierarchical Clustering, Density-based clustering and Clustering performance evaluation.
+Deep understanding of Networks Analytics concepts, including Statistical descriptors of networks: link analysis, centrality, and prestige, network clustering: modularity and community detection, Dynamics of information and epidemics spreading, and Network visualization algorithms.
+Experience in Intelligent systems using Recommender systems & Collaborative filtering.
+Ability to clearly explain big picture overview and in-depth technical details to both non-technical (product managers, senior leadership, etc.) and technical people!
+
+Anywhere Real Estate is committed to providing equal employment opportunity (“EEO”) and will make employment decisions without regard to race, color, religion, national or ethnic origin, ancestry, citizenship status, age, sex (including pregnancy, lactation, childbirth or related medical conditions), gender, sexual orientation, gender identity, gender expression, veteran status, marital status, family status, physical or mental disability, genetic information (including testing and characteristics), veteran status, uniformed servicemember status, and any other status protected under applicable laws and regulations. Under the Americans with Disabilities Act and other applicable laws, Anywhere will provide reasonable accommodation to disabled applicants upon request during the application process to ensure equal opportunities to be considered for employment.
+
+#LI-MA1
+Employment Type
+Full-time
+Company
+Anywhere Real Estate Inc
+Exciting News
+We are excited to announce that Realogy is now Anywhere Real Estate Inc. It will take a few months for us to transition to our new brand. For more information about this change, please click here.
+About Us
+Anywhere Real Estate Inc. (NYSE: HOUS) is on a mission to empower everyone’s next move. Home to some of the most recognized brands in real estate Better Homes and Gardens® Real Estate, Century 21®, Coldwell Banker®, Coldwell Banker Commercial®, Corcoran®, ERA®, and Sotheby's International Realty® - the Anywhere portfolio includes franchise and brokerage operations as well as national title, settlement, and relocation companies and nationally scaled mortgage origination and underwriting joint ventures. Anywhere is focused on simplifying, digitizing and integrating the real estate transaction for all consumers, no matter where they may be in their home buying and selling journey. With innovative products and technology, Anywhere fuels the productivity of its approximately 196,200 independent sales agents in the US and approximately 136,400 independent sales agents in 118 other countries and territories.
+At Anywhere, diversity fuels success – for our company and for our employees. We strive to be the preferred company for diverse talent, committed to creating an inclusive environment that encourages everyone to succeed. We pursue talent – strategic thinkers who are eager to innovate, focused on execution and accountable for results. We value diversity – respecting backgrounds, cultures, perspectives.
+You’ll find our commitment to diversity reflected in our achievements:
+Recognized as one of the World’s Most Ethical Companies since 2011
+Anywhere has also been designated a Great Place to Work since 2019
+Named one of LinkedIn’s Top Companies in the US.
+Honored by Forbes as on of the World’s Best Employers for Diversity and Top Female Friendly Companies.
+With diversity, we succeed together. We hope you’ll join us.
+
+Compensation Range
+$115,100 to $245,000; At Anywhere, actual compensation within that range will be dependent upon the individual’s skills, experience, and qualifications.
+EEO Statement
+EOE AA M/F/Vet/Disability

@@ -1,0 +1,32 @@
+Definitive Logic is currently seeking a Business Intelligence Developer located in the Washington, D.C. area to assist our team in helping drive business value from data assets.
+This is a hybrid position that will require commuting to the office a couple times a week.
+Responsibilities
+Be a leader in our high performing team that designs, develops, and implements data-centric solutions using the latest tools, technologies, and techniques
+Help enhance analytic capabilities and the way they integrate, manage, and use their data by creating modern data architectures
+Provide technical assistance on BI solution design decisions
+Develop and design exciting new reporting solutions in fast-paced environment
+Participate in requirements gathering and translation to functional and technical requirements
+Work with multi-disciplinary teams across the organization to deliver results through clear leadership/direction, influence, and integration with agile development processes
+Drive innovative approaches to solving business and technical problems in the data and analytics domain.
+Design and assist the implementation of modernized and efficient data operations capabilities
+Interface with our technology and solution partners to create compelling solutions
+Required Qualifications
+Bachelor’s Degree (Computer Science, Computer Engineering, Systems Engineering, Data Analytics or related STEM degrees preferred)
+Minimum of two (2+) years using SQL or equivalent education/certifications
+Data Visualization skills or equivalent education/certifications
+Demonstrated leadership skills and possessing a track record across various life-cycle phases (cross-functional experience highly desirable)
+Strong analytical, problem-solving, and conceptual skills
+Strong interpersonal skills: ability to communicate and persuade at all management levels and thrive in a cross-functional environment
+Ability to understand, learn and apply new technologies rapidly
+Strong verbal and written communications skills, with an ability to express complex technical concepts in business terms
+Candidate must be able to acquire or possess a Public Trust Clearance
+Preferred Qualifications
+Experience with MicroStrategy (or other data visualization tools [Tableau, Power BI, etc.]
+Experience with Oracle databases SQL
+Data Modeling/Data Architecture
+About Definitive Logic
+Definitive Logic (DL) is a management and technology consulting firm known for delivering outcomes and ROI for agencies’ most complex business challenges. DL delivers performance-based and outcome-driven technology consulting solutions that directly support the strategic intent of our Defense, Homeland Security, Emergency Management, Federal Civilian and Commercial clients. We’re the preferred technology integration partner for Federal agencies to apply the best of data science, app dev, DevSecOps, cyber and cloud solutions to improve decision support, empower front-line employees and enhance back-office operations. We serve as trusted advisors providing objective, fact-based, vendor & technology-neutral consulting services.
+Definitive Logic is ultimately a team of problem solvers — thought leaders, domain experts, coders, data enthusiasts, and technophiles. Our exciting projects and learning and sharing culture has consistently resulted in validation as a Great Place to Work: 2021 Washington Post Top Work Places (7-time winner) | 2022 Virginia Best Places To Work (8 years running, #1 midsize in 2019).
+Definitive Logic is committed to hiring and retaining a diverse workforce. We are proud to be an Equal Opportunity/Affirmative Action Employer, making decisions without regard to race, color, religion, creed, sex, sexual orientation, gender identity, marital status, national origin, age, veteran status, disability, or any other protected class.
+If you are a qualified individual with a disability or a disabled veteran, you have the right to request a reasonable accommodation if you are unable, or limited in your ability, to use or access our Careers page: https://www.definitivelogic.com/careers/open-opportunities/ as a result of your disability. You can request a reasonable accommodation by sending an e-mail to Recruiting@DefinitiveLogic.com or via phone: 703-955-4186. In order to quickly respond to your request, please use the words "Accommodation Request" as your e-mail subject line.
+Job Type: Full-time

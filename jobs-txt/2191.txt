@@ -1,0 +1,44 @@
+The Director of Data Science plays a leadership role in technology and is responsible for the creation of new data science capabilities for the business by envisioning and executing strategies that will drive direct business value.
+This role requires detailed understanding of the role that Data Science can play in the retail business. You will work along-side business, product and engineering leaders to identify the application and deliver of advanced analytic data modeling systems and machine learning to all areas of the business.
+The ideal candidate will have a passion for connecting delivery to business value, a strong pedigree in retail application of data science and a knack for illustrating the art of possible when it comes to innovative application of AI & ML.
+Strategy & Vision:
+Set the mission and vision for the organization and connecting it to overarching business and technology strategies and outcomes.
+Partner with Product & Architecture to plan, create and deliver business value through relevant application of Data Science and Machine Learning across all DSG capabilities.
+Form and manage strategic partnerships both internal and external to support the business.
+Responsible for departmental planning, organizational design and budget.
+Set organizational KPI and measures, driving visibility and accountability
+Coaching, Support & Enablement:
+Plan, assign and supervise the work of others.
+Provide oversight, guidance and direction in the career growth of teammates.
+Fields questions from other product teams or support teams
+Communicate the company’s technology strategy to stakeholders including investors, executives, and team members.
+Advocate, evangelize and implement modern data science and engineering practices.
+Lead and Grow a team of Data Science Managers and Data Scientists.
+Delivery & Execution:
+Direct the growth and application of Data Science across all lines of business at DSG.
+Foster collaboration between local and abroad development teams to drive consistency across all departments.
+Partner with product and business partners to understand the needs of the company and illustrate the art of possible in application of Data Science & Advanced Analytics
+Collaborate with the executive team to help translate business requirements into technical needs and actions.
+Lead workstreams that require cross-functional squads that include data scientists, data engineers, analysts, and product managers
+Learning:
+Work across the business to understand and assess development opportunities that align with our vision and deliver value to our customers
+Manage vendor relationships with domestic and international suppliers while also holding them accountable to product requirements and quality specifications
+Keep abreast of new technologies for the purpose of recommending changes in existing programs or new programs warranted by such developments
+Participate in the initial production phases of product/process design and all subsequent inquiries and problems
+Qualifications
+Master's Degree in Statistics, Mathematics, Economics, or other quantitative field
+10 - 15 Years of experience
+Preferably, in Predictive Modeling, Machine Learning, and/or Marketing Analytics
+Must be proficient in SQL, R, Python, and/or SAS
+Retail Data Science Experience Preferred
+Kubflow
+Experience with Agile Development using Git or similar tools
+Experience with Data Engineering Practices
+Proven experience delivering on production scale application of Data Science and Machine Learning
+MLOps/Model Serving Experence
+Understanding of modern microservice-based architectures and methodologies
+Tensorflow
+Experience with modern compute environments such as K8s, Azure, GCP, loT Edge
+Azure Cloud Experience
+Databricks / spark experience
+#LI-SR1

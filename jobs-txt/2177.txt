@@ -1,0 +1,38 @@
+Imagine New Horizons…
+
+BIOVIA, a Dassault Systèmes digital solutions brand, provides global collaborative product lifecycle experiences for organizations and industries that rely on scientific innovation for competitiveness. BIOVIA’s leading scientific enterprise software solutions enable scientific innovation at the world’s leading pharmaceutical, biotechnology, chemical, and petroleum companies.
+
+Dassault is extending data science capabilities for its main SaaS cloud product, which is called the 3DEXPERIENCE platform. We are seeking a Product Manager – Data Science (MLOps) In this role you will define and develop the strategic roadmap for infrastructure, machine learning algorithms, applications, and services that constitute the data science framework on the 3DEXPERIENCE platform. This person would join our robust team most preferably in our San Diego, CA office supporting BIOVIA clients.
+
+#BIOVIA #WeAre3DS
+
+What will your role be?
+
+You will work with BIOVIA’s clients to identify customer challenges applicable to scientific and technology industry trends.
+For example, you will work on integration and adoption of technologies like Artificial Intelligence (AI) / Machine Learning (including integration of deep learning methodologies), enterprise data lakes, and cloud-based computing.
+You will translate customer challenges into business drivers for the industries Dassault Systèmes serves and develop the corresponding product roadmap.
+You will leverage BIOVIA’s flagship compute framework in data science, Pipeline Pilot, and manage its integration onto the 3DEXPERIENCE platform to offer powerful, integrated ML workflows that address critical business processes and operations for Dassault Systèmes’ customers using tools such as Python.
+
+The Challenges Ahead
+
+Lead the definition of the requirements for Pipeline Pilot as a data science engine on the 3DEXPERIENCE platform, including its utilization and management of Python libraries
+Manage the associated implementation backlog
+Lead the gathering of requirements for the convergence of our technology onto the 3DEXPERIENCE Semantic Data Lake
+Liaise with all stakeholders at Dassault across geographies and industry groups to evangelize our technologies
+Perform competitive analysis and strategic positioning of our solutions across multiple industries
+Collaborate with a large team consisting of R&D, sales, customer support, pre-sales, marketing, and business development to ensure the success of your product line
+Partner with customers to drive innovative end-to-end industry processes.
+Your Key Success Factors?
+M.S. in a science-related field required, Ph.D. preferred
+Four years or more of experience in science and/or research desired, industry experience in biotech or pharma preferred
+Minimum of four years of experience managing multiple products, with positive financial revenue growth
+Experience with the application of ML / Deep Learning (DL) to industry problems, including model management and data governance
+Knowledge of best practices associated to ML Operations (MLOps) desired
+Having worked in product management or business analyst roles, collaborating with R&D teams and managing internal stakeholders
+Excellent written and verbal communication skills, comfortable presenting to customers at all levels from users to executives.
+Compensation & Benefits
+Dassault Systèmes offers an excellent salary with potential for bonus, commensurate with experience. Benefits include a choice of plans providing comprehensive coverage for medical, dental, vision care for employee & dependents as well as employee life, short & long term disability, tuition reimbursement, immediate 401K enrollment, 401K match (50 cents on the dollar, up to the first 8% of your eligible compensation that you contribute based on match eligibility criteria), flexible time off policy, and 9 paid holidays.
+Equal opportunity
+In order to provide equal employment and advancement opportunities to all individuals, employment decisions at 3DS are based on merit, qualifications and abilities. 3DS is committed to a policy of non-discrimination and equal opportunity for all employees and qualified applicants without regard to race, color, religion, gender, sex (including pregnancy, childbirth or medical or common conditions related to pregnancy or childbirth), sexual orientation, gender identity, gender expression, marital status, familial status, national origin, ancestry, age (40 and above), disability, veteran status, military service, application for military service, genetic information, receipt of free medical care, or any other characteristic protected under applicable law. 3DS will make reasonable accommodations for qualified individuals with known disabilities, in accordance with applicable law.
+Covid statement
+Our Company requires all U.S. employees to be fully vaccinated against COVID-19 and to provide documentation of full vaccination, unless qualified for a medical, religious or state-required accommodation or otherwise exempt consistent with applicable law. Although accommodation requests will be considered (and granted where appropriate/possible), it may be determined that a candidate is unable to adequately perform the essential functions of the position without imposing an undue hardship due to customer requirements, staffing needs, or other business reasons. Definition of full-vaccination: Employees are considered to be fully vaccinated two weeks after their second dose in a 2-dose series or two weeks after a single-dose vaccine.

@@ -1,0 +1,34 @@
+SunPlus Data Group is looking for a MySQL DBA to work for a State University in Clemson, SC
+This is for 12 months to start and is likely to extend
+Hours are generally M-F, 40 hrs/week
+Must Participate in a 24x7 on-call support rotation
+Pay is $67/hr W2 hourly (NO C2C)
+**REMOTE but should be able to come pick up equipment and be able to attend meetings in Clemson and Columbia, SC**
+It usually takes the State Government about 2-3 weeks to start interviews, just so that you are aware of the timeframe. The first interview will usually be via phone or WebEx.
+SCOPE OF THE PROJECT:
+The MySQL DBA is responsible for working closely with both the project development team (scrum/sprint teams) and with the Site Database Administrators to provide MySQL DBA support for numerous application and infrastructure databases.
+Essential Responsibilities
+Advising development and product teams on best approaches for required data model extensions and/or changes.
+Hands-on MySQL development and application support in ways that are consistent with MySQL best practices.
+Collaboration with the database administration team to maintain test, staging, production databases and the development of operations procedures for database management.
+Developing and executing a data migration plan as needed to accommodate data transfers from existing data stores.
+Coordinating with outside entities, including vendors for other systems/services, providers, professional associations, and other State agencies.
+Analyze performance data, recommend courses of action and implement best solutions to achieve optimum performance.
+Participate in a 24x7 on-call support rotation.
+Other duties as assigned.
+REQUIRED SKILLS / EXPERIENCE:
+The MySQL DBA role has four major attributes: software development leadership, project management skills, people skills, and domain knowledge in enterprise class multi-tier web-based application development projects. Candidates must display excellence in all areas.
+Proven MySQL DBA experience in supporting enterprise applications in Linux environments, preferably Redhat or Oracle Linux.
+Experience with MySQL cluster
+Understanding of IT development and implementation projects.
+Understanding of database scalability and operations.
+Project planning experience, including effort estimation on technical tasks and resource allocation.
+Strong written and oral communications skills, including the ability to give presentations to project management.
+Impeccable integrity. This project will have very high visibility and will impact significant expenditures of public funds. Candidates must be confident with their abilities to make correct decisions and the courage to speak out when necessary.
+Willingness and ability to effectively engage with people and organizations on a continuous basis.
+Experience with Microsoft SQL Server is desirable, but not required.
+Healthcare industry experience and/or experience managing PHI/PII data highly desired
+Experience with configuring monitoring and alerting for MySQL databases and clusters is highly desired
+Hands-on experience with MySQL upgrades, patching, and re-hosting is highly desired
+REQUIRED EDUCATION:
+Bachelor’s degree in a technical, business, or related field Or Years of Experience. Masters degree is desirable.

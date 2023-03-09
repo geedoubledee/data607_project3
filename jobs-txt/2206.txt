@@ -1,0 +1,43 @@
+Business Intelligence (BI) Developer
+Scarpello Group, Omaha, NE
+Omaha, NE (Blackstone District) or Remote
+Full-Time
+Build solutions for clients that serve a wide range of industries.
+As a business intelligence developer, you will:
+Design and develop the data structures underpinning the reporting systems
+Scarpello Group clients depend on to make critical business decisions
+Be an expert on curating data and designing reports that provide concise and actionable insights
+Provide guidance to client-facing report builders on how to best use business intelligence
+Our best developers are proactive partners who not only understand business goals but also help operational and finance stakeholders make more informed decisions.
+At Scarpello Group, we're at the frontier of cutting-edge technology, working with data and analytics that organizations of all types and sizes need. If you're passionate about data and want to explore new challenges every day, join our team and help solve the world's most pressing problems.
+Who we want:
+Proactive problem solvers who take the initiative to dive into systems to resolve glitches and complications without being prompted or given the solutions
+Continuous learners who thrive when applying new knowledge to existing structures and processes
+Detail-oriented developers known for their accountability and ownership
+Service-minded team players who build strong relationships with partners and provide unparalleled customer service to their clients
+What you need:
+Associate degree or equivalent experience in computer science, MIS, math, or related field required
+At least two years of experience with Azure Data factory services
+Ability to profile data sets for completeness and validity, and build automated SQL scripts to assess completeness, validity, and other data metrics for the data warehouse
+At least two years of database development experience that includes a strong foundation in SQL, PL/SQL and ETL processes
+Familiarity with data visualization applications, data pipelines, web development
+What we offer:
+A strengths-based, engagement-focused, and performance-oriented culture
+The creative and innovative feel of a startup with the stability and credibility of a well- established company and brand
+Continuous learning and development opportunities
+A diverse, casual and hybrid work environment that allows you to work on-site and from home (you will determine with your manager and team what hybrid looks like for you)
+Job Type: Full-time
+Pay: $80,000.00 - $100,000.00 per year
+Benefits:
+Health insurance
+Schedule:
+8 hour shift
+Supplemental pay types:
+Bonus pay
+Education:
+Bachelor's (Required)
+Experience:
+Azure Data Lake: 1 year (Preferred)
+SQL: 1 year (Required)
+Data warehouse: 1 year (Preferred)
+Work Location: Hybrid remote in Omaha, NE 68131

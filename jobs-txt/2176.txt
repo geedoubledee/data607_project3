@@ -1,0 +1,27 @@
+This position is a remote role, open anywhere throughout the United States.
+JOB SUMMARY
+The Digital Solutions Department at the American Cancer Society (ACS) seeks a GIS Enterprise administrator with understanding of GIS systems, databases, data analysis and administration for a position within the Digital solutions department. We are searching for a team player that has a good foundation of GIS sciences/technology and poses relevant knowledge and/or experience of GIS systems / GIS enterprise. The candidate will support the installation, configuration, operation, and maintenance of the GIS systems as well as GIS and data analysis tasks as identified by leadership.
+MAJOR RESPONSIBILITIES
+This role is responsible for supporting the different facets of the ACS GIS Enterprise implementation, as prioritized by leadership. Responsibilities will include: GIS mapping and analysis tasks; the installation, configuration, operation and maintenance of ArcGIS Enterprise and ArcGIS Online software deployments and associated data; making architecture recommendations for new deployments; publishing web services; supporting new capabilities introduced to the Enterprise GIS implementation; triaging issues with ArcGIS Server services and Portal for ArcGIS web applications and interfaces; configuring security and authentication for Portal and ArcGIS for Server and monitoring infrastructure throughout the lifecycle. Additional responsibilities include:
+Collaborate with the vendor and internal ACS IT staff to successfully install the ArcGIS enterprise software on a cloud environment
+Administer the ACS ArcGIS Enterprise software (ArcGIS Server, Portal for ArcGIS, ArcGIS Data Store and other components) and promptly respond to issues and performance concerns raised by users
+Administer servers and infrastructure (hardware and operating system administration)
+Support ArcGISonline and GIS desktop users from across the organizations. Coordinate with GIS team members responses to questions and concerns
+Provide GIS assistance to ACS staff as related to mapping, analysis and technical support as related to the enterprise or ArcGISonline
+Perform GIS analysis and other tasks as directed by the Data Science leadership.
+Manages standard release schedule, including documentation review, compatibility assessment, and identification of risks and opportunities.
+Submit and track requests to Esri Tech Support and handle incidents as an Authorized Caller
+Collaborate with ACS IT department staff as related to authentication, security, load balancing, hardware requirements and other administration tasks.
+Audit GIS environment (servers, files, services) for security, performance, configuration issues
+Monitor software to address performance issues, errors, hardware overutilization and track usage trends (using system monitoring tools such as ArcGIS Monitor).
+Develop documentation for users and system administrators as well as best practices and guidelines for using the ACS ArcGIS enterprise (Portal and online) as needed
+Manage, support and upgrade licenses for the entire ArcGIS System
+Administer load balancer configurations and firewall settings
+Work with the Database support team in IT to administer Relational Database Management System(s) (RDBMS) to support enterprise geodatabase hosting (storage, security, optimization, tracing)
+This role is also responsible for maintaining one or more License Manager Servers for concurrent use ArcGIS for Desktop or ArcGIS Pro licensing.
+Manages configuration changes related to monthly ACS IT releases.
+Interact with end users and support teams to resolve escalated support issues.
+Perform miscellaneous job-related duties and assists on other projects as assigned.
+
+
+Position Requirements:

@@ -1,0 +1,24 @@
+Responsibilities
+Selecting and integrating any Big Data tools and frameworks required to provide requested capabilities.
+Implementing ETL process
+Skills and Qualifications
+Knowledge of various persistence (RDBMS, noSQL, HDFS, Cassandra, Redis)
+Good experience in data engineering
+Proficient understanding and experience in one or more programming languages (Java, JavaScript, Python etc.)
+Experience with building data lakes and data warehouses by leveraging any of the major cloud providers (GCP, AWS or Azure) is highly desirable
+Familiar with Hadoop ecosystem (HDFS, HBase etc.), especially Spark
+Good knowledge of Big Data querying tools
+Knowledge of various ETL techniques
+Knowledge of messaging systems, such as Kafka or Rabbit
+Strictly on W2 basis
+Job Type: Full-time
+Salary: $80,000.00 per year
+Schedule:
+8 hour shift
+Ability to commute/relocate:
+Herndon, VA 20170: Reliably commute or planning to relocate before starting work (Preferred)
+Experience:
+Informatica: 1 year (Preferred)
+SQL: 1 year (Preferred)
+Data warehouse: 1 year (Preferred)
+Work Location: One location

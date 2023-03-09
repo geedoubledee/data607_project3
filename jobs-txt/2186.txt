@@ -1,0 +1,26 @@
+Shift Timing: 6:00 PM – 2:00 PM EST
+
+Note: 4 Hours Shift for 5 days: 20 hours / Week & Sunday is a working day
+Key Responsibilities:
+Maintains database management systems in database modelling, schema design, implementation, maintenance and administration in a cloud platform environment
+Development, maintenance and testing of Microsoft SQL Server/SSIS/SSRS & Visual Studio solutions
+Extensive data quality and data migration experience including proficiency in data warehousing, data analysis and conversion planning for data migration activities
+Under limited supervision, maintains and monitors database utilities, the relationships between the database users and applications, uses query languages in order to support clients.
+Data migration/data management experience with end-to-end implementation
+Manage capture of source/target mappings and transformations based on project requirements
+Under limited supervision, maintains database support tools, database tables and dictionaries, recovery and backup procedures.
+Under limited supervision, analyzes, designs, creates and implements databases, including logical and physical databases, schemas, access methods, validation checks
+Technical Skills:
+Strong skills of SQL transactional replications.
+Monitoring/Trouble-shooting SSIS package errors via the Visual Studio Data tool.
+Monitoring scheduled SQL agent jobs
+Proficiency-level of T-SQL (Store Procedures, Triggers, Functions)
+Trouble-shooting database locks and performance tuning.
+Knowledge of both AWS and Azure Clouds.
+Hands-on data migration experience.
+Data modelling and schema management (DML, DDLs) for columnar and relational databases
+Candidate Profile:
+Bachelor’s/Master's degree in computer science/engineering or related areas
+Proficient in Microsoft® SQL preferred: SQL query skills, comprehensive understanding of SQL Table structure and an understanding of relational databases
+Have Microsoft or other professional DBA certification
+Have strong working knowledge in AWS and/or Azure environment

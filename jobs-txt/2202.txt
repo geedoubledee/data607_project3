@@ -1,0 +1,56 @@
+Senior Database Administrator
+
+Learning A-Z provides engaging, affordable, and easy-to-use solutions for differentiated K-6 literacy learning. With a library of meticulously differentiated eLearning tools that can be used anywhere learning takes place, we give educators the tools they need to easily personalize instruction for each student, and help each teacher make an impact – their way.
+
+We’re currently looking for a variety of talented individuals to join our dedicated team.
+
+Job Overview:
+The Database Engineering team at Learning A-Z is looking for a Senior Database Administrator to be responsible for providing database support and strategy for our database ecosystem. Database administration includes production support, upgrades, performance tuning, disaster recovery as well as helping set and enforce db level controls and standards for the applications team. This leader will need to be hands-on and will often collaborate with the engineering teams offering guidance.
+
+An ideal candidate will understand SaaS and cloud delivery, and the importance of database stability and reliability in that context.
+
+Job Responsibilities:
+Replication and cluster management
+SQL query plan analysis and optimization
+Backup and restoration management.
+Application query optimization.
+Enhances the effectiveness of database tools and services
+Enhances the scalability and performance of existing database structures
+Work with system engineers to maintain and monitor backup processes and test restorations including disaster recovery.
+Work with the infrastructure and other internal teams (e.g. developers and product managers) to identify system requirements
+Monitor system performance and alerts to identify current and future problems.
+Ethical handling of private data
+Minimize database downtime and maximize database reliability
+Predict capacity requirements
+Reports to the Database Manager
+Help review requirements, specifications and technical design documents to provide timely and meaningful feedback
+Keeps up to date with technological developments
+
+Job Requirements:
+5+ years experience with engineering and/or administering databases
+Hands on, professional experience building and operating performance critical applications and databases on MySQL and Linux environments
+Strong knowledge of relational databases including normalization, indexing and SQL
+Knowledge of data security and integrity
+Knowledge of PHP or other scripting languages, a plus
+Experience working in an Agile/Scrum development process, a plus
+Experience with nosql databases, a plus
+Knowledge of a high volume SaaS db environment
+Exceptional communications skills (verbal, written, illustrative/diagrammatic)
+Ability to build strong relationships across the Development organization
+Why Work With Us?
+When you work with Learning A-Z, you’ll be helping students across the globe develop the comprehension, curiosity, and continued joy of learning they need to succeed in today’s world.
+We’ve been awarded numerous accolades from a wide variety of edtech organizations. Our flagship products Reading A-Z, Raz-Kids, and Raz-Plus are beloved by teachers and students alike, and are currently used by approximately 1/5 of public students in the United States.
+To learn more about our organization and the exciting work we do, visit
+www.learninga-z.com
+.
+
+An Equal Opportunity Employer
+We are dedicated to fostering a culture that celebrates unique backgrounds, ideas, and experiences. All qualified applicants will receive consideration for employment without discrimination on the basis of race, color, religion, sex, gender, gender identity/expression, sexual orientation, national origin, protected veteran status, or disability.
+Why Work With Us?
+When you work with Learning A-Z, you’ll be helping students across the globe develop the comprehension, curiosity, and continued joy of learning they need to succeed in today’s world.
+We’ve been awarded numerous accolades from a wide variety of edtech organizations. Our flagship products Reading A-Z, Raz-Kids, and Raz-Plus are beloved by teachers and students alike, and are currently used by approximately 1/5 of public students in the United States.
+To learn more about our organization and the exciting work we do, visit
+www.learninga-z.com
+.
+An Equal Opportunity Employer
+We are dedicated to fostering a culture that celebrates unique backgrounds, ideas, and experiences. All qualified applicants will receive consideration for employment without discrimination on the basis of race, color, religion, sex, gender, gender identity/expression, sexual orientation, national origin, protected veteran status, or disability.

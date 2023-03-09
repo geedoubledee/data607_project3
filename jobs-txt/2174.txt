@@ -1,0 +1,48 @@
+Essential Job Functions
+· Installs and configures database management systems software for high availability.
+· Maintains, monitors, and performance tunes/optimizes databases.
+· Backs up and recovers databases.
+· Analyzes and plans for anticipated changes in data capacity requirements.
+· Develops and administers data standards, policies, and procedures.
+· Develops and implements data conversion and migration tools.
+· Collaborate closely with the Financial Planning & Analysis team exploring and defining report metrics
+· Supports teams developing and implementing data access and data warehousing programs
+· Evaluates and provides recommendations on new database technologies and architectures.
+· Ensures the rigorous application of information security/information assurance policies,
+principles, and practices in the delivery of data management services.
+Required Skills
+· 10+ years experience in database administration of SQL Server database environments.
+· Knowledge of Microsoft SQL Server 2014/2016+
+· Thorough understanding of Relational Databases, T-SQL Scripting, Database Normalization best practices, database technologies, and concepts
+· Database Design in a Software Development Environment as a contributor
+· Experience with Team Foundation Server, Visual Studio Team Server, and/or Azure DevOps
+· Proficient with SQL Development – ability to write and troubleshoot SQL Code and design (stored procedures, functions, tables, views, triggers, indexes, constraints)
+· Experience troubleshooting and resolving database integrity and performance issues
+· Experience with Performance Tuning and Query Optimization
+· Experience with SSRS, SSIS or SSAS
+Preferred Skills
+· Master’s degree in computer science or related field
+· Experience with AWS – RDS – DynamoDB
+· Experience in Microsoft SQL Server Replication
+· Experience with Microsoft Azure SQL Database
+· Communicates well cross-functionally and can serve as a “bridge” between technical and non-technical audiences in conversations.
+Job Type: Full-time
+Benefits:
+401(k)
+Dental insurance
+Flexible schedule
+Health insurance
+Paid time off
+Vision insurance
+Schedule:
+8 hour shift
+Ability to commute/relocate:
+Los Angeles, CA 90056: Reliably commute or planning to relocate before starting work (Required)
+Experience:
+SSIS: 3 years (Required)
+Database administration: 3 years (Required)
+SQL: 3 years (Required)
+Business intelligence: 3 years (Required)
+setting up dashboards: 3 years (Required)
+MVC: 3 years (Required)
+Work Location: Hybrid remote in Los Angeles, CA 90056

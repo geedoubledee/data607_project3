@@ -1,0 +1,33 @@
+About Williams Sonoma DC - Olive Branch
+
+Since it was founded in 1956, Williams - Sonoma has grown from Chuck Williams' single store in Sonoma, CA into one of the largest retailers in the country, with some best known and most beloved brands in home furnishings, including Williams – Sonoma. Pottery Barn and West Elm.
+
+Our Distribution Centers serve as vital connections between factories and our retail, online and mail-order customers around the world. The Supply Chain environment is dynamic and fast-paced, and the network is expanding rapidly. If you have a background in distribution, manufacturing, engineering, transportation, finance, human resources or home delivery – and are looking for a job with a strong opportunity for gaining new skills and for advancement – our Supply Chain Organization could be just the place for you.
+
+The Business Intelligence Developer position is located in Olive Branch, MS. This new and exciting role within our global Supply Chain team will be responsible for building the next generation of business intelligence tools. The focus is on developing BI dashboards, reports, and applications which will be adopted cross-functionally and throughout our organization to enable business users to easily find, manipulate, and evaluate data, making informed decisions to optimize our global value chain.
+
+**No Sponsorships provided for this role**
+
+Primary Functions:
+Build and maintain Qlikview dashboards and reports to interface with business end users. These reports would be used cross-functionally throughout the organization to help business owners make better informed decisions ultimately enhancing the global supply chain value
+Examine current BI dashboards, make diagnoses, and continually improve and build and maintain current Qlikview eco-system and help fix and enhance existing reports & dashboards
+Identify data sources based on requests from internal customers and design BI tools to help end users best synthesize data and make optimal business decisions
+Extracting/mining large volumes of data using complex optimized SQL queries from multiple decentralized systems driven by business requirements
+Building user friendly - interactive reports and dashboards using insights obtained from the analyses
+Providing continuous support to existing business intelligence dashboards and ad hoc reports (Qlikview eco-system); taking necessary actions to make the framework agile and robust
+Providing insights from data flow perspective to drive future development projects
+Check out some of the required qualifications we are looking for in candidates….
+
+4-year Bachelor's degree in computer science or computer information systems (equivalent educations or experience in these fields will be considered in lieu of 4 year degree)
+Proven track record in developing BI tools including creating interactive applications, dashboards, and reports for business end users
+Experience in WebApp development/programming
+Strong knowledge of Qlikview (or other BI tools), Microsoft Access, Excel, SQL
+Ability to identify and work within a multitude of data sources with the additional ability to structure data validation to ensure data integrity
+Ability to work in a team environment or independently with little supervision
+Ability to work with internal customers and communicate business requirements
+Our company benefits are second to none in the industry….
+
+Generous discount on all Williams-Sonoma, Inc. brand products
+401(k) plan and other investment opportunities
+Paid vacations, holidays, and time off to volunteer
+Health benefits, dental and vision insurance, including same-sex domestic partner benefits

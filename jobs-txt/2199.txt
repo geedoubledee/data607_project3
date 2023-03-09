@@ -1,0 +1,63 @@
+Sr. Product Manager, Data Science
+Boston Scientific's hybrid workplace includes remote and onsite roles. By applying to this position, you will have the opportunity to discuss your preferred working location with your Talent Acquisition Specialist.
+Remote Eligible: Hybrid
+Onsite Location(s): Arden Hills, MN, US, 55112
+Additional Location(s): US-MN-Arden Hills
+Diversity - Innovation - Caring - Global Collaboration - Winning Spirit - High Performance
+At Boston Scientific, we’ll give you the opportunity to harness all that’s within you by working in teams of diverse and high-performing employees, tackling some of the most important health industry challenges. With access to the latest tools, information and training, we’ll help you in advancing your skills and career. Here, you’ll be supported in progressing – whatever your ambitions.
+
+Overview
+Boston Scientific is seeking an experienced Senior Product Manager, Data Science to fill a highly visible and strategic role within the Data and Analytics team in the IT organization. This individual will manage and support offerings in the Advanced Analytics and Data Science space:
+Responsible for managing intake, onboarding, and backlog of the AI Farm Platform and Data Science projects/use cases
+Responsible for connecting business and IT stakeholders across various areas such as the AI Farm, Unified Data Platform, integrations, visualization, Analytics Studio.
+Collaborate with functional business teams to define use cases, represents the voice of the user/asset and stakeholders.
+Champion for modern data and analytics strategy and driving adoption of the AI Farm platform and Analytics Studio approach across the organization.
+
+Key Responsibilities
+Create and facilitate an intake review process for new demand of AI/ML projects and use case assessment.
+Communicate best practices and standards for business teams onboarding to the AI platform, provide training and self-service enablement capabilities.
+Track value enablement and manage cost cross-charge commitments to business users.
+Collaborate with leadership on development and execution of advanced analytics strategic and tactical road maps.
+Align efforts across Data Strategy, Data Governance, and Platform Technology to support roadmap.
+Collaborate with Data Architects, Data Engineers and Product Managers to contribute to the overall data modeling strategy and information flow decisions
+Coordinate regular executive and organizational communications to highlight value being enabled through Data Science and the AI Farm platform at BSC.
+Incorporate Agile, Lean, and User Centered Design methodologies to execute on product development, implementation, and operations.
+Work in dedicated, co-located product teams, consisting of Product Managers, Software Engineers, Designers, and Data Scientists/Engineers.
+Establish and track measurable objectives for the team.
+Responsible for maintaining product backlog, writing user stories, product feature and design validation, product development prioritization and decisions on releases.
+Solicit input from Quality, Regulatory, Legal, Security, Privacy and other functions to deliver compliant solutions in an agile manner.
+Serve as the interface between the team and the business. Represent the Product Owner, Stakeholders and functions in all team discussions.
+Manage and communicate project status to stakeholders and senior leadership.
+Promotes and supports the principles and standards of the enterprise architecture and enterprise supported technologies
+
+Required Qualifications:
+Bachelor’s degree in Analytics, Computer Science or Software Engineering, related technical degree
+10+ years experience in program/product management, 5+ years experience in Advanced Analytics, Data Science, AI/ML projects
+Have broad experience and expertise working with various technologies such as Python, SQL, R, SAS, Apache Spark MLib, Scala, BigML, D3, MATLAB, Google AI, Google Analytics, TensorFlow, Microsoft CNTK, Tableau and other frameworks and libraries for AI
+Demonstrated experience with Data and Analytics implementations and/or data and reporting projects.
+Experience managing program financials, operational budgets, vendor relationships, contracts and negotiations.
+Experience with software development life cycle, Waterfall, Agile and Dev/Ops methodologies.
+Excellent communication and collaboration skills, able to clearly communicate with management, business leaders and senior leadership in both written and oral communication.
+Ability to communicate highly technical solutions to business partners at their level of technical understanding.
+Excellent organizational skills, experience leading large development teams and strategic initiatives.
+Deep and broad knowledge of multiple technologies with extensive knowledge of the capabilities and constraints of technologies supported.
+Understanding of environmental shifts in technology and the impact against products.
+Understanding of the full breadth of needs for a solution to be brought to market (infrastructure, QA, UA, security, etc.).
+Able to work on a team in person and in a collaborative virtual settings; self-motivated, self-directed, adaptable.
+Requires the ability to change the thinking of, or gain acceptance of, others in sensitive situations.
+Proven experience working in a regulated environment with quality systems which includes strong documentation skills.
+Requisition ID: 545395
+
+As a leader in medical science for more than 40 years, we are committed to solving the challenges that matter most – united by a deep caring for human life. Our mission to advance science for life is about transforming lives through innovative medical solutions that improve patient lives, create value for our customers, and support our employees and the communities in which we operate. Now more than ever, we have a responsibility to apply those values to everything we do – as a global business and as a global corporate citizen.
+
+So, choosing a career with Boston Scientific (NYSE: BSX) isn’t just business, it’s personal. And if you’re a natural problem-solver with the imagination, determination, and spirit to make a meaningful difference to people worldwide, we encourage you to apply and look forward to connecting with you!
+
+At Boston Scientific, we recognize that nurturing a diverse and inclusive workplace helps us be more innovative and it is important in our work of advancing science for life and improving patient health. That is why we stand for inclusion, equality, and opportunity for all. By embracing the richness of our unique backgrounds and perspectives, we create a better, more rewarding place for our employees to work and reflect the patients, customers, and communities we serve. Boston Scientific is proud to be an equal opportunity and affirmative action employer.
+
+Boston Scientific maintains a drug-free workplace. Pursuant to Va. Code § 2.2-4312 (2000), Boston Scientific is providing notification that the unlawful manufacture, sale, distribution, dispensation, possession, or use of a controlled substance or marijuana is prohibited in the workplace and that violations will result in disciplinary action up to and including termination.
+
+Please be advised that certain US based positions, including without limitation field sales and service positions that call on hospitals and/or health care centers, require acceptable proof of COVID-19 vaccination status. Candidates will be notified during the interview and selection process if the role(s) for which they have applied require proof of vaccination as a condition of employment. Boston Scientific continues to evaluate its policies and protocols regarding the COVID-19 vaccine and will comply with all applicable state and federal law and healthcare credentialing requirements. As employees of the Company, you will be expected to meet the ongoing requirements for your roles, including any new requirements, should the Company’s policies or protocols change with regard to COVID-19 vaccination.
+
+
+Nearest Major Market: Minneapolis
+Job Segment: Senior Product Manager, Information Technology, IT Architecture, Product Manager, Operations, Technology, Marketing

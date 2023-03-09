@@ -1,0 +1,46 @@
+This is a full-time, virtual/remote position in the United States and associated time zones.
+Do you have a passion for education and technology?
+Are you looking for your next rewarding career move?
+Perhaps you are ready to move up from a Senior Data Analyst-role and need a company to match your tenacity?
+The Director of Data Science & Analytics leads the business through efforts that drive business performance and potential by using existing and new data sources and techniques. They will lead Coding Dojo's Data Analytics team in the development of a departmental culture, policies, and strategy.
+The role will involve:
+Getting their hands dirty! (you are able to demonstrate the correct method to your team)
+Solving hard analytical problems for the business
+Supporting the needs of Coding Dojo's Marketing, Business Operations, and Finance departments
+Your leadership will produce pinpoint marketing, product, and business/financial analytical insights-pushing the world forward in digital literacy!
+Responsibilities
+Oversees all activities of the data analytics and data warehousing department
+Leads initiatives that relate to individual department optimization leading to performance improvement across the business
+Drives performance of analytics solutions to impact overall business results while keeping costs in check and ensuring the department remains within the planned budget
+Drives day-to-day analytical approaches and exploring solutions to particular problems
+Defines the business questions that need be answered and defines appropriate analytics models in addition to identifying and readying relevant data sources for analysis
+Leads the data analytics department in strategy development with regard to the collection, manipulation, and analysis of data for various business functions/departments such as marketing, finance, operations, among others
+Creates new data-driven approaches for the purpose of generating business insights through data analytics, information visualization, and addressing unanswered business issues
+Improve quality of analytics solutions on a consistent basis
+Work closely with management in establishing departmental goals and strategies
+Define data collection needs of the business for the purpose of future work and also for guaranteeing that there is high data-quality and reliability across the business
+Involved in presenting to stakeholders on a weekly basis around student data to drive strategic and informative business decisions
+Ability to be hands on and an servant leader to the Data team
+Responsible for the training and development of the current team, as well as hiring and scaling strategies of the department
+Core Competencies
+Leadership, Strategy, Analytics, Collaboration, Communication
+Experience managing a P&L (“Profit & Loss”) and reporting to a CEO is a plus
+Proven and successful experience in the execution of data analytics initiatives
+Demonstrated success leading analytics and a large analytical team as well as vast experience working with a wide range of data in order to predict financial metrics for a business
+Experience working with large data-sets and computing systems
+Excellent communication skills in both written and verbal form are a must have
+Highly proficient in the use of Microsoft Word/Excel/PowerPoint, which is necessary in the creation of visually and verbally engaging reports, for departmental heads/management, senior data analytics management, and key stakeholders
+Proven skills in SQL server reporting services, Tableau, analysis services, or any other data visualization tools
+"Scrappy" mentality: capable of working in a hyper growth environment, and comfortable with change management
+Minimum Requirements
+Master’s Degree in Data Science, Computer Science, Information Technology, Economics, Information Systems, Statistics, Applied Math, Business Administration, or any other related field. An equivalent of this requirement in working experience is also acceptable.
+7+ years of working experience in a data analyst or data warehousing position (e.g. working as a Senior Data Analyst in a late-stage startup)
+Benefits
+Competitive salary + benefits package
+Diverse work culture
+Healthy work/life balance (monthly “Wellness Days” off + “No Meeting” days + numerous holidays)
+Be a part of the mission to diversify the tech industry
+About Coding Dojo
+Coding Dojo is a global education technology company that offers a three full-stack web development Bootcamp, as well as courses on Data Science and other emerging technologies. Our innovative curriculum and Learning Management System is designed to train students to become self-sufficient developers, regardless of their technical background. We also make it our mission to support underserved communities and increase diversity in the tech industry.
+This position is a rare opportunity to join a rapidly growing company and make a positive impact in many people's lives. At Coding Dojo we pride ourselves on possessing a culture of execution that caters to wavemakers rather than wave riders. If you are interested in joining a diverse and dynamic team who values speed, continuous improvement, measurement, focus, accountability, and “attacking the gap”, you will feel right at home at Coding Dojo.
+Coding Dojo is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, disability, age, sexual orientation, gender identity, national origin, veteran status, or genetic information. Coding Dojo is committed to providing access, equal opportunity, and reasonable accommodation for individuals with disabilities in employment, its services, programs, and activities.

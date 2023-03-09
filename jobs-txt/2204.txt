@@ -1,0 +1,43 @@
+100% Remote, Product Manager- Marin Software (Data Science/Optimization)
+About the role
+We are looking for a Product Manager to take our forecasting and optimization features to the next level, requiring strong overlap of marketing, product management and data science skills. The successful candidate will need to be comfortable making sense of large datasets, building prototypes, and working alongside data science and engineering to bring about new features and enhancements to support Marin's vision for budget management.
+Customers use the forecasting and budget management feature-set to plan, pace and optimize their advertising spend in ways not possible with publisher tools, with Marin being uniquely positioned to provide cross publisher and cross channel measurement, management and optimization insight and solutions focused at driving improved financial performance, automated timesaving workflows through a highly customizable and interactive UI.
+About Marin Technology, Marketing, & Product Engineering
+
+We work across all areas of our technology stack and support Open-Source Platform and Programming engagement, facilitating best in class solutions for our clients, such as TikTok, Google, Facebook, LinkedIn, and Amazon along with many others!
+We are defining the next generation of trusted marketing, advertising, data collections, and innovative eCommerce transaction within and without the cloud. We're an agile, growing, and innovative team. We enable critical services for the business, qualify complex compute changes, trail-blaze new marketing and advertising data capture and engineering solutions for our customers in and out of the cloud.
+About Marin Product and Marketing
+An ally to online marketers, Marin Software delivers the leading independent multichannel digital advertising platform. Our open solution unites search and social to connect our advertisers with customers wherever they are. This synergy—plus the insight and efficiency we bring to advertising—wins more customers, revenue, and ROI for the world's top brands. Every day Advertisers and agencies use Marin to manage billions of dollars in annualized ad spend.
+We have exciting plans for 2022 and in this role you will be at the forefront of driving these!
+About The Team
+We are maintaining current large-scale platform technology solutions while defining the next generation of OLTP and OLAP systems. We are a fast-paced, agile and innovative team. We work closely with different engineering development and operation teams and implement technologies to enable features for our business.
+As a technically skilled Product Manager at Marin, you will be the nexus for all product decisions for our Data Science/Optimization team.
+What we're looking for:
+Prior experience in product management
+Technical nous/experience to work effectively with Engineers/Developers and Data Science professionals
+Some experience in basic scripting would be highly desirable (e.g. Python, Python-notebooks, Bash/Linux command line scripting, Perl, or similar)
+Experience with reading and manipulating data from relational databases (MySQL/MariaDB, Oracle, Hive, Presto or similar)
+Expertise in data analytics required (e.g. statistics, data science, machine learning - ability to interpret, analyze and make sense out of data)
+Ideally, but not required, is knowledge of digital marketing and ad-tech, with a strong preference for SEM/PPC and/or social marketing
+Strong interpersonal skills - comfortable discussing technology with Engineers and commercials with Executives
+Strong written and verbal communication skills - this includes being a concise, proactive communicator
+Track record of owning/project managing complex initiatives
+Comfortable making data-driven, strategy-informed decisions
+Some experience / knowledge of basic UI and software development best practices would be ideal
+Someone who thrives in not being constrained by job description and will instead own and see a problem through to a solution
+
+Job Type: Full-time
+Schedule: Monday to Friday- Open to 100% Fully Remote or Hybrid roles if close to a Marin office!
+For Colorado-based roles: Minimum annual salary of $100,000-$190,000+. You may also be offered a bonus, restricted stock units, and benefits but we will adjust our compensation for the right candidate with the appropriate skills, experience, credentials, and cultural fit. For more details about our company benefits, apply and review with our recruiters our professional family-based company growth experience.
+
+Benefits & Perks
+
+We offer full medical, dental, vision, and retirement benefits choices! This includes generous parental leave, adoption assistance, fertility benefits, and Unlimited PTO, with 401K support!
+Accommodations
+
+If you require assistance due to a disability applying for open positions please submit a request on our main website:
+https://www.marinsoftware.com/about-us/careers
+
+Posting Statement
+
+Marin is an Equal Employment Opportunity and Affirmative Action Employer. Qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender perception or identity, national origin, age, marital status, protected veteran status, or disability status. Marin does not accept unsolicited headhunter and agency resumes. Marin will not pay any third-party agency or company that does not have a signed agreement with Marin.

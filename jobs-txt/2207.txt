@@ -1,0 +1,41 @@
+Direct client is forward thinking, growth-oriented healthcare services and technology company that provides state of the art pharmacy solutions looking for a Data Engineer to fill in immediately
+Responsibilities
+Analyze and interpret complex data sets. Ability to identify data anomalies and resolve data issues
+Understand specific business processes and domain concepts and relate them to data subject domains
+Collaborate with Data Leads, Data Analysts and QA analysts to validate requirements, participate in user requirement sessions
+Perform tests and validate data flows and prepare ETL processes according to business requirements
+Perform ETL tuning and SQL tuning
+Ability to document data flows representing business logic in ETL routines Design and implement data conversion strategy from legacy to new platforms Perform design validation, reconciliation, and error handling in data load processes
+Design and prepare technical specifications and guidelines including ER diagrams and related documents
+Qualifications
+Must be well versed with Data warehousing concepts including design patterns (Star schemas, Snowflake design schemas). Must be aware of data modeling concepts including the data modeling Normal forms
+Knowledge of AWS Infrastructure including S3, SNS, Ec2, CloudWatch and RDS 7+ years working in ETL/Data transformation projects with one or more related products such as Informatica or Talend or Microsoft SSIS
+7+ years working in business intelligence, data warehousing initiatives
+Advanced working SQL knowledge and experience working with relational databases, query authoring (SQL) as well as working familiarity with a variety of databases like Oracle or Ms Sql Server or Vertica.
+Good to have at least 1+ years working with Matillion ELT tool and Snowflake Database
+Good to have experience in building AWS Data Pipelines using Python or Spark, SparkSQL in any of Cloud Environments (AWS / Azure / Google).
+Good to have - Experience with any of the NoSQL datastores such as ElasticSearch, MongoDB, DynamoDB, Cassandra
+Minimum 5 years of relevant experience.· Strong Analytical and Problem-solving skills, Excellent Written and Verbal Communication skills.
+Education
+Bachelor’s in mathematics, Computer Science or related technical field.
+Post graduate degree preferred.
+Job Type: Contract
+Pay: From $65.00 per hour
+Schedule:
+8 hour shift
+Education:
+Bachelor's (Required)
+Experience:
+BI concepts (ETL, Dimensional Modeling, Warehouse Design): 4 years (Required)
+Snowflake: 7 years (Required)
+SSIS tool set: 7 years (Required)
+ETL: 7 years (Required)
+SQL: 7 years (Required)
+AWS: 4 years (Required)
+Python: 3 years (Required)
+Spark: 4 years (Preferred)
+Language:
+English (Required)
+Security clearance:
+Confidential (Preferred)
+Work Location: Remote

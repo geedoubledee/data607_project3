@@ -1,0 +1,39 @@
+ESI is now hiring a Remote Cloud Database Administrator/Engineer.
+POSITION SUMMARY:
+ESI is seeking a Cloud Database Administrator/Engineer. As a Cloud Database Administrator, you will help ensure the satisfaction of our business development and product teams by analyzing business and technical requirements. You will translate these requirements into a cloud architectural blueprint and set of standards that outlines Amazons AWS cloud infrastructure solutions for operational excellence, security, availability, performance efficiency, and cost optimization. This position will use advanced database automation techniques (both cloud and non-cloud), data conversion and migration expertise, integration with different workflow engines, familiarity of relational and NO-SQL data stores, develop DB provisioning and post-provisioning automation modules.
+QUALIFICATIONS:
+Bachelors degree in engineering, or computer science, or equivalent work experience.
+AWS Database Specialty certifications
+Minimum of 5+ years of experience performing Database administration or database engineering duties for database internals and you have experience supporting a minimum of 2 of these database platforms: SQL Server, MongoDB, MySQL, PostgreSQL
+Minimum of 3 years of experience supporting software engineering teams through the software development lifecycle
+Minimum of 3 years of experience deploying, operating, and monitoring infrastructure in the AWS cloud
+Capability to both lead and follow, while being a key member of a positive work environment
+Excellent interpersonal communication skills
+A deep understanding of the cloud computing model as it relates to enterprise productivity
+Familiarity with AWS Cloud products (EC2, EBS, S3, Lambda, Aurora, Dynamo DB, EMR, DMS data migration, Athena, Glue, Kinesis, SQS/SNS, etc.)
+Hands-on experience with operating high-uptime Databases in both AWS and on-premises environments
+Experience with cloud database technologies (ie. AWS RDS, Oracle, MS SQL, Azure)
+DUTIES AND RESPONSIBILITIES:
+Develops and maintains Database reference architecture and design documents.
+Design, develop, and implement scalable Cloud-based database solutions.
+Further establish and ensure Database standards (security, reliability, availability, and scalability) and procedures are met by our product teams.
+Identify opportunities for Database infrastructure optimization and cost reduction.
+Root cause analysis of production-related database issues.
+Maintain development and production environments.
+Develop innovative solutions to complex business and technology problems.
+Perform physical implementation of databases, storage structures, high-availability solutions such as multi-AZ, replication, and disaster recovery solutions.
+Manage, support and maintain Cloud database environment as well as MS SQL Server databases and infrastructure, adhering to the architectural guidelines and policies.
+Provide technical expertise and hands-on support in consolidation and migration of databases to new hardware and platforms.
+ESI COMPANY SUMMARY:
+ESI provides comprehensive human resource services for its partner schools. This includes recruiting, staffing, screening, on boarding, payroll and benefits administration. Founded in 2015, ESI has carefully crafted our company culture and reputation based on a deep understanding that staffing is first and foremost about people. We understand the right placement in the right job changes lives. ESI is committed to providing simplified employment solutions through our superior work ethic and industry experience. It is our mission to treat every person we encounter with wholehearted integrity and dedication.
+All qualified applicants are encouraged to apply directly, or call 888.246.6066 for more information. Thank you for your interest in this position.
+Job Type: Full-time
+Schedule:
+Self-determined schedule
+Ability to commute/relocate:
+West Palm Beach, FL: Reliably commute or planning to relocate before starting work (Preferred)
+Education:
+Bachelor's (Preferred)
+Experience:
+AWS Cloud: 3 years (Required)
+Work Location: One location

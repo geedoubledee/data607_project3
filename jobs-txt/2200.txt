@@ -1,0 +1,76 @@
+By clicking the “Apply” button, I understand that my employment application process with Takeda will commence and that the information I provide in my application will be processed in line with Takeda’s Privacy Notice and Terms of Use. I further attest that all information I submit in my employment application is true to the best of my knowledge.
+Job Description
+About the role:
+As the Data Science Manager. you will help our organization leverage data and work with and through a team of data scientists and engineers to provide valuable direction and insight, for management to make informed decisions. You will direct the data science group to empower data-informed decision-making for product, growth and engagement, and other areas relevant to our organization.
+How you will contribute:
+Gather and identify local data science projects/initiatives/requests in collaboration with local/global MS teams, and other local functions.
+You will be the lead for the Digital and Data Sciences (DDS) team within the Manufacturing Sciences (MS) organization.
+In addition to owning, and managing local MS data science initiatives, the other core responsibility of the DDS team is to ensure the manufacturing processes are monitored and in a state of control.
+Statistical and analytical expertise is required for developing Continued Process Verification (CPV) plans and helping troubleshooting adverse process trends by proactive data analyses. You will work with the Subject Matter Experts and IT team to develop systems for the trending and analysis of process data.
+You will solve complex data analysis problems and address current issues at the site requiring data analytics solutions.
+You will teach and mentor others in data systems and statistical analysis.
+Systems expert for Discoverant system
+Drive the execution for local implementation of MS data science roadmap initiatives
+Owns, manages and drives local data science initiatives according to prioritization. Manage the respective functional and cross-functional interdependencies accordingly
+Manage and drive improvements on local process monitoring and process improvement
+Support and participate in global/functional/local GMS data science community
+Drive necessary local trainings and provides mentorship for knowledge transfer of big data analytics, coding/programming
+Help develop and maintain CPV plans, including reports
+Perform data analyses using applicable analytical systems
+Proactively addresses current issues requiring data analytics
+Help investigate adverse trends and implementing proactive measures to reduce manufacturing risks and variation
+Expected to learn manufacturing or relevant process knowledge required to execute data analytics projects and CPV
+Compositional data analysis and analyzing time series data
+Distributed computing, stochastic modelling, sampling methods and randomized algorithms
+Explainable Artificial Intelligence methods
+Analyze and solve complex problems through creative thought and experience
+Understanding of biochemistry or protein separation, plasma protein knowledge preferred.
+What you bring to Takeda:
+Bachelors' Degree in quantitative field, e.g. in Engineering, Mathematics, IT, Economics or Physics with focus on either Control Theory/Statistics/Mechatronics, Information/Operation, Management/Strategy/Economics, Technology and Innovation Management
+Advanced Degree in Data Analytics preferred
+6+ years' work experience in data analysis related position or equivalent academic experience/course record
+Hands-on experience applying and executing Artificial Intelligence/Deep Learning, Machine Learning, Big Data and Digital with respective programming knowledge
+Strong expertise and experience in Digital/Big Data Analytics/ Artificial Intelligence/Machine Learning algorithms, respective programming knowledge
+Programming experience is required
+Proficiency in database languages (SQL), understanding of data models and databases
+Capabilities to translate business needs into data analytics concepts and vice versa
+Hands-on, able to implement and execute data science initiatives, analysis, machine learning
+Project management skills
+Can teach and mentor other team members and manage/lead teams
+Experienced in using statistical process control, control chart and process capability techniques
+Can analyze and interpret scientific and statistical data.
+Experience with Microsoft Word, Excel, PowerPoint, Minitab, Discoverant, OSI Pi, and SQL
+Experienced understanding of GxP and related regulations.
+What Takeda can offer you:
+Comprehensive Healthcare: Medical, Dental, and Vision
+Financial Planning & Stability: 401(k) with company match and Annual Retirement Contribution Plan
+Health & Wellness programs including onsite flu shots and health screenings
+Generous time off for vacation and the option to purchase additional vacation days
+Community Outreach Programs and company match of charitable contributions
+Family Planning Support
+Professional training and development opportunities
+Tuition reimbursement
+Important Considerations
+At Takeda, our patients rely on us to deliver quality products. As a result, we must follow strict rules in our manufacturing facilities to ensure we are not endangering the quality of the product. In this role, you may:
+Work in a controlled environment requiring special gowning and wear protective clothing over the head, face, hands, feet and body. This may include additional hearing protection for loud areas.
+Need to remove all make-up, jewelry, contact lenses, nail polish and/or artificial fingernails while in the manufacturing environment.
+Work in a cold, wet environment.
+Work multiple shifts, including weekends, or be asked to work supplemental hours, as necessary.
+Work around chemicals such as alcohol, acids, buffers and Celite that may require respiratory protection.
+More about us:
+At Takeda, we are transforming patient care through the development of novel specialty pharmaceuticals and best in class patient support programs. Takeda is a patient-focused company that will inspire and empower you to grow through life-changing work.
+Certified as a Global Top Employer, Takeda offers stimulating careers, encourages innovation, and strives for excellence in everything we do. We foster an inclusive, collaborative workplace, in which our teams are united by an unwavering commitment to deliver Better Health and a Brighter Future to people around the world.
+This posting excludes Colorado applicants.
+#GMSGQ
+#ZR1
+#LI-MA1
+EEO Statement
+Takeda is proud in its commitment to creating a diverse workforce and providing equal employment opportunities to all employees and applicants for employment without regard to race, color, religion, sex, sexual orientation, gender identity, gender expression, parental status, national origin, age, disability, citizenship status, genetic information or characteristics, marital status, status as a Vietnam era veteran, special disabled veteran, or other protected veteran in accordance with applicable federal, state and local laws, and any other characteristic protected by law.
+Locations
+USA - GA - Social Circle - Hwy 278
+Worker Type
+Employee
+Worker Sub-Type
+Regular
+Time Type
+Full time

@@ -1,0 +1,46 @@
+About Ropes & Gray
+Ropes & Gray LLP is a preeminent global law firm focused on providing the highest-quality advice on our clients’ critical legal and business issues. Our global team of 2,500 talented professionals regularly helps clients meet high-stakes challenges, solve complex problems and achieve key goals. These colleagues work together across a global office network that includes offices in Boston, Chicago, Hong Kong, London, New York, San Francisco, Seoul, Shanghai, Silicon Valley, Tokyo, Los Angeles and Washington, D.C.
+We are a contemporary firm that can bring more than 150 years of legal and institutional history to bear on the challenges clients face in today’s 24/7 global business environment. Our collaborative approach gives our clients—which include many of the world’s most respected companies and institutions—ready access to leading corporate, litigation, transactional and regulatory lawyers whose knowledge and experience span industries and geographies.
+With an international presence, we focus on a number of key industries, including private equity; asset management; life sciences and health care; investment banking; technology, media and telecommunications; and consumer and retail. Our clients include global industry leaders, financial institutions, investment firms, private equity firms, hospitals and health care organizations, educational institutions, and individuals.
+We have consistently been recognized for our leading practices in many areas, including private equity, M&A, finance, asset management, real estate, tax, antitrust, life sciences, health care, intellectual property, litigation & enforcement, privacy & cybersecurity, and business restructuring.
+Ropes & Gray is an equal opportunity employer.
+The Business Intelligence (BI) Developer will develop and implement enhancements to and provide production support for the firm’s enterprise data warehouse, reporting, data integration, and business intelligence solutions (Microsoft SQL Server Business Intelligence stack). This individual is expected to assist in the creation, population, and quality control of the firm’s technical Data Dictionary and related documentation.
+The Developer will work closely with other Data Management team members in the ongoing evolution of our business intelligence and data management capabilities. This individual will participate in the development and adoption of enterprise data architecture strategy, principles, and standards as a member of our Data Architecture governing body.
+ESSENTIAL FUNCTIONS / JOB DUTIES:
+Design, develop, implement, and maintain business intelligence, dashboard, and reporting solutions for the enterprise
+Design, develop, implement, and maintain enhancements to the data warehouse, master and reference data management capabilities, data integration layer, and enterprise data services shared across applications and reporting
+Partner with business sponsors, senior management and across IS teams to understand, document, and propose business intelligence and reporting solutions
+Assist with developing accurate project and task estimates
+Support end-user training of our business intelligence and reporting solutions
+As a member of the Data Management team, deliver high quality data management solutions through proactive testing and on-going quality monitoring
+Actively engage with business sponsors and stakeholders to review, provide feedback, and understand business requirements
+All other duties as assigned
+EDUCATION, KNOWLEDGE, SKILLS & EXPERIENCE:
+Bachelor's degree in Computer Science, Information Systems, or related field; or equivalent work experience
+Minimum 7 years of experience in business intelligence and report development (4 years within Microsoft BI Stack)
+Proficient in MS SQL Server 2016 or later and related technologies (SSIS, SSRS, SSAS, MDS)
+Experience with TFS version control and work management utilities
+Strong troubleshooting skills across development components; SSIS, SSAS, SSRS
+Experience with integrating 3rd party databases
+Advanced knowledge of SQL, Complex T-SQL, and Excel
+Strong troubleshooting and performance tuning skills - should be able to identify and resolve performance issues involving complex code
+Demonstrated understanding of relational and multi-dimensional database design and architecture
+Demonstrated ability to develop front-end reporting and analytical solutions that meet business need
+Development experience with Tableau 10, MicroStrategy, Profisee a plus
+Familiarity with Redgate, Alteryx a plus
+ESSENTIAL CAPABILITIES:
+Ability to maintain strict confidentiality of the firm’s internal and personnel affairs as well as those of our clients
+Customer service focused with internal and external clients with ability to develop effective partnerships across the organization
+Ability to organize, plan, and carry out multiple concurrent objectives or activities, and effectively make judgments in prioritizing and time allocation in a high-pressure environment
+Ability to commit to and deliver on deadlines
+Growing into senior development experience, strong work ethic, and analytical skills
+Excels in an innovative, intellectually challenging, and fast-paced environment
+Excellent communication skills (written & verbal) and be equally effective interacting with both business and IT professionals
+Strong leadership and interpersonal skills
+Legal services or professional services experience a plus
+WORKING CONDITIONS:
+Normal office environment and schedule. Incumbent is expected to work the hours necessary to fulfill the responsibilities of the position.
+The above is intended to describe the general content of and requirements for the performance of this job. It is not to be construed as an exhaustive statement of essential functions, responsibilities or requirements.
+
+NY Comprehensive Total Rewards Package
+Ropes & Gray is proud to offer a comprehensive Total Rewards package to our business support team members. The firm also offers comprehensive health and well-being benefits, personal and professional development, career growth opportunities and a collegial and supportive culture. The anticipated pay range for this role is $85,000 - $127,000, which represents our good faith and reasonable estimate of the starting salary range at the time of posting. In addition, this role is eligible for a discretionary bonus based on performance. The actual offered rate for this position will be determined based on job-related, non-discriminatory factors, including qualifications and experience, geographic location, education, external market data and consideration of internal equity.

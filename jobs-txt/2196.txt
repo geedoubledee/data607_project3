@@ -1,0 +1,28 @@
+Need a Data Engineer or Data Modeler that can ingest source data into a data lake layer snow flake and then we create an object on top of that. Define that raw data into a business layer.
+The Data Engineer / modeler ingests raw data, Create Objects, build data mart view, consumable by business. Send back to BA to validate with business.
+Business Analyst will do all requirements from the business side. BA will identify the sources and what are we trying to replicate, identify the business definitions and send to the data engineer.
+Primary Skill Set:
+5 years of SQL Coding (Query building, stored procedures exp, good join conditions understanding, simple to complex SQL exposure)
+Snowflake cloud experience. 1 year if available (since new technology)
+Good understanding of Snowflake cloud platform from Data engineering perspective
+Snowflake SQL development knowledge
+Good understanding of Data lake, Data warehouse, data mart concepts
+Source code management, Git knowledge would be a plus
+Agile experience
+Basic to medium Python proficiency
+Job Type: Full-time
+Pay: $50.00 - $60.00 per hour
+Benefits:
+Health insurance
+Paid time off
+Schedule:
+Monday to Friday
+Education:
+Bachelor's (Required)
+Experience:
+Data lake, Data warehouse, data mart: 5 years (Preferred)
+SQL, SQL and NoSQL databases: 5 years (Preferred)
+Git knowledge: 5 years (Preferred)
+Snowflake cloud: 3 years (Required)
+SQL Coding: 5 years (Required)
+Work Location: Remote

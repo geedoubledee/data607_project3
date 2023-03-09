@@ -1,0 +1,50 @@
+Please Note: Position offered as 1099 independent contractor.
+DHS EOD Clearance must be obtained to start.
+AIM Technical Group is seeking a Data Engineer to work Remotely.
+AIM is seeking a passionate and driven Data Engineer to support DHS’ Data Services Branch, under the Office of Chief Information Officer, that provides innovative and complex data analytics services and platforms to users.
+As a Data Engineer, you will be driven by an interest in solving complex business and data problems through data exploration and analysis. You must be a critical thinker and perpetual learner; excited to gain exposure and build skillsets across a range of technologies while solving some of our clients’ toughest challenges.
+You will be integral to the data operations for development and integration of multiple data types across a range of data sets and sources. The candidate we seek has a strong ETL and data integration expertise within cloud environments, is highly motivated and enthusiastic about implementing new technologies and serving our customers to their best ability.
+Job Responsibilities:
+Being an active and collaborating member of an Agile/Scrum team and following all Agile/Scrum best practices
+Write code to ensure the performance and reliability of data extraction and processing
+Achieve technical excellence by advocating for and adhering to lean-agile engineering principles and practices such as API-first design, simple design, continuous integration, version control, and automated testing
+Work with program management and engineers to implement and document complex and evolving requirements
+Help cultivate an environment that promotes customer service excellence, innovation, collaboration, and teamwork
+Collaborate with others as part of a cross-functional team that includes user experience researchers and designers, product managers, engineers, and other functional specialists
+Required Skills:
+Must be a US Citizen
+Bachelor's Degree in Management Information Systems, Computer Science, Computer Information Systems, or equivalent Information Technology discipline
+7+ years of IT experience including experience in design, analysis, and implementation of large-scale, complex data architectures
+Develop data integration frameworks, real-time processing solutions, and data processing/transformation frameworks, leveraging cloud-managed services.
+Proven experience developing mappings, workflows and transformations within Informatica PowerCenter.
+Demonstrated experience to design and develop Extract, Load, Transform (ELT) processes with Azure Data Factory using data flows along with managed-database services such as PostgreSQL, MySQL etc.
+Work comfortably in CI/CD pipeline and version control systems, such as, Git Repositories (i.e. Github)
+Experience working with variety of Azure-managed PaaS services such as Azure LogicApps, Azure Batch, DataBricks and their integration with Azure Data Factory.
+Demonstrated experience developing database objects such as stored procedures, materialized views (MVs), triggers.
+Proven advanced ability to develop scripts and queries using technologies such as Python, Shell, and SQL.
+Experience working in Agile environment leveraging advanced design and engineering best practices
+Ability to process structured, unstructured and semi-structured data and apply data cleaning, data imputation and feature engineering methods prior to developing models
+Desired Skills:
+Proven experience developing models for data warehouse, data lake, and enterprise big data platforms in multi-data-center contexts required
+Experience managing Azure-managed databases such as PostgreSQL, SQL Server DBs, etc.
+Experience with DHS and knowledge of DHS standards a plus
+Demonstrated experience translating business and technical requirements into comprehensive data strategies and analytic solutions
+Demonstrated ability to communicate across all levels of the organization and communicate technical terms to non-technical audiences
+AIM is an equal opportunity employer and does not discriminate or allow discrimination on the basis of race, color, religion, gender, age, national origin, citizenship, disability, veteran status or any other classification protected by federal, state, or local law. AIM promotes affirmative action for minorities, women, disabled persons, and veterans.
+Job Type: Full-time
+Pay: $60.00 - $85.00 per hour
+Compensation package:
+1099 contract
+Experience level:
+7 years
+Schedule:
+8 hour shift
+COVID-19 considerations:
+Remote work
+Application Question(s):
+Do you have the ability to obtain a DHS Clearance?
+Education:
+Bachelor's (Required)
+Security clearance:
+Confidential (Preferred)
+Work Location: Remote

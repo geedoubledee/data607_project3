@@ -1,0 +1,36 @@
+Facebook's mission is to give people the power to build community and bring the world closer together. Through our family of apps and services, we're building a different kind of company that connects billions of people around the world, gives them ways to share what matters most to them, and helps bring people closer together. Whether we're creating new products or helping a small business expand its reach, people at Facebook are builders at heart. Our global teams are constantly iterating, solving problems, and working together to empower people around the world to build community and connect in meaningful ways. Together, we can help people build stronger communities - we're just getting started.
+Meta Platforms, Inc. (Meta), formerly known as Facebook Inc., builds technologies that help people connect, find communities, and grow businesses. When Facebook launched in 2004, it changed the way people connect. Apps and services like Messenger, Instagram, WhatsApp, and Novi further empowered billions around the world. Now, Meta is moving beyond 2D screens toward immersive experiences like augmented and virtual reality to help build the next evolution in social technology. WhatsApp LLC, a subsidiary of Meta Platforms, Inc., is seeking to hire a Data Science Manager. Instructions on how to apply, click “Apply to Job” online on this web page.
+Responsibilities
+Perform technical data science duties and oversee a team of Data Scientists
+Serve as an analytics leader to work on WhatsApp's core social media products and drive informed business decisions
+Oversee the work of Data Scientists as they perform quantitative analysis and data mining
+Work with one of the richest data sets in the world and cutting edge technology
+Use analytics to drive the understanding, progression, and customer engagement of a product
+Build and maintain reports, dashboards, and metrics to monitor the performance of products
+Present statistical data to management in order to inform, influence, and execute WhatsApp’s product and business decisions
+Drive data science efforts, communicate cross-functionally, and be a subject matter expert
+Partner with Product, Engineering and Business leadership teams to identify trends and opportunities, and to develop strategic problem solving road maps
+Lead Data Scientists as they mine massive amounts of statistical data and extract useful analytics insights
+Manage the development of data resources, requirements gathering, source organization, and the execution and delivery of product / program launches
+Inform, influence, support and execute our business decisions
+Support organizational efforts to screen and recruit members to the data science team
+Onboard and mentor junior team members to help them develop required skills and knowledge to be successful on the team
+Create road-maps and prioritize work to optimize the impact of the data science team
+Develop and communicate clear requirements and goals for team members
+Provide timely and actionable feedback on performance to team members
+Support the individual and career growth of team members to minimize attrition and maximize impact
+Help promote an unbiased and rewarding work environment by fairly and accurately recognizing high impact team members
+Minimum Qualification
+Employer will accept a Master’s degree in Computer Science, Engineering, Applied Sciences, Mathematics, Statistics, Physics or related field, and 3 years of work experience in the job offered or in a data scientist-related occupation. Experience must include 36 months of experience in the following:
+Quantitative analysis techniques: clustering, regression, pattern recognition, or descriptive and inferential statistics
+Data analysis and algorithm development
+Optimization, probability, statistics, or machine learning
+Large data stores
+ETL (Extract, Transform, Load) processes
+Large data sets
+Statistical analysis packages such as: R, MATLAB, SPSS, SAS or Stata
+Technical presentation skills
+Working with cross-functional teams to choose/create metrics and set metric goals
+Mentoring junior team members and contributing to organizational development
+WhatsApp is proud to be an Equal Employment Opportunity and Affirmative Action employer. We do not discriminate based upon race, religion, color, national origin, sex (including pregnancy, childbirth, reproductive health decisions, or related medical conditions), sexual orientation, gender identity, gender expression, age, status as a protected veteran, status as an individual with a disability, genetic information, political views or activity, or other applicable legally protected characteristics. You may view our Equal Employment Opportunity notice here. We also consider qualified applicants with criminal histories, consistent with applicable federal, state and local law. We may use your information to maintain the safety and security of Facebook, its employees, and others as required or permitted by law. You may view Facebook’s Pay Transparency Policy and Equal Employment Opportunity is the Law notice by clicking on their corresponding links. Additionally, WhatsApp participates in the E-Verify program in certain locations, as required by law.
+WhatsApp is committed to providing reasonable accommodations for candidates with disabilities in our recruiting process. If you need any assistance or accommodations due to a disability, please let us know at accommodations-ext@fb.com .

@@ -1,0 +1,26 @@
+Summary:
+The main function of the Data Engineer is to develop, evaluate, test and maintain architectures and data solutions within our organization. The typical Data Engineer executes plans, policies, and practices that control, protect, deliver, and enhance the value of the organization’s data assets.
+Job Responsibilities:
+Design, construct, install, test and maintain highly scalable data management systems.
+Ensure systems meet business requirements and industry practices.
+Design, implement, automate and maintain large scale enterprise data ETL processes.
+Build high-performance algorithms, prototypes, predictive models and proof of concepts.
+Skills:
+Ability to work as part of a team, as well as work independently or with minimal direction.
+Excellent written, presentation, and verbal communication skills.
+Collaborate with data architects, modelers and IT team members on project goals.
+Strong PC skills including knowledge of Microsoft SharePoint.
+Education/Experience:
+Bachelor's degree in a technical field such as computer science, computer engineering or related field required.
+Process certification, such as, Six Sigma, CBPP, BPM, ISO 20000, ITIL, CMMI.
+Job Type: Contract
+Pay: $60.00 - $72.00 per hour
+Benefits:
+Paid time off
+Schedule:
+8 hour shift
+Experience:
+data ETL processes: 3 years (Required)
+License/Certification:
+Six Sigma/ CBPP/ BPM/ ISO 20000/ ITIL or CMMI (Required)
+Work Location: One location

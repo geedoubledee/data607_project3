@@ -1,0 +1,27 @@
+Location – Chicago, IL | Coralville, IA | or Remote-US
+Digital Diagnostics is looking for a Software Engineer – Machine Learning to join our growing team! As a Software Engineer – Machine Learning, you will assist with our R&D and algorithmic development efforts. You will also participate in the development of the novel machine learning and computer vision algorithms which form the core of our medical device products, design efficient experiments to analyze current algorithm performance, report on results and assist in determining future direction for algorithmic enhancement.
+What We Are Looking For
+Ph.D. in a technical field, or MS in a technical field with 2+ years of industry experience, or 5+ years of industry experience.
+Outstanding analytical and problem-solving skills.
+Strong programming skillset.
+Experience with a major machine learning framework (e.g. TensorFlow, MXNet, Caffe2, PyTorch).
+Python, or C++ experience.
+Image processing experience (e.g. OpenCV, ITK).
+Specific expertise in any of the following fields: medical image analysis, algorithm design, segmentation, object detection, computer vision.
+Knowledge of the medical device/software development industry.
+Interest in medical device design and creating products that impact patients.
+What We Have to Offer
+Supportive and flexible work environment.
+Remote-friendly culture.
+Access to competitive benefits.
+Mission-driven teammates who are working to tackle complex challenges to help improve the accessibility and quality of medical diagnosis.
+Core behaviors that inspire day-to-day interactions.
+Dedication to career growth and development of our team members through mentorship programs and defined growth paths.
+Virtual social and wellness events.
+Who We Are
+Digital Diagnostics Inc. is a pioneering AI diagnostics company on a mission to transform the quality, accessibility, equity, and affordability of global healthcare. We pursue our mission through the application of technology in the medical diagnosis and treatment process. The company, originally founded by Michael Abramoff, MD, PhD, a neuroscientist, practicing fellowship-trained retina specialist, and computer engineer, is led in partnership with co-founders, John Bertrand, and Seth Rainford. Digital Diagnostics’ first FDA De Novo cleared autonomous AI system, IDx-DR, is already improving patient outcomes by detecting diabetic retinopathy (including macular edema) at the point-of-care.
+Digital Diagnostics is paving the way for autonomous AI diagnosis to become a new standard of care, contributing to democratizing healthcare and closing care gaps. The company works closely with patient advocacy groups, federal regulators, and other quality of care and ethics-focused stakeholders to enable adoption of autonomous AI. For more information and the latest news follow: https://digitaldiagnostics.com/
+What We Believe
+At Digital Diagnostics, we’re doing “AI the right way” by building healthcare solutions that are safe, equitable, and accessible. We’re not only building a platform; we’re also building a community that emulates these values. We believe that inclusion and equity in healthcare start with a community of collaborators that celebrates human differences including race, ethnicity, gender, age, sexual orientation, human need, veteran status, political affiliation, and religion. We value what makes each person unique and create a place for everyone to thrive as we build towards shared goals. We’re committed to continuous learning and are striving to create a principled workplace while continuing to impact the world around us.
+-
+This position can be located anywhere in the United States. We are not currently accepting applications for candidates located in countries outside of the U.S. Unfortunately, we are not able to sponsor an immigration case for employment at this time (for example, H-1B or other employment-based immigration cases).

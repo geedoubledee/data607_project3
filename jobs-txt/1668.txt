@@ -1,0 +1,77 @@
+Database Administrator II
+
+The primary purpose of this role is the installation, monitoring and basic tuning of enterprise-level databases following established database design standards and procedures. The role will also perform database backups and restores to ensure proper recovery procedures are in place. Complies with team standards of database administration methodology. Participates in project teams by implementing database structure that meets requirements and specifications. Participates in disaster recovery exercises. Attends status meetings and/or regularly communicates progress against project activities.
+
+Job Description
+Implements, configures and troubleshoots database instances, backups and user access
+Performs general database troubleshooting, debugging and testing
+Evaluates and provides technical solutions for moderately complex database tasks/projects
+Shows a moderate knowledge of the leading enterprise-level RDBMS software packages, utilities and general database concepts
+Creates or modifies database structures per specifications, on time and on budget in a quality manner
+Updates database support documents and user documentation
+Completes medium complexity tasks
+Complies with database documentation standards within the organization
+Participates in 24/7 on call support responsibilities including maintenance windows and disaster recovery drills
+Works with software vendors, application support and developers to resolve moderate database issues.
+Performs patching on existing databases
+Resolves production support issues in a timely manner, including during non-business work hours
+Communicates effectively with manager, peers, and internal customers to relay status of work and raise challenges, concerns, questions, and issues as necessary
+Collaborates with senior DBAs to help author standard process and support related documents
+Stays abreast of the new database technologies and help articulate pros and cons to the management team
+Understands basic database architecture, distributed infrastructure and various network technologies to implement robust and scalable solutions for the organization
+Configures and installs databases in accordance to change management policies and procedures
+
+Required Education and Experience
+Bachelor’s Degree in relevant field or 3-5 years IT experience
+2-5 years of experience in an IT environment
+Excellent verbal, written, and interpersonal communication skills
+Strong analytical and problem solving skills
+Ability to read and understand software specifications
+Ability to work irregular hours or schedules to accommodate site needs and to perform assigned duties in an efficient manner
+
+Our Organization has a business casual environment and focuses on teamwork, associate development, training, and continuous improvement. We offer competitive wages, excellent affordable insurance benefits (including health, dental, vision and life), 401K plan, paid vacation and holidays.
+Our Organization is an equal
+opportunity employer.
+
+Position Overview:
+Our DBA II position is a unique opportunity for an individual with prior DBA experience seeking new challenges and looking to broaden their database administration experience/responsibilities. The successful candidate will be responsible for performance monitoring, maintenance and operational support of our entire assortment of databases (165+ Oracle, 350+ MSSQL, 5+ Sybase). This candidate will provide day-to-day production support, troubleshooting, administration and backup/restore of various databases. Responsibilities also include database upgrades, patching and security. We are a very proactive database team, so when not on-call and/or working specific projects, the candidate will be expected to continually assess, improve, and optimize our database environment to eliminate/reduce the possibility of database outages/downtime.
+Key Duties and Responsibilities:
+Under the direction of the Senior Database Team Lead, and working closely with Senior Database Administrators to ensure that our Oracle, Microsoft SQL Server and Sybase databases perform optimally, including, but not limited to the following:
+Monitor performance of database system resources and query performance
+Monitor and maintain database storage resources
+Monitor and maintain database maintenance plans for backups, index rebuilds, and statistics updates
+Perform Oracle, MSSQL, Sybase upgrades, migrations and configuration changes
+Install database software service packs, cumulative updates and security patching as necessary
+Maintain database documentation as required
+Maintain and administer database security access
+Perform database ad-hoc backups and restores
+Troubleshoot and resolve database connectivity issues
+Follow Change Management processes to implement database configuration changes
+Follow Problem Management processes to troubleshoot and resolve issues
+Proactively monitor and respond timely to database alerts
+Optimize SQL code as necessary
+Rotational, primary DBA on-call requirements to ensure 24x7 support of database operations
+Required Basic Qualifications:
+Self-starter, with a keen interest in technology and highly motivated towards success
+Self-sufficient, able to work independently and provide updates to upper Management
+Possess necessary skills and disposition to provide high quality customer service
+Strong analytical, research, and problem solving capabilities
+Strong organizational skills with the ability to prioritize work effectively
+Excellent written and verbal communication skills
+Ability to work within and in support of a team environment
+Required Technical Qualifications:
+2-5 years relevant experience as a production support database administrator in an Oracle and/or SQL Server environment
+Experience administering Oracle 11g, 12c, 18c or 19c instances/databases
+Experience administering SQL Server 2008-2019 instances/databases
+Experience with common database monitoring, diagnostic, trending and administration tools (ex. Toad, DBArtisan, OEM, Solarwinds, etc.)
+Experience working with Linux operating systems (RedHat)
+Experience working with Windows operating systems
+Bachelor's Degree (BS/BA) or equivalent combination of education and experience
+Bonus Technical Qualifications:
+Experience with Azure Cloud technologies (Azure SQL Server, Azure Analysis Services, Azure Synapse, Azure DataFactory, Azure Active Directory)
+Experience with Oracle RAC, DataGuard, ASM/ACFS technologies
+Experience with database instance tuning (memory configuration)
+Experience with SQL query tuning (baselines, profiles, indexes, explain plans, etc.)
+Experience with Oracle Database Appliance (ODA) hardware/support
+Experience with MSSQL Replication, AlwaysOn technologies
+Experience with Qlik/Attunity Replicate software or other 3rd-party replication applications

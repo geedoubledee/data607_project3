@@ -1,0 +1,49 @@
+Description:
+ABOUT US
+At Connectria, LLC, we provide award-winning Cloud Computing and Managed Hosting from our world-class data centers in North America to more than 1,000 customers in 30+ countries throughout the world, and we help customers run their systems securely in Amazon’s AWS cloud and Microsoft’s Azure cloud.
+For over twenty years, Connectria’s ‘No Jerks Allowed’ philosophy has been the foundation of our culture. We are a company that believes in promoting from within and take an employee-first approach. Due to these practices, Connectria has won St. Louis Post-Dispatch Best Places to Work 9 times, Computerworld Best Places to Work in IT 8 times, The Nation’s Best and Brightest in Wellness Award, and HIRE Vets Medallion Award.
+If you are looking for your next career opportunity and enjoy working in a fast-paced and growing business environment and want to be on a team with a “No Jerks Allowed” company philosophy that treats everyone with respect in a fun and supportive work environment, Connectria has an exciting opportunity for you!
+POSITION PROFILE
+This position serves as a member of the Database Services Group that provides database administration for our internal and customers’ database systems that include Oracle, SQL Server, MySQL, and others in both stand-alone and high/availability configurations.
+Key Responsibilities:
+Manages database system uptime, data backups & restores, operational tasks; troubleshoots system performance; manages & troubleshoots database file space/storage growth.
+Responds to reports of problems & change requests from customers and internal users; assesses technical tasks required and proposes improvements/solutions where appropriate.
+Communicates with users and other technical staff via our incident management ticketing system and through direct interaction with customer & internal technical / support staff.
+Works individually or within a team of developers depending on the task/project.
+Performs routine Database Administration tasks (database backups, database restores, grant user permissions, table, and file system space management, execute database scripts, apply Oracle & SQL Server patches).
+Troubleshoots operational and performance problems reported by customer or in response to alerts from monitoring system.
+Collaborates with other technical support staff (Windows, Linux/Unix admins, network engineering, project management, infrastructure technicians) on technical tasks; communicates completion of tasks, collaborates with internal teams and external users via internal ticketing system.
+Scripts and automates database-related tasks using associated system scripting tools for Oracle, SQL Server, etc.
+Responsible for other duties as assigned
+Requirements:
+Strong experience with ORACLE 12c or higher and MS SQL Server 2014+ is required
+Strong knowledge of Oracle and SQL Server installation, database backup & restore operations, table & file space management, performance troubleshooting & tuning.
+Experience / knowledge of high-availability features & operation for Oracle & SQL Server is strongly desired.
+Experience with IBM Db2 LUW 10.1 or higher, MySQL 5.5 or higher &/or Mongodb are a plus.
+Proficient in SQL scripting (PL/SQL, TSQL), Windows Command Line / Powershell, Linux shell commands.
+Familiarity with TCP/IP network, Windows & Linux.
+Strong, professional communication skills (both written and verbal) on technical tasks, coordination / collaboration with other technical staff and application support staff required
+Cloud experience, specifically AWS and Azure based experience, is desirable
+Oracle and/or SQL Server Technical Certifications are desirable
+Ability problem solve and to recognize tasks that need to be completed and willingness to take responsibility for them
+Dependable and professional
+WHAT'S IN IT FOR YOU?
+The opportunity to work with one of the fastest growing companies in the country with an award winning culture! Rated as the Best Place to Work, Connectria offers a generous benefits package that you would expect from a large company with the relaxed family-oriented atmosphere of a small company. We offer an excellent compensation with generous benefits including:
+100% employer paid benefit premiums including medical, dental, vision, short-term disability, long-term disability, identity protection and life insurance
+401(k) plan with guaranteed employer contribution
+Paid vacation & sick time
+Paid holidays
+Paid parental leave
+Paid certification training and completion awards
+Online wellness rewards
+Free personal trainers
+Free gym memberships
+And much more!
+Job Type: Full-time, Direct Hire
+Work Remotely: Yes
+Work Authorization:
+Connectria, LLC will only employ those who are legally authorized to work in the United States. This is not a position for which sponsorship will be provided. Individuals with temporary visas such as E, F-1, H-1, H-2, L, B, J, or TN or who need sponsorship for work authorization now or in the future, are not eligible for hire.
+In compliance with federal law, all persons hired will be required to verify identity and eligibility to work in the United States and to complete the required employment eligibility verification document form upon hire.
+Equal Opportunity Employer:
+Connectria, LLC is an Equal Employment/Affirmative Action employer. All qualified applicants will receive consideration of employment without regard to sex, race, color, religion, national origin, age, marital status, political affiliation, sexual orientation, gender identity or expression, genetic information, disability status, protected veteran status, or any other characteristic protected by federal, state or local laws. We are committed to providing a workplace free of any discrimination or harassment. If you are an individual with a disability and you need an accommodation during the interview process, please reach out to your recruiter.
+This policy applies to all terms and conditions of employment, including recruiting, hiring, placement, promotion, termination, layoff, recall, transfer, leaves of absence, compensation and training. (2022)

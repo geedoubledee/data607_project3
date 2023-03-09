@@ -1,0 +1,34 @@
+Data ScientistHireups Inc. – Remote
+Research Scientist | Computational Protein Engineer | Remote
+Job Overview:
+Research Scientist | Computational Protein Engineer - Consultant | Full-Time Possible | Flexible Schedule, C2C, 100% Remote, 1099
+Intro:
+As a data scientist, you will be at the forefront of developing cutting-edge technology. Be a part of the collaborative and emerging scientific evolution. Hireups Inc. works alongside top engineers to build services for our clients. Join our team of data, science, and cloud professionals. Hireups provides an alternative work environment where you will have substantial opportunities to make a tangible and positive impact across various technologies.
+Protein engineering is the conception and production of unnatural polypeptides, often through modification of amino acid sequences that are found in nature. Synthetic protein structures and functions can now be designed entirely on a computer or produced through directed evolution in the laboratory.
+The position calls for research scientists/computational protein engineers. The ideal candidate is responsible for writing research papers and collaborating with developers. Candidates should have a background in data science, immersed
+Responsibilities:
+Writing research papers on different methods of protein-folding
+Working with flow cytometry(a cell-analysis technique)
+Screening involving DNA sequencing
+Developing computational pipelines for protein engineering utilizing PyRosetta/sequence-based approaches
+Engage in detailed research and collaboration with a team of scientists/developers
+Required:
+Excellent programming skills and mastery of one or more programming languages, including Unix, PowerShell, or Python (PyRosetta preferred)
+PhD or equivalent in molecular biology, biochemistry, bioengineering, biophysics, physics, computer science, computational biology, quantitative biology, or related field
+2+ years of experience with any of the following technologies: Python, Protein Folding, Data Science
+Significant hands-on technical experience with modeling software such as Rosetta, Molecular Operating Environment (MOE), and/or Schrodinger
+Familiarity with machine learning algorithms applicable to model data
+Must be familiar with Jupyter Notebooks, Bayesian, and/or common statistics found in other Biology related projects.
+Preferred:
+US Citizen with core daylight hours
+The ability to design and develop a rich, comprehensive protein engineering pipeline
+Strong communication skills with the ability to articulate technical details to different audiences * Hands-on experience in the compilation, assembly, and development of protein structures
+Five years plus of demonstrated experience working for a company in a similar roleJoin the Team!
+Hireups jobs offer flexible hours with tremendous career growth. Moonlighters are welcome. Employees are offered comprehensive and beneficial training relative to their field. Here at Hireups, we focus on the health and growth of our team members.
+We are an equal opportunity employer and considers all qualified applicants equally without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, veteran status, or disability status.
+LGBTQ+ friendly workplace
+Age-inclusive
+Job Types: Part-time, Contract
+Pay: $70.00 per hour
+Benefits:
+Flexible schedule

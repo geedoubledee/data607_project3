@@ -1,0 +1,25 @@
+Job Location
+Remote
+Type of Job
+Full Time
+Published Date
+April 2, 2021, 5:00:00 AM
+Job Description
+Responsibilities:
+Performs in all database management areas & applies advanced knowledge; Sets quality standards relative to all aspects of database management
+Consults with management to promote & develop technical enhancements
+Manages large, complex, long-term projects or projects that are critical priority for the user community; Leads initiatives & special projects
+Role model/mentor in database & business user community
+Evaluates & recommends the purchase & utilization of technologies (DMBS/s, servers, extract & conditioning tools, metadata management, security tools, archival/recovery tools & data access)"
+
+Requirements
+Professional Certifications: Oracle certified professional (OCP in 12c, 18c or 19c)/MongoDB certified DBA/Postgres Administrator (10.x plus)
+At least 6 years of hands-on experience as SQL DBA/MongoDB/Cassandra DBA
+Very strong technical SQL Server/MongoDB/Cassandra DBA skills
+Working knowledge in Windows & Linux OS 4; Scripting skills to automate DBA activities
+Excellent communication skills
+Able to work under pressure and tight schedules on a very dynamic environment
+Software development skills for database automation
+Candidate is willing to take on new challenges and work in a fast paced and agile work environment
+Be open to learning new technologies and approaches and will thrive on new challenges
+Strong sense of urgency to meet deadlines and achieve results

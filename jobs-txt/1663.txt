@@ -1,0 +1,33 @@
+Looking for a Data Scientist III
+What you will be doing as a Data Scientist III
+Create applications using video analytics algorithms across different verticals
+Create demos and PoCs using open-source libraries (GitHub) and hardware like Raspberry PI, Nvidia Jetson.
+Collect and feature engineer data to train AI/ML models
+Execute test cases and report results.
+Debug equipment issues and collect logs.
+Write scripts to automate testing and collect data.
+Communicate and report project updates to stake holders.
+What you will bring to the table as a Data Scientist III
+Hands on experience developing video analytics, machine vision-based applications
+Experience developing video-based applications. Examples - object detection, people counting, vehicle detection, person detection
+Hands on work with of single board compute platforms ex. Raspberry pi, Nvidia dev kits (Xavier, ORIN), etc.
+Deep knowledge of video analytic algorithms like openCV, CNN, YOLO, etc.
+Understanding of machine learning lifecycle - train, test, validate
+Python or other programming language knowledge
+Cloud experience preferably AWS otherwise Azure, GCP.
+What you didn’t know about us:
+Competitive salary
+Health, Dental and Vision Benefits
+Short/Long Term Disability and Critical Care/Illness Protection
+Life Insurance and Retirement Plans
+Employee Assistance Program
+With this position, you will get the opportunity to work with our game changing clients and further advance your already valuable experience in the telecom industry!
+We are Connectors. We thrive on ‘quality over quantity’ and put in the work building strong relationships. We create connections, discover qualities, uncover skills, and place people with accuracy. We are your true partner!
+We are Collaborators. You’ll be working with a wholly-owned subsidiary of Kelly and part of the Kelly Telecom division. It allows us to be as nimble and fiercely competitive as a startup while having the backing of a multibillion dollar publicly traded company which has been in business for 75 years. With direct access to hiring managers, services don’t stop at standard recruiting processes. We use our expertise to improve your application skills and provide ongoing career support.
+We give 24/7 Support. We are in this together. We provide around the clock availability, competitive employee benefits, and continuously check-in to make sure things are going smoothly. Check out our Glassdoor page!
+Kelly Telecom is an equal opportunity employer and will consider all applications without regard to race, genetic information, sex, age, color, religion, national origin, veteran status, disability, or any other characteristic protected by law. For more information click Equal Employment Opportunity is the law.
+You should know: Your safety matters! Vaccination against COVID-19 may be a requirement for this job in compliance with current client and governmental policies. A recruiter will confirm and share more details with you during the interview process.
+#JobsAtKellyTelecom
+Job Types: Full-time, Contract
+Salary: From $80,000.00 per year
+Work Location: One location

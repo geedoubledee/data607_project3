@@ -1,0 +1,38 @@
+Landis is a homeownership company taking on the housing affordability crisis. Our mission is to guide people on their unique path to homeownership, and we do this through a holistic Homeownership Program where we buy a home for a client and rent it to them while we help them prepare for a mortgage. Landis has been on the Built In 50 Best Places to Work in New York City two years in a row.
+Landis is seeking a talented Data Engineer to join our Engineering team. The role is responsible for building the required infrastructure for optimal extraction and transformation.
+Where you will make an impact:
+Identifying, designing and implementing internal process improvements including re-designing infrastructure for greater scalability and optimizing data delivery
+Building required infrastructure for optimal extraction, transformation and loading of data from various data sources using AWS and SQL technologies
+Building analytical tools to utilize the data pipeline, providing actionable insight into key business performance metrics including operational efficiency and customer acquisition
+Preparing raw data for manipulation by various stakeholders
+Assembling large, complex sets of data that meet non-functional and functional business requirements
+Working with stakeholders including the Executive, Product, Data and Design teams to support their data infrastructure needs while assisting with data-related technical issues
+You are:
+A self-starter with the discipline, dedication, and motivation to work hard in a fast-paced environment
+Data driven!
+Eager to dive in, get your hands dirty, and try new things
+Passionate about our mission to enable homeownership in America
+Curious to learn and uncover new insights
+Someone who takes pride in quality, creativity and forward progress
+Excited to work closely and collaborate with your co-workers!
+Your background includes:
+Bachelor's degree in data engineering, big data analytics, computer engineering, or related field
+3+ years of proven experience as a data engineer, software developer, or similar, building data infrastructure from the ground up
+Expert proficiency in AWS, Python (or related language), SQL.
+Familiarity with Hadoop or suitable equivalent.
+Excellent analytical and problem-solving skills
+Scrupulous approach to work product
+Proactive self-starter able to prioritize and manage work autonomously
+Experience with Metabase a plus
+Proven track record of success
+Experience working closely and communicating effectively with a diverse set of internal and external stakeholders in a constantly evolving, rapid growth environment
+Our Employees Matter: We strongly encourage a collaborative and collegial work environment so that our employees can excel at their jobs and enjoy coming to work everyday. We're also excited to offer benefits to our full-time employees that safeguard their physical, mental and financial wellbeing.
+Unlimited and Flexible PTO
+Comprehensive Health Plans, including one option that covers employees 99%
+401k, eligible after 3 months of service
+Paid family leave
+Commuter benefits
+Compassionate and mission-oriented team
+Culture focused on learning and personal growth
+Opportunity to have impact on the lives of our partners and clients
+In addition to our benefits, this role offers a base salary of $160-190k, along with bonus potential that is paid yearly and equity in the company. The base salary varies and is determined by experience and skills that are unique to each candidate. The bonus potential is determined by individual, team and firm performance. Our existing employees are also eligible for an equity refresh based on individual, team, and company performance.

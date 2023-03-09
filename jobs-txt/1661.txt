@@ -1,0 +1,20 @@
+Job Title : Data Scientist
+Contract duration: 12 months
+Minimum Years of experience : 7+ years
+Must Have Skills:
+4+ years of experience in analytical role (analysis, information science, data visualization or other relevant quantitative fields)
+Ability to work with large datasets and/or Big Data using SQL, Python, or other database programming languages.
+Ability to tell a story with data using reporting and data visualization tools (e.g., Spotfire, Tableau, Microsoft BI)
+Nice to have skills
+Understanding of Machine Learning and/or optimization tools and techniques
+Understanding of Statistical tools (R, SPSS, SAS) and ability to apply concepts to derive insights
+Detailed Job Description
+Apply data analysis, data mining to understand and solve business problems. Collaborate with analytics, technology and business team members to align on and deploy solutions to business problems. Ability to manipulate, transform and analyze large datasets and Big Data using SQL, or Python or Pyspark Ability to tell a story with data using reporting and data visualization tools e.g., Spotfire, Tableau, Microsoft BI, Foundry Contour or Slate. Proficiency with Microsoft Excel and PowerPoint. Strong
+Job Type: Contract
+Salary: $50.00 - $55.00 per hour
+Schedule:
+8 hour shift
+Experience:
+Python: 1 year (Preferred)
+SQL: 1 year (Preferred)
+Work Location: Remote

@@ -1,0 +1,84 @@
+Job Summary (External):
+ABOUT THE COMPANY
+Apria Healthcare’s mission is to improve the quality of life for our patients at home. We are looking for empathetic, thoughtful and compassionate people, to meet the needs of our patients. Already an industry leader in healthcare services, we provide home respiratory services and select medical equipment to help our patients sleep better, breathe better, heal faster, and thrive longer.
+JOB SUMMARY
+Design and build effective and scalable Business Intelligence solutions including Operational Reports, Data Visualizations, Dashboards, Reporting Data Marts and ETL/Data Integration solutions.
+
+ESSENTIAL DUTIES AND RESPONSIBILITIES
+Engage based a consultative approach with business users, asking questions to understand the business needs and deriving the data flow, logical and physical data models based on those needs.
+Responsible for leading development of the reporting framework
+Provide engineering, design and developmental insights for the team in building and sustaining an enterprise level data analytics platform
+Hands-on development with thorough knowledge of scripting, data source integration, and development
+Assist with process definition and contribute to library of reusable objects (fields, calculations, KPI, etc.)
+Troubleshoot data discrepancy issues as they occur, identify criticality and impact, provide support and appropriate workarounds
+Develop specifications for all areas and domains of the enterprise, including Data Warehouse, Provisioning, Master Data Management, ETL and BI.
+Design processes that can be implemented with minimal disruption to supporting systems and that are cost effective.
+Execute data conversions and provides guidance to junior developers when needed
+Performs other duties as required.
+
+SUPERVISORY RESPONSIBILITIES
+N/A
+Minimum Required Qualifications (External):
+Education and/or Experience
+Bachelor's or Master’s degree in Science or Engineering. Computer Science degree preferred.
+10+ years of enterprise level IT experience
+8-10 years of experience with data architecture and exposure to other domains such as business architecture and application design.
+
+Certificates, Licenses, Registrations or Professional Designations
+N/A
+
+SKILLS, KNOWLEDGE AND ABILITIES
+Experience in RDMS like MS SQL Server and related modules.
+Ability to apply the development, sustenance, and project management best practices with minimum supervision.
+Excellent communication skills with ability to grasp complex concepts and ability to communicate internally with all stakeholders
+Strong problem solving and analytical skills
+Ability to effectively interact with stakeholders and cross functional departments
+
+Computer Skills
+Understanding of relational database principals, expertise in SQL.
+Experience in C# or Java or Python is preferred but not required.
+Experience in Hadoop or other big data and NoSQL solutions is a plus.
+Experience in data science and creating models is a plus.
+
+Language Skills
+English (reading, writing, verbal).
+
+Mathematical Skills
+Advanced math skills
+
+PREFERRED QUALIFICATIONS
+Education and/or Experience
+Healthcare experience preferred.
+
+PHYSICAL DEMANDS
+This is a stationary position that requires frequent sitting or standing, repetitive wrist motions, grasping, speaking, listening, close vision, color vision, and the ability to adjust focus. It also may require occasional lifting, carrying, walking, climbing, kneeling, bending/stooping, twisting, pulling/pushing, walking, bending, stooping, and reaching above the shoulder. Employees in this position must be physically able to efficiently perform the essential functions of the position. Reasonable accommodations will be provided to assist or enable qualified individuals with disabilities to perform the essential functions of the position, upon request.
+
+WORK ENVIRONMENT
+Work is performed in an office setting with exposure to moderate noise.
+
+TRAVEL
+Occasional travel as required.
+
+OTHER INFORMATION
+The essential duties and responsibilities, physical requirements, and work environment described above are representative of those typically required for this position but may vary depending on staffing and business needs at specific locations. The inclusion or omission of a specific duty or physical requirement is, therefore, not determinative of whether that function is essential to a specific individual’s position.
+
+Apria Healthcare is committed to hiring veterans and military spouses.
+Benefits:
+Comprehensive benefits package offered for eligible employees:
+Competitive salary
+Medical, Dental and Vision
+Healthcare Flexible Spending Accounts and Healthcare Savings Accounts
+Life, AD&D and Disability Insurance
+Paid Time Off, including Vacation, Personal Time, Paid Sick Leave & Paid Holidays
+401K Savings Plan (available immediately)
+Educational Assistance
+Employee Referral Reward Program
+Employee Discount Programs
+Company Paid Employee Assistance Plan (available immediately)
+We recognize our veterans by offering a company paid day off for Veterans Day
+Career Advancement/ Development Opportunities
+Compensation:
+Compensation is commensurate with experience
+Annual compensation is based on a 40 hour week
+EEO Statement:
+As an EOE/AA employer, Apria Healthcare is committed to providing all applicants and employees with equal access to employment opportunities, regardless of sex, race, age, color, national origin, disability, pregnancy, religion, genetic information, sexual orientation, transgender status, gender identity, marital status, veteran status, or any other characteristic protected by federal, state, or local law. Apria Healthcare shall abide by the requirements of 41 CFR 60-300.5(a) and 60-741.5(a). These regulations prohibit discrimination against qualified individuals on the basis of protected veteran status or disability, and require affirmative action by covered prime contractors and subcontractors to employ and advance in employment qualified protected veterans and individuals with disabilities. AA/EOE, M/F/Disability and Vet

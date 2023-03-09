@@ -1,0 +1,55 @@
+POSITION OVERVIEW
+The Business Intelligence Developer will be a strategic resource on the Business Intelligence team within Signify Health. We are looking for a talented BI developer who is versatile and creative, and who can be an integral part of a small tight team that will build next-generation analytics that supports Signify and its partners. This role not only requires the ability to design prescriptive reporting solutions but also be hands-on in the database/backend data source to pull data using SQL to verify and test the visualizations. If you're passionate about healthcare and want to help shape the direction of our next-generation features and products for our Health Partners, and make a significant impact on the health and lives of thousands of people, then we have the perfect position for you! Obviously, we are looking for smart people. That's a given. But being smart isn't the only factor in creating a high-caliber work environment.
+In addition, you:
+Have an entrepreneurial streak
+Are self-motivated and driven
+Just get things done
+Roll with the punches when the unexpected happens or if the team needs to pivot direction
+• Are passionate • Have strong report visualization and data design intuition
+Pay attention to user feedback
+Thrive in an environment of open feedback/brainstorming/sharing
+Are a team player and people like working with you
+Are intellectually curious and always wanting to learn more
+Interested in creating a culture driven by metrics and experimentation
+
+The Business Intelligence Developer will Design, implement, and maintain Dashboards, visualizations, and supporting data analysis layers. Additionally, he/she will design and develop visualization solutions against data warehouses, data marts, and cubes. This position will coordinate with other team members and managers to translate business needs into technical solutions and provide technical assistance to users pulling data from our self-service environment. The Business Intelligence Developer will troubleshoot issues in cubes and database objects (procedures – as they relate to surfacing data) to identify and solve problems with data accuracy and performance.
+
+QUALIFICATIONS:
+Education/Licensing Requirements:
+High School Diploma or equivalent.
+Bachelor's degree in a computer-related field or equivalent experience.
+Master's degree in a computer-related field is a plus.
+
+Experience Requirements:
+Minimum 5 years of experience in MS BI tools (SSRS, SSAS, Power BI)
+5+ years of relevant experience in report development, data science, business analytics, business intelligence, or comparable data engineering role, including data warehousing and business intelligence tools, techniques, and technology
+Minimum of 2 years of experience in Power BI
+Knowledge of SQL to write complex, highly-optimized queries across large volumes of data
+Successful work experience in MS SQL programming, database design, data warehouse design, query performance tuning, and writing stored procedures.
+Knowledge of ETL and data warehouse concepts and processes
+Experience with Power BI or an equivalent reporting tool to create impactful reports, visualizations, and interactive dashboards
+Understanding of data models
+Creativity to determine the best solution for a real-world problem with quantitative data
+Experience supporting a multi-database environment.
+Excellent understanding of OLTP and OLAP systems.
+Knowledge of best practices and software development process
+
+ESSENTIAL SKILLS/EXPERIENCE:
+Fluently speak, read, and write English.
+Good verbal and written communication skills.
+Proven ability to prioritize and multi-task.
+SQL programming, server integration, and reporting
+Curiosity and passion for data, visualization, and solving problems
+Creativity to determine the best solution for a real-world problem with quantitative data
+Experience with reporting, descriptive statistics, probability, and cleaning big datasets
+Willingness to question the validity, accuracy of data, and assumptions
+Enjoyment from collaborating with others in a team environment
+Eagerness to learn in a fast-paced environment
+Knowledge of medical data a plus
+
+About Signify Health
+Signify Health is helping build the healthcare system we all want to experience by transforming the home into the healthcare hub. Access to the home and primary care coordination are critical pillars to containing cost—Signify Health is a leader across both
+We coordinate care holistically across individuals' clinical, social, and behavioral needs, creating a more connected, effective care experience for all. By building strong connections to primary care providers and community resources, we're able to close critical care and social gaps, as well as manage risk for individuals who need help the most. This leads to better outcomes and a better experience for everyone involved.
+Our high-performance networks are powered by more than 9,000 mobile doctors and nurses covering every county in the U.S., 3,500 healthcare providers and facilities in value-based arrangements, and hundreds of community-based organizations. Signify's intelligent technology and decision-support services enable these resources to radically simplify care coordination for more than 1.5 million individuals each year while helping payers and providers more effectively implement value-based care programs.
+We are committed to equal employment opportunities for employees and job applicants in compliance with applicable law and to an environment where employees are valued for their differences.
+To learn more about how we're driving outcomes and making healthcare work better, please visit us at www.signifyhealth.com.

@@ -1,0 +1,24 @@
+We invite you to join us at Driven Brands!
+Headquartered in Charlotte, NC, Driven Brands (NASDAQ: DRVN) is the largest automotive services company in North America, providing a range of consumer and commercial automotive needs, including paint, collision, glass, vehicle repair, oil change, maintenance and car wash.
+With over 4,500 centers in 15 countries, Driven Brands is the parent company of some of North America’s leading automotive service brands including Take 5 Oil Change, Take 5 Car Wash, Driven Glass, Meineke, Maaco, CARSTAR, and more. Our network services over 50 million vehicles annually and generates more than $5 billion in system-wide sales each year.
+Our culture inspires high performance and innovation, enabling our employees to go further, faster in their careers. With amazing people and great brands, we confidently look forward to exciting growth ahead, and believe in following the values that support this vision.
+JOB DESCRIPTION:
+This is a highly impactful and autonomous role where your contribution will be noticed on day one. You’ll be working alongside a team of eight analysts & data scientists - collaborating to design datasets, develop analytical models & provide insights. Your work will impact business processes and drive growth.
+Responsibilities:
+Partner with stakeholders across departments to translate business needs and define technical requirements
+Identify, analyze & interpret trends in complex, unfamiliar datasets across our brands
+Build dashboards & reports for audiences with varying levels of technical context, optimizing strategic decision-making throughout the company
+Develop & maintain scalable automations for data sources, reports, periodic analysis
+Assist Data Science team in discovery, back-end dev, optimization of advanced analytics models
+Qualifications:
+Bachelor’s degree in a quantitative field (math, statistics, physics, engineering, economics, computer science) or equivalent years of experience
+Experience in SQL & a scripting language (R/Python)
+Advanced degree in a quantitative field
+1-2 years of professional experience in data analysis or a related field
+Strong proficiency in querying & manipulating large datasets using SQL
+Experience performing data analysis and/or building automations & statistical models in Python/R
+Experience in data visualization, preferably in Tableau, Qlik or Power BI
+Strong interpersonal & teamwork skills, capable of inter-departmental collaboration
+#LI-KD1
+#HYBRID
+DBCORP

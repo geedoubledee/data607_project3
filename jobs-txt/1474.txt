@@ -1,0 +1,64 @@
+Job Description:
+The Analytics & Innovation department focuses on solving challenging business
+problems and connecting dots across the enterprise to benefit employees, customers
+and shareholders.
+The team's objective is to make analytics accessible, available, fast, repeatable, and
+scalable. We partner with a variety of business units (e.g., Airport Operations, Technical
+Operations, Network Planning, Revenue Management, Crew, Catering, Contact Centers,
+HR Systems, etc.) to create value through collaborative innovation, transformation,
+process improvement, change management, mathematical modeling, statistics, data
+science, and research.
+The position has both strategic and tactical responsibilities for Data Science. This role
+will drive projects in the Data Science space resulting in incremental revenue or
+improving efficiency.
+Must work with multiple stakeholders leading and managing initiatives that leverage
+data, modeling, and predictive analytics to drive total revenue and customer experience.
+It is essential to be quantitatively orientated, results-focused, and of a “test-and-learn”
+mindset. Individuals with strong communication and interpersonal skills, customer and
+loyalty experience, and willingness to take the initiative and ownership will be successful.
+Airline experience is not required for this position. This role involves business intuition
+and a working knowledge of analytical tools.
+Responsibilities:
+Responsible for managing the work of a team of a few individuals who design and
+implement machine learning models with an orientation to locating opportunities and
+delivering value
+Foster an environment of continuous learning among your team and community of data
+scientists
+Hire, train, retain and challenge best-in-class data science and analytics professionals.
+Communicate project requirements and modeling outcomes to technical and
+non-technical audiences.
+Socialize key initiatives with stakeholders
+Create and deliver presentations as required
+Lead projects ensuring quality, timeliness, and effectiveness of analysis and solutions
+Stay aware of emerging data science techniques, technologies, and applications.
+Responsible for assuring a high level of technical skills and knowledge within the team
+for the following: knowledge of ML/AI toolkits and associated programming (such as
+Python etc.), use of ML AWS tools (such as Sagemaker, etc.)
+Liaise with Digital Technology and ML Engineering teams to partner on technology
+solutions as applicable
+Required:
+Bachelor’s degree in Engineering, Computer Science, Data Science, or a related field
+9+ years of relevant experience
+7+ years in Data Science/Machine Learning roles
+Must be legally authorized to work in the United States for any employer without
+sponsorship
+Successful completion of interview required to meet job qualification
+Reliable, punctual attendance is an essential function of the position
+Preferred:
+Master's degree
+A graduate degree in Computer Science, Data Science, or a related analytical discipline
+is strongly preferred
+5+ years of experience with an advanced degree (M.S., Ph.D., or equivalent)
+At least one year in a supervisory role is strongly
+Job Types: Full-time, Contract
+Pay: $75.00 - $90.00 per hour
+Schedule:
+8 hour shift
+Ability to commute/relocate:
+Chicago, IL 60603: Reliably commute or planning to relocate before starting work (Required)
+Experience:
+relevant: 9 years (Required)
+Data Science Machine Learning: 7 years (Required)
+advanced degree: 5 years (Required)
+supervisory role: 1 year (Required)
+Work Location: One location

@@ -1,0 +1,64 @@
+This is a San Francisco based position that is currently remote and will have a hybrid schedule once we return to office. We are open to candidates willing to relocate to the San Francisco Bay Area.
+
+ABOUT GELI
+Geli (Growing Energy Labs, Inc.) provides software and business solutions to design, connect, and operate energy storage systems ranging in size from residential to utility-scale, as well as grid-tied, microgrid, and off-grid systems. Geli’s suite of products creates an ecosystem where project developers, OEMs, financiers, and project operators can deploy advanced energy projects using a seamless hardware-agnostic software platform.
+
+Geli is a subsidiary of Hanwha Q CELLS, one of the world’s largest photovoltaic manufacturers most recognized for its high-performance, high-quality solar cells and modules.
+
+OUR VISION
+Geli is committed to helping make the planet a cleaner, better place to live, both with our software products and through our everyday actions.
+
+Imagine a world where there is less reliance on non-renewable power, where you source your electricity from your neighbors rather than from power stations hundreds of miles away and software makes the best possible use of the solar, wind, and battery storage available. This is our vision.
+
+We are looking for enthusiastic colleagues that are not only fluent in technology, but also share our vision of a world running on 100% renewable energy.
+
+ABOUT THIS JOB
+As Director/Senior Director of Data Science, you will be responsible for managing our Data Science team, which currently includes Optimization, Forecasting, Machine Learning, Machine Learning Ops, and Data Engineering.
+
+This is a high-visibility, high-impact position in a fast-growing team with an opportunity to contribute to overall business strategy and product vision.
+PRIMARY RESPONSIBILITIES
+You will help the team build state of the art, production quality software that solves key business problems, while working with other Software (Cloud, IoT), DevOps, Hardware, Product management and System test teams.
+You will grow and lead a globally distributed team of 30+ people (US, AUS, Seoul, UK, India)
+You will serve, inspire, and empower the team while eliminating roadblocks to help them contribute and realize their full potential.
+You will be responsible for the vision, roadmap, and execution of the Data Science team charter.
+Determine and prioritize the team’s work based on business needs.
+Support career paths, mentorship, and growth for team members.
+Provide technical requirements for key data infrastructure decisions.
+Collaborate with other leaders and executives to build data-informed business strategy and product roadmaps.
+Excel at the intersection of leadership, business outcomes, data science and software engineering.
+Required Qualifications
+PhD or M.S. in science or engineering, math, statistics or equivalent combined education and work experience is preferred.
+10+ years of technical experience in a data science role or equivalent
+5+ years management experience building and leading data science teams. Note: Strong technical & people leadership skills are a must.
+5+ years’ experience working with production software
+Proficient at executing cross-functional projects and coordinating with leadership across multiple teams
+Ability to translate complex business problems into achievable and actionable analytic projects
+A willingness to collaborate and communicate with the broader team to drive cross-team and cross-organization initiatives forward
+A high sense of urgency and commitment
+Experience in Energy domain – Solar, Wind, Energy Storage, Smart Grid, Energy Markets
+Preferred Qualifications
+Deep understanding and experience with time series forecasting, ML techniques (e.g. ARIMA, tree-based models, neural network), and tools (e.g. TensorFlow, PyTorch, Scikit-Learn, Keras).
+Experience with load, solar, price forecasting and energy market.
+Experience with optimization techniques (deterministic, stochastic) and optimization packages (Pyomo, Cvxpy, Gurobi, Express, Cplex)
+Experience with applying statistical modeling, ML, optimization techniques to the data in power and energy domain
+Experience in ML Ops: container orchestration, code isolation, data versioning, and graph-based computation.
+Experience with various cloud technologies (AWS, Kubernetes, Docker, Microservices)
+Good understanding of software development and deployment processes (CI/CD, Agile, Source Control Management)
+Experience building complex, automated data processes in Python, SQL, AWS, Airflow, Snowflake, RPA, and other technologies
+BENEFITS OF WORKING AT GELI
+Competitive salary commensurate with experience
+Competitive benefits offerings
+Convenient accessible location in downtown San Francisco
+Flexible work-from-home-office opportunities, as determined by position and job duties
+
+WORK ENVIRONMENT
+Make a difference: join a group of people who are passionate about renewable energy
+Have an impact: the company is still small enough that everyone’s contribution has a significant impact to the success of the company
+Many opportunities to lead teams, projects, and contribute to development
+Casual professional working environment: there’s no need to dress up, just present your best self
+Work collaboratively in a diverse environment- we commit to reaching better decisions by respecting opinions and working through disagreements
+
+DIVERSITY
+We value the insights that a diverse team can bring. We encourage applications from members of groups that have been traditionally underrepresented in tech.
+
+Growing Energy Labs, Inc. provides equal employment opportunities (EEO) to all employees and applicants for employment without regard to race, color, religion, sex, national origin, age, disability, or genetics.

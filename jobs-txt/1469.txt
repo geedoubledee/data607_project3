@@ -1,0 +1,49 @@
+Position: Data Engineer
+Location: MN
+As a Data Engineer, you will treat data as an asset to design, build, and execute high performance and data centric solutions by using the comprehensive big data capabilities for the company's data platform environment. In this role, you will build and optimize data products to bring data and analytics products and solutions to businesses.
+In this role, you will make an impact in the following ways:
+Build and operationalize complex data solutions, correct problems, apply transformations, and recommend data cleansing/quality solutions
+Leading data collection efforts and performing trend analysis to identify common performance challenges that require further attention
+Partner closely with our data scientists to ensure the right data is made available in a timely manner to deliver compelling and insightful solutions
+Building out scalable data pipelines and choosing the right tools for the right job. Manage, optimize, and monitor data pipelines
+Incorporate core data management competencies including data governance, data security, and data quality
+To be successful in this role, you will need the following:
+Bachelors in a quantitative field
+4+ years of data engineering or equivalent experience
+Proficient use of tools, techniques, and manipulation including Cloud platforms, programming languages, and an understanding of software engineering practices
+Demonstrated knowledge of relational data sets, structures, and SQL
+Familiarity with big data platforms such as Apache Spark, Hadoop, Kafka, etc.
+Experience leading data organization, dashboarding, & visualization efforts
+Inquisitive, proactive, and interested in learning new tools and techniques
+Excellent communication skills
+Perks of working with us:
+Summer hours (Friday FLEX program): full time employees will be able to participate in our summer flex hours. Participating employees will enjoy a four-hour work day every other Friday (must still work 40 hours)
+PIP funds: The company is committed to the continuous improvement and career development of employees. The purpose of the plan is to outline the resources available to support each employee’s career goals and company’s business needs.
+Career pathing: we develop a career path that identifies opportunities for advancement based on your unique skills, interests, career objectives, and details the steps needed to take.
+A sense of belonging: We are committed to offering a diverse and inclusive workplace
+Virtual contests and giveaways plus team building activities
+Book Club
+Longevity Inc. prohibits discrimination and harassment and will take affirmative action to employ and advance in employment qualified individuals based on their status as protected veterans or individuals with disabilities, race, color, religion, sex, national origin, sexual orientation and gender identity.
+Our privacy notice is available at https://longevity.inc/employment-privacy-notice/
+Job Type: Full-time
+Pay: $90,000.00 - $110,000.00 per year
+Benefits:
+401(k) matching
+Dental insurance
+Flexible spending account
+Health insurance
+Health savings account
+Life insurance
+Paid time off
+Professional development assistance
+Referral program
+Vision insurance
+Schedule:
+Monday to Friday
+Supplemental pay types:
+Bonus pay
+Application Question(s):
+Will you now, or in the future, require sponsorship for employment visa status (e.g. H-1B visa status)?
+Experience:
+Data engineering: 1 year (Preferred)
+Work Location: Remote

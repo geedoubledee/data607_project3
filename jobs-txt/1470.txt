@@ -1,0 +1,32 @@
+Full Job Description
+The Network Administrator provides 2nd level end-user support and troubleshooting network infrastructure. This person is responsible for the day-to-day maintenance of the local area network hardware, as well as for Microsoft 365, e-mail, Azure ADDS and firewall administration. Programing is a must! Effecant at SQL, Linux, Debian and Arduino.
+This position work with the IT Manager on creating and document Security policies and procedures and the implementation of new technologies. They will play a role in coordinating upgrade initiatives, including assisting the IT Manger with facilitating activities such as upgrading systems with the latest versions of software, the rollout of new hardware, and training.
+The Network Administrator is responsible for the following: Establishes network specifications; analyzing workflow, access, information, and security requirements; router administration, including interface configuration and routing protocols. Evaluating network performance issues including availability, utilization, throughput, latency; planning and executing the selection, installation, configuration, and testing of equipment; defining network policies and procedures; establishing connections and firewalls. Responds in a timely fashion to end users’ needs and concerns relating to computer business applications and general systems issues. Provides 2nd line support for all software and hardware.
+High level of knowalge in Active Directory, Exchange, Azure, and 3rd party vendors. Manages technical resources working onsite, providing vendors with all the information needed to assist in supporting the end-users. Diagnoses and resolves technical problems prevent problem escalation and provides solution tracking.
+Secures network by developing network access, monitoring, control, and evaluation; maintaining documentation. Performs day-to-day maintenance of network servers (backups, administration, hardware maintenance). Maintains logs for software and firmware updates, service contracts, support contracts, and passwords. Monitor and update antivirus software, review and remove threats when detected, Trains, instructs, and educates groups and individuals in a team environment. Works with IT Manager in designing technical systems and architecture. Handles multiple project responsibilities simultaneously to prioritize work and resolve technical emergencies as they may occur. Protects the organization by keeping information confidential. Performs additional tasks as assigned by management
+ABOUT WKI KENWORTH
+Wichita Kenworth Inc. opened its doors in 1971 with a total of three employees. Since then, the facility has been expanded four times and four more locations have been added in Dodge City, Liberal, Emporia and Valley Center. The company has now grown to over 200 employees working in five locations. Our Kenworth franchise provides the Central United States with the highest quality products and services. You will find that our customer service is unmatched by any other dealership in the country
+Job Type: Full-time
+Pay: $50,000.00 - $70,000.00 per year
+Benefits:
+401(k)
+Dental insurance
+Health insurance
+Paid time off
+Vision insurance
+Schedule:
+8 hour shift
+Monday to Friday
+Weekend availability
+Ability to commute/relocate:
+Wichita, KS 67219: Reliably commute or planning to relocate before starting work (Required)
+Education:
+Associate (Preferred)
+Experience:
+Network administration: 5 years (Required)
+IT: 10 years (Preferred)
+License/Certification:
+Drivers License (Required)
+Security clearance:
+Confidential (Preferred)
+Work Location: One location

@@ -1,0 +1,38 @@
+IT Database Administrator - SQL Server - INF001823
+The IT Database Administrator position within UScellular’s IT Database Services team provides a unique opportunity for individuals who are talented, creative, excited with new technology, and ready to accept challenges. The position allows candidates with previous database administration experience the opportunity to dive deeper into advanced database technologies and obtain exposure to other infrastructure domains such as server, storage, network, and security. Individuals will have the opportunity to develop and experience future career growth opportunities in a Dynamic Organization supported by a team of seasoned DBA professionals.
+
+The IT Database Administrator would be responsible for building, monitoring, maintenance, and operational support of our portfolio of Oracle and SQL Server databases. This role would work with application and other infrastructure teams to deliver business and infrastructure projects. Tasks include implementation, administration, backup, security, software upgrades, and troubleshooting. The position is part of a team that manages business critical OLTP and multi-terabyte data warehouses utilizing the latest technologies in the industry such as MS SQL Server High Availability solutions, Oracle RAC, Golden Gate, Exadata, Kafka, Hadoop, and more.
+
+Location Note
+This role is a hybrid work arrangement with expectations that 1 day a month, meetings will occur in Chicago, IL, or any of the business offices within our operating footprint may be required.
+
+Essential Functions
+Under limited supervision:
+Build, support, and patch high performance database systems.
+Work with application and infrastructure teams on implementing customer-servicing application releases and infrastructure projects.
+Analyze database & system response time and determine tuning recommendations to improve performance.
+Effectively identify and resolve issues within scope of work following established resolution process.
+Participate in, and encourage a knowledge-sharing environment both within, and outside the department.
+Participate in on-call duties.
+
+Required Experience
+Bachelor's degree in Math, Computer Science, Information Technology, Electrical or Computer Engineering or related field or equivalent work experience (including military) required.
+Minimum 3 years’ experience of SQL Server, Transact-SQL, Always On Failover Clustering, Always On Availability Groups, and SQL Server Replication
+Minimum 1 year experience of Linux platform
+Strong problem-solving skills with the ability to quickly and efficiently pinpoint and resolve problematic system issues.
+Demonstration ability to learn new skills
+Excellent written and verbal communication skills.
+Willing to support mission critical infrastructure in a fast-paced environment.
+
+Preferred Experience / Nice to Have
+Working experience of Oracle
+
+Additional
+Salary range target is $70,000 to $113,751. Open to exceeding if needed.
+#LI-JP1
+
+Job
+: Information Technology
+Location(s)
+: Illinois-CHICAGO_IL Oklahoma-TULSA_OK, Wisconsin-MADISON_WI, Washington-RICHLAND_WA, Iowa-URBANDALE_IA, Tennessee-KNOXVILLE_TN, Washington-LONGVIEW_WA, Illinois-SCHAUMBURG_IL, Missouri-COLUMBIA_MO, North Carolina-GREENVILLE_NC, Iowa-MARION_IA, Oregon-MEDFORD_OR, Virginia-ROANOKE_VA, West Virginia-MORGANTOWN_WV, North Carolina-WILMINGTON_NC, New Hampshire-BEDFORD_NH, Wisconsin-BROOKFIELD_WI, Maine-SOUTH PORTLAND_ME
+U.S. Cellular® is an EEO employer and gives consideration to qualified applicants without regard to race/color/age/religion/sex/sexual orientation/gender identity/national origin/disability/veteran status, pregnancy or genetic information.

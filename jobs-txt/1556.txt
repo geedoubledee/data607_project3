@@ -1,0 +1,49 @@
+URBN Urban Outfitters, Inc. (www.urbn.com) is a portfolio of global consumer brands comprised of Anthropologie, BHLDN, Free People, FP Movement, Terrain, Urban Outfitters, Nuuly and Menus & Venues. Over the last 50 years, we have inspired our customers through our creative and entrepreneurial approach to products and services. At URBN, we Lead with Creativity…. Creativity guides our approach to product, environment, experience, and community. It drives our vision, strategy, and decision-making. It touches every job at URBN.
+Title
+
+Product Manager – Data Science
+
+Reports to
+
+Director of Data Science
+
+Supervises
+
+NA
+
+Overview
+
+The URBN Data Science organization is responsible for building, deploying, and maintaining Machine Learning systems to support the URBN brands. Our expertise spans project management, machine learning, software engineering, data engineering, and analytics. Unlike most Data Science organizations, our team is a full-service Machine Learning solution provider, taking projects from ideation and requirements through deployment of production services. We work closely with the Engineering teams on a wide range of projects including an in-house personalization system, demand forecasting, price optimization, and logistics optimization.
+The Data Science Product Manager is a critical role within the Data Science organization and is responsible for the strategy, roadmap and requirements for team. The role will focus initially on the team’s logistics and network optimization portfolio, but will grow with time.
+
+Responsibilities
+
+Serve as the main point of contact for data science. Develop strong relationships with business partners across engineering, logistics and the brand teams.
+Work with Data Scientists, Engineers, and other Product Managers to build a portfolio of novel data-driven solutions to support the URBN business.
+Manage priorities across the team, with an emphasis on providing visibility on priorities and decisions across the team.
+Work with the engineering, analytics, and reporting teams to identify sources of data to capture and utilize for Data Science use cases.
+
+
+Desired skills and experience
+
+2+ years of product management experience
+Experience managing complex stakeholder relationships, including engaging with users, customers, partners, and industry analysts
+Working familiarity with databases, data management, and modern API-based software architectures
+Working familiarity with modern ML development stack, open-source libraries, and hosted ML services (e.g. Tensorflow, PyTorch, NumPy, Airflow, KubeFlow, etc.)
+Familiarity with data science/machine learning algorithms (e.g. time series analysis, HMM, Deep Learning for classification, and NLP)
+Outstanding presentation skills with the ability to communicate business and technical topics and adjust to diverse audiences
+
+
+Education
+
+Bachelor’s Degree in Technology, Information Systems, Engineering, or a related field.
+
+Location
+
+Navy Yard, Philadelphia, PA
+
+Travel
+
+NA
+
+The above information has been designed to indicate the general nature and level of work performed by employees within this classification. It is not designed to contain or be interpreted as a comprehensive inventory of all duties, responsibilities and qualifications required of employees assigned to this job

@@ -1,0 +1,28 @@
+Machine Learning Engineer - Computer Vision
+The engineer in this role will join a multidisciplinary R&D team focused on researching, implementing, optimizing, and deploying machine learning and computer vision algorithms for customers in intelligence, defense, biomedical, and manufacturing domains. This engineer will have opportunities to develop discriminative and generative modeling solutions for complex computer vision problems, investigate techniques that will advance the state-of-the-art in multiple application areas, and build robust software that leverages these techniques.
+The successful candidate will actively participate in all stages of the model life cycle, from inception to deployment, for tasks that include, but are not limited to, object detection, anomaly detection, semantic segmentation, forecasting, and synthetic data generation. They will collaborate with other engineers and subject matter experts to perform exploratory data analysis, dataset preparation, model implementation, model training, model evaluation, and model deployment to edge devices, cloud services, and desktop applications.
+Requirements:
+Candidate must be a US Citizen and possess (or be eligible to obtain) and maintain a SECRET Clearance
+Master's in Engineering, Computer Science, Math/Statistics, Physics, or related STEM discipline (PhD degree is a plus)
+Strong programming skills in Python
+Knowledge of deep learning methods and applications:
+Fundamentals of neural networks: architectures, loss functions, optimization, evaluation
+Supervised learning: regression, classification, etc.
+Unsupervised learning: dimensionality reduction, generative modeling, clustering, etc.
+Familiarity with fundamental signal processing and/or computer vision techniques
+Experience with machine learning frameworks such as PyTorch or TensorFlow/Keras
+Practical experience training and evaluating Convolutional Neural Networks (CNNs), Recurrent Neural Networks (RNNs) and/or Transformer models
+Practical experience with versions control systems such as Git
+Candidates who meet most, but not all, requirements are still encouraged to apply!
+Desired qualifications:
+Experience deploying machine learning models to production environments
+Experience with data manipulation and visualization tools, such as pandas, scikit-learn, and plotly
+Experience with CUDA and/or OpenCL is a plus
+Experience with OpenGL and/or WebGL is a plus
+Experience working and collaborating in a research or development environment
+Comfortable working on shared Linux clusters and workstations
+About the Company:
+CFD Research is the technology leader in engineering simulations and innovative designs. Our services are used by many Fortune 500 and emerging high-tech companies, national laboratories, and universities worldwide. CFD Research develops cutting-edge technologies (software & hardware, designs and prototypes) with Federal agencies and provides the highest possible leverage to our industry partners.
+Benefits:
+CFD Research offers competitive salaries and excellent employee benefits, including an employer matching 401(k) and Employee Stock Ownership Plan (ESOP). CFD Research offers a highly competitive insurance package, including medical, vision, and dental insurance. We offer company paid long-term disability, accidental death and dismemberment, and life insurance. Performance appraisals occur each year and pay increases are based upon corporate goals, personal development, performance, and outstanding achievements. In addition, group and individual bonuses are awarded for exceptional performance.
+CFD Research is an Equal Opportunity Employer. Employment decisions are made without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, veteran status or other characteristics protected by law.

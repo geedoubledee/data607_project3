@@ -1,0 +1,32 @@
+Our Data and Analytics team for Disney Streaming Services (DSS), a segment under the Disney Media & Entertainment Distribution (DMED) is looking for a Data Engineering Manager to join our Content pillar. Data is essential for all our decision-making needs whether it’s related to product design, measuring content effectiveness, helping users discover new content or building new businesses in emerging markets.
+You will partner with business, analytics, and other engineering teams to design, build and maintain our growing Data Warehousing and Analytical reporting Environment for Disney’s Streaming Services (Disney+, Hulu, ESPN+, Star+, Hotstar). You will build easy to use data structures to facilitate reporting and monitoring key performance indicators. Collaborating across disciplines, you will identify internal/external data sources to design and implement table structure, data products, ETL strategy and scalable data pipelines.
+Responsibilities:
+Contribute to the design and growth of our Data Products and Data Warehouses around Content Performance and Content Engagement data
+Build a high quality Data Engineering team, setting standards for the team and coaching/mentoring team members to improve their designs and ETL processes
+Design and develop scalable data warehousing solutions, building ETL pipelines in Big Data environments (cloud, on-prem, hybrid)
+Help architect data solutions/frameworks and define data models for the underlying data warehouse and data marts
+Collaborate with Data Product Managers, Data Architects and Data Engineers to design, implement, and deliver successful data solutions
+Create and own the vision for Data and Data Warehousing team for the Content vertical
+Ensure high operational efficiency and quality of your solutions to meet SLAs and support commitment to our customers (Data Science, Data Analytics teams)
+Be an active participant and advocate of agile/scrum practice to ensure health and process improvements for the team
+Develop Data Quality checks for source and target data sets. Develop UAT plans and conduct QA
+Basic Qualifications:
+2+ Years in Direct people management capacity
+5+ years work experience in building data warehousing environments. Strong background of data modeling principles including Dimensional modeling, data normalization principles etc.
+5 + years experience using analytic SQL, working with traditional relational databases and/or distributed systems such as Hadoop / Hive, BigQuery, Redshift.
+Additional Qualifications:
+Expertise with programming languages (e.g. Python, R, bash)
+Experience with workflow management tools (Airflow, Oozie, Azkaban, UC4)
+Project Management experience
+Nice to have experience with Hadoop (or similar) Ecosystem (MapReduce, Yarn, HDFS, Hive, Spark, Presto, Pig, HBase)
+Familiarity with data exploration / data visualization tools like Tableau, Chartio, etc.
+Ability to think strategically, analyze and interpret market and consumer information
+Strong communication skills – written and verbal presentations
+Excellent conceptual and analytical reasoning competencies
+Degree in an analytical field such as economics, mathematics, or computer science is desired
+Comfortable working in a fast-paced and highly collaborative environment
+Education:
+Bachelor’s or Master’s Degree in Computer Science, Information Systems or related field or equivalent Experience
+The hiring range for this remote position is $164,492 to $220,660 per year, which factors in various geographic regions. The base pay actually offered will take into account internal equity and also may vary depending on the candidate’s geographic region, job-related knowledge, skills, and experience among other factors. A bonus and/or long-term incentive units may be provided as part of the compensation package, in addition to the full range of medical, financial, and/or other benefits, dependent on the level and position offered.
+Additional Information
+DISNEYTECH

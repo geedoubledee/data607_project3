@@ -1,0 +1,27 @@
+What People Analytics & Insights contributes to Cardinal Health
+The People and Analytics Insights (PAI) team provides insights that drive outcomes. Our mission is to empower all leaders and HR stakeholders within Cardinal Health to make data-driven people strategy decisions quickly, easily, and with confidence.
+The Data & Analytics Function oversees the analytics life cycle in order to identify, analyze and present relevant insights that drive business decisions and anticipate opportunities to achieve a competitive advantage. This function manages analytic data platforms, the access, design and implementation of reporting/business intelligence solutions, and the application of advanced quantitative modeling.
+Job Summary
+As Manager of the People Data Science team, you are responsible for the strategic execution and management of the data product portfolio. You will drive consistency and scalability throughout team consulting engagements and projects, often leveraging RStudio Connect to deliver automated and interactive dashboards and applications. Alongside the team, you will help translate business needs into insights through advanced statistical solutions and models. You will also partner closely with the People Analytics Consulting team to support HR and the business to answer key questions related to people and talent strategy.
+Responsibilities
+Engage with HR and business stakeholders to ensure the design, build, and delivery of insights are aligned with overall HR and team strategic direction
+Manage a team of data science professionals, developing both consulting and technical (analytical) competencies
+Emphasize a continuous improvement mindset to balance scalability and innovation within the data product portfolio, data workflows and processes
+Ability to clearly communicate complex data and insights to a variety of audiences and develop actionable recommendations
+Maintain best practices in data science and data management across the analytics life cycle, aligning PAI and other Cardinal Health analytics team
+Qualifications
+Bachelor’s degree in Computer Science, Data Science, related field or equivalent work experience, preferred
+8+ years of experience in related field preferred
+Experience with statistical programming languages required (e.g., Python, R)
+Experience with Python packages used for data science and building models preferred
+Experience in data collection and ETL processing with SQL preferred
+Previous HR or People Analytics experience strongly preferred
+Management experience preferred
+What is expected of you and others at this level
+Manages department operations and supervises professional employees, front line supervisors and/or business support staff.
+Participates in the development of policies and procedures to achieve specific goals. Ensures employees operate within guidelines.
+Decisions have a short term impact on work processes, outcomes and customers.
+Interacts with subordinates, peers, customers, and suppliers at various management levels; may interact with senior management
+Interactions normally involve resolution of issues related to operations and/or projects
+Gains consensus from various parties involved
+Cardinal Health is an Equal Opportunity/Affirmative Action employer. All qualified applicants will receive consideration for employment without regard to race, religion, color, national origin, ancestry, age, physical or mental disability, sex, sexual orientation, gender identity/expression, pregnancy, veteran status, marital status, creed, status with regard to public assistance, genetic status or any other status protected by federal, state or local law.

@@ -1,0 +1,29 @@
+Nexis Solutions is seeking a Data Scientist who will focus on search and content, who will be dedicated to the creation of next-generation search relevance techniques and strategies for LexisNexis, dramatically improving how our users search and find the answers to their research questions. The Data Scientist will be versatile, a team player, as well enthusiastic to tackle new problems as we continue to push technology forward.
+ACCOUNTABILITIES
+Solve some of the most challenging problems in natural language processing, machine learning, and information retrieval including topical classification, sentiment analysis, user intent detection.
+Research, build, and deploy models based on both shallow and deep machine learning. Train robust NLP-based models a very large corpus of news and financial data.
+Apply machine learning techniques for improving search algorithms.
+Drive best practices for NLP/Machine Learning pipelines.
+Maintain current knowledge base of state-of-the-art ML algorithms (BERT, ELMo, GPT, etc.), API's, and open-source methods and be able to quickly evaluate alternatives.
+Translate complex business requirements into actionable stories with reasonable time estimates.
+Work with product leaders to apply data science solutions.
+
+DATA SCIENCE AND NLP SKILLS
+In-depth understanding of machine learning techniques such as classification, clustering, recommendation systems, and statistical models.
+3+ years’ experience using Machine Learning and associated packages like scikit-learn, pandas, Numpy.
+Proficiency training large scale models in at least one modern deep learning engine such as Tensorflow, Keras, PyTorch/Torch, MXNet, Caffe/Caffe2
+3+ years’ experience using NLP tools and methods such as OpenNLP, Stanford NLP, LDA, Gensim, spaCy
+
+PROGRAMMING SKILLS
+3+ years recent coding experience using Python AND/OR (Java OR Scala)
+SQL programming experience
+
+CLOUD SKILLS
+Familiarity with Cloud-based Machine Learning environments
+
+#LI
+#IND
+
+LexisNexis, a division of RELX Group, is an equal opportunity employer: qualified applicants are considered for and treated during employment without regard to race, color, creed, religion, sex, national origin, citizenship status, disability status, protected veteran status, age, marital status, sexual orientation, gender identity, genetic information, or any other characteristic protected by law. If a qualified individual with a disability or disabled veteran needs a reasonable accommodation to use or access our online system, that individual should please contact accommodations@relx.com or if you are based in the US you may also contact us on 1.855.833.5120.
+Please read our
+Candidate Privacy Policy

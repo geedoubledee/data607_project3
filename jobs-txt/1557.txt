@@ -1,0 +1,68 @@
+Req ID
+FY23|S&M|#4371
+Location(s)
+Atlanta, Georgia, USA; Austin, Texas, USA; Boise, Idaho, USA; Boston, Massachusetts, USA; Chandler, Arizona, USA; Copper Canyon, Texas, USA; Dallas, Texas, USA; Houston, Texas, USA; Irvine, California, USA; Los Angeles, California, USA; New York City, New York, USA; Ogden, Utah, USA; Orlando, Florida, USA; Phoenix, Arizona, USA; Portland, Oregon, USA; Provo, Utah, USA; Renton, Washington, USA; Sacramento, California, USA; Salt Lake City, Utah, USA; San Bernardino, California, USA; San Diego, California, USA; San Francisco, California, USA; San Jose, California, USA; Santa Rosa, California, USA; Seattle, Washington, USA; Sunnyvale, California, USA; Vancouver, Washington, USA; Washington, District of Columbia, USA;
+Work arrangement(s)
+Fully Remote (works exclusively from home)
+Your opportunity
+Data is central to measuring all aspects of our business and critical to our operations and growth at New Relic. As such, we are looking to deepen our capabilities and are investing in growing our Enterprise Analytics team. Join New Relic as a Senior Manager of Analytics and work with a cross-functional group of collaborators to drive key data projects as we scale out capabilities.
+At New Relic, we work with a modern data technology stack to deliver end-to-end solutions that have a business impact. As a motivated self-starter, you will be able to work in a fast-paced and ambiguous environment, build out key metric and productivity hypotheses, determine key requirements for data extraction, and deliver useful insights through data visualizations.
+You will succeed by having an eye on the big picture and by being able to challenge the status quo to ensure that data sets and visualizations can scale as products continue to evolve over time. Ask hard questions both internally within our Data & Analytics organization and with your customers across the organization to ensure investment of time and resources is warranted.
+This role will be the first in a newly formed team tasked with performing strategic projects that span across our current portfolio. It will play a significant role in the success of the team by crafting data products and structures that allow us to continue scaling the team's growth. The position will start out as an individual contributor role but has the opportunity to take on management responsibilities in the midterm (~1 year).
+The opportunity to work from a remote office may be available depending on applicant's location.
+
+What you'll do
+Deliver key data and analytical projects for New Relic
+
+Some potential examples include: Building a Customer Master Dataset for Account Growth Analysis, Defining process and priority for key data tool access, Leading training programs for new tools and capabilities, Onboarding and leading specialty consulting resources, Deep diving into a key pattern in marketing to understand a change in metrics, etc.
+
+Partner with Analytics leadership to define strategy and organizational goals
+
+Drive prioritization of key projects and priorities with the Data Engineering organization
+
+Lead investigative analysis on an ad-hoc basis
+
+This role requires
+8+ years of related experience
+
+Excellent communication and influencing skills
+
+Substantial Project Management experience delivering high visibility cross-functional projects in the data space
+
+Ability to tie business outcomes to metric goals
+
+Experience using data to story tell and build a strategy with executive team members
+
+5+ years with advanced analytics techniques (SQL, Dashboards, Data Modeling)
+
+Deep experience collaborating with Data Engineering organizations to build analytical data models
+
+Bonus points if you have
+Python or R for Data Science/Engineering
+
+2+ years leading analysts in a growth software company
+
+Consulting Experience
+
+We're looking for bold and passionate people to be a part of our mission to help every engineer do their best work, every day, using data, not opinions, at every stage of the software lifecycle. We'd love to have you apply, even if you don't feel you meet every single requirement. What's most important to us is finding authentic and accountable people who feel connected to our mission and values, not just candidates who check off all the boxes.
+We believe in empowering all Relics to achieve professional and business success through a workforce model called Flex First. The Flex First model allows us to work in a variety of workplaces that best support our success, including fully office-based, fully remote, or a combination of both.
+Read more about Flex First and New Relic’s vaccine policy as part of our commitment to maintaining a safe and healthy workplace in light of the COVID-19 pandemic at www.newrelic.com/blog/how-to-relic/future-of-work
+Our hiring process
+
+Please note that visa sponsorship is not available for this position.
+In compliance with applicable law, all persons hired will be required to verify identity and eligibility to work and to complete employment eligibility verification. Note: Our stewardship of the data of thousands of customers’ means that a criminal background check is required to join New Relic.
+
+We will consider qualified applicants with arrest and conviction records based on individual circumstances and in accordance with applicable law including, but not limited to, the San Francisco Fair Chance Ordinance https://sfgov.org/olse/sites/default/files/FCO%20poster2020.pdf
+
+Headhunters and recruitment agencies may not submit resumes/CVs through this website or directly to managers. New Relic does not accept unsolicited headhunter and agency resumes, and will not pay fees to any third-party agency or company that does not have a signed agreement with New Relic.
+
+New Relic is an equal opportunity employer. We eagerly seek applicants of diverse background and hire without regard to race, color, gender identity, religion, national origin, ancestry, citizenship, physical abilities (or disability), age, sexual orientation, veteran status, or any other characteristic protected by law.
+
+Estimated Base Pay Range: $ 150,000 - $ 188,000 (for Colorado and New York City based roles only)
+Consistent with New Relic's values and applicable law, we provide the following information to promote pay transparency and equity. The base pay range above represents a good faith estimate of the low and high end base pay range for the listed position if based in Colorado or New York City. This role may be eligible for the corporate bonus plan (or, if a sales role, a commission plan as defined in the sales incentive plan document), participation in our stock equity plan, short- and long-term incentives, and other department-specific awards that may be applicable. In addition, New Relic provides a variety of benefits to employees. Please note that this information is provided for those hired in Colorado or New York City only, and this role is open to candidates outside of Colorado and New York City with compensation that aligns with your location. The range provided may also represent candidate ranges and may not reflect the full range or geographic differential for an individual tenured employee.
+Wage - midpoint
+188,000
+Wage - minimum
+150,000
+#LI-LW1 #LI-Remote
+This field has no functionality and it was added so that we could display the separator above

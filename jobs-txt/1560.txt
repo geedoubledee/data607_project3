@@ -1,0 +1,46 @@
+Company Description
+
+Privia Health™ is a national physician platform transforming the healthcare delivery experience. We provide tailored solutions for physicians and providers, creating value and securing their future. Through high-performance physician groups, accountable care organizations, and population health management programs, Privia works in partnership with health plans, health systems, and employers to better align reimbursements to quality and outcomes.
+
+Job Description
+
+The Business Intelligence (BI) Engineer is a key contributor to Privia’s Business Analytics team in developing reporting solutions in our MicroStrategy BI platform. Areas of focus include report/dashboard development and architecture. This position interfaces with Privia’s IT/Product Engineering team on data layer interdependencies in addition to the duties listed below.
+
+Primary Job Duties:
+Development of the MicroStrategy analytics and reporting solutions approach around Dossiers, Data Exploration, Dashboards and Reporting
+Development of Semantic Data model including designing attributes, metrics, and hierarchies over Privia’s production EDW
+Install, configure, deploy, automate, monitor, and optimize the performance of a MicroStrategy 2020 application on a Windows platform
+Integral part of internal scrum team working to deliver commitments on time and with good quality
+Conduct internal functional and data reviews
+Troubleshoot and trace data quality issues, and communicate clearly to all stakeholders
+Collaborate with stakeholders to create ad-hoc reports and provide on-going analytical support
+Follow best practices for object development, object maintenance, acceptance testing, and production deployments for all development efforts
+Develop and maintain existing automated mechanisms for critical processes using tools such as System Manager Workflow or Python
+Manage and maintain Roles, Groups, Folders, Projects, etc.
+Assist in executing MicroStrategy platform upgrades including major and minor patch releases as requested
+
+Qualifications
+
+Bachelor’s in IT or quantitative field preferred
+MicroStrategy 2020 experience
+At least 3 years of hands on reporting and dashboarding using MicroStrategy platform, in a Windows Server environment
+At least one year of hands on project architecture, schema design, or administration including installation, configuration, and performance tuning
+Experience with Integrity Manager, Command Manager, Object Manager, and Security Administration
+Experience using relational DBMS, such as SQL Server, and Google Cloud Platform
+Proficient in writing and understanding SQL
+Strong analytics and problem-solving skills
+Consistently produces clear, concise status reports
+Ability to handle multiple concurrent projects and tasks
+Experience in healthcare is preferred
+Must comply with all HIPAA Rules and Regulations
+Interpersonal Skills & Attributes:
+Proactive and professional client service skills as well as a positive and flexible attitude to work with internal business stakeholders
+Communicates clearly and effectively to build confidence and trust with business stakeholders, management and peers (internal and external)
+Ability to prioritize tasks and work independently and with a team in a fast-paced and high volume environment with emphasis on accuracy and timeliness
+
+Additional Information
+
+All your information will be kept confidential according to EEO guidelines.
+
+Technical Requirements (for remote workers):
+In order to successfully work remotely, supporting our patients and providers, we require a minimum of 5 MBPS for Download Speed and 3 MBPS for the Upload Speed. This should be acquired prior to the start of your employment. The best measure of your internet speed is to use online speed tests like https://www.speedtest.net/. This gives you an update as to how fast data transfer is with your internet connection and if it meets the minimum speed requirements. Work with your internet provider if you have questions about your connection. Employees who regularly work from home offices are eligible for expense reimbursement to offset this cost.

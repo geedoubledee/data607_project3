@@ -1,0 +1,99 @@
+DIRECTOR – DATA SCIENCE & ANALYTICS – DIGITAL AMERICAS
+
+At Birkenstock USA, LP, our business is a reflection of who we are. We have a passion for our products, an appreciation of their
+heritage and a genuine belief in their benefits. Our business is a reflection of what we represent - quality products that are comfortable,
+unique, timeless and respectful of the world around us. Our mission is to deliver happiness and satisfaction.
+In order to provide quality products and services, we need quality people. We are looking for talented people who share our values of
+accountability, responsiveness, excellence, teamwork, respect, integrity and a positive attitude.
+
+Job Title: Director, Data Science & Analytics, Digital Americas
+
+Position Location: NYC (SoHo)
+
+Reports To: Chief Digital / DTC Officer, Digital Americas
+
+Objectives
+The Director, Data Science & Analytics will champion the consumer experience across all online channels through data driven
+strategies. This leadership position requires a deep understanding of the role that Data Science can play in retail and ecommerce,
+applying advanced analytic data modeling and machine learning to all areas of the digital business to drive KPI optimization. This role
+will champion and lead extensive analysis of the online business, provide maintenance of brand web analytics tools and will serve as a
+team expert in digital analytics spanning Web, Mobile, Social, Email and Media to drive acquisition, retention and brand loyalty. In close
+collaboration with the local and global Digital teams, this role will help deliver a complete picture of performance and assist in the
+growth of ecommerce for Birkenstock Americas.
+
+Responsibilities
+Drive the creation and implementation of best practices for statistical data modeling, analysis, and machine learning for the
+Digital Americas business.
+Build, maintain and optimize all reports and dashboards, driving visibility and accountability.
+Manage and work on web analytics audits and measurement frameworks to ensure all KPI's are tracking appropriately and align
+with business objectives.
+Advocate, evangelize and implement modern data science practices.
+Report on, analyze and distribute website metrics to the organization; providing actionable insights for the optimization of the
+business.
+Ad hoc reporting as requested or needed by the business.
+Ensure proper tagging is done for all site updates on site to ensure proper monitoring and measuring of KPI’s can be done.
+Collaborate with Global teams to understand and assess opportunities to enhance the overall data architecture.
+Partner with the Digital Americas channel teams to optimize and implement new features for data collection, and provide data-
+driven direction that is actionable.
+Be the advocate for web analysis and data-driven decision-making, including AB/multi-variate testing and analysis.
+Develop and maintain analytical support strategies, forecasting and modeling to grow revenue targets.
+Develop algorithms and predictive models to support key initiatives such as predictive churn, price elasticity, predictive LTV.
+Compile and share relevant industry news, including emerging trends in analytics techniques and predictive modeling.
+Analyzing digital marketing performance based on customer and product segmentation and developing segmentation
+approaches for customers and prospects.
+Manage and Mentor the Manager, Analytics & Data Science.
+
+
+Interfaces/Relationships
+Close alignment with the Americas business stakeholders including Marketing, Product Planning, IT and Operations.
+Collaboration BSD HQ CRM & Analytic teams from a support perspective.
+Internal interface to business stakeholders (Marketing, Operations, Content, Category Management).
+
+Competencies
+High degree of customer focus.
+High online affinity, understanding of digital environment and analytic tools.
+Comfortable in and adaptable to rapidly changing conditions.
+Strong analytical and problem solving skills.
+Strong communication and interpersonal skills.
+Ability to manage and prioritize multiple tasks simultaneously.
+Highly organized, detail oriented and accurate.
+
+Qualifications
+Education
+o Bachelor’s Degree
+o Master's Degree in Statistics, Mathematics, Economics, or other quantitative field
+Work experience
+o 10-15 years in e-Commerce and/or Digital Marketing Data Science and Analytics
+Preferably, in Predictive Modeling, Machine Learning, and/or Marketing Analytics
+o Strong technical and analytical skillset, proficient in SQL, R, Python, and/or SAS
+o Demonstrated critical thinking
+o Strong analytical capabilities
+o Proven mastery of analytics tool (GA, Omniture, etc.) required
+o Understanding of web KPI's, online financials, ROI & profitability
+o Excellent verbal and written communication skills; with ability to provide both deep dive and executive reporting that
+reflects clear data and actionable insights
+o Team-player; ability to work with all digital team members in a proactive manner and drive results
+o Adapts easily to changing situations and demonstrates flexibility in juggling priorities
+o Ability to provide and articulate Google analytics tracking and implementation requirements
+Language Skills
+o English
+o Proficiency in German is a desirable, but not required
+IT Expertise
+o Expertise with Google Analytics, AB Testing platforms, Optimizely, SFCC/SFMC and social analytics/reporting
+o General affinity towards web technology and IT process
+o Experience with data warehouses and architecture familiarity
+
+Personal Skills
+Analytical, structured and conceptual approach
+High degree of responsibility
+Resilient, flexible, decisive
+Exceptional communication and presentation skills with the ability to persuade an audience
+Comfortable and adaptable to rapidly changing situations
+Strong understanding for customer needs
+
+Working Conditions
+Involvement with local and global teams with diverse cultures
+Ability to travel as needed
+If interested, please send cover letter and resume to mhoessl@birkenstockusa.com. Subject line should list “Director, Data Science &
+Analytics, Digital Americas”.
+BIRKENSTOCK USA, LP IS AN EQUAL OPPORTUNITY EMPLOYER.

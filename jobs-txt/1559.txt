@@ -1,0 +1,30 @@
+We have multiple job openings Nationwide
+Approach and Scope:
+The Business Analyst will define business requirements through elicitation and research of business processes, operations and survey. Additionally, this candidate will develop/own requirements and system and technical specifications documentation for client engagements. Essentially this person is to become the subject matter expert on application, process or system to support development and testing efforts as he or she ensures issues are identified, tracked, reported on and resolved in a timely manner. Overall, this person will work with project team to constantly identify changes and updates project deliverables.
+Work to be Performed:
+Facilitate, elicit and document business requirements for business process, reports, and business tasks needed for enhancements to existing systems as well as new ones that maybe initiated by business customers. Obtain signoff/approval from business and IT owners and sponsors.
+Translate and document the business requirements into functional specifications for developers.
+Provide requirement traceability matrix.
+Maintain requirement documents and test cases, capturing changes and new requirements to insure traceability and completeness overtime.
+Develop and document test cases and test plans for business and technical requirements.
+Perform testing.
+Determine proper set of tests to conduct for minor vs. major releases and organize Test documents accordingly.
+Maintain defect tracking database; enter new defects as they are reported and close them after fixes are verified; and add updates as needed to document test results.
+Provide meeting minutes for project team meetings to document decisions made, action items to be completed, next steps, etc.
+Provide evaluation approaches for solutions that are available from software vendors and facilitate the review and analysis of vendor software systems.
+When needed, provide analysis of existing application software to document data relationships and functionality that needs to be captured by replacement software.
+Perform research in the market place to develop Requests for Information and/or Requests for Proposal. Provide analysis of responses to RFI and RFP requests.
+Provide evaluation approaches for solutions that are available from software vendors and facilitate the review and analysis of vendor software systems
+Demonstrated ability to move data between production systems and across multiple platforms
+Experience with major querying tools desired
+Coordinating others work while involved with multiple work streams
+Strong written and oral communication
+Job Type: Full-time
+Pay: $26.00 - $32.00 per hour
+Benefits:
+Health insurance
+Schedule:
+8 hour shift
+Experience:
+SQL: 1 year (Preferred)
+Work Location: On the road

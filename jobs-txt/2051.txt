@@ -1,0 +1,40 @@
+Genmab is focused on the creation and development of innovative and differentiated antibody products, with the aim of improving the lives of cancer patients.
+The Director, Data and Analytics is responsible for our data management capabilities and operations, and is a key member of the Global Digital Solutions & Analytics LT. In this role, you will develop data structures and associated processes to enable our clinical, lab, commercial and data science teams to support our research, clinical and commercial efforts. You will build and manage a global team of internal staff and contractors while establishing an agile and DevOps approach.
+
+This position reports into the Global Head of Digital Solutions &Analytics within IT & Digital at Genmab. The position is a global team lead position and can be located at Princeton, NJ or Copenhagen, DK with up to 10-25% travel, OR be fully remote with up to 35-45% travel.
+Responsibilities
+Provide leadership, and a hands-on approach to meet growing demand, and manage an international team, as well as contract staff and managed service providers.
+Apply agile product management and DevOps procedures throughout the department to enhance internal working practices and improve speed to market.
+Maintain communications with relevant stakeholders to identify areas for upgrades and improvements.
+Support the Genmab organization with necessary training for data and analytics solutions.
+Ensure adherence to GxP regulations and other relevant industry standards.
+Maintain up-to-date knowledge of relevant data and analytics application developments within the life scientific industry that may be of interest and beneficial to Genmab.
+Partner with the business to ensure we are fully exploiting the value of enterprise information assets, leveraging a FAIR model, ensuring proper data ownership, and maximizing the use of our analytics capabilities to render insights for decision making.
+Drive automation of the processing of data and repetitive activities to reduce cost and ensure quality
+Develop strategies and drive business alignment to ensure consistent application and use of analytics tools throughout the enterprise.
+Oversee the development and deployment of the enterprise’s data and analytics platforms, especially in support of cloud data architectures, SaaS based analytics tools which provide scale and reduced levels of infrastructure support.
+In partnership with the business, increase data literacy and data capabilities across the enterprise members of the global IT & Digital team.
+Identify new data architecture, archiving, and analytics capabilities to improve data capabilities at Genmab over time.
+Define services for importing and exporting data to ensure quality, traceability, timeliness, usability and cost-effectiveness.
+Ensure processes are properly supported including SDLC, change management and updates to CMDB.
+Requirements
+A scientific/technical degree level qualification (e.g. Engineering, Computer Science, etc.) – preferred. Years of experience and technical certifications could be leveraged in lieu of a colleague degree.
+Over 2 years’ experience managing data and analytics team with a life science focused organization.
+Over 8 years’ experience architecting and configuring data structures, processing and reporting solutions.
+Technical depth in database architectures, cloud, ELT processing, and analytics tools.
+Proven experience of agile product management and/or DevOps.
+Experience with GxP regulations.
+Able to provide a Player-Coach approach to management, providing leadership while being hands-on technical leader.
+Excellent interpersonal communication skills, strong personal integrity, teamwork abilities, and a customer focus.
+A desire for continuous learning with a coaching mindset.
+Must have excellent spoken and written communication skills.
+Genmab employees work with determination and with respect for each other, consistent with our core values, to achieve our common goals. We give individuals and teams the autonomy to drive development of innovative products and solutions, knowing that integrity is a core value throughout our company. Genmab will offer the successful application a challenging position, where the right candidate will have the opportunity to work with highly specialized people across functions in an informal, multicultural culture, all aiming to make a difference for cancer patients.
+Teamwork and respect are central pillars of Genmab’s culture and we therefore ensure an inclusive, open, and supportive professional work environment across our international locations. We believe that fostering workplace diversity across social, educational, cultural, national, age and gender lines is a prerequisite for the continued success of the company. We are committed to diversity at all levels of the company and strive to recruit employees with the right skills and competences, regardless of gender, age, ethnicity, etc.
+
+Genmab will offer the successful application a challenging position, where the right candidate will have the opportunity to work with highly specialised people across functions in an informal, multicultural environment, with an aim to make a difference in the lives of people with cancer.
+At Genmab, we pride ourselves on our unique culture. We are committed to make a positive impact on the lives of cancer patients. We hypothesize and experiment to seek innovative solutions, no matter the employee’s role; we speak up, empower each other, and embrace change and growth; we respect and celebrate our differences while working as one team. Teamwork and respect are central pillars of Genmab’s culture and we therefore ensure an inclusive, open, and supportive professional work environment across our international locations. Genmab employees work with determination, challenge the status quo and cultivate a growth mindset in everything we do.
+We are committed to fostering workplace diversity at all levels of the company and we believe it is essential for our continued success. No applicant shall be discriminated against or treated unfairly because of their race, color, religion, sex (including pregnancy, gender identity, and sexual orientation), national origin, age, disability or genetic information.
+Genmab US, Inc. is committed to protecting your personal data and privacy. Please see our privacy policy for handling your data in connection with your application on our website:
+https://www.genmab.com/privacy/us-applicants-privacy-notice/
+Scam alert
+Please be alerted that at the moment a recruitment scam involving Genmab is circulating. The scam involves recruiters on LinkedIn and elsewhere, pretending to be Genmab employees, headhunting candidates, asking for CVs and other personal information. The scam can include asking for payment for interviews or interview preparation. This communication is not coming from Genmab, we encourage people to stay alert and not to respond to these queries.

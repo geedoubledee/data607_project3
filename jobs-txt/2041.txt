@@ -1,0 +1,15 @@
+Job: Data Engineer
+Location: Bellevue, WA
+Exp Required: 5+ Years
+Remote
+Need Data Engineer with Strong SQL, Azure Data Factory (ADF), ADLS, ADB.
+Good to have – PySpark
+Job Type: Contract
+Salary: From $54.00 per hour
+Schedule:
+8 hour shift
+Experience:
+Informatica: 1 year (Required)
+SQL: 1 year (Required)
+Data warehouse: 1 year (Required)
+Work Location: Remote

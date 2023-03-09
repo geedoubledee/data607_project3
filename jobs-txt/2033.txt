@@ -1,0 +1,80 @@
+Data Manager Job Description
+Here at Digible we are building the future of Digital Marketing for the Multifamily industry. We are building a set of technologies, named Fiona, which helps marketers become more efficient at Digital Marketing through the use of cutting-edge technologies, programming, the cloud, and Artificial Intelligence.
+The Data Manager is an organizational leader with a passion for data and analysis who has a clear vision for how data can transform company strategy. The role requires hands-on leadership necessary to grow a team through the growth phase into the maturity phase.
+The Data Manager is responsible for scaling the data function in an environment based primarily on cloud-based systems. Additionally, Data Manager directs and oversees the design and development of systems used for managing data such as data warehouses, data stores, and other business intelligence systems.
+The manager must consider operations and be able to manage a remote, geographically dispersed team. The director ensures that the organization always approaches work with the goal of continuous improvement.
+What you'll do:
+Lead & manage a team of 3-4 people and 3 contractors
+Manage resources and the budget
+Have weekly 1:1s with direct reports to ensure, happiness performance, and career growth
+Manage operational and strategic aspects of data management, especially regarding product development and decision-making
+Handle data management to develop, implement, and complete projects
+Ensuring a high level of data quality based on regulatory standards
+Lead the data roadmaps
+Develop dashboards and metrics to show the status of data governance and quality
+Oversee the collection of information into the business data warehouse
+Build analytic solutions using various big data techniques and tools
+Document these technical solutions and the data architecture
+Provide guidance to direct reports and others in the company using best industry practices
+Identify & design opportunities to improve the efficiency of data integrations / ELT, and overall software surrounding the data
+Reduce the time to market as it relates to data-driven solutions
+Ensuring that developing and maintaining monitoring dashboards for data extraction job status, while communicating outages and having a high standard of SLA to resolve outages in a timely manner
+You'll love this job if you:
+Love working with data
+Enjoy writing Python scripts and deploying jobs that fetch data from APIs
+Relish in the idea of utilizing the latest cloud solutions in order to more quickly deliver solutions
+Delight in increasing data quality and reliability
+Find yourself automating everything possible
+Rejoice in watching your teammates learn, grow, and succeed
+Love taking charge of projects and owning their success
+Have a customer-first mentality
+Like understanding the needs of the business
+Have meticulous attention to detail and a commitment to accuracy
+Requirements
+Experience growing and leading a team of technical people
+Experience keeping track of metrics that help determine the success of a technical team
+Experience owning and managing technical tasks and a roadmap
+Experience delving through the buy vs build paradigm
+Experience working cross-departmentally to achieve company goals
+Experience using creative solutions to bring solutions to market quickly and efficiently
+Experience choosing when to acquire tech debt for the sake of speed, and when to tackle tech debt for the sake of lowering maintenance costs
+Experience building batch-processing and streaming data pipelines
+Experience building API endpoints that follow a standard such as Swagger/OpenAPI
+Experience with Cloud Providers. Examples: AWS, GCP, Azure, etc
+Experience with Cloud data tools. Examples: GCP DataFlow, AWS Glue, etc
+Experience working with data warehouses. Examples: GCP BigQuery, AWS RedShift, Snowflake, etc
+Experience working with databases. Examples: PostgreSQL, MySQL, MSSQL, etc
+Experience with the following technical skills: Python, SQL, RESTful APIs
+Experience building BI dashboards
+Experience working with scraping tools
+Pay, perks, and such:
+Research and Development Budget
+Training Budget
+Autonomy to run the department, expenses, and investments against the P&L
+4-Day Work Week (32-hour work week)
+3 work weeks paid time off (12 days)
+10 company-recognized holidays + 3 floating holidays
+Sick and bereavement policy
+Access to learning tools such as PluralSight, Coursera, etc
+Access to an Employee Development Program
+Company-paid social events
+Dog-Friendly Office
+Paid Parental Leave
+IP & Patent Program
+401k Match
+Medical, Dental, and Vision Benefits
+Salary Range: $110,000 - $140,000
+Company Info
+Privately owned and operated, Digible was founded in 2017 with a mission to bring sophisticated digital marketing solutions to the multifamily industry. We offer a comprehensive suite of digital services as well as a predictive analytics platform, Fiona, that is the first of its kind.
+Digible's Purpose
+To be a role model for employee culture and a catalyst for progressive change.
+Core Values
+Authenticity - The commitment to be steadfast and genuine with our actions and communication toward everyone we touch.
+Curiosity - The belief that a deep and fundamental curiosity (the "why") in our work is vital to company innovation and evolution.
+Focus - The collective will to remain completely devoted and ultimately accountable to our deliverables.
+Humility - The recognition and daily practice that "we" is always greater than "I".
+Happiness - The decision to prioritize passion and love for what we do above everything else.
+About
+At Digible, Inc. we love to celebrate our diverse group of hardworking employees – and it shows. We're proud to say that for 2021, we are ranked #1 Top Workplace in Colorado AND #1 Workplace for "Best New Ideas". We pride ourselves on our collaborative, transparent, and authentic culture. These values are pervasive throughout every step of a Digible employee's journey. Starting with our interviews and continuing through our weekly All Hands Transparency Round-up, values are at the heart of working at Digible.
+We offer a full slate of benefits, including competitive salaries, medical, dental, vision, life and disability coverages, flexible vacation, a 401(k) plan with match, parental leave, and professional coaching with BetterUp. We also offer some not-so-standard, extra-fun benefits, including our own DEX (Digible Employee eXperience) program that allows employees to use 20% of their workweek for charitable or other self-directed activities, learning and development budgets and let's not forget a dog-friendly office. :)
+We value diversity and believe forming teams in which everyone can be their authentic self is key to our success. We encourage people from underrepresented backgrounds and different industries to apply. Come join us and find out what the best work of your career could look like here at Digible.

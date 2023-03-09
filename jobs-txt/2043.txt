@@ -1,0 +1,44 @@
+As a leading financial technology platform, OppFi powers banks to bring credit access to millions of everyday consumers who are locked out of mainstream financial options. We go beyond our mission - to help people rebuild financial health - and go further to ensure we keep the customer at the center of everything we do. We are creating a Customer-obsessed culture, with the capital "C".
+And it starts with our team here. We are a team of caring, innovative, and inclusive individuals who thrive in being immersed in diverse talents, expertise, perspectives and backgrounds. Our employees approach every new challenge with an unparalleled ability to see what could be rather than settle for what is. We welcome individuals who want to make a difference in the financial system through creating and building simple, transparent products that facilitate credit access, enable savings, and build wealth.
+A few other fun facts about us. OppFi is an Inc. 5000 company for six straight years, a Deloitte's Technology Fast 500™, the seventh fastest-growing Chicagoland company by Crain's Chicago Business, and was named on Built In's 2022 Best Places to Work in Chicago.
+What you get to do:
+Data Engineers are important members of the Database team who work collaboratively to design database solutions to meet our reporting, analytics and data science needs. Our team supports architecture, design, ETL, and database administration tasks for both OLTP systems (PostgreSQL) and data warehouses (Snowflake).
+Reporting to the Director, Data, you will:
+Lead a team of 5-8 Database Engineers working on architecture, design, ETL, and database administration tasks
+Leverage Snowflake to make several layers of OppFi data available for reporting, Data Science and analytics
+Enforce corporate data security, development and privacy standards in the Snowflake and PostgreSQL environments
+Support and refine Business Intelligence and Data Warehouse environments at both a strategic/architectural level as well as an operational level
+Work with our Data Science team to better leverage Snowflake's Data Science-related features in their workflows
+Focus on the efficient usage of Snowflake across OppFi both in terms of ROI as well as performance
+Operate in close partnership with the Platform engineering team to develop PostgreSQL and Snowflake infrastructure
+Participate in a weekly on-call rotation about once every 2 months
+Participate in the hiring process for technology candidates within a well-defined process
+What you will bring to the team:
+8+ years of experience of hands-on data engineering and/or administration experience, preferably including both Snowflake and PostgreSQL databases
+At least 2 years of supervisory experience as a manager/lead of an engineering team
+Substantial hands-on SQL experience (required)
+A sense of customer service and empathy
+An ability to lead, motivate, and grow a team of incredible engineers
+An ability to communicate effectively with a wide range of people, from very technical engineers to senior corporate management about data-related issues
+Our Tech Stack:
+Airflow
+Snowflake
+AWS
+Datadog
+Terraform
+Harness
+Hevo
+PostgreSQL
+Jira
+Reports to: Director, Data / Staff Engineer, Data
+Job Level: Manager
+The minimum salary for this role is $165,000. The total compensation package includes eligibility for performance-based bonuses as well as a 1-time equity grant based on level.
+The actual offer, reflecting the total compensation package and benefits, will be at the company's sole discretion, and determined by a myriad of factors including, but not limited to, years of experience, depth of experience, and other relevant business considerations.
+
+Total Rewards and Benefits
+OppFi offers a flexible remote environment, 401(k) matching program, and flexible paid vacation. Other benefits include medical benefits, dental and vision coverage, and tuition reimbursement. To support your wellness & growth, we provide monthly meditation and yoga classes and access to all LinkedIn Learning courses. We also offer Fringe, which is a lifestyle benefits platform that lets you decide how you want to spend your rewards from dozens of vendors like Uber, Doordash, and Urban Sitter. Dress code is casual.
+
+EEOC Statement:
+OppFi is an equal opportunity employer and does not discriminate based on any actual or perceived legally recognized protected bases under local, state, or federal law or regulations. Our goal as a company is to build an equitable workplace that actively works to dismantle systems of oppression in our processes, procedures, and interactions. We aim to help our employees thrive where they work and beyond. Check out our Culture page here.
+OppFi is committed to the full inclusion of all qualified individuals. As part of this commitment, OppFi will ensure that persons with disabilities are provided reasonable accommodations. If reasonable accommodation is needed to participate in the job application or interview process, to perform essential job functions, and/or to receive other benefits and privileges of employment, please contact our People team at recruiting@oppfi.com.
+Pursuant to the requirements of the California Consumer Privacy Act, OppFi is providing the "OppFi California Employee Privacy Policy", which details the categories of personal information collected and your rights under the policy. If you are a California resident, please review the policy here: https://www.oppfi.com/careers/

@@ -1,0 +1,43 @@
+This is a hybrid role, with on-site time at our office in Columbia, MD.
+Intelligence Driven Innovation.
+
+Rekor Systems, Inc., (NASDAQ: REKR) is a trusted global authority in the development and implementation of intelligent infrastructure focused on addressing critical challenges across public safety, transportation management, and urban mobility markets. We believe that the intelligent infrastructure industry is at the epicenter of converging forces that will drive profound changes in the way government agencies, law enforcement and businesses operate and collaborate today and in the future. With our ‘Rekor One’ roadway intelligence engine as our foundation, we collect and transform raw data into actionable insights that gives governments and businesses a comprehensive picture of roadways, vehicles, pedestrians, traffic, incidents, while providing an intuitive environment that makes collaboration across teams and organizations easy. Rekor leverages computer vision, machine learning, and big data analytics to drive AI-enabled IoT solutions (‘AIoT’) on the edge of the network with unparalleled speed, accuracy, and agility. With our disruptive AI-powered technology, integrated hardware and software solutions, and state of the art machine learning models, we deliver actionable insights and transformative impact that increase roadway safety, efficiency, and sustainability for our customers and citizens, while enabling safer, smarter, greener, and more equitable cities and communities.
+Our employees represent the best and smartest top talent in our industry, and we select individuals to be a part of our team who help to define our culture and success. Rekor’s Values and Leadership Principals are: People First, Customer Success, Earn Trust, Deliver Impact and Think Big and Bold! Learn more by visiting www.rekor.ai.
+Position Summary
+Rekor processes tens of terabytes of data and billions of streaming events daily. These numbers are growing rapidly as we expand our business into new regions and new sources of data. We're looking for an experienced Database Administrator who cares deeply about their craft, and who wants to use their skills to bring about positive change in the world and help us mature into a high-performing global enterprise. This position is part of the newly formed Global Data and Analytics Organization, which is composed of a diverse and growing team of talented scientists, analysts and engineers that keep our data flowing from connected vehicles and AI-enabled Edge Cameras, and that serve up insights and predictions directly into our portfolio of customer-facing products.
+
+The Database Administrator is responsible for designing, building and maintaining Rekor’s databases, data warehouses and data lakes and is expected to design for scale, optimize database schemas and optimize query performance. The ideal candidate has specific experience in Cloud-based (AWS preferred) database/datawarehouse/data lake technologies and data schema design. As a team we delight in supporting and pushing each other to reach our collective potential while also exercising our shared obsession with empathy, excellence, candor and continuous improvement. At Rekor we deeply appreciate that diversity, empathy and trust are foundations for peak performance, and our team is focused on providing the environment people need to feel human and able to bring their authentic selves to bear in the service of our shared mission.
+
+The Contribution:
+Champion data culture and practices, enabling the team to build better, more reliable, automated and secure products faster.
+Work collaboratively across diverse teams in Product Management, Software, Hardware, DevOps, DataOps, Data Science and Data Governance to ensure that databases are capable of meeting solution requirements.
+Comfortable working in an Agile environment with a cross functional and globally distributed team including offshore teams with the ability to manage multiple projects and priorities.
+Contribute to an open, creative and collaborative culture where everyone feels accountable for shaping the future of the team and of Rekor.
+Collaboratively determine how best to manage database/data warehouse/data lake technologies under business, technical, compliance, privacy and ethical constraints.
+Establish and maintain data catalogue and master data.
+Monitor, measure, report and resolve data quality and performance issues.
+Manage data migrations between data storage and database systems and technologies.
+Establish end-user access control levels.
+Develop and document database policies, procedures and standards.
+Ability to conduct research into database issues, standards, and products as required.
+Ideal Profile:
+A highly energetic and customer focused individual who is knowledgeable about and/or interested in the transportation technology industry and business savvy to deliver state of the art cutting edge technology solutions for our customers. You’re looking for a progressive, entrepreneurial, fast paced, vibrant, flexible working environment where you can pursue your career interests and achieve your full potential. You bring to the organization the following competencies:
+BS in Computer Science, Engineering or equivalent technical field.
+Three (3+) years of experience as a Database Administrator.
+High proficiency in SQL, relational design, query, and execution path optimization.
+High proficiency in database normalization and various schema designs such as star-schema and snowflake schema.
+High proficiency in optimizing query performance.
+Experience working in cloud and serverless ecosystem and tools.
+Demonstrated experience in working with various database technologies, theories, principles, and practices.
+Proficient technical experience designing, building, installing, configuring, and supporting database servers.
+Experience in AWS platform, including NoSQL databases.
+Experience with data processing and workflow techniques
+Experience working with streaming data (Kafka, Kinesis) and big data (Spark) sources and workloads.
+Able to work independently yet part of cohesive collaborative team
+Excellent verbal, written, and presentation communication skills.
+Strong technical documentation skills.
+Proven analytical and problem-solving abilities.
+
+
+
+PI197513640

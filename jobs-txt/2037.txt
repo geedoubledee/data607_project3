@@ -1,0 +1,19 @@
+Job Purpose
+We are looking for individuals with a strong background in statistical modelling and financial engineering to join our quant research team at Intercontinental Exchange. We require candidates to have experience building, enhancing or supporting the pricing of fixed income securities. The role requires individuals to enhance and expand proprietary algorithms designed to bring transparency and standardization to the fixed income market. You will join a fast paced team of quants and data scientists tasked with evolving modeling techniques to improve precision and scale across millions of bonds. You will also be tasked with researching new techniques of utilizing AI & ML to help further improve precision and operational efficiency. The role will require individuals to work with significantly large data sets spanning decades of historical data.
+Responsibilities
+Learn, research, implement and maintain pricing models across fixed income asset classes
+Work closely with engineering and data science teams to procure, analyze and validate data sources
+Work closely with product support teams to validate methodologies
+Investigating Ad hoc issues and debugging pricing applications
+Knowledge and Experience
+An understanding of fixed income instruments, especially securitized products
+Strong communications skills
+Hands on experience utilizing C++, Shell Scripting, R, Python, SQL
+3+ years of experience doing quantitative analysis
+Masters or higher in Computer Science, Math, Physics, Engineering, or related quantitative field, PhD preferred
+Experience using AI & ML techniques to solve complex multi-dimensional problems preferred
+Schedule
+T his role offers work from home flexibility of up to 2 days per week .
+Base Salary Range for New York Candidates
+The expected base salary for this role is between $140,000 to $175,000 USD. The base salary range does not include Intercontinental Exchanges incentive compensation. While we provide this range as general guidance, at ICE we compensate employees based on the skillset and experience of the individual.
+Intercontinental Exchange, Inc. is an Equal Opportunity and Affirmative Action Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, sexual orientation, gender identity, national origin or ancestry, age, disability or veteran status, or other protected status.

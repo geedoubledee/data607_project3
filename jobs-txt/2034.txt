@@ -1,0 +1,21 @@
+We are looking for the BI Developer
+Location: Remote
+Duration: 12 Months
+Required Skills:
+3 or more years of experience in designing the end user interface using human centered design principles to improve data insights, design visualizations and help business make better, data-driven decisions
+In-depth understanding of how people use and interact with data.
+Experience with designing insightful dashboards, reports, mock ups and screen interactions
+Ability to understand the business needs and speak the business language to explain the data insights
+Expertise in Tableau, PowerBI, Java Script, Excel
+SQL, R, or Python programming experience
+Possess strong SQL and data analysis skills
+Experience working in an Agile team
+Job Type: Contract
+Pay: $60.00 - $65.00 per hour
+Schedule:
+8 hour shift
+Experience:
+Informatica: 1 year (Preferred)
+SQL: 1 year (Preferred)
+Data warehouse: 1 year (Preferred)
+Work Location: Remote

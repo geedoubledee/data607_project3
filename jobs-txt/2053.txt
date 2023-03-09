@@ -1,0 +1,31 @@
+Kx Advisors is a premier life sciences consulting firm serving clients within the Pharmaceutical, Medical Device, Diagnostics, and Digital Health / Health IT spaces. Our work leverages primary research, data analysis, and knowledge/learnings from previous engagements to support critical commercial decisions for Global 500 corporations in the healthcare sector through portfolio strategy, market and opportunity assessment, commercial due diligence, go-to-market strategies, competitive strategy, and product commercialization.
+Kx is looking for a strategically minded individual with experience in healthcare data (primarily US claims) to join our team and accelerate the growth of our capabilities. The individual would develop Kx’s healthcare data strategy, to support business development and delivery capabilities for our consulting teams. Reporting to firm senior leadership, the Data Analytics Manager will support with immediate business development discussions whilst developing the firm’s healthcare data strategy for the long term.
+Key Responsibilities
+Partner with senior leadership to drive the firm’s healthcare data capability:
+Identify opportunities where healthcare data can add value to Kx’s consulting work
+Build out Kx’s US claim data analysis capabilities
+Support with identifying, evaluating, and recommending the right data assets/vendors
+Clearly and effectively communicate the firm data & analytics capabilities to those that have a less technical background, leveraging appropriate presentation formats as necessary
+Serve as a firm-wide subject matter expert on Life Science data knowledge
+Lead healthcare data asset onboarding and integration into consulting work:
+Support business development discussions and onboarding of external data assets
+Upskill Kx consulting teams in use and analysis of healthcare data assets, including process management and training
+Collate, clean, and structure healthcare data for use in engagements (focused on the Pharma / Biotech and traditional Medical Device sectors)
+Creation and management of proprietary data solutions where opportunity arises
+Support engagements where advanced analytics are required:
+Support the design and creation of advanced models on engagements
+Serve as a subject matter expert that supports Kx consultants with data visualization, statistical analyses (e.g., advanced regression models), and machine learning techniques (e.g., cluster analysis)
+Qualifications:
+6+ years of experience in a relevant healthcare data related role e.g., senior data scientist/analyst, data product management etc.
+Master’s Degree in a related discipline, preferred
+Experience with large data manipulation using SQL, and SAS or R
+Experience in data visualization using SAS, R and/or Tableau
+Expertise in US claims databases, including awareness of available vendors and hands-on experience in analysis
+Awareness of the Pharmaceutical and/or Medical Device sectors and their use cases for healthcare data, particularly within a commercial setting
+Self-motivated with demonstrated experience independently standing up initiatives
+Comfort with efficient data acquisition and warehousing practices for structured and unstructured datasets
+Detail-oriented with the ability to dive deep into business process, data, and analytics
+Demonstrated leadership abilities
+Independent, creative, and driven quantitative thinker
+Strategy consulting experience, particularly for the healthcare industry, preferred
+n9f9VdBITy

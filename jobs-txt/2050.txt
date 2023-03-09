@@ -1,0 +1,25 @@
+Job Opening Summary
+Administer, maintain and provide ongoing support for the UF Health database environment. Responsibilities include RDBMS software installation, configuration, upgrades and patching; storage forecasting, planning and allocation; performance monitoring and optimization; implementation and maintenance of database security; development and testing of back-up and recovery procedures; scripting; problem identification and resolution; and documentation. Research, analyze and recommend standards, procedures and new technologies to improve database availability, performance and recovery. Develop and present written proposals for changes to existing standards, processes and technologies. Assess project proposals for compliance with database standards, risk, implementation and ongoing support requirements. Must have the ability to meet proposed timelines. Collaborate with project owners to make necessary changes and document outstanding risks. Organize and lead cross-departmental project teams. This position may be required to access confidential data in order to perform job responsibilities. On-call support responsibilities are required.
+Job Opening Qualifications
+Minimum Education and Experience Requirements:
+A bachelor's degree from an accredited college/university in computer science or another applicable area of study plus five years of Oracle, Cache, MySQL or SQL Server database experience is required; however, an equivalent combination of education and/or relevant work experience may be considered in lieu of a bachelor's degree.
+Current Epic Cache System Manager certification preferred.
+Hands-on experience with the following products is desired: Oracle Enterprise Manager, SQL Server Management Tools, PL/SQL, SQL*Plus, operating systems (such as AIX, Linux and Windows), IBM Tivoli Storage Manager, UNIX scripting tools and database monitoring and administration tools.
+Must have demonstrated leadership in the development of standards, processes or the recommendation of new technologies to improve database availability, performance or recoverability.
+Experience leading project teams is required.
+Must have demonstrated the ability to work cooperatively in a team environment to achieve corporate objectives.
+Excellent verbal and written communication skills are required.
+
+
+
+
+Job Opening Qualifications
+Minimum Education and Experience Requirements:
+A bachelor's degree from an accredited college/university in computer science or another applicable area of study plus five (5) years of Oracle, Cache, MySQL, or SQL Server database experience is required; however, an equivalent combination of education and/or relevant work experience may be considered in lieu of a bachelor's degree. Current Epic Cache System Manager Certification preferred. Hands-on experience with the following products is desired: Oracle Enterprise Manager, SQL Server Management Tools, PL/SQL, SQL*Plus, Operating Systems (such as AIX, Linux, and Windows), IBM Tivoli Storage Manager, UNIX scripting tools, and database monitoring and administration tools. Must have demonstrated leadership in the development of standards, processes, or the recommendation of new technologies to improve database availability, performance, or recoverability. Experience leading project teams is required. Must have demonstrated the ability to work cooperatively in a team environment to achieve corporate objectives. Excellent verbal and written communication skills are required.
+
+Motor Vehicle Operator Designation:
+None provided
+
+Licensure/Certification/Registration:
+None
+Shift hours:

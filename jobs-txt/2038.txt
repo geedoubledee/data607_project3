@@ -1,0 +1,64 @@
+Central Georgia Health Network
+Job Description
+Job Title: Senior Business Intelligence Developer
+Department: Population Health Technology and Analytics
+FSLA Status: Exempt
+Reports to: Healthcare Quality & Data Analytics Manager
+Classification: Full-Time
+Employment Eligibility: Candidate has not been sanctioned or excluded from participation in federal or state healthcare programs by a federal or state law enforcement, regulatory, or licensing agency
+Base Salary Range: Commensurate with experience
+Benefits: 401(k) matching, medical, dental, and vision insurance, disability insurance, employee assistance program, life insurance, paid time off, professional development assistance, potential bonus pay
+Job Summary: The Senior Business Intelligence Developer is a high-level business intelligence professional that is an integral part of the Data and Analytics Team and is responsible for the design, development, and project management of business intelligence solutions, including reports, dashboards, and other data views, to meet the needs of customers for various data sources.
+The Senior Business Intelligence Developer will have extensive interaction with operational team members and leadership and will be tasked with analysis of business data and analytics requirements, and the transformation of those requirements into analytics solutions that will be the basis for strategic decision making.
+This role will be a key component of the strategic decision support function at CGHN and will include developing automated dashboards or data analysis reports that answers specific questions to help leadership make informed decisions aligned with the organization’s strategy. Mentoring of other team members on BI concepts and strategies is also an integral part of the position.
+Education Requirements: Bachelor’s degree
+Licensure/Certifications: EPIC (Revenue, Access or Clinical) Data Model Certification preferred
+Work Experience: A minimum of 5 years’ experience with various Business Intelligence (BI) and other analytic reporting software application with strong preference for EPIC, SQL, Power BI (or Tableau), Business Objects and Crystal Report Writing.
+Prior experience providing production level support and/or development in Business Intelligence (BI) / Enterprise Data Warehouse (EDW) environments.
+Working knowledge of data warehouse concepts, enterprise data management, modeling techniques and ability to create solutions, participate in strategy discussions and review them with customer as well as project stakeholders also preferred.
+Strong skills in the Microsoft suite of products (Word, Excel, PowerPoint, Access, etc.) is required.
+Qualifications:
+Strong analytical and interpersonal skills; demonstrated ability to work with management and customers; proven ability to work independently or as a team member, strong problem solving and troubleshooting skills, initiative in enhancing system productivity, functionality, and performance.
+Excellent communication (written and verbal) and presentation skills, and people-facing skills. Proven ability to maintain positive peer, customer relationships, interacting positively and productively with teams across organizational lines. Demonstrates skills in critical thinking, and consensus and relationship building.
+Advanced understanding of the full reporting delivery life cycle, from requirements definition to report development and testing required as well as understanding of data management best practices and proper use of data management technologies.
+Comfortable presenting to senior management, physicians, and all levels of staff.
+Possess an understanding of data warehousing concepts, including relational and multidimensional modeling.
+Service-oriented; able to communicate technical solutions to non-technical customers.
+Experience in creating and maintaining reports that summarize data to be used by management.
+Experience in analytical specification gathering, reviews, solution design, estimation and general planning for project execution, monitoring, and control.
+Experience in designing and developing database objects, tables, stored procedures, views, and triggers.
+Must be able to function in dynamic environment subject to changes in schedules and priorities, working on multiple projects/issues concurrently.
+Primary Job Duties:
+The following duties are representative of the work required for this job. These are not to be construed as exclusive or all-inclusive. Other duties may be required and assigned.
+Maintains a service-oriented approach customers, providing follow-up and responding to issues in a timely manner. Answer staff and client questions in person, via email or phone. Provide after-hours support, on an as needed basis.
+Create standard or custom reports, dashboard, views, etc. summarizing clinical, financial, or operational data for review by executives, managers, physicians, and other stakeholders.
+Utilize a report request and development process that includes develop an understanding of a report request, assess the appropriate tool to be used to provide the data, create a report specification in partnership with the operational stakeholder, develop the report and validate the report with the operational stakeholder to ensure quality, timeliness, and accountability.
+Conduct or coordinate tests to ensure that intelligence is consistent with defined needs.
+Responsible for data collection/extraction using SQL scripts, indexes and complex queries and developing methods for database design and validation reports.
+Prepare and maintains key documents and technical specification for new and existing solutions.
+Documents specifications for business intelligence reports, dashboards, or other outputs.
+Implements and maintains multi-dimensional data marts ensuring availability and reliability.
+Works closely with end-users to identify and explain data and reporting discrepancies.
+Serves as a mentor and advisor to the Population Health Technology and Analytics team members and other staff and provides general project management skills to produce views that address customer's needs.
+Responsible for data collection/extraction and developing methods for database design and validation reports.
+In collaboration with other team members and leadership, supports the evaluation, adoption and implementation of new methods, tools, and technologies to meet current gaps in the organization-wide data and analytics infrastructure.
+Determine ways to be able to utilize data in other systems or from the payers to support data and analytics for the organization.
+Works on additional assignments as delegated by management.
+Responsibilities may require evening and weekend work in response to needs of the systems supported.
+Job Type: Full-time
+Pay: $85,000.00 - $95,000.00 per year
+Benefits:
+401(k)
+Dental insurance
+Flexible schedule
+Health insurance
+Paid time off
+Vision insurance
+Schedule:
+8 hour shift
+Monday to Friday
+Experience:
+SQL: 1 year (Required)
+Data warehouse: 1 year (Required)
+Informatica: 1 year (Required)
+Work Location: Remote

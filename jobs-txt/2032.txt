@@ -1,0 +1,64 @@
+Job Overview
+
+Manage and coordinate the work of a small team of data scientists. As a mentor to direct reports: identify and develop professional growth opportunities, interpersonal skills, and industry knowledge. Serve as a business partner to internal and external stakeholders, for data-analytic deliverables (including R&D) that are not automated or routine in nature, and require programming and data analysis expertise. The Data Science Manager will develop data assets for analytic deliverables, including basic data analysis, advanced statistical analyses (e.g. regression modeling), reporting, and visualization (e.g. reports, dashboards, infographics). They will also perform analytic work, including executing analyses, producing reports and other deliverables.
+
+Duties and Responsibilities
+
+Staff Management
+Assigns and coordinates work of direct reports
+Develop technical skills, interpersonal skills and subject matter expertise of direct reports
+Coach direct reports on analytic project scope, approach and delivery
+Identify and deliver on opportunities for analytic innovation
+Function as a data and analytics subject matter expert, in collaboration with other business partners across the enterprise such as Product, Sales, Marketing, Thought Leaders, etc.
+Stay abreast of healthcare industry issues affecting PG clients (e.g. VBP, HCAHPS, “Population Health”)
+
+Data Wrangling and Exploration:
+Cleans data (transforming, handling missing fields, duplicate management)
+Validates data for completeness and usability (ability to identify questionable data, investigate and resolve)
+Integrates data sets from different sources
+Produces ad-hoc datasets for internal stakeholders
+Analyses and Statistics:
+Performs custom analyses as needed
+Applies appropriate statistical techniques to analyses
+Serves as subject matter expert on statistical methodology
+Interprets findings of analyses
+Considers scalability and repeatability in choosing appropriate methodology
+Storytelling and Design:
+Produces appropriate visualizations to tell a story
+Synthesizes findings into audience-appropriate narratives
+Considers user experience (UX) in dashboard design
+Technical Skills:
+Demonstrates proficiency in scripting language (R preferred, Python or similar welcome)
+Demonstrates proficiency in using relational databases (e.g. – SQL Server, Oracle)
+Modifies existing analyses to meet new requirements
+Creates and scales analytics for client deliverables
+Designs internal applications (e.g. – Shiny)
+Communication Skills:
+Documents projects, processes, and code
+Interacts with peers to communicate technical findings
+Communicates complex statistical findings to non-technical audiences
+Partners with other departments (Product, Marketing, Thought Leadership)
+Innovation:
+Stay abreast of contemporary analytics (e.g. - ML applications, new statistical techniques or technologies)
+Is aware of healthcare analytics trends
+Identifies novel analytic solutions to answer common healthcare problems
+Personal Characteristics:
+Is inquisitive – asks good questions, passionate about learning
+Checks over findings for validity
+Attempts to overcome obstacles independently
+
+
+Qualifications
+Intermediate to advanced proficiency with R or Python
+Formal training or extensive applied experience with advanced statistical methods such as regression modeling and/or ML (e.g. classification trees)
+Experience with data visualization and storytelling
+Experience with relational databases and/or cloud-based technologies (e.g. SQL Server, Azure, AWS, etc.)
+Education
+Bachelor's in Statistics, Engineering, Data Science, Computer Science, Economics, or other quantitative discipline with 3-5 years management experience
+Master’s Degree in Statistics, Engineering, Data Science, Computer Science, Economics with 1-3 years’ management experience
+
+All positions at Press Ganey require an applicant who has accepted an offer to undergo a background check. The specific checks are based on the nature of the position. Background checks may include some or all of the following: SSN/SIN validation, education verification, employment verification, and criminal check, search against global sanctions and government watch lists, fingerprint verification, credit check, and/or drug test. By applying for a position with Press Ganey, you understand that you will be required to undergo a background check should you be made an offer. You also understand that the offer is contingent upon successful completion of the background check and results consistent with Press Ganey's employment policies. You will be notified during the hiring process which checks are required for the position.
+In order to ensure a healthy and safe work environment, Press Ganey requires all of its associates to be fully vaccinated against COVID-19, or have an approved medical or religious exemption, prior to their start date to enter any of our locations or to visit with a client. Associates who cannot receive the vaccine because of a disability/medical contraindication or sincerely held religious belief may request an accommodation to this requirement.
+Press Ganey Associates LLC is an Equal Employment Opportunity/Affirmative Action employer and well committed to a diverse workforce. We do not discriminate against any employee or applicant for employment because of race, color, sex, age, national origin, religion, sexual orientation, gender identity, veteran status, and basis of disability or any other federal, state or local protected class.
+Pay Transparency Non-Discrimination Notice – Press Ganey will not discharge or in any other manner discriminate against employees or applicants because they have inquired about, discussed, or disclosed their own pay or the pay of another employee or applicant. However, employees who have access to the compensation information of other employees or applicants as a part of their essential job functions cannot disclose the pay of other employees or applicants to individuals who do not otherwise have access to compensation information, unless the disclosure is (a) in response to a formal complaint or charge, (b) in furtherance of an investigation, proceeding, hearing, or action, including an investigation conducted by the employer, or (c) consistent with the contractor's legal duty to furnish information.
+#LI-Recruiter

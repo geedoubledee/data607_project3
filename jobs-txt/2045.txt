@@ -1,0 +1,24 @@
+Our client is seeking a Data Engineer who would be responsible for design of data warehouse schemas as well as end-to-end design and implementation of fault tolerant and scalable data processing pipelines using a variety of technologies for orchestrating data movement, primarily Snowflake , DBT and Airflow . You'll work with a team of data engineers to design and implement solutions that provide business-critical insights.
+Salary : Mid-Level - 130K to160K+ bonuses and equity options
+Location: REMOTE WORK 100% is an option: (locations limited to CO, AZ, TX, VA, CA, GA, HI, MN, MI, NJ, NY, NC, OR, PA, WA)
+How You’ll Do It
+Working collaboratively with a team of other data engineers and developers of varying experience levels and areas of expertise, you'll be responsible for:
+Responsibilities
+Design and implement data warehouse schemas to store large data sets that can be easily and efficiently queried and joined together for reporting and analytical purposes.
+Design and develop ETL/ELT pipelines to efficiently move and aggregate data, while optimizing for maximum code and data reuse.
+Collaborate with other team members on improvements to existing systems
+Investigate data anomalies and provide quick resolutions.
+Provide technical support to business users and analysts.
+What We’re Looking For
+TOP SKILLS: ETL, Data Warehousing, SQL, Jinga Scripting, Python and Snowflake.
+3+ years of working experience with large scale data warehouse systems.
+Very strong knowledge of SQL and data manipulation best practices
+Experience in building efficient and fault tolerant ELT/ETL data pipelines
+Very strong knowledge of working with large scale datasets and data modeling and data warehouse design
+Experience with Snowflake is preferable
+Knowledge of DBT, Jinja scripting and Airflow is a big plus
+Nice to Have
+Experience working cross functionally with product and engineering teams
+Desire to wear many hats and work your tail off for a bit - great earning potential and equity available.
+Benefits: A diverse benefit package, sign on bonus, options, etc. is offered through our client.
+About ITEOM: ITEOM Digital Technology Talent Partners collaborates with top technologists and top employers to align purpose and passion and re-incorporate belonging to make the job search and work experience more human. We are an equal opportunity employer; however, this role is not eligible for sponsorship at this time. Employees eligible for full time W2 employment are encouraged to apply.

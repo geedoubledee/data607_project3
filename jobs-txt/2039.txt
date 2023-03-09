@@ -1,0 +1,53 @@
+About the Job
+Our engineering department is looking for a passionate and knowledgeable individual to help guide and build out our database processes. This position will help design and implement best practices across our organization. As our first dedicated database administrator you will get the chance to make large meaningful contributions and play a key role in our growth going forward.
+What You Will Get to Do
+Design and implement new technologies
+Collaborate with our SRE team on disaster recovery solutions
+Be an advocate for best practices across our engineering department
+Partner with developers to help deliver on company wide goals
+Lead our dynamic database scaling efforts
+Be a subject matter expert regarding on our database proxying infrastructure
+Provide database architecting insight and advice
+Provide best practices on implementing multi cloud solutions
+What You Bring to the Table
+Experience with maintaining large databases in an enterprise environment
+Amazon Aurora / MySQL Preferred
+Experience working closely with development teams to identify poor performing queries and optimize them
+Strong troubleshooting abilities
+Experience with routine DBA activities such as upgrades, migration, patches, cloning, documentation, backups and recovery
+Extensive knowledge of SQL
+Experience with at least one scripting or programming language
+Knowledgeable with at least one major cloud provider
+AWS preferred
+Comfortable working in complex distributed systems
+Team player, Communication and interpersonal skills are a must
+Hands-on, self-starter, takes initiative
+Your Reward for Greatness
+Highly competitive compensation packages
+Great health insurance including medical, dental, and vision
+Life insurance and personal accident insurance fully paid by LTV
+Flexible Savings Account/Health Savings Account
+401 (k) plan with fully-vested company matching up to 6% - Eligible Day 1!
+Competitive Paid Time Off and Sick Time provided
+Day of Personal Significance
+Early dismissal before a paid company holiday
+Anniversary Appreciation Gifts
+Free ClassPass On-Demand workouts to Monthly ClassPass Subsidy
+Sanvello and Talkspace through United HealthCare’s Behavioral Health Benefits
+Meal delivery twice a week through Seamless/DoorDash
+Tax preparation through Henry.tax
+Student loan repayment & financial wellness resources via Peanut Butter
+Password Management with 1Password
+Professional development training and opportunities for professional growth - as we grow, you grow!
+If you want to WFH, you are in the right place. We have a remote-friendly culture.
+An innovative, energetic culture with great people to work with!
+Custom technology setup to meet your WFH needs
+Home Office Reimbursement Perk for your perfect work from home setup
+Home Utility Bonus
+Why LTV Co.?
+If you have ambitions to be a part of a high-growth, results-driven, industry-leading organization, LTV is the place to be. LTV builds exciting data products and then we market them with passion. We’re a fast-growing company in New York City that balances the culture of a startup with the stability of being an established, profitable company. We want to work with people that strive to be in the top .01% of their field. We understand that getting to the top takes hard work, constant improvement, and by making data-driven decisions. It’s a thrilling time to join the team, as we’re expanding our product offerings in exciting new ways, driving innovation through data, marketing, and web & app development.
+We believe in diversity and hiring people from all backgrounds and walks of life. You must be energetic, inventive, a team player, and looking to help build and grow the company each and every day. You must have an inner desire to win and the idea of losing is a non-starter. If you are looking for a position that allows you to work with a group of smart and dedicated people who will support you but still provide the autonomy you need to execute your strategy, then you should probably apply as soon as you’re done reading this!
+About Us
+LTV was founded in New York by Josh Levy and Ross Cohen in 2007. At the time their mission was to provide easy and affordable access to public records. Something that in 2007, was only really accessible to corporations. Since then their mission has expanded to developing products and services that grant access to information and data across a number of verticals. In service of this mission, LTV has 7 consumer brands including BeenVerified, NumberGuru, PeopleLooker, NeighborWho, Ownerly, PeopleSmart, and Bumper.
+Our mission is to develop a diverse portfolio of technologies, products, and services, that gives all people equal access to unbiased data and information. We believe that through this access people can empower and protect themselves in today’s ever-changing world, filled with fake news, deception, and a lack of transparency.
+1c1jSqYvyb

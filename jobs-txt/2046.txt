@@ -1,0 +1,50 @@
+Company Description
+Amwell is a leading telehealth platform in the United States and globally, connecting and enabling providers, insurers, patients, and innovators to deliver greater access to more affordable, higher quality care. Amwell believes that digital care delivery will transform healthcare. We offer a single, comprehensive platform to support all telehealth needs from urgent to acute and post-acute care, as well as chronic care management and healthy living. With over a decade of experience, Amwell powers telehealth solutions for over 150 health systems comprised of 2,000 hospitals and 55 health plan partners with over 36,000 employers, covering over 80 million lives.
+Brief Overview:
+Working closely with cross-functional business partners, the Sr. Business Intelligence Developer will proactively identify, define and lead development of BI reporting solutions.
+The ideal candidate is a self-starter with insatiable curiosity. S/he must be able to proactively identify and lead opportunities to improve processes and deliverables while demonstrating quality and accuracy of data assets and analytic deliverables through close attention to detail and strong follow-through.
+
+Core Responsibilities:
+Identify and lead development of scalable and automated analytic processes and workflows
+Identify and lead development of ETL data flows
+Ensure quality and accuracy of data assets and analytic deliverables
+Identify and lead initiatives to improve processes for, and quality of, data assets and analytic deliverables
+Interpret data, analyze results and provide ongoing analysis to key stakeholders as needed
+Analyze data for anomalies and early indication of bugs in reporting
+Build intuitive and modern analytic dashboards, while adhering to data visualization best practices
+Stay abreast of analytic technologies (e.g. Data lakes and analytics on AWS, R, Python, Tableau, etc.)
+Document programming scripts, processes, and deliverables
+Develop internal network of colleagues, based on a reputation for collaboration, execution, and high-quality work
+Qualifications:
+Bachelors or higher in an Informatics or Quantitative field (e.g. Mathematics, Statistics, Economics, Engineering, Computer Science, Information Management)
+5+ years of experience in business intelligence, data analysis and data engineering
+5+ years of SQL, including complex queries of multiple data sources
+5+ years of developing scalable and automated ETL processes
+3+ years of experience in the SaaS industry (preferably in a data analyst type role) is a plus
+Expert level experience with Business Intelligence tools (e.g. Domo, Looker, Qlik, Tableau, etc.)
+Expert level data visualization skills
+Basic to intermediate proficiency with general purpose programming languages (e.g. JavaScript, VB, PHP, C++)
+Knowledge of R or Python is a plus
+Capable of working on multiple projects and context shift quickly in a fast-paced environment
+Ability to translate incomplete or immature objectives into well-defined requirements
+Excellent verbal and written communication
+Familiarity with the health care industry is a plus
+Additional information
+Your Team:
+Energetic, forward thinking, and resourceful are a few words that describe the Product Management team at Amwell. This innovative team of 12 manages the product roadmap, designs experiences that delight users, and works closely with current and future customers as the product experts of the Amwell family. Each member of this dynamic group works very collaboratively, communicating the product's value across all other Amwell teams and to our customers.
+We enjoy working with colleagues inside and outside of the organization, and making our ideas come to life! If you love technology and want to be surrounded by a team of intelligent, fast paced and energetic team members, this may be the team for you! Come join the excitement!
+
+Working at Amwell:
+Amwell is changing how care is delivered through online and mobile technology. We strive to make the hard work of healthcare look easy. In order to make this a reality, we look for people with a fast-paced, mission-driven mentality. We're a culture that prides itself on quality, efficiency, smarts, initiative, creative thinking, and a strong work ethic.
+Our Core Values include One Team, Customer First, and Deliver Awesome. Customer First and Deliver Awesome are all about our product and services and how we strive to serve. As part of One Team, we operate the Amwell Cares program, which brings needed assistance to our communities, whether that be free healthcare for the underserved or for people affected by natural disasters, support for equality, honoring doctors and nurses, or annual Amwell-matched donations to food banks. Amwell aims to be a force for good for our employees, our clients, and our communities.
+Amwell cares deeply about and supports Diversity, Equity and Inclusion. These initiatives are highlighted and reflected within our Three DE&I Pillars - our Workplace, our Workforce and our Community.
+Amwell is a "virtual first" workplace, which means you can work from anywhere, coming together physically for ideation, collaboration and client meetings. We enable our employees with the tools, resources and opportunities to do their jobs effectively wherever they are! Amwell has collaboration spaces in Boston, Tysons Corner, Portland, Woodland Hills, and Seattle.
+Unlimited Personal Time Off (Vacation time)
+401K match
+Competitive healthcare, dental and vision insurance plans
+Paid Parental Leave (Maternity and Paternity leave)
+Employee Stock Purchase Program
+Free access to Amwell's Telehealth Services, SilverCloud and The Clinic by Cleveland Clinic's second opinion program
+Free Subscription to the Calm App
+Tuition Assistance Program
+Pet Insurance

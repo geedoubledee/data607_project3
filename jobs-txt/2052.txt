@@ -1,0 +1,55 @@
+Senior SQL Database Administrator (Hybrid)
+Cleveland, Ohio
+Together we can make a difference
+At Getinge we are dedicated and passionate about helping our customers save lives and ensure excellent care. A career at Getinge provides career opportunities that both inspire and challenge. Here, you can make a difference every day.
+Company Profile:
+Talis Clinical, LLC (a Getinge, AB Company) provides health technology supporting clinicians to impact patient safety and improve outcomes. The team at Talis Clinical is committed to developing technologies that provide enhanced safety and mitigation of adverse clinical events, while providing an intuitive, productive user experience.
+We are a fast-paced organization with a culture orientated toward higher purpose outcomes and principles. This will be the most meaningful work you can do.
+Status: Full-Time, On-site-Hybrid
+Responsibilities:
+Installation, configuration, maintenance of MS SQL Server databases through multiple product lifecycle environments, from development to mission-critical production systems
+Set up and maintain SQL database servers and High Availability groups
+Manage backup, restore and recovery processes
+Monitor database health and performance to ensure high levels of performance, availability, and security
+Determine, enforce, and document database policies, procedures, and standards
+Refine and automate regular database processes
+Analyze, solve, and correct issues in real time
+Perform scheduled maintenance and support activities after hours
+Create/manage execution of database roadmap
+Other duties as assigned
+Preferred Experience:
+5+ years of experience as a MS SQL Server Database Administrator
+Experience working with SQL Server High Availability (HA) and Disaster Recovery (DR)
+Experience with Performance Tuning and Optimization (PTO), using native or third-party monitoring and troubleshooting tools
+Experience with backups, restores and recovery models
+Advanced knowledge of database security
+Experience working with Windows server, including Active Directory
+Writing Transact-SQL Stored Procedures
+Understanding of TCP/IP and networking principles
+Experience working with Cloud technologies like Microsoft Azure
+Experience with MS Team Foundation Server is a plus
+Experience with Microsoft Service Broker technology is a plus
+Required Skills:
+Critical Thinking — Using logic and reasoning to identify the strengths and weaknesses of alternative solutions, conclusions, or approaches to problems.
+Complex Problem Solving — Identifying complex problems and reviewing related information to develop and evaluate options and implement solutions.
+Active Learning — Understanding the implications of new information for both current and future problem-solving and decision-making.
+Active Listening — Giving full attention to what other people are saying, taking time to understand the points being made, asking questions as appropriate, and not interrupting at inappropriate times.
+Judgment and Decision Making — Considering the relative costs and benefits of potential actions to choose the most appropriate one.
+Excellent written and verbal communication skills
+Organized, detail oriented
+Able to communicate technical scenarios at both a high-level and detailed level as required by audience
+Education: Bachelor’s Degree in Computer Science, Engineering, or Information Technology
+Excellent Opportunity to join an industry leader! Excellent Benefits!... Dental, Health, Vision, Life and 401(k) and more!
+Interested candidates please send your resume.
+Getinge is an equal opportunity employer and all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, pregnancy, genetic information, national origin, disability, protected veteran status or any other characteristic protected by law.
+INDAS
+Job Type: Full-time
+Benefits:
+401(k)
+Dental insurance
+Health insurance
+Life insurance
+Vision insurance
+Schedule:
+Monday to Friday
+Work Location: One location

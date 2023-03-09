@@ -1,0 +1,65 @@
+About the job
+Tasks
+
+About Us
+
+Mercedes-Benz is USA is responsible for the sales, marketing and service of all Mercedes-Benz and Maybach products in the United States. In our people, you will find tremendous commitment to our corporate values. Our products and employees reflect this dedication. We are looking for diverse top-notch individuals to join the Mercedes-Benz Team and uphold these hallmarks.
+
+Job Overview:
+
+The Data and Technology team is responsible for discovering Big Data insights and identifying business opportunities through the use of statistical, algorithmic, mining and visualization techniques. We are supporting our internal customers by coming up with cutting-edge algorithms to support daily business.
+
+As a data scientist in the team you will…
+
+Integrate and prepare large, varied datasets, using specialized databases and computing environments
+Turn data into critical information and knowledge that can be used to make sound organizational decisions
+Be a creative thinker and propose innovative ways to look at problems by using data approaches on the set of
+
+information available
+
+Need to validate your findings using an experimental and iterative approach
+P erform data acquisition, data preparation, data cleansing, data modeling, analysis and visualization
+Work closely with our project managers, business units, data analysts and other IT teams
+Use best practices in data analytics
+Work with the team to help develop and automate the models
+Use and share new ways of analysis within the team
+Keep on top of the latest tread in the industry to research and apply new analytical methods
+
+Qualifications
+
+Qualifications:
+
+Master’s degree with a very strong academic background in statistics (e.g. mathematics, statistics, computer science, data mining, machine learning, operations research, physics or a related quantitative discipline)
+Doctoral Degree or PhD advantageous
+3+ (with Master’s degree) years of experience in advanced analytics data analysis. Experience on the whole life cycle of model building for solving real-world complex problems. Preferable some expereince within the automotive or mobiliy industry
+A deep understanding of statistical and predictive modeling concepts, including machine-learning or data mining approaches
+Strong statistical modelling experience and data aggregation skills
+An expert in analyzing large, complex, multi-dimensional data sets.
+Data visualization knowledge
+Familiarity with cloud ecosystem (Azure Cloud, Hive, Spark, Kafka)
+Exceptionnally good communication skills towards colleagues and management
+Excellent written and communications skills to report back the findings in a clear, structured manner are required
+Experience in working in an agile team with internal and external ressources
+Proficient in at least one common data analysis tool such as Anaconda or R Studio (Anaconda preferred)
+Proficient knowledge in SQL, Python and R (knowledge in Pyspark, SparkR or Scala is a plus), proficient in data visualization (i.e. proficient in Tableau or PowerBI)
+Familiarity with modern software development practices (Git, JIRA, CI/CD methods, MLOps)
+Fluent in English
+
+Data Science Management (70%)
+
+Conducting data analysis on very large data sets, using complex algorithms, working together with other data scientists, project managers and BUs in an agile environment
+Understanding complex data and finding data patterns in different sources
+Create solid statistical predictive models and innovative visualizations
+Guiding the process of algorithm implementation
+Ensure use cases are operated in time & communicated professionally
+Drive development and implementation of the big data use cases
+
+Communication and Collaboration (30%)
+
+Be the central person of contact for use case finalization & implementation, drive a continuous development of data science methods
+Identify and describe significant business opportunities in different Mercedes-Benz business units together alongside your business partners
+Be able to communicate about highly complex data topics in easy and understandable ways
+
+EEO Statement
+
+Mercedes-Benz USA is committed to fostering an inclusive environment that appreciates and leverages the diversity of our team. We provide equal employment opportunity (EEO) to all qualified applicants and employees without regard to race, color, ethnicity, gender, age, national origin, religion, marital status, veteran status, physical or other disability, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state or local law.

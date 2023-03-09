@@ -1,0 +1,100 @@
+About the job
+Position Description
+
+Our group in the Department of Neurobiology at Harvard Medical School is looking for an innovative and enthusiastic software engineer to join a multidisciplinary research laboratory. This position is ideally suited to a strong programmer wishing to apply their skills to understanding biological neural networks. We are interested in how computations arise from the organization and connectivity of neuronal networks. To analyze neural circuit structure and function at highest resolution and completeness possible, we combine large-scale structural and functional imaging techniques including high-throughput electron and X-ray microscopy, and in vivo two-photon calcium imaging. We seek a software engineer with strong programming skills and coding experience. They should be capable of developing and deploying software for large data processing, handling, and analysis; user interfaces; and for driving custom hardware.
+
+Main Projects Include
+Development of software for high-throughput imaging instrumentation;
+Development of software and machine learning pipelines for large-scale data processing and analysis;
+Development and support of large data processing, storage, and computing infrastructure;
+Success will require close working collaboration with biologists and the ability to independently develop scientific computing software solutions to address biological questions. Building and optimizing programming pipelines will play a vital role in helping us to better understand the brain.
+
+Typical Duties Of The Functional Connectomics Software Engineer Include
+Developing software to generate, process, and analyze large-scale image data;
+Big data wrangling;
+Scientific software support and documentation for biologists;
+Computational systems oversight and programming;
+Communicating with collaborators and service providers;
+Documenting projects and communicating project progress.
+We Offer The Opportunity To
+Apply your coding skills toward understanding the brain in a vibrant academic environment;
+Do cutting edge science with a supportive and collaborative team;
+Basic Qualifications
+Minimum of two years’ post-secondary education or relevant work experience
+Additional Qualifications And Skills
+
+Bachelor's Degree in computer science, engineering, life or physical sciences or a related discipline preferred. Highly proficient in Python. Advanced degree may count toward experience.
+
+We Are Especially Interested In Candidates With
+an advanced degree in science or engineering
+programming experience in languages (e.g., C, Java, MATLAB) in addition to Python
+experience with machine learning, deep learning, and convolutional neural networks
+work experience in biomedical research and/or an academic science environment
+demonstrated experience teaching or training in an informal setting.
+The successful candidate will be self-motivated, and creative, and enjoy working in a dynamic and intellectually stimulating environment. S/he will be skilled at translating research problems into well-defined technical specifications and then developing and supporting user-friendly software solutions; s/he will have excellent coding skills; interpersonal skills; and enthusiasm for collaborating closely with biologists. Demonstrated experience in software development from the industry a plus.
+
+Certificates and Licenses
+Completion of Harvard IT Academy specified foundational courses (or external equivalent) preferred
+Working Conditions
+Occasionally required to work outside of normal business hours, and may be contacted during off hours
+Additional Information
+
+This is a one-year term position from the date of hire, with the possibility of extension, contingent upon work performance and continued funding to support the position.
+
+The University requires all Harvard community members to be fully vaccinated against COVID-19 and remain up to date with COVID-19 vaccine boosters, as detailed in Harvard’s Vaccine & Booster Requirements . Individuals may claim exemption from the vaccine requirement for medical or religious reasons. More information regarding the University’s COVID vaccination requirement, exemptions, and verification of vaccination status may be found at the University’s “COVID-19 Vaccine Information” webpage: http://www.harvard.edu/coronavirus/covid-19-vaccine-information/ .
+
+Please note that we are currently conducting a majority of interviews and onboarding remotely and virtually. We appreciate your understanding.
+
+Harvard University Offers An Outstanding Benefits Package Including
+Time Off: 3 - 4 weeks paid vacation, paid holiday break, 12 paid sick days, 12.5 paid holidays, and 3 paid personal days per year.
+Medical/Dental/Vision: We offer a variety of excellent medical plans, dental & vision plans, all coverage begins as of your start date.
+Retirement: University-funded retirement plan with full vesting after 3 years of service.
+Tuition Assistance Program: Competitive tuition assistance program, incredibly affordable classes directly at the Harvard Extension School, and discounted options through participating Harvard grad schools.
+Transportation: Harvard offers a 50% discounted MBTA pass as well as additional options to assist employees in their daily commute.
+Wellness Options: Harvard offers programs and classes at little or no cost, including stress management, massages, nutrition, meditation, and complementary health services.
+Harvard access to athletic facilities, libraries, campus events, and many discounts throughout metro Boston.
+The Harvard Medical School is not able to provide visa sponsorship for this position.
+
+Not ready to apply? Join our talent community to keep in touch and learn about future opportunities!
+
+Job Function
+
+Information Technology
+
+Location
+
+USA - MA - Boston
+
+Job Code
+
+I1256P IT RC Software/Data Prof II
+
+Sub-Unit
+
+Department
+
+Neurobiology
+
+Time Status
+
+Full-time
+
+Salary Grade
+
+056
+
+Union
+
+00 - Non Union, Exempt or Temporary
+
+Pre-Employment Screening
+
+Education, Identity
+
+Commitment to Equity, Diversity, Inclusion, and Belonging
+
+We are committed to cultivating an inclusive workplace culture of faculty, staff, and students with diverse backgrounds, styles, abilities, and motivations. We appreciate and leverage the capabilities, insights, and ideas of all individuals. Harvard Medical School Mission and Community Values
+
+EEO Statement
+
+We are an equal opportunity employer and all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability status, protected veteran status, gender identity, sexual orientation, pregnancy and pregnancy-related conditions, or any other characteristic protected by law.

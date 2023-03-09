@@ -1,0 +1,40 @@
+About the job
+This job is sourced from a job board. Learn moreKanarys, Inc. is a technology company that provides the tools organizations need to create long-term systemic change around Diversity, Equity, and Inclusion (DEI) challenges. Our software provides the framework, benchmarking and data companies need to incorporate best-in-class DEI into every area of the organization. We are transforming DEI work with data.
+
+Kanarys has been featured by several notable news outlets including Good Morning
+
+America, Entrepreneur, Inc., TechCrunch, Forbes, CNBC, WFAA, and more. Kanarys is also backed by Google, Morgan Stanley, Seyen Capital, Tech Square Ventures, Revolution’s Rise of Rest Seed Fund, Startfast Ventures, Rackhouse Ventures, and others.
+
+Kanarys is looking for an experienced Data Scientist to join our team. As a critical team member, you will focus on delivering an exceptional quality product, with a curiosity that seeks to answer complex questions. This position encompasses all steps of the data cycle, from ETL to machine learning models, with data mining, cleaning, analysis, and visualization in between, to support the development of our new product offerings and help maintain and upgrade our existing offerings as well as support writing of research reports.
+
+Here's What The Role Entails
+Identify valuable data sources and automate collection processes
+Undertake pre-processing of structured and unstructured data
+Analyze large amounts of information to discover trends and patterns
+Build predictive models and machine-learning algorithms
+Present information using data visualization techniques
+Propose solutions and strategies to business challenges
+Collaborate with engineering and product development teams
+What We’re Looking For
+Education: BS+ in quantitative discipline - Statistics, Mathematics, Computer Science, Engineering, Economics, or similar discipline, or equivalent experience
+3+ years of Industry experience in data science
+Ability to collect and clean data from disparate sources, possess an intense curiosity to scratch much deeper than the surface of a problem and find answers
+Experience working closely with a product development team to bring ideas to life
+Advanced competency and expertise in Python, with experience developing containerized Python applications including HTML and JavaScript
+Self-starter, attention to detail, and results-oriented, able to work under minimal guidance, continuous learner, and team player.
+Experience with Cloud platforms such as Google Cloud
+Experience with building dashboards and modeling in Looker with strong competency in LookML.
+Demonstrable experience working with predictive and statistical modeling, machine learning, and building complex datasets
+Database querying skills in SQL including cleaning and managing data.
+What We Offer
+Medical, Dental, Vision, FSA, HSA, Commuter, Life, and Disability Benefits
+Unlimited PTO
+Flexible and remote working culture
+401(k) and equity plan
+Bi-annual company retreat
+The opportunity for growth in a mission-driven and well-funded start-up
+If you only meet some of the requirements for this role, that's okay. We value a diverse range of backgrounds and ideas and believe this is fundamental for our future success. So, if you have the curiosity to learn and the willingness to teach what you know, we'd love to hear from you.
+
+We believe everyone belongs at Kanarys.
+
+Kanarys is an equal-opportunity employer. In accordance with anti-discrimination law, it is the purpose of this policy to effectuate these principles and mandates. Kanarys prohibits discrimination and harassment of any type and affords equal employment opportunities to employees and applicants without regard to sex, race, color, age, national origin, religion, disability, genetic information, marital status, sexual orientation, gender identity/reassignment, citizenship, pregnancy or maternity, veteran status, or any other status protected by applicable national, federal, state or local law. Kanarys conforms to the spirit as well as to the letter of all applicable laws and regulations.

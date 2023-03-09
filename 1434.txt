@@ -1,0 +1,36 @@
+About the job
+About Us
+
+Join us at Arkavian, where innovation and creativity meet the cutting-edge technology of AI. We are a passionate Open Core company revolutionizing the world of video with our deepfake and Generative AI tools. Our mission is to empower creators with user-friendly AI tools to unleash their imagination. We're looking for individuals who share our love for AI and media and are ready to contribute to the development of the next generation of video tools in a fast-paced startup environment.
+
+About The Position
+
+We're searching for a Machine Learning Engineer with a passion for Generative AIs and software development. As a key member of our Agile development team, you will have the opportunity to bring your ideas to life and make a real impact. If you're a self-starter who can work efficiently in a fast-paced environment and loves a good challenge, this is the role for you!
+
+Responsibilities And Duties
+
+In this role, you will be responsible for implementing and maintaining our AI systems and models using Pytorch/Tensorflow and Python. You will also follow Agile development methodologies, setting and achieving sprint goals, and continuously improving our AI tools.
+
+The things that we need you to know (Must have)
+Pytorch/Tensorflow
+Python
+Agile development
+
+Things we'd also like to see (Nice to have)
+Experience working in Open Source
+Transformers, Diffusion models, or other generative AIs
+ONNX and model deployment
+
+Join Our Team And Enjoy These Benefits
+Flexible Hours
+Comprehensive Medical, Dental, and Vision coverage
+All-remote work environment (no office required)
+Generous Paternal leave, holidays, and flexible PTO
+A supportive and inclusive workplace where differences are celebrated
+Opportunities for growth and professional development
+
+Legal Mumbo Jumbo
+
+The final compensation package and benefits will be determined based on a variety of factors, including but not limited to years of experience, depth of experience, and relevant business considerations. Arkavian reserves the right to amend or modify employee benefits. At Arkavian, we believe in transparency, open communication, and a diverse and inclusive workplace. We are equal opportunity employers and welcome applicants from all backgrounds. If you're ready to join us on this exciting AI adventure, apply today!
+
+If you want to do something new and exciting, improve your skills, work in open source, and think you'll fit our team, apply today.

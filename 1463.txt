@@ -1,0 +1,60 @@
+About the job
+This job is sourced from a job board. Learn moreAbout Us
+
+Synergistic IT is a full-service staffing and placement firm servicing client in America for the past 12+ years. We are dedicated towards fulfilling the IT needs of our clients. From staffing to full implementation of projects we provide the highest quality IT Services. We Intend to deliver exceptional student outcome. We don't just help you secure a tech job but build a solid career in technology.
+
+Job Description
+
+Good understanding of the below models
+
+Identify valuable data sources and automate collection processes
+
+Undertake preprocessing of structured and unstructured data
+
+Analyze large amounts of information to Client trends and patterns
+
+Classifier, Random Forest Classifier, Nave Bayes, Support Vector Machine
+
+Machine Learning Algorithms - Linear Regression, Logistic Regression, Decision Tree
+
+Unsupervised/Clustering algorithms
+
+NLP models, Deep Learning models for image classification
+
+Desired Candidate Profile
+
+Skills Required
+
+Hands on experience Python scripting
+
+Hands on experience in building Machine Learning and Artificial Intelligence models
+
+Good knowledge on Exploratory Data Analysis (EDA)
+
+Hands on experience on platforms - Microsoft Azure/Amazon Web Services
+
+Libraries – Numpy, Pands, Scikit learn, Seaborn, Plotly, TensorFLow, Should be able to do data visualisation using Tableau or Excel.
+
+Excellent English communication (both oral and written) and reading comprehension
+
+skills.
+
+Strong analytical and problem-solving skills, with clear attention to detail.
+
+Education Requirement: -
+
+Bachelors, Masters in Computer Science/ Computer Engineering/ Information Systems/Information Technology/ Electrical Engineering/ Mechanical Engineering.
+
+Benefits
+
+On Job Technical support
+
+E- verified
+
+Help to get H1B Employer.
+
+Full time position
+
+Candidate who are missing the required skills, might be provided an option to enhance their skills, so that they can also apply for the role and can make a career in IT industry.
+
+If you do respond via e-mail, please include a daytime phone number so that we can reach you. In considering candidates, time is of the essence, so please respond ASAP. Thank you

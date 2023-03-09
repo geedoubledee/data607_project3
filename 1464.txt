@@ -1,0 +1,54 @@
+About the job
+This is an environment unlike anything in the high-tech world and the secret of Costco’s success is its culture. The value Costco puts on its employees is well documented in articles from a variety of publishers including Bloomberg and Forbes. Our employees and our members come FIRST. Costco is well known for its generosity and community service and has won many awards for its philanthropy. The company joins with its employees to take an active role in volunteering by sponsoring many opportunities to help others. In 2018, Costco contributed over $39 million to organizations such as United Way and Children's Miracle Network Hospitals.
+
+Costco IT is responsible for the technical future of Costco Wholesale, the second largest retailer in the world with wholesale operations in twelve countries. Despite our size and explosive international expansion, we continue to provide a family, employee centric atmosphere in which our employees thrive and succeed. As proof, Costco consistently ranks in the top five of Forbes “America’s Best Employers”.
+
+The Data Scientist - Data Analytics is responsible for generating insights and to augment decision making by the business. At Costco, we are on a mission to significantly leverage big data to provide better products and services for our members. This role is focused on advanced analytics, machine learning and data science delivery to support multiple business areas. This role will partner with Product Owner and business owners to build, test advanced analytics solutions and turn data into actionable insights. The Data Scientist is a knowledgeable leader with an ability to lead and is passionate about data and using machine learning to solve business problems. The right candidate will have deep knowledge of applying data science for forecasting, customer analysis, item and inventory management and other areas of retail.
+
+We are looking for a highly motivated, customer focused professional who wants to work in a fun and highly collaborative environment and willing to be the player as well as coach for the data science community at Costco.
+
+If you want to be a part of one of the BEST “to work for” companies in the world, simply apply and let your career be reimagined.
+
+ROLE
+Leads the analysis by applying statistics, machine learning and analytic approaches to predict and optimize business outcomes.
+Designs and builds ML/DL models to solve business problems.
+Correctly frames a problem and comes up with a hypothesis.
+Assesses the effectiveness and accuracy of models on an ongoing basis.
+Identifies new data that could enhance the quality and accuracy of models to improve predictions.
+Communicates results effectively with storytelling and visualization.
+Coaches the team in feature engineering using machine learning techniques.
+Performs peer review for another Data Scientist’s work.
+Provides feedback to enhance the testing framework and MLOps.
+Extends beyond core data science work to perform data wrangling and data preparation.
+Required
+5+ years’ experience in delivering business insights using advanced statistical and machine learning models and visualization.
+Proficiency in working with diverse databases and other data sources.
+Strong proficiency in Machine Learning, Statistical and Reporting tools (Python, R, SQL, PowerBI).
+Knowledge of Deep Learning and Neural Networks, and its applications.
+Strong experience working in Cloud (AWS, Azure) based analytics platform.
+Recommended
+Graduate degree in Computer Science, Data Science, and Statistics/Mathematics or related field.
+Experience in Marketing Analytics, Personalization and Adobe Marketing Cloud
+Knowledge of Agile software development.
+Experience in software development.
+Exposure to the retail industry.
+Experience leading team of data scientists.
+Excellent verbal and written communication skills.
+Required Documents
+Cover Letter
+Resume
+California applicants, please click to review the Costco Applicant Privacy Notice.
+
+Pay Ranges
+
+Level 2 - $145,000 - $192,000- Potential Bonus and Restricted Stock Unit (RSU) eligible level
+
+Level 3 - $188,000 - $240,000- Potential Bonus and Restricted Stock Unit (RSU) eligible level
+
+Level 4 - $236,000 - $295,000- Potential Bonus and Restricted Stock Unit (RSU) eligible level
+
+We offer a comprehensive package of benefits including paid time off, health benefits — medical/dental/vision/hearing aid/pharmacy/behavioral health/employee assistance, health care reimbursement account, dependent care assistance plan, commuter benefits, short-term disability and long-term disability insurance, AD&D insurance, life insurance, 401(k), stock purchase plan, SmartDollar financial wellness program, to eligible employees.
+
+Costco is committed to a diverse and inclusive workplace. Costco is an equal opportunity employer. Qualified applicants will receive consideration for employment without regard of race, national origin, gender, gender identity, sexual orientation, protected veteran status, disability, age, or any other legally protected status. If you need assistance and/or a reasonable accommodation due to a disability during the application or the recruiting process, please send a request to IT-Recruiting@costco.com
+
+If hired, you will be required to provide proof of authorization to work in the United States. In some cases, applicants and employees for selected positions will not be sponsored for work authorization, including, but not limited to H1-B visas.

@@ -1,0 +1,45 @@
+About the job
+Company Description
+
+VersaTech is an ISO-certified provider of innovative technology solutions to the public sector, providing services that include Digital Transformation, IT Infrastructure Support, Cyber Security, Agile Software Development, Audio Visual Solutions, and Healthcare Consulting. Our long record of customer satisfaction and commitment to excellence provides assurance to our clients that we have the talent, management, and innovation necessary to solve their problems and exceed expectations.
+
+Job Description
+
+We are looking for a highly capable Machine Learning engineer to optimize machine learning systems for our Federal Government clients. You will be evaluating existing Machine Learning (ML) processes, performing statistical analysis to resolve data set problems, enhancing the accuracy of AI software's predictive automation capabilities, and developing BOTs designed to automate tasks.
+
+To ensure success as a machine learning engineer, you should demonstrate solid data science knowledge and experience in a related ML role. A first-class machine learning engineer will be someone whose expertise translates into the enhanced performance of predictive automation software.
+
+Machine Learning Engineer Responsibilities
+
+Consulting with managers to determine and refine machine learning objectives.
+Designing machine learning systems and self-running artificial intelligence (AI) software to automate predictive models.
+Creating attended BOTs with primary focus on development of BOTs that will help automate processes and/or tasks.
+Transforming data science prototypes and applying appropriate ML algorithms and tools for data, graph, audio, and video data.
+Ensuring that algorithms generate accurate user recommendations.
+Turning unstructured data into useful information by auto-tagging images and text-to-speech conversions.
+Solving complex problems with multi-layered data sets, as well as optimizing existing machine learning libraries and frameworks.
+Developing ML algorithms to analyze huge volumes of historical data to make predictions.
+Running tests, performing statistical analysis, and interpreting test results.
+Documenting machine learning processes.
+Keeping abreast of developments in machine learning.
+
+Machine Learning Engineer Requirements
+
+Bachelor's degree in computer science, data science, mathematics, or a related field.
+Master’s degree in computational linguistics, data analytics, or similar will be advantageous, but not mandatory.
+At least two years' experience as a machine learning engineer.
+Experience with Community Edition RPA tool
+Proficiency with Python, UiPath, TensorFlow, and R code writing.
+Extensive knowledge of ML frameworks, libraries, data structures, data modeling, and software architecture.
+In-depth knowledge of mathematics, statistics, and algorithms.
+Superb analytical and problem-solving abilities.
+Great communication and collaboration skills.
+Good time management and organizational abilities.
+
+VersaTech offers an excellent benefits package that includes 401k employer-matching retirement contributions, generous paid time off (3 weeks PTO plus 11 holidays), and ample growth opportunities.
+
+COVID-19 Vaccination: To protect the health and safety of its employees and to comply with customer requirements, VersaTech, Inc. may require employees to wear masks while on our customer and corporate sites as required.
+
+VersaTech, Inc. is committed to hiring and retaining a diverse workforce. We are proud to be an Equal Opportunity/Affirmative Action Employer, making decision without regard to race, color, religion, creed, sex, sexual orientation, gender identity, marital status, national origin, age, veteran status, disability, or any other protected class.
+
+Find out who we are: http://versatechinc.com/

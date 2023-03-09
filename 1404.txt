@@ -1,0 +1,41 @@
+About the job
+Our client publicly held successful and growing Financial Services company seeks a Data Scientist to join their Data Team As a hands-on contributor working independently and is responsible assist client’s risk management personnel in the ongoing analysis of their overall portfolio performance leveraging advanced analytics and modeling techniques.
+
+
+Duties – You will enjoy:
+
+· Research, analyze, and deploy models utilizing complex data and advanced methods to assess mortgage risk for use in data-driven decision making.
+
+· Assist in development, testing, and implementation of predictive behavioral & financial models and analytical tools.
+
+· Perform complex data research, identify patterns, and create informative presentations and impactful visualizations.
+
+· Conduct market and industry research and compile reports in support of regular risk management updates and ad hoc projects.
+
+· Support various departmental and cross-functional projects as assigned.
+
+· Performs other duties as assigned by management.
+
+
+Requirements:
+
+· Candidates should have a Masters (preferred) or Bachelors Degree and looking towards a PhD in finance, economics, statistics, or other quantitative discipline and demonstrate knowledge of financial and behavioral modeling.
+
+· Significant experience in a financial institution or academic setting evaluating complex data sets and consumer behavior.
+
+· Mortgage/Credit card industry experience preferred.
+
+· Strong communication and presentation skills.
+
+· Knowledge of machine learning and other advanced analytics techniques using Python or similar technologies.
+
+· Experience with programming languages such as Python, R, or SAS and query languages such as SQL.
+
+· Familiarity with AWS or other cloud-based data analysis platforms.
+
+· Advanced knowledge of Excel, Word, and PowerPoint.
+
+· Ability to manage multiple priorities and meet aggressive deadlines in a high-intensity work environment with a keen desire for comprehensive and timely deliverables.
+
+
+Full Time position, benefits, 401K.

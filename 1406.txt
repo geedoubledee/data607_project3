@@ -1,0 +1,37 @@
+About the job
+Neural Magic is an early-stage AI software company democratizing high performance for deep learning models. Our goal is to reduce the cost and increase the performance of end-users deploying deep learning applications. Based on decades of research at MIT, Neural Magic has developed a software platform that allows developers to sparsify deep learning models to minimize footprint and run on CPUs at GPU speeds. Please look through our website and GitHub repos to get a feel of what we are about.
+
+Founded by an award-winning team of computer scientists and researchers out of MIT, we are a venture-backed company headquartered in Davis Square, Somerville, MA. Our investors include Amdocs, Andreessen Horowitz, Comcast Ventures, NEA, and Pillar VC.
+
+We are seeking a machine learning research engineer to work closely with our research team implementing deep learning research and using model compression techniques. This person identify, report on, and create new algorithms and models within the deep learning field. If you are someone who wants to contribute to solving challenging technical problems at the forefront of deep learning, this is the role for you!
+
+Responsibilities
+Use your understanding of machine learning to tackle meaningful technical problems
+Collaborate with research and product development teams to transform research ideas into product solutions
+Research and implement appropriate ML algorithms and tools
+Run machine learning tests and experiments while optimizing hyperparameters
+Perform statistical analysis and fine-tuning using test results
+Keep abreast of developments in the field
+
+Requirements
+Proven experience as a machine learning researcher, engineer, or similar role
+Solid knowledge of machine learning and deep learning fundamentals with experience in one or more of computer vision, NLP, speech, reinforcement learning, generative models, etc
+Knowledge of common ML frameworks (like PyTorch or Keras) and libraries (like NumPy and scikit-learn)
+Strong programming skills with proven experience implementing Python-based machine learning solutions
+Ability to interpret and implement research ideas and algorithms
+Creative, collaborative, and innovation-focused
+Strong sense of project ownership and personal responsibility
+Master's in Computer Science, Mathematics or similar field
+
+Benefits
+Health Care Plan (Medical, Dental & Vision)
+Retirement Plan (401k, IRA)
+Paid Time Off (Vacation, Sick & Public Holidays)
+Family Leave (Maternity, Paternity)
+Short Term & Long Term Disability
+Training & Development
+Work From Home
+Free Food & Snacks
+Wellness Resources
+Stock Option Plan
+We are an equal opportunity employer. All applicants will be considered for employment without attention to race, color, religion, sex, sexual orientation, gender identity, national origin, veteran or disability status.

@@ -1,0 +1,61 @@
+About the job
+The Company
+
+Our client is an independent record label and music publisher with a portfolio of curated collections of contemporary recordings and musical works from global, multi-award-winning writers and artists. The company’s CEO is an independent music veteran, is the former President of a renowned indie, and has served as the Board Chair of an important indie music trade organization. The Company has financial backing from a leading investment management firm. The client’s portfolio includes work from top international artists of different genres.
+
+
+Position Summary
+
+The Data Scientist is responsible for Data Engineering, Cloud Infrastructure and Data Analysis. This is an exciting opportunity for an entrepreneurial data analyst/scientist who wants to build something from the ground up. The role manages data pipelines from multiple sources and APIs, establishes data architecture for the company and creates and continuously improves the business intelligence, visualization and other tools that support decision making for the content acquisition, creative and marketing functions. A background in data science is required with a strong preference for data science experience in the music industry. The position could be based at the Company’s New York office full time or hybrid or could be remote, preferably in the Eastern United States. The role reports to the VP of Finance.
+
+Specific Responsibilities
+
+Data Engineering
+
+Coding against third-party APIs to collect data
+Web scraping to pull relevant data
+Automating data ingestion of royalty statements data and metadata
+Building systems, processes and tools to automate data pipelines from third party APIs to database and dashboards for analytics and performance predictive models
+Create and manage systems and processes to link large, disparate datasets together for analysis
+Cloud Infrastructure
+
+Familiarity with setting up and utilizing cloud services such as Azure
+Building cloud services to automate data pipelines and storage (i.e., data lakes, warehouses, etc.)
+Data Analysis
+Ability to analyze large datasets and extract insights using business intelligence tools such as Python and R
+DevOps
+
+Best practices regarding code storage, version control, code deployment
+Presentation Skills & Industry Knowledge
+
+Ability to prepare and present complex information in a digestible format
+Knowledge of music payors, royalty statements and metadata
+Qualifications
+
+3 or more years of experience as a data scientist in the music ecosystem
+Entrepreneurial self-starter with ability to build tools and processes
+Familiarity setting up and utilizing cloud services (e.g. Azure cloud interface, etc.)
+Highly effective in preparing and presenting complex information in a digestible format
+Versed in DevOps best practices regarding code storage, version control, code deployment, releasing apps in shorter cycles, etc.
+Knowledge of music payors, statements and metadata
+Seasoned user of key tools such as Azure cloud infrastructure and services, MySQL databases, Python (including data science libraries such as pandas), Tableau and Power BI, Git, GitHub, GitLab
+Ability to analyze large datasets and extract insights using business intelligence tools such as Python, R, Scala, regression modeling, Power BI, Google Data Studio and machine learning
+Microsoft Office and G-Suite user with advanced skills in Excel and Google Sheets
+Ambitious key contributor who aims high, collaborating to bring the company to new heights
+Strong engineering and business acumen, including prior experience meeting or exceeding areas of subject expertise
+Degree in Computer Science, Software Engineering or Finance, or relevant scientific field of study or equivalent experience
+Excellent verbal and written communication skills
+Open-door individual with an active commitment to diversity, equity and inclusion
+Highest level of integrity, resourcefulness, resilience and work ethic
+Compensation
+
+Competitive salary, incentive and benefits will be offered, commensurate with the role and the final hire’s experience. Depending on the final hire’s relevant experience, education, knowledge, skills, abilities, and location, it is anticipated that the base salary will be at an annual rate in the range of $125K to $140K.
+
+Equal Opportunity and DEI
+
+Company is an equal opportunity employer and makes employment decisions without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, protected veteran status, disability status, age, or any other status protected by law. Further, the company strives to create a diverse, welcoming, equitable and inclusive environment for all applicants and employees.
+
+
+Disclaimer
+
+The job description above is intended to set forth the general nature of the work that will be expected of the person who takes on this role. The job description is not, however, meant to be construed as an exhaustive list of all the duties and responsibilities required for this role. From time to time, all personnel may be required to perform duties outside their normal responsibilities as needed.

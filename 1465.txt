@@ -1,0 +1,76 @@
+About the job
+Location:
+
+Remote – US ONLY
+
+Qualifications:
+
+· A degree in a technical field such as computer science or engineering
+
+· A minimum 7 years of experience in data science
+
+· Expert level SQL, strong Python, and familiarity with Java
+
+· Experience working in a value driving framework such as Scrum
+
+· Well-practiced communication skills, both in technical and non-technical terms
+
+Your Day to Day:
+
+The platform team is responsible for executing the vision and achieving the goals of our three core lines of business: Indexing, Digital Distribution, and Data & Analytics. Made up of developers, data scientists, designers, and project managers, the platform team is the engine that drives forward the technical implementation of VettaFi’s offerings.
+
+The opportunity is grounded in and powered by the impressive digital footprint that VettaFi has, including web domains like ETFTrends.com, ETFdb.com, AdvisorPerspectives.com, and VettaFi.com, and will impact the millions of investors that these domains attract on a consistent basis. The role will be responsible for driving technical excellence in data engineering, statistical techniques, and domain specific applications.
+
+· Lead the technical direction of the data science team
+
+· Ideate and advocate for projects involving novel applications of VettaFi’s data
+
+· Leverage VettaFi’s substantial data warehouse to drive increased web engagement
+
+· Build data driven products that bring actionable insights to ETF issuers
+
+· Review and approve pull requests
+
+Start with WHY:
+
+Why you should join the VettaFi Team…
+
+· Join a fast-paced agile team that innovates weekly and collaborates cross-functionality with openness and transparency
+
+· Our momentum is based on great attitudes and focused drive
+
+· We don't always have the answers, but look forward to pushing ourselves, growing, and improving together as a team
+
+· Competitive salaries, upward mobility and an opportunity to grow professionally with our company
+
+· Solid health, dental and vision benefits
+
+· Exposure to a huge, growing market -- U.S. listed ETFs sport over $4 trillion in assets under management and have grown at a 26% compounded annual growth rate for 20+ years
+
+· Opportunity to interact with our team members across North America including New York, Southern California, Chicago, and New Jersey
+
+· Your work will have a large, immediate impact on the business
+
+· We are a focused, hungry team of professionals who share the same vision and desire for success
+
+· Collaborative work environment built on respect, openness and intellectual honesty
+
+Who are WE:
+
+VettaFi is a high-growth and profitable technology company that sits at the nexus of three exciting mega trends:
+
+· Business intelligence (including the application of machine learning)
+
+· The evolution of financial services, both through innovations in product and product delivery
+
+· The internet as a medium
+
+Through its wholly owned and operated brands, collectively the most influential digital voice in the world of exchange traded funds (ETFs) -- ETF Database and ETF Trends -- VettaFi interacts with tens of thousands of US financial advisors at an unparalleled level of depth every week.
+
+With an educational mission, VettaFi produces and disseminates numerous types of multimedia content to fuel the research process of financial advisors, including webcasts, video, native content channels, interactive data-driven tools, and editorial content.
+
+In compliance with local law, we are disclosing the compensation, or a range thereof, for roles that will be performed in New York City. Actual salaries will vary and may be above or below the range based on various factors including but not limited to location, experience, and performance. The range listed is just one component of VettaFi’s total compensation package for employees. Pay Range: $130,000 - $160,000 salary per year.
+
+Other rewards may include annual discretionary bonuses, short- and long-term incentives, and program-specific awards. In addition, VettaFi provides a variety of benefits to employees, including health insurance coverage, an employee wellness program, life and disability insurance, a retirement savings plan, paid holidays and paid time off (PTO).
+
+VettaFi is an equal opportunity employer. VettaFi is committed to being an employer of choice, not just a good place to work, but a great and inclusive place to work. To that end, we strive to recruit and maintain a workforce that meaningfully represents the diverse and culturally rich communities that we serve. Qualified applicants will receive consideration for employment without regard to their race, color, religion, national origin, sex, sexual orientation, gender identity, protected veteran status or disabled status or, genetic information.

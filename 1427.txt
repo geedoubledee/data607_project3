@@ -1,0 +1,81 @@
+About the job
+We're powering a cleaner, brighter future.
+
+Exelon is leading the energy transformation, and we're calling all problem solvers, innovators, community builders and change makers. Work with us to deliver solutions that make our diverse cities and communities stronger, healthier and more resilient.
+
+We're powered by purpose-driven people like you who believe in being inclusive and creative, and value safety, innovation, integrity and community service. We are a Fortune 200 company, 19,000 colleagues strong serving more than 10 million customers at six energy companies -- Atlantic City Electric (ACE), Baltimore Gas and Electric (BGE), Commonwealth Edison (ComEd), Delmarva Power & Light (DPL), PECO Energy Company (PECO), and Potomac Electric Power Company (Pepco).
+
+In our relentless pursuit of excellence, we elevate diverse voices, fresh perspectives and bold thinking. And since we know transforming the future of energy is hard work, we provide competitive compensation, incentives, excellent benefits and the opportunity to build a rewarding career.
+
+Are you in?
+
+Primary Purpose Of Position
+
+Apply the scientific method to extract knowledge and insights from data, which may take the form of time-series
+
+(smart-meters, smart-grid, and other IoT), structured (relational data stores), and unstructured (text and multi-media) data sets. Train Predictive models, including but not limited to tree-based approaches, linear regression, and neural network. Implement those models into a production environment following the established MLOps approaches. Closely collaborate with various internal stakeholders, project/program managers, and other teams to turn data into analytics-driven products and inform decision making. This requires understanding business needs, providing and receiving regular feedback, and planning the proper transfer of developed solutions. Validate findings with the business by sharing analysis outputs in a way that can be understood by business stakeholders. Assist experienced Data Scientists and Engineers in the areas of artificial intelligence, machine learning, feature engineering, and high-performance computing. Demonstrate commitment to continuous learning and professional development in technical subject matter. Share knowledge with team members, and business stakeholders, and IT partners. A successful candidate will quickly adopt the team’s established working processes and toolkit while growing his/her knowledge of the utilities industry.
+
+Position may be required to work extended hours, including 24 x 7 coverage during storms or other energy delivery emergencies.
+
+Primary Duties And Accountabilities
+
+Develop key predictive models that lead to delivering a premier customer experience, operating performance improvement, and increased safety best practices. 10%
+Analyze data using advanced analytics techniques in support of process improvement efforts using modern analytics frameworks, including – but not limited to – Python, R, Scala, or equivalent; Spark, Hadoop file system and others. 25%
+Access and analyze data sourced from various Company systems of record and external data sources. Support the development of strategic business, marketing, and program implementation plans. 25%
+Provide expert data and analytics support to multiple business units 20%
+Access and enrich data warehouses across multiple Company departments. Build, modify, monitor and maintain high-performance computing systems. 20%
+
+JOB SCOPE
+
+Support business unit strategic planning while providing a strategic view on machine learning technologies. Advice and counsel key stakeholders on machine learning findings and recommend courses of action that redirect resources to improve operational performance or assist with overall emerging business issues. Provide key stakeholders with machine learning analyses that best positions the company going forward. Educate key stakeholders on the organizations advance analytics capabilities through internal presentations, training workshops, and publications.
+
+Minimum Qualifications
+
+Bachelor’s degree from a leading program in a Quantitative discipline. Ex: Applied Mathematics, Computer Science, Finance, Operations Research, Physics, Statistics, economics, engineering, data science or related field.
+0-2 years of professional experience in a data science position or in applying analytic techniques to large datasets.
+Advanced beginner knowledge in at least two of the following areas: machine learning, artificial intelligence, statistical modeling, data mining, information retrieval, database development or data visualization.
+Demonstratable beginner knowledge / experience in analytics/statistics/visualization platforms (Power BI, MS Power Apps,MS Azure suite), Enterprise Management Systems (Oracle, SQL Server, etc), geospatial analytics, Python, and SQL.
+Ability to translate data analysis and findings into coherent conclusions and actionable recommendations.
+Strong oral and written communication skills.
+
+Preferred Qualifications
+
+Masters Degree in data science related field.
+Prior exposure to the utilities or broader energy sector.
+Prior exposure to data structures pertaining to smart-meters, billing, or outage management systems, geographical interface systems, and work management systems.
+Competent understanding of relevant theories in machine learning, statistics, probability theory, data structures and algorithms, optimization, etc.
+Strong coding skills (Python, R, Scala, etc), and experience working in a Unixenvironment
+Ability to translate executive and analytics leaders’ vision and guidance into methods and analytics.
+Strong time management and presentation skills.
+
+Primary Location
+
+US-IL-CHICAGO
+
+Work Locations
+
+Chase Building Chicago
+
+Job
+
+Information Systems
+
+Organization
+
+Exelon Utilities
+
+Schedule
+
+Full-time
+
+Employee Status
+
+Regular
+
+Job Posting
+
+Feb 27, 2023, 8:17:34 AM
+
+Unposting Date
+
+Mar 13, 2023, 11:59:00 PM

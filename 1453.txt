@@ -1,0 +1,26 @@
+About the job
+Role: Data Scientist
+
+Preferred Dallas or Bentonville location
+
+Fulltime or C2H
+
+Job Description
+Retail intelligence. Brings AI into the business. This is going to be a function on the business side of the house. Data Science tech
+Tech function has primarily been an enablement function.
+This is the team that transforms the way client operates.
+Modeling side not production environment
+Problem solving, innovating, prototyping solutions
+Disrupt and transform. Can't be totally academic but has to be able to put something workable into the environment quickly. Focused in a lot of different areas.. customer engines, associate engine AI tasking associates what to do.
+Consulting people are great but they do expect they're going to have a lot of people who are heads down working on the problems. Leaders need to be strong communicators.
+Work Involved
+Prediction and forecasting
+Causal and inference
+Simulation work discrete event simulation to mimic what the operational processes look like today so that they can transform the processes and see what the customer experience would look like
+Intelligent agents to manage the simulations and understand what makes for a good decision or understand throughput as changes are happening
+Manager's Note
+Python absolute requirement
+Pytorch, Tensorflow, etc are all great but aptitude to learn works too
+Want to bring them in at staff or senior data scientist level.
+Requirement
+Bachelor's degree in Computer Science or related field or equivalent combination of industry-related professional experience and education.

@@ -1,0 +1,65 @@
+About the job
+Who We Are
+
+MarketBridge is the leading provider of rapidly scalable, innovative go-to-market solutions for Marketing, Sales, and CX leaders. For over 25 years we’ve delivered customer-centric, data-driven strategies to Fortune 500 clients. Our unique approach—Go-to-Market® Science—uses analytics and insight to drive revenue growth and customer value. As a boutique consulting firm, we pride ourselves on:
+
+Deep Go-to-Market® Expertise - We are a mix of go-to-market® strategists and execution-oriented practitioners who wrote the book on multi-channel commercial strategy
+Data-Centric Approach - We love measuring results and understand the value of the good and the bad to unearth real performance optimization
+Human and AI-Powered Insights - We drive commercial agility with a constant pulse on our client’s markets and consumers, through technology-generated and human-curated insights
+Agile Extension of The Client - We are an extension of our client’s team, so we flex priorities to be able respond to their changing needs and technology infrastructure
+In-Market Actionability - We go beyond strategy to ensure we deliver go-to-market solutions where, when, and how they can best be put into action
+
+Who We’re Looking For
+
+MarketBridge is looking for a Data Scientist - Lead Modeler to support program strategy and execution to help clients improve their marketing and sales outcomes. The Data Scientist - Lead Modeler will be part of a project team and play a key role in helping our clients measure marketing’s effectiveness and optimize marketing mix to drive results. You will quickly work with clients to solve some of their most pressing problems, leveraging a variety of tools and methods including quantitative analysis, model development, and market research.
+
+Responsibilities
+
+Model Development: Investigate, suggest, and attempt new model builds including Marketing Mix Models (MMM) and Multi-Touch Attribution (MTA)
+Project and Client Management: Communicate with clients regarding data outputs, create technical slides for project deliverables, and flag roadblocks that may impede on-time delivery
+Internal Collaboration: Participate in brainstorms and troubleshooting, partner with Lead Data Scientist and Project Manager to outline modeling approach and data sources, and support and mentor junior Analysts
+
+Qualifications
+
+This position is for those with significant analytics experience who are looking for an opportunity to use data, research, and best practices to help improve clients’ sales and marketing strategies while increasing the responsibility and autonomy over their workstreams. We are looking for someone who:
+
+Has 2+ years of experience in data-driven consulting, market research, and data science
+Has a background in highly quantitative hard sciences (advanced math, computer science, or economics) or highly quantitative social sciences
+Is comfortable using big or small data environments to answer questions and then develop an overall story about what the analysis means
+Has experience with integrating stimulus, response, and control data from a variety of sources including agencies, internal systems, and technology platforms
+Has experience in econometric techniques, including panel data, ridge regression, and multiple functional forms as well as machine learning techniques
+Has experience coding in R and/or Python, including data munging
+Has experience creating reproducible deliverables (Rmarkdown, notebooks, etc.)
+Experience with version control (git, github, etc.) and modern data storage (MapReduce, Spark)
+Can balance multiple projects at one time, under tight deadlines
+Has excellent written and oral communication, presentation, and analytical skills
+Is extremely conscientious, with a strong attention to detail and excellent organizational skills
+
+Note: This position requires the ability to work in the United States without visa sponsorship. MarketBridge is an Equal Opportunity Employer.
+
+The ideal candidate will:
+
+Can balance multiple projects at one time, under tight deadlines
+Has excellent written and oral communication, presentation, and analytical skills
+Is extremely conscientious, with a strong attention to detail and excellent organizational skills
+Be proactive and start projects with little prodding
+
+Our Culture
+
+MarketBridge is an organization with an entrepreneurial spirit, full of smart, fun to be around, lifetime learners who want to make a real difference for our clients every day. We are proud to say that our most valuable asset is our people. High performers are recognized and rewarded for their efforts, and you will be working alongside some of the best and brightest people in the industry.
+
+Our long-term success depends on a culture in which development is employee-owned, manager-guided, and MarketBridge enabled. Through a range of resources, employees can take advantage of development opportunities, mentoring, and self-directed or business-sponsored courses to help drive their careers. In addition, we offer:
+
+Industry-competitive compensation
+Performance-based salary and bonuses
+A wide array of healthcare options, including medical, dental and vision coverage
+401(k) retirement plan with a company match
+Generous vacation and holiday time
+Yearly health and wellness credits
+Casual dress code
+Hybrid work model
+Company social events
+
+Powered by JazzHR
+
+LVC8ZgVIrK

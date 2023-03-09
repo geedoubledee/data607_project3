@@ -1,0 +1,55 @@
+About the job
+This job is sourced from a job board. Learn moreUnited States - Work From Home
+
+Pharmacy Machine Learning Engineers uses specialized depth and experience to develop and modify complex software application programs supporting Machine Learning and Artificial Intelligence initiatives. This position will be responsible for advocating, educating and partnering with teams across the enterprise to develop best practices around the preferred technology stacks, as well as implementing Machine Learning applications and proof of concepts (POC). As a member of the newly formed Pharmacy Machine Learning Engineering team, This position will also create detailed specifications, conduct quality assurance reviews of peer's application programming.
+
+Create Machine Learning Solutions to achieve organizational objectives
+Consult to product development team's best practices related to Machine Learning application development and Machine Learning/AI-specific infrastructure technology stacks (e.g. GPU-based systems, A.I. in public cloud, etc).
+Apply best practice software engineering principles towards the development of applications, in order to productionalize Machine Learning models produced by Data Scientists and ML Engineers
+Leverage Big Data and Data Science tools (i.e. one or more of SQL, Hadoop, Spark, Python, R) to both source and work with data
+Ensure quality of technology delivery of multiple vendors' technology solutions for multiple concurrent projects or programs for an application family.
+Deliver solutions for multiple concurrent projects
+Identify and implement process enhancement opportunities associated with supporting the application area.
+Implement actions to increase ESI and vendor partner knowledge on team.
+Serve as SME for components of the team.
+Provide technical guidance to projects/programs for complex components of a multiple technology suites.
+Develop standard practices, components, guidelines for use of complex technology components.
+Resolve urgent and high production incidents.
+Determine root cause of problems and drive resolution.
+Work on other projects as assigned.
+
+What You Need To Do The Job
+
+Bachelor's degree and 3+ years of relevant experience or a Master's degree in a relevant field or the equivalence of education and experience
+Good understanding of relational and nosql database concepts and data processing
+Computer science fundamentals: data structures, algorithms, performance complexity, and implications of computer architecture on software performance (e.g., I/O and memory tuning)
+Software engineering fundamentals: version control systems (i.e. Git, Github) and workflows, and ability to write production-ready code
+Complete understanding and wide application of technical principles, theories and concepts in the field.
+Ability to provide and implement technical solutions to a wide range of difficult problems.
+Solutions are innovative, thorough, practical and consistent with organizational objectives.
+Strong customer service focus.
+Familiarity with health care or PBM industry.
+Familiar with working in a vendor partner model.
+Ability to work a flexible schedule to accommodate project deadlines.
+Demonstrated ability to prioritize work load and meet project deadlines.
+Adaptability and willingness to lean new tools and applications.
+Ability to adapt in a dynamic work environment and make independent decisions.
+Demonstrated ability to work collaboratively across project team
+
+If you will be working at home occasionally or permanently, the internet connection must be obtained through a cable broadband or fiber optic internet service provider with speeds of at least 10Mbps download/5Mbps upload.
+
+For this position, we anticipate offering an annual salary of 100,500 - 167,500 USD / yearly, depending on relevant factors, including experience and geographic location.
+
+This role is also anticipated to be eligible to participate in an annual bonus plan.
+
+We want you to be healthy, balanced, and feel secure. That's why you'll enjoy a comprehensive range of benefits, with a focus on supporting your whole health. Starting on day one of your employment, you'll be offered several health-related benefits including medical, vision, dental, and well-being and behavioral health programs. We also offer 401(k) with company match, company paid life insurance, tuition reimbursement, a minimum of 18 days of paid time off per year and paid holidays. For more details on our employee benefits programs, visit Life at Cigna Group .
+
+About The Cigna Group
+
+Doing something meaningful starts with a simple decision, a commitment to changing lives. At The Cigna Group, we're dedicated to improving the health and vitality of those we serve. Through our divisions Cigna Healthcare and Evernorth Health Services, we are committed to enhancing the lives of our clients, customers and patients. Join us in driving growth and improving lives.
+
+Qualified applicants will be considered without regard to race, color, age, disability, sex, childbirth (including pregnancy) or related medical conditions including but not limited to lactation, sexual orientation, gender identity or expression, veteran or military status, religion, national origin, ancestry, marital or familial status, genetic information, status with regard to public assistance, citizenship status or any other characteristic protected by applicable equal employment opportunity laws.
+
+If you require reasonable accommodation in completing the online application process, please email: SeeYourself@cigna.com for support. Do not email SeeYourself@cigna.com for an update on your application or to provide your resume as you will not receive a response.
+
+The Cigna Group has a tobacco-free policy and reserves the right not to hire tobacco/nicotine users in states where that is legally permissible. Candidates in such states who use tobacco/nicotine will not be considered for employment unless they enter a qualifying smoking cessation program prior to the start of their employment. These states include: Alabama, Alaska, Arizona, Arkansas, Delaware, Florida, Georgia, Hawaii, Idaho, Iowa, Kansas, Maryland, Massachusetts, Michigan, Nebraska, Ohio, Pennsylvania, Texas, Utah, Vermont, and Washington State.

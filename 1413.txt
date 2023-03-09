@@ -1,0 +1,31 @@
+About the job
+Fast-growing AI company is seeking highly-qualified scientists and engineers with experience in ML (Machine Learning), DL (Deep Learning) and Computer Vision to address real-world challenges in the Health Care industry. If you have a successful track record in software development, knowledge of current software technologies and methodologies, and excellent communication and interpersonal skills, we want to talk with you. Experience with image processing technologies is a plus.
+
+
+Desired skills:
+
+Experience with data noise removal, data augmentation, dataset truthing and construction
+Expertise in visualizing and manipulating large datasets
+Experience working with Xray images (medical/dental) or in the medical domain a plus.
+Familiarity with Java and Python a plus
+Proficiency with a deep learning library (e.g., PyTorch, TensorFlow, or Keras) and deployment of models across languages a plus
+Comfortable working within a team as well as heading up your own research initiatives
+
+Responsibilities may include:
+
+Understanding business objectives and developing models that help to achieve them, along with metrics to track progress
+Analyzing DL algorithms that could be used to solve a given problem and ranking them by their success probability
+Exploring and visualizing data to gain an understanding of it, then identifying differences in data distribution that could affect performance when deploying the model in the real world
+Verifying data quality and/or ensuring it via data cleaning
+Defining validation strategies
+Training models and tuning hyperparameters
+Analyzing errors of the model and designing strategies to overcome them
+
+Why work for NovoDynamics?
+
+Be part of a dynamic team that designs disruptive technologies for the Health Care industry
+Receive great compensation and benefits
+Work in downtown Ann Arbor near the University of Michigan campus
+Enjoy free parking, popcorn, coffee, tea and soft drinks
+Delight in an amazing work environment with interesting and engaged teammates
+Relax with generous and flexible time off

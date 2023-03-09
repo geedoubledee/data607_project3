@@ -1,0 +1,70 @@
+About the job
+
+Summary
+
+The Project Analytics team, part of the Software Engineering OS Program, is seeking a data scientist to play a key role in developing new tools and processes. Every day, SWE engineers and leaders make critical decisions that drive product development throughout Apple. Come help us answer difficult questions, conduct investigations, and devise solutions that will inform decision-makers and empower engineers.
+
+
+Key Qualifications
+
+Ability to lead data investigations and analysis projects with ambiguous requirements
+
+
+Experience exploring mixed categorical and quantitative data
+
+
+Experience visualizing and presenting analyses in tools such as Tableau or Power BI
+
+
+Experience programming in Python in a professional setting
+
+
+Familiarity with distributed computation, storage, and workflow management (Cassandra, Spark, Kubernetes)
+
+
+Highly organized, creative, motivated, and passionate about achieving results
+
+
+Excellent written, verbal, and data communication skills
+
+
+Description
+
+On the SWE Project Analytics team, we are responsible for performing ad hoc data analysis, development and maintenance of distributed data pipelines, as well as creation and support of analysis tools. Our team is small and nimble, able to quickly explore ideas and present them to software leadership.
+
+
+IN THIS ROLE YOU WILL BE RESPONSIBLE FOR:
+
+Identifying analysis opportunities from discussions with project management and engineering leadership
+
+
+Performing exploratory data analysis to evaluate feasibility of investigations
+
+
+Building data pipelines to extract data from Cassandra for transformation in Spark, and delivery to Tableau
+
+
+Using Jupyter and Tableau to explore and visualize data for publication to client teams
+
+
+Delivering analyses via self-service dashboards and in-person presentations with engineering leaders
+
+
+Participating in periodic infrastructure support for our team’s Python-based, distributed micro services
+
+
+Education & Experience
+
+BS/MS or equivalent experience.
+
+
+Pay & Benefits
+
+At Apple, base pay is one part of our total compensation package and is determined within a range. This provides the opportunity to progress as you grow and develop within a role. The base pay range for this role is between $121,000 and $230,000, and your base pay will depend on your skills, qualifications, experience, and location.
+
+Apple employees also have the opportunity to become an Apple shareholder through participation in Apple’s discretionary employee stock programs. Apple employees are eligible for discretionary restricted stock unit awards, and can purchase Apple stock at a discount if voluntarily participating in Apple’s Employee Stock Purchase Plan. You’ll also receive benefits including: Comprehensive medical and dental coverage, retirement benefits, a range of discounted products and free services, and for formal education related to advancing your career at Apple, reimbursement for certain educational expenses — including tuition. Additionally, this role might be eligible for discretionary bonuses or commission payments as well as relocation. Learn more about Apple Benefits.
+
+Note: Apple benefit, compensation and employee stock programs are subject to eligibility requirements and other terms of the applicable plan or program.
+
+
+Role Number: 200376166

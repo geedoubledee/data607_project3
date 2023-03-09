@@ -1,0 +1,17 @@
+About the job
+Senior Data Scientist This well known media company is looking for a Data Scientist to join their team. This role is looking for someone with 3 years of professional experience and preferably a Master’s degree. You will be working closely with the investment team to build models in order to make investment decisions. This will include both short-term and long-term forecasting.
+
+This is a fully remote role. Cloud experience is required but not specific as to which platform (AWS, GCP or Azure). Required Skills & Experience
+R
+SQL
+Snowflake
+Desired Skills & Experience
+Master’s Degree in statistics, computer science, mathematics, economics, or finance
+Matlab
+What You Will Be Doing Tech Breakdown
+100% Data Science
+Daily Responsibilities
+100% Hands on
+Applicants must be currently authorized to work in the US on a full-time basis now and in the future.
+
+Posted By: Julie Bennett

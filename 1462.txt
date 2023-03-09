@@ -1,0 +1,21 @@
+About the job
+
+
+Develop predictive models using statistical, machine learning and data mining methodologies.
+Apply cleansing, discretization, imputation, selection, generalization etc. to create high quality features for the modelling process.
+Work with business stakeholders to define business requirements including KPI and acceptance criteria.
+Use big data, relational and non-relational data sources to access data at the appropriate level of granularity for the needs of specific analytical projects. Maintains up to date knowledge of the relevant data set structures and participate in defining necessary upgrades and modifications.
+Collaborate with software and data architects in building real-time and automated batch implementations of the data science solutions and integrating them into the streaming service architecture.
+Drive work on improving the codebase and machine learning lifecycle infrastructure.
+
+Quals--
+Advanced (Master or PhD) degree with specialization in Statistics, Computer Science, Data Science, Economics, Mathematics, Operations Research or another quantitative field or equivalent.
+3+ years of combined experience in advanced analytics in industry or research.
+Experience in being a lead data scientist on large projects.
+Deep knowledge of statistical methods and machine learning with special emphasis on the advanced algorithms like neural networks, SVM, random forests, bagging, gradient boosting machines, k-means++, deep learning or reinforcement learning. Expert level in 5+ classes of algorithms.
+Experience implementing scalable, distributed, and highly available systems using Google Cloud.
+Experience with data visualization tools and techniques.
+Understanding of algorithmic complexity of model training and testing, particularly for real-time and near real-time models.
+Proficient in Python and SQL
+Desired Skills and Experience
+DATA SCIENTIST

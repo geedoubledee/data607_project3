@@ -1,0 +1,83 @@
+About the job
+Are you ready to take the next step in your career? Maybe you’re looking for advancement opportunities, a better work-life balance, or just something new and exciting.
+
+At Pekin Insurance, we strive to go Beyond the expected® in everything we do.
+
+What You'll Do
+
+Position Overview
+
+The Data Scientist is responsible for using advanced analytic methods to extract value from business data and influence teams and decisions with data-based recommendations. The Data Scientist is responsible for modeling complex business problems and discovering business insights through the use of statistical, algorithmic, mining, and visualization tools. Additionally, the Data Scientist integrates and prepares large, varied datasets, architecting specialized database and computing environments, and communicating results.
+
+The Data Scientist provides data that is congruent and reliable, proposes innovative ways to look at problems using data mining approaches, validates findings using experimental and iterative approaches, and presents back his/her findings by exposing assumptions and validations in a way that can be easily understood by business stakeholders.
+
+Essential Job Functions
+
+Designs experiments, tests hypotheses, and builds models
+Conducts advanced data analysis and complex designs algorithm
+Applies statistical and predictive modeling techniques to build, maintain, and improve on multiple real-time decision systems
+Models and frames business scenarios that are meaningful and have an impact on critical business processes and/or decisions
+Works with IT teams to support data collection, integration, and retention requirements based on the input collected with the business
+Develops experimental design approaches to validate finding or test hypotheses
+Employs the appropriate algorithm to discover patterns
+Educates the organization both from IT and the business perspectives on new approaches, such as testing hypotheses and statistical validation of results
+Inspires business stakeholders about the art of the possible, for example, by citing use cases from industry peers
+Solicits project ideas from different business stakeholders
+Creates a range of implementation scenarios from build, buy versus outsource and understands the corresponding cost, risk and benefit components
+Catalogs, documents and manages different datasets, internal or external
+Appropriately vectorizes (transform, convert and model) text, image, audio, machine/consumer data, time-series data and potentially geolocation or log data
+Performs data sampling and data aggregation, fuzzy encoding, etc.
+Generates smart hypotheses of the underlying mechanics of the business process
+Applies a wide array of machine learning models: various regression and clustering techniques, ensemble techniques (random forests, XGBoost) and time-series analysis
+Performs real world testing of machine learning (ML) models such as champion-challenger (A/B testing) and cross-validation
+Continuously monitors the execution and health of models within the process environment
+Performs other duties as assigned
+
+Required
+
+Education & Experience
+
+Bachelor’s degree in Mathematics, Statistics or Computer Science or related field required;
+Typically requires 1-3 or more years of relevant quantitative and qualitative research and analytics experience
+
+Preferred Or Specialized
+
+Experience using machine learning algorithms
+Experience performing statistical analysis and applying visualization techniques
+
+Certifications & Licenses
+
+N/A
+
+Knowledge, Skills & Abilities
+
+Demonstrated knowledge of:
+
+Data flows and sources at the business application level, and the data necessary for the development and proper operation of models
+Statistical techniques
+
+Demonstrated Skill In
+
+Statistical analysis, quantitative analytics, forecasting/predictive analytics, multivariate testing, and optimization algorithms
+Statistical packages
+
+Demonstrated Ability To
+
+Have clarity, accuracy, precision, relevance, depth, breadth, logic, significance, and fairness
+Guide, inspire and tell stories
+Think creatively and come up with innovative solutions to problems
+Solve for a variety of business contexts (e.g., financial risk, customer journey modeling, quality management, sales and marketing)
+Have a holistic problem-solving attitude
+Code various scripting languages: SQL, Perl, Python, etc., to cleanse raw data and bring it into a usable form
+Have a curiosity to learn and understand a business process to its core
+Use various statistical and visualization tools, such as Excel, R, Python, MATLAB and SAS programming language, and potentially analytics and business intelligence (ABI) platforms
+
+What We Offer
+
+We get it-- You’re looking for a career with a company that invests in you. Our desire to enhance the employee experience through our benefits, work perks, and team-oriented environment made us one of 2019’s and 2020’s “Best Places to Work in Illinois.”
+
+Some of what we offer includes paid volunteer time, reimbursement for industry certifications, flex time, potential remote work opportunities, and more.
+
+Interested?
+
+Are you ready to join a team of people who work to provide exceptional service to our policyholders, agents, and community? Apply today!

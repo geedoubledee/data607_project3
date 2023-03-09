@@ -1,0 +1,35 @@
+About the job
+Apply Now
+
+<< Return to Search Results
+
+Machine Learning Engineer
+
+Remote (EST Time Zone)
+
+Contract-to-Hire
+
+Brooksource is looking for several Software Engineers to join their Fortune 18 Retail client's Machine Learning Enablement & Team. As a ML Engineer you will analyze how internal users have adopted ML tools in the environment, identify their needs, and work with Custom Tools team to strategically plan out how to make machine learning experience in the company better. The goal is to help internal customers improve and streamline their machine learning projects/applications.
+
+Requirements
+Basic understanding and interest towards machine learning and data science
+Experience in common programming language, prefer but not limit to python
+Understanding of relational database and SQL
+Ability to work with customers, take requirements and solve business issues
+Analytics experience to aggregate data and visualize as needed
+Additional bonus technologies: GCP, Google Vortex, Sci Kit, Panda, Numpy, Tenser Flow, Spark, ML Flow
+Responsibilities
+Pair program daily with a Senior Engineer
+Work closely with internal customers – ranging from BAs to Data Scientists – to understand their business issues
+Resolve customer business issues
+Ability to advocate for ML tool that is being implemented streamline
+Ability to write code to bridge the gap between homegrown application and third party software
+Eight Eleven Group provides equal employment opportunities (EEO) to all employees and applicants for employment without regard to race, color, religion, national origin, age, sex, citizenship, disability, genetic information, sexual orientation, gender identity, marital status, amnesty or status as a covered veteran in accordance with applicable federal, state, and local laws.
+
+Brooksource provides equal employment opportunities (EEO) to all employees and applicants for employment without regard to race, color, religion, national origin, age, sex, citizenship, disability, genetic information, gender, sexual orientation, gender identity, marital status, amnesty or status as a covered veteran in accordance with applicable federal, state, and local laws.
+
+JO-2302-132892
+
+Apply Now
+
+Tagged as: Yes

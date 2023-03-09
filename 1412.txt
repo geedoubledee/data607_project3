@@ -1,0 +1,42 @@
+About the job
+About Working at Mobi
+
+
+Mobi works B2B with some of the largest travel, transport and hospitality brands on the planet. We use the scale of our customers to make a difference in the world. We grew the company out of MIT in 2013, and our goal is for each person on the team to have something they do better than anyone else, while also continuously learn from all their peers. Most positions are in-person, based out of our Davis Square office. We also are open to remote positions in Australia or Europe if if you are willing to own some of DevOps in addition to your core role. All roles have positions open for junior, senior, lead and principal / director team depending on your experience.
+
+
+We recently closed a >20M series A. We are woman-led, and many identities are represented by the current team. Because we’re in the travel space, we encourage everyone on the team to spend a month a year working from anywhere, which we support with a travel stipend. Beyond that, we offer competitive compensation and benefits that are becoming progressively more Scandinavian as we grow.
+
+
+
+Your Role
+
+
+As a Research Data Scientist at Mobi Systems, you would play a critical role in the development and implementation of our core POI characterization models and taxonomy development, as well as architecting the infrastructure for them. Your focus will be working on research problems such as entity creation and relationship estimation for the tens of thousands of concepts that could be used for describing travel related activities, and incorporate the approach into different real-world planning systems for travel and transportation. The ideal candidate will be familiar with models and algorithms in one or several of these areas at both the theoretical and implementation levels. You will have the chance to solve complex research problems and see your solutions come to life in different fields and across the world!
+
+
+?
+
+Qualifications:
+
+?
+
+* M.Sc./Ph.D. in Artificial Intelligence, Machine Learning, or a related field.
+
+
+* Experience with modern machine learning models, network optimization algorithms, and the latest research trends.
+
+
+* 2+ years of relevant academic research or industry experience in developing algorithms and building models.
+
+
+* Depth and breadth in state-of-the-art approaches for at least one of natural language processing, operations research, or constraint programming.
+
+
+* Strong programming skills with programming languages such as Java, C++, or Python.
+
+
+* Strong written and verbal communication skills.
+
+
+* Excellent creative problem solving skills.

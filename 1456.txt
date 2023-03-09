@@ -1,0 +1,38 @@
+About the job
+At AES, we raise the quality of life around the world by changing the way energy works. Everyone makes an impact every day in our small, global teams. Apply here to start an extraordinary career today.
+
+To accelerate the future of energy, AES relies on Data Scientists to support AES' digital transformation by developing strategies for using data to solve business problems. The Data Scientist for the AES CE Innovation & Technology team is responsible for engaging with operation, maintenance, performance management, portfolio management, engineering, and analytics teams to understand tactical day to day challenges and look for ways to leverage data to optimize AES CE fleet’s operation, and business processes and decision makings. Specifically, the Data Scientist leads algorithm development, deploys solutions, implements, and validates predictive models, and creates and maintain statistical models, to solve business challenges including but not limited to asset underperformance issues.
+
+Main Responsibilities:
+
+Gain a thorough understanding of AES CE business, technology stack, and analytics capabilities.
+Work closely with Operation Technology teams, software developers, and internal and external customers to design and develop data repositories, analytic services and data driven solutions.
+Develop, deploy, and sustain advanced analytics and machine learning tools/approaches to optimize business process decision making and to enhance performance of assets.
+Identify, retrieve, manipulate, relate and exploit multiple structured and unstructured data sets from various sources including building or generating new data sets as appropriate.
+Create and present materials on data projects, data science architecture and analytics strategies.
+Develop and deploy digital tools using AI/ML to continuously screen the operating fleet, challenging underlying assumptions, to discover investment grade opportunities that optimize all aspects of operation and maintenance of the AES CE fleet.
+Use modelling techniques to evaluate the benefit of various new technologies and innovative solutions, and where these solutions will have the greatest impact on the fleet of asset.
+Use statistical concepts such as regression, time series, mixed model, Bayesian methods, clustering, etc. to analyze data and provide insights.
+Work in an agile, collaborative environment, partnering with other scientists, engineers, and database administrators of all backgrounds and fields to bring analytical rigor and statistical methods to the challenges of predicting behaviors.
+
+Qualifications:
+
+Master’s degree in quantitative analysis, engineering, engineering, statistics or a closely related field; a PhD degree is preferred.
+3-5 years of work experience as a Data Scientist, preferably in the renewable energy industry.
+Familiarity with renewable assets (wind, solar, energy storage)
+In depth experience with advanced analytical tools (AI/ML), analytics and BI platforms, data management techniques, and statistical methods.
+In depth knowledge with AI/ML concepts and statistical concepts such as regression, time series, mixed model, Bayesian methods, clustering, etc., to analyze data and provide insights.
+Experience collaborating, managing & developing AI/ML projects.
+Proficient in the following focus areas; Process Improvement, Business Performance and Analytics.
+Strong communication and data visualization skills to adequately explain complex subject matter to a wide range of associates.
+Capability to work dynamically and collaboratively across multiple teams and projects in a technical business environment.
+Capable of dealing with the ambiguity and the flexibility to change direction as additional information becomes available.
+Planning and project management skills for multiple change efforts.
+Outstanding interpersonal skills, including an ability to maintain calm and effective exchanges by all parties.
+Experience with Python and SAS would be a plus.
+
+AES is an Equal Opportunity Employer who is committed to building strength and delivering long-term sustainability through diversity and inclusion. Respecting all backgrounds, differences and perspectives enables us to improve the lives of our people, customers, suppliers, contractors, and the communities in which we live and work. All qualified applicants will receive consideration for employment without regard to sex, sexual orientation, gender, gender identity and/or expression, race, national origin, ethnicity, age, religion, marital status, physical or mental disability, pregnancy, childbirth, or related medical condition, military or veteran status, or any other characteristic protected under applicable law. E-Verify Notice: AES will provide the Social Security Administration (SSA) and if necessary, the Department of Homeland Security (DHS) with information from each new employee's I-9 to confirm work authorization.
+
+The expected salary for this position, at commencement of employment, is between $75.000 and $106.250/Annual; however, base pay offered may vary depending on multiple individualized factors, including market location, job-related knowledge, skills, and experience. The total compensation package for this position may also include other elements such as annual bonus, in addition to a full range of medical, dental, vision, life, financial, and/or other benefits (including 401(k) eligibility and various paid time off benefits, such as vacation, sick time, and parental leave), dependent on the position offered. Details of participation in these benefit plans will be provided if a candidate receives an offer of employment. If hired, employee will be in an “at-will position” and the Company reserves the right to modify base salary (as well as any other discretionary payment or compensation program) at any time, including for reasons related to individual performance, Company or individual department/team performance, and market factors.
+
+Safety comes first at AES. To protect the health and safety of our people, customers, communities and partners, and to provide and maintain a workplace that is free of known hazards, AES requires all newly-hired people or current AES people applying for U.S.-based role(s), to be fully vaccinated against COVID-19 or be willing to be fully vaccinated against COVID-19 by their date of hire. Except where prohibited by law or not specifically covered in a collective bargaining agreement, new hires and transfers will be required to provide proof of vaccination during onboarding and periodically thereafter. This policy will comply with all applicable laws and is based on guidance from the Centers for Disease Control and Prevention and local health authorities, as applicable.

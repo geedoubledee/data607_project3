@@ -1,0 +1,56 @@
+About the job
+About Found
+
+The self-employed workforce is a rapidly growing, resilient, and colorful 60 million Americans. But self-employment comes with its own set of challenges: navigating taxes, accounting, bookkeeping, and business banking are just a few. That’s where we come in.
+
+Found is building tools that give self-employed people the security and peace of mind that has historically only been possible at big corporations. We’re a business bank account that automates taxes and expense tracking because we believe small business owners should spend more time doing what they love and less time on their business finances.
+
+We’re looking for kind, resourceful, and passionate people to join us in building the safety net for self-employment.
+
+About this role:
+
+Hi, I’m Aabhas and I’m the CTO here at Found. Thanks for your interest. Our team is responsible for taking products from ideation to being used by tens of thousands of users every week. We're a small but experienced team that has worked on complex problems such as money movement and taxes at Square, on-demand delivery at Uber, and building large-scale support solutions at Microsoft. Our team values moving fast while moving safely, investing in engineering excellence, and sharing learnings early and often.
+
+We are looking for our first Data Science hire for the Risk Engineering team, and I personally review every application, so if you have any questions please include them in your application.
+
+Some fun facts about our Risk Engineering team:
+The team has gone from inception 6 months ago to being responsible for performing risk analysis on $600M+ of money movement per year – protecting the company from millions of dollars of potential financial loss per year.
+We’ve built several new systems from scratch, including introducing advanced scoring in the hot path (card swipe), Airflow-based fraud pipelines, and more.
+Supported the launch of several new methods of moving money in and out of our platform.
+
+Day to day, you will:
+Identify different areas of known and unknown risk and provide insights to reduce risk.
+Analyze large amounts of device, user, and behavioral data to identify clusters of bad users.
+Identify and create new risk signals to detect fraud.
+Propose product solutions based on learnings from our data to add friction for fraudulent users without negatively impacting the product experience for good users.
+Partner with Risk, Compliance, and Data Engineering to measure and consistently improve risk metrics.
+Design and build tools for the Risk Operations team to automate processes and decision-making.
+Research novel techniques and best practices to parse large, diverse data sets.
+
+To thrive in this role, you have:
+5+ years in Data Science/Analytics.
+Expert with Python/R and SQL.
+Ability to translate complex data into actionable insights for all stakeholders.
+Proven track record of driving product direction by using data.
+
+You may also have:
+Previous experience working in Financial Risk.
+Experience in building ML-based Fraud and Risk models.
+Previous startup experience.
+Experience with bookkeeping or taxes and how it relates to self-employment.
+
+About You
+
+Found is built by a team that comes from a variety of backgrounds and experiences, and we firmly believe that diversity, equity, and inclusion are crucial to our success. As we grow, we’re searching for passionate and motivated team members who are excited to bring their skill set to the team and are ready to learn from others.
+
+If you are looking for a role where you will have the opportunity to make a meaningful contribution and great impact, we would love to hear from you!
+
+Perks & Benefits Of Found
+401K, FSA, and Commuter Benefits: We offer all employees access to tax-efficient benefit options alongside competitive base compensation.
+Paid parental leave: Found supports employees through all stages of life, which is why new parents employed by Found qualify for 16 weeks of flexible parental leave.
+Health benefits: Comprehensive medical, dental, and vision benefits and are always 100% covered for employees, 75% covered for dependents.
+Work anywhere: We have Found offices in SF, Seattle, and NYC. For team members who work outside those cities, Found also supports fully remote working.
+Meaningful equity: Everyone on our team should feel and act like an owner, which is why Found offers industry-competitive equity to all of our employees.
+Flexible vacation policy: Vacations, appointments, mental health days- take the time you need, whenever you need to with our flexible time-off policy
+
+To learn more about our benefits or the team please go to found.com/careers.

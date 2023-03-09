@@ -1,0 +1,30 @@
+About the job
+Blu Omega is a Woman Owned Small Business (WOSB) IT services firm located in the National Capital Region (NCR). We provide Technology solutions for enterprise and government customers. Our team has a past performance in a diverse range of programs including those for Data Management, Cloud and Infrastructure, Software Development and Enterprise Applications.
+
+Currently, we are looking for a Bioinformatics Data Scientist to join our team that supports a highly visible federal health program. This is a remote role, responsible for supporting customers in the Eastern Time Zone.
+
+The Bioinformatics Data Scientist will work closely with a team of bioinformaticians and epidemiologists on federal health projects.
+
+Responsibilities Include
+
+Managing and analyzing large genomic databases from epidemiological and clinical studies.
+Data manipulation, algorithmic implementation, statistical programming, and integrated genomic analyses.
+Installing, troubleshooting and running analytical pipelines using open-source and commercial scientific software on Unix/Linux and Cloud-hosted platforms, and using publicly available bioinformatics and genomic databases and tools.
+
+Required Skills
+
+Masters degree in Biomedical Sciences, Computer Science, Engineering, Mathematics or other health-related field
+Ability to obtain and maintain a Public Trust Security clearance
+2+ years of experience with in the field of Biological and Biomedical Sciences
+2+ years of experience with analysis packages and programming languages such as R, Python, SPSS, SQL, and SAS
+2+ years of experience with scientific research methods as applied to quantitative data analysis
+
+Preferred Skills
+
+PhD in Biomedical Sciences, Computer Science, Engineering, Mathematics or other health-related field
+Active government security clearance
+Prior government consulting experience
+Knowledge of machine learning, data mining, and statistical modeling
+Strong problem solving and troubleshooting skills with experience exercising mature judgment
+Experience in whole exome/genome sequencing analysis (such as mutation, copy number and structural variant calling), mutational signatures, tumor evolution, and epigenetic analysis
+Familiarity and established working knowledge of tools to investigate cancer genomics with publicly available data sources (such as dbGaP, TCGA, ENCODE, 1000 Genomes, TARGET, GTEX, gnomAD, cBioPortal)

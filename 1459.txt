@@ -1,0 +1,90 @@
+About the job
+Hi
+
+Role- Data Scientist
+
+Location - Stamford, Connecticut (Onsite)
+
+Mode- Contract
+
+Job Description ::
+
+at least 3 years of strong (US based) SQL experience and 3 years (US Based) SAS/python and predictive modeling experience. need someone who not only understand the data but also understands the business impact of these models and the data/insights.
+
+someone coming out of financial industry would be preferred but not required. someone who has built predictive models for a company in financial industry for example.
+
+project focus: they are building a predictive model to evaluate credit risk in real time for potential new customers. they want to assess risk in real time so they can make financing offers to them as they look to sign up
+
+they currently have a model in production also that they need to keep checking performance on. doing performance tracking and make adjustments to the model accordingly based on the tracking/findings.
+
+they are expecting the delinquency rate to rise this year due to the economic downturn. their models are not equipped to factor this in so they must do an analysis / forecasting based on expected economic effects this year.
+
+Description
+
+The Data Scientist will build predictive and statistical models to improve credit policy and minimize credit losses. The position leads development and analysis of new Credit Services strategies, partnering with Credit Services subject matter experts, as well as operations partners, to create new approaches and improve risk mitigation performance. The successful candidate will be responsible for generating the quantitative analysis necessary for data-driven business recommendations.
+
+Major Duties And Responsibilities
+
+Actively and consistently supports all efforts to simplify and enhance the customer experience.
+
+Create predictive and statistical models to identify possible defaulters
+
+Use statistical techniques to build various predictive/explanatory models for such initiatives as: acquisition/risk management, customer retention, and customer segmentation
+
+Analyze data to provide meaningful insights. This individual must have strong data manipulation and interpretation skills, and be able to quantitatively assess business problems.
+
+Gather business requirements. This individual will need to work with leadership and business partners to identify data and reporting needs for analysis.
+
+Partner on the design and implementation of statistical data quality procedures for existing and new data sources.
+
+Communicate complex data science solutions, concepts, and analyses in a clear and effective manner to team members and business leaders.
+
+Establish links across existing data sources and find new, interesting data correlations.
+
+Present data insights and recommendations to key stakeholders.
+
+Achieve defined project goals within deadlines; proactively communicate status and escalate issues as needed.
+
+Ensure testing and validation are components of all analytics solutions.
+
+Required Qualifications
+
+Skills/Abilities and Knowledge
+
+Hands-on experience of statistical model building, validation, and implementation
+
+Experience with analytical and statistical software/tools such as SAS or Python
+
+Strong expertise in SQL
+
+Excellent analytical and problem solving skills with attention to detail and data accuracy
+
+Detail oriented, self-motivated, proactive and results driven
+
+Ability to research and analyze data
+
+Ability to perform in-depth and independent research and analysis
+
+Willingness to Learn
+
+Strong interpersonal communication, verbal and written, relationship management, and customer service skills with a focus on working effectively in a team environment
+
+Ability to maintain confidentiality and appropriately handle sensitive information
+
+Strong knowledge of core computer science principles including algorithms, data structures, and design methodologies
+
+Ability to read, write, speak and understand English
+
+Education
+
+Bachelor's degree in computer science, statistics and/or equivalent combination of education and experience. Preferred quantitative master in science.
+
+Rahul Sharma
+
+IT Technical Recruiter
+
+Phone : 321-323-1079
+
+E mail: Rahul.sharma@stellentit.com
+
+Gtalk: rahul.sharma@stellentit.com

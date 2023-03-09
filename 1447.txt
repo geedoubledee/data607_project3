@@ -1,0 +1,22 @@
+About the job
+HSB has a great opportunity on the team for a Data Scientist. Join an industry leader that is growing and innovative with a great company work culture!!!
+
+In this position, you will work under the guidance of more senior data science staff on modeling projects but is expected to ensure the appropriate modeling and analytic methodologies are applied within the scope of a given project. In addition, work on small scale or ad hoc data science projects independently. Work closely with data engineering and infrastructure teams to deploy models and data products at scale. Education and Experience:
+
+Bachelor’s degree in Statistic, Computer Science, Engineering, Mathematics or related field is required or equivalent work experience
+Master’s degree in a qualitative field is preferred
+2+ years’ experience predictive analytics, data mining or statistical analysis in the insurance industry or 4+ years predictive analytics, data mining or statistical analysis in other industry
+Experience with Git or similar tool for version control
+Experience working with big-data technology on Linux-based systems is a plus
+Experience with deep learning frameworks (TensorFlow, Keras, PyTorch, etc.) is a plusExperience with Bayesian programming languages/frameworks such as Stan, or PyMC3 is a plus
+
+Knowledge and Skills:
+
+Hands-on experience in Python, R, SQL, Scala
+Exposure to cloud computing (Azure, AWS, etc.)
+Solid foundation in statistics and machine learning models, processes, and theories, with the ability to evaluate different algorithmic approaches
+Ability to write production-ready code
+
+At The Hartford Steam Boiler, a subsidiary of Munich Re, we see Diversity and Inclusion as a solution to the challenges and opportunities all around us. Our goal is to foster an inclusive culture and build a workforce that reflects the customers we serve and the communities in which we live and work. We strive to provide a workplace where all of our colleagues feel respected, valued and empowered to achieve their very best every day. We recruit and develop talent with a focus on providing our customers the most innovative products and services.
+
+We are an equal opportunity employer. Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions. The Hartford Steam Boiler Inspection and Insurance Company (HSB), a part of Munich Re since 2009, provides equipment breakdown and other specialty coverages, inspection services and engineering consulting that set the standard for excellence worldwide. One of the world’s leading equipment breakdown insurers, HSB helps clients reduce risk through a unique combination of specialty coverages, engineering-based risk management strategies and loss prevention services. A.M. Best Company awarded the HSB Group of companies its highest financial rating, A++ (Superior). We look ahead, anticipate risk and leverage our knowledge and experience to develop new solutions to help our clients meet tomorrow's challenges. To see the future we see check out our LinkedIn page: http://www.linkedin.com/company/hsb

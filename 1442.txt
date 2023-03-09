@@ -1,0 +1,113 @@
+About the job
+Job title: Data Scientist
+
+Department: Emerging Business
+
+Reporting to: Data Science Manager
+
+Location: Hybrid - Boston, MA
+
+
+
+How you will make an impact…
+
+
+We are seeking a highly analytical candidate to join our team as a Data Scientist on the Research and Development (R&D) team. The R&D team conducts early stage research to prioritize new product concepts, manages the short-term product pipeline by taking products and features to at least a proof of concept stage, and identifies and integrates external data to complement and enrich our existing proprietary data.
+
+
+The Data Scientist will support the R&D team with their strong business acumen and ability to develop data product prototypes. Strong communication and experience collaborating across multiple teams are a must. They should enjoy working with complex problems and use a broad range of analytical techniques to creatively tackle new questions and issues as they arise.
+
+
+What you will be doing…
+
+
+Including but not limited to:
+
+
+Define Customer Needs and Pursue Solutions
+
+Collaborate with Client Analytics & Insights team to understand our clients’ needs
+Break down complex problems into discrete issues and determine which ones to prioritize and pursue
+
+Collect, Clean and Set-up Data
+
+Evaluate external data sources for usefulness, reliability and ease of integration
+Wrangle structured and unstructured data from diverse sources into a standardized form
+Play with the data until it breaks and surface issues before it gets to the client or client teams
+
+Analyze and Visualize Data
+
+Design and conduct comparative analyses of large complex datasets to determine next steps
+Summarize analysis using a wide range of data visualization techniques to determine the types of insights derived from the product and data limitations
+Prototype new ways of visualizing and interacting with our data
+
+Develop and deploy machine learning and statistical models
+
+Use understanding of the underlying data and business objectives to optimize feature engineering for input data
+Design and train models (current priority applications are in pattern similarity detection, but there are a wide range of potential product use cases)
+Work with engineering team to deploy machine learning algorithms into production environment
+
+Communicate Insights
+
+Draw relevant conclusions from analysis and make recommendations based on how these conclusions impact new and existing products
+Document data definitions to be embedded in new products and business rules for analysis of these new data
+Work with internal teams (product development, client services, data operations) to translate analytical findings and model prototypes into product requirements and insights for clients
+
+Desired Skills & Abilities
+
+Experience with large scale geospatial data
+Experience with AWS suite of tools for data analysis, data management and ETL processes: EMR, s3, aws cli
+Proficiency with Hive and SQL a significant plus
+Telecoms industry expertise a plus
+Some experience with data visualization tools desirable (e.g. Tableau, Qlik, Spotfire)
+
+Required Skills & Abilities
+
+At least 3 years of relevant work experience
+Applied experience with Machine learning algorithms (classification, clustering, optimization) beyond just tinkering, or classroom
+Real world experience with Spark (SQL + MLlib): querying, manipulating and analyzing large (100+ TB) data sets, plus using ML models (Scala preferred, but Python/R/Java still useful)
+Strong toolkit of quantitative and qualitative analytical techniques rooted in business, economic and statistical analysis
+Examples of business analysis include: market competitiveness, financial analysis, social media monitoring
+Examples of statistical analysis include: linear regression, logistic regression, non-parametric statistics, probabilistic modeling, spatial modeling
+Passionate about telling stories using data
+Desire to get hands dirty working with data every day, balanced with ability to surface insights that shape new products
+Proficient with Microsoft Excel and PowerPoint, or able to generate compatible outputs using other tools, e.g. csv files
+Some experience with statistical packages (e.g. R, Python stats libraries, SPSS, SAS, STATA)
+
+At this time, we will not sponsor a new applicant for employment sponsorship for this position.
+
+Please submit a cover letter along with your resume to joinus@comlinkdata.com.
+
+Explain why you are interested in working for our company and the specific role.
+Describe one relevant project where you used data to create actionable business insights or a data-driven product.
+
+
+At this time, the company will not sponsor a new applicant for employment sponsorship for this position.
+
+
+This employer participates in E-Verify and will provide the federal government with your Form I-9 information to confirm that you are authorized to work in the U.S.
+
+
+About US
+
+Opensignal is the leading global provider of independent insight and data into network experience and market performance. Our user-centric approach allows communication providers to constantly improve their network and maximise commercial performance. Leading analysts, investors and financial institutions place a high value on our independent analysis and we are regular contributors to their reports.
+
+
+Real network experience is our focus and ultimately that’s what influences customer choice. Our mission is to advance connectivity for all and here at Opensignal, the team is leading the industry in enabling operators to link their network experience and market performance in a way that has never before been possible.
+
+
+With offices in London, Boston and Victoria, British Columbia, we are truly global, with employees working across four continents and representing over 25 nationalities. We are an equal opportunity employer dedicated to building an inclusive and diverse workforce.
+
+
+Benefits:
+
+
+We believe we are stronger when we not only celebrate our many differences, values, and voices but include them in everyday practice. Having a diverse and inclusive culture is essential, which is why we offer a flexible approach to work-life balance, operating in a remote-hybrid way. We’ll help you get set up with the essentials you need to work from home or the office. We also offer an attractive range of additional benefits, including:
+
+
+Competitive compensation packages including a long-term equity program
+Comprehensive group benefits package and company sponsored retirement savings plan (details depend on your country of work)
+Professional development opportunities: education reimbursement, learning allowance, company-sponsored workshops, and more!
+Generous holiday allowance, sick leave, parental leave, flexibility including Flex Fridays, and the opportunity to work from abroad
+Charity matching and time off for community volunteering and DE&I program/committees
+Regular virtual and in-person events and socials

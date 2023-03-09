@@ -1,0 +1,70 @@
+About the job
+About This Role
+
+About the Team
+
+You will be part of a team whose focus is to solve cutting edge AI problems and deploying models that constantly advance the state-of-the-art. You will be working across various Natural Language Processing (NLP) areas like summarization, topic segmentation, language modeling, coreference resolution and other interesting challenges that are challenging at Zoom's scale.
+
+About The Role
+
+A person in this role is expected to able to carry out independent research without much supervision, collaborate with other researchers on larger scale projects, and provide directions to junior engineers on their research/engineering tasks.
+
+Build and scale Machine Learning (ML) services which enable Zoom’s products
+
+Research, build and deploy state-of-the-art Machine Learning models for Natural Language Processing use cases – mostly in the conversational domain
+
+Take ML models from research all the way to production
+
+Integrate and support the ML services with product and operations teams
+
+About You
+
+Basic Qualifications
+PhD degree in Computer Science, Machine Learning, or related degree with 3+ years of relevant experience or Master with 6+ years of relevant experience
+Strong coding skills in Python
+Experience with one or more of the following: Natural Language Generation, Natural Language Understanding, summarization, topic modeling and segmentation, training/fine tuning large language models, transformer
+Experience with Machine Learning toolkits (TensorFlow, PyTorch, Spacy, etc.)
+Strong verbal and written communication skills
+Preferred Qualifications
+Experience in distributed training and performance optimization on GPU’s
+Experience working on multi-modal ML
+Familiarity with large-scale data processing and distributed systems.
+Microservice, Docker, Kubernetes, REST API, AWS
+Minimum
+
+Salary Range or On Target Earnings:
+
+$117,000.00
+
+Maximum
+
+$233,900.00
+
+In addition to the base salary and/or OTE listed Zoom has a Total Direct Compensation philosophy that takes into consideration; base salary, bonus and equity value.
+
+Information about Zoom’s benefits is on our careers page here.
+
+Note: Starting pay will be based on a number of factors and commensurate with qualifications & experience.
+
+We also have a location based compensation structure; there may be a different range for candidates in this and other locations.
+
+Work Styles at Zoom
+
+In most cases, you will have the opportunity to choose your preferred working location from the following options when you join Zoom: in-person, hybrid or remote. Visit this page for more information about Zoom's Workstyles.
+
+About Us
+
+Zoomies help people stay connected so they can get more done together. We set out to build the best video product for the enterprise, and today help people communicate better with products like Zoom Contact Center, Zoom Phone, Zoom Events, Zoom Apps, Zoom Rooms, and Zoom Webinars.
+
+We’re problem-solvers, working at a fast pace to design solutions with our customers and users in mind. Here, you’ll work across teams to deliver impactful projects that are changing the way people communicate and enjoy opportunities to advance your career in a diverse, inclusive environment.
+
+Explore Zoom
+Hear from our leadership team
+Browse Awards and Employee Reviews on Comparably
+Visit our Blog
+Zoom with us!
+Find us on social at the links below and on Instagram
+View more jobs, sign up for job alerts and join our talent community. Visit the Zoom careers site.
+We believe that the unique contributions of all Zoomies is the driver of our success. To make sure that our products and culture continue to incorporate everyone's perspectives and experience we never discriminate on the basis of race, religion, national origin, gender identity or expression, sexual orientation, age, or marital, veteran, or disability status. Zoom is proud to be an equal opportunity workplace and is an affirmative action employer. All your information will be kept confidential according to EEO guidelines.
+
+We welcome people of different backgrounds, experiences, abilities and perspectives including qualified applicants with arrest and conviction records and any qualified applicants requiring reasonable accommodations in accordance with the law. If you need any assistance or accommodations due to a medical condition, or if you need assistance accessing our website or completing the application process, please let us know by emailing us at careers@zoom.us.

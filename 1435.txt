@@ -1,0 +1,32 @@
+About the job
+This job is sourced from a job board. Learn moreSr. Healthcare Data Analyst- Jorie
+
+Oak Brook, IL Hybrid remote
+
+Full Job Description
+
+The Senior Data Analyst is a new and very visible role within the Data Management team at this high-growth healthcare company. This position serves as a key resource within the Corporation to develop corporate data structures, and design efficient analytics, high-impact user interfaces and responsible oversight of corporate data. Position will be a liaison to the corporate Sales, Operations, Finance and Compliance teams to build standards and support the team commitments to being a data-driven organization. Successful candidate will deliver reporting & analytical solutions that help measure, improve, and predict the business trends, business value and risks across the enterprise.
+
+Requirements
+
+Bachelor’s degree in Math, Statistics, Economics, MIS or other quantitative field 3-5+ years of experience working on reporting, data mining, statistics or analytical projects in a professional setting
+Proficiency with SQL
+Experience extracting and integrating data from external and internal data lakes and data warehouses
+Expertise with reporting tools such as PowerBI, BusinessObjects, or Tableau Expertise with a scripting language such as Python or R Exposure to ML/AI project work
+Demonstrated skill with communicating complex concepts to colleagues with varying degrees of analytical knowledge
+Demonstrates strong analytical and problem-solving skill
+Desire to work in a fast-growing environment with strong time management skills
+Strong preference for healthcare industry and data analytics experience
+
+Responsibilities
+
+Develop/refine corporate data structures and rules to include a variety of data sources and data aggregation requirements
+Contribute to design of efficient and effective standard client and corporate reporting and dashboards that can be readily replicated on a timely basis.
+Determine best methods to model, manipulate and present data to identify Compliance Risk. Use advanced analytical techniques to generate regulatory/risk insights that inform the Bank risk profile at an enterprise level.
+Incorporate performance and data quality considerations into visualization planning and delivery
+Understand and anticipate the needs of business teams to determine the best approach to effectively meet those needs through data visualizations
+Work closely with business and operations teams, data architects, database/software developers to develop dashboard and end-reporting solutions for our clients and in support of the executive management team
+Visualize and calculate metrics, KPIs from various data sources with consideration for integration and data drill-down capabilities required
+Deliver on project-based, and ad-hoc, data analysis and reporting requests.
+
+Jorie is different. We do not view our services as a commodity. Instead, we focus on understanding our client's goals and structure a custom set of deliverables around them. Be it improved patient outcomes, physician satisfaction or better margins, we will tailor a solution to meet both your short and long-term objectives. We provide, revenue cycle management, practice management, business process outsourcing and utilization/implementation of our proprietary AI bot technology to our clients.

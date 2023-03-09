@@ -1,0 +1,45 @@
+About the job
+Volitiion IIT Inc. is an IT Service and Staffing firm based of Leesburg VA. We have hiring Top Talents to add to our growing team of Technology Professionals.
+
+We are looking for a Data Scientist to add to our team.
+
+Job Overview
+
+Scope of job:
+
+Gather relevant data and perform detailed analysis of driver allocation and routing data to develop predictive models for driver assignment, arrival/departure timing, truckload optimization, and route optimization. Work directly with the client to understand desired outcomes and business/technical constraints. Develop analytical models that validate proposed changes to business practices/procedures and participate in the presentation of results to client leadership.
+
+Required
+
+Work with stakeholders to identify key metrics and opportunities for improving business processes, products, and services
+
+Perform data mining, exploration, and analysis
+
+Create data visualizations, reports
+
+Design, train, and implement machine learning algorithms
+
+Leverage predictive models to optimize logistics operations
+
+Bachelor's degree in data science, data analytics, or related field
+
+Proficiency in Python
+
+Knowledge of data science toolkits such as Pandas, NumPy, SKLearn, SQL
+
+Expertise in data mining and machine learning
+
+Working knowledge of building statistical models and business intelligence
+
+Familiarity with cloud-based infrastructure
+
+4 Reasons To Join Volitiion IIT, Inc.
+Our Commitment to You - We offer competitive pay, multi-year projects, and a list of exciting clients.
+Work-Life Balance - We work hard; we work smart and have quality time for family and "life."
+Our Mantra - We treat our consultants the way we want to be treated: with integrity, professionalism, and trust.
+Career Development - We help you meet your career goals and continuously support your efforts to build your skillset.
+Check out our Referral Program!
+
+Volitiion IIT Inc will pay you up to $1000 for every qualified professional that you refer and we place. If you see a position posted by Volitiion IIT Inc. and know the perfect person for the job, please send us your referral.
+
+Volitiion IIT Inc. is an Equal Opportunity/Affirmative Action Employer.

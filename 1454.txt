@@ -1,0 +1,98 @@
+About the job
+Company Overview
+
+Flock Safety provides the first public safety operating system that empowers private communities and law enforcement to work together to eliminate crime. We are committed to protecting human privacy and mitigating bias in policing with the development of best-in-class technology rooted in ethical design, which unites civilians and public servants in pursuit of a safer, more equitable society.
+
+Our Safety-as-a-Service approach includes affordable devices powered by LTE and solar that can be installed anywhere. Our technology detects and captures objective details, decodes evidence in real-time and delivers investigative leads into the hands of those who matter.
+
+While safety is a serious business, we are a supportive team that is optimizing the remote experience to create strong and fun relationships even when we are physically apart. Our flock of hard-working employees thrive in a positive and inclusive environment, where a bias towards action is rewarded. Flock Safety is headquartered in Atlanta and operates nationwide. We have raised over $380M in venture capital including a recent Series E round led by Tiger Global. Now surpassing a 3B valuation, Flock is scaling quickly and seeking the best and brightest to help us meet our goal of reducing crime in the United States by 25% in the next three years.
+
+Additional Information
+How To Succeed at Flock Video
+Flock’s Series E Announcement
+How We Stop Crime and Protect Privacy
+Flock’s Framework
+Ethics Center
+The Role
+
+As a Machine Learning Engineer you will research, develop, and support the machine learning models that allow our devices to decode evidence like a detective and define how non-violent crime is eliminated. The ideal candidate is someone who is passionate about taking cutting edge research and technology to solve new problems, and enjoys working with the entire lifecycle of Machine Learning software.
+
+How You'll Make An Impact
+Frame open-ended, real-world problems into well defined ML problems
+Develop data pipelines to create appropriate datasets and model feedback
+Leverage cutting-edge research and technology to create custom solutions
+Design and run experiments to test new ideas or improvements to existing models
+Develop applications to run machine learning in production
+Build visualization and monitoring tools to evaluate the quality of our data and models
+Collaborate across teams and product to deliver solutions that fit within business and organizational requirements
+Review code of other Machine Learning Engineers
+We're Looking For People Who
+BS/MS in Computer Science, Mathematics, Physics, Engineering, or proof of equivalent software engineering experience (PhD’s welcome)
+Experience solving problems using Machine Learning frameworks (Tensorflow, PyTorch, scikit-learn, etc.)
+Good understanding of Deep Learning and Traditional ML (supervised and unsupervised) algorithms
+Strong experience writing Python in a team environment
+Able to take on complex problems, learn quickly, iterate, and persist towards a good solution
+Effectively communicate, at the level of your audience, and seek to understand and be understood
+Experience in signal processing (e.g. Fourier analysis, time-frequency analysis) desired
+Basic SQL knowledge
+Basic git knowledge
+Experience with linear algebra, probability, and statistics preferred
+Our general interview process is outlinedhere.
+
+Our Tech
+
+But To Get Into The Nitty Gritty, Technology We Work With On The Daily Looks Like
+
+If you noticed, the above list says very little about specific coding skills. We believe the right person for this role is much more than a great engineer.
+Python/Django
+React, javascript, css, html
+AWS EC2/S3/RDS
+RDBMS modeling (e.g. PostgreSQL, MySQL)
+Our Values
+
+Our values define how we approach our work every single day:
+Do the Work
+Optimism With a Plan
+Embrace Change to Grow
+Protect the Whole Community
+To read more about our values, click here.
+
+Why Join Us?
+
+While Being Surrounded By a Bunch Of Cool People Working To Eliminate Crime Is Its Own Reward, We Have Plenty More To Offer
+We have raised over $380M in venture capital and are backed by some of the top VCs including a16z, Tiger Global, Meritech and more
+91% of our employees recommend working here
+We have an audacious goal of reducing crime in the United States by 25% over the next three years
+3% of crimes in the US are solved by Flock, and we help to solve ~200 crimes a day
+We partner with 2100+ cities and 1500+ agencies across the US and process 1.1B+ images a week (we process more images than Instagram ??)
+The Perks
+
+?? Salary & Equity : In this role, you’ll receive a starting salary of $150,000-$180,000 as well as stock options
+
+?? Use what you need PTO : We seriously mean it, plus 11 company holidays and your birthday off!
+
+?? Fully-paid health benefits plan for employees : including Medical, Dental, and Vision and an HSA match.
+
+?? Family Leave : We provide 16 weeks of 100% paid leave for primary caregivers and 12 weeks of 100% paid leave for secondary caregivers.
+
+?? Fertility & Family Benefits: We have partnered with Maven, a complete digital health benefit for starting and raising a family. We will reimburse $10,000 a year for adoption, surrogacy, or infertility.
+
+?? Mental Health: All employees receive an annual subscription to Headspace
+
+?? Caregiver Support: We have partnered with Cariloop to provide our employees with caregiver support
+
+?? Carta Tax Advisor: Employees receive 1:1 sessions with Equity Tax Advisors who can address individual grants, model tax scenarios, and answer general questions.
+
+??WFH Stipend: $150 per month to cover the costs of working from home.
+
+??L&D Stipend: $250 per year to use on Audible, Calm, Masterclass, Duolingo, Grammarly and so much more.
+
+??Home Office Stipend: A one-time $750 to help you create your dream office.
+
+??Coworking Space: If you’re not local to our ATL HQ, we’ll provide $250 a month to get you set up with an All Access Membership to WeWork (or a local coworking space in your area).
+
+?? Pet Insurance: We’ve partnered with Pumpkin to provide insurance for our employee’s fur babies.
+
+Flock is an equal opportunity employer. We celebrate diverse backgrounds and thoughts and welcome everyone to apply for employment with us. We are committed to fostering an environment that is inclusive, transparent, and collaborative. Mutual respect is central to how Flock operates, and we believe the best solutions come from diverse perspectives, experiences, and skills. We embrace our differences and know that we are stronger working together.
+
+If you need assistance or an accommodation due to a disability, please email us. This information will be treated as confidential and used only to determine an appropriate accommodation for the interview process.

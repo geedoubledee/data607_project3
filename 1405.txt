@@ -1,0 +1,61 @@
+About the job
+Job Summary: The Lead Data Science Researcher - Merchandising/Pricing Analytics applies Machine Learning (ML)/Artificial Intelligence (AI), statistical analysis, and visualization to large, complex data sets. Tackle the most difficult problems, leveraging storytelling to deliver insights that enable better decision making across the company. This role also works with technology teams to enable and operationalize new big data platforms, data models and tools supporting our data strategy.
+
+MUST HAVE:
+
+Experience in ML pricing models/price elasticity models/price optimization
+
+Principal Duties:
+
+
+Collaborate with the Analysis Center to execute the initiatives of our client's analytics strategy to strengthen the capabilities and promote the growth of an analytic culture and to improve data quality and promote best practices.
+Lead the Data Science components of analytics projects.
+Using complex, structured and unstructured data from internal and external sources, apply ML/AI techniques, statistical analysis, and other techniques to answer complex questions and solve difficult problems.
+Create visualizations and presentations that clearly explain complex systems in an accessible way, enabling decision makers to understand the key points.
+Ensure that the results are operationalized and communicated so their value is maximized by stakeholders at all levels to make better decisions.
+Serve as a technical expert on data manipulation, cleansing, data structures, AI/ML, analytical techniques, visualization, and best practices for data science projects.
+Work with Insights Analysts, Analytics Infrastructure Development PMO and others across the organization on analytic and data projects
+Design and lead training sessions on analytical concepts.
+Manipulate large, structured and unstructured data in a distributed or cloud environment using tools such as Hadoop, Python, Scala, Spark, Hive, Impala, AWS, Databricks, or Snowflake.
+Identify new data sources (internal and external).
+Establish and maintain relationships with vendors and internal business owners.
+Lead proof of concept projects to evaluate the value of new data.
+Define functional requirements and test cases, working with the vendor and our clients Data Engineers to integrate the data into our Data Lake and build features that enable its efficient use.
+Create documentation and enable others across the company to exploit the data via Business Intelligence (BI) tools.
+Train end users in the correct use of the information and serve as a subject matter expert.
+Contribute to our clients Analytics Strategy by defining, project managing, and executing key initiatives.
+Continuously research the latest tools and techniques, proactively lead and execute proof of concepts to quickly determine value with minimal cost and risk.
+Develop frameworks and define process around Data Science project management and execution.
+Continuously evaluate infrastructure, tools and process, partnering with IT and other stakeholders to improve performance and identify areas for improvement.
+Work with Analytics Infrastructure Development PMO on rollout and training efforts to enable a broader set of users.
+Operationalize project learnings using BI and other tools developed internally so that the organization can better monitor performance on an ongoing basis.
+Support the execution of our client's data strategy. Identify opportunities to improve client's systems to enable better data collection. Partner with the business owner and IT to make changes that improve data quality and richness.
+Build and maintain strong, collaborative relationships with Data Engineers, System Administrators, and other IT resources. Serve on cross-functional teams to implement, improve and maintain functionality of big data platforms.
+Essential Functions:
+
+Develop ML/AI solutions
+Manage data science projects
+Communicate effectively to all levels of the organization both orally and in writing
+Strong analytical and quantitative problem-solving ability
+Analyze information and effectively propose solutions
+Work independently as well as in a team environment
+Organize, plan and manage projects in a timely and efficient manner, balancing multiple projects simultaneously.
+Work collaboratively with cross-functional teams
+Deep working knowledge of statistics, programming and ML/AI techniques and visualization techniques
+Strong critical and creative thinking skills and business acumen
+Basic Qualifications:
+
+Bachelor’s degree in a quantitative discipline preferred. Graduate degree in Economics, Statistics, Mathematics, Decision Science, Operational Research, Computer Science, Business Intelligence, Engineering or related field a plus.
+Minimum 5 years of relevant experience in data science required
+Experience in ML pricing models, price elasticity models, and price optimization strongly preferred
+
+Retail merchandising domain expertise including category management, assortment optimization, product clustering, product price sensitivity and promotion affinity evaluation, localization and financial metrics strongly preferred
+Experience with ML/AI techniques including but not limited to regression, decision trees, clustering algorithms (including k-means, DBSCAN, Gaussian Mixtures, LDA), Bayesian models, time series analysis, Support Vector Machines, and Neural Networks. Strong understanding of how to apply these techniques, including which methods to use, the benefits and limitations of each, and how to improve performance through hyperparameter optimization.
+Demonstrated mastery of statistics, data structures, fundamental algorithms, and advanced mathematics.
+Working knowledge of core computer science concepts. Experience programming in multiple object-oriented languages.
+Expert SQL skills, and experience using a variety of databases.
+Experience with cloud computing environments such as Snowflake and Databricks
+Excellent organizational skills and attention to detail
+Understanding of data modelling and architecture
+Knowledge of IT infrastructure and cloud technology such as Amazon Web Services (AWS)
+Strong story-telling and visualization ability

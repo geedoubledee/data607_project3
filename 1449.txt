@@ -1,0 +1,40 @@
+About the job
+Job Description We’re looking for a Data Scientist who specializes in R, Snowflake, and Matlab. Someone who would like to work a long-term contract for a mass media television company known for its content in the entertainment industry.
+
+Our client is currently looking to scale their team with data engineers. The ideal candidates will be joining this team. You will be helping the streaming Data Analytics group build out the data lake/Data-Bricks platform in AWS. Required Skills & Experience
+Strong mid-level Data Scientist
+Practical working knowledge in Python, R, Machine Learning, Data Science, Matlab Sickit, Regression Random Forest, KNN, etc.
+Worked on databases like Snowflake, Redshift, BigQuery, Teradata, and/or Azure SQL
+Integration experience with Airflow, Talend, Dataiku, Snaplogic, Informatica, and DBT
+Desired Skills & Experience
+Statistical Analyses
+Data Cleansing
+Data Profiling
+What You Will Be Doing Tech Breakdown
+100% Data Science
+The Offer You Will Receive The Following Benefits
+Medical Insurance
+Dental Benefits
+Vision Benefits
+Paid Time Off (PTO)
+Applicants must be currently authorized to work in the US on a full-time basis now and in the future. Job Description We’re looking for a Data Scientist who specializes in R, Snowflake, and Matlab. Someone who would like to work a long-term contract for a mass media television company known for its content in the entertainment industry.
+
+Our client is currently looking to scale their team with data engineers. The ideal candidates will be joining this team. You will be helping the streaming Data Analytics group build out the data lake/Data-Bricks platform in AWS. Required Skills & Experience
+Strong mid-level Data Scientist
+Practical working knowledge in Python, R, Machine Learning, Data Science, Matlab Sickit, Regression Random Forest, KNN, etc.
+Worked on databases like Snowflake, Redshift, BigQuery, Teradata, and/or Azure SQL
+Integration experience with Airflow, Talend, Dataiku, Snaplogic, Informatica, and DBT
+Desired Skills & Experience
+Statistical Analyses
+Data Cleansing
+Data Profiling
+What You Will Be Doing Tech Breakdown
+100% Data Science
+The Offer You Will Receive The Following Benefits
+Medical Insurance
+Dental Benefits
+Vision Benefits
+Paid Time Off (PTO)
+Applicants must be currently authorized to work in the US on a full-time basis now and in the future.
+
+Posted By: Connor Hart

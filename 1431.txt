@@ -1,0 +1,61 @@
+About the job
+Company Overview:
+
+Join the world’s only threat intelligence business integrating leading-edge AI technology with expert
+
+human analysis! Seerist was founded on the premise, "what we see, saves." We’re helping some of the
+
+largest companies and critical government agencies proactively predict potential threats impacting their
+
+people, operations, and assets to make quicker, more strategic decisions.
+
+About the Role:
+
+Seerist is looking for a Data Scientist to join our Data Science team in the Americas region. We are a small team where you will have autonomy to create, train, test, and deploy new models on a regular basis. We are looking for individuals capable of working independently while also participating in collaborative exchange of ideas.
+
+Responsibilities:
+
+Define model objectives, constraints, and metrics with customers
+Estimate project timelines
+Identify and evaluate training and prediction data sources
+Prepare and clean data
+Perform feature engineering on models
+Select model type
+Train and evaluate models
+Deploy models
+Assist in model result visualization
+Explain model results
+Stay current with academic research and commercial developments in the machine learning field
+
+Required Qualifications:
+
+Bachelor’s Degree in Computer Science or related fields
+At least 2 years of professional experience with machine learning, neural networks / deep learning
+Experience with software development in python
+Ability to work independently and collaboratively
+Excellent verbal/written communication and organization skills
+
+Desired Qualifications:
+
+Master’s or PhD Degree preferred
+Experience in any of the following:
+natural language processing / computational linguistics
+mathematical modeling
+statistics and forecasting
+geospatial analysis
+data pipeline engineering
+US Citizenship to work with some government customers
+
+Compensation & Benefits:
+
+Competitive salary, bonus plan, 401(k) matching, and equity potential
+Healthcare, dental, vision and life plans
+Opportunity to work in a fast-moving, high-growth SaaS company
+Strong, results-oriented culture
+Hybrid work environment
+Paid time off
+Paid Parental Leave (16 Weeks Primary, 8 Secondary)
+Tuition Reimbursement
+Professional Development Stipend
+
+Seerist is an equal opportunity employer. Seerist does not discriminate on the basis of race, religion, color, sex, sexual orientation, gender identity, age, non-disqualifying physical or mental disability, national origin, veteran status or any other basis covered by appropriate law. All employment is decided on the basis of qualifications, merit, and business need. #SNA

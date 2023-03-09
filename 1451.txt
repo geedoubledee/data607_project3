@@ -1,0 +1,34 @@
+About the job
+Our vision is to build the next generation platform to enable easy and fast creation of audio and video content powered by cutting-edge AI. Building a revolutionary way to record, transcribe, edit, and mix spoken audio and video comes with a series of unique challenges and requires solving hard and complex problems.
+
+As a founding member on the Data Science team and the first Data Scientist hire on marketing & sales, you will play a critical role shaping the data science function, and developing data-informed marketing and sales strategies.
+
+What You'll Do
+Work closely with the marketing and sales leadership to develop data-informed strategic projects that focus on user acquisition, engagement, and retention.
+Define critical KPIs and ensure a high standard for instrumentation and measurement (e.g. web tracking and marketing attributions).
+Analyze and interpret data to build institutional knowledge of marketing funnels and sales journeys with depth and thoroughness. Proactively identify trends, patterns, and opportunities to improve day-to-day operations and decision making.
+Apply advanced statistical techniques and causal inference methods to design and analyze web experimentations (A/B tests, quasi-experiments, etc.). Contribute to experimentation best practices and standards.
+Build dashboards to improve operational rigor and efficiency.
+Explore predictive models to generate leads, forecast business performance, etc.
+
+Requirements
+Bachelor's or Master's degree in a relevant field (e.g. computer science, mathematics, statistics, etc.).
+5+ years of experience in a data scientist or related role.
+Strong knowledge of statistical analysis and A/B tests.
+Strong SQL skills and proficient in at least one programming language such as Python or R.
+Excellent communication and collaboration skills, with the ability to present technical information to non-technical stakeholders.
+Curiosity and strong willingness to learn new subject areas, savviness to navigate and thrive in a dynamic environment, and a growth mindset.
+Experience building and leading a data science team is a plus.
+Exposure to marketing & sales CRM tool stack is a plus.
+
+The base salary range for this role is $125,000- $190,000/year. Final offer amounts will carefully consider multiple factors, including prior experience, expertise, location, and may vary from the amount above.
+
+About Descript
+
+Descript is building a simple, intuitive, fully-powered editing tool for video and audio — an editing tool built for the age of AI. We are a team of 100 — with a proven CEO and the backing of some of the world's greatest investors (OpenAI, Andreessen Horowitz, Redpoint Ventures, Spark Capital). Descript HQ is in San Francisco, and our AI research team, Lyrebird, is based in Montreal.
+
+Descript is the special company that's in possession of both product market fit and the raw materials (passionate user community, great product, large market) for growth, but is still early enough that each new employee has a measurable influence on the direction of the company.
+
+Benefits include a generous healthcare package, catered lunches, and flexible vacation time. We currently have offices in San Francisco and Montreal, and are open to folks working remotely between PT and ET time zones. Whether you love WFH or can't wait to get back to being in person, we're interested in offering an environment that works for you.
+
+Descript is an equal opportunity workplace—we are dedicated to equal employment opportunities regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity, or Veteran status. We believe in actively building a team rich in diverse backgrounds, experiences, and opinions to better allow our employees, products, and community to thrive.

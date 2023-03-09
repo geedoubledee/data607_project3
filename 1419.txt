@@ -1,0 +1,17 @@
+About the job
+Sensor Tradecraft Optimization (STO) enables our organization to align with CSD priorities. STO is an end-to-end agnostic solution provider that analyzes sensor data, designs, and delivers automated solutions to optimize sensor collection. STO architects and engineer’s tradecraft threads to drive sensors to produce the highest value data and threat intelligences to improve the Nation’s cybersecurity posture.
+
+TKO is seeking Data Scientists to support the Cyber Threat Intelligence initiative to support defense of our nation’s most critical unclassified and classified networks. The individual will interpret and manipulate data, analyze data sets, creates reports and data visualizations.
+
+Tasking Will Consist Of The Following
+
+Produce data visualizations that provide insight into dataset structure and meaning
+Work with subject matters experts (SMEs) to identify important information in raw data and develop scripts that extract this information from a variety of data formats (e.g., SQL tables, structured metadata, network logs)
+Incorporate SME input into feature vectors suitable for analytic development and testing
+Translate customer qualitative analysis process and goals into quantitative formulations that are coded into software prototypes
+Develop and implement statistical, machine learning, and heuristic techniques to create descriptive, predictive, and prescriptive analytics
+Develop statistical tests to make data-driven recommendations and decisions
+Develop experiments to collect data or models to simulate data when required data are unavailable
+Develop feature vectors for input into machine learning algorithms
+Identify the most appropriate algorithm for a given dataset and tune input and model parameters
+Evaluate and validate the performance of analytics using standard techniques and metrics (e.g. cross validation, ROC curves, confusion matrices)

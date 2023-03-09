@@ -1,0 +1,34 @@
+About the job
+At Alkymi, we’re creating products to give everyday business users the power to control the unstructured document data that fuels their business. We believe in giving the same professionals who manually handle document and email data today powerful tools to supercharge their workflows, while allowing them to seamlessly apply their human intelligence where it’s needed most. By doing this, we’re letting our users create a Data Action Layer to power products, deliver outcomes, and generate insights.
+
+
+Founded in 2017 in New York City, Alkymi works with some of the world’s leading businesses and financial services firms to automate their highest-impact workflows by delivering an unparalleled product experience. We’re laser focused on understanding our customers’ workflows from top to bottom, and building easy-to-use, powerful, tools to meet their objectives. We combine cutting edge data science and machine learning with best-in-class software engineering to delight our users at some of the world’s most demanding and sophisticated businesses.
+
+
+As we continue to scale, we're seeking a Data Scientist to join our core team.
+
+
+Requirements
+
+Strong knowledge of Python and general software development skills (source code management, debugging, testing, deployment, etc.).
+Strong understanding of text pre-processing and normalization techniques, such as tokenization, and POS tagging.
+Ability to design NLP pipelines to meet customer requirements
+Familiarity with different approaches for training entity tagging models (e.g. CRF, RNN, CNN, Transformer).
+Experience with asynchronous programming a plus.
+Familiarity with deep learning frameworks such as Tensorflow and Pytorch a plus.
+Familiarity with Computer Vision deep learning algorithms a plus (CNN, RCNN)
+BS, MS and/or PhD in Mathematics, Physics, etc
+
+
+About Us:
+
+Alkymi is creating the data action layer by turning unstructured data into actions. Its product-first approach makes it easy for non-technical users to automate operational workflows for the first time. Leading organizations deploy Alkymi to accelerate decision-making, improve customer satisfaction and empower employees to focus on high-value, rewarding work.
+
+
+Alkymi was founded in 2017 in New York City by a founding team from Bloomberg, Two Sigma, and x.ai with backing from Intel Capital, Canaan, Work-Bench, SimCorp, and industry insiders.
+
+
+Salary Range: $100,000 - $145,000 annually + Equity + Fully Paid Company benefits + 401k + Unlimited PTO
+
+
+The above compensation referenced represents the expected salary for this career opportunity and is based on Alkymi's good faith belief at the time of posting. Ultimately, in determining your compensation, we'll consider multiple factors including your geographic location, professional experience, market conditions and education/training/skill level.

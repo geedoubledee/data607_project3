@@ -1,0 +1,36 @@
+About the job
+Parimatch Tech evolves to Great Tech.
+
+GR8 Tech is a global product company that provides innovative, scalable platforms and business solutions for the iGaming industry.
+
+We have ? great experience: GR8 Tech platform successfully handles millions of active players and offers best practices to develop and grow in the gambling industry. We are here to provide great gaming tech to satisfy even greater ambition!
+
+We develop complete tech coverage for gambling businesses worldwide, including iGaming platform solutions, consulting, integration, and long-lasting operation services.
+
+We are driven by our ambition to make a great product with great people! Together we move the world of iGaming forward — join!
+
+Our product is a fraud-detection platform, built from scratch and specially designed for iGaming business. Currently we process, store and analyze over a billion events per day using ML and graph algorithms in real-time.
+
+As a part of the DS Team within Risk Stream you will work with challenging problems using a huge variety of data sources (bets, payments, feeds, front-end data, etc.) detailed, enriched and collected for a long time.
+
+You Will Have a Direct Impact On
+
+Innovative solution for fraud detection;
+Real-time prediction;
+Data collection process;
+Strategic view and modeling roadmap.
+We invite those who fired up to:
+
+Analyzing large amount of data to discover trends, patterns, valuable insights;
+Building, improving and evaluating ML models for different fraud types;
+Delivering and maintaining ML models in production;
+Collaborating with engineers to achieve real-time processing.
+Essential professional experience:
+
+2+ years relevant experience building and delivering ML models;
+Strong knowledge of Python;
+Strong knowledge of SQL;
+Developing a model from scratch (problem definition, data collection, feature engineering, model selection, validation, tuning, deployment, etc.);
+Deep understanding of classical ML Algorithms;
+Good knowledge of math and statistics;
+High level of personal responsibility, readiness to commit on projects instead of tasks.

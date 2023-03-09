@@ -1,0 +1,39 @@
+About the job
+Northern Virginia - Full Time - Active Secret Clearance required
+
+Altamira delivers a variety of analytic and engineering capabilities to the US National Security community, but the tech culture and the caliber of the individuals that bring these capabilities to fruition are what really set us apart. We’re a curious, responsive, dedicated bunch spread across many corporate cultures. Dayton, OH is highly focused on the Space-based mission set with a heavy emphasis on sensor exploitation and analysis; Tampa, FL focuses on ‘art-of-the-possible’ analytics of all kinds with an emphasis on graph technologies, NLP, and wrangling complex data sets; and all forces converge at our headquarters in the Northern Virginia/Washington DC area where we host our tech events and support engineering and analytic missions across several IC and DOD agencies.
+
+While our work occurs in different states and different mission domains, we’ve got analytics at the heart of every operation and genuine curiosity for new methods, techniques, and solutions. Our specialties are data science and analytics, data engineering, software engineering, and end-to-end analytic solutions architecture. We’ve also got some awesome benefits like the Altamira Healthy Living program, with ongoing competitions and a flexible spending stipend for health and wellness-related items.
+
+The Senior Data Scientist will lead analytical projects they are assigned and employ a variety of programming languages, analytical techniques, and tools in support of many interdisciplinary challenges. This effort is in support of the Department of the Air Force Chief Data and AI Office.
+
+Description
+
+As a Senior Data Scientist you will:
+
+Apply and utilize new or established qualitative and quantitative methods to analyze and resolve analytical issues.
+Research opportunities for data acquisition and new uses for existing data as well as collaborate with respective government Points of Contact (POC) to perform exploratory and targeted data analyses, test working hypotheses; prepare, mine, and analyze structured, semi-structured, and unstructured data; and identify trends and patterns.
+Design and develop new, scalable tools, dashboards, and visualizations to enable users to consume and understand data more effectively and efficiently.
+Identify data needs and proper methods for data gathering, extraction, integration, preparation, quality, and governance from internal and external sources in context of meeting customer expectations.
+Develop statistical algorithms and models, automate data conditioning and data analysis, support machine learning, and generate visualizations for use in predictive and prescriptive modeling and proof of concept initiatives.
+Collaborate with other analytic professionals to continuously build a broader and deeper data science and analytic capability relevant to the customer’s mission areas.
+
+Qualifications
+
+Bachelor's degree from an accredited institution and ten (10) years’ experience in the field or a master’s degree and five (5) years’ experience or a PhD and three (3) years’ experience. Degrees should be in a quantitative or technical field of study, such as: Statistics, Mathematics, Computer Science, Physics or Geographic Information Systems (GIS).
+Demonstrable experience in an area of data science or analytics (e.g. machine learning, deep learning, NLP, computer vision, predictive modeling, statistics, … )
+Three (3) years of practical work experience integrating data wrangling and analysis that includes the use of current data analysis software and methods (e.g. Python, C/C++, Scala, R, Tensorflow, scikit-learn, … )
+Demonstrated problem solving skills
+Demonstrated presentation skills communicating complex analytics including, but not limited to, presenting at professional or academic conferences.
+
+Security Clearance
+
+Due to the nature of this work, we are unable to consider applicants who cannot obtain a DoD Secret security clearance at minimum.
+
+Altamira is an Equal Opportunity/Affirmative Action employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability, or protected veteran status.
+
+Altamira requires all employees to be fully vaccinated against COVID-19. In accordance with applicable law, Altamira will provide an exemption to this requirement as a reasonable accommodation due to a disability or a sincerely-held religious belief or practice that prevents receipt of the vaccine.
+
+Powered by JazzHR
+
+Dy4fKjbKuh

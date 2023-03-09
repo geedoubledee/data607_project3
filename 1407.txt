@@ -1,0 +1,25 @@
+About the job
+Our client is seeking a Data Scientist to join their well-established team due to new contracts. The ideal candidate's favorite words are learning, data, scale, and agility. You will leverage your strong collaboration skills and ability to extract valuable insights from highly complex data sets to ask the right questions and find the right answers.
+
+
+
+Responsibilities
+
+Analyze raw data: assessing quality, cleansing, structuring for downstream processing
+Design accurate and scalable prediction algorithms
+Collaborate with engineering team to bring analytical prototypes to production
+Generate actionable insights for business improvements
+
+Qualifications
+
+Master's degree or equivalent experience in quantitative field (Statistics, Mathematics, Computer Science, Engineering, etc.) or Master's in Public Health
+At least 5 years' of experience in quantitative analytics or data modeling
+Deep understanding of predictive modeling, machine-learning, clustering and classification techniques, and algorithmn
+Expert in the use of SAS software for statistical programming
+Proficient in the use of R or Python and SQL
+Experience working with relational databases
+Ability to utilize Tableau, Quicksight, or other visualization tools
+Experience managing/ mentoring direct reports and junior team members
+
+
+Please note: This position is not open to 3rd party c2c agencies. No visa sponsorship provided. All applicants must have permanent US work authorization and not require sponsorship now or in the future.

@@ -1,0 +1,106 @@
+About the job
+University Overview
+
+The University of Pennsylvania, the largest private employer in Philadelphia, is a world-renowned leader in education, research, and innovation. This historic, Ivy League school consistently ranks among the top 10 universities in the annual U.S. News & World Report survey. Penn has 12 highly-regarded schools that provide opportunities for undergraduate, graduate and continuing education, all influenced by Penn’s distinctive interdisciplinary approach to scholarship and learning. As an employer Penn has been ranked nationally on many occasions with the most recent award from Forbes who named Penn one of America’s Best Employers By State in 2021.
+
+Penn offers a unique working environment within the city of Philadelphia. The University is situated on a beautiful urban campus, with easy access to a range of educational, cultural, and recreational activities. With its historical significance and landmarks, lively cultural offerings, and wide variety of atmospheres, Philadelphia is the perfect place to call home for work and play.
+
+The University offers a competitive benefits package that includes excellent healthcare and tuition benefits for employees and their families, generous retirement benefits, a wide variety of professional development opportunities, supportive work and family benefits, a wealth of health and wellness programs and resources, and much more.
+
+COVID-19 vaccination is a requirement for all positions at the University of Pennsylvania. New hires are expected to be fully vaccinated before beginning work at the University. For more information about Penn’s vaccine requirements, visit the Penn COVID-19 Response website for the latest information.
+
+Posted Job Title
+
+Data Scientist
+
+Job Profile Title
+
+Data Analyst D
+
+Job Description Summary
+
+Performs data analysis and assists with design of complex data models based upon business or research requirements. Identifies and resolves required information flows and content issues, and transforms requirements into data designs and models.
+
+May perform analyses, development and evaluation on large databases and large complex consultation. Provides data analysis expertise to one or more project or support teams. Develops data standards, policies and procedures. Often works with vendor delivered solutions. May plan, organize and manage projects and associated schedules and budgets. May supervise other IT staff and manage projects.
+
+Job Description
+
+Penn Medicine is seeking a Data Scientist to join our team. At its core, this position is about revolutionizes healthcare with data driven analytic methods. The position will apply machine learning and computational statistics techniques to clinical, administrative, and social media data to create immense value for patients. Individuals in this role are expected to be comfortable working as a software engineer and a quantitative researcher. This position will develop state-of-the-art algorithms, tools, and apps. Specifically, programming will range across a subset of text-mining, machine learning, natural language processing, distributed computing, website development, mobile app development, computational psychology, and data visualizations.
+
+Responsibilities
+
+Work closely with clinicians and administrators to identify and answer important healthcare questions with appropriate statistical techniques on available data.
+Lead large data acquisition, data mining, and analysis techniques to time series, NLP, imaging, structured clinical data and social media websites.
+Create and manage protocols for the analysis of passively collected information
+Responsible for the design and execution of research and development projects utilizing advanced computational techniques to generate novel medical insights and to build clinical decision support systems.
+Communicate findings to clinicians and administrators
+Drive the collection of new data and the refinement of existing data sources
+Work closely with a team of developers and researchers to conduct scholarly work at the intersection of social media and health
+Design and create the necessary algorithms to facilitate research, including either: (a) text and data analysis code or (b) web and mobile app code for acquiring data and disseminating results.
+Implement algorithms (write code) to facilitate research or disseminate results in either Python, Java, Matlab, Javascript, or C++.
+Examine and maintain data in MySQL and NoSQL style databases.
+Perform technical literature reviews, including identifying relevant papers in computer science and writing accessible summaries for the team.
+
+QUALIFICATIONS: (Qualifications should clearly indicate those that are required and those that are preferred.)
+
+B.A. in a relevant technical field (e.g. statistics, mathematics, physics, computer science) or an equivalent combination of education and experience required.. M.S. degree preferred.
+At least 3 years of experience required in a relevant role and at least 2 years of experience solving analytical problems using quantitative approaches required
+Fluency with statistical and machine learning techniques such as decision trees, neural networks, graphical models, clustering, dimension reduction, and deep generative models required.
+Experience manipulating and analyzing complex, large volume, high-dimensionality data from varying sources required
+Fluency in coding in C++, Java, or Python required
+Fluency in MySql, NoSql design, deployment and analyze on many TB’s of data preferred
+Experience not required but preferred in: Hadoop/MapReduce, text-mining, natural language processing, machine learning, apps
+A strong passion for empirical research and for answering hard questions with data.
+A flexible analytic approach that allows for results at varying levels of precision
+Ability to communicate complex quantitative analysis in a clear, precise, and actionable manner
+Familiarity with relational databases and SQL preferred, Linux
+Candidates will have demonstrated the ability to work as part of a team as well as independently; have experience working with patients and guarding sensitive information
+Applicants must be able to multi-task, attend to detail and maintain a high level of accuracy.
+Prior experience supervising/training others preferred
+
+We are profoundly committed to diversity, equity and inclusion and seek candidates who foster this commitment.
+
+Position contingent upon continued funding
+
+Hybrid Eligible - This position is eligible for a hybrid work schedule with a work week divided between working onsite and working remotely.
+
+Job Location - City, State
+
+Philadelphia, Pennsylvania
+
+Hybrid Eligible - This position is eligible for a hybrid work schedule with a work week divided between working onsite and working remotely.
+
+Department / School
+
+Perelman School of Medicine
+
+Pay Range
+
+$61,046.00 - $132,906.66
+
+Salary offers are made based on the candidate’s qualifications, experience, skills, and education as they directly relate to the requirements of the position, as well as internal and market factors and grade profile.
+
+Affirmative Action Statement
+
+Penn adheres to a policy that prohibits discrimination on the basis of race, color, sex, sexual orientation, gender identity, religion, creed, national or ethnic origin, citizenship status, age, disability, veteran status, or any other legally protected class.
+
+Special Requirements
+
+Background check required after a conditional job offer is made. Consideration of the background check will be tailored to the requirements of the job.
+
+University Benefits
+
+Health, Life, and Flexible Spending Accounts: Penn offers comprehensive medical, prescription, behavioral health, dental, vision, and life insurance benefits to protect you and your family’s health and welfare. You can also use flexible spending accounts to pay for eligible health care and dependent care expenses with pre-tax dollars.
+Tuition: Take advantage of Penn's exceptional tuition benefits. You, your spouse, and your dependent children can get tuition assistance here at Penn. Your dependent children are also eligible for tuition assistance at other institutions.
+Retirement: Penn offers generous retirement plans to help you save for your future. Penn’s Basic, Matching, and Supplemental retirement plans allow you to save for retirement on a pre-tax or Roth basis. Choose from a wide variety of investment options through TIAA and Vanguard.
+Time Away from Work: Penn provides you with a substantial amount of time away from work during the course of the year. This allows you to relax, take vacations, attend to personal affairs, recover from illness or injury, spend time with family—whatever your personal needs may be.
+Long-Term Care Insurance: In partnership with Genworth Financial, Penn offers faculty and staff (and your eligible family members) long-term care insurance to help you cover some of the costs of long-term care services received at home, in the community or in a nursing facility. If you apply when you’re newly hired, you won’t have to provide proof of good health or be subject to underwriting requirements. Eligible family members must always provide proof of good health and are subject to underwriting.
+Wellness and Work-life Resources: Penn is committed to supporting our faculty and staff as they balance the competing demands of work and personal life. That’s why we offer a wide variety of programs and resources to help you care for your health, your family, and your work-life balance.
+Professional and Personal Development: Penn provides an array of resources to help you advance yourself personally and professionally.
+University Resources: As a member of the Penn community, you have access to a wide range of University resources as well as cultural and recreational activities. Take advantage of the University’s libraries and athletic facilities, or visit our arboretum and art galleries. There’s always something going on at Penn, whether it’s a new exhibit at the Penn Museum, the latest music or theater presentation at the Annenberg Center, or the Penn Relays at Franklin Field to name just a few examples. As a member of the Penn community, you’re right in the middle of the excitement—and you and your family can enjoy many of these activities for free.
+Discounts and Special Services: From arts and entertainment to transportation and mortgages, you'll find great deals for University faculty and staff. Not only do Penn arts and cultural centers and museums offer free and discounted admission and memberships to faculty and staff. You can also enjoy substantial savings on other goods and services such as new cars from Ford and General Motors, cellular phone service plans, movie tickets, and admission to theme parks.
+Flexible Work Hours: Flexible work options offer creative approaches for completing work while promoting balance between work and personal commitments. These approaches involve use of non-traditional work hours, locations, and/or job structures.
+Penn Home Ownership Services: Penn offers a forgivable loan for eligible employees interested in buying a home or currently residing in West Philadelphia, which can be used for closing costs or home improvements.
+Adoption Assistance: Penn will reimburse eligible employees on qualified expenses in connection with the legal adoption of an eligible child, such as travel or court fees, for up to two adoptions in your household.
+
+To learn more, please visit: https://www.hr.upenn.edu/PennHR/benefits-pay

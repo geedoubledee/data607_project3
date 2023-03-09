@@ -1,0 +1,44 @@
+About the job
+Send us your resume if you are exceptional and are interested in an opportunity to join a high growth management consulting firm. If you can answer yes to the below, let's talk:
+
+• Do you want to work on global pharmaceutical company initiatives?
+• Interested in joining a firm that has an extensive client base of leading life sciences companies, most of which are Fortune 100?
+• Do you have experience as a Data Scientist, including working with Machine Learning, Deep Learning, and NLP techniques?
+
+Work you will do:
+As a Data Scientist, you will be responsible for all phases of Data Science life cycle development, including data discovery, labeling the data, working with tech team(s) to create hypothesis, assist in selecting models, test and evaluate models and model operationalization. You will adhere to corporate reporting policy and controls to ensure the accuracy, timeliness, and confidentiality of Data Management automation. The ideal candidate must be able to drive real business value by collaborating with Data Managers and Clinical Data Scientists under the direction of the Head of AI and Data Sciences.
+
+Job Responsibilities:
+• Run SQL queries to extract operational, clinical data, and specifications from various information systems.
+• Independently assess and analyze data quality, understand business processes, and how they impact data quality, prepare data including labeling of data for Machine Learning experiments.
+• Pilot and build POCs to demonstrate and test the business value of Machine Learning models, understand Model metrics, iteratively improve Model performance working with tech leads and vendors.
+• Analyze, interpret, and summarize Machine Learning model results.
+• Operationalize and maintain the models.
+• Develop training materials for business users to increase their understanding of AI, Data Science, and automation within Data Management.
+• Find opportunities for model and process optimization for various business scenarios.
+• Develop testing frameworks and test model quality.
+• Support AI and Data Science Leads to coordinate with different data management/functional teams to implement models and monitor outcomes.
+• Support the development of processes and Best Practices to monitor and analyze model performance and accuracy.
+
+Qualifications:
+• Bachelor's or Master's degree in Computer Science, Mathematics, Statistics, or a related field.
+• 4+ years of experience working as a Data Scientist in a commercial environment.
+• Experience with SQL, Python, R, or other statistical software.
+• Strong knowledge of Machine Learning, Deep Learning, and NLP techniques.
+• Experience in labeling data for training Machine Learning models.
+• Experience in developing and deploying Machine Learning models.
+• Familiarity with cloud platforms such as AWS, Azure, or Google Cloud Platform.
+• Strong communication, collaboration, and problem-solving skills.
+• Ability to work independently and in a team-oriented environment.
+• Experience in the pharmaceutical or life sciences industry is a plus.
+
+Who you will be working for:
+Atlas is a global strategic consulting firm, focused on the life sciences industry. Our services include Management Consulting, Managed Services, and Agile Services. Global pharmaceutical companies and emerging players in the Life Sciences depend on over four hundred Atlas consultants to ensure they have the capabilities that will give them the ability to succeed.
+
+Why join the Atlas A-team of Consultants:
+• Opportunity - Atlas has deep life sciences industry roots and a reputation with our clients for having superior quality consultants
+• Meaningful Work - You will be part of the solution to help clients accomplish their patient first missions
+• Culture - We are proactive, highly accountable, and high touch
+• Solid - We have been delivering exceptional consulting talent for over 23 years
+• Depth & Breadth of Collaborative Client Relationships – They depend on us to design strategic teams, which can produce and drive outcomes
+• We are experts at Project Management, Portfolio Operations, Agile Services, Change Management and Talent/Organizational Design

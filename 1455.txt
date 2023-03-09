@@ -1,0 +1,43 @@
+About the job
+Company Overview: Sustainment is a software platform that intelligently connects the fragmented ecosystem of small to mid-sized American suppliers, with their enterprise customers, to enable agile supply chain networks. Our software enables US-based manufacturers to find and engage with the critical suppliers they need to build secure, resilient, domestic supplier networks. Sustainment is a mission-driven business that is organized as a Public Benefit Corporation in support of American manufacturers.
+
+We recently raised our Series A financing, led by Unless.
+
+Position: Data Scientist
+
+Title: Data Scientist
+
+Reports To: VP of Engineering
+
+Job Overview: Our Data Scientist focuses on centralizing user data in order to gain insights, knowledge, and scalability that empower a proactive and rigorous analysis of key business indicators. Moreover, this role also focuses on building niche predictive analytical models on manufacturing data. Our mission is to derive wisdom from data via the application of Data Science.
+
+Responsibilities:
+Conduct insightful analysis using internal and external data (e.g. user behavior on platform, user's capability data) to gain insights that will drive product development and enhance platform effectiveness
+Conceptualize and build centralized tools (including pipelines) that can extract data/insights for daily business management in an automated manner
+Work effectively with global cross-functional teams, assimilating requirements, driving results in the form of data insights, and being a liaison between engineers and business partners
+Develop dashboards and visualizations for the business stakeholders and maintain the integrity of the reports
+Perform deep process dive into user data to understand certain trends/patterns, and carry out correlation analysis to identify causes and relatedness
+Design, development, and evaluation of highly innovative models
+Investigate discrepancies across various data flows and reconcile the differences
+
+Requirements:
+Advanced degree in Computer Science, Statistics, Data Science or related STEM field
+5+ years of data science or machine learning experience working on complex problems
+Strong programming skills in languages such as: Python, R, Java, or C/C++
+Working experience and in-depth knowledge of data science topics such as Convolutional Neural Networks, Natural Language Processing (NLP), Natural Language Understanding (NLU), Image Processing, Sentiment analysis
+Expertise in deep learning frameworks such as Tensrflow, Keras, Pytorch, Caffe etc.
+Proven track record of developing and deploying DL/ML applications for production-ready environments
+Ability to communicate complex data in a simple, actionable way to non technical stakeholders
+Ability to visualize data in the most effective way possible
+Analytical and problem-solving skills
+Familiarity with data management tools
+
+Nice to Haves
+Relevant experience in manufacturing and 3D CAD model processing - huge plus
+Experience in applying advanced analytics and data mining techniques for industrial problems
+
+Sustainment offers a competitive benefits package including medical, dental, vision, paid time off, company holidays, and 401K matching.
+
+Sustainment is proud to be an equal opportunity employer. We provide employment opportunities without regard to age, race, color, ancestry, national origin, religion, disability, sex, gender identity or expression, sexual orientation, veteran status, or any other protected class.
+
+Applicants must be authorized to work for ANY employer in the U.S. We are unable to sponsor or take over sponsorship of an employment Visa at this time.

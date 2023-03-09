@@ -1,0 +1,43 @@
+
+Who We Are
+Aurora (Nasdaq: AUR) is delivering the benefits of self-driving technology safely, quickly, and broadly. Founded in 2017 by experts in the self-driving industry, Aurora is revolutionizing transportation – making it safer, increasingly accessible, and more reliable and efficient than ever before. Its flagship product, the Aurora Driver, is a platform that brings together software, hardware, and data services, to autonomously operate passenger vehicles, light commercial vehicles, and heavy-duty trucks. Aurora is partnered with industry leaders across the transportation ecosystem including Toyota, Volvo, PACCAR, Uber, Uber Freight, FedEx, and U.S. Xpress. Aurora tests its vehicles in the Bay Area, Pittsburgh, and Texas and has offices in those areas as well as in Bozeman, MT; Seattle, WA; Louisville, CO; and Detroit, MI. To learn more, visit www.aurora.tech.Aurora hires talented people with diverse backgrounds who are ready to help build a transportation ecosystem that will make our roads safer, get crucial goods where they need to go, and make mobility more efficient and accessible for all. We’re searching for a Hardware Test and Data Analytics Engineer. The primary objective of this role is to support manufacturing from a test and automation perspective in the development and production of the Aurora’s FirstLight LiDAR and delivering the benefits of self-driving technology safely, quickly, and broadly. A successful candidate is data-driven, excels at complex problem solving, has a strong engineering background with software and hardware skills, product focused mindset, and can lead cross-functional efforts.
+In this role, you will
+Develop data infrastructure to support our LiDAR manufacturing workflow, including data collection, processing, evaluation, and optimization
+Data management and analysis to track production test performance metrics, prioritize top issues, and drive continuous improvement activities with cross-functional teams
+Surface succinct, actionable data widely in regularly updated dashboards
+Assist in the development of advanced test tools/methods (HW and SW) to automate testing for LiDAR manufacturing
+Closely collaborate with manufacturing, engineering, and quality teams to develop test requirements, standards, and product test plans to ensure products will meet requirements
+Work on continuous improvement of manufacturing test processes and procedures
+ 
+Required Qualifications
+B.S. in Statistics, Mathematics, Computer Science, Engineering, or a related field, or equivalent combination of education and experience
+Experience with data processing frameworks and storage engines
+Practical knowledge of common data analysis, inference, and statistical modeling tools, including Python
+Self-starter who will see opportunities to apply capabilities that add value throughout the organization
+Strong interpersonal and communication skills
+Experience with Linux operating systems
+Experience with Google Suite (Sheets, Docs, Slides, Gmail)
+Enthusiasm for applying data science at scale to the toughest challenges in autonomous driving
+ 
+Desirable Qualifications
+M.S. or PhD in Statistics, Mathematics, Computer Science, Engineering, or a related field, or equivalent combination of education and experience
+Experience in AWS
+Experience in SQL
+Experience with Plex
+Familiarity with FMCW LiDAR and/or RF transceivers.
+Experience with optical system prototyping and characterization
+Experience in modern automotive electronics and diagnostic procedures
+Ability to travel to company locations in the continental U.S.
+ 
+The base salary range for this position is $87,000 - $130,000 per year.  Aurora’s pay ranges are determined by role, level, and location. Within the range, the successful candidate’s starting base pay will be determined based on factors including job-related skills, experience, qualifications, relevant education or training, and market conditions. These ranges may be modified in the future. The successful candidate will also be eligible for an annual bonus, equity compensation, and benefits.
+ 
+#LI-AT2
+#Mid-Senior
+ Working at Aurora
+At Aurora, we bring together people with extraordinary talent and experience united by the strength of our values. We operate with integrity, set outrageous goals, and continue to build a culture where we win together—all without any jerks.
+We have offices in 8+ locations across the United States. We offer a competitive benefits package to qualifying employees. Our Career Page includes everything you need to know about working at Aurora.
+At the core of everything we do is our commitment to safety. Building best-in-class self-driving technology will take time, and we believe that each employee at Aurora has a role in contributing to safety, every step of the way. Aurora expects commitment to our safety policies from every employee, and seeks candidates who take an active responsibility, can contribute to building an atmosphere of trust, and invest in the organization’s long-term success by prioritizing working safely, no matter what.
+We believe that self-driving technology has broad benefits – including an increase in safety and access to transportation – and to achieve those benefits, we want and need a workforce with diverse experiences, insights, and perspectives; said another way, a workforce that reflects the communities and people our technology will benefit. You can find all the latest news on our Blog
+Individuals seeking employment at Aurora are considered without regard to race, color, religion, national origin, age, sex, gender, gender identity, gender expression, sexual orientation, marital status, pregnancy status, parent or caregiver status, ancestry, political affiliation, veteran and/or military status, physical or mental disability, or any other status protected by federal or state law. 
+For California applicants, information collected and processed as part of your application, and any job applications you choose to submit is subject to Aurora’s California Employment Privacy Policy. 
+

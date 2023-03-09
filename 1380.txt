@@ -1,0 +1,27 @@
+
+Every day, tens of millions of people come to Roblox to explore, create, play, learn, and connect with friends in 3D immersive digital experiences– all created by our global community of developers and creators. 
+At Roblox, we’re building the tools and platform that empower our community to bring any experience that they can imagine to life. Our vision is to reimagine the way people come together, from anywhere in the world, and on any device. We’re on a mission to connect a billion people with optimism and civility, and looking for amazing talent to help us get there. 
+A career at Roblox means you’ll be working to shape the future of human interaction, solving unique technical challenges at scale, and helping to create safer, more civil shared experiences for everyone.Work with the most passionate and team-oriented people you'll ever meet. As a Big Data Software Engineer, you will be a key participant in helping our Data Infrastructure team shape the future of Roblox. You will report into the Engineering Manager of our Data Infrastructure Team. If you know what it takes to develop large-scale infrastructure to Analyze user behavior from 200 million monthly users , you'll fit right into our accomplished and ever-expanding engineering team.
+You Will:
+Have primary responsibility in building the massive horizontally scalable streaming and ingestion services that feed not only our Data Lake, Data Warehouse but also business critical applications.
+Own design, implementation, testing, and support of next-generation features related to scalability, reliability, robustness, usability, security, and performance of Roblox Core Data Pipeline.
+Work with our software stack such as: Kafka , Spark or Flink - the engines upon which we are building our next-generation streaming pipelines for Roblox scale.
+Be a part of a collaborative team: The Data Infrastructure Team and the Analytics Team are combined at Roblox to ensure that data processing and analytics are guided by the user needs -- ie. query patterns and product requirements.
+Design Structures: For compact encoding of data for in-memory storage to enable in-stream computation-message fidelity from source to target: preserving message ordering guarantees across all nodes in the cluster.
+Work with our stakeholders to push innovation across Roblox.
+You Have:
+8+ years of experience with different real-time data streaming technologies tools such as Kafka, Spark, Beam, Samza or Flink.
+Experience in Java and/or Go at scale.
+For roles that are based at our headquarters in San Mateo, CA: The starting base pay for this position is as shown below. The actual base pay is dependent upon a variety of job-related factors such as professional background, training, work experience, location, business needs and market demand. Therefore, in some circumstances, the actual salary could fall outside of this expected range. This pay range is subject to change and may be modified in the future.  All full-time employees are also eligible for equity compensation and for benefits.Annual Salary Range$283,780—$331,640 USDYou’ll Love: 
+Industry-leading compensation package
+Excellent medical, dental, and vision coverage
+A rewarding 401k program
+Flexible vacation policy
+Roflex - Flexible and supportive work policy 
+Roblox Admin badge for your avatar
+At Roblox HQ: 
+Free catered lunches five times a week and several fully stocked kitchens with unlimited snacks
+Onsite fitness center and fitness program credit
+Annual CalTrain Go Pass
+Roblox provides equal employment opportunities to all employees and applicants for employment and prohibits discrimination and harassment of any type without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state or local laws. This policy applies to all terms and conditions of employment, including recruiting, hiring, placement, promotion, termination, layoff, recall, transfer, leaves of absence, compensation and training.
+

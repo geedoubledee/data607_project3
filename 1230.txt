@@ -1,0 +1,36 @@
+
+Data Modelling Consultant
+Joining Capco means joining an organisation that is committed to an inclusive working environment where you’re encouraged to #BeYourselfAtWork. We celebrate individuality and recognize that diversity and inclusion, in all forms, is critical to success. It’s important to us that we recruit and develop as diverse a range of talent as we can and we believe that everyone brings something different to the table – so we’d love to know what makes you different. Such differences may mean we need to make changes to our process to allow you the best possible platform to succeed, and we are happy to cater to any reasonable adjustments you may require. You will find the section to let us know of these at the bottom of your application form or you can mention it directly to your recruiter at any stage and they will be happy to help.
+About Us
+Capco is global technology and business consultancy with a focus on the financial services sector. We are passionate about helping our clients succeed in an ever-changing industry, combining innovative thinking with unique expert know-how.  The solutions we offer our customers every day are as diverse as our employees.
+Would you like to make a difference and put your ideas into practice with us?
+What we are looking for:
+Position: Data Modelling Consultant 
+Location: London, UK
+Your Capco Day
+Conducting business analysis to gain the necessary level of understanding for data definition and usage
+Working closely with subject matter experts & data architects, analyse the data requirements & produce and update logical and physical data models
+Identifying data entities and describing the relationships between them, as a model, based on business context, process and existing systems clearly showing source to target mappings
+Supporting both intra-system data design and embedding of metadata management behaviours
+Be able to generate the physical implementation of the data model
+Execution of governance related activities, including review forums and project delivery in adherence to standards
+Preferred Experience
+Strong data modelling experience, preferably within the financial services industry working on large scale data migration programmes
+Good understanding of financial reference data and experience with FS industry standard models (e.g. fpML, FIX, FIBO) is highly preferred
+Data modelling skills and a solid understanding of the difference between conceptual, logical and physical models
+Stakeholder Management experience and skills - able to converse with all levels of stakeholders to understand and extract the required business requirements
+Project lifecycle implementation experience including familiarity of agile projects
+Understanding of UML and/or logical data models
+Understanding of RDBMS’s and proficiency with SQL
+Understanding and experience of modelling semi-structured schemas such as JSON and/or XML
+Experience with data modelling tools e.g. Sparx Enterprise Architect, Erwin modelling software, Power designer, Visual Paradigm or similar
+Experience with curating ontologies and experience with RDF/OWL/TTL is highly preferred.
+WHY JOIN CAPCO?
+You will work on engaging projects with some of the largest banks in the world, on projects that will transform the financial services industry.
+We offer:
+A work culture focused on innovation and building lasting value for our clients and employees
+Ongoing learning opportunities to help you acquire new skills or deepen existing expertise
+A flat, non-hierarchical structure that will enable you to work with senior partners and directly with clients
+A diverse, inclusive, meritocratic culture
+Enhanced and competitive family friendly benefits, including maternity / adoption / shared parental leave and paid leave for sickness, pregnancy loss, fertility treatment, menopause and bereavement
+

@@ -1,0 +1,27 @@
+
+Events in recent years have made us all too familiar with the havoc that natural disasters can wreak, and the increasing frequency and intensity with which they are occurring.  Despite record levels of losses, conventional methods of risk modeling continue to paint at best an incomplete picture of these threats.
+ZestyAI uses novel data gathering and data science methods to produce higher quality information about the risks to property from catastrophes like floods and wildfires.  While AI alone may not be able to thwart these disasters, it can help us become more prepared for them, and ultimately that will lead to better outcomes.
+As a Senior Data Scientist - Risk Modeling, you are comfortable and excited to work closely with the engineering team to build the best AI tech possible. You will develop top tier models from unique and diverse data sources to provide strong insights and maximize the impact of our company efforts. You thrive in a collaborative, creative environment that moves fast and you are comfortable setting in place structures and processes to help the company scale. 
+The Opportunity:
+Explore data sets and develop new PropertyTech and InsurTech models with data science (machine learning, deep learning)
+Research and model aspects of property risk utilizing imagery, hazard data, geospatial data, and other data sources
+Collaborate with other data scientists, risk management professionals, and business stakeholders to ensure that risk models are accurate and effective
+Conduct research to identify new risk factors and refine existing models
+What You Bring to the ZestyAI Team:
+Advanced Degree (Masters or PhD) or equivalent experience in Machine Learning, Finance, Economics, Climate Science, or related field required
+3-5 years of work or academic experience in predictive modeling, including developing and implementing models for property risk, credit risk, and/or fraud risk
+Experience working with machine learning
+Fluent in Python
+Proficient in SQL
+Experience deploying machine learning models in production environments
+Experience working with cloud platforms (AWS, Google Cloud, etc) 
+Strong organizational and management skills with past experiences implementing best practices and processes
+Experience working with GIS data (geopandas, shapely, BigQuery, QGIS, ArcGIS) a plus
+Must be legally eligible to work in Canada
+Why ZestyAI:
+Be part of a well-funded growth-stage start-up
+Market competitive comp and equity incentives to give you a stake in our future
+Flexible Time Off 
+An upbeat and collaborative work culture 
+Company-sponsored outings and offsites
+

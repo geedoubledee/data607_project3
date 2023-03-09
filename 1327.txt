@@ -1,0 +1,42 @@
+
+About SimpliSafe
+We’re a high-tech home security company that’s passionate about protecting the life you’ve built. So, we’ve created a culture here that cares just as deeply about the career you're building. Ours is a no-ego culture of collaboration and innovation where those seeking their next challenge can find big opportunities, and make a huge impact on the lives of all those that we protect. We don’t just want you to work here. We want you to grow and thrive here.
+Why are we hiring?
+Well, we’re growing and thriving. So, we need smart, talented, and humble people who share our values to join us as we relentlessly pursue our goal of ensuring everyone feels safe in their own home.
+Job Description
+SimpliSafe’s Marketing Analytics team is looking for a Data Scientist to build models that will advance our forecasting methods and improve marketing effectiveness. In this role, you will have the opportunity to build econometric and propensity models (amongst others), measure channel incrementality and design an advanced attribution model.
+This is a unique opportunity to own the full lifecycle of model development from ideation and data exploration, algorithm design and testing, algorithm development and deployment to monitoring and tuning in production. You will collaborate with analysts, data scientists, engineers, and product managers to expand SimpliSafe’s modeling capabilities. Your work will have a direct impact on Marketing’s performance and the company’s overall business success.
+What You'll Do
+Forecasting
+Utilize SimpliSafe data sources to help define opportunity areas for forecasting
+Implement and validate predictive and statistical models with a focus on harnessing the power of internal and external data for model tuning
+Carry out model validation and model tuning/optimization as part of the natural model life-cycle
+Partner closely with cross-functional teams to design statistically sound A/B and multivariate tests to validate hypotheses with rigor
+Research and identify relevant machine learning techniques to advance forecasting modeling and drive business growth
+
+Attribution
+Help evolve how we attribute sales to marketing channels by leveraging existing models, analyses and test results
+Partner closely with stakeholders to define and build an attribution model tailored to measuring channel incrementality
+Quantify the impact of different attribution models through rigorous testing and experimentation
+Collaborate on data segmentation and optimization strategies to improve audience targeting and advertising effectiveness
+Support internal research into new methodologies for experimentation in the advertising space
+
+What You'll Need
+MS in a quantitative field (Computer Science, Statistics, Mathematics, etc.) and 1-2 years of working data science experience or BS in a quantitative field and 2-3 years of working data science experience.
+Skilled in SQL, R, Python, and statistical methods
+Self-starter who can work independently in addition to collaborating with analysts and business stakeholders
+Experience working with attribution and forecasting models - with knowledge of different approaches such as time series, causal, ridge regression, Bayesian
+Strong analytical and creative problem-solving skills
+Extreme attention to detail but with the ability to work collaboratively in a dynamic, cross-functional environment
+Excellent communication skills with the ability to synthesize concepts for non-technical audiences and effectively engage partners across all levels of the company
+Knowledge of the marketing ecosystem (like digital footprint mechanisms) and relevant marketing measurement methods is a plus
+What Values You'll Share
+Customer Obsessed - Building deep empathy for customers and developing strong, long-term relationships with them.
+Aim High - Always challenging oneself and others to raise the bar.
+No Ego - “no job too small” attitude, and open, inclusive and humble style.
+One Team - highly collaborative approach to achieving success.
+Lift As We Climb - A track record of investing in developing others and helping others succeed.
+Lean & Nimble - working with agility and efficiency to experiment in an often-ambiguous environment.
+We are an equal opportunity employer, and all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity or expression, pregnancy, age, national origin, disability status, genetic information, protected veteran status, or any other characteristic protected by law.  Likewise, we are committed to full support of qualified individuals in hiring and employment. In keeping with this commitment, we will work with qualified individuals with disabilities to assess whether a reasonable accommodation may be provided to perform the essential functions of their role, absent undue hardship. If a reasonable accommodation may be needed to fully participate in the job application or interview process, to perform the essential functions of a position, or to receive other benefits and privileges of employment, please contact careers@simplisafe.com.
+ 
+

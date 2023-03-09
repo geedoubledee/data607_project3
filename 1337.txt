@@ -1,0 +1,81 @@
+
+Welcome to our fabulous world. 🍴We are TheFork. Our mission is to bring happiness through amazing dining experiences, thanks to our 3 main products : 
+📱 TheFork App : the restaurant discovery and booking app for every occasion
+🖥️ TheFork Manager : the tool to digitize restaurant operations and be in full control of your business
+💳 TheFork Pay & gift cards : the new and amazing dining payment experience
+Creator of a unique model that disrupted the restaurant industry 15 years ago, we are now the leading dining platform across Europe and Australia. We are experiencing an exciting period of growth, and we need the greatest folks onboard. Together, we will make our wildest dreams come true! We strongly believe that our mission can only be achieved if we also bring happiness to our working environment. We do this by providing a flexible, multicultural  and positive environment where each individual has the space to grow.
+We nurture this happy culture through our core values: We are better together -  We act like an owner - We genuinely care for our users and customers - We believe in transparency - We never stop learning - Speed wins
+Oh! And we are also part of the big Tripadvisor family ❤️
+With love,
+Your future buddies, the Forkies.
+ 
+We believe that we are better together, and at TheFork we welcome you for who you are.  Our workplace is for everyone, as is our people powered platform.  At TheFork, we want you to bring us your unique perspective and experiences, so we can collectively keep disrupting the restaurant industry and go from good to great.
+ 
+Context: 
+At TheFork, data is everyday more at the core of our decision making processes and our product(s) (data sharing with our customers; machine learning algorithms for personalization, content enhancement, yield management etc), As we continue accelerating in that domain, with further data usage at all levels of the company and to faster capacity to integrate data products in our product development strategies, we want to bring our technical data frameworks, capabilities (data platform; data integration capabilities; data products and machine learning frameworks ) and processes to the next level.
+ 
+TheFork’s data organization is a central organization of ~40 FTEs supporting all business functions (Product, Marketing, Sales, Operations, etc). The data team gathers the complete set of expertises (Data Engineering, Analytics, Data science, Data Product Management, etc) required to provide business teams with end-to-end data support to accelerate their  strategies. The team recently initiated a Data Mesh journey with the creation of first Data Domains, that we want to further equip in terms of self-service data platform and data governance tooling.
+ 
+The Data Platform and the data integration activities are a foundational component of this organization to allow robustness and scalability of its delivery.
+ 
+Overall, the role of the Director of Data Platforms, Data Engineering and data integration we are looking for is to ensure that TheFork has robust, efficient, and effective data solutions allowing us to boost the implementation of data activation use cases.
+ 
+What you will do: 
+Managing and mentoring teams of data engineers and data integration specialists to design, develop, deploy, and maintain data systems, data engineering practices, and data integration processes that support our various data activation use cases:
+Ensuring that the data platforms and data integration systems are scalable, reliable, and secure
+Providing the required enabling frameworks for data products (datasets as products, machine learning algorithms, api(s), data governance tooling,...) development in a context where we are inspired by data mesh principles
+Contribute to the evolution of the data engineering strategy for the company:
+You will animate discussions on how to scale and distribute further our data engineering activities
+You will challenge and revamp the way we move and consolidate data within and between the different applications of the company
+Collaborating with cross-functional teams to identify and prioritize data needs, and to develop and implement solutions to meet those needs
+Staying up-to-date with the latest developments and trends in data platform and data engineering technologies and best practices.
+ 
+You will be part of the Data Leadership team and will report into the Chief Data Officer. 
+You will also play a key role in connecting the dots between the Data team and the different Engineering teams who develop our Products and internal tools.
+ 
+To help you in achieving your goals, you’ll start with a team composed of our Data engineer team (6 data engineers with a manager). Data integration resources (team of Talend experts, currently outside of the data team and which role, scope and skills will be reconsidered with your support) will then be included in your scope with an approach that we expect you to drive. Data Ops and Data architect profiles (part of our engineering organization) will continue to closely collaborate with your teams. You will also have a very close collaboration with our Core BI team which is running our data warehousing and core data modeling activities.
+We expect that you design the next steps of this organization: scope, structure, sizing, skills etc.
+ 
+We’ll measure the success of your position through the following outcomes:
+Data platform and data integration uptime: The percentage of time that the data platform and data integration systems are available and functioning properly.
+Productivity and efficiency of the team
+Data platform and data integration performance and scalability: speed and efficiency with which data is transferred and processed and the capacity of the systems  to handle increasing volumes of data without degradation in performance
+Adoption and usage of provided technical frameworks and systems to support creation of data products
+Satisfaction of the users your team is supporting
+
+Who You Are: 
+You have significant experience (12+ years) in data engineering, data integration and data platform development
+5+ years of experience leading and managing data engineering, data platforms engineers and data integration specialists
+Expertise in data modeling, data warehousing, data integration, ETL/ELT, data governance and data platform development.
+Experience with data engineering technologies, data warehousing and big data technologies such as Hadoop, Spark, and NoSQL databases
+You are used to navigate Modern data stacks with the ability to drive decisions on architecture and technology choices. We are leveraging the AWS platform and are using technologies such as Airflow, Kubernetes, DBT, Snowflake, Kedro
+Experience with data governance and security best practices
+You adhere to the devOps culture and have a real sense of continuous improvement
+Consulting background is a strong plus
+You are result-oriented and demonstrate problem-solving and analytical skills
+Your leadership skills allow you to develop your teams effectively. You can develop a vision for your team. You can embark others (internally and externally) on your vision and can help them grow  in implementing this vision.
+You are customer & service oriented. Quality of service and satisfaction of your customers is you main driver
+You speak English and French
+
+What We Offer You: 
+😄 An awesome team (not everybody like our jokes, but we try our best) 
+🏠 A Permanent contract (that can be useful in life) 
+⚖️ Flexible working environment (2 days home office per week) 
+💚 Complementary time off to spend with your loved ones 
+💸 Competitive fixed salary, bonus and equity (yes, equity!) 
+🍕 Lunch vouchers available for each working day (because yes, we like to try our best restaurants)  
+🌎 International teams - More than 30 nationalities and 16 offices worldwide 
+🏳️‍🌈 Highly inclusive working environment 
+🤸‍♀️ Lifestyle benefits that can be used to reimburse physical, leisure activities, family support, travel etc 
+🎓 Continuous learning and development programs (with full access to LinkedIn Learning!) 
+👶 Financial benefits in the events of a birth, adoption, pacs, or wedding  
+😌 Free access to the Calm app  
+🏡 Housing assistance plan to help find accommodations, or with repairs for your home 
+🏥 72% of health insurance fully covered by the company 
+👩‍🦽 Life Insurance and Disability at no cost to the employee  
+🍴 Amazing offices with dining, coffee point on each floor, and leisure area    
+🎤 Team building events (we love karaoke. A lot. A lot.) 
+ 
+#LI-AD1
+ 
+

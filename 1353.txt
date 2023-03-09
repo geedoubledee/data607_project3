@@ -1,0 +1,52 @@
+
+Accenture Federal Services delivers a range of innovative, tech-enabled services for the U.S. Federal Government to address the complex, sensitive challenges of national security and intelligence missions.
+Refer a qualified candidate and earn up to $20K. Learn more here >
+Job Description: 
+Accenture Federal Services is seeking a Junior Data Engineer to assist with the data platform blueprint and design, encompassing the relevant data platform components. Collaborates with the Integration Architects and Data Architects to ensure cohesive integration between systems and data models.
+Responsibilities include:
+Develop stages of a distributed parallel data processing pipelines, which includes but is not limited to processes such as configuring data connections, data parsing, data normalization, data mapping and modeling, data enrichment, and integration with data analytics
+Operate and maintain the data processing pipelines in accordance with the availability requirements of the platform
+Follow agile methodologies when applied to the data engineering part of the system development life cycle (SDLC)
+Update technical documentation such as system design documentation (SDD); standard operating procedures (SOPs); and tactics, techniques, and procedures (TTPs); and training material
+Here's what you need:
+Bachelor’s degree in a discipline covered under Science, Technology, Engineering or Mathematics (STEM) with 2 years’ experience as a software engineer or a data engineer
+2 years’ experience with Python, Java, or other programming languages
+2 years’ experience applying agile methodologies to the software development life cycle (SDLC)
+2 years’ experience with Git repositories and CI/CD pipelines. Examples include but are not limited to GitHub and GitLab
+2 years’ experience with distributed parallel streaming and batch data processing pipelines
+2 years’ experience integrating with data SDKs / APIs and data analytics SDKs / APIs
+Bonus points if you have:
+2 years’ experience as a data engineer
+1 year of experience developing, operating, and maintaining data processing pipelines in a classified environment
+1 year of experience data mapping, modeling, enriching, and correlating classified data
+1 year of experience with Python / PySpark
+1 year of experience with Java / Java interface to Spark
+1 year of experience with Palantir Foundry
+Security Clearance:
+An active TS/SCI clearance is required to start
+Compensation for roles at Accenture Federal Services varies depending on a wide array of factors including but not limited to the specific office location, role, skill set and level of experience. As required by local law, Accenture Federal Services provides a reasonable range of compensation for roles that may be hired in California, Colorado, New York City or Washington as set forth below and information on benefits offered is here.    
+Role Location: Range of Starting Pay for role  
+California: $73,900 - $115,100 
+Colorado: $73,900 - $99,400 
+New York City: $85,500 - $115,100 
+Washington: $78,600 - $105,900
+ 
+Eligibility Requirements
+US Citizenship required.
+Important information
+Applicants for employment in the US must have work authorization that does not now or in the future require sponsorship of a visa for employment authorization in the United States and with Accenture Federal Services
+Accenture Federal Services is an EEO and Affirmative Action Employer of Females/Minorities/Veterans/Individuals with Disabilities. An active security clearance or the ability to obtain one may be required for this role. Accenture Federal Services is committed to providing veteran employment opportunities to our service men and women. Candidates who are currently employed by a client of Accenture or an affiliated Accenture business may not be eligible for consideration.
+ 
+What We Believe
+We have an unwavering commitment to diversity with the aim that every one of our people has a full sense of belonging within our organization. As a business imperative, every person at Accenture has the responsibility to create and sustain an inclusive environment. Inclusion and diversity are fundamental to our culture and core values. Our rich diversity makes us more innovative and more creative, which helps us better serve our clients and our communities. Read more here
+Equal Employment Opportunity Statement
+Accenture is an Equal Opportunity Employer. We believe that no one should be discriminated against because of their differences, such as age, disability, ethnicity, gender, gender identity and expression, religion or sexual orientation.
+All employment decisions shall be made without regard to age, race, creed, color, religion, sex, national origin, ancestry, disability status, veteran status, sexual orientation, gender identity or expression, genetic information, marital status, citizenship status or any other basis as protected by federal, state, or local law.
+Accenture is committed to providing veteran employment opportunities to our service men and women.
+For details, view a copy of the Accenture Equal Opportunity and Affirmative Action Policy Statement.
+Requesting An Accommodation
+Accenture is committed to providing equal employment opportunities for persons with disabilities or religious observances, including reasonable accommodation when needed. If you are hired by Accenture and require accommodation to perform the essential functions of your role, you will be asked to participate in our reasonable accommodation process. Accommodations made to facilitate the recruiting process are not a guarantee of future or continued accommodations once hired.
+If you would like to be considered for employment opportunities with Accenture and have accommodation needs for a disability or religious observance, please call us toll free at 1 (877) 889-9009, send us an email or speak with your recruiter.
+Other Employment Statements
+The Company will not discharge or in any other manner discriminate against employees or applicants because they have inquired about, discussed, or disclosed their own pay or the pay of another employee or applicant. Additionally, employees who have access to the compensation information of other employees or applicants as a part of their essential job functions cannot disclose the pay of other employees or applicants to individuals who do not otherwise have access to compensation information, unless the disclosure is (a) in response to a formal complaint or charge, (b) in furtherance of an investigation, proceeding, hearing, or action, including an investigation conducted by the employer, or (c) consistent with the Company's legal duty to furnish information.
+

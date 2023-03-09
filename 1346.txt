@@ -1,0 +1,142 @@
+
+Data Management Consultant
+Joining Capco means joining an organisation that is committed to an inclusive working environment where you’re encouraged to #BeYourselfAtWork. We celebrate individuality and recognize that diversity and inclusion, in all forms, is critical to success. It’s important to us that we recruit and develop as diverse a range of talent as we can and we believe that everyone brings something different to the table – so we’d love to know what makes you different. Such differences may mean we need to make changes to our process to allow you the best possible platform to succeed, and we are happy to cater to any reasonable adjustments you may require. You will find the section to let us know of these at the bottom of your application form or you can mention it directly to your recruiter at any stage and they will be happy to help.
+Capco is a global technology and business consultancy, focused on the financial services sector. We are passionate about helping our clients succeed in an ever-changing industry.
+We bring:
+Expertise in banking and payments, capital markets and wealth and asset management
+Deep knowledge in financial services offerings, including e.g. Finance, Risk and Compliance, Financial Crime, Core Banking etc.
+A commitment to growing our business and hiring the best talent to help us get there
+A focus on maintaining our nimble, agile and entrepreneurial culture
+
+
+The Opportunity
+
+
+Capco’s global Data Practice team of 800+ data practitioners enables financial institutions to become data-driven by helping transform their understanding, management, storage, and use of data to derive value for themselves and their customers.
+
+
+Our team collaborates with clients to formulate focused, actionable, and effective data strategies that deliver business outcomes in a sustainable fashion. We translate strategy into action – designing, implementing and mobilising innovative data capabilities with a focus on efficiency and scalability, and partnering with leading vendors and industry bodies.
+
+
+Drawing on our deep domain and business expertise, we architect and engineer modern data platforms and curated data products, with a focus on automation and data management by design. We partner with business, operations, and technology teams to embed and sustain these capabilities in business-as-usual and are directing the design and implementation of next generation data platforms across the industry.
+
+
+Our clients and peers voted us as the A-Team Best Consultancy in Data Management in 2021, and value our ability to identify and develop top data talent.
+
+
+Your Role
+
+
+You’ll be joining Capco’s Data Strategy & Advisory team as a Data Management Consultant. You will use your data management expertise to design, implement, mobilise and embed Data Management capabilities for our clients, enabling the production and usage of fit-for-purpose data.
+
+
+Your primary responsibility will be to enable clients to become data-driven organisations through application of data management capabilities (including metadata management, data quality management, data lineage etc.). Our projects vary in their nature, and your responsibilities will differ based on client requirements, but could include:
+
+
+Supporting the definition and implementation of data management frameworks, including through definition of data management policies, standards, processes and operating procedures
+
+
+Capturing data (management) requirements for large and complex transformations and translating into pragmatic solutions
+
+
+Pioneering the adoption of data management practices for key client business processes, digital transformations, and analytics & reporting, including but not limited to:Cataloguing of business and technical metadata, and definition of associated taxonomies and domains Facilitation of data governance, including identification, assignment, and training of Data Owners and Data Stewards Embedment of data quality monitoring and issue management, including through data profiling, DQ rules definition, and DQ dashboard design and implementation Definition, consolidation, and standardisation of reference data taxonomies, and convergence of reference data consumption Documentation of data lineage, including through generation of technical and business data lineage using automated data lineage tooling 
+
+
+Facilitating solution design for data management tooling solutions, including through assessment of functional and technical designs against business requirements
+
+
+Supporting the deployment, implementation and rollout of new data management tooling
+
+
+Designing and running data management training for clients
+
+
+
+You will also play a role in developing the Data Strategy & Advisory capability within Capco, which may include:
+
+
+Identifying and researching business development opportunities on new or existing clients and aiding the development of client proposals and bids
+
+
+Contributing to internal / external-facing thought leadership
+
+
+Developing data methodologies and accelerators to enhance Capco’s delivery capability
+
+
+Supporting training of Capco resources in data methodologies
+
+
+
+Your Skills and Experience
+
+
+Most importantly, you’ll have a passion for data. You will bring your aptitude for problem solving and change to enable clients to achieve their business outcomes.
+
+
+To qualify for the role, you will have most of the following:
+
+
+A minimum of 3 years’ experience in Data Management and / or Data Analytics
+
+
+A deep understanding of Data Strategy, Data Management, and Data Analytics principles, and one or more of several common Data Management methodologies and capability models (e.g. DAMA DMBOK, DCAM, CDMC) and toolsets
+
+
+Experience designing and implementing new data management capabilities, or driving improvements to existing capabilities
+
+
+Extensive experience executing data management processes and toolsets (e.g. data cataloguing, data quality management etc.)
+
+
+Hands-on experience in industry-standard data management tooling (e.g. Collibra, Solidatus, Talend, Ataccama)
+
+
+Experience in documenting current-state processes, roles & responsibilities and governance structures, and designing their target-state
+
+
+Excellent analytical and problem-solving skills
+
+
+Excellent stakeholder management skills, with solid experience and comfort working solo and in team environments
+
+
+Extensive experience in simplifying complex concepts, with excellent verbal and written communication skills, including in Microsoft PowerPoint, Word and Excel
+
+
+Experience working in demanding project environments, with a high level of commitment and drive, including whilst under pressure and in ambiguous circumstances
+
+
+
+Ideally, you will also bring:
+
+
+Consulting experience at a top-tier consultancy, or a similar internal (Chief Data Office) change / transformation role within a Financial Services organisation
+
+
+A background in Financial Services (e.g. banking, insurance, investment management)
+
+
+Hands-on experience in data analytics implementation (e.g. Power BI, Tableau, QlikView or Sense)
+
+
+A solid understanding of the difficulties, opportunities and regulations (e.g. ESG, LIBOR, BCBS-239, CCAR, GDPR, Consumer Duty) facing the Financial Services industry
+
+
+Up-to-date knowledge of industry best-practices within data management and analytics
+
+
+Formal certification in data management methodologies or capability models
+
+
+Experience running small projects and teams
+
+Why Join Capco?
+You will work on engaging projects with some of the largest banks in the world, on projects that will transform the financial services industry.
+We offer:
+A work culture focused on innovation and building lasting value for our clients and employees
+Ongoing learning opportunities to help you acquire new skills or deepen existing expertise
+A flat, non-hierarchical structure that will enable you to work with senior partners and directly with clients
+A diverse, inclusive, meritocratic culture
+Enhanced and competitive family friendly benefits, including maternity / adoption / shared parental leave and paid leave for sickness, pregnancy loss, fertility treatment, menopause and bereavement
+

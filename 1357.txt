@@ -1,0 +1,47 @@
+
+What we do
+At Civis Analytics, we bring objective, data-driven truth to organizational decision-making—from the boardroom to the world’s largest progressive social causes.
+This mission isn’t an aspiration: it’s something we see realized every day, and it brings purpose to everything we’re working on.
+We combine a sophisticated SaaS product with our specialized data science consultancy to empower tens of thousands of active users to make millions of data-driven decisions every month. From joining disparate data sources and automating reporting, to building more elaborate models of targeted audiences and optimizing messages for them, organizations like the Bill and Melinda Gates Foundation, the City of Boston, and iHeart Radio trust Civis’s technology to make their most critical decisions.
+Core to our product and consulting offerings is Civis Platform, which makes it easy to import, manage, transform, analyze, and report on data. Our customers love Civis Platform because it empowers them to focus on finding data-driven answers to their most critical questions—in other words, we empower them to run their business, rather than running a tech stack. 
+Learn more about Civis at www.civisanalytics.com.
+Job Description
+Applied Data Engineers are experts in creating elegant, maintainable, and extensible data pipelines and database architectures. They partner with Civis's Applied Data Science consultants -- the Applied Data Engineers make the data clean and available, and the Applied Data Scientists analyze and present the data to clients.
+As an Applied Data Engineer, you will structure, transform and clean complex data sets to enable our Applied Data Science Team to deliver exceptional data science solutions to our clients. You will also collaborate internally and with our clients to build elegant and sustainable data pipelines for our clients.
+Responsibilities
+Ingest data using connectors built by our Engineering team and build new data connectors as required.
+Collaborate with clients and client-facing teams to define user requirements and database design specifications for our clients’ needs.
+Transform data based on business requirements.
+Apply data validation and/or software testing techniques to ensure data processes and pipelines are working properly.
+Create pipelines that deliver data error-free and on-time with features such as logging, fault tolerance, notifications, and scalability.
+Document and train others on data pipelines.
+Serve as a technical resource in resolving issues related to data pipelines.
+Work closely with client-facing teams.
+Develop your technical skills by working with our Engineering Team and other Applied Data Engineers
+Required Qualifications
+Bachelor’s degree in an analytical subject (statistics, math, economics, physics, engineering, business, political or social science, computer science, etc.)
+Demonstrated experience working with databases and data transformations 
+Proficiency in Python and SQL
+Ability to work as part of a cross-functional team to solve problems and build solutions
+Strong communication and teamwork skills
+US work authorization
+Preferred Qualifications
+2+ years of related work experience 
+Experience working on data pipelines in support of data analytics or data science applications
+Demonstrated track record working with data warehouse concepts
+Demonstrated experience with GitHub
+Experience with software development practices including unit testing, version control, code review, and Agile development
+All employees either must be fully vaccinated against COVID-19, initiate vaccination before your start date, or file an exemption request prior to start date per company policy for review. 
+Who we are
+Civis offers opportunities for newcomers, seasoned professionals, and anyone in between. Our teams are energized by complex challenges and value diversity of thought. Opportunities to stand out and inspire happen daily, and we trust and encourage you to act on your ideas—no matter how big they are. 
+We offer you the tools and community you need to do your best work. Each of us is committed to holding ourselves accountable for results, challenging the status quo, and finding new ways to help our company—and each other—grow.
+Why join our team?
+The opportunity to be part of a growing tech startup focused on solving interesting and meaningful problems, invested in internal promotion, and committed to fostering a diverse, equal, and inclusive workplace. 
+Competitive benefits, including unlimited PTO; 401K match with immediate vesting; health, dental, and vision benefits; fully paid parental leave; breastfeeding support, including breastmilk shipping services for traveling moms; commuter benefits; wellness initiatives, including weekly group meditations; monthly on-site massage therapy; and pet insurance. 
+To support employees in our now-fully remote work environment, we have expanded our virtual journal and book clubs, Donut Pals (organized virtual coffee meet-ups), Lightning Talks (five-minute presentations on anything you’d like), Lunch-and-Learns, and HR Open Discussions (bi-weekly meet-ups where we discuss ideas and topics of the day in a casual format). We are also able to support and accommodate flexible work from-home-schedules to help employees juggle their domestic responsibilities.
+Civis embraces the individuality of our employees, and we celebrate each other's differences. Our products, services, and culture benefit from and thrive on the unique perspectives brought by each person in our Civis community. We're proud to be an equal opportunity workplace, and we are committed to equal employment opportunity regardless of race, age, sex, color, ancestry, religion, national origin, sexual orientation, gender identity, citizenship, marital status, disability, or veteran status. If you have a disability or special need that requires accommodation, please contact us internalrecruiting@civisanalytics.com.
+In compliance with federal law, all persons hired will be required to verify identity and eligibility to work in the United States.
+EEO IS THE LAW
+EEO Supplement
+Pay Transparency
+

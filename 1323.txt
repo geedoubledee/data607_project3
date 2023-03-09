@@ -1,0 +1,39 @@
+
+Join a leading fintech company that’s democratizing finance for all.
+Robinhood was founded on a simple idea: that our financial markets should be accessible to all. With customers at the heart of our decisions, Robinhood is lowering barriers and providing greater access to financial information. Together, we are building products and services that help create a financial system everyone can participate in.
+As we continue to build... 
+We’re seeking curious thinkers looking to co-author the next chapters of our story. Joining now means helping shape our vision, structures and systems; playing a key-role as we launch into our ambitious future.About the team:
+The preferred location for this position is in or around Robinhood's offices in Menlo Park, CA, New York, NY, or Seattle, WA with in-office work capabilities, as may be required by management.
+Insights from data power most decisions at Robinhood Crypto (RHC). This Senior Data Scientist-Analytics role will work with partners in product, marketing, engineering, finance, design, and compliance to understand and analyze data from all parts of our business to power how our product works and feels. Our company trajectory is defined by the systems, tools, and analytics powered by our exceptional team.
+The Crypto team within Robinhood functions like a fast-paced startup within the larger organization and is composed of several product teams that build products and features to enable our users to research and invest in Crypto assets. From learning about Crypto to trading and using it – we seek to innovate on the appealing, intuitive user experiences that make Robinhood the leading destination for Equities investing, and deliver that same familiar experience to Crypto.
+The ideal candidate is passionate about and has experience working in Crypto and Web3. We are seeking a cross-functional collaborator, who can integrate with a product team, develop deep knowledge of a product area, and leverage data and quantitative reasoning skills to persuade people to make different decisions or consider things they may not have thought to consider before.
+What you’ll do day-to-day:
+Developing and sharing insights around the metrics that drive the company, your particular product, and parts of a larger product area
+Working with partners to identify the metrics their product should track and developing and sharing analysis, guidance, reports, and dashboards to successfully track and move these metrics
+Powering quick decisions by answering business questions by querying our vast datasets
+Actively suggesting changes to help our customers and business based on a deep understanding of how people engage in our app.
+Adapting quantitative techniques, including modeling, to solve problems surfaced by multiple perspectives
+Mentoring others as needed to democratize the use of data within the company
+About you:
+5+ years of demonstrated experience working in product analytics or product data science, acting as the analytics voice in consumer product pods.
+BA/BS/MS/PhD in behavioral science (economics, psychology etc) with strong statistical chops or a background in a quantitative field such as mathematics, statistics, engineering, or natural sciences (or equivalent experience) with a strong curiosity about human behavior.
+Excellent programming skills, including expert level skills with either Python (numpy, scipy, pandas) or R programming languages
+Expert level SQL skills
+Solid understanding of statistical analysis
+Experience communicating data driven insights
+The ability to use data to inform, persuade, and lead
+Bonus points:
+Passion for working and learning in a fast-growing company
+Strong customer empathy
+Strong sense of curiosity
+Satisfaction from mentoring and encouraging others in your field
+Technologies we use:
+SQL
+Python or R
+Airflow
+The expected salary range for this role is based on the location where the work will be performed and is aligned to one of 3 compensation zones. This role is also eligible to participate in a Robinhood bonus plan and Robinhood’s equity plan.US Zone 1: $162000 - $190000US Zone 2: $142000 - $167000US Zone 3: $126000 - $148000Base pay for the successful applicant will depend on a variety of job-related factors, which may include education, training, experience, location, business needs, or market demands. You can view comp zones for our US office locations in the table below. For other locations not listed, compensation can be discussed with your recruiter during the interview process.
+Office locations (by comp zone)US Zone 1: Menlo Park, NYC, Seattle, Washington DC US Zone 2: Denver, Westlake (Dallas), Chicago US Zone 3: Lake Mary
+We’re looking for more growth-minded and collaborative people to be a part of our journey in democratizing finance for all. If you’re ready to give 100% in helping us achieve our mission—we’d love to have you apply even if you feel unsure about whether you meet every single requirement in this posting. At Robinhood, we're looking for people invigorated by our mission, values, and drive to change the world, not just those who simply check off all the boxes.
+Robinhood promotes diversity and provides equal opportunity for all applicants and employees. We are dedicated to building a company that represents a variety of backgrounds, perspectives, and skills. We believe that the more inclusive we are, the better our work (and work environment) will be for everyone. Additionally, Robinhood provides reasonable accommodations for candidates on request and respects applicants' privacy rights. To review Robinhood's Privacy Policy please visit Robinhood - US Applicant Privacy Policy. If you are an an applicant located in the UK or EEA, please visit the Robinhood UK/EEA Applicant Privacy Policy.
+Click here to learn more about Robinhood’s Benefits.
+

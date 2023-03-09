@@ -1,0 +1,71 @@
+
+The InMobi Story 
+We like big challenges. Building a new company in 2007 was no ordinary task. As the recession hit, the iPhone was born and launched a revolution. Mobile advertising wasn’t yet a thing, other than SMS, and venture capital funding was hard to come by for four guys in India.     
+Yet with passion, foresight, and conviction – InMobi charted its own course, helping to transform the way consumers engage with their phones and create today's booming app economy wherein consumers now spend 4.2 hours per day.   
+After fourteen years of innovation, our end-to-end advertising software platform, connected content and commerce experiences have formed a powerful engine for growth that activates audiences, drives real connections, and diversifies revenue for companies around the world.   
+Our global organization of InMobians are excited to continue discovering and developing impactful technologies that will continue to transform people, businesses, and society. 
+ 
+Title: Head of Data Science, InMobi Ads Platform
+Location: San Mateo
+Position Summary:
+Reporting to the Chief Technology Officer, this person will be driving the overall vision and strategy for data science with the InMobi Ads Platform group and will play a foundational role in setting up the DS unit, in terms of hiring and driving the larger AI-first aspirations of the company. If you are looking for a technology company where you can drive business outcomes in an ambitious, high-growth environment, then this is the place for you! 
+The Head of Data Science will design and launch innovative and complex analytic models, utilizing a blend of contemporary and traditional data mining techniques, and when applied to both structured and unstructured data sets, will drive insights and benefits not otherwise apparent. You should have business domain expertise to translate goals into data-based deliverables, using quantitative analysis, statistical modeling, predictive and prescriptive analytics, optimization and attribution algorithms, pattern detection analysis, etc.  
+You will have knowledge of current AI and machine learning capabilities and advances in the field. And you should also be interested in the academics of data science, but more focused on practical application. You will be able to clearly articulate the purpose of data science solutions to key stakeholders and customers, and then translate those into action for the business. The solutions you and your teams provide will encompass such things as product innovations, create efficiencies and automation across the business, improve data architecture and system architecture, mitigate business risks, and create process improvements. 
+We are searching for an executive who thrives on describing a vision and inspiring a team to achieve it. We need a leader who will remove obstacles, break barriers, empower, communicate, and engage. Someone who truly harnesses advanced analytic data modeling systems to drive positive outcomes for our customers. From the defining of a strategy to the execution of it, you will also develop, collect, and report the objective metrics required to assure it. You will own driving employee engagement and increasing productivity across Data Science and into Engineering. 
+This is a senior level role in which you will work directly with the CTO and the founders and lead all the efforts across data science for the InMobi Ads Platform business. 
+ 
+The impact you’ll make:
+Define the overall vision for our data science applications, focused on up-leveling internal use of machine learning
+Provide technical leadership of overall architecture, ML approaches, performance monitoring, continuing improvement, and production deployments
+Manage, develop, coach, and mentor a team of Data Scientists, machine learning engineers and big data specialists
+Partner with our business and product teams to help predict system behavior, establish metrics, identify bugs, and improve debugging skills
+Ensure data quality and integrity within our products as well as our teams
+Test performance of data-driven products
+Partner with our client-facing teams and customers to enhance products and develop client solutions applying critical thinking skills to remove extraneous inputs
+Conceive, plan, and prioritize data projects
+Lead data mining and collection procedures, especially focused on unstructured and siloed data sets
+Build analytic systems and predictive models
+Visualize data and create reports
+Experiment with new models and techniques
+Drive the implementation of models into Production through various Engineering teams
+Create a positive culture to maximize productivity and minimize attrition
+ 
+The experience you'll need:
+Master’s or PhD in Statistics, Machine Learning, Mathematics, Computer Science, Economics, or any other related quantitative field. Equivalent work experience is also acceptable for the position.
+At least 7 years of working experience in a data science position, preferably working as a Senior Data Scientist that progressed into a leadership position.
+A proven and successful track record of leading high-performing data analyst and data science teams leading through the successful performance of advanced quantitative analyses and statistical modeling that positively impact business performance.
+Knowledge of data management and visualization techniques
+Excellent understanding and knowledge of statistical analysis and predictive modeling
+Practical knowledge and solid understanding of machine learning tools and techniques. (e.g.  Python, Deep Learning Architectures, TensorFlow, PyTorch, Spark, Scala)
+Able to work with diverse teams (product, engineering, analytics, sales, services) and at various levels within the organization
+Strong interpersonal skills, demonstrating an ability to collaborate with and influence teams & key stakeholders
+Strong executive leadership presence and business mindset
+ 
+About Us 
+InMobi is the leading provider of content, monetization, and marketing technologies that fuel growth for industries around the world. Our end-to-end advertising software platform, connected content and commerce experiences activate audiences, drive real connections, and diversify revenue for businesses everywhere. With deep expertise and unique reach in mobile, InMobi is a trusted and transparent technology partner for marketers, content creators and businesses of all kinds.  
+Incorporated in Singapore, InMobi maintains a large presence in San Francisco and Bangalore and has operations in New York, Chicago, Kansas City, Los Angeles, Delhi, Mumbai, Beijing, Shanghai, Jakarta, Manila, Kuala Lumpur, Sydney, Melbourne, Seoul, Tokyo, London and Dubai. To learn more, visit inmobi.com.    
+ 
+Our Purpose  InMobi creates transformative mobile experiences and software platforms to positively impact people, businesses, and societies around the world.   
+We believe that our innovations at the intersection of artificial intelligence, commerce, and the creator economy will revolutionize the way consumers use their mobile devices. Our mission is to power our customers’ growth with innovative content and commerce experiences that help them activate their audiences and drive real connections. How do we do it?  
+An End-to-End Content, Monetization, & Marketing Platform the fuels industry growth  
+AI-Powered Audience Activation for the open content, media and marketing ecosystem  
+New Content and Commerce experiences for a world of connected devices 
+ 
+Award-winning culture, best-in-class benefits:     
+Competitive salary, bonus, and stocks     
+Quality medical, vision, dental     
+401(k) match     
+Flexible working hours    
+Parent friendly health benefits and work environment
+Wellness stipend    
+Healthy time off through a combination of PTO, sick days, and company-wide holidays    
+$400 to set up your own home office to thrive in a post COVID world
+Post-covid hybrid work model for employees close to our offices in New York, San Francisco, Irvine, and Kansas City 
+ 
+InMobi is an equal opportunity employer     
+InMobi is a place where everyone can grow. However you identify, and whatever background you bring with you, we invite you to apply if this sounds like a role that would make you excited to work. 
+InMobi provides equal employment opportunities to all employees and applicants for employment and prohibits discrimination and harassment of any type.  All qualified applicants will receive consideration for employment without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state or local laws. This policy applies to all terms and conditions of employment, including recruiting, hiring, placement, promotion, termination, layoff, recall, transfer, leaves of absence, compensation and training. 
+InMobi has implemented a mandatory COVID vaccination policy for all employees in the U.S. Employees who are unable to be vaccinated may request an exemption under certain circumstances. 
+ 
+#LI-BM1
+

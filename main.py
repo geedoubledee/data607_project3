@@ -50,4 +50,29 @@ def call_feedbin_api():
     csv_str = cur_date + "_feeds_" + cur_time + ".csv"
     big_df.to_csv(csv_str)
 
+def call_linkedin_api():
+    url = "https://linkedin-jobs-search.p.rapidapi.com/"
+    page = 1
+    searching = True
+    while searching:
+        headers = {"content-type": "application/json",
+    		"X-RapidAPI-Key": "721e8b75bamsh5449b1adc40e4afp1f81c9jsn19f891a4d6ad",
+    		"X-RapidAPI-Host": "linkedin-jobs-search.p.rapidapi.com"}
+        payload = {"search_terms": "data scientist",
+            "location": "United States",
+            "page": str(page)}
+        response = req.request("POST", url, json=payload, headers=headers)
+        response_json = response.json()
+        try:
+            df = pd.DataFrame(data=response_json)
+            csv_str = cur_date + "_linkedin_pg_" + str(page) + "_" + cur_time + ".csv"
+            df.to_csv(csv_str)
+            page += 1
+        except:
+            print("broke, pg " + str(page))
+            page = 1
+            searching = False
+            break
+
 call_feedbin_api()
+call_linkedin_api()

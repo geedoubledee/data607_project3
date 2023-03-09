@@ -1,0 +1,33 @@
+
+About us
+We are Cosuno, one of the fastest growing start-ups in Germany. We are all about the digitalisation of the construction industry. With our innovative tendering software, we are currently turning the market upside down and setting new standards in process management, cloud technology and user-centric design. Together, we are building the world's largest tendering platform, which is already being used by the industry giants of construction companies and project developers in the DACH region. We are supported by the who-is-who of construction and VC investors, such as Spark Capital, Cherry Ventures, PERI and the SIGNA Group.
+Our success is due to our unique and talented employees who work with power and passion on our common mission. We believe in diversity as a driver for good decisions and the basis for great teams. We are committed to equal opportunities and to creating an inclusive environment for all employees. We welcome applications from individuals of all ethnicities, religions, marital statuses, ages, nationalities, origins, sexual orientations, gender identities or any other form of diversity.
+As a part of Cosuno you will be working with enthusiastic, skilled and ambitious people, shaping tomorrow’s construction industry. Come build the future with us!
+Tasks
+As our company’s main Data Analyst, you will independently lead our data efforts and coordinate all work related to business intelligence and data analysis.
+Your tasks will include:
+Analyzing our data in depth to test specific hypotheses and generate new business insights
+Creating, maintaining, and communicating key metrics and reports that directly impact our strategic and operational decision-making processes
+Maintaining our data pipeline and data warehouse, using a best-in-class tech stack consisting of Looker, Fivetran, and dbt
+Collaborating with departments across the company, enabling them to build their own insights using Looker
+Laying out a vision for how to incrementally build upon and expand our data efforts in the future
+Qualifications
+To be considered for this position, you should have:
+At least 3 years of experience in Data Analysis and Data Engineering
+Experience with Looker, our Business Intelligence tool
+Ideally, experience with Fivetran and dbt or similar tools
+Excellent knowledge of SQL
+Fluency in English and good communication skills
+A generalist mindset, eagerness to learn, and pragmatic, hands-on attitude
+Benefits
+Shape a product that solves real-life problems in the construction industry
+Work in an open-minded, collaborative, dynamic, and international team
+Work fully remote or from our office in Berlin
+Freedom in your working hours. It's the results that count
+Company offsites and regular team events (offline and online)
+Flexible Working conditions with the possibility to do workations
+Competitive compensation, a permanent contract, and modern work equipment
+Open feedback culture with regular 1-on-1s
+We are looking forward to receiving your application!
+ 
+

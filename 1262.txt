@@ -1,0 +1,40 @@
+
+Company Overview
+ID.me simplifies how people securely prove and share their identity online. The company empowers people to control their data through a portable and trusted login, which means they don’t need to create a new password when visiting sites that have the ID.me button.
+The COVID-19 pandemic accelerated digital migration for many critical services. Those services require a trusted identity to safeguard against fraud and help ensure people are who they claim to be. With ID.me, login and identity credentials move with people, which can reduce the time and frustration of having to verify at multiple sites and set up multiple passwords.
+ID.me is a credential service provider compliant with federal standards for digital identity verification. 
+In addition to helping people control their credentials and data, the company’s “No Identity Left Behind” initiative strives to expand access and inclusion for all people. The company offers multiple pathways to verification – online self-serve, live video chat agents, and in person. ID.me is passionate about building a robust identity network that does not compromise access for traditionally underserved groups.Role Overview
+We’re looking for a detail-oriented Data Analyst to work with our Product and Finance teams. This person will quickly deliver insights, review and develop metrics, and contribute to improved business processes to scale analytics that supports our explosive growth. 
+Responsibilities
+Work collaboratively with the Finance and Product teams to define and analyze metrics for business and product performance
+Use data visualization and storytelling techniques to successfully convey insights and impact decision/outcomes to leadership
+Design dashboards to monitor KPIs and business metrics in a readable and digestible format that allows quick insights into performance
+Frame business problems in analytical language and converting business requirements into datasets, analyses, models, and reports
+Designing and implementing data and statistical analysis to produce insights into performance
+Drive cross-functional and enterprise-wide solutions, providing thought leadership within and beyond working group
+Interpreting data to discover patterns and identify trends that support growth and increase efficiencies, implementing enhancements to address control gaps
+Build and automate tools to surface key data to stakeholders across a broad range of data literacy levels
+Provide ad hoc analysis and forecasting as needed across a diverse set of teams and needs to support existing customers, future sales, and strategic business decisions
+Provide support to the Data Engineering and Data Science teams
+Results-oriented mindset with an intense focus on achieving both short and long term goals
+Ideal Qualifications
+1+ years experience in data analytics, business analytics, statistical modeling, or related field
+BS/BA degree required, with a degree in engineering, mathematics, economics, or related quantitative discipline preferred
+Management consulting experience a plus
+A proven track record of problem solving based on analytics to support business recommendations
+Strong written and verbal communications skills and comfort engaging with senior leadership
+Experience at a fast-paced startup a plus
+Demonstrating the ability to tell stories with data through the use of data visualization, dashboards and/or slides calling out key data insights; Tableau and Lookr
+Demonstrating statistical modeling, applied mathematics or STEM; R or Python
+Demonstrating data querying, exploration and validation; SQL and DBT
+Vision: To be the world's leading digital identity network empowering people to control their own information and to prove their credentials across all channels: online, call center, and in-person.
+Mission: To make the world a more trusted place by delivering the highest level of security with the least amount of friction at the lowest possible cost.
+People: We have an audacious mission. We aim to fix the identity layer of the internet. Billions of people will live better lives with more trust and convenience thanks to ID.me. We are like Special Forces. We take on the most difficult challenges with amazing teammates. 
+ID.me Core Values: *Don't be a jerk. *Always compete. *Ask questions like a 5-year old. *Inspire people with your passion. *Make something better every day. *Treat each customer like your favorite family member. *Own your mistakes so you can learn from them. *Details are everything. *Communicate like a scientist. *Be truthful (even when it's hard). *Reflect ID.me's values in your actions. *Act like an owner.
+ID.me Career Site & Culture Deck: https://www.id.me/careers
+ID.me maintains a work environment free from discrimination, where employees are treated with dignity and respect. All ID.me employees share in the responsibility for fulfilling our commitment to equal employment opportunity. ID.me does not discriminate against any employee or applicant on the basis of age, ancestry, color, family or medical care leave, gender identity or expression, genetic information, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran status, race, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable laws, regulations and ordinances. ID.me adheres to these principles in all aspects of employment, including recruitment, hiring, training, compensation, promotion, benefits, social and recreational programs, and discipline. In addition, ID.me's policy is to provide reasonable accommodation to qualified employees who have protected disabilities to the extent required by applicable laws, regulations and ordinances where a particular employee works. Upon request we will provide you with more information about such accommodations.
+Please review our Privacy Policy, including our CCPA policy, at id.me/privacy. If you provide ID.me with any personally identifiable information you confirm that you have read and agree to be bound by the terms and conditions set out in our Privacy Policy.
+ID.me participates in E-Verify.
+#LI-JS1
+#LI-REMOTE
+

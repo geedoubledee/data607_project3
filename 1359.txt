@@ -1,0 +1,44 @@
+
+Company Summary:
+Tessera Therapeutics is pioneering Gene Writing™— a new biotechnology designed to offer scientists and clinicians the ability to write small and large therapeutic messages into the genome, thereby curing diseases at their source. Gene Writing holds the potential to become a new category in genetic medicine, building upon recent breakthroughs in gene therapy and gene editing while eliminating important limitations in their reach, utilization, and efficacy. Tessera Therapeutics was founded by Flagship Pioneering, a life sciences innovation enterprise that conceives, resources, and develops first-in-category companies to transform human health and sustainability.
+ 
+Position Summary:
+Tessera is seeking a talented and motivated Computational Biologist to join our expanding Data Sciences team.  You will tackle challenging bioinformatics and computational biology problems to advance our understanding of Gene Writing and help accelerate programs to the clinic.  You will contribute scientific, technical, and leadership expertise to a multidisciplinary team, emphasizing conceptualization, experimentation, data analysis, presentation, and strategic planning. 
+ 
+Key Responsibilities:
+Work collaboratively with our platform and Biology teams to enable scientific discovery and progression through data analysis, data visualization, and data integration.
+Build and implement data analysis pipelines and storage solutions for various forms of sequencing primarily related to genotoxicity analysis, including Amplicon sequencing, long-read sequencing, One-seq, and chimeric read analysis.
+Design computational methods to combine and analyze off-target events, characterize mutations, and disentangle experiment-related features toward new biological hypotheses, providing project support to gene therapy project teams.
+Analyze human variations and how these variations may alter the genotoxic potential of our elements, onboarding relevant methods and datasets.
+Identify and acquire relevant public and third-party ‘omics data and perform integrative data analyses to generate insights that address strategic biological questions critical to Tessera’s core mission.
+Design and development of pipelines in a cloud environment with a standard software life cycle approach, releasing full documentation, and validation of the methods with statistical benchmarking.
+Operationalize data analysis aspects of relevant molecular assays to maximize the design, build, test cycle for platform and pipeline candidates.
+Structure and store data to enable data reuse, data mining, and machine learning, supporting data standardization and high-level data integration.
+Create compelling data visualizations and result presentations for internal and external dissemination.
+ 
+Basic Qualifications:
+Ph.D./M.S. in Computational Biology, Bioinformatics, or related quantitative discipline.
+8+ years of industry experience in discovery research.
+Proficient with experimental design, data processing, statistical analysis, and bioinformatics analysis/reporting of next-generation sequencing data.
+Experience analyzing gene therapy, gene editing, in vitro/vivo assay, genetics, genomics and cell biology data.
+Proficient interaction with experimental biologists to provide feedback on raw sequencing data quality.
+Strong grounding in biology or medicine.
+Strong data visualization skills and experience.
+Fluency in one or more programming languages with bioinformatics applications (R, Python).
+Track record of success working in a fast-paced, cross-functional, and rapidly growing organization.
+Outstanding written and verbal communication skills, ability to work with colleagues from diverse scientific backgrounds and cultures.
+ 
+Preferred Qualifications:
+Experience with recent advances in gene therapy and development of gene editing platforms as therapeutics.
+Familiarity with short and long-read next-generation sequencing platforms (Illumina, PacBio, Nanopore).
+Proficiency in handling large-scale sequencing data in a cloud environment (AWS preferred).
+Proficiency in statistics and machine learning.
+Experience in virology or mobile genetic elements.
+ 
+More About Flagship Pioneering
+Flagship Pioneering has conceived of and created companies such as Moderna Therapeutics (NASDAQ: MRNA), Editas Medicine (NASDAQ: EDIT), Omega Therapeutics (NASDAQ: OMGA), Seres Therapeutics (NASDAQ: MCRB), and Indigo Agriculture. Since its launch in 2000, Flagship has applied its unique hypothesis-driven innovation process to originate and foster more than 100 scientific ventures. In 2021, Flagship Pioneering was ranked 12th globally on Fortune’s “Change the World” list, an annual ranking of companies that have made a positive social and environmental impact through activities that are part of their core business strategies.
+Flagship Pioneering and our ecosystem companies are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status.
+ 
+Recruitment & Staffing Agencies:  Flagship Pioneering and its affiliated Flagship Lab companies (collectively, “FSP”) do not accept unsolicited resumes from any source other than candidates.  The submission of unsolicited resumes by recruitment or staffing agencies to FSP or its employees is strictly prohibited unless contacted directly by Flagship Pioneering’s internal Talent Acquisition team.   Any resume submitted by an agency in the absence of a signed agreement will automatically become the property of FSP, and FSP will not owe any referral or other fees with respect thereto. 
+ 
+

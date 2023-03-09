@@ -1,0 +1,51 @@
+
+Business Intelligence Developer
+Reporting to: Data & Reporting Manager
+Location: Scale Space Building, 58 Wood Lane, London W12 7RZ.
+ 
+We’ve been pioneering embedded finance since 2007 and over the years, we’ve worked in partnership with banks, SaaS providers, payment processors, checkout providers, and even the UK government – providing all they need to offer easy and frictionless revenue-based finance solutions to their SME customers through our API-powered funding platform.
+We are in a very exciting period of growth, both within the UK and internationally, with teams based in London, Nottingham, USA and Scandinavia. As we continue to grow we are looking for talented and ambitious individuals to join us to reshape business finance.
+We are proud to have been included in The Sunday Times Hiscox Tech Track 100 as one of the 100 fastest growing FinTechs in the UK for two years running.
+ 
+Who are you? 
+ 
+The ideal candidate will have solid practical experience as a Business Intelligence Developer. Knowledge & experience of Power Apps and Power Automate is desirable but not essential. The candidate should feel comfortable across the whole data lifecycle – specifically with competent SQL skills.
+ 
+The ability to confidently communicate up and down the stakeholder ladder is essential, as is the ability to advise, train and support our user base. A keen eye for detail is critical.
+ 
+While technical skills are a necessary requirement, the key to success in this role is the ability to be able to understand and interpret user requirements across the business, often by challenging the status quo of methods and processes.
+ 
+ 
+Responsibilities
+ 
+Work collaboratively across all business functions to deliver Reporting.
+Identify key improvements and requirements in reporting and processes.
+Translate those business requirements into robust, scalable technical solutions
+Create and test the quality and accuracy of reporting outputs before they are released.
+Work closely with the data engineers, analysts, and other core stakeholders to develop a data strategy across the business to leverage the data assets we have
+ 
+ 
+We think you'll need
+ 
+Significant experience with Power BI is a must.
+Experience with advanced Power BI functionality including Power Apps is very valuable but not a must-have
+
+Experience of managing and delivering reporting projects.
+Understanding of data modelling, with competent SQL skills.
+Strong data analysis, interpretation, and visualisation skills.
+Knowledge & experience of Power Apps and Power Automate is desirable but not essential.
+An inquisitive mindset, proactive approach to problem solving and the ability to work both autonomously and collaboratively.
+ 
+ 
+What happens next?
+ 
+A lot of businesses talk about the importance of diversity and inclusion, at Liberis we want to make sure that we’re genuinely fostering a highly inclusive culture that not only welcomes diversity, but celebrates it. Our commitment is not just surface level. We’re on a mission to create a safe space where everyone and anyone, regardless of their background, can thrive. 
+ 
+It’s not just the right thing to do. We also recognise that diverse teams perform better because we have so much to learn from one another. We think that’s pretty cool, and if you do to then you’re in the right place.  
+ 
+We have a hive of activity happening around the business to make sure we’re always pushing for more. Everyone is encouraged to get involved to help us to continue to build an excellent culture at Liberis.  
+ 
+Think this sounds like the right next move for you? If you’re not completely confident that you fit our exact criteria, get in touch! Humility is a wonderful thing and we are interested in hearing about what you can add to Liberis. You can reach us at talent@liberis.co.uk - we look forward to chatting with you! 
+ 
+#LI-CG1
+

@@ -1,0 +1,53 @@
+
+At Jamf, people are at the core of everything we do. We do what’s right for our customers, our employees, our communities and our world. We take pride in simplifying technology for tens of thousands of customers around the globe and helping organizations succeed with Apple.
+ 
+Jamf operates as a choice-based office model. Choose to work in the office, connect 100% remote from your home, or find the blend that works best for you.
+ SUMMARYAt Jamf, we empower people to be their best selves and do their best work. The business Intelligence group at Jamf manages and delivers insights about company data so businesses can make informed decisions. Through the core disciplines of data management and data analytics the team delivers data visualizations and analytics while managing the data infrastructure to support our growing systems at Jamf. The Business Intelligence Data Architect II is an integral member of data management, responsible for ensuring we have the right data architecture to deliver on our vision to democratize data to users and consumers across major business lines. By development of a Business Intelligence and Analytics framework to put accurate and current data to the people who need to make business decisions.
+The Business Intelligence Data Architect II will collaborate closely with stakeholders, Enterprise Architecture, Data Analysts, Data Engineers, end-users and other members across the company in the design, orchestration, and management of our corporate data within our ecosystem - ensuring our data is secured, governed, and consumed by major business lines at Jamf resulting in a data-driven culture.
+RESPONSIBILITIES
+Provide feasible, efficient, and performant data solutions and implementations for our business.
+Collaborating cross-functionally to define and prioritize requirements for data needed from internal and external sources to support analytics and decision making.
+Work with engineering and analyst teams to capture and delivered required data to the Enterprise Data Platform while meeting multi-dimensional standards for data quality.
+Develop key performance measures for data integration, quality, and operations.
+
+Build a framework of principles to ensure data integrity across the business (including but not limited to ERP, CRM, BI, Data warehouse, external interfaces etc.)
+Manage and help build a robust and scalable Data Integration pipeline of the ETL/ELT process
+Understand and document data flow throughout critical business systems
+Work with stakeholder groups on definition of a Unified Data Model that serves as the foundation for the single source of truth for all product, customer and reference data used for BI & analytics.
+Use the best-fit data warehousing methodologies and modeling techniques
+Assists with cloud Infrastructure design best practices, templates, and processes.
+Help achieve and maintain compliance with regulatory, legal and company standards.
+Participate an active contributor to how Jamf evolves Data Governance practices and influence the adoption of data standards.
+Ensure that the BI Data Architecture strategy and roadmap is aligned to the business and technology strategies.
+Contribute to, participate in, and deliver architectures through architecture reviews.
+
+Advocate of data security principles and ensure appropriate security practices are incorporated into solutions/capabilities.
+Mentor/coach team members in data architecture, engineering and dimensional modelling.
+SKILLS AND EXPERIENCE
+Minimum 3 years of Data Architecture experience including but not limited to:
+Experience in architecting and implementing Business Intelligence and Data warehouse platforms, Master data management and data integration (Required)
+Experience in business intelligence and analytics architecture framework: ability to collect, integrate, and store the data so it is accessible and actionable (Required)
+
+Minimum 5 years of experience in Logical and Physical data modelling. (Required)
+Demonstrated experience using Agile/Scrum frameworks and software development workflows (Required)
+Ability to lead technical initiatives, communicate with leadership and guide projects (Required)
+Experience communicating project direction and status with stakeholders (Required)
+Comfortable with resolving conflicting viewpoints and achieving agreement (Required)
+Experience coaching teams on modelling
+Experience integrating data governance functions into the data delivery process
+Strong understanding of cloud platforms, databases, and data capabilities to source, integrate, manage, and leverage data
+Ability to understand existing and new technologies and lead their adoption across the enterprise
+EDUCATION & CERTIFICATIONS
+4 Year/ Bachelor’s degree in Science, Technology, Engineering, Mathematics, or related field (Required)
+A combination of relevant experience and education may be considered 
+ 
+At Jamf, people are at the core of everything we do. We do what’s right for our customers, our employees, our communities and our world. We take pride in simplifying technology for tens of thousands of customers around the globe and helping organizations succeed with Apple.
+Jamf operates as a choice-based office model. Choose to work in the office, connect 100% remote from your home, or find the blend that works best for you.
+ What is a Jamf?You go above and beyond for others, are willing to help, and support the team around you. You value and learn from different perspectives. You are curious and resourceful, a problem-solver, self-driven and constantly improving. You are excited by not knowing what may lie ahead. You are willing to take risks, try new things, even fail just to do it better next time. You’re not a jerk. You are someone who cares about doing the right thing.What does Jamf do?Jamf extends the legendary Apple experience people enjoy in their personal lives to the workplace. We believe the experience of using a device at work or school should feel the same, and be as secure as, using a personal device. With Jamf, IT and security teams are able to confidently manage and protect Mac, iPad, iPhone and Apple TV devices, easing the burden of updating, deploying and securing the data used by their end-users. Jamf’s purpose is to simplify work by helping organizations manage and secure an Apple experience that end-users love and organizations trust.
+ 
+We are free-thinkers, can-doers and problem crushers with a passion for helping customers empower their workforce to focus on their jobs, not the hassles of managing technology – freeing nurses to care, teachers to teach and businesses to thrive. We have over 2,500 employees worldwide who are encouraged to bring their whole selves to work each and every day.
+ 
+Get social with us and follow the conversation at #OneJamf
+ 
+#LI-REMOTE
+

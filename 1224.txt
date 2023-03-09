@@ -1,0 +1,37 @@
+
+Are you looking for a role that motivates and challenges you? Are you ready for an opportunity for growth? Do you want to work on teams where people roll up their sleeves to take on tough problems together, and regularly blow the doors off our clients with their outstanding teamwork? If you answered yes to those questions, 3Cloud might just be for you!
+At 3Cloud, we hire people who aren’t afraid to experiment or fail. We hire people who are willing to give direct and candid feedback to their managers, leaders, and team members. We hire people who jump at those opportunities because they care about our collective growth and success. We hire people who challenge and hold each other accountable for living 3Cloud’s core values because they know that it will result in amazing experiences and solutions for our clients and each other.Job Highlights
+Our technology focus is on Azure – you’ll have plenty of exciting opportunities to grow your skills in Microsoft and Azure in an environment committed to technical excellence and client experience in a very specific, defined space. Six months of experience on our team is worth years somewhere else.
+Microsoft Partnerships – Our great global relationship with Microsoft ensures that we have a pipeline of cutting-edge Azure work opportunities, and access to the teams that have built the platform. You won’t find this at other places.
+Competitive compensation package, salary, allowance, standard benefits including quarterly and annual performance-based cash bonus and other remuneration.
+Great working environment and company culture with flexible work location.
+ 
+General Required Technical Skills:
+Expertise in designing and implementing logical and physical data models for cloud and hybrid data warehouse environments  
+Implementing  data architectures to support a variety of data formats and structures including structured, semi-structured and unstructured data  
+Experience with multiple full life-cycle data warehouse implementations  
+Understanding of data architectures required to support data integration processing  
+Experience with data modeling technologies such as ER/Studio, ER/Win or similar  
+Experience with Microsoft Azure Data Platform services including Azure Data Lake Store, Azure Storage, Azure Synapse, Azure Data Factory, Azure SQL database, Logic Apps, APIs  
+Demonstrated ability to quickly learn, adopt and apply new technologies  
+Data profiling and creation of source to target mappings  
+Ability to provision and configure Azure data service resources 
+ 
+Detailed Required Skills:
+Python & SQL Scripting
+SQL, PySpark
+General Cloud Architecture competency skillset  - Capable of taking requirements and is build out data pipelines
+API Knowledge is required, but preference given to candidates who can create APIs
+ 
+Preferred Experience/Skills/Certifications
+Microsoft Azure Cosmos DB, Data Flows, Express Route, Azure Active Directory  
+Experience creating strategies to migrate customers from on-premise environments to Azure   
+Power BI and semantic modeling  
+AWS Glue & Azure Data Factory
+AWS S3 & Azure Blob
+AWS Athena & Azure Databricks
+AWS Redshift & Azure Synapse
+AWS ECS & Azure AKS
+Don’t meet every single requirement? At 3Cloud we are dedicated to building a diverse, inclusive and authentic workplace, so if you’re excited about this role but your past experience doesn’t align perfectly with every qualification in the job description, we encourage you to apply anyway.
+At this time, we cannot sponsor applicants for work visas.
+

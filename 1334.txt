@@ -1,0 +1,60 @@
+
+Who we are 
+Tractable is an Artificial Intelligence company bringing the speed and insight of Applied AI to visual assessment. Trained on millions of data points, our AI-powered solutions connect everyone involved in insurance, repairs, and sales of homes and cars – helping people work faster and smarter, while reducing friction and waste.
+Founded in 2014, Tractable is now the AI tool of choice for world-leading insurance and automotive companies. Our solutions unlock the potential of Applied AI to transform the whole recovery ecosystem, from assessing damage and accelerating claims and repairs to recycling parts. They help make response to recovery up to ten times faster – even after full-scale disasters like floods and hurricanes. 
+Tractable has a world-class culture, backed up by our team, who have rated us 4.9/5 on Glassdoor, making us a global employer of choice!
+We're a diverse team, uniting individuals of over 40 different nationalities and from varied backgrounds, with machine learning researchers and motor engineers collaborating together on a daily basis. We empower each team member to have tangible impact and grow their own scope by intentionally building a culture centred around collaboration, transparency, autonomy and continuous learning.
+ What you will do
+The MLOps team belongs to a larger group - Platform Engineering, which is focused on building tools and services for our internal customers within Tractable: researchers, product engineers, ops specialists, etc. We have several teams in the Platforms group tackling different aspects of the space including Infrastructure, Business Intelligence, Data Platform, Dev tools and engineering efficiency, MLOps. As a Senior ML OPS Engineer on the MLOps team, you will be collaborating with the fellow Platform and Research teams. 
+We are looking for a Senior MLOps Engineer to build and support systems that enable the core mission of Tractable - to make applied AI possible - by optimising the end-to-end Machine Learning life cycle. The vision of the MLOps team is to enable researchers to spend 80%+ of their time solving tricky ML problems rather than dealing with engineering/infra/ops challenges. 
+You'll play a key role in developing our MLOps platform from pretty much ground up, as part of a bigger Platforms group. You will influence the scope and technical direction as well as champion best practices within the team. You have a relentless focus on user experience (Researchers and Data Scientists in this case) and you care deeply about what your team is building to make sure it will have the biggest impact on your users. You will be a strong mentor, nurturing an encouraging and supportive environment to enable the team to do their best work.
+ 
+The role: 
+You'll play a key role in developing our MLOps platform from ground up, as part of a small but high-performing team. You will influence the scope and technical direction as well as champion best practices within the team. You will continuously pursue clean code practices and contribute towards overall platform architecture collaborating with our other Engineering and Product team. 
+You will be:
+Working with engineers and data scientists to build the next generation of MLOps platform in Tractable
+Building various platform capabilities in the Machine Learning lifecycle to massively speed up efficiency in bringing research to production. From dataset management, model training to monitoring models performance in production
+Solving lots of scalability problems in both model training and model serving in production
+Adopting open-source technologies to best leverage our in-house resources
+Promoting engineering best practices throughout the team
+Suggesting, collecting and synthesising requirements and creating effective feature roadmap with Product Manager
+Tech Stack:
+We rely heavily on the following tools and technologies below – but we are likely to explore new technologies / frameworks as we are building the platform from ground up hence you don't need to have prior experience in all of them. We’re just keen to know that you're willing to break things, fix things, learn fast and carry on building a great team that is capable of building awesome platforms customers love! 
+Main Infrastructure: AWS (EC2, S3, MSK, Lambda, StepFunctions, Glue, IAM, Cognito, Systems Manager, CloudWatch, SQS, Route 53, Sagemaker), Apache Kafka (AWS MSK), Kubernetes, Datadog (Metrics, Logs, Synthetics), Pagerduty
+Main CI/CD: Terraform, Docker, Harness
+Main Databases: Postgres / RDS, Redis, DynamoDB
+Main Languages: Python, Node + Typescript
+Main ML stack:  Triton, TFServing, KServe
+We encourage you to drop us a line even if you don’t have all the points above. That’s a lot of different areas of responsibility! We will help you pick them up because we believe that great people come from all walks of life.
+What you need to be successful:
+A strong ML Engineer who is passionate about building platforms to massively reduce lead time from bringing Machine Learning research to production. You would have a solid background in software engineering as well as a good understanding of the difficulties faced by data scientists. A few things we are particularly interested in seeing from you:
+Great communication skills and collaborative mindset
+2+ years of experience in building scalable Machine Learning Platform. Experience working with open source ML frameworks such as MLFlow / Kubeflow would be a plus.
+Strong programming experience, from self-contained algorithms to complex object modelling design
+Worked with Python in a professional environment for 2+ years
+Experience working with GPUs / Tensorflow
+Experience in building Data Pipeline
+Able to design good system architecture and compare trade-offs (distributed system experience a plus)
+Numerical computing experience
+Cares about team practices / pairing / advocate of CICD
+Basic ML knowledge, bonus if you have trained a few deep learning models
+ What’s in it for you
+Competitive salary
+6 month salary reviews
+Visa sponsorship (if required)
+Equity
+Pension scheme
+Bupa private healthcare (full coverage)
+Flexible hours & WFH/hybrid setups 
+Learning and Development budget
+Competitive maternity + paternity leave
+Daily office snacks & soft drinks 
+Regular company office events such as Games Nights, Movie Nights, Lunch & Learns, Monthly Brunch and more
+Diversity commitment
+At Tractable, we are committed to building a diverse team and inclusive workplace where people’s varied backgrounds and experiences are valued and recognised. 
+We encourage applications from candidates of all backgrounds and offer equal opportunities without discrimination.
+ 
+#LI-HM1Diversity commitment
+At Tractable, we are committed to building a diverse team and inclusive workplace where people’s varied backgrounds and experiences are valued and recognised. 
+We encourage applications from candidates of all backgrounds and offer equal opportunities without discrimination.
+

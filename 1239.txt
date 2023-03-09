@@ -1,0 +1,41 @@
+
+This is a fully remote position. This position requires experience with the Centers for Medicare & Medicaid.
+Work on things that matterAd Hoc is a digital services company that helps the federal government better serve people. Our teams use modern, agile methods to design and engineer government systems that connect Veterans with services, bring affordable health care to millions of people, and support important programs like Head Start. And as we work to make critical government services intuitive, accessible, and human-centered, we’re also changing how the government thinks about and uses technology. If you thrive on change, want to help close the gap between consumer expectations and government services, and can see the possibilities in ambiguity, then we want you here with us. 
+What matters mostAd Hoc operates according to our commitment to inclusivity, acceptance, accountability, and humility. We aren’t heroes. We believe in missions larger than our individual selves and leave our egos at the door, learn from our mistakes, and iterate in order to better serve the people in our country. We prioritize building teams that represent the diversity of the people our government serves. We love the challenge of government-size projects. We want to bring skills to federal agencies, help them better meet the needs of their users, and close the gap between consumer expectations and government. 
+Built for a remote lifeAd Hoc is remote-first and remote-always. We’ve designed our culture, communications, and tools to support a nationwide distributed team since the beginning. Being remote by design allows Ad Hoc to be thoughtful and intentional about creating diverse teams and supporting them with a work environment that fits their lives. With a generous PTO policy and Slack channels for every interest (from bird watching to space nerds to parenting) our culture embraces the things happening in your life. Maybe you need to adjust your schedule to care for your family or take a bike ride. At Ad Hoc, that’s embraced. 
+The Lead Data Architect is a subject matter expert in Medicaid/CHIP data responsible for identifying data needs that are critical to the organization's short, medium and long-term strategy to ensure that data is translated and modeled to drive measured and actionable results. A Lead Data Architect will exhibit strong communication skills, with the ability to engage with Clients, data owners, engineers, and analysts to define requirements, evaluate data sets, identify variances, and recommend solutions that support a strategic and holistic approach to data integration, management and reporting. 
+The CMS business unit covers our work with the Centers for Medicare & Medicaid Services, including HealthCare.gov, Medicare.gov, and the Blue Button API. Our team supports CMS in building and improving online public experiences and APIs that are reliable, accessible, and user-centered. We are deeply embedded within CMS, partnering agency-wide to include with the Office of Communications, Office of Enterprise Data and Analytics, Center for Medicaid and CHIP Services, and Center for Medicare and Medicaid Innovation. Our work includes helping millions of people enroll in healthcare and access Medicare and Medicaid benefits, as well as helping CMS improve the quality of Medicare and Medicaid services for beneficiaries and clinicians.
+Required:
+8+ Years of relevant experience
+Cloud-based lakehouse 
+Prior experience with state or federal Medicaid and/or CHIP data
+Our Federal contracts require that you be a U.S. Citizen to be eligible for employment.
+All work must be conducted within the U.S.
+ 
+Nice to have:
+Experience with DataBricks, AWS QuickSight, Alation, Scala, PySpark or similar
+ 
+The Data Analyst is responsible for (Essential Functions):
+Demonstrates experience in gathering information from end users and project stakeholders, identifying (and validating existing) requirements, and translating these into relevant data analysis and reporting
+Applies sampling techniques to determine groups to be surveyed or uses complete enumeration methods
+Cleans and manipulates raw data using SQL and Python
+Compares models using statistical performance metrics, such as loss functions or proportion of explained variance
+Effectively communicates complex technical and business issues for a wide range of stakeholders
+Demonstrates an ability to evaluate metrics for purposes of informing intended goals and outcomes
+Guiding the development and execution of business logic, with the ability to provide oversight of the development of acquisition, transformation, and downstream consumption work streams
+Advancing data governance, conducting inventory evaluations and subsequently developing solutions to eliminate identified data gaps and improve data maturity
+Identifying approaches for data management based on specific variables, inclusive of importance, complexity and probability of success
+Exhibiting strategic and critical analysis leadership, with the ability to summarize findings and provide comprehensive recommendations
+Executing effective governance by collaborating with data owners and users to modify or implement new repeatable and reliable businesses processes 
+Aligning data architecture and standardize data access patterns to make data available to business intelligence tools, apps, and websites
+Fostering team excellence in SQL and complex data schema design. 
+Collaborating with a multidisciplinary team of product owners, engineers, designers and researchers, and adapting communication style to the audience
+Providing oversight of data organization, data dictionary standardization, and glossary development to align with data models
+Benefits
+Company-subsidized Health, Dental, and Vision Insurance
+Vanguard 401K Plan
+Unlimited Vacation
+Continuing Education/Annual Conference Attendance Stipend
+Ad Hoc LLC is an Equal Opportunity/Affirmative Action Employer. All qualified applicants will receive consideration for employment without regard to race, color, national origin, ancestry, sex, sexual orientation, gender identity or expression, religion, age, pregnancy, disability, work-related injury, covered veteran status, political ideology, marital status, or any other factor that the law protects from employment discrimination. 
+In support of the Colorado Equal Pay Transparency Act, and others like it across the country, Ad Hoc job descriptions feature the starting range we reasonably expect to pay to candidates who would join our team with little to no need for training on the responsibilities we've outlined above. Actual compensation is influenced by a wide range of factors including but not limited to skill set, level of experience, and responsibility. The range of starting pay for this role is $113,900 - $149,040 and information on benefits offered is here. Our recruiters will be happy to answer any questions you may have, and we look forward to learning more about your salary requirements.
+

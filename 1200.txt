@@ -1,0 +1,38 @@
+
+Summary:
+As a Senior or Lead Big Data DevOps Engineer, you will be working with a team responsible for setting up, scaling, and maintaining Big Data infrastructure and tools in private and public cloud environments.  
+Main Responsibilities:
+Driving improvement of the efficiency of Big Data infrastructure.
+Coordinating cross-team infrastructure and Big Data initiatives.
+Leading Big Data – related architecture and design efforts.
+Ensuring availability, efficiency, and reliability of the Big Data infrastructure.
+Building and supporting tools for operational tasks.
+Evaluating, designing, deploying monitoring tools
+Design and implementation of DR/BC practices and procedures.
+On-call support of production systems.
+Requirements:
+7+ years of experience working with Hadoop, preferably Open Source
+3+ years of leading Big Data, DevOps, SRE, DBA, or development team.
+Experience setting up and running Hadoop clusters of 1000+ nodes.
+Solid knowledge of NoSQL databases, preferably Cassandra or ScyllaDB.
+Experience running and troubleshooting Kafka.
+Working knowledge of at least one of: Terraform, Ansible, SaltStack, Puppet.
+Proficiency in shell scripting.
+Nice to have:
+Experience with Prometheus.
+Experience managing Showflake.
+Solid knowledge of Graphite and Grafana.
+Python or Perl scripting skills.
+Experience with installing and managing Aerospike.
+DBA experience with one of: PostgreSQL, MySQL, MariaDB.
+ 
+Diversity, Equity and Inclusion at ZetaWe are committed to building diverse teams with different identities, backgrounds and perspectives.We believe in providing a forum to connect at Zeta, to learn and celebrate differences. Our mission is to ensure we have an environment that enables a deep level of trust and belonging, so everyone feels invited to bring their whole selves to work, and to increase both diversity at Zeta as well as in the technology industry.Zeta considers applicants for employment without regard to, and does not discriminate on the basis of an individual’s sex, race, color, religion, age, disability, status as a veteran, or national or ethnic origin; nor does Zeta discriminate on the basis of sexual orientation or gender identity or expression.
+ 
+About Zeta GlobalZeta Global is a data-powered marketing technology company with a heritage of innovation and industry leadership. Founded in 2007 by entrepreneur David A. Steinberg and John Sculley, former CEO of Apple Inc and Pepsi-Cola, the Company combines the industry’s 3rd largest proprietary data set (2.4B+ identities) with Artificial Intelligence to unlock consumer intent, personalize experiences and help our clients drive business growth.Our technology runs on the Zeta Marketing Platform, which powers ‘end to end’ marketing programs for some of the world’s leading brands. With expertise encompassing all digital marketing channels – Email, Display, Social, Search and Mobile – Zeta orchestrates acquisition and engagement programs that deliver results that are scalable, repeatable and sustainable.
+Zeta Global Recognized in Enterprise Marketing Software and Cross-Channel Campaign Management Reports by Independent Research Firm
+https://www.prnewswire.com/news-releases/zeta-global-opens-ai--data-labs-in-san-francisco-and-nyc-300945353.htmlhttps://www.prnewswire.com/news-releases/zeta-global-recognized-in-enterprise-marketing-software-and-cross-channel-campaign-management-reports-by-independent-research-firm-300938241.html
+ 
+#LI-PM1
+#LI-Remote
+Primary Location Salary Range: $100,000.00 - $200,000.00
+

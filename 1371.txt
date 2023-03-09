@@ -1,0 +1,51 @@
+
+May Mobility is transforming cities through autonomous technology to create a safer, greener, more accessible world. Based in Ann Arbor, Michigan, May develops and deploys autonomous vehicles (AVs) powered by our innovative Multi-Policy Decision Making (MPDM) technology that literally reimagines the way AVs think. 
+Our vehicles do more than just drive themselves - they provide value to communities, bridge public transit gaps and move people where they need to go safely, easily and with a lot more fun. We’re building the world’s best autonomy system to reimagine transit by minimizing congestion, expanding access and encouraging better land use in order to foster more green, vibrant and livable spaces. Since our founding in 2017, we’ve given more than 300,000 autonomy-enabled rides to real people around the globe. And we’re just getting started. We’re hiring people who share our passion for building the future, today, solving real-world problems and seeing the impact of their work. Join us.Job Summary
+May Mobility is entering an exciting phase of growth as we expand our first-of-its-kind autonomous shuttle and mobility services across the nation. We believe strongly in the need to demonstrate the safety of our Autonomous Vehicles, so that people can ride with confidence.  In many ways, this is an even more important goal for the AV industry than getting the vehicles to drive autonomously.  Simulation-based testing is of course a big part of our strategy to achieve this.  We are looking to add an experienced senior developer to our simulation infrastructure team, who can provide technical leadership.
+For this role, Hybrid means that candidates would be expected to be able to come into the office in Ann Arbor as needed to help perform manual testing and maintain physical test setup.  This most likely means being present in the office on a bi-weekly cadence on average. 
+Your Opportunity to Drive Success
+You will have an opportunity to independently impact our approach to solving the most interesting problems facing AV’s today, while operating live in the wild.
+Work independently with cross functional teams to develop software and system requirements
+Develop simulation tools to support safety and performance testing of Autonomous Vehicles
+Lead team code quality activities including design and code reviews
+Ensure that internal users/developers can design and add needed automatic test coverage cases efficiently and effectively.  Work to train internal users on this process as needed.
+Required Qualifications
+B.S. Degree in Computer Science, Computer Engineering, or an equivalent degree and a minimum of 2 years of industry experience
+Significant experience working in modern C++ (C++14/17/20)
+Strong working knowledge of design patterns, data structures, and algorithms
+Experience designing, building, and expanding complex software systems with real-time and performance constraints
+Experience in some form of real-time simulation platform development and integration (game engine, autonomous vehicle simulation, etc…) 
+Excellent attention to detail and rigorous testing methodology
+Excellent written and verbal communication skills
+Ability to provide technical leadership for a development team
+Previous experience developing in Linux environments or ability to adapt to this environment
+Experience with robotics, automotive engineering, or start-ups is not required
+Desired Qualifications
+M.S. Degree in Computer Science, Computer Engineering and 3+ years of industry experience
+Significant experience working in Python is a plus
+Significant experience with data science tools in python (e.g. numpy, scipy, scikit-learn) is a plus
+rust experience is a plus
+Experience with Applied Intuition simulation software suite a plus (Simian, Logstream, Spectral, etc…)
+Benefits and Perks
+Health benefits including vision and dental
+Unlimited paid vacation days and generous holidays
+Paid parental leave
+Meaningful stock options
+Daily catered lunches and snacks
+Flexible schedule around core business hours
+
+
+
+
+
+Don’t meet every single requirement? Studies have shown that women and/or people of color are less likely to apply to a job unless they meet every qualification. At May Mobility, we’re committed to building a diverse, inclusive, and authentic workforce, so if you’re excited about this role but your previous experience doesn’t align perfectly with every qualification, we encourage you to apply anyway! You may be the perfect candidate for this or another role at May.
+
+
+
+
+
+Want to learn more about our culture & benefits? Check out our website!
+May Mobility is an equal opportunity employer.  All applicants for employment will be considered without regard to race, color, religion, sex, national origin, age, disability, sexual orientation, gender identity or expression, veteran status, genetics or any other legally protected basis.   Below, you have the opportunity to share your preferred gender pronouns, gender, ethnicity, and veteran status with May Mobility to help us identify areas of improvement in our hiring and recruitment processes. Completion of these questions is entirely voluntary.  Any information you choose to provide will be kept confidential, and will not impact the hiring decision in any way. If you believe that you will need any type of accommodation, please let us know.
+Note to Recruitment Agencies: May Mobility does not accept unsolicited agency resumes. Furthermore, May Mobility does not pay placement fees for candidates submitted by any agency other than its approved partners.
+
+

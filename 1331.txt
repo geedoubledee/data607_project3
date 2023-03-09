@@ -1,0 +1,40 @@
+
+About this position:
+This position is fully remote
+5 Years of relevant experience is required
+Bachelor's Degree in Business Administration, Business Management, Computer Science, Information Systems, Information Resource Management, Industrial Engineering, Operations Research or related fields is required
+Educational substitutions: Certifications in relevant technology plus 3-5 years of relevant experience; or 5 to 7 years of relevant experience may be substituted for education
+Understand stakeholder needs for registries and the data they contain through discovery and interviews.
+Develop a definition for Registries, and recommendations for registries future states.
+Develop a unified Data Dictionary to standardize data definitions across VA registries.
+Work on things that matter
+Ad Hoc is a digital services company that helps the federal government better serve people. Our teams use modern, agile methods to design and engineer government systems that connect Veterans with services, bring affordable health care to millions of people, and support important programs like Head Start. And as we work to make critical government services intuitive, accessible, and human-centered, we’re also changing how the government thinks about and uses technology. If you thrive on change, want to help close the gap between consumer expectations and government services, and can see the possibilities in ambiguity, then we want you here with us. 
+The Veterans Affairs business unit helps transform the VA into a modern digital services organization where Veteran outcomes are at the center of every effort. We partner with the Office of the Chief Technology Officer - Digital Experience, the Office of Information Technology, Veterans Health Administration, and Veterans Benefits Administration to design and deliver seamless user experiences for Veterans, their Families and Caregivers, and VA employees.  By applying better practices in service design, product management, and technology, we enable VA to increase the usage, throughput, quality, and reliability of services and decrease the time Veterans spend waiting for outcomes.
+The Lead Data Architect is responsible for identifying data needs that are critical to the organization's short, medium, and long-term strategy to ensure that data is translated and modeled to drive measured and actionable results. A Lead Data Architect will exhibit strong communication skills, with the ability to engage with data owners, engineers, and analysts to define requirements, evaluate data sets, identify variances, and recommend solutions that support a strategic and holistic approach to data integration, management, and reporting. 
+The Lead Data Architect is responsible for (Essential Functions):
+Responsible for engaging with data owners to identify business components and translating requirements into functional business intelligence portals and dashboards
+Accountable for the development and execution of data strategies, with the ability to provide oversight of the data components associated with acquisition, engineering and consumption work streams
+Responsible for developing an ontology-based semantic layer and setting standards for a common and recognizable visual language for all data users and sources
+Responsible for data governance, conducting inventory evaluations and subsequently developing solutions to eliminate identified data gaps and improve data maturity
+Identifies approaches for data management based on specific variables, inclusive of importance, complexity and probability of success
+Exhibits strategic and critical analysis leadership, with the ability to summarize findings and provide comprehensive recommendations
+Executes effective governance by collaborating with data owners and users to modify or implement new repeatable and reliable businesses processes 
+Align data architecture and standardize data access patterns to make data available to business intelligence tools, apps, websites
+Ability to prioritize and translate complex data into dashboards and reports to inform decisions and drive actionable results that meet strategic goals
+Proficient in SQL and complex data schema design.
+Strong understanding of how to analyze large sets of data using statistical software languages such as R or Python
+Collaborates with a multidisciplinary team of product owners, engineers, designers, and researchers, and adapts communication style to the audience
+Provides oversight of data organization, data dictionary standardization, and glossary development to align with data models
+Understand stakeholder needs for registries and the data they contain through discovery and interviews.
+Develop a definition for Registries, and recommendations for registries future states.
+Develop a unified Data Dictionary to standardize data definitions across VA registries.
+Refine research findings and insights into actionable product and feature requirements and artifacts that support registry future state and eligibility streamlining.
+Benefits
+Company-subsidized Health, Dental, and Vision Insurance
+Vanguard 401K Plan
+Unlimited Vacation
+Continuing Education/Annual Conference Attendance Stipend
+Ad Hoc LLC is an Equal Opportunity/Affirmative Action Employer. All qualified applicants will receive consideration for employment without regard to race, color, national origin, ancestry, sex, sexual orientation, gender identity or expression, religion, age, pregnancy, disability, work-related injury, covered veteran status, political ideology, marital status, or any other factor that the law protects from employment discrimination.
+In support of the Colorado Equal Pay Transparency Act, and others like it across the country, Ad Hoc job descriptions feature the starting range we reasonably expect to pay to candidates who would join our team with little to no need for training on the responsibilities we've outlined above. Actual compensation is influenced by a wide range of factors including but not limited to skill set, level of experience, and responsibility. The range of starting pay for this role is $113,900 - $149,040 and information on benefits offered is here. Our recruiters will be happy to answer any questions you may have, and we look forward to learning more about your salary requirements.
+Job reference:  1860
+

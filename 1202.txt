@@ -1,0 +1,39 @@
+
+Allworth Financial (www.allworthfinancial.com) is an independent investment financial advisory firm that specializes in retirement planning, investment advising, and 401(k) management with a direct approach to financial planning. Allworth Financial delivers long- and short-term investment planning solutions and advice to help clients achieve their goals and plan strategically for retirement.
+Allworth Financial is a high growth, private equity backed, multi branch Registered Investment Advisor. Founded in Sacramento, California, in 1993, and still run by its original founders, Scott Hanson and Pat McClain, Allworth is primarily a fee-based, employee-centric fiduciary advisory firm, that prides itself on emphasizing client well-being and education. The business is a multi-billion dollar firm and is on track for continued growth through both acquisitions and strong organic growth. Allworth is considered a great place to work and was once again given the prestigious “Circle of Excellence” award by the National Business Research Institute for employee and client satisfaction in 2021, placing it among the best-loved brands in America. Allworth Financial was also recognized as a Barron's Top 40 RIA in 2022.SUMMARY:
+Working on the Analytics & Insights team, the Data Analyst will be responsible for producing monthly asset roll forward reports and provide quality assurance oversight (data error detection and correction) on business processes where data is collected, stored, transformed or used. The Data Analyst’s strong data analysis skills will ensure clean data that can be used by stakeholders to make better data driven decisions across the organization. The ideal candidate must have the following:
+Attention to detail, ability to work within compressed timelines and meet deadlines.
+Understanding of how various data issues impact the company’s overall data environment and reporting performance.
+Ability to investigate data issues, implement solutions and reconcile variances.
+Ability to work with a team as well as individually to help achieve department goals and timeliness of production needs.
+Interdepartmental communication and working with various levels of associates to resolve data issues and assist with new projects.
+Able to prioritize issues and projects in a growing environment.
+The base salary range for this role is $85,000-$100,000 per year. In addition, we also provide generous benefits to all our full-time employees. 
+Qualifications
+SQL or equivalent relational database/data language system such as Azure, MySQL or SQL Server Management Studio required
+Strong Excel skills required.
+Prior experience using the following systems – Salesforce, Tableau, Microsoft Power BI, Google Analytics, or similar BI software experience.
+Ability to define, produce, and maintain audit reports.
+Strong attention to detail
+Understanding of accounting principles
+Understanding of the need for data entry accuracy and investigative skills for resolution of ongoing and new initiatives
+3 years of Experience
+The above statements are intended to describe the general nature and level of work being performed by people assigned to this job.  Typical reporting relationships are described, but actual relationships may vary in some instances.  This job description is not intended to be an exhaustive list of all responsibilities, duties, skills, or knowledge required of personnel classified in this job.BENEFITS
+We value our associates’ time and effort. Our commitment to your success is enhanced by our competitive base pay and an extensive benefits package, including:
+Medical: Blue Shield (HMO, PPOs and HDHP with HSA) plans and Kaiser (HMO and HDHP with HSA) plans for California associates
+Dental insurance with MetLife
+Vision insurance with VSP
+Optional supplemental benefits
+Healthcare savings accounts with company contribution
+Flexible spending accounts
+Flexible working arrangements
+Generous 401K contributions 
+Exempt associates qualify for our flexible paid time off policy.
+Non-Exempt associates will receive 25.5 days of paid time off annually, which includes holidays, during the first three years of employment. 
+Option to participate in our Equity Purchase Program
+Future growth opportunities within the company
+In addition, we work to maintain the best possible environment for our associates, where people can learn and grow with the firm. We strive to provide a collaborative, creative environment where each person feels encouraged to contribute to our processes, decisions, planning and culture.
+Benefits are available to full-time associates who work more than 30 hours a week.
+The above statements are intended to describe the general nature and level of work being performed by people assigned to this job. Typical reporting relationships are described, but actual relationships may vary in some instances. This job description is not intended to be an exhaustive list of all responsibilities, duties, skills, or knowledge required of personnel classified in this job.
+California residents, click here for our privacy policy.
+

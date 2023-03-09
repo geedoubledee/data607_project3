@@ -1,0 +1,27 @@
+
+Data Science, Decisions Intern - Product - Job Description
+At Lyft, community is who we are and it’s what we do. It’s what makes us different. To create the best ride for all, we start in our own community by creating an open, inclusive, and diverse organization where all team members are recognized for what they bring.
+Data is at the heart of how Lyft makes business and product decisions. As a data science team, we work collaboratively with partners across product, engineering, operations and growth to develop business insights and make actionable recommendations. We’re looking for passionate data scientists to take on some of the most interesting and impactful problems in ridesharing.
+You’ll work in an environment where we embrace moving quickly to build the world’s best transportation. Data Scientists pursue a variety of problems ranging from understanding our passengers and drivers, to ensuring we have an efficient marketplace, to optimizing how we run our marketing and growth incentives. You’ll dig into the data to uncover insights, design experiments and measure the impact, and help influence decision-making across the entire organization.
+At Lyft, a Data Scientist, Decisions - Product intern focuses on Data Science for humans. Your output shapes decisions made by executives, product managers, operations and business teams, and beyond.  This role relies upon an ability to apply decision frameworks and a deep understanding of the business and product to drive alignment on problems and solutions.  
+You will report into a Science Manager.
+Responsibilities:
+Build and automate relevant models and reporting for important business processes
+Perform deep-dives into our customer data to understand passenger and driver behavior
+Develop strong hypotheses, create solutions, and uncover business insights to increase growth
+Design and analyze experiments to increase engagement with the Lyft platform
+Partner and develop strong relationships with diverse teams across product, marketing, and engineering
+Experience:
+Pursuing B.S/M.S. in economics, computer science, applied math, engineering, statistics or another quantitative field; or in a hard science field, such as physics, biology, biostatistics, etc. 
+Comfortable working with very large datasets
+Experience analyzing data in R or Python; proficiency in SQL
+Experimentation design and analysis of A/B tests 
+Effective communication skills; detail-oriented
+Passion for community, sustainability, or transportation
+Ability to thrive in a fast-paced environment
+Benefits:
+Mental health benefits
+In addition to company holidays, interns receive 1 day paid time off and 3 days sick time off
+Lyft is an equal opportunity/affirmative action employer committed to an inclusive and diverse workplace. All qualified applicants will receive consideration for employment without regards to race, color, religion, sex, sexual orientation, gender identity, national origin, disability status, protected veteran status or any other basis prohibited by law. We also consider qualified applicants with criminal histories consistent with applicable federal, state and local law.  
+Until further notice, Lyft employees working in the United States and Canada in any capacity (on a daily or hybrid schedule, remote, or as a visitor) are required to provide proof that they are fully vaccinated and up to date against COVID-19. Fully vaccinated and up to date means an employee has: 1) received all recommended doses in a primary series of COVID-19 vaccine; and 2) either has received a booster dose or is not yet eligible to receive a booster dose but will do so when eligible. Lyft will maintain records associated with your vaccination history in a way that is compliant with all relevant Federal, state and local laws. Exceptions to this requirement are employees who require religious or medical exemption as approved through Lyft's accommodations process. New employees must provide proof of full vaccination or receive an accommodation exception approval prior to their start date.
+

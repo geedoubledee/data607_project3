@@ -1,0 +1,21 @@
+
+We are seeking a highly skilled and experienced Senior AI engineer to join our team and lead the implementation of the OpenAI ChatGPT technology. The successful candidate will have a strong background in natural language processing and machine learning, as well as experience with the OpenAI GPT OR ChatGPT platform.
+In this role, you will be responsible for designing and implementing algorithms and models that enable the use of ChatGPT in our product. This will involve working closely with our product and engineering teams to understand their requirements, as well as collaborating with other members of the AI team to ensure a cohesive and effective solution.
+ 
+What You'll Do: 
+Design and implement algorithms and models that enable the use of ChatGPT in our product
+Collaborate with product and engineering teams to understand their requirements and ensure the solution meets their needs
+Work closely with other members of the AI team to ensure a cohesive and effective implementation of ChatGPT
+Stay up-to-date with the latest developments in natural language processing and machine learning, and incorporate new techniques and technologies as appropriate
+Mentor and provide guidance to other members of the AI team
+ 
+What We're Looking For:
+Bachelor’s or Master’s degree in Computer Science, Machine Learning, or a related field
+7+ years of professional experience in AI, machine learning, and/or natural language processing
+Strong background in machine learning and natural language processing, with experience in the OpenAI GPT platform
+Familiarity with deep learning frameworks such as TensorFlow or PyTorch
+Excellent problem-solving skills and ability to think critically and logically
+Strong communication skills and ability to collaborate effectively with a team
+ 
+If you have a passion for AI and natural language processing and are looking for an exciting new challenge, we want to hear from you. Please apply with your resume and a cover letter explaining why you are a good fit for this role.The posted pay range represents the anticipated low and high end of the compensation for this position and is subject to change based on business need. To determine a successful candidate’s starting pay, we carefully consider a variety of factors, including primary work location, an evaluation of the candidate’s skills and experience, market demands, and internal parity.For roles with on-target-earnings (OTE), the pay range includes both base salary and target incentive compensation. Target incentive compensation for some roles may include a ramping draw period. Compensation is higher for those who exceed targets. Candidates may receive more information from the recruiter.Pay Range$172,000—$241,000 USD
+

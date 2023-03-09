@@ -1,0 +1,53 @@
+
+				Job Description
+ 
+Berkshire Hathaway Specialty Insurance (BHSI) has an exciting opportunity for Data Scientist / Senior Data Scientist to join the Catastrophe Engineering and Analytics (CAT E&A) team. CAT E&A is an innovative and versatile technical team conducting catastrophe risk research and development and providing complex quantitative metrics that inform underwriting decisions. The successful candidate will be responsible for identifying and applying cutting-edge data science techniques to build a better view of the risk for multiple perils. You will work across functional areas and perils within the team, supporting our team’s developing models for various natural catastrophes, natural hazards, and man-made risks, and vulnerability. In addition, you will conduct in-depth evaluation of vendor models, research and develop internal views of risks, consult on account-specific risk analyses, and develop internal tools to facilitate account underwriting decision-making and other related activitiesThis opportunity is for a Data Scientist / Senior Data Scientist in our San Ramon CA, Boston MA, or Atlanta GA offices.
+Duties & Responsibilities
+Evaluate and develop insights into large and diverse data sets from claims, hazard models, structural analysis, geospatial sources, and various other public/proprietary datasets
+Develop and maintain expertise in advanced data science and machine learning techniques, and their application to understanding risk
+Work with domain experts across teams and perils to enhance our use of available data
+Propose and execute innovative solutions to insurance problems that directly impact BHSI underwriting decisions
+Qualifications, Skills And Experience
+Ph.D. or M.S. in civil engineering, atmospheric science, earth science, actuarial science, computer science, mathematics, or a related field
+3-6 years of industry experience is preferred and required for the Senior Data Scientist level role
+Advanced knowledge of probability theory, statistics, and machine learning methods
+Practical experience in insurance, catastrophe model development, infrastructure or community resilience, and/or exposure data collection
+Experience applying advanced statistical techniques and machine learning to structural performance, natural catastrophe hazard, building exposure data, or insurance claims data
+Strong written and verbal communication skills
+Strong programming skills (Python, R, MATLAB, SQL preferred)
+Highly motivated, detail oriented, and team player
+BHSI Offers
+A competitive package and exciting growth opportunities for career-oriented teammates
+A dynamic, action oriented, and thoughtful environment centered on always doing the right thing for our customers, teammates and our other stakeholders
+A purposely non-bureaucratic organization that embraces simplicity over complexity and emphasizes individual excellence in a team framework
+NOTE: Compensation will be commensurate with experience. This job description is not intended to be all-inclusive. Team Member may perform other related duties as negotiated to meet the ongoing needs of the organization.The base salary range for this position is from $90,000 to $170,000, along with annual bonus eligibility; a candidate’s salary is determined by their relevant skills and experience. We value our teammates – both their capabilities and character – as demonstrated by our amazing culture.
+		                
+                    More Information
+                    
+                        
+
+
+
+Salary Offer
+
+0 ~ $3000
+
+
+
+Experience Level
+
+Senior
+
+
+
+Total Years Experience
+
+0-5
+
+
+
+Dropdown field
+
+Option 1                        
+                
+            	

@@ -1,0 +1,27 @@
+
+Roles & Responsibilities:
+The Senior Director Data Engineering will be responsible for serving as a key leader in our company’s data engineering division, managing a team of engineers to execute decision analytics and information delivery initiatives. Duties include:
+Develop a robust talent pipeline. Provide unique opportunities and challenges to each team member to enrich development.
+Build Data Warehouses, ETL processes, reporting, and analytics
+Ensure consistent use of design patterns and best practices necessary for increased access to data and actionable information and implement strategic solutions to sustain these capabilities.
+Participate in the Enterprise Decision Analytics and Insights leadership team.
+Ensure adherence to common Decision Analytics, Data Architecture, and design patterns
+Provide mentorship and train staff on standards and policies around best practices
+Work directly with the business partners to understand review business analytics needs and collaborate with Circle architects on designing and implementing strategic solutions
+Build and develop discipline-specific capabilities across multiple teams, equipping individuals with the skills, tools, and standard approaches to improve the overall quality of engineering practices and skillsets.
+This position allows for telecommuting.
+This position requires a bachelor’s degree, or foreign equivalent in Computer Science, Computer Engineering, Electrical Engineering, Information Technology, or directly related, and five (5) years’ progressive professional experience as a Manager/Director Data Engineering / Data Engineer/ Developer / or closely related.
+Must have professional experience with:
+1. ETL,2. SQL,3. Data Modelling, 4. Reporting Solutions such as OBIEE, Oracle, or Tableau, 5. Data migration, 6. Data engineering, 7. Hadoop, EMR, or redshift.
+Job Location: InnovAccer, Inc., 101 Mission Street, Suite 1950, San Francisco, CA 94105 (allows telecommuting)
+Contact: Kimberly Saied, Director, People eXperience, kimberley.saied@innovaccer.com
+What we offer:
+Industry-Focused Certifications: Meet leading healthcare experts, discuss innovative strategies, and become a subject matter expert with our comprehensive set of certifications.
+Rewards and Recognition: Feeling like you’re outperforming on your projects? Get recognition for your dedicated efforts and demonstrated work ethic.
+Health Insurance and Mental Well-being: We offer health benefits and insurance to you and your family for hospital-related expenses pertaining to any illness, disease, or injury. We also have Employee Assistance Programs (EAPs) to give you 24X7 access to certified therapists and psychologists.
+Sabbatical Leave Policy: Do you want to focus on skill development, pursue an academic career, or just reset? We’ve got you covered.  
+Open Floor Plan: Cubicles are a thing of the past and to modernize our office space, we have open floor sittings at every office location. Share ideas with your peers and bond better in an open floor office where there are no barriers and you are inspired to be creative.
+Paternity and Maternity Leave: Enjoy the industry’s best parental leave policy to welcome your bundle of joy and enjoy quality time with them. 
+Paid Time Off: Maintain a healthy work–life balance and take time off from work to focus on your well-being and big life moments.
+fulltime
+

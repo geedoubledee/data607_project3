@@ -1,0 +1,50 @@
+
+About Nubank
+Nubank was founded in 2013 to free people from a bureaucratic, slow and inefficient financial system. Since then, through innovative technology and outstanding customer service, the company has been redefining people's relationships with money across Latin America. With operations in Brazil, Mexico, and Colombia, Nubank is today one of the largest digital banking platforms and technology-leading companies in the world.
+Today, Nubank is a global company, with offices in São Paulo (Brazil), Mexico City (Mexico), Buenos Aires (Argentina), Bogotá (Colombia), Durham (United States), and Berlin (Germany). It was founded in 2013 in Sao Paulo, by Colombian David Vélez, and cofounded by Brazilian Cristina Junqueira and American Edward Wible. For more information, visit www.nubank.com.br.
+ 
+About the team
+At Nubank we heavily rely on data, machine learning and other quantitative models & techniques to drive our strategy and provide the best experience and products to our customers. The Model Risk team is the second line of defense for our models. Our mission is to ensure Nubank relies on world-class solutions that will lead to optimal and sustainable decisions. We act by providing independent review & challenge to models, staying tuned to cutting edge techniques, along with business and customers needs. We also work to identify and control risks related to our models, as well as in the definition and implementation of feedback loops to constantly improve them.
+ 
+About the role
+Conduct independent reviews of quantitative models based on statistical, machine learning and AI techniques, with stronger focus on credit models;
+Provide effective challenge, identify risks, enhancement opportunities, and engage with other Data Scientists and Business Analysts to strengthen our decision making tools;
+Develop playbooks and toolkits (Python, Scala, SQL, etc.) to optmize model reviews, ongoing models monitoring, and assess the impact of models in decisions;
+Contribute to the consolidation of Nubank's Model Risk Management and Model Review frameworks with autonomy and creativity;
+Discuss and report model risk status and independent opinions on models with different stakeholders, including senior managers and regulators;
+Ensure the team maintains a high level of technical excellence.
+ 
+Basic Qualifications
+Experience developing or validating machine learning models used to leverage important decision-making processes or to solve relevant academic problems;
+Interest in reviewing complex machine learning and other types of models to identify risks and propose enhancements;
+Data Science skills, strong knowledge on machine learning tools and techniques;
+Strong programming skills, desirable previous experience with Python, SQL, GitHub;
+Ability to learn fast, strong analytical and problem solving skills;
+Organized and detail-oriented, without losing track of the big picture;
+Advanced english.
+ 
+Preferred Qualification
+Previous experience in credit risk management and/or other risk management frameworks;
+Master degree or relevant undergraduate scientific project;
+Previous knowledge of expected loss provisions modeling.
+ 
+Benefits
+Health, dental and life insurances
+Meal allowance
+Transportation assistance
+30 days of paid vacation
+Chance of earning equity at Nubank
+Parking partnership - discounted parking in our office
+Free bike parking with showers available
+NuCare - Our mental health and wellness assistance program
+NuLanguage - Our language learning program
+Gympass partnership
+Extended maternity and paternity Leaves  
+Child care allowance
+‘Espaço Feijão’- Private nursing and breastfeeding spaces in our buildings
+Onsite Health Center - Medical support for every Nubanker in our office
+ 
+Diversity & Inclusion
+At Nubank, we want to be sure that we're building a more diverse and inclusive workplace that reflects the customers we serve and seek to empower. That's why we hire based on equality. We consider gender, ethnicity, race, religion, sexual orientation, and other identity markers as enriching elements to our company while ensuring neither of them represent a barrier when recruiting fantastic talent.
+ 
+

@@ -1,0 +1,44 @@
+
+The Team
+The Core Models team owns time series algorithms that power features across the Datadog application. We are responsible for the implementation and performance of the algorithms, as well as the internal tooling to evaluate and iterate on them. Our models power features such as Watchdog Alerts and Log Anomaly Detection. 
+As the Engineering Manager of the Core Models team, you will lead and grow a team of Data Scientists and Software Engineers that own the implementation and development of our core time series models. These models are at the heart of Data Science efforts and are driving an increasing number of use cases. 
+At Datadog, we place value in our office culture - the relationships and collaboration it builds and the creativity it brings to the table. We operate as a hybrid workplace to ensure our Datadogs can create a work-life harmony that best fits them.
+ 
+What you'll do: 
+Lead and develop an amazing team of data scientists and software engineers. 
+Develop a strategy to build common services and components encapsulating data science capabilities for other products and teams to leverage. 
+Ensure that our data science-driven features continue to scale well as Datadog adds more customers and ingests more data per customer.
+Collaborate with stakeholder teams to develop joint roadmaps that provide the underlying primitives required to execute the vision of the product.
+Ensure the development and continuous improvement of a scalable and reliable architecture that can keep up with the growth of the product in a sustainable manner.
+Who you are: 
+You have 1+ years experience managing software engineers or data scientists.
+You have 5+ years of experience designing and building machine learning systems. 
+You have experience in working and communicating effectively in a fast-paced, high-growth, distributed organization.
+You have partnered with product management in the past to set the vision and strategy for your projects.
+You value simplicity and getting the right things done.
+ Nice to Haves: 
+You have experience working with Data Science algorithms (Statistics, AI/ML).
+You have experience working with microservices and/or distributed systems.
+You have experience working with time series data.
+You have experience working in Python, Java, Scala or Go.
+You have experience working on big data / analytical systems.
+Datadog values people from all walks of life. We know not everyone will meet all the above qualifications on day one. That’s okay. If you’re passionate about technology and want to grow your experience, we encourage you to apply. 
+Benefits & Growth:
+New hire stock equity (RSUs) and employee stock purchase plan (ESPP)
+Continuous professional development, product training, and career pathing
+Intradepartmental mentor and buddy program for in-house networking
+An inclusive company culture, ability to join our Community Guilds (Datadog employee resource groups)
+Access to Inclusion Talks, our internal panel discussions
+Free, global mental health benefits for employees and dependents age 6+
+Competitive global benefits
+ 
+Benefits and Growth listed above may vary based on the country of your employment and the nature of your employment with Datadog.
+Join the pack and become part of a collaborative, pragmatic, and thoughtful people-first community where we solve tough problems, take smart risks, and celebrate one another. Learn more #DatadogLife on Instagram, LinkedIn and Datadog Learning Center.
+#LI-AA5
+About Datadog: 
+Datadog (NASDAQ: DDOG) is a global SaaS business, delivering a rare combination of growth and profitability. We are on a mission to break down silos and solve complexity in the cloud age by enabling digital transformation, cloud migration, and infrastructure monitoring of our customers’ entire technology stacks. Built by engineers, for engineers, Datadog is used by organizations of all sizes across a wide range of industries. Together, we champion professional development, diversity of thought, innovation, and work excellence to empower continuous growth. Join the pack and become part of a collaborative, pragmatic, and thoughtful people-first community where we solve tough problems, take smart risks, and celebrate one another. Learn more about #DatadogLife on Instagram, LinkedIn and Datadog Learning Center. 
+Equal Opportunity at Datadog:
+Datadog is an Affirmative Action and Equal Opportunity Employer and is proud to offer equal employment opportunity to everyone regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity, veteran status, and more. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements.
+Your Privacy:
+Any information you submit to Datadog as part of your application will be processed in accordance with Datadog’s Applicant and Candidate Privacy Notice.
+

@@ -1,0 +1,62 @@
+
+				Job Description
+ 
+Role: Senior Data Scientist
+Location: New York, NY
+Duration : 5 months
+The Senior Data Scientist solves complex problems to support key business priorities, by understanding business the goals, objectives, and KPIs, developing innovative AI/ML models and algorithms, partnering with engineers do deliver end-to-end solutions.
+Key Responsibilities And Duties
+Minimum 7 years of experience
+Preferred: MS or PhD degree in STEM with a focus area in machine learning, statistical modeling or optimization
+Physical Requirements: Sedentary Work Preferred Education
+Research and develop novel AI/ML models and solutions to support key enterprise goals.
+Have a good understand of the business problems, mains objectives, relevant KPIs and success metrics.
+Connect with business stakeholder to understand, define and collaborate on end-to-end execution of the initiatives.
+Have a great understanding of ML algorithms, deep learning, gradient boosting, tree-based, ensemble, bayesian, clustering; including supervised, unsupervised and reinforcement learning techniques.
+Ensures performance, quality and usage of proper metrics to deliver high quality AI/ML models.
+Communicates insights from analyses to management in order to enable data driven decision making to improve business performance and operational outcomes based on machine learning and statistical analysis results.
+Researches existing and emerging data science principles, theories and techniques to keep up to date with new development in AI/ML.
+Reviews the AI/ML modeling, statistical analysis, and data analysis completed by lower level Data Scientists, providing coaching and feedback as needed.
+Qualifications
+5 or more years of experience as a data scientist in industry or academia
+Understanding of state of the art predictive modeling algorithms and statistical modeling techniques
+Knowledge and experience on deep learning and NLP
+End-to-end experience of applying novel data science technologies to real world applications from ideation to deployment
+A value story teller with strong communication skills to non-tech audience
+Experience with cloud-based data and data science platforms such as AWS Sage Maker and GCP
+Proficient in Statistical/ML programming languages and tools (Python, R, Karas/TensorFlow and etc.)
+Strong business acumen and problem solving skills
+7 years of experience as a data scientist in industry or academia
+Expert knowledge in deep learning and NLP
+Experience and application domain knowledge of financial asset management or customer experience optimization
+Experience in an innovation team with proven track record of coming up with new ideas and developing/validating new technology solutions in a methodically into production
+
+                    More Information
+                    
+                        
+
+
+
+Salary Offer
+
+0 ~ $3000
+
+
+
+Experience Level
+
+Junior
+
+
+
+Total Years Experience
+
+0-5
+
+
+
+Dropdown field
+
+Option 1                        
+                
+            	

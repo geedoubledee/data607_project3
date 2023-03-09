@@ -1,0 +1,30 @@
+
+About Us:
+We're on a mission to make it possible for every person, team, and company to be able to tailor their software to solve any problem and take on any challenge. Computers may be our most powerful tools, but most of us can't build or modify the software we use on them every day. At Notion, we want to change this with focus, design, and craft.
+We've been working on this together since 2016, and have customers like Pixar, Mitsubishi, Figma, Plaid, Match Group, and thousands more on this journey with us. Today, we're growing fast and excited for new teammates to join us who are the best at what they do. We're passionate about building a company as diverse and creative as the millions of people Notion reaches worldwide.
+Notion is an in person company, and currently requires its employees to come to the office for two Anchor Days (Mondays & Thursdays) and requests that employees spend the majority of their week in the office (including a third day).
+About The Role:
+You will be a key business partner to the go-to-market leadership team across Sales, Customer Success, Marketing and Revenue Operations. Your work will be instrumental in setting what our data strategy looks like as we design and implement a best-in-class Go-to-Market motion. There will be significant variation from one day to the next, but whether you're exploring what a successful Notion account looks like, building out a core user engagement data set, or creating a model to identify high potential accounts, you'll absolutely be having impact on the direction of the business.
+What You'll Achieve:
+You'll partner with Revenue Operations, Sales, Customer Success, and Marketing leads, driving forward all data science and analytics work in their functional areas
+Synthesize insights into crisp narratives and present to senior leadership, and drive and verify change in our business processes. (Insights are useful. Impact is even better!)
+You'll build and maintain KPI dashboards that teams rely on for making key decisions, and self-service tools and reports to enable business partners
+You'll build models that are core to the operation of the business, such as revenue forecasting or identifying high-value accounts for more hands-on support
+Partner closely with our Data Engineering and Business Systems teams to build high fidelity, canonical customer data pipelines
+Skills You'll Need to Bring:
+You've spent meaningful time as a data scientist partnering with Revenue Operations, Sales, Customer Success, Business Operations, and / or Finance related functions
+You are a SQL expert. You have no problem regularly leveraging window functions, UDFs, self-joins, and other complex SQL functions to accomplish your data analysis goals
+You have expertise in at least one scripting language (ideally Python or R)
+You have experience building predictive models, and you know how to evaluate their effectiveness
+You're comfortable transforming raw data to build your own data sets if the measure you need doesn't exist yet
+Creative and analytical thinker who can facilitate resolution to key design decisions in complex, cross-functional projects
+You have a bias for using the right tools to get a job done with maximum efficiency. You have experience making tradeoffs between speed and accuracy
+Strong communication and collaboration while working in cross-functional environments
+Nice to Haves:
+Worked at a fast-growing start-up, a SaaS company or are eager to contribute in such an environment (being a current Notion user would also be great!)
+Experience working with Sales, Customer Success, Revenue Operations, and/or Finance
+We hire talented and passionate people from a variety of backgrounds because we want our global employee base to represent the wide diversity of our customers. If you’re excited about a role but your past experience doesn’t align perfectly with every bullet point listed in the job description, we still encourage you to apply. If you’re a builder at heart, share our company values, and enthusiastic about making software toolmaking ubiquitous, we want to hear from you.
+Notion is proud to be an equal opportunity employer. We do not discriminate in hiring or any employment decision based on race, color, religion, national origin, age, sex (including pregnancy, childbirth, or related medical conditions), marital status, ancestry, physical or mental disability, genetic information, veteran status, gender identity or expression, sexual orientation, or other applicable legally protected characteristic. Notion considers qualified applicants with criminal histories, consistent with applicable federal, state and local law. Notion is also committed to providing reasonable accommodations for qualified individuals with disabilities and disabled veterans in our job application procedures. If you need assistance or an accommodation due to a disability, please let your recruiter know.
+Notion is committed to providing highly competitive cash compensation, equity, and benefits. The compensation offered for this role will be based on multiple factors such as location, the role’s scope and complexity, and the candidate’s experience and expertise, and may vary from the range provided below. For roles based in San Francisco or New York City, the estimated base salary range for this role is $160,000 - $210,000 per year.
+#LI-Onsite
+

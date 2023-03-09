@@ -1,0 +1,38 @@
+
+Company Overview:
+Blue Orange Digital is a cloud-based data transformation and   
+predictive analytics development firm with offices in NYC and   
+Washington, DC. From startups to Fortune 500’s, we help companies make  
+ sense of their business challenges by applying modern data analytics   
+techniques, visualizations, and AI/ML. Founded by engineers, we love   
+passionate technologists and data analysts. Our startup DNA means   
+everyone on the team makes a direct contribution to the growth of the   
+company.
+Position Overview:
+We are seeking a Data Engineer to join our product development 
+team to help build, optimize, maintain and support the data pipeline 
+management components of our product. Your main tasks will include 
+developing, refactoring, customizing, and maintaining our data source 
+integration (DSI) platform with multiple partner-built data 
+observability platforms. You will join a small team of engineers and 
+have a large impact on shaping how the product is built and designed.
+Responsibilities: 
+Be proficient in server-side development, automation, and 
+optimization of data pipelines, including database creation and 
+management, and debugging.Integrate data from various backend services, APIs, and databases.Create and maintain software documentation.Create and analyze reliable and secure backend functionality.Build and maintain infrastructure and automation to support the running of the platform across multiple cloud environments. Remain knowledgeable of emerging technologies/industry trends and apply them to operations and activities.Requirements: 
+Expert-level knowledge and experience in Python. Advanced
+ working SQL knowledge and experience working with relational databases,
+ query authoring (SQL) as well as working familiarity with a variety of 
+databases.Experience building, refactoring, customizing, and optimizing ‘big data’ data pipelines, architectures, and data sets.Experience
+ performing root cause analysis on internal and external data and 
+processes to answer specific business questions and identify 
+opportunities for improvement.Strong analytic skills related to working with both structured and unstructured datasets.Build processes supporting data transformation, data structures, metadata, dependency, and workload management.A successful history of manipulating, processing, and extracting value from large disconnected datasets.Strong project management, organizational, and collaboration skills.Experience supporting and working with cross-functional teams in a dynamic environment.We
+ are looking for a candidate with 5+ years of experience in a Data 
+Engineer role, who has attained a degree in Computer Science or another 
+related field.Preferred qualifications:
+Experience using the following software/tools:
+Experience with big data tools: Spark, Kafka, etc.Experience with relational SQL and NoSQL databases, including Hive, Postgres, and Cassandra.Experience with data pipeline and workflow management tools: Meltano, Airflow,, Airbyte, Dagster, Fivetran, etc.Experience with AWS cloud services: EC2, EMR, RDS, RedshiftExperience with stream-processing systems: Flink, Storm, Spark-Streaming, etc.Experience with object-oriented/object function scripting languages: Python, Java, C++, Scala, etc.Our Benefits Include:
+Fully remoteFlexible ScheduleUnlimited Paid Time Off (PTO)Paid parental/bereavement leaveWorldwide recognized clients to build skills for an excellent resumeTop-notch team to learn and grow withSalary: $5000 - $6000 USD (per month)
+Blue Orange Digital is an equal-opportunity employer.
+Background checks may be required for certain positions/projects.
+

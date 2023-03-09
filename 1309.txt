@@ -1,0 +1,75 @@
+
+Course Hero is hiring! We are looking for an experienced Senior Data Scientist, Growth and Monetization to join our Data Science and Analytics team. In this role, you will work with big data sets, using deep statistical models, to drive actionable insights and tackle high-impact business problems. You will be telling the story behind your insights -- painting a picture to our functional partners, explaining what the numbers are telling us, and recommending product changes, new features, and A/B tests for implementation.
+The Senior Data Scientist on the Growth and Monetization team will own the analysis and  measurement to provide insights and recommendations for product development from user onboarding to monetization. The ideal candidate will have experience and passion for product analytics and experiment design in the monetization space. Additionally, you have demonstrated strong product leadership to tackle ambiguous questions and uncover the recommendations to drive the product roadmap by delivering solid analyses. We are full stack Data Scientists, problem solvers that start from DWH tables (and sometimes raw data), explore data, build models, discover insights, overcome obstacles, and tell data stories.
+ 
+Responsibilities:
+Identify patterns and trends on onboarding behaviors for different segments of users.
+Build reports, dashboards, and models to proactively identify user onboarding and payment opportunities.
+Manage experiments from design, data tracking to readout to maximize user market share and Course Hero’s return on investment; propose innovative A/B testing techniques to help us learn about our millions of users.
+Propose strategic initiatives and goals to help our functional partners to achieve their goals and drive growth.
+Pricing and economic modeling to help price our products, including SKU design, price-elasticity measurement, and pricing optimization across cohorts, geos, and time including discounting.
+Qualifications:
+5+ years data science experience of continually increasing complexity and impact
+MS degree in a scientific or quantitative field like Math, Statistics, Engineering, Economics, Science, or similar
+Very good proficiency in Python (or R) and hands-on skills in SQL
+Deep understanding of statistics and probability, quantitative sciences, data analysis, predictive, statistical and ML modeling
+Strong problem solving and communication skills; a bias towards taking action quickly, making things happen, learning and correcting course as you receive feedback
+Ability to communicate with a broad set of stakeholders including executives, product leaders, and engineering, including the ability to tell stories with data
+Track record of delivering decision support models and quantitative analysis with actionable insights and high business impacts
+ 
+Bonus Points:
+Knowledge and experience working with Google Analytics, Tableau, Amplitude, Airflow, and Linux/Shell scripting
+Experience working in education or e-commerce domain
+This role is eligible for hire in Vancouver (Canada), and Toronto (Canada) only.
+ 
+Benefits & Perks!
+Competitive salary and stock options
+Full medical coverage (medical, dental, vision)
+401(k) program with match
+Education Reimbursement
+Quarterly team events and outings (Sporting Events, Escape Rooms, Go-Kart Racing, Karaoke, Bowling and much more!)
+Free lunches twice a week, on-site cafe discunt, plus an endless snack and drink supply
+Onsite gym – Pacific Shores Center – Classes – Pool – Spa – Rock Wall - Massages!
+Commuter benefits, shuttle service from Redwood City
+10K Local move benefit to move within 10 miles of our office!
+8 hours per quarter paid time for volunteering for a cause of your choice
+Front row seat to Master Educator lectures – check out videos on our LinkedIn Career Page
+We are a virtual-first company and have employees dispersed throughout the United States and Canada. We have a market-based pay structure that varies by location. The base pay for this position is dependent on multiple factors, including candidate experience and expertise, and may vary from the amounts listed below. You may also be eligible to participate in our bonus program and may be offered an equity award, benefits, and other types of compensation.
+
+Research shows that candidates from underrepresented backgrounds often don't apply for roles if they don't meet all the criteria. We strongly encourage you to apply if you're interested: we'd love to learn how you can amplify our team with your unique experience!
+ 
+#Canada #LI-Hybrid
+ Equal ​Employment Opportunity Statement ​(EEO)
+We are an equal opportunity employer and value diversity and ​inclusion within our company.  ​We will consider all qualified applicants without regard to race, religion, color, national origin, sex, gender ​identity, gender expression, sexual orientation, age, marital status, ​veteran status, or ​ability status. We will ensure that individuals who are differently abled are provided reasonable accommodation to participate in the job application or interview process, to perform essential job functions, and to receive other benefits and privileges of employment as provided to other applicants or employees. Please contact us to request accommodation.
+ 
+About Course Hero:
+
+
+
+
+
+
+
+
+
+
+
+Course Hero is on a mission to help students graduate, confident and prepared. The online learning platform offers over 60 million course-specific study resources created by and for students and educators, as well as 24/7 tutor help. More than 65,000 verified college educators use Course Hero to collaborate with other faculty and share resources to hone new strategies for instruction. Everyday, students, educators and tutors help more than 20 million students make every study hour count.
+ 
+
+
+
+
+
+
+
+
+
+
+
+We have an awesome team and a truly engaging culture. We are customer-focused, collaborative, responsible, gritty, and we love to learn. Our bold mission is to help students graduate confident and prepared!
+ 
+We are not the only ones that think we’re onto something big. Course Hero has been recognized as one of the 2021 Top 100 Best Places to Work in the Bay Area, Top 50 Best Paying Companies in the Bay Area, Top 100 Most Transparent Companies, and in the Top 50 Most Transformational Companies in Education Technology. Read up on some of our recent news coverage, blog, and learn more about us to see what it is like to work with our team. 
+ 
+Join us on our mission!
+

@@ -1,0 +1,21 @@
+
+Grupo tecnológico experto en Inteligencia Artificial y Blockchain/Crypto precisa incorporar en su Departamento de Tecnología un Machine Learning Engineer con experiencia de al menos 3 años en proyectos de desarrollo de Machine Learning/Deep Learning.
+Entre las responsabilidades del puesto se incluyen trabajar en un equipo de ingenieros de machine learning/deep learning (ML/DL), responsable de la producción de modelos desarrollados por científicos de datos; colaborar con científicos de datos, ingenieros de software e ingenieros de datos para diseñar una infraestructura escalable de última generación para servir modelos de ML/DL en producción. Es imprescindible demostrar una buena capacidad para solucionar problemas y conocimiento en  el desarrollo de modelos de ML/DP.
+Requisitos específicos:
+Inglés alto. Hablado y escrito. 
+Titulación superior en Ingeniería (Informática, Telecomunicaciones, TIC...).
+Experiencia escribiendo código de nivel de producción y manteniendo servicios web de nivel de producción.
+Amplia experiencia en Python y con librerías TensorFlow, scikit-learn, keras. 
+Experiencia con NLP, visión por computador y modelos de detección de objetos. 
+Conocimiento o experiencia en alguno de los siguientes modelos de redes neuronales; ResNet, Yolo, GPT, LayoutLXLM, LiLT.
+Experiencia demostrable de al menos 3 años en proyectos de software similares. Comprensión sólida de las mejores prácticas de desarrollo de software.
+Experiencia con plataformas cloud (por ejemplo, Azure, AWS, GCP).
+Comprensión sólida de algoritmos de aprendizaje automático supervisados y no supervisados.
+Experiencia con tecnología de contenerización (Docker/Kubernetes).
+Comprensión detallada del ciclo de vida del proyecto MLOps, así como diferentes soluciones para cada etapa.
+Experiencia con plataformas y marcos de aprendizaje automático como MLflow, Kubeflow, TFX, Seldon, etc.
+Excelentes habilidades de comunicación, trabajo en equipo, resolución de problemas y organización.
+Se requiere persona comprometida, responsable, proactiva y con facilidad para trabajar en equipo. Mentalidad a largo plazo.
+Integración en un equipo profesional con buen ambiente de trabajo.
+Incorporación inmediata.
+

@@ -1,0 +1,62 @@
+
+
+At Kinaxis, who we are is grounded in our common belief that people matter. Each one of us plays an important part in accomplishing our work, building our culture and making a global impact.
+Every day, we’re empowered to work together to help our customers make fast, confident planning decisions. This is how we create a better planet – for each other, for our customers and for generations to come. Our cloud-based platform RapidResponse ensures that the products we need – everything from medicine and cars, to day-to-day items like toothpaste – make it to market and into our hands when we need them with minimal ecological footprint.
+We make the world better, and you can too.Business Data Scientist
+ 
+Job location: This is a virtual position. You can work from home and be located anywhere in Mexico.
+ 
+About the team
+You would be a contributing member of the Kinaxis Professional Services organization, collaborating with team members to deliver sustainment client projects using Kinaxis RapidResponse® software.
+If you love solving analytical problems, analyzing complex datasets, finding actionable insights, communicate the story within the data and learning new technologies, this role is for you!
+ 
+What you will do
+
+Develop cutting edge expertise in Kinaxis’ AI/ML capabilities to translate customer’s business needs into actionable insights that can drive business improvements.
+
+
+Provide standardized reporting and analytics that tracks and highlight Forecast Value Add, Forecast Accuracy, Operational indicators and ROI measurements
+
+
+Support customer to define and implement value metrics and KPIs that will demonstrate visible business success and identify next best actions
+
+
+Evaluate and measure models’ outputs to ensure client requirements are met and drive continuous value.
+
+
+Seamlessly collaborative with the team of Business Data Scientists on the project
+
+
+Provide on-going support and thought leadership to customers to continually improve their AI/ML models by demonstrating and delivering value.
+
+ 
+What we are looking for
+
+Ability to understand customers business’ and supply chain needs and leverage it to effective design solutions to drive business value.
+
+
+Ability to effectively communicate with executives and business stakeholders to shape and influence decision making.
+
+
+Conceptual knowledge of AI/ML techniques and eager to learn and adopt new approaches and methodologies.
+
+
+Hands-on experience with relational databases (e.g. Oracle, MySQL, MS Sql Server, PostgreSQL), BI/data analysis. Working knowledge of distributed computing techniques.
+
+
+Working knowledge of ML stack such as Kubernetes, Project Jupyter, Kafka and workflow engines etc.
+
+
+Ability to translate planning processes to different industrial environments such as B2B, Life Sciences/ FMCG/ Automotive industry.
+
+
+Excellent interpersonal, presentation and client relationship building and facilitation skills (meeting sessions, conflict resolutions, brainstorming etc.)
+
+ What we have to offer
+Challenging Work - We love solving highly complex problems. And as the global leaders in our industry, we never stop innovating—our work is never “done. That’s because across our teams and in all roles, every employee is empowered to bring their best ideas forward and to jump in and solve the problems they’re passionate about.
+Great People - We take our work seriously, but we don’t take ourselves too seriously! It’s in our DNA to celebrate, laugh, and have fun. We are stronger, together, when we are open, honest, and above all, real. Every person is valued here and plays an important role in our shared success.
+Global Impact - As a global team spanning continents, boundaries, and cultures, every day we are inspired by the impact our work has on our colleagues, our customers, our communities, and the world at large.
+Diversity, Equity and Inclusion - Diversity, equity and inclusion are more than words to us. They are the guiding principles for building a culture where we celebrate each others’ differences, continuously strive for equality and recognize that inclusion makes us stronger as individuals, a company and a global citizen. 
+For more information, visit the Kinaxis web site at www.kinaxis.com or the company’s blog at http://blog.kinaxis.com/.
+Kinaxis strongly encourages diverse candidates to apply to our welcoming community. We strive to make our website and application process accessible to any and all users. If you would like to contact us regarding the accessibility of our website or need assistance completing the application process, please contact us at recruitmentprograms@kinaxis.com. This contact information is for accessibility requests only and cannot be used to inquire about the status of applications.
+

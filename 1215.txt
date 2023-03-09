@@ -1,0 +1,35 @@
+
+We are Kaizen Gaming
+Kaizen Gaming is the leading GameTech company in Greece and one of the fastest-growing in Europe, with the Stoiximan brand in Greece and Cyprus and Betano in Germany, Romania, Bulgaria, Czech Republic, Portugal, Brazil, Chile, Peru, Ecuador and Canada. Our aim is to leverage cutting-edge Technology in order to provide the optimum experience to those who trust us for their entertainment.The Role
+We’re looking for a Reporting Engineer Team Lead to join our Big Data reporting team, who will lead the delivery of our reporting ecosystem. As a Reporting Engineer Team Lead (Big Data), you’ll design, develop and maintain our data flows/modeling to meet business analysis and reporting needs.
+Equally important, you will lead the reporting engineers by developing their skills and fostering a culture of open communication and support. Together with the Principal Engineer your goal will be to improve the team’s performance, technical expertise and delivery velocity.
+ 
+The Team
+Our Big Data reporting team(s) consists of twelve members with diverse backgrounds and expertise in several fields including, but not limited to, Databricks/ Delta lake/ SQL Server/ Azure Data Warehouse/ SSRS/ SSIS.
+ 
+Responsibilities
+Lead the reporting engineers to adopt best practices in data system creation, data integrity, test design, analysis, validation, and documentation;
+Translate business and functional requirements into robust, scalable, operable solutions;
+Implement and operate large-scale, high-volume, high-performance data structures for analytics and data science;
+Implement data transformation pipelines, using ETL/ELT processes;
+Help continually improve ongoing reporting and analysis processes, automating or simplifying self-service modeling and production support for customers.
+ 
+Requirements
+Must have:
+6 years of hands-on experience in writing complex, highly optimized T-SQL code for data manipulation and reporting;
+4+ years of experience in ETL/ELT, Data Modeling, Data Warehouse Architecture and Reporting tools;
+2+ years of experience in leading teams
+Experience in the Microsoft BI stack (SQL Server, SSRS, SSAS);
+Analytical abilities & problem-solving skills;
+Ability to meet deadlines with high attention to detail and quality.
+Nice to have:
+A bachelor's degree in a quantitative/technical field (e.g. Computer Science, Statistics, Engineering) or equivalent industry experience;
+Experience with Azure Data platforms such as Synapse Analytics, Data Lake, Databricks; 
+Experience in programming languages preferable in Python or Scala;
+Exposure to CI/CD;
+Exposure to an Agile team-working environment.
+ 
+Kaizen Gaming Perks
+🕑 Work from home & remote working options.🏃 A buddy will support you with your onboarding.💸Competitive salary package and bonus scheme.👩‍⚕️ Health and life insurance for you and your family.💰 Monthly allowance for lunch & commuting expenses.💻Nice rigs - 2.5K monitor, latest i7, tons of RAM, fast SSD.📚 Pluralsight, unlimited access to Udemy & continuous training for all your learning and development needs.⭐Clear career paths & a developmental 360° feedback framework.✈️ Relocation package and "Brain Gain" relocation bonus for Greek expats.Recruitment Privacy Notice
+Regarding the data you share with us, you may find and read our recruitment privacy notice here.
+

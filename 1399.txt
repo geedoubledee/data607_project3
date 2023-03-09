@@ -1,0 +1,70 @@
+
+				Job Description
+ 
+Job Title: Senior Data Scientist
+Experience: 15&plus;
+Job DescriptionProvide Data Analytics & Visualization solutions/support in line with the identified needs and expectations of Analytics & Insights practice.
+Responsibilities
+As a Senior Data Scientist, understands the client requirements for data science and AI/Client opportunities.
+Applies data science acumen to architect end-to-end data science solutions that best fits the client needs.
+Understands and considers all pertinent options in terms of data science and AI/Client algorithms, frameworks, solutions, and tools to utilize in architecting solutions.
+Reviews proposals, develops PoCs, and performs data analysis as per project needs.
+Provide data science resource and effort estimates as per requirements of projects.
+Provide oversight to data science solution implementation, with ability to guide a team of data scientists on projects and be hands-on if needed.
+Build data science and AI/Client solution frameworks, utilities, templates, and other demonstrable assets based on industry demand and client opportunities.
+Ability to see the big picture and provide suggestions/ guidance for additional data science opportunities related to the problem at hand.
+Foster a culture of engagement and growth in Data science practice through continuous learning, sharing ideas, adopting data science process improvements, and industry trends and best practices.
+Qualifications
+Skill Profile
+At least 12-15 years of experience as a Senior Data Scientist in in at least one of the following industries/verticals:
+Healthcare
+Telecom
+Manufacturing
+Hi-Tech
+Must have executed at least 3 large programs based on data sciences, with multiple teams to construct an integrated enterprise level solution with automation.
+Excellent understanding of the end-to-end data science process.
+Experience with descriptive, predictive, and prescriptive analytics.
+Proficiency with AI/Client techniques with hands-on model building and solutioning experience using algorithms (Regression, Logistic Regression, SVM, Random Forest, Decision Trees, K-Means, Naive Bayes, Clustering, etc.), and Deep Learning (CNN, RNN, GRU, Beam Search etc.), NLP, NLG.
+Well versed with at least one of the two programming languages – Python or R
+Experience with programming packages like Scikit, Keras, Pandas, Numpy etc.
+Experience with one or more visualization tools Tableau, Power BI, Spotfire, or Qlik.
+Experience with packages like Matplotlib, Seaborn, D3.js, GGplot etc.
+Proficiency in using SQL and additionally one of Hive or Pig would be helpful.
+Experience with one or more NoSQL databases such as MongoDB, Cassandra, or HBase. Experience with unstructured file formats like JSON.
+Familiarity with Elasticsearch and Kibana is a plus
+Experience developing apps, dashboards, reports for data performance and utilization using data visualization tools (PowerBI, Tableau, Splunk. Etc.)
+Customer engagement with strong communication, presentation, and articulation skills.
+Team player with ability to work in a dynamic environment.
+Educational Background
+Bachelor’s in Mathematics, Statistics, Computer Science/ Engineering or equivalent.
+Master’s in Predictive Analytics or Data Science from an accredited US university.
+
+                    More Information
+                    
+                        
+
+
+
+Salary Offer
+
+0 ~ $3000
+
+
+
+Experience Level
+
+Senior
+
+
+
+Total Years Experience
+
+0-5
+
+
+
+Dropdown field
+
+Option 1                        
+                
+            	

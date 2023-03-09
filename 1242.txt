@@ -1,0 +1,28 @@
+
+Who we are
+About Stripe
+Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.
+About the team
+The Data Science team builds data and intelligence into our product, sales, and operations. This spans across building data foundations and applying statistical techniques and machine learning to measure and optimize our product, build data-driven products, and conduct in-depth analysis to inform strategic decisions.
+What you’ll do
+We’re looking for people with a strong background in data engineering and analytics to help us scale while maintaining correct and complete data. You’ll be working with a variety of internal teams -- Engineering, Business -- to help them solve their data needs. Your work will provide teams with visibility into how Stripe’s products are being used and how we can better serve our customers.
+Responsibilities
+You’ll be working with a variety of internal teams -- Engineering, Business -- to help them solve their data needs
+Your work will provide teams with visibility into how Stripe’s products are being used and how we can better serve our customers
+Identify data needs for business and product teams, understand their specific requirements for metrics and analysis, and build efficient and scalable data pipelines to enable data-driven decisions across Stripe
+Design, develop, and own data pipelines and models that power internal analytics for product and business teams
+Help the Data Science team apply and generalize statistical and econometric models on large datasets
+Drive the collection of new data and the refinement of existing data sources, develop relationships with production engineering teams to manage our data structures as the Stripe product evolves
+Develop strong subject matter expertise and manage the SLAs for those data pipelines
+ 
+Who you are
+If you are data curious, excited about designing data pipelines, and motivated by having an impact on the business, we want to hear from you.
+Minimum requirements
+Have a strong engineering background and are interested in data
+Have prior experience with writing and debugging data pipelines using a distributed data framework (Hadoop/Spark/Pig etc…)
+Have an inquisitive nature in diving into data inconsistencies to pinpoint issues
+Strong coding skills in Scala, Python, Java or another language for building performance data pipelines.
+Strong understanding and practical experience with systems such as Hadoop, Spark, Presto, Iceberg, and Airflow
+The ability to communicate cross-functionally with solid stakeholder management to derive requirements and architect scalable solutions.
+Experience with data modeling, ETL (Extraction, Transformation & Load) concepts, and patterns for efficient data governance.
+

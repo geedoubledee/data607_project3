@@ -1,0 +1,34 @@
+
+Imagine a world dedicated to Security Without Compromise. Synack, headquartered in Silicon Valley with regional offices around the world, protects leading global organizations by reducing companies’ security risk and increasing their resistance to cyber attack. How do we do this? By utilizing the world’s best and most trusted team of ethical hackers who test through our powerful and controlled platform to deliver real security without compromise. 
+At Synack, we aren’t afraid to think outside the box or take on big challenges. Backed by top-tier venture capital firms including Kleiner Perkins Caufield & Byers, Microsoft, and Google Ventures, Synack's mission is to leverage global security talent coupled with advanced technology to help enterprises discover security vulnerabilities before they become business problems. Discover the possibilities at Synack!
+We are looking for an experienced and innovative Senior Data Engineer to build products that will revolutionize cyber security. Working in the Cloud and using DevOps, you will process data to improve visibility into our Red Team’s activity, and enhance the ratings method measuring the security standing of our Clients. Sounds interesting? Keep reading...
+Location: New York City, New York
+Here’s what you’ll do
+Build high availability data streaming processing pipelines using Cloud Functions, Pub/Sub, Cloud Composer (Airflow), BigQuery and other Google Cloud Platform products
+Support existing production products including APIs, data pipelines, relational databases and NoSQL document stores
+Maintain and extend the infrastructure as code (Terraform based) implementation of the data platform 
+Build innovative analytics and proof of concept ideas and the development of dashboards and interactive applications using Apache Superset
+Make use of a wide variety of tools, data storage solutions and programming languages
+Collaborate with engineers and product managers across the company
+Contribute to the development of Data Analytics, Machine Learning models and application of AI to real world problems
+Deliver new capabilities as part of journey teams to build new products and participate in Agile ceremonies
+Here's what you'll need
+Hold US Citizenship or Residency due to working on Federal customers
+5+ years of experience designing and building dynamic data production solutions (e.g. data pipelines, APIs, managing databases)
+3+ years of experience using Python and SQL programming language
+Experience implementing batch and streaming data pipelines with modern technologies
+Experience on using various database systems such as PostgreSQL, NoSQL document storage and OLAP databases (BigQuery, Clickhouse) along with their performance optimisation 
+Experience architecting and leading application development efforts
+Experience working with GCP Cloud services or other similar Cloud Computing platforms
+Experience with unit and integration tests, and Agile software development practices using Git
+Experience with CICD deployment process and Docker related products 
+Bonus Points
+Experience with real time analytical databases such as BigTable, Apache Pinot
+Experience managing performant relational and non-relational databases 
+Working experience with infrastructure as code with Terraform
+Ready to join us?
+Synack is committed to embracing diversity. Our people are our strength.  Each addition to our team is an opportunity to grow and diversify our ideas, experiences, and viewpoints. We strive to be inclusive of Race, Ethnicity, Religion, Sex, LGBTQ+, Veterans, Disabilities, and Age.  Synack welcomes you!
+As a candidate, Synack cares about your privacy. Please view our candidate privacy policy here.
+($135,000/yr - $180,000/yr) Salary is determined by a combination of factors including location, level, relevant experience, and skills. The range displayed on each job posting reflects the minimum and maximum target for new hire salaries for the position across all US locations. The compensation package for this position may also include equity, and benefits.
+For more details about our benefits, please see here. Then for the Employer code, enter: synack
+

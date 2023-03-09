@@ -1,0 +1,70 @@
+
+
+        Job Title 
+
+        Senior Python/Django Engineer
+
+        Job Description
+
+        Join the Apexive backend team and become a key player in creating top-notch technology for startups!
+As a boutique software studio, we encourage a remote-first culture that empowers you to work in a way that best suits you. Led by a software architect who codes, you'll never feel like a cog in the machine. At Apexive, everyone has the chance to make decisions that steer the company as a whole.
+As experts in cutting-edge frameworks and platforms, including Flutter/Dart, Google Cloud Platform/AWS/Kubernetes, Python/Django, and Terraform, we believe in using the right tools for a given challenge. You'll have the opportunity to take a leading role in the team and potentially help us grow the team.
+You'll be mentored by very experienced architects and have the chance to mentor others.
+Your day-to-day responsibilities:
+Develop and maintain Backend solutions using Django
+Collaborate directly with our clients while helping them build great products
+Build docker images that can run on top of AWS or other PaaS
+Model databases using MySQL, Postgres, DynamoDB
+Participate in Sprint Plannings and daily stand-up meetings
+Participate in code review and pair programming as a part of your workflow
+Take an active part in our learning and knowledge-sharing culture
+What you will get at Apexive:
+💰 Competitive compensation
+📈 Equity options
+💻 Work with the latest tech stack and top startups from various industries
+🏖️ Offsite week in Thailand full of adventures - all expenses paid
+🧳 Flexible work hours and truly remote work culture
+🧗‍♂️ Work From Anywhere
+👫 Mentorship program - get a mentor and become one
+What happens next? 🔜
+You apply through the form on the website https://apexive.com/vacancies/senior-python-django-engineer and send a fragment of your recent code using Django and Django-rest-framework that you are proud of. Please take this step seriously as we base our decision on moving forward with the candidate solely on what you send us, and we do not give a benefit of the doubt at this stage.
+If your code meets our expectations, you’ll have a short cultural-fit interview, so we can get to know each other better, understand your motivation for applying, and make sure you know all the important things about us.
+You’ll be asked to do a test assignment - most likely as a contribution to an open-source project.
+We’ll finish with a technical interview with the main architect & CTO.
+Join Apexive today and take your career to the next level!
+
+
+        Restrictions
+        Telecommuting is OK
+            
+
+            
+            No Agencies Please
+            
+        Requirements
+        To succeed, you'll likely need the following skills:
+3+ years of Python/Django experience
+Experience with RESTful backend applications, specially built with Django
+An inability to write anything but clean, maintainable code.
+Strong aversion to hard code
+Experience with deployment processes like AWS, Heroku
+Being up-to-date with the latest news and technologies about the Backend
+High English proficiency as our company language is English
+Ability to work independently
+Alignment with our values, including getting things done attitude
+Nice-to-have skills:
+UI/UX feeling
+Docker, CircleCI
+Terraform, Odoo
+Basic knowledge of frontend
+Contributions to open-source projects
+Contact Info
+        Contact: Sofia Khomutova
+            
+
+            E-mail contact: sofia@apexive.com
+
+            
+            Web: https://apexive.com/vacancies/senior-python-django-engineer
+            
+        

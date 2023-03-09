@@ -1,0 +1,27 @@
+
+ABOUT OPORTUN
+Oportun (Nasdaq: OPRT) is a digital banking platform that puts its 1.9 million members’ financial goals within reach. With intelligent borrowing, savings, budgeting, and spending capabilities, Oportun empowers members with the confidence to build a better financial future. Since inception, Oportun has provided more than $14.7 billion in responsible and affordable credit, saved its members more than $2.3 billion in interest and fees, and helped our neobanking members save an average of more than $1,800 annually. For more information, visit Oportun.com.
+ 
+WORKING AT OPORTUN
+Working at Oportun means enjoying a differentiated experience of being part of a team that fosters a diverse, equitable and inclusive culture where we all feel a sense of belonging and are encouraged to share our perspectives. This inclusive culture is directly connected to our organization's performance and ability to fulfill our mission of delivering affordable credit to those left out of the financial mainstream. We celebrate and nurture our inclusive culture through our employee resource groups and our Diversity, Equity, Inclusion and Belonging Council.Our Product leadership team is looking for an innovative Sr. Product Manager who will collaborate with multidisciplinary teams to take on our toughest data challenges and define compelling solutions for our customers. As a key member of our Product team, you will be responsible for all product management activities for internal reporting and data products in order to achieve our business strategy and to support Oportun’s end user goals.
+WHO YOU ARE
+You have experience in and a point-of-view on innovative data pipelines, data warehouses and data systems (and their integration into the broader ecosystem) and will be a thought partner with our cross-functional teams to drive change and business results.
+You’ll be an important link to our business stakeholders with whom you will work closely to define the product vision, customer journeys, roadmap, perform research (user and competitive), specify requirements and create detailed specifications.
+You are someone engineers will love to work with because you are curious, you listen, and are technical enough to speak their language. You understand how to design requirements that solve the business need while balancing the complexity of the technical solution. You are their partner to get things done.
+You are someone the business owners will love because you understand how to break apart something very complex into logical, understandable, and sequenced parts of a roadmap and gain buy-in as needed. You also listen to the business need and demonstrate product and thought leadership to provide solution options.
+You seek customer input and data to understand challenges we need to solve and to measure the performance and impact of our data products. You create dashboards, identify metrics, and more in order to do so. 
+You are comfortable navigating through ambiguous problem spaces in pursuit of clarity and concrete outcomes.
+SKILLS YOU HAVE
+5+ years of Product Management experience, with experience designing innovative data   solutions in the financial services industry highly preferred.
+An end-to-end understanding of Data Center Infrastructure, Data Analytics, Near-Real time  processing. Experience with Databricks highly preferred.
+​Experience with business executives from many disciplines (origination, compliance, risk, operations, fraud, technology, business intelligence, finance, training, legal, cybersecurity, etc.) to understand the data needs, define features, and prioritize and manage scope to operate in an iterative agile delivery framework.
+Excellent written and verbal communication/presentation skills, including the ability to persuade and influence a broad spectrum of constituents at all levels, including senior management.
+Experience with dynamic content delivery, systems supporting both end users and internal agent facing systems and with delivering both online and within the enterprise.
+Experience supporting a multi-national (US, IN & MX) workforce and multi-cultured end user base.
+The US base salary range for this full-time position is $107,900 - $172,600
+Our salary ranges are determined by role, level, and location. The range displayed on each job posting reflects a national minimum and maximum range for new hire salaries for this position. Within this range, individual pay is determined by work location and additional factors, such as job-related skills, experience, and relevant education or training. Your recruiter can share more about the specific salary range that meets your criteria during the hiring process.
+Please note that the compensation range listed in this posting reflects only the base salary for this position and does not include other compensation elements or benefits.We are proud to be an Equal Opportunity Employer and consider all qualified applicants for employment opportunities without regard to race, age, color, religion, gender, national origin, disability, sexual orientation, veteran status or any other category protected by the laws or regulations in the locations where we operate.
+ 
+California applicants can find a copy of Oportun's CCPA Notice here:  https://oportun.com/privacy/california-privacy-notice/.
+ 
+

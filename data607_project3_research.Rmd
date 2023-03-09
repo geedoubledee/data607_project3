@@ -222,20 +222,61 @@ dbDisconnect(con)
 
 ```
 
+## Manual Data Collection for Linkedin:
+
+```{r manual}
+manual <- jobs_df %>%
+    filter(Job_complete == -1)
+write.csv(manual, "manual.csv", row.names = FALSE)
+
+file <- "https://raw.githubusercontent.com/geedoubledee/data607_project3/main/manual_edited.csv"
+
+manual_edited <- read.csv(file = file, header = TRUE)
+for (i in 1:nrow(manual_edited)){
+    job_id <- manual_edited[i, 1]
+    job_desc <- manual_edited[i, 8]
+    jobs_df[job_id, 7] <- manual_edited[i, 7]
+    fn <- paste(job_id, ".txt", sep = "")
+    writeLines(job_desc, con = fn)
+}
+
+```
+
+## Connect to the SQL Data Base:
+
+```{r db_con3}
+con <- DBI::dbConnect(
+  RMariaDB::MariaDB(),
+  dbname = "dat_sci_jobs",
+  username = "root",
+  password = as.character(read.table("sql_db.txt", header = FALSE)),
+  host = "35.227.102.234")
+
+```
+
+## Write to the SQL Data Base and Disconnect:
+
+```{r db_write3}
+tables <- dbListTables(con)
+dbWriteTable(con, "_Jobs", jobs_df, overwrite = TRUE)
+dbDisconnect(con)
+
+```
+
 ## Analyze the CSV Job Descriptions with TidyText
 
 ```{r tidytext_analysis}
 
 files <- list.files(pattern = "^[1-9]+.*txt$")
 completed_txt_files <- readLines("completed_txt_files.txt")
-text_df <- read.csv("text_df.csv")
+my_url_text_df <- "https://raw.githubusercontent.com/geedoubledee/data607_project3/main/text_df.csv"
+text_df <- read.csv(file = my_url_text_df, header = TRUE)
 
 if (length(files) > 0){
     file.copy(from = paste0(getwd(), "/", files),
           to = paste0(getwd(), "/jobs-txt/", files))
     file.remove(from = paste0(getwd(), "/", files))
     url_base <- "https://raw.githubusercontent.com/geedoubledee/data607_project3/main/jobs-txt/"
-    new_text_df <- as.data.frame(matrix(nrow = 0, ncol = 3))
     cols <- c("Text", "Job_id", "Line")
     colnames(new_text_df) <- cols
     for (i in 1:length(files)){
@@ -256,11 +297,9 @@ if (length(files) > 0){
         }
     }
     writeLines(completed_txt_files, "completed_txt_files.txt")
-    text_df %<>%
-        mutate(Text_id = row_number())
     rownames(text_df) <- NULL
-    text_df <- text_df[c("Text_id", "Text", "Job_id", "Line")]
-    write.csv(text_df, "text_df.csv")
+    text_df <- text_df[c("Text", "Job_id", "Line")]
+    write.csv(text_df, "text_df.csv", row.names = FALSE)
 }
 
 tidy_text_df_words <- text_df %>%
@@ -288,13 +327,4 @@ tidy_text_bigrams_analysis %>%
 
 ```
 
-## Manual Data Collection for Indeed and Linkedin:
 
-```{r manual}
-manual <- jobs_df %>%
-    filter(Job_complete == -1)
-write.csv(manual, "manual.csv", row.names = FALSE)
-
-manual_edited <- 
-
-```

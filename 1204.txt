@@ -1,0 +1,55 @@
+
+Data Platform team is a team that focuses on providing the platforms needed to ingest meaningful data from different teams, analyze data, and build metrics and dashboards from them. Data Platform focuses on providing the right data for Sendbird to make business decisions and for Sendbird's business customers to understand and analyze their usage of our products.
+ 
+What you will do
+ 
+Lead designing of distributed, high-volume ETL data pipelines that power Sendbird analytics and products 
+Support data warehousing of a variety of different datasets at scale 
+Build production services using open-source technologies such as Airflow, Spark, AWS cloud infrastructure such as MSK, EKS, Lambda, Aurora, S3, Athena, and also GCP services such as BigQuery, Dataflow 
+Develop data processing platform and tools for data collection, discovery, and analytics in Python, Java, Scala and define workflows and processes in testing, validation, monitoring and so forth
+Collaborate with other teams and work cross-functionally for large-scale data related product initiatives
+Propose solutions to team and organization's development processes and technical problems and drive them into action
+Who you are
+Have working knowledge of distributed processing, highly scalable data stores, and developing and maintaining large variety of datasets
+Drives cross-team, company-wide projects and works efficiently with junior engineers to execute and deliver result
+Advises and/or mentors junior engineers on technical direction/blockers, coding standards, etc.
+Brings new technologies outside of the team and continuously seeks to improve the team’s system
+Fluency in several programming languages such as Python, Java, or Scala
+Strong analytic skills related to data models and conducting SQL 
+Ability to find the optimal solution given resource constraints
+Understand the need and enhance data quality and reliability
+Preferred skills
+5+ years of work experience in data engineering and/or building ETL pipelines in production
+Work experience in AWS and/or GCP data pipeline ecosystem
+Familiar with Airflow, Spark and Hadoop
+Understanding of RDBMS, NoSQL and distributed databases
+English proficiency for business collaboration
+Strong communication and collaboration skills
+Our KR benefits include (but are not limited to)
+Familiar with Airflow, Spark and Hadoop
+Silicon Valley's equity program (1-year cliff) 
+Remote work policy, flexible work hours
+Be Your Best Self: 3.9 million won (prorated by start date) for expenses ranging from professional development classes and training, to personality assessments, to gym memberships, to books, to fitness classes, to mental health services, to massages
+Support for home office set up such as motion desks, chairs, monitors, and AirPods 
+Learn a Language benefit - up to 3.6 million won per year towards language lessons 
+Weekly office lunch
+Monthly team building cost
+Partial support for commuting costs
+Free parking at the Seolleung office
+Group insurance support that covers employees, spouses, and children
+Medical checkup support, including MRI and genetic testing - for the employee and one family member
+Seven additional paid holidays in addition to annual leave (Boost leave, Birthday leave, etc.)
+Support for the latest work devices, such as MacBook Pro (special support options for each job position)
+Unlimited snack bar filled with snacks, beverages, and instant noodles every day
+12-week paid parental leave support (available for both mothers and fathers)
+Other support programs for congratulations and condolences
+ 
+The Future of Work at Sendbird 2.0
+Sendbird values both work efficiency and team collaboration, and relationship building. For that purpose, we operate the new Future of Work 2.0 system. Those who live within an hour's commute to work will go to the office once a week to achieve synergy while autonomously choosing the best place and time to work together. Depending on your residence, organization, or nature of work, the frequency of attendance will be determined by consulting with the team.
+ 
+What diversity and inclusion mean to us
+There is no such thing as a perfect candidate and the best employees come from a wide range of backgrounds, experiences, and skill sets. Sendbird is a place where everyone can learn and grow. We respect, promote, and encourage diversity for equal employment opportunities and encourage you to apply if this role excites you.
+ 
+About Sendbird
+Founded in 2015, Sendbird is the leading user engagement platform trusted by modern digital apps like DoorDash, Reddit, Yahoo, and Match Group and Global 500 companies such as UnitedHealth, DHL, LG, and Virgin Mobile. We allow any app or website to quickly and easily embed rich, real-time chat, voice, and video experiences to create connections with users and between users. This could be connecting drivers and consumers in a timely fashion to reduce cancellations for a delivery app, helping buyers get their questions answered from sellers to increase transactions in a digital marketplace, or increasing engagement between users in an online community. The platform has over 230M MAUs from over 50 countries operating in industries ranging from marketplaces, ride-sharing, and online communities to gaming, live video streaming, and healthcare.
+

@@ -1,0 +1,35 @@
+
+84.51° Overview:
+84.51° is a retail data science, insights and media company. We help the Kroger company, consumer packaged goods companies, agencies, publishers and affiliated partners create more personalized and valuable experiences for shoppers across the path to purchase.
+Powered by cutting edge science, we leverage 1st party retail data from nearly 1 of 2 US households and 2BN+ transactions to fuel a more customer-centric journey utilizing 84.51° Insights, 84.51° Loyalty Marketing and our retail media advertising solution, Kroger Precision Marketing.
+Join us at 84.51°!
+__________________________________________________________
+ Senior Data Scientist, Media Analytics – Kroger Precision Marketing   P1559
+Kroger Precision Marketing (KPM) powered by 84.51°, is a leading retail media advertising solution. KPM closes the loop between media exposure and store sales by using first-party purchase data to make brand advertising more addressable, actionable, and accountable. Launched almost five years ago, we have activated campaigns for over 1900 brands. Our vision is to become the preferred media company for advertisers by creating a more accountable media supply chain that increases the effectiveness of investment dollars. We are a growing team of passionate and talented analysts, data scientists, marketing consultants, and media strategists who are committed to transforming the media industry.  
+As Senior Data Scientist, Media Analytics – Kroger Precision Marketing you are joining a community of analysts – we are researchers in search of the customer story.  We are the voice of the customer.  Customers share their story with us each day, and it is our job to tell their story.  Our Analysis team is known for solving client and customer problems, employing the most appropriate statistical and analytic approaches. You will be hands-on with respect to the analysis of a retailer database, using the full suite of 84.51° technical and visual tools – R, Python, Tableau, Excel, SQL, Power BI (and other internal tools) to create timely, relevant, and actionable insights.   
+Responsibilities:   
+Package building and code optimization experience or a strong desire to learn 
+Explore opportunities to partner with software engineering and product on automating and scaling deliverables 
+Identify gaps/opportunities with our existing science, measurement, and data solutions. Automate deliverables and scaled reporting that helps capture those gaps/opportunities 
+Scoping and management of projects from beginning to end, including all commercial elements to ensure that projects are delivered on time and to brief specification. 
+Challenge and improve 84.51° analytical capabilities/products 
+Guiding and directing data scientists in realizing efficiencies and creating standard processes, such as automation of code lines, removing manual tasks, or re-engineering existing processes to make them more efficient. 
+Leading and managing projects, tasks, and stakeholders to ensure that projects are delivered on time, within budget and to brief specification 
+Proactively manage the development of best practice and knowledge management, and champion the capture and sharing of knowledge across the data science community. 
+ Qualifications, Skills and Experience:   
+Bachelor’s or Master’s degree or equivalent in statistics, mathematics, analytics, economics, or marketing 
+2+ years of experience in extracting insights from large databases, translating data into actionable solutions  
+2+ years of experience using advanced algorithms, programming languages, or technologies in the development of technical analytics solutions or capabilities. 
+Data visualization skills and ability to present technical solutions to a non-technical audience 
+Proven ability to streamline and scale manual/repetitive solutions 
+Proven ability to juggle multiple workstreams as needed 
+Strong technical skills working with large datasets via SQL, R and/or Python. Experience with Big Data concepts, tools, and architecture  
+Strong interpersonal and communication skills including excellent verbal, written, presentation and consultation skills are required 
+Strong analytical, problem-solving, and decision-making skills. Passionate about data, analysis, and insights. 
+Excellent attention to detail, organization skills and ability to work in a collaborative environment 
+Natural curiosity that welcomes and embraces change and willingness to try new things and to fail
+ 
+ 
+#LI-Remote 
+#LI-SSS
+

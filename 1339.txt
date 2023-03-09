@@ -1,0 +1,49 @@
+
+WHO ARE WE?
+Launch Potato is a digital media company with a portfolio of brands and technologies. As The Discovery and Conversion Company, Launch Potato's mission is to be the most innovative, tech-enabled media company connecting consumers to the world's leading brands.
+The company is headquartered in vibrant downtown Delray Beach, Florida, with a unique international team across more than a dozen countries. Launch Potato's success comes from a diverse, energetic culture and high-performing, entrepreneurial team. YOUR ROLE
+We need someone like you to lead efforts in transforming enterprise data into actionable insights. Reporting to the Associate Director of Analytics, you will develop a deep understanding of Launch Potato's data to support yield, user acquisition, product, remarketing, and account managers. 
+You will become the subject matter expert in at least one vertical, including, but not limited to, insurance, credit cards, and/or SEO. In addition, you will own reporting standardizations, content creation, and ad hoc analysis that will help identify growth opportunities. 
+Success in this role will directly impact your ability to earn the team's confidence by delivering insightful, accurate, and actionable data through strategic partnerships within the organization. 
+Success will be further determined by your ability to:
+Always take into account the advertiser's CAC (Customer Acquisition Costs), page RPS (Revenue Per Session), ROAS (Return on Ad Spend), and funnel/user engagement metrics. Our partners' success directly impacts the continued growth of Launch Potato.    
+Develop and follow reporting standardizations within the organization. 
+Understand our internal data intricacies and have a significant focus on data accuracy. 
+Proactively seek opportunities through complex analysis by joining multiple data sets together.   
+Present thoughtful insights to media buyers, yield, remarketing, account management, product teams, and leadership.
+Become a subject matter expert in one or more verticals within the organization.  
+Data Visualization & Business Intelligence:
+Bring visibility and control to the stakeholders in your vertical by building and maintaining dashboards, visualizations, and reporting in our BI tool, Looker. 
+Develop and follow standards in how our reporting content is organized.   
+Become an SME on our library of Looker Explores specific to your vertical. 
+Help improve the quality and accessibility of necessary data points in Looker.
+Write complex SQL queries between multiple tables to unleash insights not derived from pre-existing data models.  
+Communication & Requirement Gathering: 
+Develop a strategic partnership with stakeholders by translating data requests into insightful and data-driven conversations.  
+Drive and follow through on initiatives based on opportunities and hypotheses found in the data. 
+Work and proactively communicate across all parts of the organization. 
+Present your findings to technical and non-technical stakeholders using your strength in written and verbal communication.
+Collaborate with data scientists & business intelligence teams to unlock additional insights. 
+Business Support: 
+Thrive in a collaborative team environment that focuses mainly on data. 
+Help design and execute A/B testing analysis based on insights presented to the team. 
+Ability to conduct competitor analysis within your vertical. 
+Develop a strong understanding of the tools and systems. 
+Assist in QA and debugging tasks related to anomalies found in the data. 
+Evaluate pricing impacts with variable payout change assumptions. 
+Ability to measure the impact of your analysis. 
+WHAT YOU NEED TO SUCCEED
+
+5+ years of direct experience as an analyst within a performance marketing business.
+Strong focus on data validation and accuracy.  
+Complete complex analysis by joining multiple data sets together.
+Not afraid to raise questions about data anomalies. 
+Strong analytical and quantitative skills to manage highly complex information.
+Willingness to adapt to a fast-paced work environment.  
+Ability to build relationships within the organization through actionable and accurate insights. 
+Proficiency in a BI platform, Excel, and SQL. 
+
+Want to make your impact in a profitable, high-growth company? Apply now!
+From Day One, we've been committed to having a diverse, inclusive team and culture. We are proud to be an Equal Employment Opportunity company. We value diversity, equity, and inclusion. 
+We do not discriminate based on race, religion, color, national origin, gender (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender identity, gender expression, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics.
+

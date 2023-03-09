@@ -1,0 +1,54 @@
+
+The Company
+Spot AI was formed by engineers from Stanford, Cisco Meraki, and Samsara, with the mission of visually indexing the physical world and making that data useful to everyone at work.
+With an easy-to-use AI camera system, Spot AI unlocks the power of video data, transforming that into Video Intelligence that helps companies improve their security, safety, efficiency, and more.
+In the world of Video Surveillance, security pros would access systems once in a few months to catch the bad guy. In the new world of Video Intelligence, everyone at work - including operations pros, environmental health and safety, security, and the frontline workforce - will all use video intelligence to make better decisions every day.
+Spot AI has been quietly building its technology and customer base since founding in 2018, and already has hundreds of customers and thousands of users. Notably, its customers reach well beyond tech early adopters, including transportation company Cheeseman, Mixt, and Northland Cold Storage.
+In 2021, Spot AI scaled bookings 10x and is continuing to grow aggressively. Backed by Redpoint, Bessemer, and Village Global, Spot AI is well-positioned to disrupt the $30b video surveillance market and lead the $100b Video Intelligence movement.
+The Role
+We are looking for a Sr. AI Software Engineer who will be one of the first engineers on the Machine Learning team with huge opportunities for growth. You will design, architect, and productize AI, big data, and computer vision solutions for Spot AI’s customers. This is an opportunity to implement novel solutions that will have a real-world impact on thousands of businesses and democratize the use of AI.
+We are looking for engineers who have experience in building and shipping computer vision or AI products in production, bringing a mix of passion and creativity together with a pragmatic approach. We are looking for engineers who want to make a significant contribution and are adept at architecting distributed AI systems that can handle millions of hours of customer footage.
+Responsibilities:
+Own and develop and release video intelligence features end-to-end
+Working closely with other engineers and design teams to implement and iterate on features
+Engaging with customers and product management to validate and iterate in an environment with lots of autonomy
+What Excites You
+Working and mutually learning from an extremely high caliber engineering team
+Developing video intelligence products from inception, with lots of ownership and opportunities to implement novel solutions
+Delivering video intelligence features in ways that are thoughtful about end user privacy, such as on-device models and federated training
+Operating with autonomy in a fast paced environment
+Communicating directly with customers to better understand their use-cases for iterating on future product roadmap
+What You'll Need
+3+ years of experience building and productizing AI systems at scale
+Track record of delivering outstanding results
+Strong engineering fundamentals with various back-end technologies in Python 
+Experience with big data processing technologies and databases, such as Apache Beam, Hadoop, Spark, Kafka, Pub/Sub, Dataflow, BigQuery or Bigtable
+Prior exposure to general cloud solutions, such as Google Cloud Platform, Kubernetes, SQL/time series databases, etc.
+Outstanding communication skills
+Ability to prioritize and synthesize engineering tasks with first principles thinking
+Ability to rapidly pick up new technologies and techniques and implement them
+Bachelor's degree in computer science or a related field; master's degree or higher preferred
+Bonus Skills
+Experience with computer vision or video data processing
+Prior experience in working on-edge ML 
+ 
+Our Values
+Create Value: (1) Work backwards from the customer’s goals (2) Keep it simple (3) Be curious
+Make Decisions: (1) Bias towards action (2) Focus on getting it right, not on being right (3) Bet on the long term
+Work with Others: (1) Own your outcomes (2) Help your team (3) Communicate openly and deliberately
+ 
+What We Offer
+Base salary: $200 - 250k
+Long-term career growth and achievement opportunity
+Competitive salary + startup equity
+Medical, dental and vision coverage 
+401K with employer match
+14 weeks of paid parental leave
+Learning and development opportunities
+Remote flexibility 
+Work from home stipend to set-up home office
+Unlimited PTO
+ 
+We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status. 
+ 
+

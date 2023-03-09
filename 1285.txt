@@ -1,0 +1,24 @@
+
+Who we are
+About Stripe
+Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.
+About the team
+The Data Science team builds data and intelligence into our product, sales, and operations. This spans across building data foundations and applying statistical techniques and machine learning to measure and optimize our product, build data-driven products, and conduct in-depth analysis to inform strategic decisions.
+What you’ll do
+As a Senior Engineer you’ll be empowered to make decisions with a significant impact on Stripe, and help guide our investments and strategy while making our data reliable, secure, and a delight to use. You will be a key contributor to the next-generation of our metrics platform: from enabling metric accessibility and consistency to revamping our data warehouse with a goal to drastically improve data quality at scale. You will make a step-function difference in our Product, Engineering, and Science teams’ ability to understand Stripe’s business and make high-quality decisions that best serve our users. 
+Responsibilities
+Work closely with various cross-functional teams to develop and deliver tools or data structures to measure, optimize and scale our product offerings
+Perform all of the necessary data transformations to serve products that empower data-driven decision making.
+Engage with internal data platform and tools teams to prototype and validate tools developed in-house to derive insight from very large datasets or automate complex algorithms.
+Scope, design and implement solutions that make the appropriate tradeoffs between resiliency, durability, and performance while maintaining a high level of data quality.
+Who you are
+We’re looking for someone who meets the minimum requirements to be considered for the role. If you meet these requirements, you are encouraged to apply. The preferred qualifications are a bonus, not a requirement.
+Minimum requirements
+5+ years of experience working on a large scale data warehouse, experimentation, personalisation or targeting platforms.
+Strong coding skills in Scala, Python, Java or another language for building highly performant services
+Strong understanding of and practical experience with systems such as Hadoop, Spark, Presto, Iceberg, and Airflow
+Strong written and verbal communication skills with a talent for precise articulations of end-users problems.
+Experience with data modeling, ETL (Extraction, Transformation & Load) concepts, and patterns for efficient data governance.
+Experience building data-powered applications (either front-end or back-end development) through the entire lifecycle - requirements gathering, prototyping, development, testing, and deployment.
+ 
+

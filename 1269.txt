@@ -1,0 +1,41 @@
+
+Xendit provides payment infrastructure across Southeast Asia, with a focus on Indonesia and the Philippines. We process payments, power marketplaces, disburse payroll and loans, provide KYC solutions, prevent fraud, and help businesses grow exponentially. We serve our customers by providing a suite of world-class APIs, eCommerce platform integrations, and easy to use applications for individual entrepreneurs, SMEs, and enterprises alike.
+Our main focus is building the most advanced payment rails for Southeast Asia, with a clear goal in mind — to make payments across in SEA simple, secure and easy for everyone. We serve thousands of businesses ranging from SMEs to multinational enterprises, and process millions of transactions monthly. We’ve been growing rapidly since our inception in 2015, onboarding hundreds of new customers every month, and backed by global top-10 VCs. We’re proud to be featured on among the fastest growing companies by Y-Combinator.The Role
+You will be part of the Data engineering team and work on building a self-serve Data platform that enables internal stakeholders to generate value from data. Specifically you will join the Data lakehouse pod that owns the entire logic for processing data from various sources into the Data lakehouse, ensuring data quality, enabling data modeling, and similar. This role has potential to grow into a tech lead for the Data lakehouse pod.
+Outcomes
+Allow internal stakeholders to leverage data in a secure, reliable, and cost-efficient manner by providing easy-to-use tools and detailed documentation.
+Improve data pipeline logic to scale the number of concurrent jobs (Python, Spark, Airflow).
+Automate common data requests and unlock self-service (Retool, Flask)
+Simplify access to real-time data for various use-cases (Kafka, Spark Streaming, Delta).
+Ensure high data quality through automated tests and data contracts (Great expectations)
+Improve and maintain the Data lakehouse setup (S3, Trino, Delta).
+Collaborate with analysts, engineers, and business users to design solutions.
+Guide junior engineers and set engineering standards for the team. 
+Research innovative technologies and integrate it into our data infrastructure.
+What we’re looking for
+Behaviors
+You are willing and able to…
+You’re hungrier than your peers to succeed.
+You enjoy solving complex, challenging problems that drive meaningful results.
+You thrive on autonomy and can push towards a goal independently.
+You are organized and can manage your time well, meeting deadlines.
+You are a team player and willing to go the extra mile to ensure success.
+You are willing to learn - developing and honing your data engineering skills.
+You are coachable. Able to own mistakes, reflect, and take feedback with maturity and a willingness to improve.
+Experience
+4+ years of relevant experience as a data engineer.
+Demonstrated ability to integrate various data sources into a data warehouse/lakehouse.
+Working experience in transforming big datasets into clean, easy-to-use tables for further usage.
+Demonstrated ability to build high-volume batch and streaming pipelines (e.g. Spark, Kafka, Trino).
+Previous experience with designing and implementing data quality checks and alerting systems.
+Working experience in optimizing SQL queries (e.g. data partitioning, bucketing, indexing).
+Bachelor's degree in a technical field or equivalent work experience.
+Bonus points if you have worked on building a Data platform that enables stakeholders to self-serve.
+Relevant Skills
+Excellent knowledge of Python and SQL.
+Excellent knowledge of Apache Spark.
+You have experience with modern data tools such as Airflow, dbt, Kafka, Datahub, Trino, Databricks, Looker or similar. We don’t 
+You have experience with different databases/data storages and understand their trade-offs (e.g. S3, RDS, MongoDB, etc.).
+You have built data products that have scaled on AWS or another cloud.
+Strong written and verbal communication skills.
+

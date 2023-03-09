@@ -1,0 +1,40 @@
+
+84.51° Overview:
+84.51° is a retail data science, insights and media company. We help the Kroger company, consumer packaged goods companies, agencies, publishers and affiliated partners create more personalized and valuable experiences for shoppers across the path to purchase.
+Powered by cutting edge science, we leverage 1st party retail data from nearly 1 of 2 US households and 2BN+ transactions to fuel a more customer-centric journey utilizing 84.51° Insights, 84.51° Loyalty Marketing and our retail media advertising solution, Kroger Precision Marketing.
+Join us at 84.51°!
+__________________________________________________________
+ Lead, Data Scientist – Kroger Precision Marketing 
+Kroger Precision Marketing (KPM) powered by 84.51°, is a leading retail media advertising solution. KPM closes the loop between media exposure and store sales by using first-party purchase data to make brand advertising more addressable, actionable, and accountable. Launched almost three years ago, we have activated campaigns for over 1000 brands. Our vision is to become the preferred media company for advertisers by creating a more accountable media supply chain that increases the effectiveness of investment dollars. We are a growing team of passionate and talented analysts, data scientists, marketing consultants, and media strategists who are committed to transforming the media industry.
+As Lead, Data Scientist – Kroger Precision Marketing you are joining a community of analysts, data scientists, and software engineers – we are researchers in search of the customer story.  We are the voice of the customer.  Customers share their story with us each day, and it is our job to tell their story.  Our Analysis team is known for solving client and customer problems, employing the most appropriate statistical and analytic approaches. You will be hands on with respect to the analysis of media with a robust retailer database of 60MM households, using the full suite of 84.51° technical and visual tools – SQL, R, Python, Tableau, and other specific internal tools – to create timely, relevant, and actionable insights. 
+Responsibilities: 
+Partnering with the Self-Serve Offsite and Managed Service Portfolio teams to:
+Vet new media partnerships specific to targeting and measurement capabilities
+Optimize performance of existing media placements
+Partner with engineering to build data pipelines, create new analytic methodologies, and bring them to scale within our media measurement platform
+Our platform powers data science, client engagement, and our sales team to tell the story of advertising performance
+Meet with agency partners to ensure their understanding of our data assets, measurement techniques, and overall analytic capabilities
+Lead ad-hoc Kroger Precision Marketing research, ideation, and methodology work for our various media activations
+Think creatively when building analytics solutions in order to bring the most value to the user
+Be a data science / analytics ambassador to our engineering team. Able to explain the how and why around our analytics solutions
+Influence our platform and product creation with outside media analytics expertise
+Independently developing, defining, and completing custom projects and analytics that help drive media campaigns, customer insights, and client relationships forward
+Leading and managing projects, tasks, and stakeholders to ensure that projects are delivered on time, within budget and to brief specification
+Mentoring and developing junior data scientists on media measurement interpretation, results delivery, KPM-specific skills, and analytic techniques
+Challenging and improving 84.51° analytical capabilities/products
+Qualifications, Skills and Experience: 
+Bachelor’s or Masters degree or equivalent in statistics, mathematics, analytics, economics, or marketing
+4+ years of experience in analytics across ad technology, digital media and advertising
+4+ years of experience working with partners across software engineering and product management to develop and scale new features and enhancements
+4+ years of experience extracting and translating data from large, disparate data sources into actionable solutions
+3+ years of experience accessing and manipulating large datasets via SQL, R and/or Python with Python being strongly preferred.
+Strong interpersonal and communication skills including excellent verbal, written, presentation and consultation skills are required
+Strong analytical, problem-solving and decision-making skills
+Strong business acumen to link analysis to business impact
+Excellent attention to detail, organization skills and ability to work in a collaborative environment
+About 84.51°:
+84.51° knows customers, and we know how to connect you.
+Using a sophisticated, proprietary suite of tools and technology, we turn customer data into actionable knowledge. With unparalleled customer data and predictive analytics capabilities, we deliver personalized marketing strategies and ensure the best experience for customers of Kroger and more than 300 consumer-packaged-goods companies. We put the customer at the center of everything we do, resulting in a more dynamic, informed and personal approach to driving customer loyalty.
+#LI-Remote 
+#LI-SSS
+

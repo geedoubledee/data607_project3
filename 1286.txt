@@ -1,0 +1,55 @@
+
+Company Overview
+ID.me simplifies how people securely prove and share their identity online. The company empowers people to control their data through a portable and trusted login, which means they don’t need to create a new password when visiting sites that have the ID.me button.
+The COVID-19 pandemic accelerated digital migration for many critical services. Those services require a trusted identity to safeguard against fraud and help ensure people are who they claim to be. With ID.me, login and identity credentials move with people, which can reduce the time and frustration of having to verify at multiple sites and set up multiple passwords.
+ID.me is a credential service provider compliant with federal standards for digital identity verification. 
+In addition to helping people control their credentials and data, the company’s “No Identity Left Behind” initiative strives to expand access and inclusion for all people. The company offers multiple pathways to verification – online self-serve, live video chat agents, and in person. ID.me is passionate about building a robust identity network that does not compromise access for traditionally underserved groups.
+Role Overview
+ID.me is seeking a Data Engineer V to provide technical leadership and expertise to our ambitious data agenda. As a data-driven organization, ID.me is constantly looking to do more with our data to enhance the member experience, develop new products, and drive our machine learning agenda. As a Data Engineer V, you will be responsible for leading the design, development, and maintenance of the data infrastructure for our organization. You will work closely with data scientists, analytics engineers, developers, and product managers to understand their data needs and ensure that our data infrastructure is able to support their requirements.
+Responsibilities
+Lead the design and development of scalable data pipelines to support a variety of data-driven use cases, including real-time streaming, batch processing, and data warehousing.
+Develop and maintain data integration and ETL processes
+Develop and implement data engineering best practices, including testing, documentation, and code reviews.
+Collaborate with data scientists, analytics engineers, data analysts, and other stakeholders to understand data needs and ensure that data is reliable, accurate, and accessible
+Explore and evaluate new technologies and tools to improve the efficiency and effectiveness of the data engineering team.
+Mentor and guide more junior data engineers, helping them to develop their skills and grow within the organization.
+Implement data security and privacy controls
+Ideal Qualifications
+BS (MS Preferred) in a highly quantitative field (Computer Science, Engineering, Math, Operations Research, Physics, Statistics, or a related field)
+10+ years of experience in data engineering, software engineering, or a related field
+5+ years of experience with data warehousing technologies (Snowflake, BigQuery, Redshift)
+2+ years of experience using dbt for managing datasets 
+Strong knowledge of data management technologies, including SQL, NoSQL, and big data platforms such as Hadoop and Spark
+Expertise in data streaming technologies such as Apache Kafka or Google Cloud Pub/Sub.
+Extensive experience working with cloud-based data platforms, such as Amazon Web Services (AWS) or Google Cloud Platform (GCP)
+Experience using PySpark for data processing.
+Experience with Neo4j is a plus.
+Experience working in CICD framework and familiarity with data architecture and design
+Ability to work independently and autonomously, as well as part of a team
+Superb time management, prioritization of tasks and ability to meet deadlines with little supervision
+Ideal candidate will thrive in the following culture:
+Must have an obsession for building quality products 
+Ability to thrive when there are changing priorities and shifting of gears
+Strong oral and written communication skills
+Must be a team player with a strong, self-managing work ethic
+Must be a self-starter with a passion for software engineering, learning and continuous improvement
+Note that candidates must be located in the continental U.S.
+
+ 
+
+ID.me Covid Vaccination Requirement
+ID.me has a mandatory vaccination requirement where not prohibited by applicable federal or state law.
+All current and future employees are required to receive their COVID-19 vaccinations, unless a reasonable accommodation is approved. Employees not in compliance with this policy will be placed on leave and will be terminated if no valid reason for not getting the COVID-19 vaccine is provided.  
+Purpose: In accordance with ID.me's duty to provide and maintain a workplace that is free of known hazards, we are adopting this policy to safeguard the health of our employees and their families; our customers and visitors; and the community at large from COVID-19 that may be reduced by vaccinations. This policy will comply with all applicable laws and is based on guidance from the Centers for Disease Control and Prevention and local health authorities, as applicable.
+Reasonable Accommodation: Current and future employees in need of an exemption from this policy due to a medical reason, or because of a sincerely held religious belief must submit a completed Request for Accommodation form to the human resources department to begin the interactive accommodation process as soon as possible after vaccination deadlines have been announced (September 13th) and an offer of employment has been made. Accommodations will be granted where they do not cause ID.me undue hardship or pose a direct threat to the health and safety of others.
+Vision: To be the world's leading digital identity network empowering people to control their own information and to prove their credentials across all channels: online, call center, and in-person.
+Mission: To make the world a more trusted place by delivering the highest level of security with the least amount of friction at the lowest possible cost.
+People: We have an audacious mission. We aim to fix the identity layer of the internet. Billions of people will live better lives with more trust and convenience thanks to ID.me. We are like Special Forces. We take on the most difficult challenges with amazing teammates. 
+ID.me Core Values: *Don't be a jerk. *Always compete. *Ask questions like a 5-year old. *Inspire people with your passion. *Make something better every day. *Treat each customer like your favorite family member. *Own your mistakes so you can learn from them. *Details are everything. *Communicate like a scientist. *Be truthful (even when it's hard). *Reflect ID.me's values in your actions. *Act like an owner.
+ID.me Career Site & Culture Deck: https://www.id.me/careers
+ID.me maintains a work environment free from discrimination, where employees are treated with dignity and respect. All ID.me employees share in the responsibility for fulfilling our commitment to equal employment opportunity. ID.me does not discriminate against any employee or applicant on the basis of age, ancestry, color, family or medical care leave, gender identity or expression, genetic information, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran status, race, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable laws, regulations and ordinances. ID.me adheres to these principles in all aspects of employment, including recruitment, hiring, training, compensation, promotion, benefits, social and recreational programs, and discipline. In addition, ID.me's policy is to provide reasonable accommodation to qualified employees who have protected disabilities to the extent required by applicable laws, regulations and ordinances where a particular employee works. Upon request we will provide you with more information about such accommodations. 
+Please review our Privacy Policy, including our CCPA policy, at id.me/privacy. If you provide ID.me with any personally identifiable information you confirm that you have read and agree to be bound by the terms and conditions set out in our Privacy Policy.
+ID.me participates in E-Verify.
+#LI-JS1
+#LI-REMOTE
+

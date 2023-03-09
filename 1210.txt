@@ -1,0 +1,35 @@
+
+About G2 - Our People 
+G2 was founded to create a place where people will love to work. We strive to create meaning in work and provide more than just a job: a true calling. At the heart of our community and culture are our people. Our global G2 team comes from a wide range of backgrounds and experiences, and that’s what makes our G2 community  strong and vibrant. We want everyone to bring their authentic selves to work, and we do this through our company and team events, our G2 Gives charitable initiatives, and our Employee Resource Groups (ERGs). 
+Our employee-led, leadership-supported ERGs celebrate the diversity of our team, foster inclusivity and belonging, and create a space to connect to each other. Through connections and understanding, we build a stronger and more dynamic global team and help every person reach their personal peak.
+We support our employees by offering generous benefits, such as flexible work, ample parental leave, and unlimited PTO. Click here to learn more about our benefits. 
+ 
+About G2 - The Company
+When you join G2, you join the global team behind the largest and most trusted software marketplace. Every month, 5.5 million people come to G2 to inform smarter software decisions based on honest peer reviews. Authenticity is our focus, and every day we help thousands of companies, and hundreds of employees, propel their potential. Ready for meaningful work that starts and ends with compassion and heart? You’ve come to the right place.
+G2 is going through exciting growth! We’ve recently secured our Series D funding of $157 million, which will further allow us to grow and develop our product and people. Read about it here!
+ 
+About G2’s Intern Program
+G2’s Intern Program is back for the third summer, and we’re excited to have it be the biggest one yet!  You’ll be paired with an Intern Mentor who will guide you through your internship and set you up for success.  All interns will be invited to participate in  Professional Development and Social events. The Program will close with G2’s Mid-Year Meetup celebration, a global Hybrid event where you’ll be able to meet the majority of our US-based teams.  
+G2’s 2023 Summer Intern Program will be Hybrid - Interns are expected to work out of our Downtown Chicago Headquarters Tuesday through Thursday.
+About The Role
+The data science team creates features by collaborating with stakeholders, analyzing and building a variety of data science models, and promoting those models into a stable production environment. The data science intern will develop these skills through example and mentorship from the data science manager and senior team members. 
+As a member of the Data Science team you’ll be given the chance to work on a project that creates real value by extracting themes from G2’s 2 million software reviews and other datasets. Responsibilities will include:
+Using a variety of datasets, including traffic, reviews, discussion posts and search queries to  identify high interest topics in business software 
+Utilize natural language processing to analyze themes across different topics and software categories
+Create visualizations which highlight these themes and allow non-technical audiences to interact with the text and uncover new-insights 
+The pay rate for this position is $23/hr.
+Requirements
+A rising Senior at an accredited college or university
+Statistical programming experience (R/Python)
+Some familiarity with Machine Learning and/or NLP algorithms
+Some experience in data cleaning and statistical analysis
+Attention to detail and concern for accuracy.
+Strong Exploratory Data Analysis (EDA) & Problem Solving skills
+Excellent organization skills (email, task management, follow-up)
+Self-motivated and able to work collaboratively and independently, delivering on assigned tasks and responsibilities.
+Strong written and verbal communication skills
+Nice to have: experience with cloud ML infrastructure tools (AWS Sagemaker, etc)
+Our Commitment to Inclusivity and Diversity
+At G2, we are committed to creating an inclusive and diverse environment where people of every background can thrive and feel welcome. We consider applicants without regard to race, color, creed, religion, national origin, genetic information, gender identity or expression, sexual orientation, pregnancy, age, or marital, veteran, or physical or mental disability status. Learn more about our commitments here. 
+ 
+

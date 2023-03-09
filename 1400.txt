@@ -1,0 +1,43 @@
+
+
+        Job Title 
+
+        iOS App back-end development
+
+        Job Description
+
+        Fully remote opportunity. Initial task is back-end development of a multiplayer iOS word-game. Front-end development is already ongoing and so collaboration will be needed to ensure alignment.
+
+
+        Restrictions
+        Telecommuting is OK
+            
+
+            
+            No Agencies Please
+            
+        Requirements
+        Skills required:
+Python/Node.js/Ruby
+DB exp. such as MySQL/MongoDB
+Real-time comms protocols such as WebSockets, game state synch and multiplayer game design
+Firebase inc. FCM or APNS, Firebase performance monitoring
+Payment gateway integrations, React Native / Xamarin
+APIs: REST/ GraphQL & API security & authentication
+Security: SSL/TLS and OAuth
+SDK integration
+About the Company
+        Jam Factory Games is a start-up mobile game studio, run by professionals with over 15 years experience in director-level roles aswell as founding previous successful start-ups. We're looking for a back-end developer to work on some of our exciting launch titles and potentially join the team on a longer term basis going forwards!
+
+        
+
+        Contact Info
+        Contact: Dawud
+            
+
+            E-mail contact: dawud@jamfactorygames.com
+
+            
+            Web: https://be-games.co.uk/
+            
+        

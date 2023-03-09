@@ -49,7 +49,7 @@ con <- DBI::dbConnect(
 ```{r db_write1}
 tables <- dbListTables(con)
 jobs_df <- dbReadTable(con, "_Jobs")
-datatable(jobs_df, options = list(pageLength = 25))
+datatable(jobs_df[, -3], options = list(pageLength = 25))
 dbDisconnect(con)
 
 ```
@@ -201,6 +201,76 @@ for (i in 1:nrow(jobs_df)){
 
 ```
 
+## Manual Data Collection for LinkedIn:
+
+```{r manual1}
+manual <- jobs_df %>%
+    filter(Job_complete == -1 & Site_id == 1001)
+write.csv(manual, "manual.csv", row.names = FALSE)
+
+```
+
+We look up the job descriptions for the job listings in the manual.csv file manually, and we save them as column eight of a manual_edited.csv file. If we find a job description, we change the Job_complete value to 1. If we don't, we can just delete that row. If a previous file exists, we save over it. We then upload the saved manual_edited.csv file to github before continuing. 
+
+```{r manual2}
+file <- "https://raw.githubusercontent.com/geedoubledee/data607_project3/main/manual_edited.csv"
+
+manual_edited <- read.csv(file = file, header = TRUE)
+for (i in 1:nrow(manual_edited)){
+    job_id <- manual_edited[i, 1]
+    if (jobs_df[job_id, 7] != 1){
+        job_desc <- manual_edited[i, 8]
+        jobs_df[job_id, 7] <- manual_edited[i, 7]
+        fn <- paste(job_id, ".txt", sep = "")
+        writeLines(job_desc, con = fn)
+    }
+}
+
+```
+
+## Add Previously Scraped (Nov. 2022) Data for Indeed Jobs (Source: Kaggle)
+
+```{r kaggle_indeed}
+
+completed_files <- readLines("completed_files.txt")
+
+if (!("data_science_jobs_indeed_usa.csv" %in% completed_files)){
+    file <- "https://raw.githubusercontent.com/geedoubledee/data607_project3/main/data_science_jobs_indeed_usa.csv"
+    kaggle_indeed <- read.csv(file = file, header = TRUE)
+    kaggle_indeed <- subset(kaggle_indeed, select = -c(1, 5, 6, 7, 8))
+    cols <- c("Job_title", "Job_company", "Job_location", "Job_url",
+              "Job_description")
+    colnames(kaggle_indeed) <- cols
+    ids <- seq((nrow(jobs_df) + 1), (nrow(jobs_df) + nrow(kaggle_indeed)))
+    Job_id <- as.data.frame(matrix(ids, nrow = nrow(kaggle_indeed),
+                                   ncol = 1))
+    Site_id <- as.data.frame(matrix(2593879, nrow = nrow(kaggle_indeed),
+                                    ncol = 1))
+    Job_complete <- as.data.frame(matrix(0, nrow = nrow(kaggle_indeed),
+                                         ncol = 1))
+    colnames(Site_id) <- "Site_id"
+    colnames(Job_id) <- "Job_id"
+    colnames(Job_complete) <- "Job_complete"
+    kaggle_indeed <- cbind(kaggle_indeed, Job_id, Site_id, Job_complete)
+    rownames(kaggle_indeed) <- NULL
+    kaggle_indeed <- kaggle_indeed[c("Job_id", "Job_title", "Job_url",
+                                     "Job_company", "Job_location",
+                                     "Site_id", "Job_complete",
+                                     "Job_description")]
+    jobs_df <- rbind(jobs_df, subset(kaggle_indeed, select = 1:7))
+    for (i in 1:nrow(kaggle_indeed)){
+        job_id <- kaggle_indeed[i, 1]
+        job_desc <- kaggle_indeed[i, 8]
+        jobs_df[job_id, 7] <- 1
+        fn <- paste(job_id, ".txt", sep = "")
+        writeLines(job_desc, con = fn)
+    }
+    write("data_science_jobs_indeed_usa.csv", file = "completed_files.txt",
+          append = TRUE)
+}
+
+```
+
 ## Connect to the SQL Data Base:
 
 ```{r db_con2}
@@ -213,117 +283,115 @@ con <- DBI::dbConnect(
 
 ```
 
-## Write to the SQL Data Base and Disconnect:
+## Write to the SQL Data Base Only If There Were Changes and Disconnect:
 
 ```{r db_write2}
 tables <- dbListTables(con)
-dbWriteTable(con, "_Jobs", jobs_df, overwrite = TRUE)
-dbDisconnect(con)
+copy <- dbReadTable(con, "_Jobs")
 
-```
-
-## Manual Data Collection for Linkedin:
-
-```{r manual}
-manual <- jobs_df %>%
-    filter(Job_complete == -1)
-write.csv(manual, "manual.csv", row.names = FALSE)
-
-file <- "https://raw.githubusercontent.com/geedoubledee/data607_project3/main/manual_edited.csv"
-
-manual_edited <- read.csv(file = file, header = TRUE)
-for (i in 1:nrow(manual_edited)){
-    job_id <- manual_edited[i, 1]
-    job_desc <- manual_edited[i, 8]
-    jobs_df[job_id, 7] <- manual_edited[i, 7]
-    fn <- paste(job_id, ".txt", sep = "")
-    writeLines(job_desc, con = fn)
+if (!identical(jobs_df, copy)){
+    dbWriteTable(con, "_Jobs", jobs_df, overwrite = TRUE)
 }
 
-```
-
-## Connect to the SQL Data Base:
-
-```{r db_con3}
-con <- DBI::dbConnect(
-  RMariaDB::MariaDB(),
-  dbname = "dat_sci_jobs",
-  username = "root",
-  password = as.character(read.table("sql_db.txt", header = FALSE)),
-  host = "35.227.102.234")
-
-```
-
-## Write to the SQL Data Base and Disconnect:
-
-```{r db_write3}
-tables <- dbListTables(con)
-dbWriteTable(con, "_Jobs", jobs_df, overwrite = TRUE)
 dbDisconnect(con)
 
 ```
 
-## Analyze the CSV Job Descriptions with TidyText
+## Set Up a Text Data Frame from the TXT Job Description Files
 
-```{r tidytext_analysis}
+```{r tidytext_setup}
 
 files <- list.files(pattern = "^[1-9]+.*txt$")
-completed_txt_files <- readLines("completed_txt_files.txt")
-my_url_text_df <- "https://raw.githubusercontent.com/geedoubledee/data607_project3/main/text_df.csv"
-text_df <- read.csv(file = my_url_text_df, header = TRUE)
-
 if (length(files) > 0){
     file.copy(from = paste0(getwd(), "/", files),
-          to = paste0(getwd(), "/jobs-txt/", files))
+              to = paste0(getwd(), "/jobs-txt/", files))
     file.remove(from = paste0(getwd(), "/", files))
-    url_base <- "https://raw.githubusercontent.com/geedoubledee/data607_project3/main/jobs-txt/"
-    cols <- c("Text", "Job_id", "Line")
-    colnames(new_text_df) <- cols
-    for (i in 1:length(files)){
-        if (!(files[i] %in% completed_txt_files)){
-            file <- paste(url_base, files[i], sep = "")
-            job_id <- str_replace(files[i], ".txt", "")
-            lines <- readLines(file)
-            for (j in 1:length(lines)){
-                col2 <- matrix(job_id, nrow = length(lines), ncol = 1)
-                col3 <- matrix(1:length(lines),
-                               nrow = length(lines),
-                               ncol = 1)
-            }
-            completed_txt_files <- append(completed_txt_files, files[i])
-            addition <- cbind(lines, col2, col3)
-            colnames(addition) <- cols
-            text_df <- rbind(text_df, addition)
-        }
-    }
-    writeLines(completed_txt_files, "completed_txt_files.txt")
-    rownames(text_df) <- NULL
-    text_df <- text_df[c("Text", "Job_id", "Line")]
-    write.csv(text_df, "text_df.csv", row.names = FALSE)
 }
+
+files <- list.files(path = paste0(getwd(), "/jobs-txt/"),
+                    pattern = "^[1-9]+.*txt$")
+
+cols <- c("Text", "Job_id", "Line")
+
+completed_txt_files <- readLines("completed_txt_files.txt")
+if (length(completed_txt_files) == 0){
+    text_df <- as.data.frame(matrix(nrow = 0, ncol = 3))
+    colnames(text_df) <- cols
+}else{
+    my_url <- "https://raw.githubusercontent.com/geedoubledee/data607_project3/main/text_df.csv"
+    text_df <- read.csv(file = my_url, header = TRUE)
+}
+
+url_base <- "https://raw.githubusercontent.com/geedoubledee/data607_project3/main/jobs-txt/"
+
+for (i in 1:length(files)){
+    if (!(files[i] %in% completed_txt_files)){
+        file <- paste(url_base, files[i], sep = "")
+        job_id <- str_replace(files[i], ".txt", "")
+        lines <- readLines(file)
+        for (j in 1:length(lines)){
+            col2 <- matrix(job_id, nrow = length(lines), ncol = 1)
+            col3 <- matrix(1:length(lines),
+                           nrow = length(lines),
+                           ncol = 1)
+        }
+        addition <- cbind(lines, col2, col3)
+        colnames(addition) <- cols
+        text_df <- rbind(text_df, addition)
+        write(files[i], file = "completed_txt_files.txt", append = TRUE)
+    }
+}
+
+rownames(text_df) <- NULL
+write.csv(text_df, "text_df.csv", row.names = FALSE)
+
+```
+
+## Analyze the Text Data Frame with Tidytext
+
+```{r tidytext_analysis}
 
 tidy_text_df_words <- text_df %>%
     unnest_tokens(word, Text)
 
 tidy_text_words_analysis <- tidy_text_df_words %>%
     anti_join(get_stopwords()) %>%
-    count(word, sort = TRUE)
+    group_by(word) %>%
+    summarize(term_freq = n(), doc_count = n_distinct(Job_id)) %>%
+    arrange(desc(doc_count))
     
 datatable(tidy_text_words_analysis, options = list(pageLength = 25))
 
 tidy_text_words_analysis %>%
-    with(wordcloud(word, n, max.words = 50))
+    with(wordcloud(word, doc_count, max.words = 50))
 
 tidy_text_df_bigrams <- text_df %>%
     unnest_tokens(bigram, Text, token = "ngrams", n = 2)
 
 tidy_text_bigrams_analysis <- tidy_text_df_bigrams %>%
-    count(bigram, sort = TRUE)
+    group_by(bigram) %>%
+    summarize(term_freq = n(), doc_count = n_distinct(Job_id)) %>%
+    arrange(desc(doc_count))
 
 datatable(tidy_text_bigrams_analysis, options = list(pageLength = 25))
 
 tidy_text_bigrams_analysis %>%
-    with(wordcloud(bigram, n, max.words = 50))
+    with(wordcloud(bigram, doc_count, max.words = 50))
+
+tidy_text_df_trigrams <- text_df %>%
+    unnest_tokens(trigram, Text, token = "ngrams", n = 3)
+
+tidy_text_trigrams_analysis <- tidy_text_df_trigrams %>%
+    group_by(trigram) %>%
+    summarize(term_freq = n(), doc_count = n_distinct(Job_id)) %>%
+    arrange(desc(doc_count))
+
+datatable(tidy_text_trigrams_analysis, options = list(pageLength = 25))
+
+tidy_text_trigrams_analysis %>%
+    with(wordcloud(trigram, doc_count, max.words = 50))
+
+
 
 ```
 

@@ -1,0 +1,39 @@
+Stefanini Group is hiring!
+Do you want to be a part of a highly innovative, digitally transformative team and work on cutting-edge, state-of-the-art technologies? If yes, then this is for you!
+Responsibilities:
+Responsible for developing quality software applications.
+Understands and documents global, regional, and local business processes for a specific business area (e.g., finance, supply chain).
+Knowledgeable of, configures and/or develops systems to support initial implementations and subsequent process optimization efforts.
+Works with IT team members to maintain solutions and ensure systems meet the needs of the global organization in terms of functionality and quality.
+Provides support to business associates on systems use as needed.
+Undergraduate Degree (e.g., BA, BS) preferred in computer science, information technology or a related discipline.
+Minimum Year(s) of Experience:
+6 years of experience in IT Operations and Data Analytics
+Knowledge Preferred:
+Demonstrates intimate knowledge of, and/or proven records of success in managerial roles involving, the design, deployment, and management of directing data and related analytics in a partnership model, preferably for global network of professional services firms, emphasizing the following areas:
+Business capabilities and strategic business modeling
+Benchmarking, research, analyst services, technology platforms, data modeling, database design, data management and reporting technologies, governance, data technologies – both industry-leading and emerging, and SDLC – especially software project management, requirements, design, and testing techniques
+Finance and/or Information Technology Operations.
+Performance of qualitative and quantitative data analytics, leveraging problem solving and creativity when engaging in complex, broad, and ambiguously-defined strategic issues.
+Skills Preferred:
+Demonstrates intimate level of abilities and/or proven record of success with managing data and analytics service across US IT Operations, while maintaining an understanding of current services and envisioned capabilities for a global network of professional services firms, emphasizing the following areas:
+Setting data architecture principles, creating models of data that enable the implementation of the intended business architecture, creating diagrams showing key data entities, and creating an inventory of the data needed to implement the architecture vision.
+Identifying and addressing customer needs: developing and sustaining extensive customer relationships using networking, negotiation and persuasion skills to identify and offer potential new service opportunities.
+Translating industry specific knowledge into service improvement opportunities yielding quantifiable results.
+Preparing and presenting complex written and verbal materials.
+Defining resource requirements, project workflow, and budget management.
+Influencing others in a leadership capacity for an assigned customer, proactively building strong working relationships within assigned customers organizations to understand how US IT Operations services can be used to further customers business goals.
+Performing as a team lead, leading teams to generate a vision, establish direction and motivate members, as well as create an atmosphere of trust, leverage diverse views, coach staff, to encourage improvement and innovation."
+Who We Are
+The Stefanini Group is a global provider of offshore, onshore, and nearshore outsourcing, IT digital consulting, systems integration, application, and strategic staffing services to Fortune 1000 enterprises around the world. Our presence is, and Asia. More Americas, Europe, Africa, and Asia, and more than 400 clients across a broad spectrum of markets, including financial services, manufacturing, telecommunications, chemical services, technology, public sector, and utilities. Stefanini is a CMM level 5, IT consulting, company with a global presence. We are CMM Level 5 company.
+Job Types: Full-time, Contract
+Salary: $55.00 - $65.00 per hour
+Schedule:
+8 hour shift
+Application Question(s):
+Can you work on W2?
+Experience:
+Data analytics: 5 years (Preferred)
+Azure: 3 years (Preferred)
+Power BI: 3 years (Preferred)
+Work Location: Remote

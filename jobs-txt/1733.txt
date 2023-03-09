@@ -1,0 +1,28 @@
+Department Summary:
+DISH is a Fortune 200 company that continues to redefine the communications industry. Our legacy is innovation and a willingness to challenge the status quo, including reinventing ourselves. We disrupted the pay-TV industry in the mid-90s with the launch of the DISH satellite TV service, taking on some of the largest U.S. corporations in the process, and grew to be the fourth-largest pay-TV provider. We are doing it again with the first live, internet-delivered TV service – Sling TV – that bucks traditional pay-TV norms and gives consumers a truly new way to access and watch television.
+Now we have our sights set on upending the wireless industry and unseating the entrenched incumbent carriers.
+We are driven by curiosity, pride, adventure, and a desire to win – it’s in our DNA. We’re looking for people with boundless energy, intelligence, and an overwhelming need to achieve, to join our team as we embark on the next chapter of our story.
+Opportunity is here. We are DISH.
+Job Duties and Responsibilities:
+At DISH, we operate a very complex set of business-critical applications that facilitate the Sales, Marketing, and Customer Service of all DISH products. The Oracle DBA is responsible for day-to-day operations and executing key initiatives for IT. The candidate must bring a strong desire to contribute to the fast-paced team by sharing ideas and being willing to learn. The ideal candidate has a strong background in database administration with Relational Databases in an enterprise setting. Primary responsibilities include but are not limited to:
+Install, configure, patch, and upgrade Databases: Oracle (19c) and either
+PostgreSQL (12+) or Mongo(4+).
+Proactively monitor production databases for Performance and Stability.
+Participate in on-call production support on a rotation basis.
+Provide DBA support for Enterprise Releases Deployments and Projects.
+Provide technical guidance to software developers in data modeling and performance optimization techniques.
+Automate administrative tasks using scripting languages and utilities.
+Follow established standards. Document new processes and procedures when appropriate.
+Promptly create Incident Reports to build/update Knowledge Base.
+Skills, Experience and Requirements:
+Bachelor’s degree in Computer science or Information Systems or an equivalent experience with a minimum of 10+ years in Oracle and 3+ years in Mongo or Postgres.
+Hands-on experience managing databases both in private Data Centers as well as on the AWS cloud.
+Experience Administering and Optimizing TB databases on Linux systems.
+Familiarity with Database Monitoring & debugging tools.
+Ability to multi-task and work independently on projects.
+Ability to effectively communicate, prioritize and execute tasks in a high-pressure environment.
+Benefits:
+From versatile health perks to new career opportunities, check out our benefits on our careers website.
+
+Employment is contingent on successful completion of a pre-employment criminal background check, which may include a drug test.
+Salary Range: USD $106250.00 - $143450.00 / Year

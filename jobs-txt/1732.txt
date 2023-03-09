@@ -1,0 +1,42 @@
+About EliseAI
+Our company was born with a powerful vision: to improve business efficiency without sacrificing human connection to make quality housing more accessible. With that vision in mind, we built Elise — our revolutionary conversational AI that can answer any and every question in real time, automate business processes, and allow seamless collaboration between teams.
+At EliseAI, our skilled team of engineers, sales and operations talent is building the future of conversational AI. EliseAI is well-funded by VCs, strategic real estate investors, and customers and was started by technical co-founders from MIT and the University of Cambridge.
+About the role
+EliseAI is growing quickly and you'll be using our data deriving insights that drive product strategy. You will work closely with the software development and automation teams, designing and building out the infrastructure for 24/7 service for our first million apartments and beyond. You will have a huge impact on a product used by thousands of people a day. We are a fully in-office company with a beautiful new office located at E 33rd Street and Park Ave.
+What you'll do
+Build our core conversational AI that automates the leasing process and helps our customers operate their apartment communities more efficiently.
+Develop new features that increase value for our customers.
+Design meaningful improvements to our ML Ops and data infrastructure
+Propose meaningful improvements to our software architecture and design patterns.
+Research and publish innovative approaches to conversational AI
+
+About you
+We're looking for someone who
+Is driven and excited to join a highly productive team composed of engineers and scientists at a fast-growing startup
+Has 2+ years of coding experience in Python or another language
+Has hands-on experience with deep learning frameworks such as Pytorch or TensorFlow
+Has strong fundamentals in machine learning and statistics evidenced by a track record of independent quantitative research (academic or industry) or projects
+Has Bachelor's or Master's degree in computer science or a related quantitative field
+Willing to work in person at NYC headquarters with your team 4-5 days per week
+Nice to haves include
+PHD in quantitative discipline such as computer science, physics, or similar
+Experience putting machine learning models into production
+Experience with natural language processing, especially conversational AI
+Linux/Unix experience
+Familiarity with AWS or similar cloud provider
+Why join
+Growth and impact. It's not often that you can get in on the ground floor of a funded startup that's scaling. That means that instead of following a playbook, you'll be writing it. Every single day you will be challenged to identify how we can scale and execute on it. You'll learn what works when you succeed and what doesn't when you fail. Either way, the rest of the team will be here to support you.
+Benefits
+In addition to the growth and impact you'll have at EliseAI, we offer competitive salaries along with the following benefits:
+Equity in the company in the form of stock options
+Medical, Dental and Vision premiums covered at 100%
+Fully paid parental leave
+Commuter benefits
+401k benefits
+Monthly fitness stipend
+Our brand new Midtown south office with an open floor plan, fully stocked kitchen, and company paid lunch
+Fun company social events through our Elise and the City program
+Unlimited vacation and paid holidays
+We'll cover relocation packages from outside of the Greater NYC metro area - we'll make the move exciting, not painful.
+Job Compensation Range:
+The salary range for this role is $225,000 - $350,000. EliseAI offers a competitive total rewards package which includes base salary, equity, and a comprehensive benefits & perks package. Exact compensation inclusive of salary and any bonuses is determined based on a number of factors including experience and skill level, location and qualifications which are assessed during the interview process. Additional details about total compensation and benefits will be provided by our Recruiting Team during the hiring process.

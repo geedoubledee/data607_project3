@@ -1,0 +1,66 @@
+Come build the next-gen fintech at Early Warning, network operator of Zelle®, where we’re relentlessly focused on empowering prosperity in all its forms.
+From fast money movement for over 100 million people who can access Zelle® directly through their banking app to new account opening and beyond – we make a difference in the lives of consumers and businesses every day and enable them to live their best financial lives. And we’re only getting started.
+With new state-of the-art offices in Scottsdale, AZ (Headquarters) and Chicago, IL – plus a growing presence in San Francisco – we’re entering our next big chapter. We focus all hiring efforts in a few states and within driving distance of an office location to enable in-person collaboration when and where possible. Priority hiring locations are Scottsdale, AZ, Illinois, NY tri-state metro area (New Jersey, New York and Connecticut) and San Francisco, CA. On exception we will hire in secondary locations such as District of Columbia, Florida, Georgia, Maryland, Nevada, North Carolina, South Carolina, Texas and Virginia. We are not actively recruiting in Colorado, Rhode Island or Washington.
+
+People matter to us, so we think our best work is done when we’re together, in-person. From informal interactions, to sharing ideas, to mentoring and beyond. We also believe in workplace flexibility and empowering teams to determine the rhythm of work to create an inclusive culture. Through the power of innovative collaboration, we offer hybrid and (when necessary) virtual (“remote”) workplace models.
+
+Join us and make your mark on what’s next in fintech.
+Applicants must be authorized to work for any employer in the United States. We are unable to sponsor an employment Visa for this position.
+Overall Purpose
+
+This position serves as a data science team member in the company delivering leading edge machine learning and artificial intelligence concepts from start to finish in collaboration with senior technical and business leaders. This includes understanding the business problem, aggregating, and exploring data, building, and validating algorithms, quantifying the value of the model to Early Warning Customers by performing simulations utilizing real world inputs, understanding, and articulating the model risks, deploying completed models to deliver business results and regularly measuring model accuracy, drift and performance.
+
+Essential Functions
+Produces standard and ad hoc analytic reports.
+Assists with developing, testing, and documenting open-source codes for data analysis and modeling.
+Performs data analysis tasks, which include programming data transformations, interpreting results and investigating root causes.
+Participates in the creation of Internal model validation procedures, supporting external Model Validations, and performing regular model validation as part of the Model Risk Management program.
+Explore and aggregate data independently to uncover data anomalies that impact algorithm performance
+End to end feature engineering - brainstorm, create, validate, down-select, etc.
+Write production level code in a dynamic, fast paced environment
+Apply of a variety of machine learning techniques to a business problem to arrive at optimal approach
+Partner with Product and Engineering teams to solve problems and identify trends and opportunities
+Partnering with Sales and Products to perform Customer Value tests to support the company’s business development efforts for current and future Models.
+Explain and visualize results and algorithm performance to non-technical audiences
+Support the company's commitment to protect the integrity and confidentiality of systems and data.
+Minimum Qualifications
+Bachelor’s Degree in Engineering, Mathematics, Statistics, Computer Science, Operational Research or related field or equivalent work experience.
+A minimum of 2 years data science, engineering, mathematics, or related work/ intern/ course experience is required with Bachelor's degree or Master's degree without experience (or some internship)
+Able to write Model development technical documents.
+Willingness to troubleshoot system/data issues hindering the analytics environment functionality.
+Experience using data visualization tools.
+Able to write production level code, which is well-written and explainable.
+SAS, Python, SQL or R programming training or experience.
+Experience applying various machine learning techniques and understanding the key parameters that affect their performance.
+Ability to effectively communicate findings from complex analyses to non-technical audiences. Ability to communicate with various levels of employees within the department and proven technical and analytical skills.
+Ability and adaptability to work on multiple projects concurrently, manipulate large data sets and produce business-relevant results.
+Background and drug screen
+Preferred Qualifications
+Master’s in Mathematics, Statistics, Computer Science, Engineering, Operational Research, or related field preferred.
+Knowledge of ML algorithms
+Experience using ML-related libraries, such as scikit-learn, pandas, etc.
+Experience in writing and tuning SQL.
+Experience developing data science pipelines & workflows in Python, R or equivalent programming languages.
+Demonstrable track record of dealing well with ambiguity, prioritizing needs, and delivering results in a dynamic environment.
+
+Physical Requirements
+
+Working conditions consist of a normal office environment. Work is primarily sedentary and requires extensive use of a computer and involves sitting for periods of approximately four hours. Work may require occasional standing, walking, kneeling, and reaching. Must be able to lift 10 pounds occasionally and/or negligible amount of force frequently. Requires visual acuity and dexterity to view, prepare, and manipulate documents and office equipment including personal computers. Requires the ability to communicate with internal and/or external customers.
+Employee must be able to perform essential functions and physical requirements of position with or without reasonable accommodation.
+
+The above job description is not intended to be an all-inclusive list of duties and standards of the position. Incumbents will follow instructions and perform other related duties as assigned by their supervisor.
+
+Early Warning Services is an equal opportunity employer.
+Some of the Ways We Prioritize Your Health and Happiness
+
+Healthcare Coverage – Competitive medical (PPO/HDHP), dental, and vision plans as well as company contributions to your Health Savings Account (HSA) or pre-tax savings through flexible spending accounts (FSA) for commuting, health & dependent care expenses.
+401(k) Retirement Plan – Featuring a 100% Company Safe Harbor Match on your first 5% deferral immediately upon eligibility.
+12 weeks of Paid Parental Leave
+Paid Time Off – Unlimited Time Off for Exempt (salaried) employees, as well as generous PTO for Non-Exempt (hourly) employees, plus 11 paid company holidays
+Maven Family Planning – provides support through your Parenting journey including egg freezing, fertility, adoption, surrogacy, pregnancy, postpartum, early pediatrics, and returning to work.
+And SO much more! We continue to enhance our program, so be sure to
+check our Benefits page here
+for the latest.
+
+Unlimited Time Off available to regular, full-time exempt roles only. Our team can share more during the interview process!
+Early Warning Services is an Equal Opportunity employer. All qualified applicants and employees will receive consideration for employment without regard to race, color, religion, religious creed, ethnicity, ancestry, national origin, sex, pregnancy, age, marital status, sexual orientation, gender identity or expression, citizenship, ancestry, disability, veteran status, genetic information or any other characteristic protected by law.

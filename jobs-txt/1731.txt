@@ -1,0 +1,37 @@
+Are you passionate about writing software to analyze images?
+Do you enjoy playing with Arduino boards, or Raspberry PI?
+Are you fascinated by neural networks, deep learning, and all things AI?
+Are you seeking a challenging job that is never boring?
+We challenge you to apply to join our team today!
+Responsibilities:
+Design and develop system software for automated control of processes.
+Design and develop system software for automated inspection of product quality using machine vision and image processing.
+Program PCs and/or PLCs for automation.
+Support and improve existing customer automation systems.
+Support deployment at customers
+On-going support and gradual improvement over the life-cycle of an automation system.
+Requirements:
+BS in Electrical Engineering, Automation Engineering, Computer Engineering or Computer Science.
+MUST HAVE-Solid understanding of computer programming and software development.
+MUST HAVE-Ability to program algorithms using C++, C# or C.
+Ability to create basic graphical user interfaces (GUI, HMI or MMI) for operator control.
+Knowledge of image processing concepts and algorithms.
+Good Project Management skills.
+Ability to work independently.
+Job Highlights:
+Highly competitive compensation
+Work for a small and highly mobile engineering firm
+Very flexible schedule
+Perfect situation for an individual motivated to succeed and grow
+Software running on multiple platforms, from embedded to PLCs, PCs using Windows or Linux
+Ability to wear multiple hats, learn multiple systems/strategies, develop own ideas
+Skills/Qualifications/Keywords:
+Automation, engineer, algorithms, vision, image processing, systems, project management, GUI, programming
+Job Type: Full-time
+Benefits:
+401(k) matching
+Health insurance
+Paid time off
+Schedule:
+Monday to Friday
+Work Location: One location

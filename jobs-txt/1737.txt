@@ -1,0 +1,16 @@
+Summary
+Posted: Jun 14, 2022
+Role Number: 200391714
+Do you thrive on working at analyzing state-of-the-art deep learning algorithms? Do you have a passion for constructing automation pipelines? Are you highly organized and meticulous? As part of our Video Engineering group, you’ll help deliver creative solutions to various problems that could impact the people all over the world. Our data scientist will work closely with other members of the Video Engineering group to mine data, implement model evaluation pipeline, analyze large scale data, visualize data, and ensure the delivery is of the highest quality. This position will also require strong coding skills, presentation skills, and collaborating with multiple teams (ex: machine learning, cloud infrastructure support).
+Key Qualifications
+An obsession for quality & great insight for data
+Background in Data science, Statistics, Machine learning, Computer vision background is a plus
+Experience working with large scale data sets
+Solid programming skills with Python, C/C++ is a plus
+Experience with data visualization and presentation, familiar with data analysis tools such as Tableau
+Excellent problem solving and communication skills
+Description
+The responsibilities of this position includes but not limited to the following for current and future products: Implement algorithm evaluation methods Deep-dive failure analysis and pattern mining Develop interpretation methods for deep learning models Produce / present meaningful data insights with visualizations to higher-ups and across various involved teams
+Education & Experience
+Masters in Computer Science or bachelors with related work experience
+Additional Requirements

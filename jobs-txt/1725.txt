@@ -1,0 +1,41 @@
+JOB DUTIES
+* Builds and maintains Azure data platform for enterprise data lake and data warehouse in alignment with strategic objectives and organizational goals
+* Incorporates Azure data platform best practices into Azure data platform
+* Develops policies and implements mechanisms for data ingestion into Azure data platform from various sources
+* Supports & mentors the data team on best practices & methodologies
+* Leads navigating challenging or technical situations to find best business outcomes
+* Works with Microsoft support to ensure an ongoing stable data system.
+* Configures, validates, and implements various Azure tools such as but not limited to Databricks, Data Factory, Data Lake, Synapse Analytics and Data Catalog as appropriate
+* Works with the Manager, Data Architecture to define and implement robust data governance, certification, and management policies and mechanisms
+* Converts functional requirements into technical specifications; creates technical documentation as needed
+* Develops and maintains relationships with vendors
+* Assists in maintaining business documentation for the data and data structure in the data warehouse
+* Other duties as assigned
+* Configures APIs for data extraction
+* Creates and organizes Data Lake and Azure Synapse serverless objects to optimize performance
+* Actively collaborates with the business intelligence team, business teams, project teams, and others to understand data requirements, integration needs, constraints, and performance requirements
+REQUIREMENTS
+* Bachelor's Degree in Computer or Data Science, Data Analytics, Statistics, or Information Management (Required)
+* 3 years experience designing and building enterprise data lake
+* 5 years experience designing and building an enterprise data warehouse
+* 5 years of experience in modern data platforms based on Azure including but not limited to Azure Data Lake, Azure Data Factory, Azure Databricks, Synapse Analytics (Required)
+* Proficient in creating data factory pipelines; copy activity, custom Azure development, custom databricks development (Required)
+* Experience with ELT and ETL processes (Required)
+* Advanced SQL experience and organizing database for query performance (Required)
+* Experience with one or more object-oriented programming languages such as Python, C#, Java or JavaScript (Required)
+* Experience using big data file formats and compression techniques
+* Experience with CI/CD processes and Azure DevOps
+* Ability to effectively manage multiple and competing priorities in a dynamic and fast-paced environment
+* Exceptional organizational skills
+* Strong attention to detail
+* Ability to work well with others inside as well as outside the organization
+* Excellent verbal and written communication skills
+Job Type: Contract
+Pay: $84,640.53 - $190,765.69 per year
+Schedule:
+Monday to Friday
+Experience:
+Informatica: 1 year (Preferred)
+SQL: 1 year (Preferred)
+Data warehouse: 1 year (Preferred)
+Work Location: Remote

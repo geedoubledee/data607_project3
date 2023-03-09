@@ -1,0 +1,29 @@
+Job Description
+The Opportunity
+Endeavor Digital is looking for a seasoned data science leader to uplevel our data science organization and help commercialize our offerings both inside and outside Endeavor. Your role ensures that our data science offerings leverage the full power of Endeavor’s first party customer data to build new products and services for both businesses and consumers. This work assists in Endeavor’s Digital transformation which is seen as crucial to its ongoing success. You will work directly with cross functional leaders across Endeavor and within the Endeavor Digital team and closely partner with our engineering organization.
+Though most of us call NYC home, you can work from anywhere in the United States.
+Who You Are
+You have 5+ years experience working in data science and analytics at a company where the primary offerings include digital marketplaces, streaming technology, data and marketing technology infrastructure, and business consulting services
+You have 3+ years experience working in an environment where your primary partners are product managers, executives, marketing leads, engineering leads, and finance leads
+You have 2+ years of experience managing and scaling a data science and analytics team
+You have professional experience working with data processing languages such as SQL, Python, R, SAS, Excel
+You have professional exposure to CI/ CD and version control systems such as GitHub and orchestration systems such as Prefect, Airflow, Kubeflow, Luigi etc.
+You have a master’s degree or higher in a STEM discipline, ideally computer science, finance, statistics, economics, neuroscience, mathematics or physics
+You have hands on experience working with cloud based data processing tools such as Snowflake, BigQuery, and RedShift, and data frameworks such as DBT, PostHog, Amplitude
+You have experience analyzing, training, and deploying machine learning models
+You enjoy telling stories with data by utilizing standard data visualization tools such as Tableau, Looker, Microsoft Power BI, Observable, Plotly Dash etc.
+You have demonstrated experience translating insights into business recommendations
+What you’ll do
+Manage a high functioning team of data scientists as a player/ coach with a high degree of empathy and keen attention to career development and growth
+Translate product and business requirements into technical requirements; fluently utilize project management tools (JIRA, Asana) to break down complex projects into self-contained tasks and drive execution and manage dependencies
+Accurately estimate and correctly scope the effort and resources necessary to execute analysis projects
+Provide technical guidance and mentorship and proactively unblock individual contributors on the team
+Systematically validate product and business assumptions and quickly identify appropriate technical methods to develop robust data science and analytics solutions
+Communicate updates on progress and updates on projects to leadership and cross functional stakeholders
+Publish the output of your work via internal channels and summarize your insights tailored to a wide array of internal audiences
+Be a thought leader and partner to your cross functional stakeholders as well as to your leadership team; you will influence product strategy, product roadmap and guide investment decisions
+About the Division and Team
+Digital Enablement is a team within Endeavor Digital, is made up of software engineers, analysts, data scientists, data engineers, marketers, and product managers. We collaborate to build cutting-edge data products with a focus on reliability, accuracy and quality. We’re looking for people who are excited to build on our practice of delivering actionable insights.
+About the Company
+Endeavor is a global entertainment, sports and content company, home to the world’s most dynamic and engaging storytellers, brands, live events and experiences. The company is comprised of industry leaders including entertainment agency WME; sports, fashion, events and media company IMG; and premier mixed martial arts organization UFC. The Endeavor network specializes in talent representation; marketing and licensing; content development, distribution and sales; event management; and a number of direct-to-consumer offerings.
+Endeavor is an equal opportunity employer committed to a diverse and inclusive work environment.

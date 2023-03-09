@@ -1,0 +1,15 @@
+JOB DESCRIPTION:
+We are looking for a Data Engineer. Advanced working SQL knowledge and experience working with relational databases, query authoring (SQL) as well as working familiarity with a variety of databases. He should have experience building and optimizing ‘big data’ data pipelines, architectures and data sets. Should have strong analytic skills related to working with unstructured datasets.
+Build processes supporting data transformation, data structures, metadata, dependency and workload management.
+They should also have experience using the following software/tools:
+Should be experienced in Python, Azure Data Bricks and Azure Synapse.
+Job Type: Contract
+Schedule:
+8 hour shift
+Experience:
+Python: 5 years (Preferred)
+SQL: 5 years (Preferred)
+Data Bricks: 3 years (Preferred)
+Azure: 3 years (Preferred)
+Azure Synapse: 3 years (Preferred)
+Work Location: Remote

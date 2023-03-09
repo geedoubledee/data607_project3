@@ -1,0 +1,32 @@
+About: Bloomingdale’s makes fashion personal and fun, aspirational yet approachable. Our mission is to guide and inspire our customers to make style a source of creative energy in their lives. We will always strive to make Bloomingdale’s like no other store in the world. Everyone plays a critical role to bring our mission to life. Regardless of position, we believe all colleagues have a voice and access to share their thoughts with every level of leadership. Our colleagues are passionate, driven, entrepreneurial and collaborative. We welcome and embrace diversity of background, thought and opinion while having a lot of fun along the way.
+
+
+Job Overview: The Sr. Director is responsible for developing, owning, and leading the customer data strategy and delivery for our business stakeholders. The Sr. Director will lead a team of Data Scientists, Engineers, and Analysts who will partner with business units to develop creative solutions to drive business results. The Sr. Director will report to the EVP of Merchandise Planning & Allocation, Business Intelligence, and Replenishment.
+
+Essential Functions:
+Data Science and Engineering
+Set enterprise roadmap and deploy best-in-class advanced analytics. Ensure scalability and reusability of codebase and models while establishing standardized enterprise methodologies
+Build data framework that integrates data pipelines and machine learning models to empower business decision making with speed and scale
+Partner with business stakeholders to optimize the design of end-to-end solutions to drive user adoption, change management, and accelerate analytics value delivery
+
+Analytics
+Deliver customer and site data, analytics, and insights to our business stakeholders
+Drive business data automation
+Enable business ownership with advanced analytics output and key insights through dashboards and reports
+Coordinate closely with stakeholders to prioritize reporting and technology development
+
+Leadership
+Lead the customer data strategy across data science, engineering, and analytics, driving alignment with senior leadership team
+Collaborate with key business stakeholders to translate business concepts and ideas into technical requirements
+Coach direct reports as they build strategies and roadmaps
+Create and foster career development for team members in alignment with company and personal objectives
+Demonstrate Bloomingdale's leadership commitments of promoting diversity and inclusion, encouraging growth, creating connection, and driving performance
+
+Qualifications and Competencies:
+Masters or PhD in statistics, computer science, operations research, decision science, machine learning, or related disciplines
+Data and Analytics leader with over 8+ years of experience in the field
+Fluent in complex algorithms and analytics methodologies across multiple platforms and languages
+Expertise in SQL, Python, GCP/Azure/AWS, Tableau/PowerBI, Adobe Analytics/Experience platform
+Entrepreneurial, agile, and results oriented
+Strong interpersonal skills with the ability to effectively share technical information, communicate complex messages, and influence cross-functional stakeholders at all levels of the business
+Experience in retail or consumer industry is strongly preferred

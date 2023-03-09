@@ -1,0 +1,25 @@
+Machine Learning Engineer - Platform
+Welcome to Pryon, an Artificial Intelligence (AI) company focused on Augmented Intelligence for the enterprise. It is a place for people who want to define the state of the art: real AI, developed by real pioneers, solving real problems of consequence. Our company was built by some of the most well-known experts in the field, whose DNA lives on in Alexa, Siri, Watson, and virtually every other AI product on the market. But the best part of the story is still to come: We’re creating a world-class culture fueled by intellectual curiosity and radical technology — to reduce the distance between knowledge and people. Our proprietary, cutting-edge natural language processing capabilities transform unstructured data into meaningful experiences that increase productivity with unmatched accuracy and speed.
+Responsibilities:
+We seek to hire a Machine Learning Engineer with a focus on our Platform and Tools for our AI Research team. In this role you will be responsible for:
+Working with our research and engineering teams to build an agile Machine Learning Research platform.
+Extend the capabilities of our machine intelligence, natural language processing, and inference engines.
+Help with integrating these components into our production environment.
+Requirements:
+MS or PhD in Computer Science, Data Science, or a related technical field. BS with relevant experience is also acceptable.
+Strong foundation in Computer Science with competencies in data structures, algorithms, and software design.
+Experience with MLOps frameworks like Airflow, MLFlow, Argo, etc.
+Expertise in one or more Python, Java, Golang, C++.
+Experience with one or more of: Deep Learning, Deep Reinforcement Learning, Natural Language Processing, Computer Vision, and Speech Recognition.
+Experience with one or more of TensorFlow, PyTorch, Jax, or another deep learning toolkit.
+Experience with cloud-based development environments such as AWS, Azure, or Google. Experience with micro-service creation is a plus.
+Experience working in an agile software engineering environment with tools such as Jira and Git and demonstrated ability to produce product-level code is a plus.
+Industry or research experience in data analytics, machine learning, and software development.
+Problem-solving skills. Hands-on, get-stuff-done attitude.
+Team player with the ability to work in a close-knit, fast-paced startup environment.
+Benefits:
+100% Company paid Health/Dental/Vision benefits for you and your dependents.
+Life Insurance, Short-term, and Long-term Disability.
+401k.
+Unlimited Managed PTO.
+Bz0Ax8eqPr

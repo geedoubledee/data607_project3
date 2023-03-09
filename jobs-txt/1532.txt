@@ -1,0 +1,21 @@
+Our client is looking for an experienced Software Engineer who is interested in developing their computer vision and machine learning experience. The ideal candidate will contribute ideas and can then execute these effectively and efficiently. They are excited by the idea of learning new concepts ranging from embedded integration, computer vision, and machine learning.
+
+You will be responsible for developing features to understand the area and participants, using the latest machine learning techniques. This team is building key functionality of our next-generation sensing product - this technology that will significantly improve safety and will transform our commuting experiences.
+
+Responsibilities
+
+Develop and improve logic within the C++ codebase for its Cabin Monitoring and Interior Sensing solutions.
+Create and enhance features using computer vision and a variety of machine learning methods (detection, classification, temporal ML, activity/gesture recognition)
+Build and deploy the SDK on different platforms including optimizing the SDK runtime on SoCs (System on Chips)
+Investigate tradeoffs between accuracy and computational efficiency for edge/embedded environments and propose solutions to meet run-time requirements
+Develop and maintain KPI reports to measure and analyze model and feature performance.
+Contribute as a global team member of the Automotive team using agile methodologies
+SKILLS REQUIREMENTS
+
+Bachelors or masters degree in computer science, software engineering, or a related field or equivalent experience
+2+ years of software development experience
+1+ years of work experience in C++ and Python development
+Familiarity with computer vision and machine learning concepts: deep learning, data science, statistics, 3D geometry
+Experience with CI/CD (Continuous Integration and Deployment)
+Experience with working on embedded SoCs
+Strong communication and team collaboration skills

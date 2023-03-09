@@ -1,0 +1,5 @@
+Provide primary DBA support for mixed SQL Server and Db2 environment used by Business Intelligence Reporting team. Team is in the process of migrating BI Data Marts from DB2 instance running on Windows to SQL Server
+Duties include:
+Performance Tuning - Work includes analysis of access patterns to determine indexing and buffering needs. Collaborate with a team made up of BI Manager, Architect and Developers to identify performance challenges, devise corrective action, test and implement changes.
+Backup and Recovery – Create, test and deploy database backup and recovery processes using vender utilities. Work with Infrastructure team to have the backups secured in the offsite location.
+Disaster Recovery – Design and test recovery of application

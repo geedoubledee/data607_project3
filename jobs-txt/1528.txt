@@ -1,0 +1,30 @@
+84.51° Overview:
+84.51° is a retail data science, insights and media company. We help the Kroger company, consumer packaged goods companies, agencies, publishers and affiliated partners create more personalized and valuable experiences for shoppers across the path to purchase.
+Powered by cutting edge science, we leverage 1st party retail data from nearly 1 of 2 US households and 2BN+ transactions to fuel a more customer-centric journey utilizing 84.51° Insights, 84.51° Loyalty Marketing and our retail media advertising solution, Kroger Precision Marketing.
+Join us at 84.51°!
+__________________________________________________________
+
+OVERVIEW
+Manages a team of developers in the development and implementation of solutions and applications across the firm. Provides coaching and mentoring to staff in order to deliver quality service and solutions. Monitors and motivates team members' work performance through coaching, one on ones, and development planning. Writes and delivers performance reviews. Contribute to the development, tests, support and deployment tasks for software applications and phases of the entire 84.51° SDLC, including external and internal applications, as well as process improvement activities.
+RESPONSIBILITIES
+
+Support mentoring and growth of team through biweekly 1-1s (or more frequent as needed); Performance Feedback discussions, (mid-year, year-end, and potentially as necessary as in the scope of the SAFe); Coaching and Development Discussions; Career Pathing
+Escalate concerns to leadership, as needed, and remove roadblocks for the team
+Assess, monitor, and promote individual and team skill development programs and practices, identifying skill gaps for future talent needs
+Data Management practices including Data Modeling, ETL practices, Aggregation patterns, and Data warehousing principles.
+Execute the vision, goals, priorities and work alongside the team to accomplish them. Ensure high-quality technical solutions and skill development.
+Drives continuous improvement to deliver solutions that are at the forefront of industry leading techniques while also adhering to analytical best practices
+QUALIFICATIONS, SKILLS, AND EXPERIENCE
+Bachelor's degree in Computer Science, Information Systems, Computer Engineering or another heavily technical program
+5-10 years' experience in a technical role leading/mentoring by example
+Be a change agent and foster a learn by doing environment
+Proven ability to execute in a customer focused environment and advocate for customers across a cross-functional organization.
+Exceptional judgment, strategic thinking, and creative problem-solving skills. Strong analytical mind.
+Comfortable with thinking outside the box and challenging the status quo, respectfully and courageously, to deliver results in a dynamic environment.
+Knowledgeable and experienced in the following tech skills: Agile, Python, Scala, Hadoop, Git
+
+Engineering at 84.51° builds software and data solutions that enable our customers and partners to drive value through better understanding of and engagement with shoppers in the digital and physical retail arena. These solutions incorporate big data and data science & analytics using some of the newest technologies and platforms in the industry. We are changing the way retail and CPGs do business and the way they interact with shoppers. Making life more rewarding for our community and our associates is an essential part of the process. Our team is known for their enthusiasm, camaraderie, and sense of fun. That's why we engage in a range of official and unofficial activities to get together, serve the community, and have fun. We need more great people who want to join us in doing cool, industry-changing, brain-stimulating work.
+84.51° has offices in Cincinnati, Chicago, Deerfield, Portland, and New York. We also offer fully remote opportunities.
+
+#LI-DOLF
+#LI-REMOTE

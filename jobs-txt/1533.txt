@@ -1,0 +1,56 @@
+Who We Are
+ButcherBox is a fast-paced, rapidly-growing company headquartered in Boston, MA. At ButcherBox, we believe in better. That’s why we deliver 100% grass-fed, grass-finished beef, free-range organic chicken, pork raised crate-free, and wild-caught seafood directly to our members’ doors. All of our products are humanely raised or wild-caught and never given antibiotics or added hormones ever.
+
+We’re working to build a world that’s better for all, and we’re inviting everyone to come along. For us, better means treating our planet with respect. It means improving the lives of animals and the livelihoods of farmers. It means never cutting corners when it comes to doing business. Ultimately, it means better meals, enjoyed together. Our team is made up of people who collaborate and support one another. We’re always looking for outstanding people to join our mission!
+
+About the Role
+The Director of Data Science & Analytics will be a great fit for someone who is excited about the opportunity to lead a team of Data Scientists and AnalyticsEngineers, the teams responsible for building and championing Data Products that enable the company to learn, verify, and make decisions based on insights those products provide. These products will be used to drive operational efficiencies such as demand planning, unlock new insights about our Members to enhance their customer journey and experience, and spur innovation across the company.
+Keys to success
+Partner with stakeholders across Marketing, Procurement, Operations, Finance and others to holistically understand the business and the challenges they are working to solve
+Deliver Data Products to drive business value that are aligned with company strategy and OKRs, feature sustainable technical designs and will evolve with market conditions and user expectations
+A strong leader – highly empathetic, authentic, humble and approachable with the ability to balance holding their team accountable
+Assimilate and share knowledge, educate others and listen deeply
+
+Reporting to: VP of Data
+
+Responsibilities
+Technical Data Science & Analytics
+Develop and champion a Data Product strategy that spans both Data Science and Analytics models to fuel our data-driven approach and accounts for scalability, performance, and business value
+Continue to optimize our big data platform using custom-build & off-the-shelf ETL pipelines, 3rd party API connections, and more
+Embed Data Security into Products and establish a sound governance strategy including requirements for ethical and unbiased decision-making and a responsible AI framework
+Business mindset & collaboration
+Serve as a trusted advisor to executive leadership, translating business needs into technical solutions and communicating technical solutions to non-technical senior leaders
+Build a deep understanding of the business’s marketplace and its dynamics to help understand and recommend ways data can be used to deliver superior outcomes aligned with business strategy and OKRs
+Help the business understand trends and behavior within its marketplace by conducting exploratory analysis and designing and implementing experiments
+Engage with both technical and non-technical audiences to evangelize capabilities, identify, and understand problems faced by the business, and collaborate on the development of data-driven solutions
+Data Team cross-functional work
+Collaborate with data engineers to understand underlying data architecture, and to build data domains, pipelines, extraction processes, and tracking and transformation mechanisms
+Partner with the Business Intelligence Team and Data Center of Excellence to drive insight into the business and meet the needs of stakeholders in an optimal manner
+Leadership & Management
+Hire, manage, train, teach, mentor and motivate a team of diverse, high-performing team of data scientists and analytics engineers
+Collaborate with Program Management to help define processes that improve the team’s efficiency
+Evangelize new technologies and processes while creating and advocating for a culture that promotes investigation and collaboration around data
+Demonstrate a commitment to fostering a diverse, equitable, and inclusive environment
+Requirements
+8+ years of working experience in data science and data analytics positions
+Proficient in both Data Science and Analytics technical skills - experienced in scripting languages and rapid prototyping skills
+Proven experience in building and leading teams of Data Scientists and Analytics Engineers
+Demonstrated success defining goals, formulating approach, building and optimizing data models and delivering business value
+Experience managing a multi-quarter product roadmap
+Nice-to-haves
+Azure Cloudand Azure tools
+Databricks experience
+ECommerce and/or CPG experience
+What We Offer
+Our Values
+We are a mission-driven company and strive to embody our values in every step of the process. ButcherBox is driven by relentless improvement, accountability, humility, and member-obsession. We want our workplace to be one of growth and learning where everyone can be safe/comfortable to show up as their authentic self to work. Anyone who loves our products and goals is welcome here! We are proud to be an equal opportunity employer aspiring to incite positive change in the pastures, the fulfillment centers, the office, and the world.
+
+Benefits
+Health: medical, dental, vision, and life insurance, an employer-funded HSA, and short & long-term disability benefits
+Financial: 401(k) with generous employer match, an annual discretionary performance bonus, and equity ownership in the company
+Time off: unlimited paid time off policy, 20 weeks parental leave, an executive team that encourages a good work/life balance
+Personal growth: professional development opportunities, including free access to online learning programs
+Food: a free Custom Classic ButcherBox each month and weekly lunch reimbursement
+Others: reimbursement for wellness activities, an exceptional EAP, fertility benefits, life insurance and more
+
+ButcherBox is an equal opportunity employer committed to fostering a diverse, inclusive environment at all steps in the hiring process. Every qualified applicant will receive consideration without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state, or local laws. We are happy provide reasonable accommodations during our hiring process. Please click here if you need to request an accommodation for your interview.

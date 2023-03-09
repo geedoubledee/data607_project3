@@ -1,0 +1,24 @@
+Primary Skills
+SCALA, SPARK, SQL, HADOOP, AWS, HIVE, Spark SQL, HIVE QL, CICD (Continuous Integration/Continuous Delivery), VCS (GIT HUB)
+Coding in Scala
+Designing in of HADOOP ecosystem
+Hands-on experience on AWS tools like EMR, EC2
+Hands-on experience of SQL in Big Data: SQL, Spark SQL, Hive QL
+Proficient in working with large data sets and pipelines
+Proficient with workflow scheduling / orchestration tools
+Well versed with CICD process and VCS
+Databricks is a big PLUS
+Job Types: Full-time, Contract
+Pay: $50.00 - $58.00 per hour
+Schedule:
+8 hour shift
+Monday to Friday
+Experience:
+Spark: 4 years (Required)
+Scala: 4 years (Required)
+Hadoop: 3 years (Required)
+Aws: 3 years (Required)
+Hive: 3 years (Required)
+CI/CD, VCS: 3 years (Required)
+Databricks: 1 year (Required)
+Work Location: Remote

@@ -1,0 +1,23 @@
+Job Summary:
+This role focuses on solving the business side of technical problems using SAP and S/4Hana for Concur, SuccessFactors, Qualtrics, OpenText and Fieldglass. This role will focus on supporting business process improvements (including optimization and automation), clearly documenting the business needs, building a shared understanding between stakeholders through knowledge in SAP S/4Hana, and successfully driving assigned tasks to completion while building consensus at every stage of the implementation.
+Education: Bachelor's Degree
+Year of Experience: 5 - 8 years
+Type of Experience: Experience managing multiple concurrent work streams of business process analysis and leveraging best-suited methodologies and practices; experience with Agile principles and practice.
+Principal Responsibilities:
+Provide strong problem solving, technical, and analytical skills to lead process definition and re-engineering, elicit and document requirements, identify alternatives, perform fit/gap analysis, functional design, testing, training, reporting, support, and continuous improvement of business applications
+Support the business through citizen development, for no code, low code techniques during requirements management in non-production environments to support business collaboration. Responsible for advanced verbal and written communication to formulate business needs obtained from multiple sources and translate those into application functionalities, while deciding when to advocate and when to compromise to arrive at a mutually acceptable solution
+Address problems that are complex and often unique, using wireframing (mockups) techniques and technical expertise to determine resolution strategies aligned to business needs.
+Build trusted relationships among all involved stakeholders and/or leadership from business as well as the digital organization
+Understand, support and positively impact organization’s strategy and contribute ideas and feedback within department; promote the benefits of change and act as a catalyst for change across the organization
+Partner with business to perform detailed financial analysis to support decisioning based on ROI and total cost of investment
+Qualifications:
+Expertise in SAP ECC, SAP S/4Hana, with ability to serve as a subject matter expert and support the adoption and utilization of the platform with the implementation of projects specific to Concur, SuccessFactors, Qualtrics, OpenText and Fieldglass products.
+Experience positively influencing, mentoring and being a credible source of knowledge to less experienced team members with ability to coach on delivery methodologies with the business; communicating the difference between methodologies
+Strong facilitation skills with ability to work in a high-pressure, remote/distributed team environment and react quickly to problems and issues for multiple projects, applying critical thinking to each situation
+Experience with the SAP S/4Hana platform, preferred, with a clear understanding of the platform’s technical capabilities and limitations related to Concur, SuccessFactors, Qualtrics, OpenText and Fieldglass products. SAP Associate certification preferred .
+Strong verbal/written communication skills, with ability to effectively interact with individuals at all levels of responsibility and authority. Must be able to prioritize, delegate and foster the development of high-performance teams to lead/support an environment driven by customer service and team work. Strong trouble-shooting and organizational skills and ability to work on multiple projects simultaneously.
+Job Type: Contract
+Pay: $70.00 - $73.00 per hour
+Schedule:
+Monday to Friday
+Work Location: Remote

@@ -1,0 +1,23 @@
+Requirements:
+Bachelor’s degree in computer science, information sciences, engineering, math or related field required
+Minimum of 3 years of experience in database management in Epic Cachè
+Advanced knowledge of Linux/UNIX operating systems, scripting languages, system design & configuration
+Advanced knowledge of high availability systems solutions to include cluster configuration, data replication technologies, failover configurations, backup technologies & IT systems business continuity solutions
+Experience with virtualization & cloud technologies, knowledge of Storage, network protocols, routing, network & server
+Certifications required: Epic Operation Database Administrator (Cachè)
+Detailed understanding of EPIC requirements for Epic’s “Good Install” & “Good-Maintenance” objectives
+FACIS 3/HIPAA Addendum/HIPAA Quiz during onboarding. Must Haves:
+You must be willing to submit to a background investigation;
+Bachelor’s degree in computer science, information sciences, engineering, math or related field required;
+experience or alternative degree may be considered in lieu of required education.
+Minimum of 3 years of experience in database management in Epic Cachè
+Advanced knowledge of Linux/UNIX operating systems, scripting languages, system design and configuration.
+Advanced knowledge of high availability systems solutions to include cluster configuration, data replication technologies, failover configurations, backup technologies and IT systems business continuity solutions.
+Experience with virtualization and cloud technologies and knowledge of Storage, network protocols and routing, network and server;
+Certifications required: Epic Operation Database Administrator (Cachè)
+Other Certifications Preferred: RHCSA/RHCE, Epic Chronicles Database Programmer or Cachè/M Programming equivalent, Epic Interconnect Programmer, MS SQL Server, Other UNIX Operating System (HP-UX, AIX, SOLARIS).
+Excellent written and verbal communications skills; excellent customer service skills
+Detailed understanding of EPIC requirements for Epic’s “Good Install” and “Good-Maintenance” objectives
+Job Types: Contract, Full-time
+Pay: From $85.00 per hour
+Work Location: Remote

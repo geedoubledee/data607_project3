@@ -1,0 +1,43 @@
+Location: Carlsbad, California OR Fully Remote
+About the Opportunity:
+We are looking for a talented Machine Learning Engineer to join our team and deliver machine learning-driven products. The right candidate will work on development, deployment, and lifecycle management of machine learning models for various large-scale applications (natural language understanding, web search and ranking, recommendation, personalization, dialog/conversation management).
+From your first day, you will make a valuable — and valued — contribution. We are a fast-growing company where no one is a bystander. We offer you the opportunity to delight millions of consumers around the world while gaining meaningful experience across a variety of disciplines.
+Keywords:
+Machine learning, natural language processing, learning-to-rank, online learning, deep learning, interactive machine learning, machine teaching, conversational agents, human computer interaction
+Duties and Responsibilities:
+Design, implement, and deploy machine learning algorithms.
+Manage machine learning algorithm lifecycle.
+Coordinate data collection and annotation efforts.
+Work with real-time data and content coming from various data sources.
+Manage machine learning data pipelines.
+Design tests for machine learning algorithm effectiveness and performance monitoring.
+Design tools and interfaces for interactive machine learning and teaching.
+Research and development on cutting-edge machine learning technologies.
+Qualifications and Skills:
+Graduate degree in Computer Science with a strong background in machine learning required.
+Strong problem-solving abilities, solid background in algorithms and data structures required.
+Strong programming skills in Python and Scala required. Experience in other programming languages (eg. Java, R, Haskell) a plus.
+Solid knowledge of machine learning tools (eg. scikit-learn, tensorflow, keras, pytorch, Spark MLlib) required.
+Experience with distributed and streaming data technologies (eg. Hadoop, Spark, Kafka) required.
+Experience with building and deploying API's with Docker and Kubernetes required.
+Experience with natural processing tasks (eg. named entity recognition, language modeling, vector representations) required.
+Experience with Elastic Search, Lucene a plus but not required.
+Experience with ranking algorithms a plus but not required.
+Experience with interactive machine learning (eg. active learning, reinforcement learning, machine teaching) a plus but not required.
+About the Company:
+Seekr is a search and information evaluation company that is dedicated to addressing the problems of disinformation and bias. We put the power of reliable media consumption in the hands of the people. Our search engine and information evaluation app and web destination use machine objectivity to score any type of search result so that people know the reliability of information before they click. Instead of relying on human analysis, we use scientific rigor and multiple machine learning algorithms to reduce misinformation and manipulation.
+Our environment is fast paced, requiring the ability to work autonomously, and hands on from day one, with minimal supervision in an ever-changing environment. You will need to demonstrate excellent problem-solving skills. The right mix of organizational and communication skills will be the key to success. Attention to detail and a proven ability to manage priorities are also essential. We are looking for people ready to lead by example, be selfless in your leadership across teams, collaborate with your peers, and partner with colleagues and external partners.
+Company Benefits:
+Working with a smart and talented team to solve the big misinformation problems in news we currently face
+Exciting and cutting-edge technologies at scale
+100% remote position - work from where you like
+Highly competitive salary
+Company investment in training, certifications, and your professional development
+Company Bonus Plan
+Employee Equity Program
+401k Retirement plan with matching
+Medical, Dental and Vision Insurance for you and your family
+Life Insurance / Disability
+Unlimited PTO
+13 Paid Holidays
+Employee Assistance Program

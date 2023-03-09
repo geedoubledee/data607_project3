@@ -1,0 +1,31 @@
+Our client’s product helps surface a range of harmful online behaviors at the point of hire to protect businesses, reduce workplace toxicity, and reinvent organizations around a human focus—all with the use of software that automates your talent screening workflow in a compliant fashion.
+Our client created this product for AI-powered candidate screening solutions. They are helping businesses build an employee base that is rich in diversity that are more likely to unlock breakthroughs.
+Who you are
+You're a talented research scientist interested in innovation in Machine Learning, especially Natural Language Processing and Video Processing. You're curious and love problem-solving. You like building end-to-end products that have a focus on ethics and reliability. You enjoy challenging projects that require much research.
+Responsibilities
+Perform research to advance the state-of-the-art and solve specific problems at scale in one or more of the following areas: Natural Language Processing, Machine Learning, and Deep Learning.
+Maintain our distillation model pipeline and make sure that we maintain an improvement in models’ performance within our product.
+Communicate with departments to understand data requirements and plan new projects.
+Excel at placing a human-centered focus on the work (context, end-user impact, etc.), finding solutions that work in practice and have a significant effect.
+Research and design models to extract a range of features from video, from toxic behavior monitoring to topics that might represent an individual’s values.
+Work closely with a diverse, interdisciplinary team to deliver value to customers through existing and new products.
+Minimum Qualifications
+Master’s degree or above in computer science, computer engineering, electrical engineering, statistics, or other relevant majors with relevant publications in your field.
+At least three years of experience in software development or Data Science
+Solid engineering skills with proficiency in at least Python, SQL, and R.
+Proficiency with data mining and machine learning. You have a deep understanding of and experience in modern machine learning theories, Transformers, and Large Language models.
+Experience using AWS Data stack: Glue, SageMaker, Quicksight, Snowflake, and DBT.
+You can think critically, objectively, and rationally.
+You can reason and communicate in a results-oriented, data-driven manner with high autonomy.
+Job Type: Full-time
+Pay: $150,000.00 - $185,000.00 per year
+Benefits:
+401(k)
+Dental insurance
+Flexible schedule
+Health insurance
+Paid time off
+Vision insurance
+Schedule:
+Monday to Friday
+Work Location: Remote

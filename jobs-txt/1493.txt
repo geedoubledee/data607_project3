@@ -1,0 +1,46 @@
+Compensation: $80k - $90k
+Benefits: Medical, Dental, Vision, 401k match and Arc
+This role can be performed remote in any of our headquarter locations including Plano, Texas; Purchase, New York; Chicago, Illinois.
+What PepsiCo Data Management and Operations does:
+Maintain a predictable, transparent, global operating rhythm that ensures always-on access to high-quality data for stakeholders across the company
+Responsible for day-to-day data collection, transportation, maintenance/curation and access to the PepsiCo corporate data asset
+Work cross-functionally across the enterprise to centralize data and standardize it for use by business, data science or other stakeholders
+Increase awareness about available data and democratize access to it across the company.
+As a member of the data engineering team, you will be the key technical expert developing and overseeing PepsiCo's data product build & operations and drive a strong vision for how data engineering can proactively create a positive impact on the business. You'll be an empowered member of a team of data engineers who build data pipelines into various source systems, rest data on the PepsiCo Data Lake, and enable exploration and access for analytics, visualization, machine learning, and product development efforts across the company. As a member of the data engineering team, you will help lead the development of very large and complex data applications into public cloud environments directly impacting the design, architecture, and implementation of PepsiCo's flagship data products around topics like revenue management, supply chain, manufacturing, and logistics. You will work closely with process owners, product owners and business users. You'll be working in a hybrid environment with in-house, on-premise data sources as well as cloud and remote systems.
+Key Accountabilities:
+Active contributor to code development in projects and services
+Manage and scale data pipelines from internal and external data sources to support new product launches and drive data quality across data products
+Build and own the automation and monitoring frameworks that capture metrics and operational KPIs for data pipeline quality and performance
+Responsible for implementing best practices around systems integration, security, performance and data management
+Empower the business by creating value through the increased adoption of data, data science and business intelligence landscape
+Collaborate with internal clients (data science and product teams) to drive solutioning and POC discussions.
+Develop and optimize procedures to “productionalize” data science models
+Define and manage SLA’s for data products and processes running in production
+Support large-scale experimentation done by data scientists
+Prototype new approaches and build solutions at scale
+Research in state-of-the-art methodologies
+Create documentation for learnings and knowledge transfer
+Create and audit reusable packages or libraries
+COVID-19 vaccination is a condition of employment for this role. Please note that all such company vaccine requirements provide the opportunity to request an approved accommodation or exemption under applicable law
+Qualifications / Requirements :
+BA/BS in Computer Science, Math, Physics is mandatory.
+2+ years of overall technology experience that includes hands-on building data engineering pipelines
+2+ years of experience in SQL optimization and performance tuning, and development experience in programming languages like Python, PySpark, Scala etc.)
+1+ years in cloud data engineering experience in Azure or AWS
+1+ Years in building data engineering pipelines in Azure (ADF and databricks)
+Job Type: Full-time
+Pay: $90,000.00 - $100,000.00 per year
+Benefits:
+401(k) matching
+Dental insurance
+Health insurance
+Retirement plan
+Vision insurance
+Schedule:
+8 hour shift
+Education:
+Bachelor's (Required)
+Experience:
+SQL: 2 years (Required)
+Cloud: 2 years (Required)
+Work Location: Remote

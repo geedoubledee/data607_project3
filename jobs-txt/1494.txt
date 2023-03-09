@@ -1,0 +1,49 @@
+We are currently seeking an Application DBA to join our Next Generation Engineering Identity Governance team. This person will need broad exposure to multiple technologies to assemble the right solution to a challenging problem. Integration projects are complex and involve collaboration from multiple teams, on different time schedules.
+
+We are a progressive development team within the firm working on technology at a scale that is seldom found elsewhere in the world. We use agile methodologies in our development practices and believe that great software is developed through ongoing thoughtful conversation as opposed to a big upfront design. We are building a technically diverse ecosystem using a mixture of vendor products and custom in house built solutions. There will be a focus on Relational, Graph and NoSQL databases. We're looking for true technologists who are driven by the desire to learn and push the boundaries of technology.
+
+The Role:
+
+This will require an understanding of requirements, operating models, business flows and data and then partnering with technical specialists to deliver appropriate solutions. There is an implicit ownership and accountability for the solution working as intended. The ideal candidate is a results-oriented hands-on leader who is responsible for:
+Oracle Database administration, query optimization / Schema design and build, ownership of the database environment.
+Participate in design sessions with fellow programmers, business analysts and team members to analyze business requirements and outline the proposed IT solution.
+Review designs and provide input to the design recommendations; incorporate security requirements into design; and provide input to information/data flow, and understand and comply with Project Life Cycle Methodology in all planning steps.
+Document the detailed application specifications, translate technical requirements into programmed application modules and develop/enhance software application modules.
+Collaborate with fellow developers in design sessions ensuring that all solutions are aligned to pre-defined architectural specifications; identify/troubleshoot application code-related issues; and review and provide feedback to the final user documentation.
+
+Qualifications:
+Bachelor's degree in Information Science / Information Technology, Computer Science, Engineering, Mathematics, Physics, or a related field
+5+ years' experience in database administration, tuning and optimization
+Programming Languages & Tools
+Languages: SQL, PL/SQL
+Development Languages: Java, C#, and/or Python
+Source Control: GIT
+Patterns: MVC, Web Services, REST
+Automated Deployment tools-is a plus
+Automated Testing tools
+Continuous Integration tools
+Test scripts definition and testing experience
+Experience with Oracle EXADATA a strong Plus
+Experience with Oracle 19c a strong plus
+Databases/Data Processing
+Relational DB: Oracle (19c).
+Platforms & Services
+Linux / UNIX: Ubuntu, Red Hat Enterprise Linux
+
+
+Experience with Agile methodologies including Kanban, Scrum and DevOps.
+Experience with system design and architecture.
+Cloud experience preferred.
+Ability to learn new skills and knowledge to keep up with the changing technology field.
+Ability to work with project cycles and manage rapid changes.
+Ability to be flexible and adapt to any given situation.
+Excellent customer service attitude, communication s (written and verbal), and interpersonal skills
+Excellent analytical/problem-solving skills to make timely and sound decisions.
+Ability to work independently and in a team based environment.
+JPMorgan Chase & Co., one of the oldest financial institutions, offers innovative financial solutions to millions of consumers, small businesses and many of the world's most prominent corporate, institutional and government clients under the J.P. Morgan and Chase brands. Our history spans over 200 years and today we are a leader in investment banking, consumer and small business banking, commercial banking, financial transaction processing and asset management.
+We recognize that our people are our strength and the diverse talents they bring to our global workforce are directly linked to our success. We are an equal opportunity employer and place a high value on diversity and inclusion at our company. We do not discriminate on the basis of any protected attribute, including race, religion, color, national origin, gender, sexual orientation, gender identity, gender expression, age, marital or veteran status, pregnancy or disability, or any other basis protected under applicable law. In accordance with applicable law, we make reasonable accommodations for applicants' and employees' religious practices and beliefs, as well as any mental health or physical disability needs.
+The health and safety of our colleagues, candidates, clients and communities has been a top priority in light of the COVID-19 pandemic. JPMorgan Chase was awarded the "WELL Health-Safety Rating" for all of our 6,200 locations globally based on our operational policies, maintenance protocols, stakeholder engagement and emergency plans to address a post-COVID-19 environment.
+As a part of our commitment to health and safety, we have implemented various COVID-related health and safety requirements for our workforce. Employees are expected to follow the Firm's current COVID-19 or other infectious disease health and safety requirements, including local requirements. Requirements include sharing information including your vaccine card in the firm's vaccine record tool, and may include mask wearing. Requirements may change in the future with the evolving public health landscape. JPMorgan Chase will consider accommodation requests as required by applicable law.
+
+We offer a competitive total rewards package including base salary determined based on the role, experience, skill set, and location. For those in eligible roles, discretionary incentive compensation which may be awarded in recognition of individual achievements and contributions. We also offer a range of benefits and programs to meet employee needs, based on eligibility. These benefits include comprehensive health care coverage, on-site health and wellness centers, a retirement savings plan, backup childcare, tuition reimbursement, mental health support, financial coaching and more. Additional details about total compensation and benefits will be provided during the hiring process.
+Equal Opportunity Employer/Disability/Veterans

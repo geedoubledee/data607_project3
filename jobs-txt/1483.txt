@@ -1,0 +1,24 @@
+Position: Mid-level AI/Machine Learning Engineer
+Customer: USCIS
+Clearance: US Citizenship with ability to obtain Secret clearance
+Job Responsibilities Include:
+Building and maintaining an AI/ML Use Case Inventory of current and potential AI/ML use cases.
+Developing, communicating, and executing high-level strategy for agency-wide AI/ML adoption to include the maturation of an existing AI/ML Center of Excellence.
+Collaborating with business unit representatives to mature the use of AI/ML within their respective organizations.
+Identifying unrealized opportunities for AI/ML application and developing the business case for each opportunity.
+Provide high-level data and AI/ML subject matter expertise to inform strategic communications and project planning.
+Enthusiastically and intelligently advocating for the use of AI/ML.
+The Ideal Candidate Must Have:
+Experience with SQL, Python and ML development
+Strong analytical skills and data analysis experience
+Experience with some of the popular Machine Learning / Data Science frameworks and libraries such as Microsoft Cognitive Services, ML.Net, Azure ML, Keras, Matplotlib, NumPy, Scipy, Scikit-Learn, Pandas, PyTorch, TensorFlow
+Experience in Data Pipeline / Data flow
+A strategic--level view of the steps necessary to take an agency-wide AI/ML capability from ideation to realization including work with AI/ML or related Centers of Excellence.
+Experience with AI/ML use case inventory development and collection from diverse business divisions and components.
+Ability to communicate AI/ML and advanced data concepts clearly and effortlessly to senior stakeholders with varying levels of technical understanding.
+Nice to have - HTML5, C#, ASP.NET, REST, and JavaScript/jQuery skills, Synapse and Azure
+Job Type: Full-time
+Salary: From $60.00 per hour
+Schedule:
+8 hour shift
+Work Location: Remote

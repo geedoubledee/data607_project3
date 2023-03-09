@@ -1,0 +1,35 @@
+Our Mission
+At DeepScribe, everything we do is focused on our mission - to bring back the joy of care to medicine. Our goal is to empower physicians with the tools they need to improve both efficiency and efficacy and to improve patient outcomes by increasing the trust and understanding they have with their physicians. You will have the opportunity to transform healthcare.
+
+What you'll do
+As a Data Scientist, you will be accountable for data gathering and analysis of capacity forecasts, experiment results, and optimization of demand profiles.
+
+Your impact
+As a Data Scientist, you will apply operations research and statistical models to solve core challenges to DeepScribe.
+You will work closely with senior executives to drive data-driven decisions related to human-in-the-loop Operations, Revenue Operations, and Product Operations.
+Build data infrastructure to measure individual user service level requirements and develop systems to intelligently route resources to meet those requirements.
+Develop models that measure growth, seasonality, and absorption of our human in the loop operation (contingent/partner resources) to train AI models and deliver medical notes within company-set SLAs.
+Forecast quarterly, and semi-annually the capacity needed, alongside ensuring team members fulfill scheduled shifts from a demand side. Build controls, processes, and systems to ensure SLAs are met to deliver a best-in-class service.
+Analyze product data to identify problems and ideate product features and process enhancements. Work cross functionally to pioneer and drive your own ideas to execution.
+Contribute to margin improvement and experimental efforts
+Drive experimentation and launch new data-driven efforts
+Work Cross functionally and with leaders to build centralized reporting infrastructure
+
+About You
+Experience as a Data Scientist in a technology company
+Degree in Data Science, Data Analytics, Statistical Analysis, or similar
+Thrive in an independent work environment
+Detail-oriented, leave nothing to chance
+Achieve goals consistently and efficiently
+Hold yourself accountable for work completed
+You're proficient with general reporting tools and languages. SQL is a must, and you also have experience with other tools like Excel, Python, or R.
+
+Perks and benefits
+Meaningful equity stake in the company
+Flexible PTO
+Work from home stipend
+Medical, Dental, Vision, 401K and other benefits are also offered
+
+About the Team
+At DeepScribe, we value trust, teamwork, and transparency, and we're dedicated to promoting diversity and equity in the workforce through inclusive hiring practices. Candidates with backgrounds that are underrepresented in the technology industry are encouraged to apply.
+In compliance with federal law, all persons hired will be required to verify identity and eligibility to work in the United States and to complete the required eligibility verification form upon hire.

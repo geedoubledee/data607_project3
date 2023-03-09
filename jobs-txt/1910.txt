@@ -1,0 +1,28 @@
+About Alethea Group
+Alethea Group is a technology company helping the Fortune 500, private companies and nonprofits protect themselves from harms stemming from disinformation. Leveraging its multi-channel machine learning platform, Artemis, Alethea detects disinformation narratives across the internet, enabling customers to proactively defend against this pervasive threat. With Artemis-powered early detection, Alethea customers can protect their reputations, key assets, physical safety and market value. The company was founded in 2019 and is woman owned.
+Position Summary
+Alethea Group is seeking Machine Learning Engineers of all levels to join our growing data science team. The team's goal is to turn data from many online sources into actionable insights that aid the research into uncovering online disinformation campaigns. The team leads the efforts in creating models/tools that help identify narratives being discussed in the online world and identify coordination efforts and trends of said narratives. As part of this role, you will work closely with data scientists and engineers in developing and deploying models that help us identify and characterize the activity around a disinformation campaign.
+Responsibilities:
+Develop software programs, algorithms and automated processes to cleanse, integrate and evaluate large datasets from multiple online sources.
+Identify meaningful insights from large data and metadata sources; interpret and communicate insights and findings from analysis and experiments to Engineering, Data Science and Product teams.
+Collaborate across teams to create end-to-end pipelines that cover steps from data preparation to monitoring models in production.
+Work closely with data scientists and engineers to deploy models in our analytical platform.
+Lead the development of new capabilities and help support/improve existing models.
+Help shape the overall tech development and direction for both the data science team and the company.
+About You:
+B.S. or Masters in a quantitative field and industry experience of 2-years in a similar position
+Excellent programming skills in Python
+Prior experience with machine learning frameworks such as PyTorch and Tensorflow
+Prior experience with natural language processing, computer vision or other specialized field
+Experience creating and testing scalable pipelines for ML model training/testing/deployment.
+Experience using distributed computing frameworks such as Spark.
+Self-motivated and proactive individuals that help identify challenges and provide solutions.
+Good interpersonal skills and and the ability to work in a multidisciplinary team
+Compensation and Benefits
+Salary and stock options are negotiated based on experience.
+Healthcare at the gold-tier level, dental, and vision is fully funded by the employer. 50% of dependent coverage is provided by the employer.
+Unlimited vacation and sick leave, including office closure between Christmas and New Years, and extended holidays at Thanksgiving and the 4th of July.
+Employer sponsored 401k with a 3% match.
+Remote-first role, with the ability to work anywhere in the United States. Headquarters is located in Washington, D.C.
+Alethea Group welcomes talent from all backgrounds, experiences, perspectives, abilities and walks of life. We strive to create an inclusive and diverse workforce, providing a supportive environment for all employees. Kindness is one of our core values. We strongly encourage you to apply even if you don't meet every qualification. Come as you are and learn about the exciting opportunities on our team.
+Alethea Group is an equal opportunity employer that encourages people of all backgrounds, genders, ethnicities, abilities, and sexual orientations to apply. We are committed to being an inclusive place to work, while maintaining a workforce that represents the communities we serve.

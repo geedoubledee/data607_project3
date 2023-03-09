@@ -1,0 +1,49 @@
+Data Scientist - US Citizenship Required
+My client is in search of a Data Scientist to support the mission of the Offices of Inspectors General (OIG). The OIG’s Pandemic Response Accountability Committee (PRAC) has established the Pandemic Response Center of Excellence (PACE) contract and analytical platform for the purpose of conducting data analysis and visualization; sharing leading practices; providing tools and services; and providing investigative intelligence.
+Work is remote, but candidate must be based in United States
+US Citizenship is required, an active Secret clearance is highly desirable
+5 years of Fraud Analytics experience is a must
+Job Description:
+This Data Scientist will lead data science projects specific to developing business intelligence solutions that encompass data mining, data analytics, and predictive analysis using vast amounts of data across disparate systems and databases. From the underlying patterns in the data, trends, relationships, and anomalies, results are formulated, interpreted and articulated into audit and investigative actionable decision information which are then communicated orally and through the creation of visualizations (graphs, charts, and interactive mapping), including written reports.
+Required Experience:
+(5) or more years of hands-on experience developing analytic rules and models using leading edge fraud analytic tools and best practices.
+(5) or more year of hand-on experience in programming in SAS (preferable), or any statistical software packages.
+(5) or more years of hands-on experience of data management and advanced analytic techniques.
+(5) or more years of hands-on experience proactively using data sciences to identify auditable controls that will detect and prevent fraud, waste, abuse and mismanagement.
+(5) or more years of hands-on experience coding rules and models using open-source programming techniques and tools.
+Must have strong oral and written skills.
+Must have experience working in team environments as well as independently.
+Must have experience and knowledge of database structures and data organization.
+Desired Experience:
+The data scientist should have a mix of skillsets to include:
+Programming (SAS, R, Python, SQL, etc.)
+Machine Learning
+Graph analytics
+Geospatial
+Cloud data management
+Big Data
+Data wrangling, processing of large data sets
+Natural Language Processing
+Math and Statistics
+Data Visualization
+All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, or status as a protected veteran.
+Job Type: Full-time
+Pay: $145,000.00 - $180,000.00 per year
+Benefits:
+401(k)
+Dental insurance
+Flexible schedule
+Health insurance
+Paid time off
+Schedule:
+8 hour shift
+Application Question(s):
+Are you a US Citizen? Our client requires US Citizenship
+Experience:
+Data science: 5 years (Required)
+SQL or SAS: 5 years (Required)
+fraud analytics: 5 years (Required)
+developing statistical models: 5 years (Required)
+Security clearance:
+Confidential (Preferred)
+Work Location: Remote

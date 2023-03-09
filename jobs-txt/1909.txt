@@ -1,0 +1,63 @@
+Job Summary:
+The Sr. Business Intelligence Developer should have experience in utilizing Azure Stack for data analytics platforms (Data Factory, Data Lake, Azure Synapse Analytics, Machine Learning, SQL Warehouse, Power BI, Azure Analysis Services) and maintain our current On-Prem Microsoft SQL Server, Integration Services (SSIS), SQL Server Reporting Services (SSRS) and SQL Server Analysis Services (SSAS) systems until we fully migrate to Azure.
+The Sr. BI Developer will design, implement, and maintain the Extraction, Transformation, and Loading (ETL) processes using Structured Query Language (SQL) Server, Data factory, SSIS to support the successful creation of operational reports and interactive dashboards used for our company.
+The Sr. Business Intelligence Developer will also mentor and guide other developers within the team in the best practices of software development.
+
+About Us:
+Founded in 1989, SHI International Corp. is a $12 billion global provider of IT solutions and services, and currently has over 5,000 dedicated employees worldwide.
+To learn more about SHI International Corp, visit our website: www.shi.com/careers
+What SHI Can Offer:
+World Class Facility includes on site gyms and cafeterias
+Ongoing opportunities for personal and professional growth and development due to our strong promote from within philosophy
+Work in an up-beat, creative, and fun environment
+Benefits including medical, vision, dental, 401K, and flexible spending
+Responsibilities:
+Include but not limited to:
+Build Data Storage Solutions with SQL Server and Data Lakes.
+Develop ETL Pipelines with Azure Data Factory, and SSIS.
+Designing, developing and optimizing complex SQL stored procedures to meet data management and data integration objectives
+Designing, developing and maintaining SSAS Tabular model, complex DAX calculations and SSRS Reports
+Visualizing data in Power BI Service, proficiency in DAX and working knowledge of Power Query.
+Create, maintain and store documentation that describes ETL solutions process for future reference
+Proactively identifying and resolve issues concerning data accuracy, data integrity and relevance
+Providing ongoing ETL process maintenance support through SQL query tuning and other optimization mechanisms
+Collaborate with team members to identify and prioritize/reprioritize work when necessary
+Develop strong working relationships with individuals at all levels of the company
+Anticipate and adjust for problems and roadblocks while eliminating roadblocks within control
+Remain abreast of current technologies and best practices as applicable
+Mentor other team members
+Provide technical training and support to team members
+Serve as point of escalation for the development team
+Qualifications:
+Bachelor’s degree in Computer Science or Information Science related field or relevant work experience required
+Minimum 2 years’ of extensive experience in Azure Stack for data analytics platforms
+Minimum 2 years’ of extensive experience in data warehouse design, SQL Server SSIS, SSAS
+Minimum 2 years’ experience in ETL package design, development, troubleshooting, and performance tuning using Azure Data Factory, SQL Server SSIS
+Minimum 2 years’ experience in visualizing data in Power BI Service, proficiency in DAX and working knowledge of Power Query.
+Minimum 4 years’ in a Business Intelligence Developer role
+Solid understanding of Kimball Dimensional Design methodology
+Solid experience in star schema modeling
+Solid understanding of relational database theory, principles, and best practices
+Experience with designing, implementing, and maintaining successful operational reports and interactive dashboards
+#LI-ML2
+
+Required Skills:
+Ability to work with business users to understand business requirements and translate them into an implementation detail
+Excellent communication skills
+Ability to identify business and technical impacts of user requirements and incorporate them into existing system
+Ability to work both independently and as part of team
+Ability to multi-task and take initiative in solving problems
+Highly proficient in T-SQL script development using stored procedures, views, user defined functions etc.
+Strong ability to analyze data and identify data quality issues
+Ability to multi-task, take initiative in solving problem
+Through understanding of Azure Stack for data analytics, DAX, SSIS, SSAS, ETL, and SSRS systems
+Thorough understanding with Transact - SQL (T-SQL) script development using stored procedures, views, user defined functions etc.
+Ability to present ideas in a clear, concise fashion to technical and non-technical audiences
+Fluency with BI Stack
+Must have strong mentoring skills
+Willingness to share skills, knowledge and expertise
+Additional Information:
+FLSA Status: Exempt
+The estimated annual pay range for this position is $100,000 – $130,000. The compensation for this position is dependent on job-related knowledge, skills, experience, and market location and, therefore, will vary from individual to individual. Benefits may include, but are not limited to, medical, vision, dental, 401K, and flexible spending.
+Equal Employment Opportunity – M/F/Disability/Protected Veteran Status
+Job Wrapping 1: #LI-ML2

@@ -1,0 +1,28 @@
+JOB TITLE: Data Scientist - NLP
+LOCATION: Remote
+DURATION: 1+ year
+
+COMPANY:
+Our client is a Fortune 500 multi-national technology company headquartered in Menlo Park, CA.
+
+Summary:
+The main function of the Data Scientist is to produce innovative solutions driven by exploratory data analysis from complex and high-dimensional datasets.
+
+Job Responsibilities:
+Apply knowledge of statistics, machine learning, programming, data modeling, simulation, and advanced mathematics to recognize patterns, identify opportunities, pose business questions, and make valuable discoveries leading to prototype development and product improvement.
+Use a flexible, analytical approach to design, develop, and evaluate predictive models and advanced algorithms that lead to optimal value extraction from the data.
+Generate and test hypotheses and analyze and interpret the results of product experiments.
+Provide Business Intelligence (BI) and data visualization support, which includes, but limited to support for the online customer service dashboards and other ad-hoc requests requiring data analysis and visual support.
+
+Skills:
+Experienced in either programming languages such as Python and/or R, big data tools such as Hadoop, or data visualization tools such as Tableau.
+The ability to communicate effectively in writing, including conveying complex information and promoting in-depth engagement on course topics.
+Experience working with large datasets.
+
+***Experience in Natural Language Processing is advantage***
+
+Education/Experience:
+Master of Science degree in computer science or in a relevant field.
+
+
+IND123

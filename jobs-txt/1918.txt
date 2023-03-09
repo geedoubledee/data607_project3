@@ -1,0 +1,31 @@
+Note: This is a fully remote role for the right candidate. Need someone having exp in Artificial Intelligence and Machine Learning.
+Overview:
+The AI/ML product manager will contribute by managing several products within the portfolio of AI/ML platform products. The AI/ML product manager’s core responsibilities will include developing the product roadmap, conducting user research, and fostering shared understanding by creating personas and user journeys. They are also responsible for managing Jira backlogs and acting as product owners for corresponding scrum teams. Candidates can expect to closely collaborate with platform engineers and data scientists as well as leadership teams.
+Experience with data science, data engineering, and MLOps workflows in a traditional on-prem, hybrid cloud, or public cloud environment is highly desirable as is product management experience related to a large, multi-faceted product with many stakeholders.
+Manager Notes:
+7+ years of relevant professional experience
+This team builds out the core platforms that are used by the Quantitative teams in order to ingest the data required.
+A Product Manager who has exposure in the Analytics space, broad Analytics where similar concepts are seen is ideal for this team. Someone who has worked on a platform in order to build core capabilities. Someone who understands the challenges of putting things in to production
+This team isn't seeking an AI/ML analyst but rather someone who has experience performing duties of a Product Manager, understanding Jira, Agile Scrum and acting as a Product Owner within Agile Scrum team
+Top Skills:
+-Product Manager experience
+-Meeting regularly with tech teams
+-Exposure and knowledge of technology stack in an Analytic environment
+-AI/ML knowledge is a subset of that analytic experience that is nice to have
+-Big Data environment
+-Cloud-technology environment is changing and the move to google cloud is an important distinction of the role
+Required Technology Skills:
+-Familiarity in big data tools, Hadoop, Spark
+-Unix based environment
+-Knowledge of Python is a plus (not seeking a developer of course)
+-Understanding data warehouse (e.g. teradata) vs. datalake (hadoop)
+-BI Reporting-Tableau
+-SQL
+Specific education/License Requirements:
+-Bachelors in Analytics or Business related field is a nice to have
+Preferred Industry/Company Experience:
+-Financial Services is helpful but the models are not heavily related to work in a financial organization.
+Job Type: Contract
+Pay: $60.00 - $67.50 per hour
+Schedule:
+8 hour shift

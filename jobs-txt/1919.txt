@@ -1,0 +1,33 @@
+Polypore International, an Asahi Kasei Group Company, is a leading technology company specializing in microporous membranes. We bring advanced technology, unique problem solving capabilities and global manufacturing expertise to Celgard's lithium-ion and Daramic's lead-acid battery applications and systems development teams.
+Summary Description:
+Polypore is seeking a Data Engineer that will develop data solutions to provide relevant, timely, and insightful information to support reporting, data analytics and data science functionality. The incumbent will work both collaboratively and independently among a team of other data specialists in the areas of requirements gathering, learning industry best practices, data and solution architecture, development methodologies.
+Responsibilities:
+Evaluate and improve T-SQL, MDX, DAX, HiveQL programming concepts such as queries, stored procedures, functions, temporary tables, parameterization, complex joins and groupings.
+Develop and optimize ETL/ELT pipelines, to load data from on premise and online systems
+Ensure data solutions stability and performance optimization.
+Conduct data warehouse model design, development and support.
+Prepare, cleanse, validated datasets for data science purpose.
+Assist data troubleshooting, data featuring and data discovery.
+Develop tools to automate development and monitoring process.
+Develop python algorithms for data processing.
+Support Data science environment, assists data science projects.
+Manage time effectively to ensure that projects delivered on schedule.
+Provide on-going maintenance and support of existing and new data solutions.
+Support solution automation and CI/CD.
+Requirements:
+Must possess 5+ years of experience with developing business intelligence solutions including data integration, data schema development, data pipelines, modeling and reporting/analytics
+Strong understanding of database design principles
+Advanced SQL writing & query tuning
+Strong experience in data pipeline development, monitoring and support, ADF, SSIS
+Experience with Azure data ecosystem: ADLS, ADF, Synapse, Delta Lake, etc.
+Distributed compute experiences: Spark, Databricks, Scala, Pyspark.
+Data Warehouse experience, knowledge of MDX, DAX, SSIS, SSAS
+Familiarity with data science tools: Jupyter Notebooks, Python
+Data validation, cleansing, featuring
+High capacity for data analysis, data modeling, computer programming, problem-solving, sound judgment, accuracy, and attention to detail
+Excellent oral and written communication skills
+Strong English reading and writing communication skills, with an ability to express and understand complex technical concepts
+Ability to play developer roles for automation and integration
+CI/CD experience
+PowerBI reporting knowledge is a plus
+#LI-TR1

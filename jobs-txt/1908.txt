@@ -1,0 +1,30 @@
+We are on a mission to unlock impossible AI for all.
+Imagine a world in which breakthrough discoveries are commonplace. Here at Synthetaic, we help organizations transcend data-access and data-quality issues, unleashing the full impact of AI in all fields. Simply put, our technology unlocks previously impossible AI that has the power to change the world.
+
+That’s all well and good, but despite our high-tech profile, we recognize that none of this is possible without our people. Which is why we’re thrilled to be adding an Associate Machine Learning Engineer to our Technology team.
+Here’s what you’ll be working on:
+Writing efficient, reusable, testable, and scalable code for core components of AI projects
+Understanding and analyzing existing code written to carry out AI-related tasks
+Collaborating closely with AI/ML Engineers and Data Scientists to scope out and design AI software packages
+Conducting various experiments, code debugging, and python development with close attention to detail
+A good Associate Machine Learning Engineer at Synthetaic must have the following skills, knowledge, education and experience:
+Master’s degree in Computer Science (or related field) or Bachelor's degree in Computer Science, Software Engineering, Data Science, or Electrical Engineering with 1-2 years of experience in AI/ML
+Strong desire to learn and curiosity towards new technologies
+Solid Python programming skills
+Strong analytical and problem-solving skills
+Deep understanding of one of the following areas: AI, machine learning, or deep learning
+Familiarity with AI/ML software packages and frameworks (NumPy, Pandas, Scikit-learn, Matplotlib, opencv, PyTorch/Tensorflow), Linux OS environment
+Familiarity of various neural network architectures (CNN, GAN, transformer, etc.) specifically applied to solve computer vision or image processing problems.
+Familiarity with cloud technology
+Permanent eligibility to work in the United States without sponsorship
+If you want to go above and beyond, bring these skills and characteristics to the table:
+Ability to work full-time onsite at our office in Delafield, Wisconsin
+Excellent communication skills (written and verbal)
+Working knowledge of cloud technology
+Familiarity with object oriented programming
+Advanced working knowledge of Pytorch or TensorFlow
+Familiarity with computer science/software engineering concepts, including common data structures and algorithms
+Familiarity with docker containers
+Implemented state-of-the-art models from research papers
+Solid background in deep learning: layer details, loss functions, accuracy metrics, optimization, etc.
+Synthetaic is an Equal Opportunity Employer, and all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability status, protected veteran status, or any other characteristic protected by law. Synthetaic is committed to working with and providing reasonable accommodations to individuals with disabilities. If you need a reasonable accommodation because of a disability for any part of the employment process, please send an e-mail to careers@synthetaic.com and let us know the nature of your request and your contact information.

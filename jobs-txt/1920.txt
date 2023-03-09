@@ -1,0 +1,53 @@
+Anteriad, meaning “pointing forward,” accurately represents its forward-looking approach and solutions that help customers take the lead in a competitive market. Anteriad is the leading B2B marketing solutions provider for blue-chip brands, including IBM, Microsoft, and Cisco. Marketers choose_ Anteriad_ for their intent-driven, full-funnel ABM and demand generation platform, world-class data and analytics, and performance marketing capabilities. Anteriad drives meaningful growth for customers by combining the technology and expertise B2B marketers need to win in today’s competitive market.
+The Opportunity:
+Anteriad is searching for a SQL Database Administrator (DBA) with extensive Microsoft SQL Server experience and outstanding technical support skills!
+An individual who is motivated to find the root cause solutions and who likes to take on an unknown issue as a challenge and a chance to expand their knowledge. The DBA will keep the databases up and running smoothly 24/7. The goal is to provide a seamless flow of information throughout the company, considering both backend data structure and frontend accessibility for end-users. You will be responsible for the performance, integrity, and security of databases. You will be responsible for designing, testing, planning, implementing, protecting, operating, managing, and maintaining our company's databases.
+What You'll Do:
+Building databases of high availability and quality depending on client’s requirements
+Implementing databases in accordance to internal users information needs and views
+Making requested changes, updates and modifications to database structure and data
+Ensuring database security, integrity, stability and system availability
+Maintaining database backup and recovery infrastructure
+Assist with schema design, code review, SQL query tuning/optimization
+Install, tune, implement and upgrade DBMS installations
+Provide Stored Procedure, PowerBi support
+Provide SSRS Reports and SQL Server Service Broker support
+Provide Index support, including ColumnStore indexes
+Test and Deploy SQL patches * Upgrade and improve application schema and data upgrades
+Minimize database downtime and manage parameters to provide fast query responses
+Provide proactive and reactive data management support and training to users
+Determine, enforce and document database policies, procedures and standards
+Perform tests and evaluations regularly to ensure data security, privacy and integrity
+Monitor database performance, implement changes and apply new patches and versions when required
+What You'll Bring:
+Bachelor’s degree in computer science or related management information systems field
+5+ years’ experience with Microsoft SQL Database Administration
+Hands-on experience with database standards and end user applications
+Excellent knowledge of data backup, recovery, security, integrity and SQL
+Experience with database design, documentation and coding
+Familiarity with programming languages API
+Problem solving skills and ability to think algorithmically
+Good understand database design, implementation, trouble-shooting and maintenance
+Sense of ownership and pride in your performance and its impact on company’s success
+Monitor performance and manage parameters to provide fast responses to front-end users
+Map out the conceptual design for a planned database
+Install and test new versions of the database management system (DBMS)
+Write database documentation, including data standards, procedures and definitions for the data dictionary (metadata)
+Control access permissions and privileges
+Develop, manage and test back-up and recovery plans
+Carry out capacity planning
+Manage the security and disaster recovery aspects of a database
+Critical thinker and problem-solving skills
+Good time-management skills
+Great interpersonal and communication skills
+Capable of working under pressure
+Bonus Points If You Possess Any Of The Following:
+Microsoft Certification MCDBA
+AWS Certified Database
+#LI-Remote
+Our Values:
+Lead & Learn We lead with unrivaled vision, innovation and execution, always learning and embracing new ways of doing things to stay out in front
+Collaborate & Celebrate We build great things when we work together as one Anteriad team, celebrating our achievements – both great and small – along the way
+Innovate & Inspire We are always looking for bold new ways to exceed the expectations of our customers and to inspire each other to even greater success
+Do More & Do Good We go above and beyond in the service of our clients and colleagues, and the communities where we
+Job Type: Full-time

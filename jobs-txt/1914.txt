@@ -1,0 +1,33 @@
+Drover AI builds high-performance, edge-based IoT hardware to solve challenging transportation problems. As a member of the core team, you will be part of a highly-motivated, growing company deploying and maintaining custom cutting-edge hardware & software products.
+This role offers a unique opportunity to be involved with an organization pioneering the use of computer vision and AI on micromobility vehicles. You will be responsible for managing our image data and firmware deployments while being an important contributor to our customer-facing team.
+Prior Python coding experience is a plus.
+Desired Experience
+Customer-focused with excellent communication, strong organizational and analytical skills with an eye for detail
+Ability to stay calm while under deadlines and handling customer issues
+Inquisitive nature to learn more about artificial intelligence
+Experience logging, debugging, and analyzing error logs
+Experience with tracking information in spreadsheets
+Experience supporting custom software solutions
+How you will excel in this role
+Sort, tag, and annotate image data for our AI models and R&D projects to provide useful information for the AI team
+Prepare and deploy firmware updates to our IoT devices in the field (currently 7,000 and growing!)
+Monitor firmware update progress across customers/fleets and ensure completion, coordinating with users as necessary
+Log failed firmware deployments and report detailed issues to internal stakeholders
+Interact with end-users and manage incoming customer requests
+Ability to work cross-functionally with other Drover team members
+Basically someone who can get stuff done
+Job Type: Full-time
+Pay: $40,000.00 - $50,000.00 per year
+Benefits:
+Dental insurance
+Flexible schedule
+Health insurance
+Paid time off
+Schedule:
+Monday to Friday
+Self-determined schedule
+Ability to commute/relocate:
+Cincinnati, OH 45241: Reliably commute or planning to relocate before starting work (Required)
+Experience:
+spreadsheet: 1 year (Preferred)
+Work Location: One location

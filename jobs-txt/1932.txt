@@ -1,0 +1,49 @@
+General information
+All posting locations: Chicago, Illinois, United States of America, Don Mills, Ontario, Canada
+Job Function: 04 - IT
+Date Published: 16-Nov-2022
+Ref #: R-63357
+Description & Requirements
+The Machine Learning Operations (MLOps) is a new team and is instrumental in guiding the Advanced Analytics journey at Kraft Heinz. As a part of this highly energetic team you will be responsible for creating/maintaining model pipelines and putting models into production. You will also get opportunities to expand your horizons working with the data scientists to develop ML models and best in class architecture using industry best practices. Overall- if you are passionate about applying technology to solve practical business problems- developing intelligent tools- and working with a friendly team to drive business value- this is going to be your dream team to enrich your career. The sky is not the limit in terms of enhancing your knowledge and working on a variety of projects with the Data Science team at Kraft Heinz!
+Primary Responsibilities
+Implement machine learning algorithms and customized libraries
+Assist Data Science team with development of complex tools- models or database builds
+Collaborate with data engineers and data scientists to develop data and model pipelines
+Improve existing Machine Learning models
+Write production-level code
+Bring code to production and engage in code reviews
+Use of problem-solving- advanced Analytics methodologies (ML/AI) knowledge to derive architecture of ML models and assist development of new models
+Responsible for ongoing operation for existing models.
+Working with Data Engineers & Data Scientists to ensure integrity & governance- rituals and routines
+Provide inputs/stories and assist in prioritization of Data Engineering sprints
+Qualifications
+Understanding of the major modelling techniques are how to apply them (Linear and Logistics Regression- Bayesian- Time series- Confidence interval- Deep Learning etc.)
+Experience in role delivering and supporting analytical capabilities.
+Experience supporting ML models in a production cloud environment (Azure experience preferred)
+“Hands-on” experience with analytical tools (preferably AzureML- Vertex- SageMaker- Snowflake- DataBricks- Tableau- Alteryx- SQL- Python- and/or R)
+Strong experience developing CI/CD pipelines
+Fluent in version control tools and practices (Github- Azure DevOps).
+Project management experience and strong communication skills
+Self-Starter- driven with high business process acumen
+Team Player with a positive attitude and ability to work across different business stakeholder and technical teams to accomplish complex tasks
+Experience working with database systems and analytical tools
+Strong communication- problem-solving skills and a strong team player
+Domain Expertise
+Working experience in supporting mission critical ML loads in a production environment.
+Proven model operation management (production rollouts- upgrades- security) experience
+Experience leading analytical innovation
+Experiences
+Experience in leading and managing cross functional teams.
+Expert at developing analytical talent and managing remote teams (internal and external)
+Individual Skills
+Strong leader- collaborator- team player- and individual contributor
+About Us
+The Kraft Heinz Company is one of the largest food and beverage companies in the world, with eight $1 billion+ brands and global sales of approximately $25 billion. We’re a globally trusted producer of high-quality, great-tasting, and nutritious foods for over 150 years. Our brands are truly global, with products produced and marketed in over 40 countries. These beloved products include condiments and sauces, cheese and dairy, meals, meats, refreshment beverages, coffee, infant and nutrition products, and numerous other grocery products in a portfolio of more than 200 legacy and emerging brands.
+No matter the brand, we’re united under one vision: To sustainably grow by delighting more consumers globally. Bringing this vision to life is our team of 39,000+ food lovers, creative thinkers, and high performers worldwide. Together, we help provide meals to those in need through our global partnership with Rise Against Hunger. We also stand committed to responsible, sustainable practices that extend to every facet of our business, our consumers, and our communities. Every day, we’re transforming the food industry with bold thinking and unprecedented results. If you share our passion – and are ready to create the future, build a legacy, and lead as a global citizen – there’s only one thing to do: join our table and let’s make life delicious!
+Our Culture of Ownership, Meritocracy and Collaboration
+We're not afraid to think differently. Embrace new ideas. Dream big. We empower our people at every level – from entry-level intern to senior leader – to own their work. We share a responsibility to think like Owners – to be mindful of the collective and sustained success of Kraft Heinz – which we apply to every situation, every day.
+As part of Kraft Heinz, you're supported to grow and achieve. You’re expected to bring your authentic self to work every day, to lead with humility, and drive outstanding performance at every level – and you’ll be rewarded. You’re given opportunities to leave a mark and build a legacy. But you won’t do it alone. You’re supported by passionate teammates along the way, and our collective, collaborative spirit fuels our incredible progress.
+Kraft Heinz Canada - New Headquarters - 2023
+
+Kraft Heinz is on a journey of transformation and part of this plan is to move our Global HQs back into city centers. It is time for Toronto to shine with a Canadian innovation and talent hub that reflects our unique people & food culture. After 40 years at the Don Mills location, the Kraft Heinz Canada headquarters will move to the Queen’s Quay Terminal (QQT) at 207 Queen’s Quay West. Roles currently based out of the Don Mills office will move to Queen’s Quay upon its opening in Spring-Summer 2023. We are thrilled to be moving to this vibrant, waterfront location in close proximity to public transportation. We are taking the design of our new workplace to the next level with modern furnishings, amenities, spacious co-working areas and a state-of-the-art Kitchen, putting Food at the heart of the overall employee experience. Flexible work is here to stay, and we need a space that will keep the pace. Modern technology will enhance our experience both at home and in the office. Having all of us together in our new vibrant space will deliver a rich, team-focused, agile experience that promotes connection, communication, collaboration and transparency.
+Kraft Heinz is an Equal Opportunity Employer - Underrepresented Ethnic Minority Groups/Women/Veterans/Individuals with Disabilities/Sexual Orientation/Gender Identity and other protected classes. In order to ensure reasonable accommodation for protected individuals, applicants that require accommodation in the job application process may contact HRCompliance@kraftheinz.com for assistance.

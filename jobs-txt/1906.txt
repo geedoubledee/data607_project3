@@ -1,0 +1,17 @@
+DATA ENGINEERS
+Remote
+Must Haves:
+5+ years in “Data Engineering” for mid; 8+ years in “Data Engineering” for Senior
+Python
+SQL
+Cloud
+Snowflake
+Job Type: Full-time
+Salary: From $40.00 per hour
+Schedule:
+8 hour shift
+Experience:
+SQL: 5 years (Preferred)
+Python: 5 years (Preferred)
+Cloud: 1 year (Preferred)
+Work Location: Remote

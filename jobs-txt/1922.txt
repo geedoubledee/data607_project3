@@ -1,0 +1,17 @@
+Job Title: Data Engineer with Alteryx
+Location: Remote Opportunity - Need to work in EST hours
+Visa Type: US Citizen Only
+Duration: long term
+Job Description:
+Experience in Data engineering.
+Need to have experience with Alteryx workflows and Python (as primary skillset).
+Need to have exposure to Azure Data factory flow compilation of the converted data processing.
+Workflow scheduling with Airflow DAG’s.
+Bachelor's degree in a technical discipline or related field.
+Job Type: Contract
+Experience:
+Data Engineer: 4 years (Preferred)
+Alteryx Workflows: 2 years (Preferred)
+Python: 1 year (Preferred)
+Azure Data factory: 1 year (Preferred)
+Work Location: Remote

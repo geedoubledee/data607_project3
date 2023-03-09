@@ -1,0 +1,22 @@
+Description:
+The Machine Learning (ML) Engineer will be a self-starter and technical leader that will continue progress on projects and help shape new directions for the organization. They will work closely with internal and external teammates, in a very collaborative environment, to take technologies to new software and services.
+We are looking for ML Engineers from all areas of machine learning and artificial intelligence, but significant Reinforcement Learning experience is required. The candidate must be passionate, be able to demonstrate ability for independent research, and be able to provide hands-on technical leadership. You will also have the opportunity to work closely with internal partners to see your ideas realized in multiple products and
+Requirements:
+US Citizenship
+Understanding of data structures, data modeling and software architectures (design patterns, reliability, and scaling) of new and current large scale distributed software systems.
+Foundational knowledge in linear/logistic regression, random forest, boosting, NN, etc.
++3 years of professional software development experience.
++3 years of strong programming fluency in Python, R, or MATLAB.
+Mastery in communication of technical ideas to non-technical / lay audiences.
+Ability to translate goals / aspirations into practical and deliverable solutions.
+Deep and demonstrated applied knowledge of math, probability, advanced statistics, control theory, algorithms, and modeling.
+Demonstrable expertise in reinforcement learning and at least two of the following areas: natural language processing, computer vision, deep learning, augmented / virtual reality systems, signal, image and /or video processing, expert systems, or simulation.
+Familiarity with libraries such as PyTorch, Tensorflow, pandas, scikit-learn, etc.
+Familiarity with accessing, managing, transferring, integrating, and analyzing high resolution and highly complex datasets, using database management systems (knowledge in SQL).
+Applied experience building models containing disparate data streams.
+Desire to be involved in multiple diverse and innovative projects
+DOD experience
+Ability to obtain and maintain a SECRET security clearance
+Desired
+Experience building and/or working with data pipelines and data lakes
+Experience using scale-out cloud and/or HPC architectures for parallel programming

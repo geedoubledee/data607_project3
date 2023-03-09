@@ -1,0 +1,33 @@
+Overview:
+
+Aspire to Grow and Make an Impact!
+Are you passionate about data and its importance to a company? The Database administrator will work with a team responsible for the management of RDBMS systems supporting business systems applications.
+
+How can you make an Impact?
+He/she will work with the database engineering team to provision, configure, patch and support RDBMS systems. This position requires solid knowledge of relational database technologies and hands-on experience building and managing enterprise RDBMS applications. Applicant should be skilled with Oracle database administration, Oracle 19C, MySQL database administration, PostgreSQL database administration, MS SQL Server database administration. Acquaintance with Cassandra, Oracle Clusterware and ASM, Mongo DB technologies.
+
+What You’ll Do
+Production DBA support; inclusive of management, resolution or escalation of support tickets.
+Participate on the team responsible for the administration and support functions related to RDBMS systems. Participate in root cause analysis activities. Participate in rotating 12 by 7 on-call operational support of the database systems as scheduled. Participate on teams that are responsible for “run” functions related to database architecture. Participate with diverse development and support teams to provide guidance on database issues, performance and scalability. Participate in rotating on-call support.
+Perform support activities such as database software installation and configuration. Ensure database activities meet all MHE security standards. Ensure data structures support the changing needs of the business. Ensure the reliability of the databases in the production environment.
+Support AWS RDS like MySQL, PostgreSQL and Aurora in day-to-day support activities.
+Research and support shell scripting, AWS cloud, Terraform based basic coding
+Work closely with system, network, and SAN administrators to support highly available and scalable solutions. Provide support on database software patching and database life cycle management per MHE policy. Serve as a technical database resource on development teams as required.
+OCI database administration experience is a plus.
+What We Value / What You’ll Bring
+Bachelor's degree; technology oriented preferred.
+5+ years of experience as mid-level DBA; Oracle DBA with MySQL.
+AWS experience a plus
+Highly motivated technical professional with strong communication skills.
+
+Work Model: Remote
+
+Why work with us?
+As an education innovation company, we are proud to play our part by inspiring learners around the world. If you bring your curiosity, we will help you grow in a collaborative environment where everyone shares a passion for success.
+
+Are you ready for a new challenge? Apply for a career at McGraw Hill and together, we’ll impact the world.
+
+We are highly committed to Diversity & Inclusion. Learn more here:
+https://www.mheducation.com/about/diversity-equity-inclusion.html
+
+The pay range for this position is between $90-105k annually, however, base pay offered may vary depending on job-related knowledge, skills, experience and location. Additionally, a full range of medical and/or other benefits may be provided, depending on the position offered. This information is provided per the Colorado Equal Pay Act.

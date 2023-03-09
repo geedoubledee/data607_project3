@@ -1,0 +1,40 @@
+Who We Are:
+MRI-Simmons Research is a leading consumer insights company. We are an established organization, with a great brand, that is aggressively reinventing itself through investments in technology and people!
+What We Do:
+MRI-Simmons measures consumer preferences, attitudes, and behaviors. We do this by collecting data through surveys and passively measured data in a way that is representative of the general population, applying data science and making sense of consumer data through enterprise-grade software. Marketers and media companies then use MRI-Simmons data and technology to develop marketing strategies, consumer segmentation schemes and media activation approaches. The MRI-Simmons Insights Product is a consumer intelligence and discovery platform that provides marketers with faster access to actionable consumer insights.
+Job Description:
+We are looking for a Machine Learning Developer to help us extract insights from our high-quality datasets. You will work with the team on all the processes from data collection, cleaning, and pre-processing, to training models and deploying them to production. The ideal candidate will be passionate about artificial intelligence and stay up to date with the latest developments in the field. You will be analyzing ML algorithms that could be used to solve a given problem and ranking them by their success probability. This team member collaborates with Data Scientists to design tools to train machine learning models using data from across the enterprise and deploy machine learning services at various decision points across the business process. This person builds tools for monitoring the performance of machine learning applications and develops the necessary failsafe procedures that ensure the delivery of the most optimal decisions.
+As the Machine Learning Developer, you will have following key accountabilities:
+Understanding business objectives and developing models that help to achieve them, along with metrics to track their progress
+2+ Years in Data Analytics. Exploring and visualizing data to gain an understanding of it, then identifying differences in data distribution that could affect performance when deploying the model in the real world
+Finding available datasets for training & defining validation strategies
+Defining the pre-processing or feature engineering to be done on a given dataset
+Ability to work in a collaborative and team environment
+Now that we have introduced you to the position of Position Title, what skills, qualifications, and experience should you, have?
+At least 2 years of relevant experience on Python
+Experience with NLP toolkits, like NLTK, is preferred
+Expertise in visualizing and manipulating big datasets
+Exceptionally self-motivated with strong written and oral communication, organizational, interpersonal and time management skills
+Experience in Cloud Software Services, preferably Azure.
+Bachelor’s in engineering or 5 years of development experience
+What we offer:
+401K Match
+Medical/ Vision/ Dental Insurance
+Work life balance- Hybrid or Remote schedule
+Tuition Assistance – up to $5,250.00 yearly
+11 paid corporate Holidays
+Life / Pet Insurance
+Commuter Benefits
+Supplier Discounts/ Plum Benefits partnership
+Salary commensurate with experience, annual base salary range: $130K-$140K
+At GFK we value diversity, equity, and inclusion. As part of GfK, you can take your future into your own hands. We encourage an entrepreneurial and innovative spirit.
+All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, or status as a protected veteran.
+Job Type: Full-time
+Pay: $130,000.00 - $140,000.00 per year
+Benefits:
+Health insurance
+Paid time off
+Schedule:
+8 hour shift
+Monday to Friday
+Work Location: Hybrid remote in New York, NY 10281

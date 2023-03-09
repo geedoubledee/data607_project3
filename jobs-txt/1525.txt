@@ -1,0 +1,70 @@
+Job Title
+Database Administrator II
+Job Description
+If you are enthusiastic about education, using your skills and talents to help improve people’s lives, and interested in working on a team of professionals at a globally respected education organization- you’ve found the right place. At Kaplan, we’re passionate about what we do and who we do it for.
+
+Unyielding determination to make a difference in people's lives through the power of education- That is Kaplan. For more than 80 years, Kaplan has been a trailblazer in education and professional advancement. We are the intersection of education and technology, providing our students and clients with an experience that not only allows them to achieve their goals, but also ignites lifelong learning. Kaplan’s culture of collaboration, innovation, and creativity truly makes Kaplan a great place to work and positions us to continue to deliver a best-in-class educational experience.
+
+The future of education is here and we are eager to work alongside those that want to make a positive impact and inspire change in the world around them.
+Primary Responsibilities
+Provides Operational support in the management of databases on which KNA’s applications store/retrieve data, troubleshooting and resolution to Incidents and Alerts, including escalation to provider as needed
+The position requires availability for on-call rotation and to work outside regular business hours and on weekends.
+Following and enforcing policies and procedures, Supports the deployment of code and execution of complex tasks on KNA databases, including but not limited to Application deployments, O/S and Databases engines patches and upgrades, Data refreshes in non-production environments, Security changes.
+Provides Operational KPIs to management and Database engineering team
+Maintain/upgrade DBA tools, and settings (directly or by request) of enterprise monitoring tools.
+Uses/maintain documentation/runbooks related to periodical tasks, like: upgrades, environment refresh tool, security changes.
+Engages and cooperates with the Database engineer team to improve processes and procedures
+Where applicable, cooperates with Vendors to optimize their work in Kaplan.
+
+Education & Experience
+
+Bachelor's or Master's degree in IT or equivalent experience
+5+ years of support for at least 2 of these technologies:
+PostgreSQL (AWS RDS)
+MongoDB/DocumentDB (AWS RDS/Atlas)
+Oracle (AWS RDS)
+MSSQL Server (On-prem, Azure, AWS RDS, EC2) including
+AlwaysOn Availability Groups
+ETL
+SSRS
+SSIS
+MySQL
+SQL (based on each technology)
+Strong working knowledge of optimization, troubleshooting and supporting of supported technology
+Large high-availability production environment residing on Amazon RDS
+Languages used to support automation, like Python and Powershell
+Working knowledge of the platform supporting the technologies
+
+Preferred Qualifications
+Knowledge for MSFT Azure database technologies
+Experience and comfort using both Linux and Windows.
+Experience with Bash, Powershell, Python or comparable scripting languages.
+Familiar with Agile methodologies, and use of tools like Google workspace, Jira, GitHub, ServiceNow
+We offer a competitive benefits package including:
+Remote work providing flexible work/life balance
+Comprehensive Retirement Package including 401K company match and two pension programs
+Our Gift of Knowledge Program provides tuition assistance and substantial discounts for our employees and close family members
+Competitive health benefits and new hire eligibility starts day-1 of employment
+Generous Paid Time Off includes paid holidays, vacation, personal, sick paid time-off, plus one (1) volunteer day and one (1) diversity and inclusion day to participate and give back to our local communities
+And so much more!
+
+#LI-AR2
+#LI-Remote
+Colorado Residents: Salary Range in Category B
+Location
+Remote/Nationwide, USA
+Additional Locations
+Employee Type
+Employee
+Job Functional Area
+Technology
+Business Unit
+00072 Kaplan Test Prep
+Kaplan is an Equal Opportunity Employer. All positions with Kaplan are paid at least $15 per hour or$31,200 per year for full-time positions. Compensation for specific positions are based on job level, skills, years of experience, and education, among other factors. Additionally, certain positions are bonus or commission eligible. Information regarding benefits can be found
+here
+.
+Diversity & Inclusion Statement :
+
+Diversity inspires innovation and growth in the Kaplan community. Kaplan strives to be a model employer for inclusiveness. Not only does Kaplan value its employees for their professionalism and skills, but also for the unique viewpoints they bring to the Organization. Kaplan's employees bring diverse perspectives, ideas, and backgrounds that give Kaplan a competitive edge in anticipating and exceeding our students' needs in today's global market. Learn more about our
+culture
+.

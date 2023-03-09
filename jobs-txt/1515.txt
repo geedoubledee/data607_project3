@@ -1,0 +1,22 @@
+Legacy Financial Planning system which needs to be documented
+Resources will need to conduct interviews and document the system
+Provide weekly status updates on where we stand on documentation
+Work with business users and other assigned team members to gather and document business requirements, analyze, design technical solutions
+Work closely with the appropriate IT teams to ensure technical best practices.
+Perform analysis for functional areas.
+Creates functional specifications as an input to application design/configuration for system.
+Develop and test detailed functional designs and configuration for multiple application functions.
+Provide day-to-day support for issues that affect the daily operation of system and their interfaces; help resolve such issues in a timely manner.
+Any experience on Mobile applications and interfaces documentation is preferred and desired.
+Experienced in producing application design documents.
+Experienced in functional and technical specification documents.
+Any testing experience will be a plus and highly preferred.
+IT IS A PART TIME (20 HOURS A WEEK) JOB AND DURATION IS 2 MONTHS
+This is key and they should have some understanding from Integration projects and API management.
+Job Type: Part-time
+Pay: $50.00 - $70.00 per hour
+Schedule:
+4 hour shift
+Experience:
+SQL: 1 year (Preferred)
+Work Location: Remote

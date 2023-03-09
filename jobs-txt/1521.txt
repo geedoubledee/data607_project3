@@ -1,0 +1,65 @@
+Company Description
+
+It all started with an idea at Block in 2013. Initially built to take the pain out of peer-to-peer payments, Cash App has gone from a simple product with a single purpose to a dynamic app, bringing a better way to send, spend, invest, borrow and save to our millions of monthly active users. With a mission to redefine the world's relationship with money by making it more relatable, instantly available and universally accessible, at Cash App you'll have the opportunity to make a real-world impact with your career.
+
+Today, Cash App has thousands of employees around the world with a culture geared toward creativity, collaboration and impact. We’ve been a distributed team since day one, and continue to value working across time zones and continents both remotely and in our Cash App offices.
+
+Our offices are great, but many of our roles can be done remotely from the countries where Block operates. We tailor our experience to champion our employees’ creativity and productivity wherever they are.
+
+Check out our locations, benefits and more at cash.app/careers.
+
+Job Description
+
+We are looking for a Senior Business Intelligence Analyst to join our new and growing analytics team within Cash App’s Data Science Organization. This team is dedicated to enabling data self-service for the teams that respond to both regulatory and external/internal business partner inquiries. This is a new horizontal analytics discipline at Cash App, and we expect it to expand to support the broader set of analytics questions as it grows. The team is in the boot up process and is beginning to establish partnerships across the Cash business including a variety of stakeholders from Product, Engineering, Counsel, and Operations. We are looking to bring on technically strong analysts with an interest in becoming subject matter experts (SMEs) across wide surfaces within Cash App.
+This analytics team will need to design solutions that increase automation as we scale. This team will partner directly with others within the organization to establish best practices and develop more advanced technical skills to power this journey.
+We are looking for analysts with broader skill sets that include the ability to quickly understand the business context of a wide variety of products at Cash App, and the ability to help design more scalable and repeatable solutions to complex problems. Please expect an interview process which assesses both technical skills and broader business acumen.
+
+In this role, you will:
+Act as a point of contact for confidential data requests from the teams that respond to regulators, partners, and litigations received for Cash App
+Interface with in-house and outside counsel teams to understand and deliver repeatable data access within defined timelines
+Focus on designing self service tools that eliminate the need for multiple Ad-Hoc requests related to the same subject matter
+Take ownership of proactively documenting team’s knowledge to enable others to quickly solve the next challenge
+Partner with the broader Data Science team to automate QA requirements for our self service tools (dabble in test driven design!)
+Identify data and process improvement opportunities; propose solutions for the future and work cross functionally to implement those recommendations
+Perform analyses on large data sets to provide insights and actionable recommendations that will help satisfy various legal, regulatory, and compliance requests
+Work closely with Data Engineers and other cross-functional teams to build scalable data infrastructure to quickly satisfy a wide range of requests from our legal and compliance teams
+Be a SME both technically and functionally, for Cash App data, identifying actionable insights that inform business processes and how we respond to regulatory requests
+Maintain confidentiality regarding the work you do, and the nature of the requests
+
+Qualifications
+3+ years of experience as a Business Intelligence Analyst with 2+ years of experience in a compliance, regulatory, or legal environment
+Ability to communicate and partner with legal, business, and technical teams clearly, and translate complex information needs into specific action items
+Experience gathering business requirements, creating ad-hoc reports, and designing scalable solutions to automate those ad-hoc reports
+Experience querying, analyzing, and reporting large data-sets to answer complex business questions
+Technical skills must include Advanced SQL, Data Visualization via tools like Tableau/Looker/Mode
+Creative data visualizer
+Able to create a report without use of Excel/GSheet
+Effective time management skills with the ability to adjust to multiple demands, shifting priorities and rapid change
+Strong ability to break down large tasks into smaller, achievable milestones
+Strong ability to both communicate and negotiate expectations for your projects with stakeholders
+Proven ability to work both individually and in a team environment and display a positive business presence and sound judgment with management and external personnel
+
+Additional Information
+
+Block takes a market-based approach to pay, and pay may vary depending on your location. U.S. locations are categorized into one of four zones based on a cost of labor index for that geographic area. The successful candidate’s starting pay will be determined based on job-related skills, experience, qualifications, work location, and market conditions. These ranges may be modified in the future.
+
+Zone A: USD $138,200 - USD $169,000
+Zone B: USD $128,500 - USD $157,100
+Zone C: USD $121,700 - USD $148,700
+Zone D: USD $110,600 - USD $135,200
+To find a location’s zone designation, please refer to this resource. If a location of interest is not listed, please speak with a recruiter for additional information.
+Benefits include the following:
+Healthcare coverage
+Retirement Plans including company match
+Employee Stock Purchase Program
+Wellness programs, including access to mental health, 1:1 financial planners, and a monthly wellness allowance
+Paid parental and caregiving leave
+Paid time off
+Learning and Development resources
+Paid Life insurance, AD&D. and disability benefits
+Perks such as WFH reimbursements and free access to caregiving, legal, and discounted resources
+This role is also eligible to participate in Block's equity plan subject to the terms of the applicable plans and policies, and may be eligible for a sign-on bonus. Sales roles may be eligible to participate in a commission plan subject to the terms of the applicable plans and policies. Pay and benefits are subject to change at any time, consistent with the terms of any applicable compensation or benefit plans.
+We’re working to build a more inclusive economy where our customers have equal access to opportunity, and we strive to live by these same values in building our workplace. Block is a proud equal opportunity employer. We work hard to evaluate all employees and job applicants consistently, without regard to race, color, religion, gender, national origin, age, disability, veteran status, pregnancy, gender expression or identity, sexual orientation, citizenship, or any other legally protected class.
+We believe in being fair, and are committed to an inclusive interview experience, including providing reasonable accommodations to disabled applicants throughout the recruitment process. We encourage applicants to share any needed accommodations with their recruiter, who will treat these requests as confidentially as possible. Want to learn more about what we’re doing to build a workplace that is fair and square? Check out our I+D page.
+Additionally, we consider qualified applicants with criminal histories for employment on our team, assessing candidates in a manner consistent with the requirements of the San Francisco Fair Chance Ordinance.
+Block, Inc. (NYSE: SQ) is a global technology company with a focus on financial services. Made up of Square, Cash App, Spiral, TIDAL, and TBD, we build tools to help more people access the economy. Square helps sellers run and grow their businesses with its integrated ecosystem of commerce solutions, business software, and banking services. With Cash App, anyone can easily send, spend, or invest their money in stocks or Bitcoin. Spiral (formerly Square Crypto) builds and funds free, open-source Bitcoin projects. Artists use TIDAL to help them succeed as entrepreneurs and connect more deeply with fans. TBD is building an open developer platform to make it easier to access Bitcoin and other blockchain technologies without having to go through an institution.

@@ -1,0 +1,57 @@
+Looking for an opportunity to join a Fortune 4 company and be part of building a new business? CVS Health is looking for a talented and agile analytics leader to lead and mentor a talented Data Science team in support of our rapidly growing Retail Media Network (CMX). This role will report to the Lead Director of Retail Media Network Audience & Analytics and be responsible for driving innovation and excellence in the areas of data science and digital marketing measurement.
+In this role, you will work collaboratively to solve complex problems in targeting, measurement and optimization. You will drive innovation and develop new analytic products to grow the retail media network’s scale and sophistication. You will develop the professional potential of your team while driving engagement and teamwork.
+The Senior Manager of Data Science applies quantitative methods to develop innovative targeting solutions with 1P, 2P, and 3P data, to measure the impact of CMX onsite and offsite media and translate the findings into consumer-centric recommendations that maximize the investment return. This leader will build and enhance analytic solutions including but not limited to A/B testing, media mix modeling, attribution models, propensity and lookalike models and in-flight optimization.
+The ideal candidate will have an advanced analytics background with strong digital media and technology experience. Previous experience in a retail media network environment is preferred.
+
+KEY RESPONSIBILITIES
+
+Lead a team of data scientists in the creation of targeting, measurement and optimization solutions for our advertiser partners
+Oversee development of advanced models – media mix, propensity, attribution, etc. – that deliver insights and enable optimization of media investments
+Evaluate and implement new analytic solutions or technologies that will drive increases in agility and performance
+Engage with AdTech platforms and partners (DV360, Facebook, Google, LiveRamp, etc.) to develop analytic solutions
+Partner closely with CMX stakeholders in Marketing, Digital, and Partner Management to address evolving analytic and measurement needs
+Interpret and present statistical results in a way that improves understanding and influences business action with a wide range of audiences
+
+Pay Range
+The typical pay range for this role is:
+Minimum: 95,000
+Maximum: 209,000
+
+Please keep in mind that this range represents the pay range for all positions in the job grade within which this position falls. The actual salary offer will take into account a wide range of factors, including location.
+
+Required Qualifications
+Bachelors’ degree in Analytics, Mathematics, Statistics, Economics, Computer Science or related field; Advanced degree preferred
+7+ years’ experience in analytics and data science
+5+ years’ experience in digital media and marketing analytics
+3+ years’ managing data science teams, with a track record of leading a highly effective group of business-focused analytic professionals
+Demonstrated track record of delivering insights and business impact through data and analytics
+Knowledge of digital advertising ecosystem, including channels, technologies and measurement
+Highly proficient with analytic and modeling tools and software, like Python, R, SAS, SQL, etc.
+Experience with statistical concepts and advanced analytic techniques, such as marketing mix, predictive modeling, clustering and segmentation, A/B testing and ROI measurement
+Proficient in measuring and optimizing marketing spend efficiency in the digital ecosystem (i.e., TTD, DV360, GAM, Facebook, Instagram, Pinterest, Twitter, Youtube, CTV)
+Knowledge and experience in identity resolution and digital data connectivity platforms (i.e., Liveramp, Acxiom, Experian, Throttle)
+Familiarity with data exploration and data visualization tools, like Tableau, Datorama, etc.
+Excellent analytical and problem-solving skills
+Strong oral and written communication skills
+Ability to handle multiple, complex projects in a deadline-driven environment
+High levels of self-motivation and attention to detail
+
+Preferred Qualifications
+Highly proficient in SQL and Python or R
+Excellent knowledge of Marketing science concepts applied in the digital world such as Marketing Mix Models, Multi-Touch Attribution, CLTV, propensity to buy and path-to-purchase
+Proficient in measuring and optimizing marketing spend efficiency in the digital ecosystem (ie. TTD, DV360, GAM, Facebook, Instagram, Pinterest, Twitter, Youtube, CTV)
+Excellent knowledge of statistical concepts and machine learning models such as regression, GLM, Markov chain, naïve Bayes, decision trees, clustering, factor analysis, time series, etc.
+Strong verbal/written communication and data presentation skills. Must be able to explain technical concepts and analysis clearly to a diverse audience, including senior executives, and be able to translate business objectives into actionable analyses
+
+Education
+Bachelor's degree in Computer Science, Advanced Analytics, Statistics or another related field
+
+Master's degree in quantitative field or MBA strongly preferred.
+
+Business Overview
+Bring your heart to CVS Health
+Every one of us at CVS Health shares a single, clear purpose: Bringing our heart to every moment of your health. This purpose guides our commitment to deliver enhanced human-centric health care for a rapidly changing world. Anchored in our brand — with heart at its center — our purpose sends a personal message that how we deliver our services is just as important as what we deliver.
+
+Our Heart At Work Behaviors™ support this purpose. We want everyone who works at CVS Health to feel empowered by the role they play in transforming our culture and accelerating our ability to innovate and deliver solutions to make health care more personal, convenient and affordable.
+We strive to promote and sustain a culture of diversity, inclusion and belonging every day.
+CVS Health is an affirmative action employer, and is an equal opportunity employer, as are the physician-owned businesses for which CVS Health provides management services. We do not discriminate in recruiting, hiring, promotion, or any other personnel action based on race, ethnicity, color, national origin, sex/gender, sexual orientation, gender identity or expression, religion, age, disability, protected veteran status, or any other characteristic protected by applicable federal, state, or local law.

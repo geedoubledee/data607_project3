@@ -1,0 +1,42 @@
+Become a Part of the NIKE, Inc. Team
+NIKE, Inc. does more than outfit the world’s best athletes. It is a place to explore potential, obliterate boundaries and push out the edges of what can be. The company looks for people who can grow, think, dream and create. Its culture thrives by embracing diversity and rewarding imagination. The brand seeks achievers, leaders and visionaries. At NIKE, Inc. it’s about each person bringing skills and passion to a challenging and constantly evolving game.
+The Nike Sport Research Lab (NSRL) is a multidisciplinary team of researchers, innovators, and scientists who lead with science to make athletes* measurably better. We deliver validated insights and innovative capabilities to drive the future of Nike products and services. The Data Science team in the NSRL unearths insights and automates recommendations to help everyday athletes* move better, while also supporting our product innovation teams.
+
+
+WHO WE ARE LOOKING FOR
+We are looking for an outstanding Data Science Director to lead a team of Data Scientists and Machine Learning experts who work primarily with our field research and athlete* services teams in the NSRL.
+In this role, you will help develop the data science strategy and roadmap in partnership with the team of Data Scientists you will lead. The role requires the rigor to ensure data collection, management and analysis yield valuable results, as well as the creativity to identify new opportunities to bring value through data-driven insights. You will also recommend third-party data science resources where appropriate to support teams in the Lab.
+The ideal candidate is passionate about helping understand and guide athletes* and has a history of collaborating with multi-disciplinary teams and sharing your work with non-technical audiences!
+
+
+WHAT YOU WILL WORK ON
+Lead and mentor a team of 2+ highly-skilled data scientists and machine learning experts, as well as an extended team of data engineers, scientists, and analysts
+Work closely with researchers to ensure data collection, management and analysis yield valuable results
+Bring a rigorous statistical, data-driven approach to all data science decisions
+Guide big data analysis to deliver insights to innovation teams.
+Be a strategic partner to business leaders and lead research and analysis to inform business strategy
+Regularly present to senior leaders. Communicate data-driven insights and recommendations to non-technical audiences
+Define how our team members measure success by developing Key Performance Indicators and other user, product, and business metrics
+Identify and vet third party vendors to recommend to other teams in the Lab
+Partner with internal and external teams to achieve goals and deliverables
+
+
+WHO YOU WILL WORK WITH
+This role partners with the leaders of the field services and the research teams in the NSRL and also supports other teams in the NSRL with thought partnership and recommendation of data science vendors, as needed. We partner with other data scientists, analysts, engineers, and researchers across Nike as well as a diverse range of cross-functional partners.
+
+WHAT YOU BRING
+MUST HAVES:
+Masters Degree in Statistics, Computer Science, Mathematics or related field. PhD in relevant field preferred.
+At least eight years of data science or relevant experience
+At least five years management experience, preferably in a research setting
+Experience in machine learning, statistical modeling and algorithm development
+Ability to be both transformational and strategic in thinking, as well as tactical in implementing strategies
+Excellent oral, written and interpersonal communications skills to effectively influence and exercise discretion, judgment and tact when dealing with internal and external partners
+
+
+DESIRED EXPERIENCE:
+Experience or familiarity with sport-science data (such as biomechanical, physiological and/or performance data)
+Experience or familiarity with user experience or service design
+Experience in designing self-service portals for basic insights and data visualization
+NIKE, Inc. is a growth company that looks for team members to grow with it. Nike offers a generous total rewards package, casual work environment, a diverse and inclusive culture, and an electric atmosphere for professional development. No matter the location, or the role, every Nike employee shares one galvanizing mission: To bring inspiration and innovation to every athlete* in the world.
+NIKE, Inc. is committed to employing a diverse workforce. Qualified applicants will receive consideration without regard to race, color, religion, sex, national origin, age, sexual orientation, gender identity, gender expression, veteran status, or disability.

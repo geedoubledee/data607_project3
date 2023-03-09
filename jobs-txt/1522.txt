@@ -1,0 +1,61 @@
+Job Summary
+QuayChain Technologies is looking to connect the world by digitizing the supply chain. Focused on Ports and intermodal hubs, QuayChain is building and managing private LTE/5G networks to help empower AI solutions for the supply chain.
+We are looking for a Machine Learning Engineer to join our fast-growing team. This person is responsible for building, training, and deploying our supply chain focused machine learning models.
+The ideal candidate will have a broad technical background, a solid understanding of applicable analytics, and a natural curiosity for producing effective solutions. Our solution combines hardware and software. Real time data and field deployment means that there are a wider set of challenges than a typical ML position. We need someone who is adaptive, works well in a remote team, has strong communication skills, energy, creativity, productivity & learning mindset. You will be flexible with a desire to take on the added responsibilities in a growing startup working with diverse groups
+Location can be in our Chicago location.
+
+Responsibilities & Duties:
+We are looking for a highly capable machine learning engineer to optimize our machine learning systems. You will be evaluating existing machine learning (ML) processes, performing statistical analysis to resolve data set problems, and enhancing the accuracy of our AI software's predictive automation capabilities.
+To ensure success as a machine learning engineer, you should demonstrate solid data science knowledge and experience in a related ML role. A first-class machine learning engineer will be someone whose expertise translates into the enhanced performance of predictive automation software.
+Managing available resources such as hardware, data, and personnel so that deadlines are met
+Analyzing the ML algorithms that could be used to solve a given problem and ranking them by their success probability
+Exploring and visualizing data to gain an understanding of it, then identifying differences in data distribution that could affect performance when deploying the model in the real world
+Verifying data quality, and/or ensuring it via data cleaning
+Supervising the data acquisition process if more data is needed
+Finding available datasets online that could be used for training
+Defining validation strategies
+Defining the preprocessing or feature engineering to be done on a given dataset
+Training models and tuning their hyperparameters
+Analyzing the errors of the model and designing strategies to overcome the
+Deploying models to production
+
+Qualifications & Skills:
+BS degree in Computer Science, Computer Engineering, Machine Learning, or related field.
+MS or PhD. degree concentrated in machine learning and computer vision or equivalent 3+ year experience.
+Superb analytical and problem-solving abilities.
+Great communication and collaboration skills.
+Able to work with deadlines and remain calm
+Excellent organizational abilities
+Backwards planning?
+
+Specific Knowledge/Skills:
+
+Solid foundation in machine learning, computer vision, including latest advances in deep neural networks and delivering state of the art machine learning technologies into practical system implementations especially leveraging CNN’s
+Experience using machine learning to perform object/pattern detection/classification tasks
+Experience using machine learning and deep learning models to perform object/pattern detection/classification, OCR tasks
+Experience building machine vision pipelines addressing real world problems
+Solid foundation in software development process and tools.
+Experience with NumPy/TensorFlow/Pytorch/Keras/pandas
+Experience with AWS (preferred), Azure, or Google Cloud
+Experience with Python & C++
+Experience with Linux server and device-based systems
+Salary and Benefits
+QuayChain offers a competitive market salary with great equity opportunities. Our workplace values individual contributions towards our company mission and societal goals. We believe in work life integration??
+
+QuayChain benefits include:
+
+Flexible work hours
+Gym membership
+Extended parental leave
+Paid Volunteer days
+Educational opportunities for professional development opportunities
+Remote work options
+Health care
+
+About QuayChain Technologies:
+During COVID, you likely became more aware of the supply chain and its inefficiencies. Our interconnected world and the increasing impact of climate change has made a resilient, sustainable & secure supply chain more urgent to all of us. From your World Market table from Turkey to 14 gauge IV needles from China, it’s time to empower this invisible disjointed system with QuayChain. QuayChain digitizes the information and connectivity gaps in the supply chain, in partnership with logistics centers. Our platform enables applications & data-driven solutions for those companies that serve and drive the global supply chain. QuayChain’s digital infrastructure will also enable its broader social mission rooted in equitable opportunity.
+We are tackling a system problem, that’s both on and offline. That means we work with diverse groups of people externally - from government, research institutes and local communities to truckers, power companies and green tech. Internally, we have varied backgrounds and right now, our team is definitely older than “typical” entrepreneurs. As an organization, we value learning, questioning, resilience, honesty and divergent thinking.
+The connectivity layer with Private LTE/5G is the foundation for the network of IIoT devices that feeds the QuayChain platform.
+
+This is a Remote (work from home) position.
+LGmeHDhpz6

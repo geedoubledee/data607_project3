@@ -1,0 +1,30 @@
+Department Summary:
+Part art. Part science. All passion. Our marketing and advertising teams bring a unique blend of skills to tell the DISH story with invention. Whether coordinating high-level messaging for the C-suite, interacting with journalists to drive our own breaking news or launching a campaign around our latest innovation, our team lends their voice to the future of communication.
+Our Marketing Analytics team members are experts on taking data and turning it into stories, leveraging insights to help the company make smarter decisions about how we innovate. Their work allows us to optimize performance and transform it into new subscriber acquisitions, helping DISH to continue to drive the future of entertainment and interactivity.
+
+We are seeking a Data Science Manager to optimize growth across DISH, Sling, OnTech, and DISH Wireless products and new lines of business in the future. This position combines data analytics and strategic guidance of the analytics team. This can include building advanced statistical targeting models, design of experiments, participating in development and maintenance of analytic infrastructure, rigorous program analysis and performing customer analyses.
+Job Duties and Responsibilities:
+Work with cross-functional teams and DISH senior management to plan and execute initiatives
+Leverage numerous data sources to identify opportunities for improved efficiency and targeting
+Develop and implement test plans and use results to drive strategic changes
+Setup analytic roadmaps and measure the incremental impact of High funnel media and Brand advertising on the business
+Conduct analyses to inform and optimize media planning, translate analytical results into strategy, build experiments to prove impact and implement media plans
+Evaluate new media opportunities to support DISH’s strategic goals
+Present analytic results and recommendations to key stakeholders, including senior management
+Skills, Experience and Requirements:
+Bachelor's degree from four-year college or university in Economics, Statistics, Math, Computer Science or 5+ years’ experience within a related industry focused on analytics within marketing
+MBA or Masters degree in statistics, math, or related field of study a strong plus
+Proven SQL and database skills in AWS, Teradata, and/or SQL Server databases
+Experience with SAS, R, Python and/or other analytical tools
+Sound Microsoft Office skills - Word, Excel, PowerPoint, Visio
+Proficient in Tableau or similar visualization tool
+Ability to work effectively independently and with cross-functional teams to perform planning and execution of initiatives, manage priorities and commitments, and meet deadlines
+Experience with both technical and non-technical presentation of analytic results and strong attention to detail
+Experience managing/coaching junior members on the team
+Media Mix Modeling experience
+Benefits:
+From versatile health perks to new career opportunities, check out our benefits on our careers website.
+
+Candidates need to successfully complete a pre-employment screen, which may include a drug test.
+
+Salary Range: USD $87500.00 - $132000.00 / Year

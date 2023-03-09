@@ -1,0 +1,27 @@
+PathAI's mission is to improve patient outcomes with AI-powered pathology. Our platform promises substantial improvements to the accuracy of diagnosis and the efficacy of treatment of diseases like cancer, leveraging modern approaches in machine learning. Rigorous science and careful analysis is critical to the success of everything we aspire to do. Our team, comprising of diverse employees with a wide range of backgrounds and experiences, is passionate about solving challenging problems and making a huge impact.
+We're looking for experienced machine learning scientists to join our team and help solve some of these challenges.
+What you'll do:
+Understand PathAI's products and services and introduce technology innovations with respect to functionality, performance, reliability, and scalability.
+Design, develop and maintain the machine learning infrastructure that powers PathAI
+Research and development of novel machine learning algorithms for the product platform
+Research and development of machine learning algorithms to expand product capabilities
+Participate in building new experiences, improve existing products, ensure quality assurance test designs and contribute to test systems architecture discussions
+You will have the opportunity to work in a company culture that puts employees first, is relaxed but focused and hard-working. Every PathAI employee is a contributor to our mission to pioneer better patient care by providing the best, most innovative deep learning tools to biotech, pathologists, clinicians and healthcare organizations. You will work alongside and with leading innovators in the field of deep learning AI and medicine and you will play a critical role in algorithm development.
+What you'll need:
+To be successful in this role with us, you'll at least need:
+MA or PhD in Computer Science, Engineering, Data Science or related field required, preferably with a focus on artificial intelligence
+At least four years plus of relevant work experience
+Artificial intelligence software development experience using Python
+Publications or research in fields related to artificial intelligence
+Intellectual curiosity and the ability to learn quickly in a complex space
+Benefits:
+For the right candidate, we'll offer a competitive salary plus equity. Your compensation is rounded out by a strong benefits package:
+Flexible work hours, with work-from-home options available
+Three weeks of paid leave per year, an additional two weeks of sick time, plus extended holidays and team-approved leave
+Ten days of 100% subsidized childcare per year
+Healthcare, vision, and dental insurance plans (HMO or PPO), with voluntary add-ons available for dependent care, life, and accident coverage
+Commuter benefit available for public transit or parking
+Most importantly, you'll be doing important work with a team of people you'll genuinely enjoy spending the day with.
+PathAI is an equal opportunity employer, dedicated to creating a workplace that is free of harassment and discrimination. We base our employment decisions on business needs, job requirements, and qualifications — that's all. We do not discriminate based on race, gender, religion, health, personal beliefs, age, family or parental status, or any other status. We don't tolerate any kind of discrimination or bias, and we are looking for teammates who feel the same way.
+PathAI does not accept unsolicited submissions from third-parties.
+With the rise of employment phishing scams, especially during the current COVID-19 situation, we ask candidates to be extra vigilant. Be careful about providing any kind of personal information, such as location, age, or financial information to recruiters who may be impersonating PathAI employees. PathAI does not require payment for interviews or for applicants to purchase their own work supplies for reimbursement.

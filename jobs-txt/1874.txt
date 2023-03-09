@@ -1,0 +1,27 @@
+GENERAL POSITION SUMMARY
+The Senior Web Business Analyst (Sr. BA) leverages the same foundational business analysis skills as a business analyst, additionally taking on complex, high profile projects, with several business units or departments, multiple integrated systems and multiple organizations such coordination with vendor resources, as well as provide guidance to fellow business analysts.
+REQUIRED QUALIFICATIONS
+· 8+ years of prior experience as a Business Analyst or other IT role, such as support or development.
+· Strong User Experience background. Comfortable with concepts such as user-centric design, personas, user research and common tools and methods.
+· Extensive experience with web application development.
+· Able to visualize and explain concepts on the fly using a whiteboard or the latest tools such as Mural as well as have stellar documentation skills with hands on experience with MS Visio for use case diagrams, cross-functional process flows, entity relationship diagrams, etc.
+· Strong investigative, analytical skills.
+· Excellent communicator
+· Skilled at defining and documenting business and functional requirements for ongoing system enhancement initiatives in agile software development environments.
+· Experience writing clear acceptance criteria to a testable level.
+· Experience setting up and leading in all Agile meetings including: sprint planning, sprint grooming, review, demo, stand-up, and retrospective sessions as well as working with development teams applying feature-driven development concepts.
+· Experience in all phases of product, software, and testing lifecycles.
+· Clear and concise verbal and written communication skills.
+· Curious, self-motivated, independent.
+· Firm understanding of relational databases, database structures and design, and data management.
+· Beginner to moderate SQL knowledge.
+PREFERRED QUALIFICATIONS
+· 3+ years of experience in healthcare benefits.
+· 2+ years of experience using Azure DevOps
+Job Type: Contract
+Pay: $75.00 - $85.00 per hour
+Schedule:
+8 hour shift
+Experience:
+SQL: 1 year (Preferred)
+Work Location: Remote

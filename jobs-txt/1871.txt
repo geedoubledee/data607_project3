@@ -1,0 +1,30 @@
+Medica’s Enterprise Analytics department is looking for a talented and enthusiastic individual to join our team as a Senior Business Intelligence Developer.
+The ideal candidate will have significant health insurance experience, strong business intelligence expertise, and excellent communication abilities. You will work directly with our stakeholders to understand requirements for dashboards, reports and analyses.
+You should have direct experience with the Qlik Sense BI platform, or be willing and able to become proficient quickly.
+This is a senior level position that will take on complex responsibilities with minimal supervision and will serve as a resource to others on the team.
+Responsibilities:
+Build excellent relationships with customers of our team as you work to understand requirements and design solutions for needed dashboards, reports and analyses
+Develop a deep understanding of Medica’s data warehouse and other data sources
+Design and develop new Qlik Sense dashboards and reporting applications from end to end (data loading/modeling, reports and visualizations)
+Maintain and update existing QlikView and Qlik Sense dashboards
+Develop reports using Qlik Nprinting
+Assist in Qlik platform administration
+Assist in team project planning / project management
+
+Required:
+Bachelor's degree computer science, mathematics, information systems, software engineering, related field or equivalent experience
+5+ years of relevant experience including substantial work with BI tools and data visualization/reporting
+Experience with health insurance data & analytics
+Advanced proficiency writing SQL
+Understanding of data warehouse concepts (star schemas, joins, indexes, etc.)
+Strong communication skills and experience working with a team
+The ability to work both collaboratively and independently
+
+Nice to have:
+Experience with Snowflake data warehouse
+Experience using Git for version control and collaborating using tools like github, gitlab
+Qlik certifications
+
+We are recruiting for MN candidates for our Minnetonka office, and in addition, we are pursuing candidates in the following states that would have the opportunity to work remotely full time; AR, AZ, DE, FL, GA, IA, IL, KS, ME, MI, MN, MO, ND, NE, NV, OK, SD, TN, TX, VA, WI.
+Equal Opportunity Employer/Protected Veterans/Individuals with Disabilities
+The contractor will not discharge or in any other manner discriminate against employees or applicants because they have inquired about, discussed, or disclosed their own pay or the pay of another employee or applicant. However, employees who have access to the compensation information of other employees or applicants as a part of their essential job functions cannot disclose the pay of other employees or applicants to individuals who do not otherwise have access to compensation information, unless the disclosure is (a) in response to a formal complaint or charge, (b) in furtherance of an investigation, proceeding, hearing, or action, including an investigation conducted by the employer, or (c) consistent with the contractor’s legal duty to furnish information. 41 CFR 60-1.35(c)

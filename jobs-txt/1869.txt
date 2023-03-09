@@ -1,0 +1,18 @@
+Working with data is most certainly a science. It takes a scientist to analyze, evaluate, and maintain data so that it can be used to build, validate, and deploy machine learning (ML) models that help SAIF make strong business decisions.
+But at SAIF, working with data is also an art. To collaborate with partners from across the organization, to interpret data in a way that makes it understandable and accessible to everyone, and to imagine the many ways that it can make people’s lives better – that is art.
+SAIF is seeking an addition to our data and analytics team who is experienced in both the science and art of data. Our new data scientist will work with the business units to understand key business challenges and design artificial intelligence (AI) solutions. You’ll help create machine learning models to help SAIF make important strategic and day to day decisions.
+Your role will focus on innovation and building AI products that will drive efficiency and improve services to policyholders and injured workers in Oregon. Apply today.
+Qualifications:
+REQUIRED QUALIFICATIONS:
+Masters degree in Computer Science, Mathematics, Economics, Statistics, or other quantitative field plus 3 years of applied business experience required; or PhD plus 2 years of applied business/non-academic experience preferred.
+Experience with very large analysis datasets and enterprise-scale database systems.
+Experience with machine learning models, Natural Language Processing(NLP) models.
+Proficient with languages like R, Python and familiarity with libraries NumPy,PyTorch, TensorFlow.
+***Interested? Please apply on our careers website below: https://saif.wd5.myworkdayjobs.com****
+Job Type: Full-time
+Pay: $8,575.00 - $11,450.00 per month
+Schedule:
+8 hour shift
+Day shift
+Monday to Friday
+Work Location: Remote

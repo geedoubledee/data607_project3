@@ -1,0 +1,24 @@
+Senior Business Intelligence (BI) Developer| Remote | Long-Term Contract Opportunity
+**Only candidates presently in the US and eligible to work in the US need apply**
+Hiring candidates for this position for a client in the ministry.
+Your Reponsibilities :
+Participate in the creation of a data warehouse.
+Contribute to the modeling and data architecture of the Data Warehouse and different Data Marts.
+Act as a Senior BI Developer, groom and review junior developers work
+Your Profile :
+A minimum of 5 of experience in Business Intelligence and analytical projects
+Experience with Snowflake Platform (Stored Procedures, Sowpipe …)
+Excellent knowledge of BI concepts
+Excellent knowledge of DBMS (MySQL, SQLServer, Oracle, etc.)
+Experience with Streaming solutions like Kafka is a big plus
+Strong problem solving skills & Strong analytical and synthesis skills
+An openness to change and a developed ability to adapt
+Excellent oral and written communication skills as well as strong interpersonal skills.
+Job Type: Full-time
+Schedule:
+Monday to Friday
+Experience:
+Business Intelligence and analytical projects: 8 years (preferred)
+Snowflake Platform (Stored Procedures, Sowpipe …): 4 years (preferred)
+DBMS (MySQL, SQLServer, Oracle, etc.): 8 years (preferred)
+Work Location: Remote

@@ -1,0 +1,37 @@
+Data Engineer Job Description
+ApolloMed (NASDAQ: AMEH) is a physician-centric, technology-powered healthcare management company. We are building and operating a novel, integrated, value-based healthcare delivery platform to empower our physicians to provide the highest quality of end-to-end care for their patients in a cost-effective manner. Our mission is to combine our clinical experience, best-in-class delivery network, and technological expertise in order to improve patient outcomes, increase access to healthcare, and make the US healthcare system more efficient.
+
+Our platform currently empowers over 10,000 physicians to provide care for over 1.2 million patients nationwide. Our rapid growth and unique position at the intersection of all major healthcare stakeholders (payer, provider, and patient) gives us an unparalleled opportunity to combine clinical and technological expertise in order to improve patient outcomes, increase access to quality healthcare, and reduce the waste in the US healthcare system.
+
+We are currently seeking a highly motivated Data Engineer. This role will report to the Director of Analytics and enable us to continue to scale in the healthcare industry.
+You are:
+Comfortable with ambiguity and biased towards action. You can identify the 20% of the work that leads to 80% of the result and mobilize and execute the high-impact work consistently. You enjoy thinking about complex and ambiguous problems and can execute consistently and add compounding value.
+Relentlessly resourceful. You enjoy taking ownership and can get things done without excuses. You are resilient, detail-oriented, and truly believe that no task is beneath you
+Growth-oriented. You are able to evaluate all perspectives, even if uncomfortable, and have the courage to adjust your views if necessary. You have the expertise and communication skills to balance a growth mindset with a bias towards action.
+Mission-driven. You are excited by the prospect of diving into complex problems that will drastically improve patient outcomes while lowering the cost of a tremendously inefficient US healthcare system, where waste is over 40% and per-capita healthcare dollars spent are double that of other developed nations.
+What you’ll do:
+Design and develop new and existing APIs
+Support all business lines, including provider relations, business development, and ACO by enabling those teams to make data-driven decisions
+Collaborate with data analysts/scientists and other team members to architect data products and services.
+Work with API users (Data analysts, data scientists, etc.) to address their needs
+Identify technical solutions that achieve efficiency and effectiveness and enable data usage as a strategic business asset
+Design strategies to develop and internalize data assets for key internal and external stakeholders
+Project manage the building of ETL pipelines
+Collaborate and work effectively across departments
+The opportunity:
+Startup-like mentality and career trajectory in a recently IPO’d and rapidly growing company
+Work closely with highly collaborative leadership teams across our organization
+Be in an organization that sits between payer, provider, and patient and has unique visibility into the entire healthcare stack
+Gain insight into the world of value-based care through the eyes of one of the most tech-forward healthcare companies in the nation
+Minimum qualifications:
+Experience developing large scale end-to-end APIs with multiple users in Python
+At least 1 (preferably 2+) professional API implementations in an industry setting
+Bachelor's degree in computer science or similar; Master’s degree in relevant discipline a plus
+Experience in Cloud software (e.g., AWS, Azure) preferred
+Experience with databases (e.g., mongoDB, MSSQL Server, Postgresql) preferred
+Experience working with healthcare data is a plus
+Ability to independently pursue and develop solutions to complex problems
+Strong communication skills
+Scrappy, eager, positive team player with no ego
+Strong comfort with working in a fast-paced environment
+An authentic passion for improving the lives of underserved patients and advancing value-based care

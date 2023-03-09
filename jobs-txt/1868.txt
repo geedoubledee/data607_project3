@@ -1,0 +1,37 @@
+The recruiting division of MTG Services has been retained to find exceptional Data Scientists with extensive experience working with international financial institutions.
+The successful candidate will lead complex projects designed to provide business units with the tools needed to validate existing, and new, means and methods.
+Core Responsibilities include:
+Develop appropriate models required to conduct analysis of corporate and market data per business unit requirements
+Supporting business units and IT teams during evaluation projects and BAU
+Serve as SME to address issues identified by business units and IT teams
+Key Requirements include:
+Five (5) years of experience as a data scientist in a large financial firm
+Extensive knowledge of Python, VBA, and SQL
+Bachelors degree in a Quantitative Field, Finance, Computer Science, or related field
+Our clients are offering strong compensation packages for the right candidates.Please submit your resume and compensation requirements.We would love to talk to you!
+MTG1061
+Job Type: Full-time
+Pay: $110,000.00 - $130,000.00 per year
+Benefits:
+401(k)
+401(k) matching
+Dental insurance
+Employee assistance program
+Flexible schedule
+Flexible spending account
+Health insurance
+Life insurance
+Paid time off
+Retirement plan
+Tuition reimbursement
+Vision insurance
+Schedule:
+Monday to Friday
+Supplemental pay types:
+Bonus pay
+Application Question(s):
+Do you now, or will you in the future, require sponsorship?
+Provide a short statement on a recent quantitative analysis project you recently completed. Be sure to include tools used.
+Experience:
+Quantitative analysis: 6 years (Required)
+Work Location: Remote

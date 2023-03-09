@@ -1,0 +1,59 @@
+Position Objective: The purpose of this position for the client National Institute of Health (NIH) is to ensure the National Eye Institute (NEI) is well presented on Digital Platforms that are accessible to a diverse public. As a Digital Content Specialist in the Office of Science Communications, Public Liaison, & Education (OSCPLE), the candidate selected will be responsible for maintaining OSCPLE's online pages such as the NEI Intranet & the NEI Public website while adhering to NEI policies and guidelines, including Section 508 (accessibility), plain language, and usability. In addition, they will be responsible for representing the OSCPLE on the NEI-NIH Committees and workgroups, as well as serving as a backup representative for NEI groups related to website development & maintenance, among other duties.
+
+Basic Qualifications:
+Minimum education: Bachelor’s Degree
+Certifications & Licenses
+Basic understanding and use of website architecture, navigation tools, and browsers.
+Field of Study:
+Communications
+
+Skills (Ranked By Priority)
+1. Ability to work productively with persons who are from technical and non-technical backgrounds
+2. Ability to manage multiple projects
+3. Excellent written and oral communication skills
+
+Software Requirements:
+Experience with using SharePoint and Drupal for website content maintenance or a willingness to learn
+
+Deliverables:
+Upon request, the contractor shall provide documentation evidence of any and/or all work products below, including, but not limited to, the following tasks: Section 508 compliant PDFs for factsheets on eye disease/disorders and other eye health-related topics. - Daily
+
+Statement of Work:
+
+Performs routine database maintenance and repairs corrupted interfaces and inoperable databases.
+Stay current on federal government website policies and requirements including Section 508 (accessibility), plain language, and usability. Learn how to make digital resources accessible to users with disabilities.
+
+Develops and maintains database infrastructures (distributed and relational, etc.).
+Routinely collect user feedback to proactively identify limitations of existing database and database management inventory and recommend enhancements.
+
+Develops simple and complex queries to retrieve data and reformat into acceptable formats for reporting requests.
+Complete mandatory training on information security, sexual harassment prevention, and other topics as required.
+Represent the OSCPLE on NEI SharePoint committees and work groups and update the communications staff about the activities, priorities and needs of these groups.
+
+Installs and maintains database system and provides support to interface customers with servers and networks.
+Assist with maintaining the NEI public website by coordinating website updates and assuring that new postings adhere to NEI policies and guidelines. (Drupal is the platform for the NEI public website.)
+Assist in maintaining the eye health-related organizations database, a tool used to help inquirers find resources on eye disease and disorders and vision rehabilitation.
+Maintain OSCPLE pages on the NEI Intranet, our employee information website. (SharePoint is the platform for the NEI Intranet.
+
+Tests new or modified computer applications, off-the-shelf products, and existing software
+Support the upload of content into the NEI Media Library, a new custom tool designed to catalog our photos, images, and videos.
+Work with NEI Intramural researchers to update their laboratory webpages.
+
+Tests new or modified computer applications, off-the-shelf products, and existing software.
+Use digital resources to respond to inquiries from the public.
+
+Standardizes data management procedures across the program and sets up data organization for collaborative use with the program.
+Coordinate database storage and retrieval requirements with information technology (IT) network and server managers.
+
+Develops security measures to protect information, including user authentication and database activity logging procedures.
+Maintain working relationship with database vendors to stay abreast of new developments, offerings and solutions that may be applicable to operations and research needs.
+Perform routine database and supporting technology assessments and test solutions to increase performance, increase data security and improve user experience.
+
+Develops and implements long-range hardware and software upgrade paths for existing equipment and databases.
+Maintain working relationship with database vendors to stay abreast of new developments, offerings and solutions that may be applicable to operations and research needs.
+Perform routine database and supporting technology assessments and test solutions to increase performance, increase data security and improve user experience.
+
+Trains staff to use database management systems for analysis and graphics.
+Provide and review new content submissions by reviewing for grammatical and typographical errors.
+
+Discovery Support Services LLC (DSS) is an Equal Employment Opportunity (EEO) employer. It is the policy of the GSN to provide equal employment opportunities to all qualified applicants without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, age, protected US veteran or disabled status, or genetic information.

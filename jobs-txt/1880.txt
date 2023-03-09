@@ -1,0 +1,40 @@
+Role: Data Engineer
+Location: NYC, NY ( Hybrid onsite, monthly 4 days to office )
+Duration: Contract
+Skills: data engineer, java/python
+Job Description:
+We are looking for someone passionate about data is focused on developing the platform for critical data products, including real time business metrics and analytics capabilities. The role requires supporting and collaborating with groups including Data Analytics/BI/Product, as well as our core backend API team. The individual will not be afraid to think out of the box and will play a key role in technical decision making. We are highly focused on giving ownership and responsibility to autonomous teams, using the right tools for the job, and building flexible architectures.
+Responsibilities:
+· Continue to evolve the internal Reporting and Analytics platform on top of Snowflake on AWS infrastructure.
+· Experience in Architect, design and implementing scalable ETL and data processing systems to handle the big data ecosystem including data collection, processing, ETL and Data warehouse.
+· Build soft real time capabilities and insight into product metrics to help product managers and BI/Analytics understand and optimize product features and guide product decisions.
+· Participate and contribute to the capabilities and engineering priorities across the organization.
+· Contribute to the codebase and participate in code review.
+· Build analytics tools that utilize the data pipeline to provide actionable insights into operational efficiency and other key business performance metrics.
+· Work with stakeholders including the Executive, Product, Data and Design teams to assist with data-related technical issues and support their data infrastructure needs.
+Reporting to the Senior Director, Software Engineering, you’ll be responsible for overseeing engineering product quality and delivery and setting and overseeing technical standards for teams who are working on everything from customer-facing applications.
+Required Skills:
+· Solid understanding of real time data processing with Kafka, Spark and Flink and batch data processing frameworks on EMR and Snowflake.
+· Passion for building world-class data platforms that support a global customer base
+· Solid engineering background and understanding of programming languages such as Python, Java or equivalent
+· 5+ years of progressive experience in data infrastructure development, with a track record of successful high-quality deliveries
+· Experience of working in an agile environment and embracing engineering best practices
+· Ability to apply both technical competence and interpersonal skills to achieve business outcomes
+· High emotional intelligence, sound temperament, and professional attitude
+· Strong understanding of SQL, experience with key databases such as Snowflake, MS-SQL and Postgres
+· Knowledge of the internals of how database systems work to design models for varied use cases.
+· Experience with CI and CD in an AWS environment with Terraforms
+· Experience with key Data technologies, such as Sqoop. Kafka will be a plus
+· Proven experience in building secure data platforms
+· Bachelor’s degree in Computer Science or equivalent
+Job Type: Contract
+Salary: $84,041.79 - $190,693.63 per year
+Schedule:
+8 hour shift
+Ability to commute/relocate:
+Andes, NY 13731: Reliably commute or planning to relocate before starting work (Required)
+Experience:
+Python: 4 years (Preferred)
+SQL: 1 year (Preferred)
+Data warehouse: 1 year (Preferred)
+Work Location: One location

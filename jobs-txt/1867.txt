@@ -1,0 +1,33 @@
+About Trailstone
+Trailstone is a global energy and technology company, operating at the intersection of renewable and conventional power. We trade energy in global markets, and we provide a best-in-class service to manage the inherent intermittency of renewable power generation across the short, medium and long term.
+As an energy trader, we buy and sell electricity and gas which is physically delivered on the grids, and we leverage our physical market knowledge to trade financial commodities.
+As a provider of renewable energy management services, we take on the complexity of managing renewable power across different countries so that our customers can focus on their core mission of investment and growth. Trailstone offers an efficient, fully automated front-to-back renewable power management platform underpinned by our long-standing market experience, proprietary technology, data analytics and meteorology.
+Role Profile
+Do you have a data native mindset?
+As a Machine Learning Engineer at Trailstone, you will be working closely with our Front Office traders - applying machine learning, statistics and programming skills to yet-to-be-solved problems. You will have exposure to innovative projects, complex modelling and the chance to work on ever-changing challenges and priorities. If you embrace challenges and are keen to apply your technical skillset and passion to real-life trading models, we want to hear from you!
+The role provides exposure in a fast-growing start up environment within international commodity trading. This post includes an attractive compensation package and bonus scheme.
+What will you do?
+Research and develop systematic trading ideas, by deploying cutting-edge data science tools on noisy and changing financial time series.
+Work closely with traders and fundamental analysts in order to understand and analyse data.
+Work with statistics to test hypotheses and evaluate outcomes.
+Implement and back test new trading strategies, building components of our research platform and analytics libraries.
+What do you need?
+Essential requirements:
+A Master's degree in Computer Science, Statistics, Mathematics or a similar related technical field. A PhD or other doctoral degree in a related technical field is preferrable.
+A minimum of two years' experience applying statistics or machine learning to model and make predictions, analysing large complex datasets to extract insights and deciding on the appropriate technique, within an academic or professional environment.
+Experience working on time series data.
+Strong Python experience and working knowledge of data analytics.
+Ability to undertake research and implement best practices as required.
+A background in machine learning frameworks such as TensorFlow is desirable but not essential.
+Other Attributes
+Ability to thrive in a fast-paced trading environment.
+Fluent English language skills.
+Ability to translate highly technical concepts into practical terms and application.
+A commercial mindset and understanding of how to apply machine learning to real-life trading strategies, or willingness to develop this.
+Analytical and highly numerate, with strong attention to detail.
+Ability to communicate and collaborate effectively across different levels of the global business.
+We're different, and we like it that way!
+Here at Trailstone, we value our differences. In fact, our success depends upon them.
+Differences in backgrounds, identities and experiences lead to differing views of the world. Different world views lead to healthy differences in opinions. Different opinions are essential to creating a robust marketplace of ideas. And it is our ideas that will make Trailstone a market leader in energy innovation and disruption!
+By our commitment to a diverse and inclusive workforce, Trailstone is creating value for our employees, our investors, and our communities.
+So regardless of your gender, race, ethnicity, orientation, physical limitations, how you identify, how you pray, who you love, where you went to school, who you consider family, or how old you are… you can belong here!

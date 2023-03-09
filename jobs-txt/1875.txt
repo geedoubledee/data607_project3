@@ -1,0 +1,44 @@
+Role: Database Administrator
+Reports to: Director of Software Development
+Company: DLP Capital
+Location: St. Augustine, FL*
+DLP Capital - DLP Capital is a private real estate investment and financial services company focused on making an IMPACT by acquiring, developing, and building relationships, housing, leaders, and organizations. DLP Capital executes its IMPACT through a wide array of business divisions and companies including lending, investment funds, sales, leasing, property management, construction management, development, and loan servicing. Through the Elite Execution System, as well as the company’s exclusive membership platforms focused on business scaling, investment housing, family, and wealth, DLP Capital impacts lives by empowering its clients to choose, create, grow and preserve prosperity. Continuing its steady year-over-year growth, the company earned a spot on multiple Best Places to Work lists for 6 years in a row and on the Inc. 5000 list of fastest growing companies for 9 years straight.
+Summary : The Database Administrator / Site Reliability Engineer is an integral team member in our data warehouse and Business Intelligence initiatives. They will be responsible for the design, maintenance, and stability of our data warehouse and system integrations.
+What you have already achieved: (Requirements)
+3-5 years of experience with
+Database technologies and architectures
+Google Cloud BigQuery
+API and ETLs
+SQL and cloud environments (e.g. GCP, AWS, & Azure)
+What you are great at: (Responsibilities)
+Drive the design, monitoring and support of Google BigQuery, MS SQL, AWS, and other databases
+Manage and configure database backups and recovery
+Serve as Database Administrator for Cloud environments
+Create, manage and troubleshoot data exchange, data flows, data transformations & data models between systems
+Troubleshoot and resolve database integrity issues, performance issues, blocking and deadlocking issues, replication issues, log shipping issues, connectivity issues, and security issues
+Champion and lead reliability-focused practices such as Failure Analysis, Load and Capacity Planning, Service Reviews, Architecture Designs, and Incident Postmortems
+Build and improve internal tools and automation software to make maintaining production services easier and safer
+Own critical production service designs and environments, to ensure a high bar of reliability is achievable and measurable
+Drive reliability and observability improvements in the services you oversee
+Familiarity with architecture styles/APIs (REST, RPC)
+Effectively communicate any updates, job status, and other information including but not limited to held desk cases, system problems, system development, new technology research and user issues
+Understanding of Agile methodologies
+Interface with consultants and vendors for relating to application issues
+Create and maintain documentation, including training documentation and release notes
+Excellent troubleshooting and communication skills
+Participate in Scrum team meetings, along with sprint planning and grooming sessions
+Adhere to the departmental change management process for any and all network changes
+Technical Competencies: Google BigQuery, AWS Console & CLI and/or PowerShell experience, SQL, MySql, Postgres, Datamigration, Backup, Log shipping, T-SQL, DB Security, DB Design, DB Optimization, DB Audit
+Who you will work with :
+300 high energy, positive, incredible team members
+An experienced top-level Leadership team
+What you're motivated by:
+A fast pace. We’ve grown exponentially and new team members continue to join our DLP family.
+An executive leadership team that trusts each other, communicates effectively, and is committed to helping team members grow, both personally and professionally.
+Visionary, smart, and thoughtful CEO. Ours is the kind of leader you read about, hope to work with, and learn from.
+A culture focused on developing and investing in team members - coaching, training, and supporting each other. We have a mantra of “Leaders made here” at DLP, focused on developing and growing leaders.
+Benefits: Health, Dental, Vision, and Life Insurance, 401(k) with innovative company matching program, Unlimited PTO after 1 year, Hybrid work schedules available, Learning/Educational Incentives, Living Fully Well-being Program, Company Events, many self improvement and productivity tools, and the incredible feeling of fulfillment from making a difference in the lives of others while achieving your dreams and goals!
+We are looking for ROCK STARS to join our collaborative team. Are you driven for greatness? If so, we may be a perfect match! If you feel that you have the drive, knowledge, skills, and experience to truly be successful in this role, we want to hear from you today!
+We are an equal opportunity employer and all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity or expression, pregnancy, age, national origin, disability status, genetic information, protected veteran status, or any other characteristic protected by law.
+Only US based candidates should apply.
+TjzKlTbPq6

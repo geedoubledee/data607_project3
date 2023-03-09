@@ -1,0 +1,78 @@
+Over the last few decades, technological innovation has relied on democratizing some of its key ingredients: knowledge (open publishing platforms), algorithms (code repositories) and computing (cloud providers). However, the last key component, data, largely remains trapped behind barriers of regulation, privacy, schema standards and competitive risk. Enabling scalable access to data will unlock enormous value for both individual developers and companies. This has only been made possible in the last few years, through advances in manifold learning algorithms and privacy-preserving computing. See our blog for more details.
+
+One of the most valuable kinds of data today is in the financial sector. Financial data plays a key role across many industry verticals. However, it has notoriously been locked behind regulatory barriers and a lack of format standards. Our end product is an API that makes financial transactions accessible to both humans and machine-learning models, in a scalable and privacy-preserving way.
+
+We
+- come from various fields - engineering, mathematics, physics and arts.
+- are allergic to over-engineering.
+- are anarchists at heart and like to hack around the status quo.
+love playing board and video games.
+- are radically honest and appreciate challenging one another, rather than giving out “pats on the back”. Yet, we can always rely on each other for support, feedback and results.
+- are willing to learn and adapt quickly to new situations and requirements. Languages, frameworks, libraries, compilers, etc. are just tools for a job. A new problem might need a new tool. If it doesn’t exist yet, we will build it.
+- have a sense of humor (well, we think we do).
+
+As an early member of our data science team, you will help
+- push the limits of what can be done with data.
+- build the team and drive the direction of the company.
+- shape our product and culture.
+- experience the direct impact of what you build on hundreds of millions of people’s financial lives.
+
+The following are required
+- the tools: Python, Pandas / Polars, Matplotlib, sklearn, etc.
+SQL and fundamental database operations.
+- recognized open-source contributions and/or top performance in data competitions (Kaggle, Numerai, etc.).
+fluency in statistics and probability.
+
+FAQ
+
+Where is Ntropy located?
+
+We are fully remote, with a virtual base in New York, US.
+
+What time-zones do you work with?
+
+We hire anywhere in GMT-7 to GMT+1.
+
+Do you consider part-time work?
+
+Not at the moment. Full-time roles only.
+
+How are you funded?
+
+We are backed by some of the top fintech investors in the world. Have raised single-digit millions of dollars so far. Can share more details over the call.
+
+Do you already have a product and customers?
+
+Yes. We have been in production since 1st April 2021 and have been rapidly growing since.
+
+Do you plan to sell customer data?
+
+Ntropy is on a mission to enable products without data barriers. We will never sell customer data and will always put privacy and customer benefit ahead of any auxiliary financial gains.
+
+What is the interview process like?
+
+1. Send us problems you have solved before and how. Please include as much detail as possible: code, algorithms, derivations, proofs, etc. We will then do a video call to kick things off and go through it (45 mins).
+
+2. We will give you a take-home project related to whatever we are currently working on (3-4 hours). Alternatively, if you have a relevant project that you worked on previously that demonstrates your skills as an engineer, you are welcome to use that instead.
+
+3. We will then do a deep-dive through the project over a call and discuss the implementation, improvements and bottlenecks.
+
+Above all, we respect your time and commitment and will keep you up to speed on where we are at during the whole process.
+
+What are your hiring plans?
+
+We aim to be 30-40 people by the end of the year. Mostly engineering roles.
+
+What is your current stack?
+
+back-end - Python + Rust (where performance matters)
+compute - AWS, GCP
+ML - PyTorch, ONNX, Triton
+
+Work / life balance?
+
+We are a startup which requires you to put in a lot more work and soul than a regular job. We believe, however, that nothing easy is worth doing. We will expect a lot from you, and you should expect a lot from us.
+
+What is the compensation?
+
+$130k (adjusted for location) • 0.09%

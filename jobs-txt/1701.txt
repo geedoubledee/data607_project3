@@ -1,0 +1,44 @@
+Responsibilities:
+Writing Scala code with tools like Apache Spark + Apache Arrow + Apache Kafka to build a hosted, multi-cluster data warehouse for Web3
+Developing database optimizers, query planners, query and data routing mechanisms, cluster-to-cluster communication, and workload management
+techniques
+
+Scaling up from proof of concept to “cluster scale” (and eventually hundreds of clusters with hundreds of terabytes each), in terms of both
+infrastructure/architecture and problem structure
+
+Codifying best practices for future reuse in the form of accessible, reusable patterns, templates, and code bases to facilitate meta data capturing and
+management
+
+Managing a team of software engineers writing new code to build a bigger, better, faster, more optimized HTAP database (using Apache Spark, Apache
+Arrow, Kafka, and a wealth of other open source data tools)
+
+Interacting with exec team and senior engineering leadership to define, prioritize, and ensure smooth deployments with other operational
+components
+
+Highly engaged with industry trends within analytics domain from a data acquisition processing, engineering, management perspective
+Understand data and analytics use cases across Web3 / blockchains
+Skills & Qualifications
+
+Bachelor’s degree in computer science or related technical field. Masters or PhD a plus.
+6+ years experience engineering software and data platforms / enterprise- scale data warehouses, preferably with knowledge of open source Apache
+stack (especially Apache Spark, Apache Arrow, Kafka, and others)
+
+3+ years experience with Scala and Apache Spark (or Kafka)
+A track record of recruiting and leading technical teams in a demanding talent market
+Rock solid engineering fundamentals; query planning, optimizing and distributed data warehouse systems experience is preferred but not required
+Nice to have: Knowledge of blockchain indexing, web3 compute paradigms, Proofs and consensus mechanisms... is a strong plus but not required
+Experience with rapid development cycles in a web-based environment
+Strong scripting and test automation knowledge
+Nice to have: Passionate about Web3, blockchain, decentralization, and a base understanding of how data/analytics plays into this
+What we offer
+
+Very competitive salaries
+Medical, dental and vision insurance, disability/life insurance
+401(k) Plan
+Aggressive bonus structure and/or Space and Time token allocations (similar to stock options)
+Very flexible PTO and paid holidays, and flexible workweek
+Very flexible remote work options
+A massive list of perks including discretionary add-on bonuses for hard work, attending exciting events/conferences/parties, we’re headquartered
+on the beach near LA (but don’t mind you working remote) and we’ll likely
+
+fly you out once a month to meet in person

@@ -1,0 +1,26 @@
+General Characteristics
+-Deploying and managing MySQL and MongoDB database clusters
+-Monitoring and tuning SQLs as well as databases performance
+-Database design, deployment, maintenance, upgrade, and patching management
+-Managing and support mission critical replicated database environments
+-Providing supports to the Service Engineers to solve customers' issues
+-Enforce architectural governance, database standards and best practices
+-Act in incident management to resolve active incidents
+-Working on projects, tickets, deployments, and releases, etc.
+-Participate in team on-call and deployment rotation
+Experience:
+Three to five years providing database architecture guidance and configuring and monitoring SQL database clusters
+Certification
+Microsoft Certified Database Administrator or equivalent certification
+Job Type: Contract
+Pay: $118,000.00 - $147,000.00 per year
+Schedule:
+12 hour shift
+8 hour shift
+Experience:
+MySQL: 1 year (Preferred)
+Database administration: 1 year (Preferred)
+Oracle: 1 year (Preferred)
+License/Certification:
+Microsoft Certified Database Administrator or equivalent (Required)
+Work Location: Remote

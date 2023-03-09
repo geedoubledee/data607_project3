@@ -1,0 +1,52 @@
+Job Description:
+THE OPPORTUNITY
+
+The Data Science Manager will lead on large transformational data science projects to capture, action, and harness the power of our data as the world’s largest publisher and distributor of children’s books. .
+Reporting into the Executive Director of Data Science & Data Products, the Data Science Manager will play a central operational role in advancing the application of machine learning, statistical analysis and data science across the full range of Scholastic businesses and functions: ecommerce, digital subscriptions, direct mail, telemarketing, field sales, customer service, operations / fulfillment, and product development.
+RESPONSIBILITIES
+In partnership with business stakeholders across the company, frame data science initiatives to establish business strategies and solve business challenges such that the data science initiative drives actionable results.
+Manage large data science projects end-to-end: problem scoping, data wrangling, analysis, implementation, presentation, performance monitoring
+Lead execution of advanced machine learning, both supervised or unsupervised; mentor others in this regard
+Lead data science initiatives to leverage net-new data acquisitions by Scholastic to uncover strategic insights into Scholastic’s customer base and merchandising decisions
+Deploy predictive models in AWS (lambda, data pipelines, model endpoints, API gateways)
+Grasp the full picture of Scholastic’s lines of business, and how their goals align with enterprise goals; contribute as a thought leader to cultivate a data culture at Scholastic through data science.
+Encourage our business partners to become more comfortable with data science initiatives while advancing the analytical savviness of the use of data throughout the company
+WHO WE ARE
+Scholastic Corporation (NASDAQ: SCHL) is the world's largest publisher and distributor of children's books, a leading provider of core literacy curriculum and professional services, and a producer of educational and entertaining children's media. The Company creates quality books and ebooks, print and technology-based learning programs for pre-K to grade 12, classroom magazines and other products and services that support children's learning both in school and at home. With operations in 14 international offices and exports to 165 countries, Scholastic makes quality, affordable books available to all children around the world through school-based book clubs and book fairs, classroom collections, school and public libraries, retail and online. True to its mission of 100+ years to encourage the personal and intellectual growth of all children beginning with literacy, the Company has earned a reputation as a trusted partner to educators and families. Learn more at
+www.scholastic.com
+.
+Some benefits that we offer:
+100% vested of 401(k) Retirement Plan after 5 years employment
+Up to 1M worth of supplemental Life Insurance
+Tuition Reimbursement
+Purchase Scholastic stock at a 15% discount
+Thank you for your consideration in choosing Scholastic.
+Qualifications
+HOW YOU CAN FIT (Qualifications)
+MA / MS in Mathematics, Statistics, Econometrics or another quantitative field.
+5-8 years professional experience in data science, machine learning and statistics
+Strong knowledge of classical statistics, machine learning and data visualization
+Extensive on the job experience in both supervised and unsupervised machine learning, across a variety of business use cases
+Solid business domain expertise in data science for sales and marketing and customer segmentation
+Experience managing or mentoring junior team members on data science projects
+Expert programming skills in Python and SQL (Postgres), with strong on-the-job experience programming for data science
+Experience with AWS Sagemaker (lambda, model endpoints, pipelines)
+Experience with creative visualization of data to uncover insights or enhance communication of results
+Very strong written/verbal communications skills; experience in presenting to executive stakeholders
+Self-Starter adept at learning independently; ability to teach others
+#LI-MA1
+Time Type:
+Full time
+Job Type:
+Regular
+Job Family Group:
+Marketing
+Location Region/State:
+New York
+Compensation Range:
+Annual Salary: 120,000.00 - 181,500.00
+EEO Statement:
+Scholastic is an Equal Opportunity Employer. Our policy is clear: there shall be no discrimination on the basis of race, religion, color, sex, pregnancy, national origin, marital status, sexual orientation, gender identity or expression, age, non-disqualifying physical or mental disability, or status as a disabled veteran or Vietnam veteran. Those factors shall not influence the determination of qualifications for a job or other opportunity within the company. Further, all personnel actions (such as compensation, tuition aid, benefits, transfers, promotions, and dismissals, company-sponsored training, social and recreational programs) shall be administered without discrimination.
+EEO is the Law Poster
+EEO Scholastic Policy Statement
+Pay Transparency Provision

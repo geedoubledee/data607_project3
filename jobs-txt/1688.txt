@@ -1,0 +1,59 @@
+Clampitt Paper Company - Dallas, TX is searching for a full-time Business Intelligence Development. This position reports to the Senior Director, IT.
+The Business Intelligence Developer will be instrumental in the development implementation of BI solutions, using QlikView, and IBM SQL that provides timely, accurate, and meaningful information to key users.
+Duties:
+Capture business, technical and operational requirements and create/communicate Cloud/Business Intelligence solution options.
+Apply best industry practices to sucessfully design, build and implement solutions to meet business needs.
+Ensure reporting compliance with corporate objectives for data security, integrity, quality, performance, management, scalability, and reliability.
+Develop quality control measures, testing measures, and accuracy of data standards.
+Prototyping solutions, preparing test scripts, and conducting tests and for extraction, loading, cleansing, and data modeling.
+Help IT services team answer calls and support clients as needed or in downtime.
+Perform basic technical services as needed during BI Development downtime.
+Qualifications:
+Possess exceptional Qlikview Developer skills to work with cross-functional team.
+Possess exceptional IBM SQL skills.
+Nice to have financial and retail sales domain experience.
+Hands on development experience in Qilkview, QlikSense, and Business Intelligence reporting with the ability to gather and translate report requirements.
+Train others to leverage solutions developed in IT Services and other departments.
+Create AdHoc SQL queries and provide input into best practices for report and universe development.
+2 years experience developing Qlikview reporting platform designing and writing both data universes and reports.
+3 years experience programming with SQL.
+Strong written and vergal communiction skills.
+Database skills IBM SQL, MetaData, and record transformation.
+Required:
+Undergraduate Degree in Computer Science, Physics or Mathematics.
+3 years' experience in Business Intelligence.
+Project management mindset with experience working in Agile type of environment.
+A spirit of collaboration, teamwork, and transparent communication.
+High personal code/development standards (peer testing, unit testing, documentation).
+Clampitt Paper Company offerings:
+Comprehensive package of benefits including paid time off, group medical/dental/vision benefits, retirement plan.
+Flexible scheduling allowing a work/life balance.
+Unlimited growth opportunity.
+You will become a part of an innovative environment.
+Salary range for this role commensurate with experience.
+Bonus/Incentive pay eligibility.
+When submitting your resume, please include your salary expectations.
+Job Type: Full-time
+Pay: $65,000.00 - $70,000.00 per year
+Benefits:
+401(k)
+Dental insurance
+Employee assistance program
+Flexible spending account
+Health insurance
+Life insurance
+Paid time off
+Professional development assistance
+Referral program
+Vision insurance
+Schedule:
+8 hour shift
+Day shift
+Monday to Friday
+Ability to commute/relocate:
+Dallas, TX 75247: Reliably commute or planning to relocate before starting work (Required)
+Experience:
+Informatica: 1 year (Preferred)
+SQL: 1 year (Preferred)
+Data warehouse: 1 year (Preferred)
+Work Location: One location

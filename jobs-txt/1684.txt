@@ -1,0 +1,38 @@
+Team Description:
+Our computer vision team is a leader in the creation of cutting-edge algorithms and software for automated image and video analysis. Our solutions embrace deep learning and add measurable value to government agencies, commercial organizations, and academic institutions worldwide. We understand the difficulties in extracting, interpreting, and utilizing information across images, video, metadata, and text, and we recognize the need for robust, affordable solutions. We seek to advance the fields of computer vision and deep learning through research and development and through collaborative projects that build on our open source software platforms, such as VIAME and Telesculptor.
+
+About the Projects:
+Kitware’s employees have unique opportunities to interact and collaborate directly with customers, visit interesting customer sites, and participate in live field tests and demonstrations. Much of Kitware’s work involves applying state-of-the-art artificial intelligence approaches to dynamic, real-world problems. In this case, you will have the opportunity to contribute your skills to projects focused on national security, making a difference on a daily basis to protect our country. Research and Development Engineers at Kitware also enjoy benefits commonly associated with a position in academia, such as support and encouragement for the publication of novel work.
+
+We partner with premier government R&D agencies such as DARPA, IARPA, AFRL, NVESD, NOAA, ONR, other branches of the US military, and multiple members of the Intelligence Community on a range of efforts including prime contracts, SBIRs, and STTRs. In addition, we provide commercial services to companies ranging from startups to Fortune 500 companies. Kitware employs an open source business model to foster extended, collaborative communities, and to provide flexible, high-quality technical solutions. If you’ve used CMake, ITK, or VTK, you know our work and the impact it has on the communities we help build.
+In This Position You Will:
+Validate, optimize, and deploy advanced exploitation algorithms
+Contribute your strong programming ability and experience to develop robust solutions for real-world problems
+Collaborate with researchers on projects related to machine learning, artificial intelligence, and computer vision
+Perform rapid prototyping and enhanced development to be integrated into operational systems
+Perform troubleshooting, bug fixes, and maintenance of existing and new code to ensure stability and robustness
+Required Qualifications:
+Bachelor's degree in Computer Science, Electrical and Computer Engineering, or related field
+Proficiency in Python
+Experience with deep learning libraries (PyTorch, TensorFlow, etc.)
+Strong background in both classical and modern (deep learning) machine learning including model selection, architecting, training, validation, testing, and deployment
+Understanding of a variety of machine learning tasks, e.g. Object Detection, Segmentation, Re-Identification, Tracking, Pose, Super Resolution, Natural Language Processing
+A high level of comfort with academic literature and the ability to adapt research products to solve real-world problems
+Due to contractual restrictions, only candidates that are US Persons (citizens, permanent residents, asylees, or refugees) will be considered for this position
+Preferred Qualifications:
+Master's degree in Computer Science, Electrical and Computer Engineering, or related field
+Experience curating quality, real-world datasets for training deep learning models
+Machine learning experience using visual data
+Skills in C++
+Willingness and ability to apply for and maintain a TS/SCI security clearance
+Company Description:
+Kitware is a research and development software solutions provider with a mission to advance science, make a positive impact, and share our results all within a collaborative, employee-focused work environment that is friendly, fair, and flexible. Our work is improving healthcare outcomes, increasing national security, and advancing our national computing infrastructure. Our customers and collaborators include top universities from around the world, government organizations, national research labs, medical device manufacturers, car manufacturers, financial institutions, and many others.
+
+Kitware is proud to be 100% employee-owned, and Great Place to Work-Certified™.
+
+Additional Information:
+Our team members enjoy a small company environment, flexibility in work assignments, and high levels of independence and responsibility. Besides a great work environment, our comprehensive benefits package includes a competitive compensation plan, tuition reimbursement program, flexible working hours, six weeks paid time off, 401(k), health insurance, life insurance, short- and long-term disability insurance, bonus plan, and free coffee, drinks, and snacks.
+
+Kitware actively subscribes to a policy of equal employment opportunity. All qualified applicants will receive consideration for employment without regard to race, color, religion, national origin, sex, age, protected veteran status, uniformed service member status, or any other characteristics protected by applicable law.
+
+To be in compliance with the requirements for federal government contractors, all Kitware new hires must be fully vaccinated against COVID-19 prior to their start date. Kitware will consider exceptions for religious and medical reasons, where appropriate. “Fully vaccinated” means you must have both doses of a 2-dose vaccine and two weeks have elapsed since the second dose, or have received 1 dose of a 1-dose vaccine and two weeks have elapsed since the dose. Proof of your vaccination status in the form of a copy of a CDC vaccine card, or notice of approval of a religious or medical exemption by Kitware human resources, must be submitted prior to your start date.

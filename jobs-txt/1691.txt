@@ -1,0 +1,36 @@
+Join the industry leader to design the next generation of breakthroughs
+Honeywell is charging into the Industrial IoT revolution with the establishment of Honeywell Connected Enterprise (HCE), building on our heritage of invention and deep, on-the-ground industry expertise. HCE is the leading industrial disruptor, building and connecting software solutions to streamline and centralize the assets, people and processes that help our customers make smarter, more accurate business decisions. Moving at the speed of software, we are creating, innovating and delivering solutions fast, challenging the way things have always been done, piloting new ways for all of us to work, and expecting our successes to set new standards for our customers and for Honeywell.
+
+As a Data Science Manager, you will lead a team of high-performing Data Scientists to enable the organization in delivering high value internal enterprise analytics use cases, as well as external enterprise analytics products for our customers.
+
+Key responsibilities include:
+Collaborate and influence team resourcing including engineering, data engineering, customer engagement, and product managers to ensure successful execution
+Assist Engagement Leaders in the identification and prioritization process of analytics the team will take on by drawing on your breadth of previous development experiences
+Utilize your deep technical expertise to influence direction for analytic solution development and assess performance thereof
+Champion professional development of the Data Science team including through a formal development plan by identifying training needs and mentorship
+Expand our thriving Analytics Community of Practice; Our organization benefits from talking to teams effectively, manage stakeholders, and executive level on the progress in projects in terms of partnerships; Leverage this network for the benefit of the team
+Collaborate with Product Management, Program Management, Solution Architects, Customer Marketing, and R&D/Engineering/Development; Consistent with Agile, these teams are responsible for all the aspects of an offering, Discovery, Creation and Delivery
+Keeping up to date on industry Developments and emerging technologies; Define next steps for HCE Analytics organization; Leverage new technologies to augment/replace pieces of our analytics platform
+
+YOU MUST HAVE
+7 years working experience Data Analytics & Data Science
+3 years working experience as a Data Science Manager
+3 years prior experience as Data Scientist as an individual contributor
+Master’s degree from an accredited college or university
+
+WE VALUE
+PHD in STEM
+Experience with MLOps
+Experience with Python
+Experience with SQL
+Experience in Product Management and Agile methodology
+Experience working with remote and global teams
+Results driven with a positive can-do attitude.
+Ability to clearly and concisely communicate with Senior Executive Leadership
+"Don’t meet every single requirement? Studies have shown that women and people of color are less likely to apply to jobs unless they meet every single qualification. At Honeywell we are dedicated to building a diverse, inclusive and authentic workplace. If you’re excited about this role but your past experience doesn’t align perfectly with every qualification in the job description, we still encourage you to apply. You may be just the right candidate for this or other roles."
+Additional Information
+JOB ID: HRD175203
+Category: Engineering
+Location: 715 Peachtree Street, N.E.,Atlanta,Georgia,30308,United States
+Exempt
+Honeywell is an equal opportunity employer. Qualified applicants will be considered without regard to age, race, creed, color, national origin, ancestry, marital status, affectional or sexual orientation, gender identity or expression, disability, nationality, sex, religion, or veteran status.

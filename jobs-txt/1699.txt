@@ -1,0 +1,19 @@
+Machine Learning Engineer
+
+Full-time
+Responsibilities
+Build, maintain, and improve efficient and reliable data mining and machine learning models.
+Design, implement and tune machine learning models, and provide performance feedback.
+Work closely with data engineers to adapt and improve data pipelines for production models.
+Work closely with software engineers in putting models into production (interface, SLA, scalability).Qualifications
+Strong academic background required. MS in Computer Science or Machine Learning with 2+ years of industry experience or PhD in related field with 1+ years of industry experience required.
+Expert in Python, and computation graph toolkits (e.g., Scikit-learn, Tensorflow). Solid experience with Python packages such as Numpy, Panda, and Scikit-learn.
+Expert/Master in common families of machine learning models, feature engineering, feature selection techniques, and tuning of machine learning models.
+Master with SQL or other relational database.
+Master in building and productionizing end-to-end machine learning systems.
+Knowledge and experience in cloud computing is a plus.
+Extensive data modeling and data architecture skills.
+Advanced math skills (linear algebra, Bayesian statistics, group theory).
+Ability to consistently exercise independent discretion and judgment on significant matters.
+Strong analytical, problem-solving and communication skills.
+Ability to work in a team environment

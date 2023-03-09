@@ -1,0 +1,20 @@
+Requisition #: 601863
+Location: Johns Hopkins All Children's Hospital, St. Petersburg, FL 33701
+Category: Information Technology
+Work Shift: Day Shift
+Work Week: Full Time
+Weekend Work Required: No
+Date Posted: Nov. 7, 2022
+
+POSITION SUMMARY: Responsible for development and management of database infrastructure that supports data and analytic activities at JHACH. This position provides support for data and database applications in support of clinical, operational, and research based activities. Coordinates and maintains identification of system requirements and functional design specifications to meet end user needs and ensures design and integration standards with the JHACH Information Technology enterprise.
+
+KEY ACCOUNTABILITIES : 1. Develops forms, menus and reports based on functional and design specifications to ensure validity, reliability and security of data entry process. 2. Collaborates with scientific and technical staff to identify requirements, validate methods, and resolve issues related to database programming and infrastructure. 3. Adheres to approved mechanisms for data transfers related to clinical, operational, research and administrative needs across JHACH to ensure security and privacy of data. 4. Follows established policies and guidelines to ensure continual compliance with regulatory standards (i.e. TJC, CMS, AHCA, etc.).
+
+QUALIFICATIONS :
+Bachelor's degree in computer science or related field
+
+0-2 years related database development or programming experience
+
+Working knowledge of database methodologies and workflow process analysis
+
+Knowledge of Microsoft Office, SQL, and physical database system configurations including servers, storage, failover, and backup

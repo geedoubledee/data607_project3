@@ -1,0 +1,66 @@
+The Business Intelligence Developer supports the strategic initiatives and tactical challenges of the credit union from a data integration and development perspective. The role partners with data analysts to gain understanding of business objectives and then configure data assets for subsequent use by analysis tools. Efforts will be focused on opportunities to gain valuable business insights related to operational efficiency, growth opportunities, and risk mitigation.
+Essential Duties/Responsibilities
+Write Structured Query Language (SQL) commands including Data Definition Language (DDL), Data Manipulation Language (DML), and Data Query Language (DQL).
+Develop, test, and maintain data integration projects and packages within SQL Server Integration Services (SSIS).
+Tune data queries for optimal performance and data storage.
+Design the best methods of integrating data from several different sources and formats for use in data reporting and analysis.
+Develop, test, and maintain data integration across enterprise data assets.
+Develop and implement data collection systems which optimize statistical efficiency and data quality.
+Import, clean, validate, and model data with the purpose of enabling decision makers to gain business insights.
+Develop complex data mappings to document data flows through multiple databases to ensure accuracy
+Responsible for improving and maintaining data integrity using metadata, data profiling and analysis techniques.
+Serve as a liaison between data analysts, other developers, and system administrators for data-related projects and maintenance.
+Responsible for the ongoing development of the enterprise data warehouse elements and sources.
+Maintain and improve data governance standards in coordination with the internal Data Governance Committee.
+Research developments and trends in business intelligence including new products, services and technological advances.
+Research and recommend data tools appropriate for the organization.
+Develop, test, and maintain reporting tools including dashboards, reports, and the related distribution to users.
+Assist analysts with the identification and interpretation of trends or patterns in complex data sets.
+Actively promote and contribute to the achievement of organizational goals.
+Recommend, develop, and implement new policies and procedures.
+Write thorough documentation of technical specifications to ensure business continuity.
+Pursue ongoing education and learn/apply new skills and software applications.
+Embrace change and prioritize competing demands.
+Comply with the Bank Secrecy Act (BSA) and other compliance requests and requirements.
+Follow all safety and security guidelines to properly safeguard member and organization assets.
+Perform other job related duties as assigned.
+Job Qualifications
+Knowledge, Skill and Ability:
+Solid understanding of key data warehouse and relational database concepts and trends.
+Ability to understand business needs and translate them into application functionality.
+Proven experience developing within Microsoft SQL Server and SSIS.
+Strong relationship building and teamwork skills with ability to develop and maintain consultative relationships with staff.
+Proven ability to develop project plans, coordinate and complete projects on time and within budget.
+Excellent verbal, written, and interpersonal communication skills.
+Strong analytical, decision making and problem solving skills.
+Strong attention to detail and excellent organizational skills; ability to manage multiple priorities with tight deadlines.
+Proficient in MS Office Suite.
+Ability to maintain confidences.
+Pre-employment drug test and thorough background review (components include: criminal, employment, address, social security number, motor vehicle record, global sanctions, and sex offender).
+Education or Formal Training: Bachelor’s degree in Computer Science, Database Management or equivalent experience.
+Experience: Minimum of two years experience developing within the Microsoft SQL Server stack.
+The starting pay range for this position is $90-110K/annual, and final pay rate will be determined based on experience and internal equity factors.
+Working Environment/Physical Activities
+High volume, fast-paced, dynamic office environment with some travel. Must be able to attend meetings and events outside of regular business hours. The job routinely uses standard office equipment such as computers, phones, printers, copiers, fax machines and filing cabinets. The position requires manual dexterity, the ability to lift files and open filing cabinets. The position requires bending, stooping, or standing as necessary.
+Other Duties
+Please note this job description is not designed to cover or contain a comprehensive listing of activities, duties or responsibilities that are required of the employee for this job. Duties, responsibilities and activities may change at any time with or without notice.
+Job Type: Full-time
+Pay: $90,000.00 - $110,000.00 per year
+Benefits:
+401(k)
+401(k) matching
+Dental insurance
+Employee assistance program
+Employee discount
+Flexible spending account
+Health insurance
+Health savings account
+Life insurance
+Paid time off
+Tuition reimbursement
+Vision insurance
+Schedule:
+Day shift
+Ability to commute/relocate:
+Lone Tree, CO 80124: Reliably commute or planning to relocate before starting work (Required)
+Work Location: Hybrid remote in Lone Tree, CO 80124

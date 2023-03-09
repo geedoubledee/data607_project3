@@ -1,0 +1,42 @@
+Our purpose at Molson Coors Beverage Company is to brew beverages that unite people to celebrate all life’s moments. We’ve been brewing iconic brands for over 350 years and are now proud to be offering a modern portfolio that expands beyond the beer aisle.
+
+We are Talent Brewers with our culture rooted in our core Values. We believe in our brands and our people, and that diversity WITH inclusion is the key to a winning team culture. We want you to join our team of brand ambassadors who believe the world is full of untapped opportunities. So, if you get excited about making a real difference as part of a winning team like we do, we want to hear from you.
+
+The Headlines :
+
+In the role of Data Science Manager working in Milwaukee, WI you will be part of the North America IT team. The person plays a critical role in the delivery of advanced analytics solutions, responsible for ensuring the successful delivery of innovative analytical solutions. This role in our organization as will support the ability to gain a competitive advantage through Data and Analytics; as such this requires a person who brings both thought leadership and well-honed skills as a data science practitioner.
+
+The Responsibilities :
+Oversee the continuous improvement and governance of data science best practices; ensure solutions can be productionalized and repeatable
+Development of machine learning solutions in R and Python as both an individual contributor and a leader of external resources
+Assistance in value determination and communication to a broader audience, recommendation and implementation of innovative new technologies and data. Deliver ROI, prioritizing and documenting the potential and results of each delivered analytic solution.
+Oversee the internal data resources and consulting partners leveraging the data science tool sets
+Collaborate with business partners, consulting partners and advanced analytics managers to bring innovative analytics to Molson Coors leadership
+
+This Manager will be:
+Building Data Science Solutions: Create statistical models to support the prioritized business use cases. Interpret new insights from predictive statistical models, develop and articulate strategic recommendations and communicate implications to the strategic analytics team. Work with data engineer to integrate data from multiple internal and external sources to be used for analytics models.
+Managing the strategic analytics data science team: Review the statistical models developed by the team and help to generate insights and recommendations. Ensure the team understands the scope and requirements for each project. Help identify and escalate resource allocation and performance issues. Evaluate and provide guidance on the application of analytic methodologies. Provide coaching to the team when appropriate.
+Providing quality assurance and best practices: Work with the product owners, analyst, and other data scientists to establish and enforce standards and governance. Collaborate to review the source code from other data scientist. Identify new data sources, emerging technologies and analytic trends and implement as feasible. Continued training and development.
+
+The Other Qualifications:
+You have a Bachelor’s degree OR equivalent experience (4+ years) in the field of data science
+A minimum of 3 years working in an environment delivering advanced analytics using Data Science techniques and tools including predictive, A/B, and machine learning analysis.
+Managing consultants and internal resources to deliver advanced analytic solutions Previous experience managing consultants and internal resources to deliver advanced analytic solutions
+Deep understanding of data and techniques to cleanse, harmonize, and evaluate business insights
+You are confident and competent. You are diplomatic, professional and exercise great judgment in developing and maintaining excellent business relationships within the business
+You are a skilled negotiator focused on the client; your constant curiosity fosters your innovative style and you can equally execute ideas given to you
+
+Work Perks You Need to Know About :
+Flexible work programs that support work life balance including a hybrid work model of 3 days in the office
+We care about our People and Planet and have challenged ourselves with stretch goals around our key priorities
+We care about our communities, and play our part to make a difference – from charitable donations to hitting the streets together to build parks, giving back to the community is part of our culture and who we are
+Engagement with a variety of Employee Resource Groups, which can provide volunteer opportunities, leadership experience, and networking through the organization
+Ability to grow and develop your career centered around our First Choice Learning opportunities
+Participation in our Total Rewards program with a competitive base salary, incentive plans, parental leave, health, dental, vision, 401k option with incredible employer match, generous paid time off plans, an engaging Wellness Program, and an Employee Assistance Program (EAP) with amazing resources
+On site Pub, access to cool brand clothing and swag, top events and, of course... free beer and beverages!
+Work within a fast paced and innovative company, meeting passionate colleagues and partners with diverse backgrounds and experiences
+
+At Molson Coors we seek diversity. Differing perspectives lead to challenging the expected, which keeps new ideas bubbling up. We’re an equal opportunity employer and invite applications from candidates from all backgrounds, race, color, religion, sex, sexual orientation, national origin, gender identity, age, disability, veteran status or any other characteristic. We take pride in celebrating our unique brew.
+
+
+Nearest Major Market: Milwaukee

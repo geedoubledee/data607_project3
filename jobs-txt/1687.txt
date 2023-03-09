@@ -1,0 +1,58 @@
+POSITION PURPOSE/MISSION:
+Effectively synthesize large amounts of data to identify key business drivers, translating data to create actionable insights that drive change in business strategy, and increase efficiency in supply chain. Understand external market and internal business context. Focus primarily on increasing forecast accuracy, scoping business challenges and developing and implementing models to improve the business and measure solutions. Support strategic projects across business. Utilize a mix of deep analytical skills, manufacturing knowledge, and relationship management with key internal partners by turning insights into actions.
+MINIMUM QUALIFICATIONS:
+Bachelor’s Degree in computer science, Statistics, Advance Analytics, or related field.
+Five plus years’ related experience.
+Proven experience identifying actionable insights that drive change in business strategy and increasing efficiency in supply chain and operations.
+Experience with ERP’s.
+Successful track record of developing models to support key decision making in supply chain.
+Ability to work in teams as a leader and as a member.
+Ability to take initiative and work independently.
+Strong communication skills both written and verbal requiring tact and discretion.
+Strong interpersonal skills in engaging with others and learning their area of the business.
+Strong analytical skills to gather data from multiple sources and report findings.
+Database query and report build skills (i.e., SQL, R).
+Proficient with advanced features of Microsoft Office software products.
+PREFERRED QUALIFICATIONS:
+Master’s Degree in related field.
+Formal team training with demonstrated success from past team experiences.
+Ability to be a self-starter and requiring little or no supervision.
+APICS certified.
+MAJOR ACCOUNTABILITIES:
+Use advance analytics methods to extract value from business data.
+Data cleansing, model development and deployment/management.
+Take highly complex data and articulate actionable insights to leadership/business partners at all levels for full understanding.
+Develop and deliver advanced statistical and mathematical models to support segmentation of data.
+Partner with demand planning to increase forecast accuracy.
+Scope new product forecasting.
+Work alongside leadership to inform both business and functional strategy sessions.
+Integrate weather, seasonal and/or geographical data into statistical algorithms.
+Assist in exception reporting for demand planning.
+Use data and experiment with what if scenario planning to optimize plants.
+Analyze market dynamics and potential growth segments and locations.
+Contribute to S&OP supply response and is part of monthly consensus process.
+Align personal and team goals to Division and Corporate strategy.
+Keep abreast of technological changes and developments in related fields.
+Engrain yourself in the business to fully understand the data and process.
+Follow Environmental, Quality and Safety Management System procedures and requirements.
+Ability to meet the essential job requirements, with or without reasonable accommodation, as outlined in the job description.
+Job Type: Full-time
+Pay: $77,769.63 - $191,828.51 per year
+Benefits:
+401(k)
+Dental insurance
+Flexible schedule
+Health insurance
+Paid time off
+Tuition reimbursement
+Vision insurance
+Schedule:
+8 hour shift
+Supplemental pay types:
+Bonus pay
+Ability to commute/relocate:
+Mequon, WI 53092: Reliably commute or planning to relocate before starting work (Required)
+Experience:
+Python: 1 year (Preferred)
+SQL: 1 year (Preferred)
+Work Location: Hybrid remote in Mequon, WI 53092

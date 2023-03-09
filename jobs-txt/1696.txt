@@ -1,0 +1,34 @@
+Business Intelligence Developer
+FM:Systems provides workplace management technology and solutions that enable facility and real estate teams to identify, plan, and deliver the ideal workplace for every employee. Our broad solutions portfolio of software and hardware, specializing in space management and optimization, assets and maintenance, strategic real estate planning, resource scheduling, as well as projects and sustainability, empowers our clients to gain insight into how their facility space is performing, how they enhance efficiency and create an employee-centric workplace.
+At FM:Systems, we have 3 guiding values around what we believe and how we behave 1) do the right thing, 2) act with urgency, and 3) cultivate a culture of excellence and accountability. We aim to offer our clients an exceptional experience with every interaction, foster innovation, and invest in our people. We provide a flexible work environment with an open time-off policy, internal mobility, and growth opportunities. Additionally, we offer a comprehensive benefits package, monthly company updates with our CEO, virtual events, and more. If you’re ready to join a company that prioritizes their employees, apply today!
+Recognized as a market leader by industry analysts, FM:Systems offers a suite of digital workplace solutions, empowering our customers across the world to re-imagine and transform their workplace experience. From Workplace Management to Workplace Analytics, to Employee Experience – our solutions are built to help our customers re-think their workplaces post-pandemic, right-fit their real estate portfolios, and realize the ideal hybrid workplace experience for employees. With customers representing half of the Fortune 50, ⅔ of top 25 US banks, 150+ government institutions, over 200 hospital and healthcare organizations, 350+ universities and 50% of the leading pharmaceutical firms, our leading solutions manage over 3 billion square feet across 80 countries. FM:Systems is headquartered in Raleigh, North Carolina and conducts business globally.
+FM:Systems is looking for a BI developer to join our Product Engineering team. This position will work on our analytics applications. As a BI Developer, you will work closely with our business colleagues to develop analytic solutions, reports, and dashboards to provide business and operational insights leading to business growth and operational efficiencies in a dynamic environment. This role provides you an opportunity to translate business requirements into reports and dashboards with facts that tell the story and present the inferences, transforming data to knowledge.
+In this role, you will have the opportunity to:
+Design, develop, and maintain business intelligence solutions (dashboards and reports) to provide user-friendly and valuable data insights.
+Team up with product and analytics teams to capture business and data requirements.
+Collaborate with both internal and external users to create metric sets in BI applications.
+Lead projects from inception to completion.
+Participate in scrum and sprint reviews, as well as data team planning and grooming sessions.
+Provide data analysis and insight into patterns that translates into value for business partners.
+Identify and evaluate new technologies and best practices.
+The successful candidate for this role will have the following skills and experience:
+Bachelor’s degree in an analytical field (e.g., computer science, statistics, business information systems) required.
+5+ years of experience as a developer in the Analytics and Reporting domain.
+3+ years of experience with BI tools such as Tableau, SiSense, Qlik, Power BI, Exago, etc.
+Understanding of analytics best practices, including reporting, SQL, data modeling, data management, file management, reference data management, etc.
+Experience with multi-dimensional data models and querying complex data structures using SQL.
+Proven ability to work directly with business users in a consultative mode to gather requirements and ensure successful timely delivery of solutions.
+Excellent communication skills, both written and oral - comfortable recommending and presenting solutions to senior managers.
+Worked in an Agile development environment (Scrum/Kanban).
+Desired Skills
+Strong problem-solving and analytical skills.
+Experience with BI tools (Tableau, SiSense, Qlik, Power BI, etc.)
+Experience in data warehouse design.
+Advanced SQL.
+Data analysis background.
+Business analysis skills.
+Software engineering skills.
+Debugging/troubleshooting.
+Snowflake.
+FM:Systems is an equal opportunity employer. It is our policy to provide equal employment opportunity to all employees and applicants for employment without regard to race, color, religion, sex or sexual orientation, gender identity or expression, marital status, national origin or ancestry, citizenship, ethnicity, gender, age, disability, present, current, or prospective military/uniformed service, genetic information, or other characteristics protected by applicable federal, state, or local law. We are committed to a diverse workforce. We value all employees’ talents and support an environment that is inclusive and respectful.
+2bAfxbpvQN

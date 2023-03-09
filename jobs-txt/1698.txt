@@ -1,0 +1,34 @@
+About Us:
+[redacted] is the mission-driven cloud security company for organizations that want to level the playing field against attackers. Our state-of-the-art platform and advanced threat intelligence and response capabilities, delivered by the world's top security experts, disrupt adversaries and protect our clients’ businesses.
+We deliver organizations of all sizes layered defense and orchestrated response through a packaged suite of security technologies and services designed to address the full spectrum of cybersecurity needs.
+[redacted] was founded in 2015 by a team with deep government and private sector experience and is backed by Ten Eleven Ventures, Valor Equity Partners, Vy Capital, and SVB Capital.
+We are honored to be recognized by Forbes as one of America’s Best Startup employers, read the article.
+General Description:
+[redacted] Engineering is seeking a React Web Developer to bolster the data-driven design and user experience of our platform. We use cloud native tools and modern languages and design patterns to create informative and useful software to secure our clients and aid our internal teams.
+This position reports directly to the Director of Cloud Platform and can be based anywhere in the US.
+Responsibilities:
+Work within the platform team developing our web applications.
+Produce clean, readable code with comments
+Document features, processes and standards used or developed
+Perform peer code reviews
+Identify opportunities for refactoring, abstraction & recombination of the code base
+Required Experience:
+You have at least 3 years software development experience
+You have worked on a production, enterprise standard, JavaScript React web application
+You have a strong communications skills
+Preferred Experience:
+Experience with React Material UI framework
+Experience using Typescript Experience with AWS CloudFront, S3 and Lambda (or similar tools)
+A background in security engineering
+Perks:
+We’re focused on creating the best experience for you through a holistic approach to benefits and perks. We work hard to make sure you have the best care and resources to thrive at all stages of your life, both inside and outside of Redacted.
+Here’s a snapshot of some of the benefits we offer:
+Medical insurance to keep you and your family healthy.
+Generous home office and monthly internet reimbursements.
+Remote work with generous home office and monthly internet reimbursements.
+Wellness program that provides monthly points that can be used for mind, body, and soul activities, discounts, and gift certificates.
+Additional Information:
+Redacted is proud to be an equal opportunity workplace. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. Redacted will consider qualified applicants with arrest and conviction records for employment in a manner consistent with applicable laws.
+Salary Range - $60,000.00 - $80,000.00
+
+This is a remote position.

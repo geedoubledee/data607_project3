@@ -1,0 +1,17 @@
+Dallas, Texas | Full Time
+
+JOB Description
+
+Role: Data Scientist (AI/ML
+Client: Direct Client
+Location : Remote
+Relocation : Need to be onsite after Pandemic.
+
+Requirement:
+Natural Language Processing and frameworks
+Understanding of Deep Learning and neural networks
+Transformer-based language model
+Cloud experience
+Experience working with large datasets, batch and real-time data streaming
+Python programming
+SQL

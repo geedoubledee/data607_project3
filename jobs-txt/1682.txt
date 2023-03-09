@@ -1,0 +1,32 @@
+Database Administrator
+About the role
+To support our in-flight ERP implementation project (IFS APPS 10), BMT are looking for an Oracle database administrator, ideally with previous experience in ERP database administration.
+Working within the BMT ERP (IFS) project team, and reporting to the Head of Business Information Systems, the Database Administrator (DBA) will support the BMT functional leads across the project. The role will also involve working with IFS and a third-party database administrator organisation to develop and support the associated ERP databases. The work with also ensure appropriate administrative control and security measures are in place to partition information and control access as required.
+The role will evolve into the technical ‘Expert User’ of the BMT ERP system, and international travel is expected as the system rolls out across different BMT operating regions. The role will be the global point of contact for technical improvements and solving technical database problems that local users may have.
+In terms of location, this role will be primarily home based (UK) but will include visits to BMT UK offices. We have offices in Bath, London, Weymouth, Plymouth, and Fareham. Oversea travel will be required once the role has evolved.
+About you
+To be successful in this role you will have the following abilities:
+Formal database training and qualifications in Oracle version 19c (essential)
+Minimum of 5 years' experience as an Oracle DBA
+Experience with Oracle database installation, configuration, and management of patching
+Knowledge MS SQL 2008 – 2019 (desirable)
+Knowledge of Azure Data Factory and Azure Synapse (desirable)
+Experience of troubleshooting of IT network principles and protocols
+Experience of operational running of multi database infrastructure
+Understanding of IT Management processes
+About BMT
+BMT is a maritime-orientated high-end design house and technical consulting firm driven by a passion for solving complex, real-world problems. To find out more about BMT click here .
+BMT is open and committed to discussing flexible working. We believe that everyone performs at their best when they have the flexibility to make working for BMT work best for them.
+BMT hires talented people and welcomes applications from everyone. At this time, we particularly welcome applications from Black, Asian, Minority ethnic, female, and non-binary candidates as we are underrepresented in these groups.
+We know that diversity, equity, and inclusion is critical to achieving our purpose as a business which is to navigate the most important and impactful engineering challenges of our time (to find out more click here ). Our passion and goal are to build more diverse teams and to create an environment where employees are engaged, thriving, and feel a sense of belonging.
+Benefits
+At BMT, our employee benefits are designed to ensure you have the resources you need to thrive.
+In addition to a competitive salary, we offer a wide range of benefits in areas including health, family, finance, and personal development.
+Don’t hesitate to ask more about our benefits during the hiring process.
+Apply online
+Does this sound like you? If so, please submit your application as soon as possible. We look forward to learning more about you.
+
+A message to recruitment agencies: We receive applications exclusively via our ATS. Please note that we do not accept CVs submitted via email to the HR department or staff within our Operational teams. We will not progress CVs shared on a speculative basis by email and you accept our right to pursue such candidates with no obligation to third-party terms and conditions or liability to a fee.
+
+
+Apply for this role

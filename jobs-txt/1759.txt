@@ -1,0 +1,53 @@
+Database Analyst
+Location : United States
+Skill : API,DevOps,AWS,Agile-Scrum
+Experience: 8-10 Years
+Visa : US Citizen , GC, GC-EAD
+Job Type : Fully Remote + Contract
+Database administration for MS SQL Server – ideally on both cloud and on-premise hosting environments
+Design and implementation of physical database models and schemas
+Writing stored procedures and functions and configuring triggers
+Recommending and implementing indexing strategies to improve performance
+Configuring and maintaining database security, including authentication, authorization, and encryption
+Managing databases in both Prod and Non-Prod environments
+Implementing and managing database backup and retention procedures
+Implementing and maintaining database performance monitoring and tuning strategies
+Configuring database logging and monitoring to ensure reliable and accurate reporting on database health and performance
+Database design, implementation, maintenance, and operation in accordance with industry standards and security best practices Desired Experience
+Database administration for other database management systems – both relational (e.g., Oracle) and document-oriented (e.g., MongoDB)
+Implementing and maintaining mechanisms for clustering, redundancy, load balancing, failover, and recovery
+Exposure to the Workday suite of applications/modules including experience with Workday data model, security, integrations, and data load capabilities
+Exposure to development and testing of APIs using MuleSoft Anypoint integration platform
+Experience with DevOps concepts
+Experience with AWS Cloud Services
+Experience working on an Agile-Scrum team
+Working in higher education and/or research administration
+Excellent time and priority management ability.
+Excellent problem-solving/analytical abilities.
+Excellent verbal, written, and listening communication skills.
+Demonstrated ability to work independently with minimal supervision.
+Demonstrated ability to understand and analyze functional and non-functional requirements of applications
+Demonstrated technical, interpersonal, and cross-group collaboration skills
+Demonstrated ability to troubleshoot database environment and configuration issues Responsibilities and Deliverables
+Provision and configure new database environments and databases
+Maintain configuration and management of databases across Non-Prod and Prod environments
+Partner with development teams to ensure database components and mechanisms meet all functional and non-functional requirements
+Implement and maintain regular database backup and retention plans
+Ensure that databases operate within security, reliability, and availability requirements
+Ensure that database archiving and disposition requirements are met
+Determine, implement, and maintain performance monitoring and tuning strategies
+Configure logging and monitoring to ensure reliable and accurate reporting on database health and performance
+Research database issues as they pertain to production support and non-production support requests
+Ensure business continuity and disaster recovery for ORIS databases
+Participate in organizational risk assessment activities, security planning, and vendor analysis
+Troubleshoot and resolve incidents arising around and within the databases
+Participate in software release (possibly including off hours release and update times)
+Effectively communicate and collaborate technical information with a wide range of people with varying levels of technical expertise.
+Job Type: Contract
+Pay: From $80.00 per hour
+Experience:
+API: 8 years (Required)
+AWS: 8 years (Required)
+DevOps: 8 years (Required)
+Agile-Scrum: 8 years (Required)
+Work Location: Remote

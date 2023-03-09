@@ -1,0 +1,25 @@
+Acunor is hiring Project Manager - Data Science / Data Analytics for one of its premier clients. This is a Full-time remote opportunity. Interested candidates are encouraged to apply with the most recent resume.
+Title: Project Manager - Data Science / Data Analytics
+Location: Remote
+Full-time opportunity
+Project Manager Responsibilities:
+Solve business problem using data driven solution – understand problem statement, structure solution from both business and technical perspective and present outcome to end users (both technical and non-technical)
+Obsess to achieve client satisfaction
+Provide thought leadership and manage Data Science, Engineering and Analytics projects end to end (idea to deployment to action)
+Manage team - plan work, provide guidance and manage professional development
+Support analytics, engineering, BI and data science work hands-on from time-to-time
+Manage engagement with client: Track concerns, opportunities, and provide updates and status back to stakeholders. Work with leadership, operations, sales and others to ensure requests follow the proper evaluation process. Communicate project decisions to relevant constituents
+Project Manager Requirements:
+5+ years of working and managing Analytics, Data Science and Engineering problems
+Experience of working in a consulting setup is preferred but not necessary
+Degree in Computer Engineering, Statistics, Mathematics or any engineering field. MBA is a plus.
+Expertise in one or more programming languages: Python or R with extensive knowledge of SQL. Familiarity with BigData using tools (like HQL, PySpark, etc.) is preferred
+Experience of building models using commonly modeling/machine learning algorithms in non-academic setup (like Regression, clustering, CNN, GBM, LDA, LSTM, etc.) is preferred
+Knowledge of engineering processes and deployment lifecycle for modeling/complex analytics projects is necessary
+Exceptional interpersonal skills, Analytical mindset, Attention to Detail is a must
+Experience of working in Automotive Industry is a nice to have
+Job Type: Full-time
+Pay: $100,000.00 - $130,000.00 per year
+Schedule:
+8 hour shift
+Work Location: Remote

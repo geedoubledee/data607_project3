@@ -1,0 +1,62 @@
+**Contract position 10-15 hours per week**
+**Must be able to come in to office twice per month**
+**Must live in the Atlanta area**
+JOB SUMMARY:
+This is a long-term contract position. Will consider both full time and part time applicants.
+This individual will have considerable input into both short-term and long-term solutions and will be responsible for quality execution of those projects and initiatives. In order to advise appropriate there must be a deep understanding of how systems work. The IT team environment is adaptive to immediate business needs and has a high degree of responsibility and accountability. As such, this individual must be able to understand and translate business requirements into effective services design.
+The Database Administrator advocates for solutions that maximize value to the business in the short and long term. With ample guidance they can work autonomously, communicate well with others, provide guidance to the IT team and business stakeholders, are highly detailed, and have the ability to account for business operations in how they conduct their projects and daily responsibilities.
+EDUCATION/CREDENTIALS:
+BS/MS degree or similar experience in Computer Science, Engineering, or related field
+JOB-RELATED EXPERIENCE:
+3-5+ years of experience with Microsoft SQL Server, SQL clustering with a combination of administration and development
+Experience with database mirroring, backup strategies, maintenance plans, and disaster recovery approaches
+Extensive experience working with application schemas and data structure
+Extensive experience working in the area of database release management, version control, packaging and promotion of database scripts/artifacts consistently across various environments
+JOB-RELATED SKILLS/COMPETENCIES:
+Knowledge of best practices in database design and performance optimization of SQL Server databases, query plans, T-SQL, profiler, and monitoring tools
+Understanding of ORM concepts and applying database object changes through code migrations
+SQL clustering
+Automation of maintenance and SQL monitoring
+Working knowledge of CICD tools - Jenkins, Confluence, Bitbucket, Artifactory, JIRA and other Atlassian tools
+Understanding of Agile development processes
+Strong SQL skills
+Basic Shell Scripting or other Scripting skills
+Ability to work independently and be a self-starter
+Liaise with Production Engineers to assist with any database issues
+Develop tools and processes needed to pass on to production team
+Strong analytical and problem solving abilities
+Good communication and interpersonal skills
+WORKING CONDITIONS/PHYSICAL DEMANDS:
+Office Environment preferred
+Ability to travel up to 10% of the time
+MAJOR DUTIES AND RESPONSIBILITIES:
+Provide recommendations for best practices in an enterprise setting
+The focus of the role is to provide application DBA support
+Provision, install, upgrade and configure databases to meet enterprise requirement
+Database replication and clustering and transactional log shipping
+Provide end-to-end support for monitoring, tuning, security and access control for the database layer
+Identify problems and errors proactively and log incidents
+Deploy and maintain database packages thru the lifecycle of an implementation project
+Work with Forward Engineers/Testers to assist in analyzing data structure, and triaging data/schema related issues
+Develop database scripts, packages, tools, as required to support application development and testing
+End-to-end ownership of the health of databases under control
+Primary point of contact for database related queries from the project/client teams
+Develop technical documents and modify existing technical documents (ie SOPs and knowledge transfer
+Participate in User Acceptance Testing
+Provide 2nd and 3rd level database support
+Performs other duties, as assigned
+OTHER DUTIES:
+This job description reflects management’s assignment of essential functions. It does not prescribe or restrict the tasks that may be assigned. Nothing in this job description restricts management’s right to assign or reassign duties and responsibilities to this job at any time.
+No third-party agencies
+Job Types: Full-time, Part-time, Contract
+Pay: $70.00 - $80.00 per hour
+Benefits:
+Flexible schedule
+Schedule:
+Monday to Friday
+On call
+COVID-19 considerations:
+Vaccinations are strongly preferred
+Ability to commute/relocate:
+Atlanta, GA 30341: Reliably commute or willing to relocate with an employer-provided relocation package (Preferred)
+Work Location: One location

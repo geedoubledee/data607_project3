@@ -1,0 +1,23 @@
+Client - Apple
+Location - Elk Grove, CA
+Position Title - Data Scientist
+Job Description:
+"Looking for Data scientist in Elk Grove, CA
+* Use Tableau to create visualizations
+* Use SQL to build tables
+* Use python to manipulate and analyze data
+* Use machine learning to build predictive and causal models
+Must to have Skills
+* Machine Learning
+* Tableau
+* SQL
+* python
+Apple experience is nice to have."
+Job Type: Contract
+Salary: $60.00 - $65.00 per hour
+Schedule:
+Monday to Friday
+Experience:
+Python: 1 year (Required)
+SQL: 1 year (Required)
+Work Location: On the road

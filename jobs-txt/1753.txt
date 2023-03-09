@@ -1,0 +1,35 @@
+About the Organization
+Now is a great time to join Redhorse Corporation. Redhorse specializes in developing and implementing creative strategies and solutions with private, state, and federal customers in the areas of cultural and environmental resources services, climate and energy change, information technology, and intelligence services. We are hiring creative, motivated, and talented people with a passion for doing what's right, what's smart, and what works.
+
+Positions Description
+Redhorse Corporation is seeking to hire a Director for our growing Data Science team. The ideal candidate must be able to lead, manage and develop a multi-disciplinary data science team and collaborates with customer stakeholders, business leaders, design teams and infrastructure and software engineers to develop solutions using various types of Artificial Intelligence, including Natural Language Processing and Machine Learning, to enable data-driven decisions, predictions (will happen) and prescriptions (should do). The Director advises corporate leadership on Data Science strategy, methodology, tools, techniques and mission alignment including collaboration with the Director of Solutions Design to create practical methods to understand customer preferences as well as work closely with cross-functional groups to comprehend these challenges, prototype new ideas and new technologies, and help create solutions to drive the next wave of innovation.
+Primary Duties and Responsibilities for this position include:
+Provide Data Science as a service to internal (corporate) and external customers.
+Consult with potential customers and corporate business executives, capture leaders, and program managers to help identify, qualify, capture and execute data science projects.
+Mentor, train and manage the work of corporate data scientists; informally mentor and advise data scientists dedicated to customer engagements, and manage the Data Science community of practice.
+Work in partnership with software and infrastructure engineers to design and manage Data Science and DevOps pipelines and related corporate standards and to drive rapid prototyping and delivery of features using continuous integration and deployment.
+Perform or assist in various project management tasks relating to the Data Science portfolio.
+Minimum basic requirements for the Director of Data Science include:
+Master’s Degree in Data Science or related field
+5+ years of experience in data procurement, processing and manipulation, transformation, and mathematical and statistical analysis
+5+ years of experience building executive level visualizations using industry standard tools like Tableau and ArcGIS
+5+ years of experience with using Relational, NoSQL, and graph databases such as MySQL, MongoDB, and Neo4j to store, update, and query large volumes of information
+2 years of experience leading complex data science projects from conception to execution
+2 years of experience building, mentoring and managing teams of data scientists
+Experience with Natural Language Understanding to provide basic insights into unstructured and semi-structured datasets
+Ability to create conceptual models, such as Type Systems, to define main concepts or entity types along with their respective relations within a corpus of knowledge
+Experience with software configuration management, methods, and tools including GitHub or Jira
+Familiarity with at least two of the following: Python, JavaScript, PHP, VBScript, Matlab, HTML/CSS or SQL
+Preferred basic requirements for the Director of Data Science include:
+Ability to lead development efforts utilizing DevOps and Agile Methodologies
+Basic understanding of how to integrate with Cloud-based services such as AWS, IBM (BlueMix/Cloud), and Azure
+Experience with data ingestion from a variety of sources, leveraging standards-based interfaces such as SOAP/REST web services
+Familiarity with metadata extraction technologies such as GROBID and Apache Tika
+Familiarity with data structures, algorithms, and modular application design
+Experience with solutions for full–text search, hit highlighting, and faceted search, including SOLR or ElasticSearch
+Ability to learn technical concepts quickly and communicate with multiple functional groups
+Executive Order Requirement:
+While currently on HOLD, Redhorse recognizes that we may need to comply with Executive Order 14042 which requires Federal Contractors to ensure all U.S. new hires be fully vaccinated for COVID-19. As required by the Executive Order, Redhorse will work in coordination with applicable contract agencies to consider requests for Reasonable Accommodations.
+Redhorse Corporation shall, in its discretion, modify or adjust the position to meet Redhorse’s changing needs.
+This job description is not a contract and may be adjusted as deemed appropriate in Redhorse’s sole discretion.
+EOE/M/F/Vet/Disabled

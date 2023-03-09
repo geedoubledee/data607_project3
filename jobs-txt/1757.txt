@@ -1,0 +1,67 @@
+Job Title: Business Analyst II
+Location: HYBRID - Hartford CT 06106
+Duration: 2 Years
+Description:
+The Client maintains various computer systems that are used in all the courts and other
+state agencies throughout the client. Client is seeking a Business Analyst for development of a central scheduling system, along with enhancement, integration, and documentation for changes to the eCourt applications. The eCourt system is comprised of Windows and web based .Net applications with a SQL Server 2016 database backend. A major function of the system is to integrate the audio that is recorded in courts through FTR with the log notes that are entered during these court sessions. More features will be added to these systems to allow for more robust backup and integration with the existing application as we move forward.
+Scope of Services:
+The scope of services required for the Business Analyst includes:
+Responsible for working with business subject matter experts, translating business needs
+into understandable requirements, and translating these into technical specifications that
+the developers can work from.
+Responsible for creating design documentation, conducting reviews to obtain user
+validation of requirements.
+Responsible for analysis, modeling and documenting data requirements, and working
+with DBA’s and developers to integrate these requirements.
+Responsible for walkthroughs with development and technical staff and working with
+this staff to ensure requirements are incorporated into systems design and testing.
+Act as liaison between IT development staff and business users to resolve discrepancies,
+address requirements, questions, and issues.
+Responsible for conducting preliminary testing and working with business to ensure that
+functionality is designed correctly, as well as business testers for user acceptance testing.
+Collaborate with the Project Manager to develop planning estimates for all
+responsibilities outlined and to manage assigned tasks through timely progress reporting.
+Provide required status reports and management updates
+The ideal candidate will be able to contribute immediately In the following areas:
+Assist with software development efforts as determined by the project management team.
+Assist the client in the formulation of tactical and strategic plans.
+Assist the client in its reconciliation current business requirements, and modern
+information technology standards.
+Minimum Qualifications:
+In addition to the standard skills and experience for the job class, the ideal candidate should Posses the following qualifications:
+General Experience:
+Minimum five (5) years of experience in design, management, unit testing, and solving
+complex engineering problems.
+Technical Competencies:
+Strong analysis, problem solving and design skills.
+Working with or coordinating the project team, proposes, documents, and assesses
+technical solutions to business needs, and verifies and validates highly complex system
+specifications.
+Manages highly complex system and project requirements requiring extensive interaction
+with business partners
+Translates business needs into systems specifications.
+Defines key business processes and identifies critical paths of the operations
+Identifies changes to scope and tracks requirements through implementation
+Conversant with data analysis using database queries like TSQL
+Familiar with agile methodologies
+Familiar with tracking tasks using TFS (VSTS or Azure Dev Ops a plus) or similar
+systems.
+Facilitates the resolution of highly complex system defects.
+Provides gap analyses
+Schedules and facilitates meetings for planning, coordinating, and tracking the design,
+development, programming, and implementation of information systems
+Creating training materials using elicitation and facilitation techniques with all levels of
+the organization.
+Experience on Production Support activities.
+Job Type: Contract
+Salary: $43.00 - $45.00 per hour
+Benefits:
+401(k)
+Dental insurance
+Health insurance
+Paid time off
+Vision insurance
+Schedule:
+8 hour shift
+Monday to Friday
+Work Location: One location

@@ -1,0 +1,25 @@
+As a Senior Data Analyst within our global compliance department at Convera, we’ll be looking to you to provide analytical oversight of our list filtering and screening application for the Company’s banking, KYC, real-time payments and related products. This position is Hybrid(flexible working options) in North America.
+
+We’re a company on the move, and we want our people to grow and develop. You’ll have plenty of opportunities to learn new skills and build a career, as well as a great salary and benefits package.We are passionate about our diversity. Our commitment is to provide an inclusive culture that celebrates the unique backgrounds and perspectives of our global teams, while reflecting the communities we serve. We do not discriminate on the basis of race, color, national origin, religion, political affiliation, sex (including pregnancy), sexual orientation, gender identity, age, disability, marital status, or veteran status.
+
+In addition, you will, write rules and exceptions to support false positive reduction and effective filter hit rate management, conduct testing and consistently meet project deadlines while completing thorough documentation and information sharing throughout using system experience.
+
+Work directly with large volumes of data, creating meaningful analysis.
+Interpret data, analyze results using statistical techniques and provide ongoing reports.
+Identify, analyze, and interpret trends or patterns in complex data sets.
+Locate and define new process improvement opportunities.
+Provide ad-hoc reports and perform investigative steps regarding specific transaction screening flow through compliance system(s).
+Partner with all groups within the Compliance department to drive technology needs in collaboration with the IT organization.
+Maintain an attention to detail while coordinating efforts cross-functionally.
+Qualifications:
+Bachelor's Degree
+3-5 years experience in data analytics.Demonstrated experience with Data Analysis and working with relational and No SQL databases concepts, including writing complex queries for ad hoc data analysis.
+Experience in handling and analyzing large volumes of data, providing ad-hoc reports, and complex reports.
+Strong interpersonal analytical, problem-solving, influencing, prioritization, decision making and conflict resolution skills.
+Team player with strong collaborative qualities and a positive demeanor.
+Experience in Fircosoft or similar list filtering applications in maintaining, improving annd testing such a system for a Financial Services Company is preferred.
+Join us, and let’s move money simply, securely, smartly Convera is delivering solutions ranging from simple currency exchanges to sophisticated risk management solutions and platforms. Everything we do is designed to enhance the customer experiences and seamlessly power their global commerce needs. It’s an exciting time for our organization, as the largest non-bank cross-border payment company in the world serving over 30k customers in more than 200 countries. If you’re ready to unleash your potential to help drive change, apply now.
+
+The annual gross base salary range is $100,000-$120,00 USD Annual Salary. This range represents the anticipated low and high end of the salary for this position.
+
+Actual salaries will vary and are based on factors such as a candidate’s qualifications, skills, and competencies. Salary is one component of the Convera's total compensation package, which includes short-term incentives, multiple health insurance options, accident, and life insurance, and access to best-in-class development platforms, to name a few!

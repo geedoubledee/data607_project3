@@ -1,0 +1,35 @@
+Are you an entrepreneurial minded and talented Data Scientist? Then we’re looking for a person just like you. We are a young startup building several innovative digital products and apps. We’re looking to hire quickly so don’t hesitate to send us a resume and a link to your portfolio.
+This is a very rare opportunity to get in on the ground floor of one of the leaders of the AI data science / machine learning platform in a Midtown Manhattan startup environment.
+DESCRIPTION
+Collaborate with our team members to accelerate the pace of product development.
+Explore new data sources and think of innovative ways to incorporate these into existing and new predictive models.
+Monitor model performance. Regardless of the technique applied, we expect continued monitoring and iteration of models for continuous improvement ahead.
+Provide thought leadership on future research agenda and team growth.
+JOB REQUIREMENTS
+PhD degree in Finance, Mathematics, Physics or other quantitative fields.
+2+ years of experience as a Data Scientist.
+Strong knowledge of statistics and machine learning.
+Solid programming skills in Python.
+Excellent communication skills; good team player.
+Deep sense of intellectual curiosity.
+Exceptional level of organization.
+Ability to create proofs of concept and run experiments, making appropriate trade-offs between performance and complexity.
+Previous experience with at least two deep learning frameworks.
+PREFERRED SKILLS
+Familiar with financial terms and financial models.
+Familiar with AWS environment.
+Experience with mobile app development.
+Knowledge with other programming languages, such as R, Scala.
+Experience with an Agile environment.
+Job Type: Full-time
+Pay: $150,000.00 per year
+Schedule:
+8 hour shift
+COVID-19 considerations:
+We all are socially distanced in the office, wear masks as appropriate, and the office is deep-cleaned and sanitized each night by a specialized team.
+Education:
+Master's (Preferred)
+Experience:
+Python: 1 year (Preferred)
+machine learning: 1 year (Preferred)
+Work Location: One location

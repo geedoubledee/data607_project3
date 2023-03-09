@@ -1,0 +1,34 @@
+ICON plc is a world-leading healthcare intelligence and clinical research organisation. From molecule to medicine, we advance clinical research providing outsourced services to pharmaceutical, biotechnology, medical device and government and public health organisations. With our patients at the centre of all that we do, we help to accelerate the development of drugs and devices that save lives and improve quality of life. Our people are our greatest strength, are at the core of our culture, and the driving force behind our success. ICON people have a mission to succeed and a passion that ensures what we do, we do well.
+
+Programs metrics and reports in a data visualization tool/analyst software (e.g., Power BI, Spotfire)
+Ability to independently develop innovative and complex reports to support activities including, but not limited to, data review and surveillance
+Develops and maintains the Analytics and Reporting Global Library to ensure consistency across programs and studies and concordance with the EDC Global Library
+Trains Clinical Data Managers and Clinical Data Scientists on how to generate output (e.g., data review tool, metrics)
+Works with Clinical Data Manager, Biomarker Data Specialist, Medical Monitor, and Protocol Lead (and other study team members as appropriate) to develop new or improve existing data review tools
+Coordinates with Clinical Data Managers and Clinical Data Scientists regarding timelines and deliverables to ensure all reports are working as expected
+Mentors less proficient Clinical Data Analysts as appropriate
+Evaluate processes and applications for improvements; participate in working groups to develop and implement new processes and applications
+May contribute to the development, review and implementation of SOPs, templates and processes and other departmental and/or cross functional initiatives
+
+3-7 years of experience with Analyst software (e.g., Spotfire, Power BI, Tableau), preferably in the pharmaceutical or biotechnology industry
+Technical expertise in database and report development
+Experience with programming languages preferred (e.g., SQL, Python)
+Knowledge of and experience with clinical databases, electronic data capture systems, quality control processes and auditing procedures
+Strong critical thinking skills
+Familiarity with GCP, ICH and FDA requirements as they apply to clinical data
+Strong well-rounded technical skills (EDC systems, MS Word, Excel, PowerPoint)
+Regular interaction with Regional Clinical Trial Operations and Medical Management groups
+Regular interaction with other groups within Clinical Data Management, including Clinical Data Programmers, EDC Programmers, and Data Scientists
+Excellent written and oral communication skills
+Education
+BA/BS in relevant field
+
+Benefits of Working in ICON:
+
+Our success depends on the knowledge, capabilities and quality of our people. That’s why we are committed to developing our employees in a continuous learning culture – one where we challenge you with engaging work and where every experience adds to your professional development.
+
+At ICON, our focus is to provide you with a comprehensive and competitive total reward package that comprises, not only an excellent level of base pay, but also a wide range of variable pay and recognition programs. In addition, our best in class employee benefits, supportive policies and wellbeing initiatives are tailored to support you and your family at all stages of your career - both now, and into the future.
+
+ICON, including subsidiaries, is an equal opportunity and inclusive employer and is committed to providing a workplace free of discrimination and harassment. All qualified applicants will receive equal consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability or protected veteran status.
+
+If, because of a medical condition or disability, you need a reasonable accommodation for any part of the application process, or in order to perform the essential functions of a position, please let us know.

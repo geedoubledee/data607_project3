@@ -1,0 +1,43 @@
+At Paradigm, we are changing the future of finance! By joining us at this early stage, you'll be building cutting-edge, distributed financial service infrastructure that will reshape financial services across CeFi and DeFi markets.
+About Paradigm
+Paradigm is a zero-fee, institutional liquidity network for derivatives traders across CeFi and DeFi.
+We provide unified access to multi-asset, multi-protocol liquidity on demand without compromising on execution preferences, costs, and immediacy.
+We've built the largest network of institutional counterparties in crypto, with over 1000 institutional clients trading over $10 B per month.
+We are a diverse, global team led by our organizational principles and united by our mission to bring on-demand liquidity for traders, anytime and anywhere, without compromises. We also strive to ship faster than anyone else in the industry!
+We are backed by the best traders and investors in the space, including Jump Capital, Alameda Ventures/FTX, Dragonfly Capital, Digital Currency Group, Genesis Trading, QCP Capital, Optiver US, IMC, GSR Markets, Akuna Capital, Fidelity Digital Assets CMT Digital, Goldentree Asset Management, Amber Group, OK Group, Bybit Fintech, and CoinShares.
+
+The role
+We are seeking a senior data engineer to join our team and help build out our flagship chat-based trading platform. You will work on developing mission-critical and highly performant features from scratch for our institutional customers.
+Responsibilities
+Design, build and maintain a robust data pipeline and warehouse
+Design and develop robust solutions for trade negotiation and execution, real-time market data, and security
+Help maintain existing codebase, infrastructure, test coverage, and documentation
+Communicate requirements effectively within and across teams
+Requirements
+7+ years of data engineering experience, ideally building products from ideation to launch with a strong engineering team
+Experience building and maintaining a data analytics platform
+Familiarity with the latest data analytics platforms and technologies (Kafka, Spark, Airflow, Hive, etc)
+Experience working with cloud-native AWS infrastructure and/or Kubernetes
+Team-building and technical leadership experience
+B.S. in Computer Science or a related field (M.S. a plus)
+Compensation Range: $185,000 - $275,000 USD Annually
+
+Our Benefits and Perks
+Competitive pay and transparent pay bands
+Flexible work environment
+Unlimited vacation with a minimum required PTO of 10 days annually.
+Celebrate your national holidays, in addition to floating holidays, to honor what matters to you, not HQ.
+Full benefits (benefits vary by country)
+Medical, dental, vision
+Health Flexible Savings Account (FSA)
+Long Term Disability and Life Insurance
+Retirement savings (i.e. Traditional and Roth 401(k))
+Paid Parental Leave
+Generous technology and learning allowances
+$5000 first-year budget to spend on your computer, peripherals, office essentials...whatever makes you most efficient and comfortable. You'll receive a $2000 refresh each anniversary.
+$1000 budget to spend on learning and development materials, courses or conferences.
+
+
+Paradigm US is an equal opportunity employer.
+
+#LI-Remote

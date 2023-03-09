@@ -1,0 +1,29 @@
+Perrigo Company is dedicated to making lives better by bringing Quality, Affordable Self-care products that consumers trust everywhere they are sold. Help us do it.
+
+Description Overview
+Perrigo has an opening for a SQL Server Database Administrator. This person will be part of a global team responsible for implementing scalable, highly available, secure database environments. The ideal candidate will leverage leading-edge technology to position the organization for success, while improving efficiency and supporting aggressive growth. #LI - Remote
+Scope of the Role
+Partner with Architecture/Technical teams to provide technical expertise in the use of database technology and design optimal solutions
+Perform assigned tasks in the areas of database administration including installation, backups, cluster setup, 24x7 support, capacity planning, and database performance tuning
+Maintain compliance with regular operating system and database patching
+Quickly diagnose problem areas and provide workable solutions to resolve issues
+Conduct data migrations, upgrades, and database refreshes
+Participate on multiple projects sometimes as a technical lead or advisor
+Assist project teams in identifying database requirements, performance, and cost implications
+Generate and maintain scripts to support DB creation, administration, task automation and related activities
+Continually improve database administration standards, guidelines, and procedures
+Vendor management and license compliance
+Maintain high customer satisfaction
+Experience Required
+Experience in supporting multi-instance SQL Server 2012 R2 – 2019 environments
+Practical knowledge of T-SQL programming language
+Hands-on experience with MS Failover Clusters and Availability Groups
+Practical knowledge and experience with performance tuning
+Excellent communication and interpersonal skills
+Experience with Microsoft Azure preferred
+Experience administering Oracle 12c-19c environments is preferred
+Experience with large databases (1+TB) preferred
+Experience with PowerShell scripting preferred
+These skills are typically acquired through the completion of a Bachelor's Degree within Computer Science, Information Technology, or a related field; Combined with a minimum of 5+ years of relevant work experience
+
+We are seeking a diverse applicant pool to ensure the diversity of our team reflects the end consumers we serve through our self-care mission. We are proud to be an equal opportunity employer that celebrates our team’s differences. Individuals of all races, ethnicities, nationalities, ancestries, religious creeds, sexual orientations, genders, gender identities and gender expressions, national origins, ages, mental and physical abilities, familial status,’ veterans status’, military status’ and more are encouraged to apply. TOGETHER, we make lives better. #DIV

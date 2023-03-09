@@ -1,0 +1,35 @@
+Doorvest
+
+Our mission is to simplify and democratize the path to financial security for everyone. For too long, access to high-quality single family real estate has been reserved for the ultra-wealthy; leaving out everyday individuals from participating in the #1 source of American wealth.
+We've designed a full-stack, vertically integrated model that aligns incentives with stakeholders and offers a seamless way to own high-yield rental homes entirely online. As we succeed together, we will play a key role in closing the wealth gap.
+Doorvest has raised almost $20m from founders/execs at top fintech companies such as Invitation Homes, Wealthfront, Sundae Homes, Opendoor and many others.
+Job Description
+Doorvest is looking for a Data Generalist to help pioneer the data org and lead all data initiatives. As a Lead, you will be leading and growing a team of Data Scientists and Data Analysts working on our data warehouse and helping each department with their data needs. The team works closely with each department to:
+Research opportunities and build business cases
+Design A/B experiments for complex product features
+Analyze results of experiments to derive actionable insights
+Build models that power current and future products
+As a successful founder of this team, you must possess a strong technical background, especially working with large data sets, quantitative research, and complex experimental analysis. You should be results-driven, highly motivated, and have a track record of using data analytics to drive the understanding, growth, and success of a product.
+Aside from technical mentorship, you will be tasked with managing and growing the team to keep up with the scale of the product. You should be comfortable working with people from diverse data skillsets and structuring a team for success at scale.
+What you'll be doing:
+Building the foundation of Doorvest's data culture.
+Growing a team of diverse data skillsets including Data Scientists and Data Analysts
+Research product opportunities and help build business cases.
+Design A/B experiments in a fast-moving environment
+Collaborate with product, engineering, and design teams
+Stay up-to-date with the latest analytical trends and motivate your team to do the same
+Serve as the data point of contact for the entire organization.
+Qualifications
+5+ years experience in Data Science, Business Analytics, Deep Learning, Statistical Research, or a related field
+Hands-on experience with large scale data processing software and tools (Snowflake, DBT, Fivetran, etc)
+Strong business acumen and deep understanding of the industry and competitive landscape
+Experience leading cross-functional projects and mentoring/managing junior members
+As an early team member, you'll have the opportunity to work with a scrappy, close knit team in an energetic environment. We believe this role is mission critical and will be offering substantial equity.
+What we're able to offer
+Opportunity to have an incredible impact and build a venture-backed startup from the ground up
+Substantial ownership in the company you're building
+Competitive salary
+401k plan with 5% match
+Medical, dental & vision insurance
+Various physical, mental, & financial wellness perks
+We are committed to an inclusive and diverse Doorvest. Doorvest is an equal opportunity employer. We do not discriminate based on race, color, ethnicity, ancestry, national origin, religion, sex, gender, gender identity, gender expression, sexual orientation, age, disability, veteran status, genetic information, marital status, or any legally protected status.

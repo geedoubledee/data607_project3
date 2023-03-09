@@ -1,0 +1,90 @@
+Job Profile
+
+Position Overview
+
+At PNC, our people are our greatest differentiator and competitive advantage in the markets we serve. We are all united in delivering the best experience for our customers. We work together each day to foster an inclusive workplace culture where all of our employees feel respected, valued and have an opportunity to contribute to the company’s success. As an Oracle – Infrastructure Engineer within PNC's Enterprise Technology Hosting & Engineering organization, you will work as part of a team and report into a manager.
+
+This is a remote position that can sit within the PNC footprint, although it may not be available in all jurisdictions. Certain job responsibilities may require in-person, in office activities on a regular basis.
+
+The work schedule is Thursday and Friday, 11pm to 7am & Saturday, Sunday, 12am to 12pm
+
+This role is an individual contributor responsible for applying skills and knowledge to perform specified support functions. DBA with expert level Knowledge of Oracle Enterprise Manager, Oracle WebLogic, Oracle database and UNIX scripting experience to be involved with PNC's High Availability Tier 0 systems. Primary duties will be to support and resolve OEM and database problems; to plan, execute and manage OEM and database to ensure all security, quality and compliance requirements are met.
+
+Requirements:
+Extensive work experience in Oracle RAC Database Administration.
+Comprehensive background in administration of Oracle Enterprise Manager and physical DBA support in a complex environment.
+Experience with Exadata administration
+Previous experience partnering with Oracle on troubleshooting and resolving Exadata appliance issues
+Install, Configure and administer Oracle Enterprise Manager 13c.
+Install, configure and administer Oracle RAC DBs version 18c and above, including the design, configuration and operation of n-node clusters, data recovery, and user/group/role definition.
+Configure Physical standby databases and perform switchover/failover activities. Troubleshoot standby and switchover issues.
+Configuration management, performance tuning and administration of mission critical production databases
+Database skills must include: Installation/Patching/Upgrade of the OEM, database software on Linux platform, RMAN backup and recovery of the Oracle Database, performance tuning, migration, data guard replication, configuration and security administration.
+Perform Schema level and Table level data refreshes from Production to Non-Production environments using Data pump EXPDP/IMPDP.
+Monitor database activities such as Backup, Error Logs, Space, Object, Performance, User and Session monitoring for proper capacity and availability.
+Experience in SQL server/MySQL Administration is a plus.
+Good understanding of the Linux/UNIX environments.
+Minimum Skills and Qualifications:
+Experience with Oracle 12c, 18c and OEM 13c
+Work experience with OLTP, OLAP, Staging, and Data warehouse configuration.
+Strong fundamentals in all aspects of DBA responsibilities.
+Excellent communication skills, customer service and client management skills.
+Highly specialized in Oracle Enterprise Manager 13c with installation and configuration of emails and alerts.
+Specialized in Oracle 19c RAC Database Administration and Technical Architecture, including but not limited to database administration, ASM Storage, SCAN Listener, RMAN backup and recovery, Performance Tuning, Database Refreshes from Prod to Lower Environments.
+A bachelor’s degree in Engineering or Computer Sciences or related field preferred
+Job Description
+
+Applies solution design and support while consistently meeting customer needs. Leverages technical knowledge and industry experience to design, build and maintain infrastructure technology solutions.
+Develops software components and hardware for projects; aligns these with business strategies and objectives.
+Independently solves common problems and updates applications with new technology.
+Collaborates with engineers, architects, developers and other staff to meet project objectives.
+Analyzes the technological needs of customers and provides ongoing support for clients.
+
+PNC Employees take pride in our reputation and to continue building upon that we expect our employees to be:
+Customer Focused - Knowledgeable of the values and practices that align customer needs and satisfaction as primary considerations in all business decisions and able to leverage that information in creating customized customer solutions.
+Managing Risk - Assessing and effectively managing all of the risks associated with their business objectives and activities to ensure they adhere to and support PNC's Enterprise Risk Management Framework.
+
+Competencies
+
+Application Delivery Process – Knowledge of major tasks, deliverables, and formal application delivery methodologies; ability to utilize these in order to deliver new or enhanced applications.
+
+Consulting – Knowledge of techniques, roles, and responsibilities in providing technical or business guidance to clients, both internal and external; ability to apply this knowledge appropriately to diverse situations.
+
+Effectiveness Measurement – Ability to measure the quality and quantity of work effort for the purpose of improvement.
+
+Industry Knowledge – Knowledge of the organization's industry group, trends, directions, major issues, regulatory considerations, and trendsetters; ability to apply this knowledge appropriately to diverse situations.
+
+IT Industry: Trends & Directions – Knowledge of and ability to analyze marketplace experiences, developments and trends related to the function of Information Technology (IT).
+
+IT Standards, Procedures & Policies – Knowledge of and the ability to utilize a variety of administrative skill sets and technical knowledge to manage organizational IT policies, standards, and procedures.
+
+Planning: Tactical, Strategic – Ability to contribute to operational (short term), tactical (1-2 years) and strategic (3-5 years) planning in support of the overall business plan.
+
+Problem Solving – Knowledge of approaches, tools, techniques for recognizing, anticipating, and resolving organizational, operational or process problems; ability to apply this knowledge appropriately to diverse situations.
+
+Work Experience
+
+Roles at this level typically require a university / college degree, with 3+ years of relevant / direct industry experience. Certifications are often desired. In lieu of a degree, a comparable combination of education and experience (including military service) may be considered.
+
+Education
+
+Bachelors
+
+Additional Job Description
+
+Base salary commensurate upon skills and experience
+
+Benefits
+PNC offers employees a comprehensive range of benefits to help meet your needs now and in the future. Depending on your eligibility, options for full-time employees include medical/prescription drug coverage (with a Health Savings Account feature); dental and vision options; employee and spouse/child life insurance; short- and long-term disability protection; maternity and parental leave; paid holidays, vacation days and occasional absence time; 401(k), pension and stock purchase plans; dependent care reimbursement account; back-up child/elder care; adoption assistance; educational assistance and a robust wellness program with financial incentives. To learn more about these and other programs, including benefits for part-time employees, visit pncbenefits.com > New to PNC.
+
+Disability Accommodations Statement:
+The PNC workplace is inclusive and supportive of individual needs. If you have a physical or other impairment that might require an accommodation, including technical assistance with the PNC Careers website or submission process, please call 877-968-7762 and select Option 4: Recruiting or contact us via email at pathfinder@pnc.com.
+
+The Human Resources Service Center hours of operation are Monday - Friday 9:00 AM to 5:00 PM ET.
+
+Equal Employment Opportunity (EEO):
+PNC provides equal employment opportunity to qualified persons regardless of race, color, sex, religion, national origin, age, sexual orientation, gender identity, disability, veteran status, or other categories protected by law.
+
+California Residents
+
+Refer to the California Consumer Privacy Act Privacy Notice to gain understanding of how PNC may use or disclose your personal information in our hiring practices.

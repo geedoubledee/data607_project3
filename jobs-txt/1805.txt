@@ -1,0 +1,49 @@
+Atlanta, US
+We are OMP, a game changer that optimizes supply chains of the world’s leading companies with our very own smart software and services.
+
+Are you an experienced SQL Server database administrator? Are you eager to join a team that forms an essential part of OMP’s solution? And can you handle large data volumes coming from over 150 instances at leading supply chain companies and an increasing number of cloud deployments?
+
+Then you could be our new Database Administrator. Read on!
+Your challenge
+As a Database Administrator, you are the go-to person for all database-related challenges within OMP.
+You are responsible for:
+Staying up to date with the latest developments in database technology and integrating them into our products.
+Keeping our internal Oracle and SQL server systems running in top shape.
+Ensuring smooth and solid system performance on our fast-growing Azure cloud.
+Assisting our consultants and developers in writing efficient SQL statements.
+Your team
+As our new Database Administrator, you’ll be part of the Tools and Database team which, in turn, fits into the bigger picture of the Technical Services team. Technical Services equips our teams with the necessary technology, applications, and technical framework for them to do their jobs effectively and securely.
+Your profile
+We are looking for someone who meets the following qualifications:
+A bachelor’s or master’s degree in Information Technology or a similar field.
+Strong motivation to learn new technologies.
+Solid experience in writing complex SQL statements and database-stored procedures.
+Experience in installing and maintaining customer-hosted SQL servers or Oracle systems, and managing Azure SQL Database services.
+Bonus points if you:
+Experience writing PowerShell.
+Knowledge of alternative, non relational database systems.
+Soft skills
+Communication
+Interpersonal skills
+Problem solving
+Hard skills
+SQL statements & database-stored procedures
+Azure SQL database services
+Customer-hosted SQL servers
+Language skills
+Required:
+English
+A plus:
+Any other language
+Your future
+At OMP, we’re eager to find your best career fit. Our talent management program supports your personal development and empowers you to build a career in line with your ambitions.
+Our offer
+At OMP, we offer more than just a job. We put people first and inspire you to become the best version of yourself.
+International: A growing global company, worldwide career opportunities, and multicultural teams
+Benefits: An attractive salary package including health insurance, 401k plan (no waiting period), life insurance, paid vacation, additional extralegal vacation days, and other competitive benefits
+Flexibility: Teleworking, flexible hours, and lots of autonomy
+Lifelong learning: A custom training and development track, an extensive coaching program, and on-the-job learning
+Empowerment: Room for initiative and creativity and an emphasis on entrepreneurship
+Innovation: Encouragement to think differently through cross-team collaboration and innovation challenges
+Well-being: A caring and inspiring environment, promoting a happy and healthy lifestyle through a wide range of facilities and activities
+Teamwork: Join a team that lifts you up and learn from the best

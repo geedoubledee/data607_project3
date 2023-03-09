@@ -1,0 +1,20 @@
+Company Overview: Terray Therapeutics is a venture-backed biotechnology company led by pioneers and long-time leaders in artificial intelligence, synthetic chemistry, automation, and nanotechnology. We're generating chemical data purpose-built to propel drug discovery into the information age — and we're doing it on a larger scale and faster than has ever before been possible.
+Our closed loop system generates precise chemical datasets at unrivaled scale that work seamlessly with AI to systematically map biochemical interactions between small molecules and causes of disease. Iterative cycles of virtual molecular design and experimentation power AI and machine learning models, which in turn guide the next cycle of design. With a chemistry engine that measures billions of interactions daily and becomes increasingly precise with every cycle, we can answer an unprecedented array of questions — deriving insights that enable us to predictably create drugs for patients in need.
+Position Summary: Terray is currently seeking a motivated, creative, and experienced machine learning engineer. As an integral member of our Computational and Data Sciences (CDS) team, the candidate will be responsible for developing and deploying state-of-the-art machine learning models trained on up to billions of small molecule affinity/activity data points in order to accelerate internal drug discovery efforts.
+The core responsibilities of this position are:
+Develop multi-task, ligand-based machine learning models in PyTorch/JAX for predicting small molecule properties (affinity, activity, ADME, etc.) using 2D and 3D features
+Work with computational chemists to develop structure-based machine learning models for predicting small molecule affinity and activity
+Work with computational chemists and cheminformatics scientists to develop and test 2D and 3D molecular embeddings
+Apply deep learning methods to explore combinatorial and non-combinatorial/synthesizable chemical spaces using molecular generation
+Develop an active learning library design framework for integration of predictive models into an iterative hit discovery platform
+Develop and deploy a cloud-based solution for iteratively training large-scale machine learning models on CPUs and GPUs
+Develop and deploy a cloud-based solution for small-scale (real-time) and large-scale (event-based) inference of molecular properties
+Experience and Qualifications: Part of Terray's success is nurtured by a hands-on work environment where everyone is accountable, vested in a vision of excellence, and actively taking part in the success of the business. Terray supports a positive work environment where employees can feel engaged, recognized and empowered to be creative.
+Required Qualifications:
+BS/MS/PhD in Computer Science, Applied Math, Computational Chemistry, or related quantitative field
+Fluent in PyTorch and/or JAX
+Highly proficient in Python and the PyData stack (numpy, pandas, scipy, scikit-learn, etc.), plus XGBoost
+Proficiency in Linux environment, experience with database languages, and experience with version control practices and tools
+Familiar with AWS cloud resources
+Experience with traditional machine learning methods (e.g., SVM), ensemble methods (e.g., random forest, gradient boosting), as well as deep learning methods (e.g., DNNs and GNNs)
+Experience with scalable machine learning on GPUs, including applications to large datasets

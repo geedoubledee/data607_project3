@@ -1,0 +1,34 @@
+Locations: VA - McLean, United States of America, McLean, Virginia
+Sr. Manager Data Science
+Data is at the center of everything we do. As a startup, we disrupted the credit card industry by individually personalizing every credit card offer using statistical modeling and the relational database, cutting edge technology in 1988! Fast-forward a few years, and this little innovation and our passion for data has skyrocketed us to a Fortune 200 company and a leader in the world of data-driven decision-making.
+
+Role Description
+In this role, you will:
+Partner with a cross-functional team of data scientists, software engineers, and product managers to manage the risk and uncertainty inherent in statistical models in order to lead Capital One to the best decisions, not just avoid the worst ones.
+Leverage a broad stack of technologies — Python, R, Conda, AWS, Spark, and more — to reveal the insights hidden within huge volumes of numeric and textual data
+Build and validate machine learning models through all phases of development, from design through training, evaluation, and implementation
+Flex your interpersonal skills to translate the complexity of your work into tangible business goals, and challenge model developers to advance their modeling, data, and analytic capabilities
+
+The Ideal Candidate is:
+Creative. You thrive on bringing definition to big, undefined problems. You love asking questions and pushing hard to find answers. You’re not afraid to share a new idea.
+A leader. You challenge conventional thinking and work with stakeholders to identify and improve the status quo. You’re passionate about talent development for your own team and beyond.
+Technical. You’re comfortable with open-source languages and are passionate about developing further. You have hands-on experience developing data science solutions using open-source tools and cloud computing platforms.
+Statistically-minded. You’ve built models, validated them, and backtested them. You know how to interpret a confusion matrix or a ROC curve. You have experience with clustering, classification, sentiment analysis, time series, and deep learning.
+Basic Qualifications:
+Bachelor’s Degree plus 7 years of experience in data analytics, or Master’s Degree plus 5 years of experience in data analytics, or PhD plus 2 years of experience in data analytics
+At least 3 years’ experience in open source programming languages for large scale data analysis
+At least 3 years’ experience with machine learning
+At least 3 years’ experience with relational databases
+
+Preferred Qualifications:
+PhD in “STEM” field (Science, Technology, Engineering, or Mathematics) plus 4 years of experience in data analytics
+At least 1 year of experience working with AWS
+At least 1 year of experience managing people
+At least 5 years’ experience in Python, Scala, or R for large scale data analysis
+At least 5 years’ experience with machine learning
+Capital One will consider sponsoring a new qualified applicant for employment authorization for this position.
+No agencies please. Capital One is an Equal Opportunity Employer committed to diversity and inclusion in the workplace. All qualified applicants will receive consideration for employment without regard to sex, race, color, age, national origin, religion, physical and mental disability, genetic information, marital status, sexual orientation, gender identity/assignment, citizenship, pregnancy or maternity, protected veteran status, or any other status prohibited by applicable national, federal, state or local law. Capital One promotes a drug-free workplace. Capital One will consider for employment qualified applicants with a criminal history in a manner consistent with the requirements of applicable laws regarding criminal background inquiries, including, to the extent applicable, Article 23-A of the New York Correction Law; San Francisco, California Police Code Article 49, Sections 4901-4920; New York City’s Fair Chance Act; Philadelphia’s Fair Criminal Records Screening Act; and other applicable federal, state, and local laws and regulations regarding criminal background inquiries.
+If you have visited our website in search of information on employment opportunities or to apply for a position, and you require an accommodation, please contact Capital One Recruiting at 1-800-304-9102 or via email at RecruitingAccommodation@capitalone.com. All information you provide will be kept confidential and will be used only to the extent required to provide needed reasonable accommodations.
+For technical support or questions about Capital One's recruiting process, please send an email to Careers@capitalone.com
+Capital One does not provide, endorse nor guarantee and is not liable for third-party products, services, educational tools or other information available through this site.
+Capital One Financial is made up of several different entities. Please note that any position posted in Canada is for Capital One Canada, any position posted in the United Kingdom is for Capital One Europe and any position posted in the Philippines is for Capital One Philippines Service Corp. (COPSSC).

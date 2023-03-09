@@ -1,0 +1,51 @@
+About Yay Lunch:
+We are Yay Lunch, a new business concept with the mission to provide healthy food for kids away from home, beginning with school lunches. Our mission is simple: deliver delicious, healthy lunches made by local vendors to kids at school in an easy, reliable, cost-effective way for parents. How do we do it? We curate menus with local vendors in each market, families order online, and we deliver fresh lunches daily to kids at school. Easy!
+Since launching a pilot in the 2017 / 18 school year, we have expanded rapidly. We have aggressive growth plans backed by experienced venture capital partners, and we are excited about our prospects!
+We're a startup which means we are agile, outgoing, quick on our feet, and eternally positive. Our business is exploding into new cities up and down the east coast, which means we're also pretty excited!
+To enable this work, we are hiring a passionate problem-solver who will help take our analytics platform to the next level. Do you have great ideas and the enthusiasm to build them? Join our team! Together, we will brainstorm, collaborate, design and deliver solutions that get great kids great food, right when they need it most.
+
+About the team:
+We take our work seriously, while recognizing that work is just one part of being a real human. We rise and fall as a team.
+If you have strong skills, seriously enjoy a variety of work both tactical and strategic and don't mind getting your hands dirty, can both teach and learn from others, and can own both your successes and your mistakes, this may be a good spot for you. We have a “no stupid questions” policy and encourage egoless collaboration.
+In this role, we would expect there to be minimal travel, but expect to get your chance to periodically ride along with a driver, visit a food vendor, and help to deliver to a school near you to stay in close contact with how our business works.
+We firmly believe that talent comes in a great variety of forms from a wide variety of backgrounds, experiences, perspectives, and lifestyles.
+About the Role:
+The Senior Manager of Data Science and Business Analytics will play an integral part in positioning Yay Lunch for continued success in the future. In this role, you will be responsible for building, owning and evolving the overall analytical reporting team and environments for the Yay Lunch business. You'll help drive actionable insights for the executive team that provide not only transparency into existing business performance, but that also help to model our possible futures, and you'll help lead the creation of a robust and scalable analytics platform.
+This is both a hands-on role as well as a leadership one: expect to be involved at all levels of projects.
+The ideal candidate will be able to thrive in ambiguity, own and execute multiple concurrent deliverables (both hands-on as an individual contributor and by mentoring and guiding the team) while working effectively with executive leaders and stakeholders across the company. You'll ensure all stakeholder reporting needs are met in a repeatable and scalable way, while planning, delivering, and evolving our data management and reporting environment to meet the needs of our rapidly growing business and driving actionable insights that make a real impact on our business.
+
+While a remote role, we will be hiring a candidate in one of our existing markets: Atlanta, Baltimore, Philadelphia, DC metro areas or Virginia, Maryland or New Jersey.
+Key objectives:
+Partner with executive leadership and business stakeholders to develop analytics and standardized reports to support business performance reviews and to answer key business questions with a focus on scalable, actionable insights
+Own the overall design and support of the analytical reporting ecosystem, including collaborating with engineering and functional business leads on data acquisition, data management, technical architecture, data warehousing and report delivery solutions.
+Evaluate existing tools and maximize their use and/or identify new solutions appropriate for a scrappy, budget-conscious startup
+Help create predictive models that influence future business success, Personally drive top level business analytics that deliver transparency into how we are performing against our plans.
+Develop self-service reporting capabilities for the business stakeholders and mentor local teams in their use
+Help guide the executive team in establishing, implementing and maintaining data governance practices & policies, and develop reporting to drive alignment
+Help shape future technology work to both deliver data needed for future analysis, and to leverage the right data and algorithms for future automation and A/B testing
+Manage team priorities across multiple stakeholders, workflows for incoming requests, and staffing
+Minimum Qualifications:
+5-7 years of data science, business intelligence, business data governance, and/or analytics experience, with some experience in fast-moving start-up environments and some in larger companies. Consulting experience is welcome.
+Experience creating and leading a data science/business intelligence function.
+Experience and comfort generating actionable insights from complex datasets, and the creation and management of large scale data modeling. Experience creating predictive models of success based on past business performance
+Comfortable presenting both high level and detailed concepts to a broad variety of audiences, including executive leadership
+Strong experience with SQL, R, Python, and other data languages, cloud warehouses, data transformation
+Hands-on experience with reporting tools (Snowflake, Mode, Looker, Tableau, PowerBI, Github, dbt.) and Google Analytics.
+Strong project and program management skills.
+Experience coaching, mentoring, and directing a team of direct reports
+A strong sense of personal humility.
+Flexibility, curiosity, adaptability. Comfort with ambiguity and with creating tools and processes to build a path to success for the department. Readiness for change.
+Ability to be effective in an organization whose staff all work remotely
+Bachelor's degree in a relevant field and/or equivalent experience
+Preference will be given to candidates in or near an existing Yay Lunch Market location.
+We provide:
+Salary range $75,000 - $100,000 depending on experience
+Bonus + company options
+Medical, vision, dental and life insurance
+401K, up to 3.5% employer match
+Flexible paid time off (unlimited time off program)
+Technology allowance, data stipend, home office allowance
+Remote, flexible, and family-friendly environment
+Significant support structures, on-the-ground training, & coaching from central team members
+Yay Lunch requires all team members, including new hires, to report their COVID-19 vaccination status
+#ZR

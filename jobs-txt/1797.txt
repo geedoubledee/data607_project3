@@ -1,0 +1,21 @@
+Position: Senior Data Engineer
+We’re looking for an experienced data engineer to join our growing analytics team. We help a wide variety of organizations gain more insight from data locked away in their enterprise systems. The work is challenging, to say the least. In return, you’ll be able to work with one of the most talented data teams in the country and with some of the most exciting companies in the world. If you consider yourself a full stack data analyst, we would love to hear from you.
+Education and/or Work Experience Requirements
+5+ years of experience in building solutions using public cloud services
+Have a solid understanding of data warehouses, data lakes and business intelligence tools
+Experience with data integration concepts such as ETL and ELT
+Experience in building complex highly scalable and performant systems
+Specific Skills
+Proficient in writing analytical SQL and understand the difference between SQL that works, and performant SQL
+Experience with JSON
+Experience with REST services
+Experience with relational and columnar databases
+Experience with version control, testing, multiple environments, and continuous integration
+Responsibilities
+Build monitoring infrastructure to give visibility into the data pipeline’s status.
+Identify regular maintenance routines to minimize costs and maximize performance, such as partitions, compression and distributions.
+Develop custom data infrastructure when not available off-the-shelf for niche data ingestion pipelines.
+Determines operational feasibility by analysis, problem definition, requirements, solution development, and proposed solutions.
+Supports and develops the analytics team by providing advice, coaching and educational opportunities.
+Communicate findings clearly to a broad range of stakeholders
+Job Type: Full-time

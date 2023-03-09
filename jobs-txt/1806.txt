@@ -1,0 +1,67 @@
+Title:
+Training Database Administrator
+
+KBR is seeking to hire a Training Database Administrator to
+
+support USSTRATCOM/J7
+
+Joint Exercises, Training, and Assessments Directorate enhances readiness and mission performance through joint exercises, war games, training, and assessments. J7 also leads the Lessons Learned/After Action programs, IT Test/Evaluation, Modeling/Simulations capabilities, and enables Command workforce professional development. USSTRATCOM/J7 requires Advisory and Assistance Services (A&AS) for planning, development, execution, and analysis of Command-wide training, education, professional development, and organizational development programs and processes pursuant to SI 234-04, Workforce Onboarding and Development Program.
+
+Specific Duties may include:
+Training Database administration, analysis, and problem solving. Provide coordination and configuration management of the training database to include education and training products associated with mission training and compliance training requirements.
+
+Provide training database expertise to the Command, maintain currency with vendor products, and provide support as an organizational interface for database issue/problem resolution and management.
+
+Train individuals and groups on their assigned training database roles and responsibilities. Manage (create, search, edit, delete) database fields and information to include: courses and offerings; registrations ; learner records; enrollments; transcripts; competencies; learning resources; development plans; certifications; catalogs, subjects and curricula; online content; continuing education; management functions and approvals; other database administrator responsibilities as required.
+
+Query and produce scheduled and ad-hoc database reports.
+
+Conduct database analysis to identify patterns, trends, outliers, and data validity to produce meaningful and actionable metrics. Identify improvement opportunities, solve problems, and overcome database limitations by developing innovative solutions.
+
+Maintain, secure, archive, and reproduce historical student and instructor
+
+transcript/records/data.
+
+Ensure standardization, and provide quality assurance of the training database application including: Provide system troubleshooting support to users and administrators; Perform quality assurance checks on content and functionality; ensure standardization of procedures and appearance; Codify system requirements and standardized procedures and maintain a cross-domain matrix for the automated assignment of supervisors.
+
+Skills Required:
+Critical thinking skills, both qualitatively and quantitatively
+
+Ability to prepare a well-grounded, defensible argument
+
+Understand the interrelationships between domain of expertise and other domains
+
+.
+
+Strong organizational skills and ability to multi-task. Strong technical and analytical skills. Ability to work independently and as part of a team
+
+Familiarity with USSTRATCOM organization. Familiarity with Joint processes, operations, and commands.
+
+Travel 0%
+
+Required Education/Experience Qualifications:
+Possess experience that demonstrates the ability to:
+1) Focus on customer needs
+
+2) Communicate well verbally and in writing,
+
+3) Establish rapport with many different types of people,
+
+4) Critically evaluate problems and develop solutions,
+
+5) rapidly adapt to change.
+
+6) Organize plan and schedule.
+
+7) An undergraduate degree or equivalent work experience in lieu of degree.
+
+8) At least 1 years' experience with database administration and configuration management and experience in database analysis and problem solving
+
+9) Must be a US Citizen
+
+Preferred Qualifications:
+Education: Bachelors Degree
+
+In compliance with the U.S. federal government’s vaccine mandate, only candidates who are fully vaccinated for COVID-19 or have a reasonable accommodation or approved medical exception will be considered for this position.
+
+KBR is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, disability, sex, sexual orientation, gender identity or expression, age, national origin, veteran status, genetic information, union status and/or beliefs, or any other characteristic protected by federal, state, or local law.

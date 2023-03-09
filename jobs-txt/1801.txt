@@ -1,0 +1,21 @@
+The Role
+As Data Scientist / Deep Learning Engineer in the VI Core Team, you will contribute to a largely self-sufficient team that develops, delivers, runs, maintains and evolves innovative machine learning powered services that provide significant value to Solera’s customers.
+What You’ll Do
+As Data Scientist / Deep Learning Engineer in the VI Core Team, you will contribute to a largely self-sufficient team that develops, delivers, runs, maintains and evolves innovative machine learning powered services that provide significant value to Solera’s customers.
+What You’ll Bring
+Degree in a quantitative discipline
+Deep understanding of and proven ability to apply data science and machine learning concepts such as deep learning, CNN (in particular computer vision), instance segmentation, boosting, hypothesis testing, statistical analysis, NLP, transformers, predictive modelling, time series
+Demonstrated proficiency in Python and the Python data science ecosystem (SciPy, NumPy, pandas, seaborn, Matplotlib, Dask, …). Additional proficiency in second language would be a plus
+Experience with image augmentation and preprocessing techniques using PIL, OpenCV and albumentations
+Proficiency in either PyTorch or TensorFlow
+Familiarity with any of the following would be a plus:
+Google Cloud Platform
+Kubernetes
+concepts such as homography transformations, attention mechanisms, photogrammetry
+Soft Skills
+Proficiency in the English language (written and verbal) to be able to be successful with a globally distributed team and stakeholders
+Demonstrated capacity to clearly and concisely communicate about complex technical, architectural, and/or organisational problems and to propose wholistic, iterative solutions
+Demonstrated ability to autonomously work to understand a problem and its boundaries, conceptualise the most promising solutions, consult and build consensus with relevant peers and drive delivery while providing relevant and concise updates to stakeholders
+Demonstrated ability to collaborate, hold yourself and others accountable, contribute to the advancement of the team on multiple levels and outside of primary responsibilities if necessary
+Strong tendency towards communication, transparency and inclusion
+Interest to shape the culture and practices of the team and commitment to continuous improvement of the team.

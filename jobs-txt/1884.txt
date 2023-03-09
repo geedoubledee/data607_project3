@@ -1,0 +1,26 @@
+Immediate Requirement for Big Data Engineer/AWS Data Engineer- Contract @ Beaverton, OR(Onsite)
+Hello,
+Greetings!
+This is PREMA from Reveille Technologies. We are looking for Big Data Engineer /AWS finds the below mentioned job description. Kindly forward me your resume, Rate and contact details for further process. I also request you to forward this opportunity to your friends or colleagues; so that we can help someone who may be in search of a job or looking for a change.
+JOB TITLE: Big Data Engineer/AWS Data Engineer
+LOCATION: Beaverton, OR(Onsite)
+DURATION: Contract
+JOB DESCRIPTION:
+Experience 8to10yrs
+Must be Onsite in Beaverton, OR.
+Required Skills – Must be strong in Spark, PySpark, SQL. Looking for expert candidate.
+Nice to have skills - AWS Services, AWS EMR, Big Data Management
+Design and implement distributed data processing pipelines using Spark, Hive, Python, and other tools and languages prevalent in the Hadoop ecosystem.
+Ability to design and implement end to end solution.
+Experience publishing RESTful API’s to enable real-time data consumption using Open API specifications
+Job Type: Contract
+Salary: $60.00 - $65.00 per hour
+Schedule:
+8 hour shift
+Ability to commute/relocate:
+Beaverton, OR 97003: Reliably commute or planning to relocate before starting work (Required)
+Experience:
+spark: 3 years (Preferred)
+aws: 2 years (Preferred)
+SQL: 2 years (Preferred)
+Work Location: One location

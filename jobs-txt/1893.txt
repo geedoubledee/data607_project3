@@ -1,0 +1,25 @@
+Data Scientist
+Which game is a fan likely to buy tickets to? What article or video should we recommend a visitor to the website? How do we measure the strength of a fan's relationship to a team or player?
+MLB is looking for a Data Scientist to join the Platform Products team in our New York City office. The Platform Products team aggregates data from hundreds of online and offline sources and leverages it to better serve fans through our products (MLB.com, the MLB app, Ballpark and MLB.TV).
+In this crucial role, you will be responsible for manipulating and analyzing complex, high-volume, high-dimensionality data from a myriad of sources. You will help drive a deeper understanding of MLB's fans, develop and validate predictive models, partner with Data and Software Engineering to deploy them at scale, and collaborate with Product teams to drive fan engagement and business impact.
+If you love data, baseball, and delivering work that makes an impact, you've come to the right place.
+Core Responsibilities
+Train, validate, and tune predictive models around fans' behavior.
+Translate business challenges into data pipelines & model frameworks.
+Analyze, interpret & communicate the results of experiments.
+Deliver business value by translating complex data into meaningful insights, which will power MLB's products.
+Effectively present and explain complex concepts to a non-technical audience.
+Qualifications
+2-4 years of relevant experience in Data Science
+A strong foundation in probability, statistics, and algorithm development
+Programming skills that allow you to be self-sufficient in handling large datasets (Python, SQL, Scala, Java)
+Experience with statistical tools or packages: Python (strongly preferred; specifically with scipy, numpy, scikit-learn etc), R, SAS, SPSS, or Matlab
+Experience programmatically structuring and cleaning data, and not just analyzing highly cleaned data sets
+You're a self-starter that's highly accountable and will take ownership of delivering your work
+Strong understanding of building models, ability to validate and measure efficacy of models via various metrics, and the knowledge to know what metrics make sense for which situation
+Familiarity with deploying and maintaining models and data pipelines (Airflow, Argo, Kubernetes, etc.)
+Comfort manipulating and analyzing complex, high-volume, high-dimensionality data from varying sources
+Experience with cloud services platforms (Google Cloud, Amazon Web Services, etc.) and developer tools and workflows (Git, GitHub, code reviews, etc.)
+Per the NYC pay transparency law, the hiring range for this position is $120,000 to $145,000.
+
+As a candidate for this position, your salary and related elements of compensation will be contingent upon your work experience, education, skills and any other factors Major League Baseball (MLB) considers relevant to the hiring decision. In addition to your salary, MLB believes in providing a competitive compensation and benefits package for its employees. MLB offers employees a full range of best in class benefits with no employee contributions towards medical, dental, and vision coverage premiums, as well as incentive and recognition programs, life insurance and automatic employer 401k contributions. All benefits are subject to eligibility requirements and the terms of official plan documents which may be modified or amended from time to time.

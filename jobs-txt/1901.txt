@@ -1,0 +1,84 @@
+JobID: 774
+Position Type:
+Technology/Database Administrator
+Date Posted:
+11/15/2022
+Location:
+Eugene, OR
+Date Available:
+Upon Hire
+Closing Date:
+11/29/2022
+Database Administrator
+
+Position Type: Exempt
+Hours/FTE: 1.0 FTE
+Salary: Professional Range K
+Start Date: mutually agreed upon at hire
+Calendar: 260 day
+Benefits: Medical, Dental, Vision insurance, paid leaves and holidays, Public Employee Retirement (PERS). Full description of benefits available in ESD-LCEA Collective Bargaining Agreement.
+
+Notes:
+Complete job description is attached.
+Please ensure that your cover letter explains how your experience and interest make you an ideal candidate for this position.
+Please ensure that your application responses and resume explain your experience specifically with the requirements listed in the Knowledge/Skill/Training (Section 3) portion of the job description.
+Please submit your cover letter, resume, and letters of references in pdf format.
+Oregon schools have been directed by the Governor under OAR 333-019-1030 to ensure that school teachers, staff and volunteers are fully vaccinated against COVID-19. "Fully vaccinated" is defined as 14 days after receiving all required doses of an approved COVID-19 vaccine (currently two shots of Pfizer or Moderna vaccine, or one shot of Johnson & Johnson vaccine). Under this rule employees must provide proof of COVID-19 vaccination. Exemptions may be made only for eligible medical or religious reasons.
+
+POSITION PURPOSE:
+
+This position is responsible for the design, maintenance, development and ongoing adaptation of assigned database systems using appropriate programming languages and frameworks. This includes system security, system testing and performance monitoring, measurement, and improvements for assigned systems. This position must develop and maintain protocols and procedures that will ensure the integrity of ESD and/or component district data associated with assigned database systems. The incumbent maintains expertise in, and performs the implementations of, current trends in technologies associated with the specific position assignment.
+
+ESSENTIAL DUTIES AND RESPONSIBILITIES:
+
+The primary duties and accountabilities for the position include:
+
+A. Ensure workplace and classroom productivity and continuity of services for ESD programs and local districts, including anticipation of emerging needs in the K-12 instructional environment:
+
+1. Design, install, configure, troubleshoot, and perform upgrades, and maintenance on assigned database systems.
+2. Manage security within the database environment.
+3. Create ETL packages with tools reflective of assigned component district or ESD operating environments.
+4. Performing regular assigned system security checks.
+5. Develop and/or integrate custom or purchased applications and related components.
+6. Design and perform programming, in appropriate language, for web-based applications and services.
+7. Participate in solutions to daily operational problems on hardware, software and infrastructure.
+8. Program in applicable system-specific languages, including evelopment and maintenance of assigned systems.
+9. Create and manage system documentation for the purpose of efficiently managing assigned technology systems.
+
+B. Ensure proactive and effective decision-making related to implementation of assigned technology database systems
+
+a . Provide escalated technology-related engineering design and support to school districts to support effective design and implementation of databases.
+
+b . Initiate and assist in ongoing research of database services to support proactive, effective decision-making and implementation of new services.
+
+C. Manage position-specific system security, including authentication routines and user accounts.
+
+D. Act as technical lead or representative in cross-departmental project teams, including the performance of project management responsibilities to support database integration and ensure compatibility and legal compliance issues are addressed.
+
+E. Mentor and train other technical support staff on tools and appropriate methodologies to enhance the department’s ability to support continuity of services and the K-12 environment.
+
+F. Evaluate and recommend standards regarding supported systems, as well as new and existing services to support end-user functionality and legal compliance.
+
+G. Maintain current knowledge of trends on the use of technology in education to enhance quality of recommendations and planning activities.
+
+H. Complete other duties as assigned.
+
+
+QUALIFICATIONS:
+
+Bachelor's degree in computer science, information technology or related field required; an equivalent combination of training and experience may be considered in lieu of degree. At least three (3) years of responsible experience in database administration planning, design, configuration, installation, troubleshooting, integration, performance monitoring, maintenance, enhancement, and security management. Experience in K-12 school district environments is preferred.
+Excellent system administration skills and three years of experience in the following platforms, services and programming environments: Unix, Linux, Perl, HTML, shell, C, Apache, and MySQL, as well as excellent familiarity and abilities with CGI scripts.
+Extensive experience with technology project management, and in providing technical support and training. Effective and creative problem solving, diagnostic and troubleshooting skills. Proficiency with position specific systems design and analysis. Excellent communication skills (verbal, graphic, and written) to clearly articulate technical concepts to non-technical users. Demonstrated ability to work well with people in a variety technical background and abilities. Ability to identify and solve problems in a dynamic environment. Ability to meet the physical requirements necessary to perform the essential job functions. Complete job learning time may range beyond 12 months.
+
+About Lane ESD’s Technology Program
+
+Lane ESD Technology Services provides support internally as well as to sixteen school districts in Lane County. The department's purpose statement is "Removing Obstacles from Instruction."
+
+About Lane ESD
+In providing services to Lane County school districts, Lane ESD seeks to fulfill our core purpose of Shaping the Future: Supporting Excellence in Education. Lane ESD employees strive to embody core values of equity, commitment, leadership, collaboration, and integrity.
+The mission of education service districts is to assist school districts and the Department of Education in achieving Oregon’s educational goals by providing equitable, high quality, cost-effective and locally responsive educational services at a regional level. The ESD partners with school districts, local universities and community college, and other community agencies in providing quality services to the component school districts in Lane County.
+Lane Education Service District provides a wide array of services to the 16 School Districts in Lane County serving about 45,000 students. Services in special education, school improvement, technology, and administrative services are designed to support districts in meeting the challenge of serving a diverse student population. We focus on systemic school improvement, multicultural curriculum, and assisting districts in development of students who are well prepared to be global citizens. Additional information about Lane ESD is available at www.lesd.k12.or.us
+
+Lane ESD is an equal opportunity employer, and complies with federal and state statutes which prohibit discrimination on the basis of race, color, national origin, religion, sex, age, handicap and marital status.
+Attachment(s):
+Database Administrator.pdf

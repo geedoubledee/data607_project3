@@ -1,0 +1,23 @@
+We are looking for a Data Scientist to join Credit Decision Sciences at Fingerhut, that will help develop and implement ML models for credit decisioning. Fingerhut is a market-leading FinTech. This is not just another job but a job with a real purpose as Fingerhut’s mission is to help Americans live a better financial life by helping them establish, build or rebuild their credit.
+Fingerhut has set becoming an ‘Employer of Choice’ as one of its four ‘Transformation’ goals to kick-off in 2022. After two years of pandemic, the ‘great resignation’, highly competitive Minneapolis and national labor market given the ability to work remotely leadership recognizes that the employee experience has to be greatly enhanced from acquisition through development to lead to retention.
+The Data Scientist will follow our internal Machine Learning model development process, such as data handling, target variable definition/analysis, segmentation consideration, algorithm selection, stress testing, and so on. The Data Scientist will also have freedom to pursue his/her own ideas and experiment to identify interesting patterns and trends in the data.
+The role can be based out of our Eden Prairie, MN head office within our hybrid environment that has team members come into the office once or twice a week.
+DUTIES AND RESPONSIBILITIES:
+Develop and/or implement machine learning models for predictive purposes.
+Validate models for roll-out and analyze the performance of existing models.
+Assess the usefulness of new data sources, transformations, and modeling techniques.
+Perform high quality, data driven statistical inference.
+Mine large datasets in multiple databases to draw patterns and inferences to build models and arm leaders with information that will help make business decisions.
+Support end-users to design strategies based on newly developed machine learning models
+QUALIFICATIONS
+Bachelor’s degree in Data Science, Information Science, Machine Learning, Statistics, Computer Science, Data Mining, Applied Mathematics, Physics, Engineering, Econometrics or other related program. A MS or PhD degree is a plus
+Experience in one of the followings: Python, R, Spark, Scala, SQL, or other analytical/mathematical/statistical programming environment.
+Hands on experience with information retrieval from high dimensional data, dimensionality reduction and feature extraction.
+Basic knowledge of supervised and/or unsupervised model building techniques is a plus, especially one of these machine learning methodologies, such as: neural networks, extreme gradient boosting (XGBoost), support vector machines (SVM), gradient boosted models (GBM), and random forest.
+Commitment to creating reproducible and well-documented code
+
+ABOUT BLUESTEM BRANDS
+BLST Operating Company (Bluestem Brands) is a group of FinTech and eCommerce Retail businesses led by our Northstar and Orchard Portfolios. This position falls under the Northstar Portfolio, which is led by Fingerhut – a long-standing fintech company. Fingerhut fuses our extensive years of data modeling and real-time analytics through machine learning to provide flexible payment options for our valued customers looking to establish, build, or rebuild credit. Qualifying customers use their accounts for e-Commerce purchases at fingerhut.com for everything they and their family need across a broad selection of national brands.
+At Northstar, you’ll find responsive and supportive leaders who empower our employees, knowing they drive our success. We are continually innovating and improving, challenging ourselves to take risks, learn from mistakes, and celebrate success as a team. We also grow careers, giving employees on-the-job stretch assignments, lateral moves to expand knowledge bases, and promotional opportunities that help to accelerate development.
+You’ll work hard at Bluestem, so you deserve more than just a paycheck. From great benefits, employee discounts and incentive plans to small touches jeans-every-day dress code, Keurig coffee in the office, and flexibility to balance everyday life with work, this is the place you’ll want to be. Join the Northstar team at Bluestem Brands to make an impact, be inspired and be valued, every day.
+#LI-FH22

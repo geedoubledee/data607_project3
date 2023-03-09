@@ -1,0 +1,34 @@
+Position Summary:
+Do you have a passion for data? Do you want to be part of an company with a mission to improve people’s lives? If so, Penn Foster has the job for you. Come be a part of the fast-growing Data Engineering team as we migrate our existing Data Lake to an Azure Databricks platform. You will play a critical role in this highly visible and strategic project to revolutionize Penn foster’s data capabilities. The Data Engineer is primarily responsible for the development of Python/PySpark code in Databricks as well as all associated automation processes. This role will have the opportunity to be involved in ML Ops utilizing mlflow on Databricks.
+Essential Job Functions:
+Developing Python, SQL and PySpark based applications
+Participating in code reviews
+Estimating level of effort for assigned tasks and adhering to schedules
+Worked in with Agile development processes (Kanban)
+Be a complete team player
+Comfortable working in a fluid constantly changing environment
+Strong sense of ownership for all work
+Knowledge, Skills, Abilities:
+5+ years of Data Engineering experience
+5+ years of Python and Spark
+5+ years of SQL
+Experience with large data centric projects and data migration projects
+Ability to learn and absorb existing and new data structures
+Jira and Git exposure
+Experience working in a cloud environment (Azure preferred)
+Databricks exposure is a huge plus
+Tableau experience is a plus
+ML Ops experience is a plus
+Familiarity with Agile and Iterative Development (Kanban preferred)
+Excellent interpersonal and communication skills (written and verbal)
+Ability to work independently and in a group
+Self-starter attitude with initiative
+Creativity
+Ability to solve complex problems
+Equal Employment Opportunity:
+At Penn Foster we are proud to be an Equal Employment Opportunity employer. We are committed to creating a work environment that embraces and celebrates diversity. We encourage underrepresented groups to apply. We do not discriminate based on race, color, religion, sex (including pregnancy and gender identity), national origin, political affiliation, sexual orientation, marital status, disability, genetic information, age, membership in an employee organization, retaliation, parental status, military service, or other status protected under federal, state, or local law.
+About Us:
+At Penn Foster, we are dedicated to helping over 300,000 students each year achieve their goals through affordable, accessible, career-focused learning. Our mission has remained the same since 1890: to enhance the lives of our students and clients through the acquisition of skills and credentials that can help them work toward their career and life goals. Together with our extensive partner network of leading employers, community-based organizations, and academic institutions, we close skills gaps and are building a workforce that’s prepared for the future job market. We aim to help businesses thrive by mobilizing their individual workers and energizing communities with opportunities for growth and progress. We are proud to play a role in the success of over 80% percent of our graduates that see improvement within their careers, as they inspire us to keep finding new ways to further our reach and broaden horizons. Join the Penn Foster movement and start working toward a better future today.
+What We Offer:
+We offer a competitive base salary, plus a robust benefits package that includes medical, dental, vision, flexible spending, generous paid time off, sponsored volunteer opportunities, parking & commuter benefits, a 401K with a company match, plus free access to all of our online programs.
+cuH20bqjUz

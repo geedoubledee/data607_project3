@@ -1,0 +1,55 @@
+Overview:
+Jr Database Administator
+Schriever AFB, Colorado Springs, CO.
+
+The successful candidate will
+
+Have Secret clearance
+Quickly adapt to new situations.
+Have a strong commitment to a team environment.
+Have a willingness to learn new technologies.
+Be able to de-conflict requests/requirements.
+Be able to work independently with minimal supervision, with a high level of accuracy and attention to detail.
+
+Did you know?
+Aegis Aerospace has more than 30 years of experience in creating innovative and practical solutions to fulfill defense and space needs.
+
+We are looking for candidates who are ready to revolutionize the space and defense industry and pioneer new technological advancements to safeguard our country.
+
+Are you ready to Innovate, Explore, and Protect?
+
+Benefits
+Aegis offers a selection of competitive benefits which could include a 401K plan with company match, medical, dental, vision, life insurance, AD&D, flexible spending account, disability, paid time off, or flexible work schedule. We support career advancement through professional training and development.
+
+Additional Compensation
+Aegis may offer bonuses or other forms of compensation to certain job titles or levels, per internal policy or contractual designation. Additional compensation may be in the form of sign on bonus, relocation benefits, short term incentives or discretionary payments for exceptional performance.
+Responsibilities:
+Install, configure, operate, and maintain database systems across the Missile Defense Agency (MDA) enterprise network.
+Research and apply best business practices for the design and administration of databases.
+Support creation and maintenance of standard database policies, operating procedures and overall documentation.
+Implement database performance monitoring, fine tuning and optimize database systems.
+Support development and implementation of database backup and disaster recovery strategies.
+Conduct database capacity and availability audits.
+Participate in IT and business projects to define database system requirements and recommend technology solutions.
+Research, benchmark, document and introduce new database technologies and features into application life cycle.
+Collaborate with the application developers, business owners and architects in design and implementations.
+Qualifications:
+Basic Requirements:
+Must have one of the following combinations of education and experience: HS Diploma (or GED) and 4 years of general experience; Associate's degree and 2 years of general experience; Bachelor's degree and 0 years of general experience.
+If this position requires travel selected candidate must be willing to provide proof of fully vaccinated (against COVID-19) status? (the process of which must be completed prior to the anticipated start date)
+Must have 2 years of related experience in designing and implementing database structures, automating DBA tasks or with data modeling and schema design
+Must have, or obtain within 6 months of hire, an appropriate computing environment certificate (ex: Microsoft Windows Server 2016, Microsoft Azure, etc)
+Must have, or obtain within 3 months, a current DoD 8570 Level II Certification such as CompTIA Security CE or higher
+Must have, or obtain, an active DoD Secret Security Clearance
+Desired Requirements:
+Have experience with MS SQL Server 2014 or higher
+Have experience with MS SQL Server cluster, MS SQL Server database performance tuning, MS SQL Server database monitoring
+Have experience with MS SQL Server database backup/recovery
+Have knowledge, and experience, with relational DBMS concepts, design, architecture, and operations
+Have experience working with databases in Azure or AWS
+About Aegis Aerospace
+We are a woman-owned space and technology company headquartered in Houston, TX. Our primary objective is to support the Department of Defense and NASA in achieving their missions to defend the security of our country, reach new heights and to discover the unknown. We employ some of the brightest, most experienced engineering and technology experts in the U.S.
+
+To learn more about Aegis Aerospace, visit our website at www.aegisaero.com.
+
+Aegis Aerospace is an Equal Opportunity Employer /M/F/disability/protected veteran employer.

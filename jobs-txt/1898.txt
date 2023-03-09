@@ -1,0 +1,13 @@
+We are actively hiring for GCP Data Engineer
+Location: Remote
+W2 OR 1099 position
+Technical Skills : GCP CloudSQL ,GCP Services ,Cloud Pub/Sub ,Python ,Cloud Dataproc
+GCP Cloud Data Fusion / GCP CloudSQL
+Job Type: Contract
+Pay: $40.00 - $42.00 per hour
+Schedule:
+8 hour shift
+Experience:
+GCP: 2 years (Required)
+Python: 2 years (Required)
+Work Location: Remote

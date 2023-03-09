@@ -1,0 +1,71 @@
+Job Description
+Our Digital team is innovating how we understand our patients and their needs. Working cross functionally we are inventing new ways of communicating, measuring and interacting with our customers and patients through digital channels and technologies.
+Position Description:
+The Analytics Solutions Head of Engineering will be leading a new engineering organization to develop the next-generation of our internal Analytics Solutions product suite, helping stakeholders make data-driven decisions to optimally deliver our treatments to physicians and patients. As part of Merck’s Human Health Insights, Analytics and Data division, the candidate will collaborate with business stakeholders and data science teams to understand needs and productize solutions. The candidate will be building a team of engineering teams, leading translation of ideas into highly available and performant solutions using AWS cloud, Kubernetes, and AWS AI/ML services.
+The preferred candidate will have an entrepreneurial spirit, understanding of healthcare & technology, a demonstrated record of leading / guiding / mentoring / managing teams to design and build solutions preferably using AWS cloud platform services. The candidate will have demonstrated consistently strong leadership skills, an ability to work independently and deal well with ambiguity and strong collaboration skills. The candidate will empower a growth mindset and inspire a culture of continual learning. This role will require collaborating with cross-functional teams around the globe, strong communication skills is a must.
+Primary Responsibilities:
+Thoroughly understand the internal stakeholder's business priorities and help to architect, develop, and support solutions for various business objectives
+Coordinate hiring and training for the Analytics Solutions Engineering organization
+Intake resourcing requests from Delivery Leads and facilitate appropriate project and resource planning
+Track and report current and forecasted utilization
+Collaborate with other leads to identify the right activities for the unutilized pool – trainings, white papers, recruitment, delivery excellence etc
+Collaborate with different leads to plan strategies for augmenting capacity
+Be accountable for ensuring design and development of solutions with high quality standards, timeliness compliance, and excellent user experience (routinely keep stakeholders updated on progress)
+Communicate intensively with other divisions to understand new methodologies being implemented or considered within the company ecosystem and bring new ideas forward that will enhance analytic capabilities of the organization
+
+Education Minimum Requirements:
+A minimum of BS (or equivalent) in Data Science, Computer Science, Management Information Systems, IT, or an equivalent scientific/commercial discipline. Masters/PhD preferred.
+
+Required Experience and Skills:
+Minimum of 7 plus years of relevant experience in designing solutions making best use of cloud platforms (preferably AWS).
+Experience leading multiple teams in an agile structure and reporting to senior leadership. Experience doing similar things at a consulting or analytics services organization is a plus.
+Proficiency formulating business questions based upon client insight requirements.
+Experience developing solutions that incorporate machine learning and descriptive algorithms/modeling using such languages as Python, R and SAS etc.
+Experience of code reviews, code versioning, using GIT, etc. , and CI/CD implementation.
+Experience with data science algorithms such as advanced statistical methods, Machine Learning/Artificial Intelligence, Natural Language Processing (NLP) modeling and model evaluation is a plus.
+Demonstrated ability to collaborate with diverse groups of work colleagues and positively manage ambiguity.
+Self-motivation, proactivity, and ability to work independently with minimum direction.
+Proven knowledge of business processes and industry/market trends within the pharmaceutical/healthcare space.
+Excellent interpersonal and communication skills, along with the ability to communicate appropriately and confidently with colleagues from different backgrounds and seniority levels.
+Excellent organizational skills, with ability to navigate a complex matrix environment and organize/prioritize work efficiently and effectively.
+Proven track record of successful completion of multi-stakeholder projects necessitating coordination cross-functionally between several departments.
+Our Human Health Division maintains a “patient first, profits later” ideology. The organization is comprised of sales, marketing, market access, digital analytics and commercial professionals who are passionate about their role in bringing our medicines to our customers worldwide.
+Who we are …
+We are known as Merck & Co., Inc., Rahway, New Jersey, USA in the United States and Canada and MSD everywhere else. For more than a century, we have been inventing for life, bringing forward medicines and vaccines for many of the world's most challenging diseases. Today, our company continues to be at the forefront of research to deliver innovative health solutions and advance the prevention and treatment of diseases that threaten people and animals around the world.
+What we look for …
+Imagine getting up in the morning for a job as important as helping to save and improve lives around the world. Here, you have that opportunity. You can put your empathy, creativity, digital mastery, or scientific genius to work in collaboration with a diverse group of colleagues who pursue and bring hope to countless people who are battling some of the most challenging diseases of our time. Our team is constantly evolving, so if you are among the intellectually curious, join us—and start making your impact today.
+NOTICE FOR INTERNAL APPLICANTS
+In accordance with Managers' Policy - Job Posting and Employee Placement, all employees subject to this policy are required to have a minimum of twelve (12) months of service in current position prior to applying for open positions.
+If you have been offered a separation benefits package, but have not yet reached your separation date and are offered a position within the salary and geographical parameters as set forth in the Summary Plan Description (SPD) of your separation package, then you are no longer eligible for your separation benefits package. To discuss in more detail, please contact your HRBP or Talent Acquisition Advisor.
+We are proud to be a company that embraces the value of bringing diverse, talented, and committed people together. The fastest way to breakthrough innovation is when diverse ideas come together in an inclusive environment. We encourage our colleagues to respectfully challenge one another’s thinking and approach problems collectively. We are an equal opportunity employer, committed to fostering an inclusive and diverse workplace.
+
+For positions located in the United States and Puerto Rico – Subject to applicable law, all new hires (including internal transfers) must demonstrate that they are fully vaccinated against COVID-19 or that they qualify for a medical or religious exemption to this vaccination requirement. New hires (including internal transfers) to a position that, as determined by the Company, requires routine collaboration with external stakeholders (such as roles in health services or customer-facing commercial or research-based roles) (“Customer-Facing Role”) who are not vaccinated must qualify for a medical or religious exemption and be in a position that the Company determines can accommodate unvaccinated employees without causing an undue burden to business operations. If, following dialog with the candidate as appropriate, it is determined that the candidate either a) does not qualify for a religious or medical exemption or, b) for candidates applying for Customer-Facing roles, it is determined that allowing the candidate to work without vaccination would cause an undue burden to the Company, the candidate will be ineligible for hire or transfer, or any offer of employment or transfer (if applicable) will be revoked. Please note that notwithstanding the approval of any reasonable accommodation, the Company reserves the right to monitor, modify, or revoke any such accommodation if it is determined, following dialog with the employee, that the accommodation is no longer effective or results in an undue burden to the Company.
+
+US and Puerto Rico Residents Only:
+Our company is committed to inclusion, ensuring that candidates can engage in a hiring process that exhibits their true capabilities. Please click here if you need an accommodation during the application or hiring process.
+
+Pay Transparency Nondiscrimination
+We are proud to be a company that embraces the value of bringing diverse, talented, and committed people together. The fastest way to breakthrough innovation is when diverse ideas come together in an inclusive environment. We encourage our colleagues to respectfully challenge one another’s thinking and approach problems collectively. We are an equal opportunity employer, committed to fostering an inclusive and diverse workplace.
+Under New York City law, the Company is required to provide a reasonable estimate of the salary range for this job. Final determinations with respect to salary will take into account a number of factors, which may include, but not be limited to the primary work location and the chosen candidate’s relevant skills, experience, and education.
+Expected salary range:
+$173,900.00 - $295,700.00
+Search Firm Representatives Please Read Carefully
+Merck & Co., Inc., Rahway, NJ, USA, also known as Merck Sharp & Dohme LLC, Rahway, NJ, USA, does not accept unsolicited assistance from search firms for employment opportunities. All CVs / resumes submitted by search firms to any employee at our company without a valid written search agreement in place for this position will be deemed the sole property of our company. No fee will be paid in the event a candidate is hired by our company as a result of an agency referral where no pre-existing agreement is in place. Where agency agreements are in place, introductions are position specific. Please, no phone calls or emails.
+Employee Status:
+Regular
+Relocation:
+Domestic
+VISA Sponsorship:
+Yes
+Travel Requirements:
+25%
+Flexible Work Arrangements:
+Flex Time, Remote Work
+Shift:
+Valid Driving License:
+No
+Hazardous Material(s):
+Number of Openings:
+1
+
+Requisition ID:R208690

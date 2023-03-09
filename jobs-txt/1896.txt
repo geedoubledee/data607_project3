@@ -1,0 +1,32 @@
+YOUR NEXT OPPORTUNITY IS NOW BOARDING:
+Join OTG as the Director of Data and Analytics now and drive a new type of hospitality. Explore career opportunities in a unique hospitality environment with some of the industry's best compensation and benefits, including PTO, Healthcare, and a competitive 401k match.
+
+WHAT IS OTG?
+OTG has revolutionized the hospitality industry by pushing the boundaries of excellence. With more than 300 in-terminal dining and retail locations across 10 airports, OTG and its 5,000+ Crewmembers serve millions of travelers each year.
+
+WHY OTG?
+By joining our team, you’ll discover endless opportunities to explore, learn and realize your greatest potential in some of the most exciting hospitality environments around. Our people drive our experiences, so we offer our crewmembers some of the best compensation and benefits in the industry.
+We transform airport experiences. You drive it.
+ROLE AND RESPONSIBILITIES
+Position Summary:
+The Director of Data and Analytics will be responsible for analyzing large data from sales and consumer analysis to understand sales trends + development opportunities. The ideal candidate will be able to lead cross functional teams and thrive in a fast-paced environment. This position will report to the Senior Vice President of Markets.
+Responsibilities:
+Collaborate with business users and decision makers on their data needs
+Take responsibility for the planning, execution and success of complex data projects.
+Work with the Data Engineering team to design and develop data models, ETL pipelines and data science projects
+Contribute to projects in the form of writing code, debugging, architecting, designing and maintaining data and analytics platforms.
+Work along with operations team, software, product management, IT to ensure we are building and delivering the best products for OTG
+QUALIFICATIONS AND REQUIREMENTS:
+Mastery of SQL, Python (and / or R) and other scripting/automation techniques
+Experience with AWS, analytics tools and building data models.
+Excel expertise
+Experience with ETL/ELT data pipelines.
+Deep knowledge and experience with building Machine learning models.
+Excellent understanding of database data models designs and principals.
+Experience working on requirement gathering, and business planning
+MS in Computer Science or related degree.
+3+ years of experience in Data Science, advanced analytics or similar experience in applying statistical methods and machine learning techniques with high levels of proficiency.
+3+ years of hands-on technical experience in a Data Science role or 3+ years of management consulting
+Degree (Bachelors) with a specialization in Statistics, Computer Science, Data Science, Economics, Mathematics, Operations Research or other quantitative field or equivalent
+Retail/ Hospitality experience is ideal but not required
+OTG Concessions Management, LLC and its subsidiaries and affiliates are proud to be an equal opportunity workplace and employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability status, gender identity, veteran status, or any other basis protected by law.

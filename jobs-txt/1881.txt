@@ -1,0 +1,80 @@
+3Q/DEPT is leading the disruption of the growth marketing industry by turning our clients into market leaders and household names across the B2C, B2B, ecommerce, and FinTech verticals. We’re independent and values-driven, and the way we work reflects our Silicon Valley roots: we're relentless, curious, and accept no limits in driving growth for our clients and each other.
+
+We offer full marketing services including SEM, SEO, social advertising, display, mobile, analytics, CRO, creative, and business strategy. We build and execute strategies to enable clients and our own internal teams to capitalize on opportunities, break through barriers to growth, and lead our respective fields.
+
+We are committed to building and sustaining an environment where everyone feels psychologically safe and valued. We seek frequent, open feedback from our team and we offer company-wide training and regular, open discussions on diversity, equity, inclusion and other social issues.
+
+3Q/DEPT offers employees flexibility with remote, hybrid, and in-office options (depending on team/location).
+
+About You
+
+The Sr. Manager, Data Science & Analytics will be tasked with partnering with key internal and client stakeholders and will oversee measurement, performance, insights and optimization deliverables.
+
+The ideal candidate will be able to identify the “why”, “so what” and “now what” from a myriad of different data sources and will be able to act as subject matter expert and be a partner to both our internal teams as well as our day-to-day clients and their extended teams.
+
+You'll be responsible for:
+Work closely with the account and client teams to assess measurement and data science solutions (e.g., incrementality testing, forecasting, attribution and scenario planning)
+Serve as the primary day-to-day point of contact for clients to guide data-driven strategy and to deliver best-in-class insights, with minimal direction.
+Build measurement plans against learning and business objectives
+Design, execute, and interpret test results. Determine the data requirements, extract and manipulate the data and develop a coherent story with clear, easy-to-follow conclusions with actionable recommendations in a concise, organized fashion for all of the DS&A solutions proposed.
+Use multi-touch attribution/digital attribution solutions to understand interactions, roles and conversion contributions between digital marketing channels
+Serve the client team as an expert on industry and client-specific strategic issues.
+Mentor team of analysts to develop Data Science & Analytics expertise, as well as career management
+Take ownership of projects and programs, managing staff independently and efficiently.
+Contribute to the company's knowledge base by creating and sharing case studies, POVs and seminar/conference summaries.
+
+You’ll need to have:
+Bachelor's degree with some courses in Math, Statistics, Computer Science, engineering or other quantitative fields
+5-7 Years Experience in Digital Analytics, with expertise across Insights & Optimization, working with data from paid search, paid social and display advertising, specifically with respect to mobile advertising
+Experience in Digital Marketing, Ad Tech, and/or an Agency
+High level of fluency with R / Python and recent experience with hands-on experience conducting analyses using these languages.
+Highly proficy GSheets and Mobile data platforms (such as Kochava)
+Experience building and deploying modeling solutions such as Marketing Mix Model and Attribution modeling
+Time Series Forecasting (ARIMA, Seasonal Models, Ensemble modeling)
+Demand forecasting
+Experience with Machine learning techniques such as
+Optimization
+Feature engineering
+Model deployment into production environments
+Fluency in statistics and applying statistical solution to business problems:
+Hypothesis testing
+Simulations
+Causality
+Accounting for confounding variables in models
+Understanding of the business context and value-adds for overall projects
+Additional things that impress us:
+Nonlinear and linear modeling
+Nonlinear Optimization
+Measuring and optimizing marketing efforts
+Business context
+Exceptional communication skills
+Ability to manage multiple tasks to completion within established deadlines
+Excellent organizational, written, and communication skills
+
+About Us
+
+3Q/DEPT’s unique culture is developed and nurtured by our fantastic people and our core values:
+
+Be Inclusive. We value everyone’s ideas and opinions and commit to building a psychologically safe environment to foster them. Our hiring, communications, and promotions practices reflect our belief that diverse perspectives and equitable and inclusive practices continue to push us and our clients to find new ways to lead.
+
+Act for the Greater Good. We lead with empathy and teamwork. During good times and bad, we are committed to supporting each other, our clients, and our communities.
+
+Own It. We are accountable: to ourselves, to our teams, to our clients. We are proactive, we communicate clearly, and we follow through.
+
+Accept No Limits. We are intellectually curious and resourceful. We constantly challenge the status quo to find or develop innovations that drive breakthrough opportunities for our teams and our clients.
+
+We are a collaborative, open-door, best-idea-wins environment that fosters personal and company growth and has fun doing it. We promote work/life balance and encourage constant learning by offering unparalleled training, mentorship, and development for career progression. And perhaps the best, most fundamental part of our culture: authenticity.
+AdAge Best Places to Work 2020, 2021 and 2022
+One of Inc.’s Best Places to Work in 2019 and 2021
+Winner of the 2019 US Search Diversity, Inclusion and Equality Award
+Competitive compensation
+Full benefits including health, dental, vision, a 401K plan and company match, and paid parental leave
+Flexible PTO
+Flexible work-from-home policy
+Volunteer opportunities, team retreats, and lunch seminars
+
+3Q/DEPT 's top priority is the health and safety of our employees, their families and the communities where they live and work. As part of our commitment to health and safety, we require all employees to be fully vaccinated against COVID-19 if they choose to come in to a 3Q/DEPT office, attend company events, and/or work with peers in-person at any site. 3Q/DEPT offers a reasonable accommodation process for individuals who are unable to meet our vaccination requirement due to a disability, medical condition or sincerely held religious belief.
+
+3Q/DEPT is proud to be an equal opportunity employer, committed to evaluating all qualified candidates regardless of gender, gender identity, race, national origin, religion, sexual orientation, genetics, disability, age, or veteran status. Furthermore, we believe optimal results come from operating a meritocracy built upon diversity of thought and background and absolutely devoid of discrimination and hate speech. We do everything in our power, including strict adherence to an anti-harassment policy, to make 3Q/DEPT an inclusive, psychologically safe organization whose employees feel comfortable respectfully sharing their thoughts with each other and our leadership. Our training and mentorship programs help make sure all employees have an equal opportunity to grow and excel.
+
+For individuals assigned and/or hired to work in New York, the anticipated salary range for this position is $140k-$150k. Salary is based on a range of factors that include relevant experience, knowledge, skills, other job-related qualifications, and geography. A range of medical, dental, vision, 401(k) matching, paid time off, and/or other benefits also are available. The disclosed range estimate has not been adjusted for any relevant geographic differences that may be associated with the location at which the position may be filled. At 3Q/DEPT, it is not typical for an individual to be hired at or near the top of the anticipated range for their role, and compensation decisions are dependent on the specific circumstances surrounding the final candidate.

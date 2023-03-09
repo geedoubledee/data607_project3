@@ -1,0 +1,47 @@
+Job
+: Information Technology
+Primary Location
+: Americas-US-MD-Elkton
+Other Locations
+: Americas-US-AZ-Flagstaff, Americas-US-AZ-Phoenix
+Travel% : None
+Shift
+: Day
+Schedule
+: Full-time
+IT Business Analyst - 222562
+About Us: Gore is a materials science company focused on improving lives through discovery, product innovation and rewarding careers for our Associates.
+About the Industry: From EMI shielding to semiconductor manufacturing, Gore products ensure reliability in an era of constant connectivity. Learn more at gore.com/products/industries
+About the Role: We are looking for an IT Business Analyst to join our Infrastructure and Security team. In this role, you will act as a liaison among stakeholders to understand the capabilities required to meet organizational goals and objectives, to document these requirements in a way that can be easily leveraged for solution design, build, and operation, and to ensure that the solution ultimately meets the requirements.
+This position offers multiple work arrangements: on-site at our facility in Elkton, Maryland, hybrid or fully remote work allowed in most locations within the United States, depending upon the responsibilities of the role and business needs.*
+Responsibilities:
+Lead the development of detailed business requirements for approved changes and projects
+Facilitate requirements elicitation sessions with the user community
+Develop and document processes, use cases, etc. to demonstrate requirements
+Communicate functional and non-functional requirements to the solution architect
+Partner with solution architect to ensure initial alignment between business requirements and IT solution design concepts, including supporting feasibility studies as appropriate
+Partner with Quality to ensure test plans are developed and executed in alignment with internal standards and external compliance requirements
+Ensure Acceptance Testing confirms test results meet documented business needs
+Partner with the User Experience and Transition Communities of Practice to ensure training plans and materials support overall business requirements
+Required Qualifications:
+Bachelor’s and/or Master's degree in business, IT, or a related discipline
+Prior experience doing an infrastructure implementation project in a global enterprise IT environment
+Demonstrated experience with business process mapping, eliciting business and system requirements, automation, streamlining workflows, operations sustainment, governance, and process
+Strong verbal, written, and interpersonal communication skills, including the ability to translate technical concepts in a business framework that are easily understood by non-technical people
+Ability to effectively collaborate with both business and technical Associates
+Ability to facilitate meetings/group interactions and negotiate outcomes, including effectively resolving conflict
+Ability to think analytically and solve complex problems, including understanding of how a change to a component affects the system as a whole
+Ability to adjust style based on the needs of the situation
+Ability to quickly build trusting relationships
+Ability to effectively work virtually across multiple time zones and cultures
+Desired Qualifications:
+CCBA or CBAP certification
+Experience supporting business and IT governance processes
+Experience working with Business Analysis Methods, Tools, and Techniques, Computer system validation and software quality assurance methodologies, SDLC processes and methodologies, training plan methodologies
+*Remote Working Arrangements are permitted for Associates in the continental United States (US) and Canada, with appropriate approval and compliance with Gore’s remote working policies, from the country in which they are employed. Locations not eligible for new remote work arrangements include: Alaska and Hawaii (for all roles), and Rhode Island (for wage/hourly roles only).
+What We Offer: At Gore, we offer comprehensive, competitive rewards in the form of compensation and benefits. Among these are work-life balance and sports programs, 401(k) Plan with a gift, Associate Stock Ownership Plan, health & well-being program with full health plan, and a flexible working program. Within Gore, you will find a unique culture, diversity, equity, and inclusion initiatives, and opportunities for growth and development. Learn more at gore.com/careers
+We believe in the strength of a diverse workforce and inclusive work environment. In support of our values and continued success we are proud of Associates around the world who support an inclusive work environment, strive to reflect the diversity of the communities where we operate, and ensure all Associates and external partners are treated with fairness, dignity and respect.
+Gore is committed to a drug-free workplace. All employment is contingent upon successful completion of drug and background screening.
+Gore requires all applicants to be eligible to work within the U.S. Gore generally will not sponsor visas unless otherwise noted on the position description.
+Gore is a M/F, Disabled and Vet EEO/AA employer. (Applies to all positions in the U.S.)
+Our Talent Acquisition Team welcomes your questions at gore.com/careers/contact

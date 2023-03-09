@@ -1,0 +1,32 @@
+BRG’s 340B practice is one of Healthcare Analytics largest and fastest growing groups and we are looking to expand our talented and dynamic team. The 340B group supports and advises pharmaceutical manufacturers on how to navigate the challenges and complexities of the 340B program, a government drug purchasing program. Our team is the established market leader in data and technology solutions related to the most pressing 340B-related issues for an impressive client base which includes the largest pharmaceutical manufacturers in the US. Beyond our syndicated solutions, we also integrate and synthesize data to deliver unparalleled analytics and insights into various aspects of the 340B program. The 340B program is an exciting and dynamic space to be in right now so come join us!
+The Machine Learning Engineer role will coordinate with both internal and external stakeholders to develop, operationalize, and maintain machine learning models that provide action-on, data-driven insights to our clients. They will be responsible for designing, developing, and managing the machine learning platforms, and applying MLOps and model lifecycle best practices. This role will proactively suggest, plan, and integrate new tools and methods to improve productivity and efficiency and scale system designs.
+Responsibilities:
+Lead all phases of analytic work product development, from the identification of key issues to delivering and developing analytical solutions and valuable insights.
+Research, develop, and deploy the latest machine learning (ML) technologies to solve urgent and challenging problems in healthcare.
+Prepare and analyze data for input into AI and machine learning models within client products.
+Ability to transform data science prototypes into robust, scalable products running seamlessly in production.
+Deploy ML models, creating and orchestrating automated deployment and retraining pipelines where appropriate.
+Create and implement testing strategy to test model readiness for deployment.
+Manage and monitor ML models leveraging MLOps best practices.
+Continuously shorten the analytic product lifecycle without compromising accuracy.
+Apply data visualization and statistical programming tools to data.
+Coordinate with consulting staff team as the ML SME and inform them of developments and improvements.
+
+Basic Qualifications:
+Bachelor's Degree in Computer Science, Statistics, Mathematics, or other related field of study required.
+4+ years of statistical data analysis, and/or applied AI/ML experience, preferably in consulting or healthcare industries.
+Experience designing and deploying end-to-end ML workflows and 4+ years of professional experience in programming.
+Data munging skills; experience working with relational databases and fluency in SQL.
+Experience delivering production ML features or platform components.
+Must have deep understanding of Machine Learning concepts (Model Evaluation/ Model Deployment/ Model Monitoring), and the overall ML development workflow.
+Strong written and verbal communication; ability to synthesize and clearly communicate complex problems or processes to team members and clients.
+Experience managing, performing quality control, and analyzing structured and unstructured data.
+Experience with PowerBI, Tableau, Looker and MS Excel.
+Experience with cloud-hosted data stores, such as Azure SQL or Redshift.
+Ability to work independently.
+
+Salary Range: $100 - $170K per year
+Candidate must be able to submit verification of his/her legal right to work in the U.S., without company sponsorship.
+
+#LI-JQ1
+PM22

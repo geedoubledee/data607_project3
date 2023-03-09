@@ -1,0 +1,27 @@
+JOB SUMMARY:
+Professional position, which utilizes analytics and machine learning to the achieve business goals and objectives of the company. Works under immediate supervision. Demonstrates clear and working knowledge and concepts of software development, data science and learning algorithms. Responsible for the internal application programming and analysis of requirements using various technologies.
+ESSENTIAL FUNCTIONS:
+At Safety National, we live by the following five core values: Relationships, Integrity, Teamwork, Balance and Stability. Our Core Values serve as the fundamental foundation of our corporate culture and drive our interactions, both internally and externally. An essential function of all Safety National positions is to fully embrace and represent these core values in our daily work life and relationships.
+Demonstrates up-to-date expertise in Software Engineering and applies this to the development, execution, and improvement of action plans with supervision by the Senior Data Scientists or Supervisor.
+Implements most recent algorithms and approaches for machine learning in collaboration with our data analysts, actuaries, claims experts and underwriters with supervision by the Senior Data Scientists or Supervisor.
+Assists more experienced and/or Senior Data Scientists in designing best architecture and selecting the most appropriate modeling techniques and data visualization for big data analysis.
+Participates in projects in the area of prediction, optimization, and processes using advanced statistical / mathematical approaches, in the enterprise environment under supervision of Senior Data Scientists.
+Responsible for timely achievement of milestones and project completion
+Qualifications
+Skills
+Required
+Data Analytics
+Intermediate
+SQL
+Intermediate
+Python
+Intermediate
+Education
+Preferred
+Bachelors or better.
+Experience
+Preferred
+Must be presently authorized to work in the U.S. without a requirement for work authorization sponsorship by our company for this position now or in the future.
+Minimum Bachelor’s degree in the Data Science or a related field.
+No experience necessary.
+Job Type: Full-time

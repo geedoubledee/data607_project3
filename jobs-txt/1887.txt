@@ -1,0 +1,40 @@
+Overview:
+WHAT ARE WE LOOKING FOR?
+
+Due to an internal promotion, TDS Inc., a national technology and communications Fortune 1000 company, has a great opportunity for a Business Intelligence (BI) Developer II. If you have strong problem-solving skills, are naturally curious and can drive for results, then come join and add value to our BI team!
+
+WHO IS TDS?
+
+TDS provides wireless products and services; cable and wireline broadband, TV and voice services; and hosted and managed services throughout the country via our UScellular, TDS Telecom, OneNeck IT Solutions and Suttle-Straus brands.
+
+LOCATION
+
+We are open to filling this position REMOTELY in the states in which TDS Inc. operates -OR- in any of our physical office locations in Chicago, IL; Madison, WI; Eden Prairie, MN; Urbandale, IA; Omaha, NE; Denver, CO or Scottsdale, AZ.
+
+We are unable to provide sponsorship for this position and this is not a contract to hire role.
+
+Responsibilities:
+WHAT WILL THE BI DEVELOPER DO?
+
+Working with our Data Architects, Data Analysts, and Business Analyst, focuses on creating ETL/ELT mappings, establishing best practices for development, supporting data management activities, and supporting governance practices:
+Develops ETL/ELT with one or more of the supported tools.
+Creates documentation and establishes practices for development activities.
+Assists with administration of the ETL/ELT tools
+Develops estimates and solutions for requests and projects; leads projects/develops work plans
+Qualifications:
+WHAT SKILLS & EXPERIENCE DO YOU NEED?
+Bachelor’s degree in Information Systems, Business or related field or equivalent combination of education and work experience -OR- an Associates degree and 2+ years relevant IT work experience
+2+ years additional experience in business intelligence (BI) solutions in ETL or related information technology systems that support business processes
+Talend, Snowflake and/or SAP data experience preferred
+Informatica, Oracle, and/or SSIS experience a plus
+WHAT SETS US APART FROM OUR COMPETITION?
+TDS has a strong set of values and behaviors that help foster a high-performance culture.
+We believe in partnering with local communities throughout the country and encourage all employees to participate in volunteer opportunities
+We make employee development and training a top priority
+TDS promotes a healthy life / work balance, strong business ethics and values diversity, equity and inclusion
+Flexible work culture, tuition reimbursement, certification support, continuing education, wellness programs and more!
+NOTE: This position may be hired at the Business Intelligence Developer II or as a Sr. Business Intelligence Developer given skills, experiences, and business needs.
+
+#TDS offers a competitive salary and strong total rewards package. To learn more about this position, or our company, please visit tdsinc.com.
+
+EEO

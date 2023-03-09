@@ -1,0 +1,38 @@
+Hi,
+I hope you're having a good day! I'm reaching out to you to check whether you are open/looking for a new contract opportunity for a Data Engineer remote role. Please reply to me for more details.
+Title – Data Engineer
+Duration – 12 month w/ extension possible
+Location – Omaha, NE or remote
+Main skills I’ll be assessing of
+Native Python programming knowledge, need to be experts here
+ETL tool experience, particularly DataStage
+Must have Docker, Jenkins, Kafka and GIT experience
+Operating in an on-prem DB@ environment
+Prior Life & health Insurance
+Overall Data Engineering experience 12+ years
+Working independently and directly with business on requirements
+We’ve placed for this role in the past and need better skillsets in place and industry experience –
+More seniority – they basically have a lot of individual engineers that they have to hand hold or teach. They want someone to come in and show PMIC how it’s done, not the other way around.
+Prior Insurance industry experience – what we’ve come to learn is that outside their PMO, there is no functional roles like BA’s to act as a buffer between the business and technical. That means a engineer at PMIC has to interact regularly with business users and be very knowledgeable about insurance terminology, processes, and procedures.
+BA skillset - With the lack of a BA, the role itself is more like a 65/35 split, where a data engineer is coding 65% of the time, and 35% of the time acting as their own BA. Since there’s no detailed requirements, having the skillset to define your elicit, define and execute off their own.
+Job Type: Contract
+Salary: $50.00 - $65.00 per hour
+Schedule:
+8 hour shift
+Monday to Friday
+Experience:
+Data Engineering: 10 years (Required)
+Python Programming: 5 years (Required)
+ETL: 4 years (Required)
+Docker: 3 years (Required)
+Jenkins: 3 years (Required)
+Kafka: 3 years (Required)
+Git: 3 years (Required)
+Health Insurance Domain: 3 years (Required)
+Snowflake: 5 years (Required)
+Data warehouse: 5 years (Required)
+CI/CD: 5 years (Required)
+Data lake: 5 years (Required)
+Work Location: Remote
+Speak with the employer
++91 +12484918683

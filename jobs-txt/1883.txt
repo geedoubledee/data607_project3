@@ -1,0 +1,39 @@
+Job Description:
+Fidelity is actively seeking an experienced solutions architect to work in the Asset Management Technology group. At Fidelity architects are leaders in technology playing a significant role in driving all aspects of technology planning and execution.
+The Expertise and Skills You Bring
+Experience with sophisticated event processing, RESTful API design, distributed architecture patterns and highly transaction trading integrations is required.
+Experience in working with complex product and models for portfolio construction will be an added advantage.
+Hands on experience in cloud technologies and practices, building data applications that use services such as AWS EC2, S3, SNS/SQS, API Gateway, AWS Batch, Lambda, Elasticsearch desired
+Well-grounded knowledge of engineering and continuous delivery practices.
+Proven leadership skills, demonstrated ability to mentor, influence and partner with application architects, engineering and product teams to deliver scalable robust data solutions.
+Significant experience working in complex data environments in an engineering, design and architecture capacity.
+Proficiency at understanding enterprise architecture concepts, master data management, data modeling and design techniques.
+Strong skills and demonstrated focus in logical and component architecture design and deployment.
+Demonstrated success in composing and driving long term product strategies
+Proven knowledge and experience in Java, J2EE, RESTful web services, Apache Kafka, Gemfire and/or Akka platforms.
+Strong experience in event based and message based orchestration architecture.
+Passionate about technology and delivering solutions in integrated data environments.
+Exposure to Python and R, along with Data Science and Machine Learning experience desired.
+Detailed understanding of Data Exploration, Visual Analytics concepts and tools such as Tableau.
+Hands on experience Amazon web services is desired.
+Undergraduate degree in computer science or a related field ideally combined with an advanced technical degree.
+Strong solution architecture, engineering and design skills.
+Passion and curiosity, work with others to foster ideas and produce creative solutions to difficult problems while making smart choices balancing design and delivery.
+A strong influencer who can integrate effectively into the culture. Combine facilitation skills with a results orientation to deliver excellence and execution.
+Organizational savvy and maturity, work effectively across different organizational units and business groups.
+Excellent interpersonal and communication skills with the ability to lead cross-team collaboration and partnerships across a variety of internal and external constituencies.
+The Team
+Asset Management Technology Architecture provides strategic technology direction and architecture vision for Fidelity's Asset Management businesses. Come join us in driving the technology and success of a world-class Asset Management team.
+As a solutions architect in Asset Management Technology you will provide the technical vision and leadership required to deliver complex and critical solutions for the business units within the Fixed Income Trading portfolio. Demonstrating the ability to range from coding and detailed technical work to engaging with senior management and business teams will be critical to your success.
+Locations: Primary: Boston, MA Secondary: Merrimack, NH, and Durham, NC
+Certifications:
+Company Overview
+Fidelity Investments is a privately held company with a mission to strengthen the financial well-being of our clients. We help people invest and plan for their future. We assist companies and non-profit organizations in delivering benefits to their employees. And we provide institutions and independent advisors with investment and technology solutions to help invest their own clients' money.
+
+Join Us
+At Fidelity, you'll find endless opportunities to build a meaningful career that positively impacts peoples' lives, including yours. You can take advantage of flexible benefits that support you through every stage of your career, empowering you to thrive at work and at home. Honored with a Glassdoor Employees' Choice Award, we have been recognized by our employees as a Best Place to Work in 2022. And you don't need a finance background to succeed at Fidelity—we offer a range of opportunities for learning so you can build the career you've always imagined.
+Many of our associates are continuing to work remotely temporarily due to COVID-19. When Fidelity employees eventually return to the office, our goal is for most people to work flexibly in a way that balances both personal and business needs with time onsite and offsite through what we're calling "Dynamic Working."
+We invite you to Find Your Fidelity at fidelitycareers.com.
+
+Fidelity Investments is an equal opportunity employer. We believe that the most effective way to attract, develop and retain a diverse workforce is to build an enduring culture of inclusion and belonging.
+Fidelity will reasonably accommodate applicants with disabilities who need adjustments to participate in the application or interview process. To initiate a request for an accommodation, contact the HR Accommodation Team by sending an email to accommodations @fmr.com, or by calling 800-835-5099, prompt 2, option 3.

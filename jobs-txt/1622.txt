@@ -1,0 +1,24 @@
+Description:
+Lynker is seeking a talented Water Resources Data Scientist with Snow Hydrology experience to support activities focused on National Water Model (NWM) development. Technological advances are driving exponential growth in data. Extracting meaningful information quickly from the modern day deluge of hydrologic and related data is a requirement for the success of the NWM.
+The Water Resources Data Scientist selected will focus on developing techniques to generate decision ready data and predicting future outcomes from environmental or operational data. This work will include tapping into big data insights by collaborating with other data scientists — individuals with interdisciplinary backgrounds that include GIS, Science, data analysis, statistics, data visualization, computer science, and mathematics.
+At the NWC, hydrologic data science is focused on modeling: combining theory-based models with powerful predictive tools (e.g., deep learning); Data pipelines: Building efficiencies through reproducible and collaborative data workflows; Data visualizations: Sharing insights with innovative and thoughtful visualizations.
+The position will also support other projects outside of OWP/NWM support.
+Requirements:
+The Ideal Water Resources Data Scientist with Snow Hydrology experience will have the Following:
+Proficiency with at least one scripting language, including: C++, C, Fortran, or Python
+Familiarity with large-scale models, such as NOAH-MP, VIC, or PRMS
+Experience with modular hydrologic models (e.g., SUMMA) and model integration frameworks (e.g., BMI)
+Solid math, science or engineering background to understand, interpret, and apply techniques to calibrate and validate hydrologic models
+Familiarity with cold season processes including precipitation phase partitioning, snow accumulation and melt, and the snowpack energy balance
+Experience running snow models or hydrologic models in cold regions
+Ability to modify snow or hydrologic models to improve simulated output
+Understanding of data-driven models and how they can be applied to cold regions
+Expert knowledge and understanding of hydrologic processes and modeling representations thereof
+Understanding of GitHub and collaborative workflows
+Strong geospatial skills, including the processing and analysis of gridded datasets
+About Lynker
+Lynker is a growing small business specializing in professional, scientific and technical services. Our continually expanding team combines scientific expertise with mature, results-driven processes and tools to achieve technically sound, cost effective solutions in hydrology/water sciences, geospatial analysis, information technology, resource management, conservation, and management and business process improvement.
+We focus on putting the right people in the right place to be effective. And having the right people is critical for success. Our streamlined organization enables and empowers our talented professionals to tackle our customers’ scientific and technical priorities – creatively and effectively.
+Lynker offers a team-oriented work environment, competitive salaries and benefits, and the opportunity to work in a culture of exceptionally skilled and diverse professionals who embrace sound science and creative solutions.
+Lynker is an E-Verify employer.
+Lynker Technologies is proud to be an Equal Opportunity Employer and encourages women, minorities, individuals with disabilities and veterans to apply.

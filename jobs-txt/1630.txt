@@ -1,0 +1,21 @@
+Job Profile:
+About the company - Vista is the world’s #1 private aviation company. Vista is a house of brands - Vistajet, XO, RedWing, TalonAir - offering asset-light services to cover all segments of business & leisure aviation: guaranteed and On Demand global flight coverage; aircraft leasing and finance; and cutting-edge aviation technology. Our mission is to use technology to lead the change to provide customers with the most advanced flying services and the very best value, anytime, anywhere around the world. Vista’s knowledge and understanding of all facets of the industry deliver the best end-to-end offering and technology to any business aviation customer, through its VistaJet and XO branded services.
+
+About the team: The Product Management team at Vista is a centralized function that includes Product, Data Science, And Analytics. We take ownership and are accountable for getting things done. Through curiosity, learning, and coaching, we grow as individuals and teams. As one of our product leaders says, We are a problem solving club. #One team An exceptional team: our hiring bar is high and your colleagues are talented, motivated, self-starters. Salary range: $150,000 to $160,000 per year
+Your Responsibilities:
+Design the data pipelines and engineering infrastructure to support our enterprise machine learning systems at scale
+Take offline models data scientists build and turn them into a real machine learning production system
+Develop and deploy scalable tools and services to handle machine learning training and inference
+Identify and evaluate new technologies to improve performance, maintainability, and reliability of our machine learning systems
+Apply software engineering rigor and best practices to machine learning, including CI/CD, automation, etc.
+Facilitate the development and deployment of proof-of-concept machine learning systems
+Required Skills, Qualifications, and Experience:
+Masters degree with 2–5 years experience building production-quality software.
+Experience building end-to-end systems as a Platform Engineer, ML DevOps Engineer
+Strong python programming skills.
+Exposure to machine learning methodology and best practices
+Working experience with AWS Sagemaker, S3, Docker and ETL tools
+Familiar with CI/CD pipelines for machine learnings.
+Experience working with cloud computing and database systems
+Experience building custom integrations between cloud-based systems using APIs
+Experience developing and maintaining ML systems built with open source tools

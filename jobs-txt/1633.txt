@@ -1,0 +1,49 @@
+The Career Potential
+
+Ortho Clinical Diagnostics is committed to improving and saving lives with diagnostics. To do this we hire people who share this dream and are ready for new adventures. As a valued team member, you will carve your own career path and be part of building this company stronger and better than ever before. There is no limit to the experiences, opportunities and new directions you will have access to here at Ortho Clinical Diagnostics. More importantly, you will be driving the surge of a whole new direction in important medicine. That’s something we can all take pride in as we take this journey together.
+Ortho is known in the industry as a leader in customer service and support. Deeply understanding and exceeding the needs of our clinical lab, hospital and blood bank customers is what we do. It’s who we are. If you join Ortho, no matter what your role, you will be expected to keep that Customer Excellence focus in your work.
+
+The Opportunity
+QuidelOrtho is searching for a Global Director of Analytics Services reporting to the Senior Director, Global Head of Data & Analytics. The role is a trusted advisor to the company’s C-suite and is responsible and accountable for managing its information as a corporate asset to deliver business insights that improve decision-making across the company and generate incremental business value and new opportunities through digital innovation. This is a highly collaborative role that works with all functions and business units and partners closely with the enterprise-wide data & analytics communities in developing new data-driven operating models, ensuring that the necessary data pipelines support our bold vision. The role primarily encompasses analytics, insights, and AI/ML and will also cover data management and governance, application integration, and data platforms. They will lead communities of support for leveraging data to improve business operations (Power BI/Tableau) and digital accelerator programs.
+Managing QuidelOrtho information as a corporate asset requires the discipline of balancing the return and risk associated with information. As such, the Global Director of Data Analytics & Insights (DA&I) responsibilities are captured below.
+This position is based in Raritan, NJ. Qualified candidates requiring H1B, and TN sponsorship will be considered. Remote work options may also be considered.
+The Responsibilities
+Strategic Planning Partner with key stakeholders to develop, communicate, and own a unifying strategy and business plan articulating the expected business outcomes and required DA&I capabilities (e.g., people and platform) to achieve those outcomes.
+Develop, define and execute data analytics, reporting, and artificial intelligence strategies
+Lead QuidelOrtho’s analytics platform strategy with an execution roadmap of 3–5 years, including a capability maturity roadmap articulating the expected business outcomes and required DA&I capabilities (e.g., people and platform) to achieve those outcomes
+Develop and establish an operating model, framework, and metrics to measure and communicate the value of information assets
+Delivery Execute on time and budget the expected DA&I capabilities on delivering solutions, managing resources, and optimizing processes.
+Define reporting structure for Data Analytics & Insights organization, as well as data-reporting-model ownership between DA&I and the business
+Drive accountability by establishing a robust Data & Analytics Governance and measurement framework to drive best practices improving data awareness, consistency, and usage of ML/AI models and standardized reports and dashboards
+Manage organization, policies, processes, and standards to support technology innovations, evolutions, evaluations, upgrades, POC and product development
+Guide team in the development of impactful solutions that optimally communicate the findings and recommendations
+Collaborate with Architecture & Technology teams to implement technical architecture to deliver Data Ingestion framework, Data Persistence, Access, Delivery, Management and Security, Information Portal, Analytics workbench, and Data Science Lab
+Oversight and Performance Management
+Define Roles & responsibilities for Data Analytics & Insights Organization
+Track and measure progress against planned business capabilities and outcomes, people, process, and platform development
+Setup collaboration and communication model to interact with business units, QuidelOrtho Partners, vendors and other stakeholders during and post-execution
+Analyze the root causes of any gaps between planned and actual
+Lead teams to develop and optimize data ingestion, engineering to support advanced analytics/ML pipelines (e.g., feature stores), and a high degree of problem framing for intake and prioritization to align business executives
+The Value You Deliver
+Empower the organization with cross-business and meaningful insights to enable objective, informed decisions
+Formulate and execute data awareness and usage agendas, raising strategic and provocative questions that stretch the thinking of the team
+Continuously improve data analytics and insights capabilities spreading that knowledge and expertise throughout the organization
+The Individual
+Bachelor’s Degree in computer science, data science, business administration, or equivalent discipline is required.
+Experience in the healthcare, pharmaceutical, life sciences, or medical devices industry is preferred.
+Minimum 15 years experience in data and analytics in a large cross-functional organization with proven experience bringing an approach driven by data to strategic business decision making
+Experience in defining roles and responsibilities, mentoring, and leading a diverse team in a highly matrixed organization with the ability to influence
+Additional Knowledge & Skills
+Experience in a regulated industry is desirable
+Proven stakeholder management skills, credibility to C-suite levels
+Proven people influencer/developer in virtualized teams
+Ability to make complex concepts simple
+Data-driven decision maker
+Thoughtful, strategic, and action-oriented approach to advancing innovative and transformational initiatives appropriately tempered by pragmatic judgment.
+Ability to efficiently work in a fast-paced, high-velocity environment autonomously and as part of a multidisciplinary team, as well as with a range of internal and external stakeholders.
+Results-oriented project leadership skills.
+Champion of culture, change management, and innovation.
+Must demonstrate the strong executive presence and interpersonal skills.
+The salary range for this position is between $117,000 and $235,000 per year, and it is bonus eligible. Salary will be determined by the education, experience, knowledge, skills, geography, and abilities of the candidate, in addition to internal equity and alignment with market data. Ortho offers a comprehensive benefits package, including medical, dental, vision, life, and disability insurance, along with a 401(k) plan, employee assistance program, paid time off (including paid sick time), and paid holidays. All benefits are non-contractual, and Ortho may amend, terminate, or enhance the benefits provided, as it deems appropriate.
+EOE/AA Disability/Veteran
+#LI-SC1

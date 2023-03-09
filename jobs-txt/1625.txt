@@ -1,0 +1,41 @@
+Company Description
+
+About Zenith
+Zenith is the ROI Agency. Our more than 6,000 specialists across 95 markets offer unparalleled capabilities in Media, Data, Technology, Commerce and Content. We put effectiveness at the heart of our work to solve complex challenges, drive successful business outcomes, and grow our clients’ businesses. Zenith is part of Publicis Media, the media arm of Publicis Groupe.
+
+Job Description
+
+What does Zenith Data Sciences do?
+Working closely with both the Business Planning and Analytics teams, Data Sciences designs and implements statistical models and machine learning solutions that tie our clients’ marketing to real-world business goals. We use these models to understand past performance, predict future performance, and inform and optimize future decisions. Our work brings our clients closer to their marketing, helping them understand if they are talking to the right people in the right way.
+What does a successful Associate Director look like?
+We don’t all look the same, and we don’t expect you to, either. But a successful Associate Director should share our passion for emerging tech and media, bring an evidence-based approach to decision-making, determine a point of view and share it in a positive way, gear up for a challenge, and always crave to learn more and improve. We are looking for prior experience in marketing analytics, especially digital media and audiences, but this isn’t necessarily a requirement. At least 6-7 years of prior professional experience is highly desired.
+What does an Associate Director do day-to-day?
+Associate Director form the foundation of the Data Sciences team, structuring and analyzing data, implementing and interpreting models that feed business-improving insights, and putting it all together into presentations that bring the story to life for our clients. Associate Director work closely with other Data Scientists to help execute the broader vision for their account, and to continually evolve our Data Science solutions.
+Day-to-day responsibilities include:
+Design and interpret randomized controlled tests to study a variety of marketing stimuli.
+Design, estimate, tune, score and maintain advanced statistical and mathematical models (e.g. classification, numeric forecasts, customer segmentation, customer propensity, attribution, etc.).
+Produce accurate statistical analysis and ensure high quality of the data analysis produced.
+Interpret, document and present/communicate analytical results to multiple business disciplines, providing conclusions and recommendations.
+Take analytical objectives and define data requirements. Extract, clean, and transform both customer level, and aggregated data for analysis, modelling, segmentation and reporting.
+Requirements:
+6+ years of work experience in quantitative analysis with proven results in leveraging customer/transaction to address business objectives
+Bachelor’s degree in a STEM or other related field, or equivalent work experience.
+Strong knowledge of Relational Databases and SQL programming.
+Highly proficient in at least one popular programming language used for Machine Learning, such as Python or R.
+Solid understanding of mathematical modeling, probability and statistics, and the design and simulation of stochastic systems.
+Familiarity with the mathematics behind important statistical learning algorithms such as ARIMA, Linear Regression, Logistic Regression, Centroid-based and Hierarchical Clustering, Principal Component Analysis (PCA), Decision Trees/Random Forest, Bayesian Inference, Markov Chain Monte-Carlo (MCMC).
+Strong communication skills. Ability to speak and write professionally. Ability and comfort with presenting work by phone or within small groups.
+Ability to service clients, partners and internal stakeholders by understanding their needs, translating those needs into creative solutions, and delivering on those solutions with diligence and a sense of urgency.
+
+Qualifications
+
+Preferred Experience:
+Familiarity with common advanced marketing analytics solutions such as Marketing Mix Modeling (MMM) and audiences segmentation/propensity.
+Familiarity with the capabilities and mechanics of a broad range of advertising media channels, such as Television, Radio, Print, Search, Display, Email, Ecommerce, and Social.
+Familiarity with the capabilities and mechanics of a broad range of marketing measurements and technologies such as Ad Servers, DSP, DMPs, CRMs, and Syndicated Research.
+Knowledge of other Machine Learning techniques such as Natural Language Processing (NLP) and text mining, and Neural Networks is a plus.
+
+Additional Information
+
+All your information will be kept confidential according to EEO guidelines.
+Compensation Range: $106,500 - $167,500. This is the pay range the Company believes it will pay for this position at the time of this posting. Consistent with applicable law, compensation will be determined based on the skills, qualifications, and experience of the applicant along with the requirements of the position, and the Company reserves the right to modify this pay range at any time. For this role, the Company will offer medical coverage, dental, vision, disability, 401k, and paid time off

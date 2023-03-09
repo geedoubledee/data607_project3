@@ -1,0 +1,27 @@
+As the lead of the network engineering business intelligence team, you will lead the business intelligence development across network engineering with the goal to create intuitive and powerful analytics experiences that help the engineering organization see and understand their data.
+
+Responsibilities:
+Develop, maintain, and manage advanced reporting, analytics, dashboards using Tableau, Jira and other Business Intelligence solutions.
+Performing and documenting processes, data analysis, data validation, and data mapping/design.
+Reviewing and improving existing visualization and collaborating with teams to build real time dashboards.
+Conducting unit tests and developing database queries to analyze the effects and troubleshoot any issues.
+Creating tools to store data within the organization.
+Engage and manage communications with stakeholders, including agency SMEs and managers.
+
+Required Experience:
+Expert experience with Tableau and Jira. Preferably certified in Tableau, such as Tableau Specialist Desktop, Tableau Data Analyst Certification, Tableau Certified Associate Server, Tableau Certified Associate Consultant or Tableau Certified Associate Architect.
+Need experience as a generalist who understands all aspects for taking data to Real-time dash-boarding.
+Experience with network engineering teams and concepts.
+Degree specializing in Business Administration, Science or related area is preferred.
+Minimum of 10 years (8 years with Master's Degree) of demonstrated experience in researching and analyzing basic and complex issues surrounding the business processes and systems of an organization.
+Expert Microsoft Excel Skills.
+Demonstrated ability to make recommendations on improving processes, efficiency, and practices.
+Experience using Agile software development practices. Demonstrated experience in using MS Excel, Access and Tableau for data calculations, modeling and reporting.
+Must possess strong communication skills and be adept and working with stakeholders and agency SMEs.
+JPMorgan Chase & Co., one of the oldest financial institutions, offers innovative financial solutions to millions of consumers, small businesses and many of the world's most prominent corporate, institutional and government clients under the J.P. Morgan and Chase brands. Our history spans over 200 years and today we are a leader in investment banking, consumer and small business banking, commercial banking, financial transaction processing and asset management.
+We recognize that our people are our strength and the diverse talents they bring to our global workforce are directly linked to our success. We are an equal opportunity employer and place a high value on diversity and inclusion at our company. We do not discriminate on the basis of any protected attribute, including race, religion, color, national origin, gender, sexual orientation, gender identity, gender expression, age, marital or veteran status, pregnancy or disability, or any other basis protected under applicable law. In accordance with applicable law, we make reasonable accommodations for applicants' and employees' religious practices and beliefs, as well as any mental health or physical disability needs.
+The health and safety of our colleagues, candidates, clients and communities has been a top priority in light of the COVID-19 pandemic. JPMorgan Chase was awarded the "WELL Health-Safety Rating" for all of our 6,200 locations globally based on our operational policies, maintenance protocols, stakeholder engagement and emergency plans to address a post-COVID-19 environment.
+As a part of our commitment to health and safety, we have implemented various COVID-related health and safety requirements for our workforce. Employees are expected to follow the Firm's current COVID-19 or other infectious disease health and safety requirements, including local requirements. Requirements include sharing information including your vaccine card in the firm's vaccine record tool, and may include mask wearing. Requirements may change in the future with the evolving public health landscape. JPMorgan Chase will consider accommodation requests as required by applicable law.
+
+We offer a competitive total rewards package including base salary determined based on the role, experience, skill set, and location. For those in eligible roles, discretionary incentive compensation which may be awarded in recognition of individual achievements and contributions. We also offer a range of benefits and programs to meet employee needs, based on eligibility. These benefits include comprehensive health care coverage, on-site health and wellness centers, a retirement savings plan, backup childcare, tuition reimbursement, mental health support, financial coaching and more. Additional details about total compensation and benefits will be provided during the hiring process.
+Equal Opportunity Employer/Disability/Veterans

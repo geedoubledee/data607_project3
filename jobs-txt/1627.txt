@@ -1,0 +1,30 @@
+Overview
+Black Canyon Consulting (BCC) is searching for a PostgreSQL Database Administrator to support the National Center for Biotechnology Information (NCBI). This opportunity is full time at the NIH-NCBI in Bethesda, MD and/or remote work.
+NCBI is part of the National Library of Medicine (NLM) at the National Institutes of Health (NIH). NCBI is the world's premier biomedical center hosting over six million daily users that seek research, clinical, genetic, and other information that directly impacts biomedical research and public health – at NCBI you can literally help to accelerate cures for diseases! NCBI's wide range of applications, platforms (node, python, Django, C++, you name it) and environments (big data [petabytes], machine learning, multiple clouds) serve more users than almost any other US Government Agency according to https://analytics.usa.gov/.
+We attract the best people in the business with our competitive benefits package that includes medical, dental and vision coverage, 401k plan with employer contribution, paid holidays, vacation, and tuition reimbursement. If you enjoy being a part of a high performing, professional service and technology focused organization, please apply today!
+
+Job Description
+A database administrator provides technical support for multiple PostgreSQL databases on many servers in production, development and test environments. Primary duties include:
+Installation, configuration and maintenance of PostgreSQL servers;
+Monitoring of availability and performance of production databases and servers;
+Daily database maintenance, user assistance and troubleshooting;
+Analyzing and resolving complex technical problems, including performance tuning and application design and debugging;
+Conducting and supporting OS and hardware maintenance in coordination with system group;
+Planning, coordination and performing migrations into Development/Production environments;
+Monitoring database backups and maintaining recovery procedures;
+PostgreSQL Server security administration and implementation of recommended security standards;
+Plan database and server level capacity according to statistics and user requirements;
+Work through disaster recovery plans with other groups and departments;
+Create and configure new accounts, databases and other server objects;
+Communicate/work effectively in a team environment.
+Requirements
+Bachelor's degree in Computer Science or related discipline;
+1+ year experience of supporting PostgreSQL Server;
+3+ years of hands-on database administration experience using a client-server RDBMS;
+Experience in maintaining large databases, supporting OLTP applications, and good knowledge of Replication technologies;
+Experience in support of database servers or similar products on Unix/Linux platform;
+Strong verbal and written communication skills;
+PostgreSQL Server certification is a plus;
+Hands-on experience in application development using PostgreSQL is a plus;
+Computer systems analysis and design experience is a plus;
+Experience in software development with scripting languages (Perl, Python) is a plus.

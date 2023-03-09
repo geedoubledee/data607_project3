@@ -1,0 +1,34 @@
+Role: Azure Cloud Engineer
+Location: Remote
+Experience: 10+ yrs.
+What you will do – Essential Responsibilities
+· Work closely with internal and external team members to develop and build self-service capabilities, and automation, to enable our internal customers to move quickly and deliver on the needs of the business.
+· Collaborate with other Engineers on the design, product management, and systems architecture to develop experimental solutions and bring great ideas to life
+· Share ideas internally and evolve them according to feedback and critique within an agile environment
+· Continually evolve the platform and its operations using solid engineering and agile practices.
+· Stay on top of industry trends and best practices to continuously improve what we do and ensure our customer experience is the best it can be
+Purpose of the role
+It takes a passion for technology to develop and iterate on innovative solutions to problems. Working collaboratively and creatively as part of the cloud team, you will partner with team members to contribute to the patterns, guidance and design for building and deploying cloud infrastructure to support our customer facing applications. The cloud is an ever-changing platform, so we are looking for people who are self-starters, self-learners and those who thrive on the edge of their own understanding. You should have strong communications skills, a strong sense of ownership, a passion for customer service, and an understanding of how cloud concepts and the cloud platform can contribute to the overall successful of our application development.
+Qualifications and Requirements
+· Bachelor’s Degree in Computer Science or related Technology field or equivalent experience
+· 2+ years of work experience
+Cloud Specific Qualifications and Requirements
+· 1+ years of working in and building Infrastructure within a cloud platform - Azure (preferred), AWS, Google (with relatable experience)
+· 1+ years scripting or coding experience with one or more languages
+· Technical experience in build and deployment, infrastructure, including private and/or public cloud, networking, connectivity, storage, virtualization and access control
+· Demonstrable with a range of Azure cloud capabilities including but not limited to storage, key vaults, virtual networking, web apps, Azure Active Directory, virtual machines, access management and automated deployments
+· Demonstrable experience with software development preferably with one or more languages, such as PowerShell, Python, C#
+· Demonstrable experience building and deploying resilient cloud infrastructure
+· Demonstrable experience creating and managing CI/CD pipelines using tools such as Team City or Azure DevOps
+· Demonstrable experience supporting Windows or Linux OS
+· Strong attention to detail, problem investigation and diagnostic skills
+· Passion for eliminating repetitive manual processes using automation
+INTERESTED PLEASE SHARE ME YOUR jobs at sunixasolutions dotcom
+Job Type: Contract
+Pay: $20.00 - $70.00 per hour
+Schedule:
+8 hour shift
+Experience:
+Azure: 10 years (Required)
+Databricks: 5 years (Required)
+Work Location: Remote

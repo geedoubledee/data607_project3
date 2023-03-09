@@ -1,0 +1,28 @@
+Responsibilities:
+Work alongside and support a talented team of data engineers.
+Architect, build and maintain scalable automated data pipelines ground up. Be an expert of stitching and calibrating data across various data sources.
+Work with Salesforce’s data ingestion, data platform and product teams to understand and validate instrumentation and data flow.
+Develop data set processes for data modeling, mining and production.
+Integrate new data management technologies and software engineering tools into existing structures
+Support regular ad-hoc data querying and analysis to better understand customer behaviors.
+Understand, monitor, QA, translate, collaborate with business teams to ensure ongoing data quality.
+Desired Experience/Skills:
+5+ years of experience designing, implementing and maintaining relational / data warehousing environments (custom or structured ETL, preferably working with large data environments)
+Experience with developing robust and tested Python applications to support the data warehouse
+Experience working with Linux and debugging performance issues. Experience with the Salesforce Platform is a big plus.
+Strong background in Data Warehousing concepts and schema design
+Experience implementing and managing Python open source data tooling such as Airflow, DBT, SQLAlchemy, pandas, Jupyter
+History of designing, building and launching extremely efficient & reliable data pipelines to move data (both large and small amounts) throughout a Data Warehouse.
+Strong experience working with RDBMS & MPP databases (Redshift, PostgreSQL, Snowflake), with ability to optimize queries for high volume environments.
+Some experience in data streaming with Kafka, Kinesis would be a big plus.
+Job Type: Contract
+Pay: $80.00 - $85.00 per hour
+Schedule:
+8 hour shift
+Monday to Friday
+Experience:
+IT: 10 years (Required)
+SQL: 6 years (Required)
+Python: 4 years (Required)
+Data modeling: 4 years (Required)
+Work Location: Remote

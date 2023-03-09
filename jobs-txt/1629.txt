@@ -1,0 +1,43 @@
+62470BR
+Cardiology
+Job Posting Description
+The Data Scientist will be responsible for modeling complex scientific clinical data, discovering business/clinical/health insights and identifying opportunities through the use of statistical, algorithmic, mining, visualization, and machine learning techniques. In addition to advanced analytics skills, this role is also proficient at integrating and preparing large, varied datasets, architecting specialized databases and computing environment, and communicating results. Collaborate with colleagues from clinical, science, engineering and business backgrounds. Present proposals and results in a clear manner backed by data and coupled with actionable conclusions.
+
+DICOM Imaging experience a must
+
+Principle Duties and Responsibilities:
+Work on and create reports and interactive visualizations to fulfill requests using a variety of database and analytic technologies.
+Participate in iterative discussions with a diverse community of users including clinicians, clinical researchers, and administrators, to assist with identifying their reporting needs.
+Extract knowledge from the data gathered by various in-house digital health applications / databases and synthesize it to discover previously hidden insights that can provide a competitive advantage or address pressing business problems.
+Lead an effort to establish a scalable and re-usable data science framework to handle heterogeneous data sources, and propose data analytical standards across projects.
+Support the design, implementation, and maintenance of Extract, Transform, Load (ETL) processes to gather information from a variety of databases and datasets, including both internal and external sources.
+Create and maintain content documentation, standard operating procedures and training materials.
+
+Knowledge and Skills Required:
+Work requires a Masters or PhD in a relevant field such as Computer Science, Machine Learning, or Data Science is strongly preferred. A minimum of 3-5 years relevant experience is required.
+Experience with statistical / Machine Learning techniques through PyTorch or TensorFlow.
+Experience with advanced analytics using Python and/or R languages.
+Experience with building dynamic visualizations.
+Specific experience with Tableau is a plus. Certifications are a plus.
+Experience with SQL and familiarity with database models.
+Capable of taking well-defined tasks and completing them in a reasonable time frame, and describing roadblocks and project status to technical lead and/or managers.
+Strong analytical skills, with great attention to detail and accuracy.
+Work requires communication skills in order to persuade and negotiate with others on important matters.
+A strong focus on customer service.
+Familiarity with Amazon AWS cloud platform and the tools and services it offers is a plus.
+Experience working with EMR or healthcare data is a plus.
+Clinical workflow/work experience is a plus.
+
+Boston Children’s Hospital offers competitive compensation and unmatched benefits.
+LI
+#CB
+Status
+Full-Time
+Regular, Temporary, Per Diem
+Regular
+Standard Hours per Week
+40
+Office/Site Location
+Boston
+Job Posting Category
+Clinical

@@ -1,0 +1,40 @@
+Job Description
+
+About This Role
+Biogen, pioneer in neuroscience, has one of the most exciting therapeutic pipelines in the Biotech / Pharmaceutical industry. Discovery Research IT partners with scientists to define and implement technology solutions to propel Biogen’s drug discovery initiatives across multiple modalities (gene therapy, small molecule therapeutics, protein therapeutics, ASO technologies and other large molecules. We are seeking innovative and creative Business Analyst candidates who can support the IT needs of our exciting and cutting-edge portfolio, including Translational Biology and Clinical Pharmacology solutions. Lead and influence our Discovery Research IT projects and proof of concept initiatives. Manage the life cycle of scientific applications through all phases, from planning through retirement, across all environments including cloud technologies. Provide advanced application support and expertise to ensure technically stable operational environments for our scientific partners. Translate scientific needs into application and operational requirements. Analyze and evaluate information gathered from multiple sources, reconcile conflicts, translate high-level information into details, and redefine low-level details into higher level general documentation. Manage regular meetings with stakeholders and end users.
+What You’ll Do
+Actively drive projects and ensure alignment on all project details: objectives, scope, approach, deliverables, financials, schedule, dependencies, and risks.
+Proactively manage IT and functional stakeholders, delivery teams, vendors, and Steering Committees to ensure accountability and drive value.
+Provide advanced application support for critical scientific platforms and applications, coordinating with operational support teams within IT.
+Translate business needs into actionable requirements, user stories and tasks for delivery in hybrid agile scrum-based projects. Contribute to technical roadmap planning and documentation.
+Clearly communicate project status, schedule, risks, issues, and changes/resolutions – keeping all stakeholders involved and informed on a regular basis.
+Follow and uphold required IT processes and provide input to enable continuous process improvements.
+Who You Are
+As Sr. Business Analyst you are analytical, reconcile conflicts, translate high-level information into details, and redefine low-level details into higher level general documentation for easy interpretation by technical and non-technical audiences. You successfully manage meetings with stakeholders and end users.
+
+Qualifications
+
+Required Skills
+BS or BA in life sciences/computer science or equivalent experience.
+3+ years of experience working as a Business Analyst in the life-sciences/biotech industries.
+Knowledge of pharmaceutical drug discovery and research technologies, tools, and methodologies.
+Strong interpersonal and teamwork skills, with the ability to interact with our scientists, technical teams, project managers, senior management, outsourced service providers, and vendors.
+Strong written and verbal communication skills. Ability to communicate complex technology matters to audiences with varying degrees of technical background. Proficiency in articulating how technology can be used to enable life science research capabilities.
+Strong problem-solving and influencing skills with the ability to independently troubleshoot, develop alternative solutions to problems, and define practical action plans.
+Proven time management and organization skills, with attention to details.
+Ability to operate effectively in a matrixed environment.
+Knowledge of System Development Life Cycle, DevOps, CI/CD, GxP validation and Agile Scrum and Project Management frameworks.
+Preferred Skills
+Experience with and understanding of biological and genomics scientific workflows, including in vivo studies and animal management and their enabling technologies (Lab Notebooks - LIMS, ELN, SDMS).
+Experience with and understanding of scientific data pipelining and automation technologies.
+A passion to learn and grow beyond comfort zone.
+IT project management skills including budget, schedule, and vendor management.
+Knowledge of modern technology stacks, including cloud and high-performance computing technologies.
+Why Biogen?
+Our mission to find therapies for neurological and rare diseases is a unique focus within our industry and this shared purpose is what connects us as a team. We work together to overcome obstacles and to follow the science. We are resilient as we strive to make an impact on our patients’ lives and on changing the course of medicine. Together, we pioneer. Together, we thrive.
+
+Additional Information
+
+Diversity is key for the survival of our ecosystem. I believe it is the single most important factor for a balanced flourishing environment where everyone thrives.”
+Guy Hadari – Chief Information Officer- Biogen
+All your information will be kept confidential according to EEO guidelines.

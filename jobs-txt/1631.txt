@@ -1,0 +1,65 @@
+A Production Database Administrator is to ensure that data is available, protected from loss and corruption, and easily accessible as needed. This role will perform production support activities for data warehouse and transactional servers.
+In this role, you represent the Zynex brand. This means you are responsible for providing a world-class experience to all “customers” in every interaction, every time. Every decision made must align to our mission, vision, and strategy. Every communication sent (through email, mail, or by phone) is to be professional, simple, and aligned. Every problem or bottleneck is to be resolved with an efficient solution that is consistent with our strategy.
+Competencies Needed:
+· Adaptability – Deals with change and ambiguity well; adjusts and alters behavior when change occurs so priorities are still met.
+· Customer-Focus -Implements ways to rapidly respond to customer requests for improved outcomes; works with the customer to collect accurate information about needs; goes beyond the initial thinking and remains flexible to meet customer needs; maintains strong and loyal customer relationships. In addition to patients, your customers may be coworkers, clinics, the Zynex sales team, etc.
+· Stress Management - Ability to stay calm, find solutions, and reach objective decisions in difficult situations.
+· Problem Solving - Gathers information to solve problems is able to see root causes and address these as needed.
+· Internal Drive –Demonstrates a strong desire to achieve and be proactive.
+Essential Skills and Abilities:
+· SQL – possess excellent working proficiency (1-2 years minimum MSSQL)
+o Stored procedures, views, indexing, joins, sub-query, CTE, etc.
+· MS Access – understanding of applications, forms, working experience with access as a front end.
+· Experience with RDMS as it pertains to functioning applications and systems in an enterprise.
+· Knowledge of functional programming languages a plus (Python/R)
+· Familiar with data analysis, ETL, and data preprocessing a plus.
+Essential Job Duties & Responsibilities:
+· Ensure that new database code meets company standards for readability, reliability, and performance.
+· Ensure all database servers are backed up in a way that meets the business’s Recovery Point Objectives (RPO).
+· Test backups to ensure we can meet the business’ Recovery Time Objectives (RTO).
+· Troubleshoot SQL Server service outages as they occur, including after-hours and weekends.
+· Configure SQL Server monitoring utilities to minimize false alarms.
+· As new systems are brought in-house, choose whether to use clustering, log shipping, mirroring, Windows Azure, or other technologies.
+· Install and configure new SQL Servers.
+· Deploy database change scripts provided by third party vendors.
+· When performance issues arise, determine the most effective way to increase performance, including hardware purchases, server configuration changes, or index/query changes.
+· Advise developers on the most efficient database designs (tables, datatypes, stored procedures, functions, etc.
+· Document the company’s database environment.
+· Optimize SQL stored procedures.
+· Be present/visible in the home office 5 days/week (M-F), 8 hours/day. Exceptions to this need prior approval from your direct Manager/Supervisor.
+· Other duties as assigned.
+Education Requirements:
+· Bachelor’s degree or equivalent work experience preferred.
+Physical & Environmental Requirements:
+· Fast-paced, professional office environment.
+· Proficient use of office equipment: computers, copiers, fax machines and telephones.
+· Ability to communicate effectively via spoken, written and electronic means.
+· Ability to sit for extended periods of time.
+Zynex Offers Exceptional Benefits (Full-Time Roles):
+· Health, dental, & vision insurance.
+· 401k with company contribution.
+· 8 paid holidays + up to 2 additional floating holidays (1 every 6 months).
+· 3 weeks Paid Time Off (PTO) for sick or vacation time; increases to 4 weeks after 2 years with the company.
+· Health & wellness bonus up to $50/month.
+· Frequent opportunities for role transitions and advancements.
+· Weekly employee appreciation activities/perks.
+· Up to $75/month reimbursement for community volunteer hours.
+· Employee product discounts.
+Note:
+· This job description is not intended to be an exhaustive list of all duties, responsibilities or qualifications associated with the job.
+· **Employees are held accountable for all duties of this job**
+Zynex Medical is an Equal Opportunity/Affirmative Action employer
+Job Type: Full-time
+Pay: $70,000.00 - $80,000.00 per year
+Benefits:
+401(k)
+Dental insurance
+Health insurance
+Vision insurance
+Schedule:
+Monday to Friday
+Ability to commute/relocate:
+Englewood, CO 80112: Reliably commute or planning to relocate before starting work (Required)
+Experience:
+MySQL: 1 year (Required)
+Work Location: One location

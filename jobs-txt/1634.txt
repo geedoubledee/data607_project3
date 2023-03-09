@@ -1,0 +1,29 @@
+About the Team:
+The VIZIO data team is looking for a highly talented and motivated Data Science Leader to manage and grow Data Science capabilities and help deliver strategic initiatives across the organization. We look for people who can effectively partner with Product Management, and other business leaders to deliver easy, effective, and insightful analytics. The position can be held in one of several offices (San Francisco, Dallas, Denver, Irvine, New York). We are a close-knit team, focusing on challenging problems that make a difference to our business. We concentrate on high-impact, high-value development, and in this role, you’ll be lynchpin in delivering the software that helps us grow. We are looking for someone who is versatile, methodical, excited by modern technology and enjoys focusing on tackling software challenges.
+
+What You Will Do:
+Develop processes and operating procedures for the data team to support and interface with business units across the company.
+Hire and develop top talent.
+Promote and hold the team accountable for following best practices with respect to mathematical modeling, software development, and documentation.
+Work cross-functionally with Product Managers and stake holders across the company to gather feedback and requirements.
+Communicate technical information clearly to both technical and non-technical audiences.
+About You:
+8+ years of experience in Analytics and Data Science.
+5+ years people management experience.
+An advanced degree in a quantitative field - computer science, engineering, statistics, operations research, etc.
+Track record of delivering data-driven products, insights, and influencing product and engineering decisions.
+High sense of ownership and results driven.
+Solid understanding of predictive analytics, statistical modeling, and data mining (theory, algorithms, and application).
+Proficient with modern big data technologies and CI/CD frameworks.
+Still comfortable doing hands on work and writing code.
+About VIZIO:
+We are Beautifully Simple.
+Headquartered in Irvine, California, VIZIO is a leading HDTV brand in America and the #1 Sound Bar Brand in America. VIZIO's mission is to deliver high performance, smarter products with the latest innovations at a significant savings that we can pass along to our consumers. Our loyal following and industry-wide praise continues to grow as we redefine what it means to be smart.
+
+VIZIO, Inc. is an Equal Opportunity Employer committed to diversity in the workplace. All qualified applicants will receive consideration for employment without regards to race, color, religion, sex, sexual orientation, gender identity, gender expression, national origin, protected veteran status, or any other basis protected by applicable law, and will not be discriminated against on the basis of disability.
+
+We do not accept unsolicited agency resumes. We will not pay fees to any third-party agency, outside recruiter or firm without a mutually agreed-upon contract and will not be responsible for any agency fees associated with unsolicited resumes. Unsolicited resumes will be considered our property and will be processed accordingly.
+
+For Colorado-based employment: The minimum salary for this position is $225,000/year. The compensation package includes annual bonus in addition to a range of medical, dental, vision, financial and other benefits.
+
+For New York-based employment: The minimum salary for this position is $225,000/year. The maximum salary for this position $275,000/year. The compensation package includes the annual bonus in addition to a range of medical, dental, vision and other benefits.

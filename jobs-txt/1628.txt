@@ -1,0 +1,22 @@
+Candidates needs to be strong in spark, big data, Docker, Kubernetes Experience in deploying and scaling ML Models.
+Job description:
+Responsibilities:
+Construct machine learning lifecycle management including data collection, normalization, and standardization within a data pipeline construction
+· Develop AutoML infrastructure for model selection and hyperparameter tuning
+· Create applications and interface to present the output of ML models
+· Experiment, develop and productionize high quality machine learning services and platforms to make huge technology and business impact.
+· Develop hosting platform for machine learning models.
+· Create pipelines to query and retrieve and update data for existing applications to keep them updated
+· Supervise the scaling and management of the machine learning modeling ecosystem
+· Work alongside data scientists and product owners to improve aspects of their lines of business through machine learning
+Job Type: Contract
+Salary: $39.88 - $70.00 per hour
+Schedule:
+8 hour shift
+Experience:
+Informatica: 1 year (Preferred)
+SQL: 1 year (Preferred)
+Data warehouse: 1 year (Preferred)
+Work Location: Remote
+Speak with the employer
++91 919-728-6779

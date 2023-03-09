@@ -1,0 +1,52 @@
+DIRECTOR OF DATA ENGINEERING
+The Director of Data Engineering will be leading teams to deliver new and enhanced data products that are highly performant and scalable to drive consumption of data from a variety of sources, while driving data engineering best practices. This leader must have the ability to work on competing priorities and have the technical skills to ensure that we are building compelling and stable data solutions. The Director will work on continuously improving the technical excellence by hiring and developing talent to create a high performing team.
+ESSENTIAL DUTIES:
+Direct and oversee the build and operation of reliable data engineering services leveraging a range of on-prem and cloud technologies such as SQL Server, Azure Data Factory, Azure Data Lake, Azure Synapse, Databricks and Event Hubs
+Set and maintain appropriate security controls for data engineering team and user groups in accordance with business, security and data privacy requirements
+Set and maintain technical design and build standards and best practices for integrations and data engineering services including but not limited to – security, privacy/compliance, development of data pipelines, configuring cloud services to optimize costs, error handling and support management
+Oversee the implementation and maintenance of monitoring & fault handling system to ensure SLAs are met for data refreshes and/or updates
+Oversee the design, build and support of operational data stores and APIs that can be consumed by web and/or mobile apps
+Partner with other Platform Directors in the organization and formulate innovative strategies and techniques for integrations, data modeling and other data engineering services
+Partner with Architecture to enhance and maintain integrations and data engineering tool kits and tool selection guidelines
+Manage, mentor, and grow the integrations and data engineering staff to support the growing needs of the organization
+QUALIFICATIONS
+EDUCATION/CERTIFICATIONS:
+Bachelor's Degree in Computer Science, Data Science or equivalent experience is required
+Microsoft Azure certifications are preferred
+TECHNICAL/SOFT SKILLS:
+Strong experience in design and software technical architecture for building large scale Data Analytics
+Strong knowledge with Modern Data platforms, Data design and Data integration tools is required
+Experience enhancing customer and employee experiences by delivering services that are easy to use and cost effective
+Experience with leading edge cloud technologies to build and deploy reliable and scalable products
+Firm understanding of the Agile Software Development Life Cycle process
+Ability to understanding the products and services offered by the Firm and synthesize the data from them for different audiences
+Eloquent communication skills with technical and non-technical audience
+EXPERIENCE:
+10 years of experience in IT career implementing enterprise data solutions leveraging modern data technologies required
+3 years of experience building data engineering services leveraging cloud (preferably Azure) required
+Knowledge and experience with Data Quality, Data Modeling, Data Warehousing, Data Governance, Privacy and Security required
+5 years of experience as people manager required.
+Strong Experience leading, scaling, and developing diverse Data Engineering teams required
+Experience mentoring teams through design, development and support activities while encouraging staff to share responsibility in problem solving required
+Experience implementing one or more enterprise class solutions with SQL Server, Azure SQL, Microservices based solutions required
+Experience leading the building of data services that support big data analytics and ML workflows preferred
+Experience leading the building and publishing of APIs and leveraging API management technologies preferred
+Solid working knowledge of agile development processes preferred
+Experience using Azure DevOps preferred
+LEADERSHIP SKILLS:
+Strong leadership skills and the ability to work effectively with the Business and IT staff
+Ability to build strong relationships across lines of business, functional areas, and outside vendors
+Ability to understand and articulate business imperatives as well as business impact with the use of data for analytical and operational purposes
+Ability to articulate vision and strategy of data platform with different types of audience required
+Excellent verbal, written and interpersonal communication skills, including the ability to communicate effectively within IT, Firm Leadership, and the Business. Strong ability to create and lead presentations to leadership
+Progressive experience leading data engineering teams
+Strong learning, analytical and strategic leadership mindset
+Ability to lead geographically distributed teams
+Ability to resolve conflicts timely and beneficially to all concerned
+
+The firm offers a competitive benefits package, base compensation, and an employee bonus program for eligible roles based on individual and firm performance per program guidelines. Base compensation ranges can be found between the ranges noted below in the posting, and an actual offer can vary based upon on role, hiring location, and qualifications. For additional information on RSM’s total rewards, visit our website at https://rsmus.com/careers/working-at-rsm/benefits.html.
+If required by applicable law or client policy, you may be required to be vaccinated for COVID-19 or have an approved accommodation.
+You want your next step to be the right one. You've worked hard to get where you are today. And now you're ready to use your unique skills, talents and personality to achieve great things. RSM is a place where you are valued as an individual, mentored as a future leader, and recognized for your accomplishments and potential. Working directly with clients, key decision makers and business owners across various industries and geographies, you'll move quickly along the learning curve and our clients will benefit from your fresh perspective.
+Experience RSM US. Experience the power of being understood.
+RSM is an equal opportunity/affirmative action employer. Minorities/Females/Disabled/Veterans.
+RSM is committed to providing equal opportunity and reasonable accommodation for people with disabilities. If you require a reasonable accommodation to complete an application, interview, or otherwise participate in the recruiting process, please call us at 800-274-3978 or send us an email at careers@rsmus.com.

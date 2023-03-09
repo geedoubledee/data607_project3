@@ -1,0 +1,32 @@
+ML and Image Processing Engineer
+Fully remote
+The ML and Image Processing Engineer will develop ML models to analyze and segment medical images of arteries to extract various features.
+Responsibilities
+Develop Convolutional Neural Networks to analyze blood vessel images and extract the various geometric features like internal and external diameters, and location and type of foreign material.
+Based on two-dimensional angiogram images taken from different angles, determine the 3D shape of the vessels
+Map the 3D images with the location of the geometric features extracted
+Other similar tasks as the need arise
+Qualifications
+Experience with building CNN models for image processing
+3D modeling and extrapolation from multiple 2D images
+Willingness and ability to learn new skills and develop new techniques to solve problems
+Masters or Ph. D. in machine learning, or 5 plus years of experience in developing image processing software
+
+ABOUT THE COMPANY
+ComKardia Inc. is a medical technology (MedTech) startup whose objective is to revolutionize cardiovascular therapies globally through tailored computational technologies. MedTech is a rapidly expanding sector of the global economy, accounting for about 1 trillion dollars.
+The product offered by ComKardia is an intelligent application that employs artificial intelligence to:
+Integrate the geometrical data and blockage characteristics received from coronary angiography and IVUS or OCT and reconstruct the coronary arteries in three dimensions in real-time.
+Create wall stiffness maps for the 3D reconstructed arteries.
+Create computerized duplicates of the coronary arteries (digital twins) in real time.
+Apply cognitive computing at the point of care to guide the interventional cardiologist to select the optimal stent size and stent technique, and to precisely position the stent (procedural planning).
+It is projected that ComKardia's intelligent application will enhance PCI-related expenses and length, complication rates, patient satisfaction, and clinical outcomes.
+In the developed world, coronary artery disease (CAD) is the leading cause of death. PCI, also known as percutaneous coronary intervention (PCI), is one of the primary therapeutic options for CAD and involves the implantation of coronary stents in the obstructed coronary arteries. The annual volume of coronary stents in the United States is greater than 1 million (market size of approximately $27.5 billion) and rising.
+Company's high points:
+ComKardia's solution addressed an unmet therapeutic need in a global industry worth billions of dollars.
+The technology is supported by solid science and more than ten years of well-funded research
+Extensively trained and validated technology (many publications)
+Initial human feasibility tests have already been conducted
+Patented technologies in the United States and abroad
+In progress partnership with industry
+Attractive solution for industry to assist with clinical procedure planning, device research and development, and device regulatory approval.
+Scalable with ease in the global market

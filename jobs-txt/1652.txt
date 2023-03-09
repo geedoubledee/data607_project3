@@ -1,0 +1,38 @@
+Job Title: Sr. Business Intelligence Developer (VS171709926)
+Location: Seattle, WA
+U.S. Citizens, those authorized to work in the United States without sponsorship, are encouraged to apply. We are unable to sponsor or transfer visas at this time.
+We cannot consider subcontractors for this role.
+Overview Description:
+We're hiring a Sr. Business Intelligence developer for a contract-to-hire role in Seattle. This person will be responsible for developing reports, dashboards, ETL, and analytics. If you’re interested in working for a company with a green philosophy, this is a great opportunity for you. Work will be partially remote.
+Reasonable accommodations will be made to enable individuals with disabilities to perform the essential functions.
+Requirements:
+PowerBI
+SQL Server
+C#
+SSIS
+ETL
+Data Warehouse knowledge
+Data-centric; detail oriented; data validation experience
+Disclaimer - This job description is not intended to cover or contain a comprehensive listing of activities, duties or responsibilities that are required of the employee. Other duties, responsibilities and activities may change or be assigned at any time with or without notice.
+Pay Range: $65 - $80 per hour
+All MACRO.CCS employees accrue PTO. All full-time employees ( >30 hours/week) are eligible for paid Medical (84%), Dental (100%), Life (100%) and Long-Term Disability (100%) insurance benefits.
+We are an Affirmative Action/EEO Employer who values workplace diversity.
+Ready to apply? Great!We’re so excited to learn more about you. Once you’ve submitted your resume for consideration, we recommend you check your email (and spam folder) for a confirmation email from us. This typically goes out within one business day of your application. Can’t find that email confirmation? It’s likely ended up in your Spam folder and requires that you white-list emails from @macroccs.com so that you can receive future communications from our recruiting team.
+MACRO.CCS has spent the last 32 years building meaningful relationships with both clients and candidates alike. With offices located in Seattle & Los Angeles, we are industry experts delivering computer solutions, contract technical expertise, and direct-hire placement services to both public and private organizations throughout the West Coast. We are constantly looking for great people to join our team. To learn more about the work we do, technology trends we see, benefits we offer, or how your career might be enhanced by working with MACRO.CCS, visit us at www.macroccs.com.
+Job ID: VS171709926
+Job Types: Full-time, Contract
+Pay: $65.00 - $80.00 per hour
+Benefits:
+Dental insurance
+Employee assistance program
+Health insurance
+Life insurance
+Paid time off
+Professional development assistance
+Vision insurance
+Schedule:
+8 hour shift
+Monday to Friday
+Supplemental pay types:
+Bonus pay
+Work Location: Hybrid remote in Seattle, WA 98134

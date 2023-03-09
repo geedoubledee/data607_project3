@@ -1,0 +1,54 @@
+Company Description
+
+Etsy is the global marketplace for unique and creative goods. We build, power, and evolve the tools and technologies that connect millions of entrepreneurs with millions of buyers around the world. As an Etsy Inc. employee – whether a team member of Etsy, Reverb, Depop, or Elo7 – you’ll tackle unique, meaningful, and large-scale problems alongside passionate coworkers, all the while making a rewarding impact and Keeping Commerce Human.
+
+Job Description
+
+What’s the role?
+Etsy is seeking a Senior Manager of Customer Data Science to join our team!
+Are you passionate about customer engagement? Do you love diving into data and insights to develop creative ways to acquire and retain customers?
+We are looking for a person who is an innovative, analytical thinker and strong communicator, whose insights enable your teammates to develop valuable, highly effective programs to turn one-time users into loyal customers and increase purchase frequency. As the Director of Growth Data Science you are establishing a brand new team within Marketing that will work with other functions and Product to help drive the company’s growth!
+
+This is a full-time position reporting to the VP of Growth Marketing and the base salary range will be 176,000 - 228,000 USD per year. In addition to salary, you will also be eligible for an equity package, an annual performance bonus, and our competitive benefits that support you and your family as part of your total rewards package at Etsy. For this role, we are considering candidates based in the United States. who are either remote, flex, or office-based. Etsy offers different work modes to meet the variety of needs and preferences of our team. Learn more about our flexible work options and vaccination policy here.
+What does the day-to-day look like?
+Lead the Growth Data Science team focusing on evolving Etsy’s customer segmentation, developing targeting strategies, and driving growth strategy across marketing channels
+Enrich customer data and develop user scores / propensity models in support of relevant targeting and messaging Drive Marketing automation, e.g. audience creation and reporting processes
+Work with Marketing Technology partners to handle technical aspects of key marketing
+systems and evaluate new technologies to improve and optimize marketing team
+performance
+Manage data related projects and represent the team on cross-functional and
+external/third-party initiatives
+Develop weekly and monthly experiment plans and make recommendations to increase
+engagement across key segments and channels
+Of course, this is just a sample of the kinds of work this role will require! You should assume that your role will encompass other tasks, too, and that your job duties and responsibilities may change from time to time at Etsy's discretion, or otherwise applicable with local law.
+
+Qualifications
+
+Qualities that will help you thrive in this role are:
+6-8 years minimum of quantitative work experience with large customer databases
+Have a BA or BS Degree (In lieu of degree, 4 years of relevant work experience); an advanced degree in a quantitative discipline or equivalent work experience preferred
+No stranger to translating business challenges into data analytics problems
+Expertise in predictive modeling, and statistical analyses in general
+Demonstrated experience with experimental design
+Advanced Proficiency in SQL; must understand CTEs, window functions, etc
+Expert level experience with a scripting language (Python preferred)
+Solid experience in one or more languages for statistical programming (e.g. Python Analytics Libraries, R, SAS)
+Skilled with workflow automation tools and concepts like, cron jobs, Airflow, etc.
+Proven track record managing teams of data scientists, multiple projects, and timelines in a fast-paced environment
+High aptitude for influencing decisions using analytics at a fast-growing firm, a leading consultancy, a financial services company, or similar
+Knowledge of data visualization tools (e.g. Looker, Tableau) a plus
+Familiarity with leveraging APIs for data extraction purposes a plus
+
+Additional Information
+
+What's Next
+
+If you're interested in joining the team at Etsy, please share your resume with us and feel free to include a cover letter if you'd like. As we hope you've seen already, Etsy is a place that values individuality and variety. We don't want you to be like everyone else - we want you to be like you! So tell us what you're all about.
+
+Our Promise
+
+At Etsy, we believe that a diverse, equitable and inclusive workplace furthersrelevance, resilience, and longevity. We encourage people from all backgrounds, ages, abilities, and experiences to apply. Etsy is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. If, due to a disability, you need an accommodation during any part of the interview process, please let your recruiter know. While Etsy supports visa sponsorship, sponsorship opportunities may be limited to certain roles and skills.
+
+For U.S. roles only:
+
+Many Etsy roles are open to remote candidates, and you'll be able to identify which ones within the location header of each job description. We're open to remote hires from all U.S. states except Hawaii and Alaska.

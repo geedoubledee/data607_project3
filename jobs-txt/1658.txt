@@ -1,0 +1,140 @@
+Notes:
+As an employee you will enjoy generous benefits and work/life programs. For detailed information on Benefits for this position, click here.
+
+
+A higher degree of healthcare.
+
+All across UW Medicine, our employees collaborate to perform the highest quality work with integrity and compassion and to create a respectful, welcoming environment where every patient, family, student and colleague is valued and honored.
+
+UW Medicine’s IT Services department has an outstanding opportunity for a Systems DBA!
+
+UW Medicine’s Information Technology Services (ITS) department is a shared services organization that supports all of UW Medicine. UW Medicine is comprised of Harborview Medical Center (HMC), UW Medical Center-Montlake (UWMC-Montlake), UW Medical Center-Northwest (UWMC-NW), Valley Medical Center (VMC), UW Primary Care (UWPC), UW Physicians (UWP), UW School of Medicine (SOM) and Airlift Northwest (ALNW). In addition, UW Medicine shares in the ownership and governance of Children’s University Medical Group and Seattle Cancer Care Alliance (a partnership between UW Medicine, Fred Hutchinson Cancer Research and Seattle Children’s). ITS is responsible for the ongoing support and maintenance of the infrastructure and applications which support all of these institutions, along with the implementation of new services and applications that are used to support and further the UW Medicine mission.
+
+In collaboration with UW Medicine IT Services (‘ITS’) and under the general guidance of the Platform Services Manager, the primary focus of the Systems Database Administrator (DBA) position is maintaining the enterprise database environments and data content to support the administrative, clinical and financial computing requirements of UW Medicine.
+
+Areas of responsibility include, but are not limited to:
+
+administer databases supporting clinical, financial, and administrative applications which support patient care;
+
+providing data access and security activities;
+
+resolving database performance issues;
+
+managing database capacity needs, replication, and other distributed data issues; and
+
+providing advice, consultation and support to partners, systems managers, senior computing specialists, and operations personnel of varying levels of expertise.
+
+
+RESPONSIBILITIES
+
+Operations (70%)
+Act as primary DBA in administering large databases supporting clinical, financial and administrative applications which support patient care. DBMS platforms include MS SQL Server, Oracle and MySQL.
+
+Design, develop and carry out routine database maintenance, reorganization, backup and archive mechanisms. Ensure data integrity and against data losses by implementing operational procedures for scheduled database backups. Regularly monitors database consistency and initiates database repairs when needed.
+
+Plan, test and implement software maintenance fixes and major releases supplied by database vendors. Plan and execute data migrations for major database upgrades. Perform capacity planning and operating system configuration activities.
+
+Participate in the planning, maintenance and implementation of all aspects of database disaster recovery and business continuity planning.
+
+Design and document monitoring processes to assure the health and operation of database systems. Ensure performance service levels are met by monitoring database operations and resolving database performance issues through system tuning activities, performing troubleshooting techniques and taking corrective actions. Communicate operational support processes to team.
+
+On Call: Participate in the on-call responsibilities of the DBA Team, in support of the 24 hrs / 7 days production systems environment.
+
+
+Projects (10%)
+Coordinate multiple projects, with either primary or secondary responsibility.
+
+Assist in initial project analyses, including feasibility studies, proposals, and quotations.
+
+Determine scope and duration of projects.
+
+Create and maintain project plans.
+
+Establish work breakdowns, estimate effort, identify dependencies, and establish schedules to meet project objectives.
+
+
+Documentation (10%)
+Create and maintain database, interface, and ETL process design documentation.
+
+Communicate data architecture to technical and clinical customers.
+
+Create and maintain database operations documentation.
+
+Train others where needed.
+
+Develop design proposals and position papers for architecture, maintenance activities, and new projects.
+
+
+Consulting (5%)
+Work with partnering teams and business units to provide advanced database and system design support. Provide expert advice and consultation to partners and management regarding development of database technologies and interfaces.
+
+Provide architectural expertise in analyzing, designing and developing the enterprise database systems and setting standards for operations, development and security. Participate in the design and specification of the hardware and storage architectures supporting the database platforms. Interact with business stakeholders in designing a database infrastructure to support identified business objectives.
+
+Mentor the design and programming work of other team members where appropriate. Provide technical leadership to the teams, other systems programmers, development and support staff.
+
+
+Other (5%)
+Demonstrate accountability for own growth and competency. Participate in and seeks out opportunities and activities which provide for continuing education, skills development and self-improvement inclusive of requirements for annual training and education.
+
+Participate in all aspects of improving the team, including education/training of other team members and contributing to process/communication improvement initiatives.
+
+Work with manager to set professional goals for career development.
+
+
+REQUIREMENTS
+
+Bachelor's degree in Computer Science, Information Technology, Business Administration, or related field or equivalent combination of education and experience.
+
+4+ years technology experience should include:
+4+ years of progressively responsible systems administration, analysis, and programming experience on a broad range of platforms.
+
+2+ years of relational database systems administration and programming experience in a distributed networked client/server environment.
+
+Demonstrated experience in relational database systems and other technologies.
+
+Demonstrated experience working with teams in the development and support of applications.
+
+
+DESIRED
+
+Previous experience in and knowledge of academic healthcare systems and/or operational environments.
+
+Advanced degree (e.g., Master’s, PhD, etc.)
+
+Experience with several of the following database platforms: Microsoft SQL Server, Oracle, MySQL.
+
+Experience with large academic health care enterprise projects or operations.
+
+Experience administering a clustered, or otherwise highly available environment.
+
+Knowledge of Microsoft Windows scripting tools, utilities and languages.
+
+Working knowledge of UNIX and/or Linux operating systems.
+
+
+
+This is an Information Technology deadline-driven work environment.
+
+The individual in this position is expected to work normal daytime hours. The work may be performed in either an office environment or by telecommuting with manager approval; however, significant off-hours and weekends may be needed to resolve problems and respond to emergencies. This individual is expected to be available for emergencies (business continuity/disaster recovery efforts) on a 24x7 basis as needed.
+
+Must coordinate projects without direct supervisory authority.
+
+Must work within the constraints of multiple technical environments.
+
+Ability to communicate effectively in English, both verbally and in writing.
+
+#monster
+
+REQUIREMENTS:
+
+See above.
+
+
+Applicants considered for this position will be required to disclose if they are the subject of any substantiated findings or current investigations related to sexual misconduct at their current employment and past employment. Disclosure is required under Washington state law.
+
+Committed to attracting and retaining a diverse staff, the University of Washington will honor your experiences, perspectives and unique identity. Together, our community strives to create and maintain working and learning environments that are inclusive, equitable and welcoming.
+The University of Washington is a leader in environmental stewardship & sustainability, and committed to becoming climate neutral.
+The University of Washington is an affirmative action and equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, gender expression, national origin, age, protected veteran or disabled status, or genetic information.
+To request disability accommodation in the application process, contact the Disability Services Office at 206-543-6450 or dso@uw.edu.
+COVID-19 VACCINATION REQUIREMENT
+Employees of the University of Washington are required to be fully vaccinated against COVID-19 unless a medical or religious exemption is approved. Being fully vaccinated means that an individual is at least two weeks past their final dose of an authorized COVID-19 vaccine regimen. As a condition of employment, newly hired employees will be required to provide proof of their COVID-19 vaccination. View the Final candidate guide to COVID-19 vaccination requirement webpage for information about the medical or religious exemption process for final candidates.

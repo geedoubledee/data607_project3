@@ -1,0 +1,32 @@
+Description
+Metric5 is currently seeking a Data Scientist to work within a team providing Data Warehouse and Business Intelligence services to our government customer using Agile scrum processes. As a Data Scientist you. You are a go-getter with exceptional analytical skills, detailed oriented, self-sufficient, organized, and able to present information in user-friendly language.
+Program Details
+The program you will be supporting has a mission to provide development, security, and operations (DevSecOps) support to U.S. Citizenship and Immigration Services (USCIS) with a focus on development, operations, and modernization of the Agency’s Enterprise Data Warehouse/Data Lake. The team utilizes open-source, AWS Cloud, and Big Data technologies, agile project management practices, and modern DevSecOps delivery to provide the business intelligence support systems to meet the reporting, data analytics, and machine learning/artificial intelligence needs critical to USCIS leadership, data/business analysts, data scientists, and other decision-makers.
+Requirements:
+Find patterns and trends in datasets to uncover insights
+Create algorithms and data models to forecast outcomes
+Use machine learning techniques to improve the quality of data or product offerings
+Communicate recommendations to other teams and senior staff
+Develop models, using machine learning, or incorporating advanced programming to find and analyze data
+Perform data analysis, data verification, data validation, and testing from data ingested from source systems into the Big Data Environment
+Stay on top of innovations in the data science field
+Verify data quality to ensure accurate analysis and reporting
+Interact with officially designated product owners, system owners, and business owners of the source systems to understand transactional system data models, requirements, and ETL logic
+Contribute to an environment of continuous improvement by helping the team identify areas of the development process that can be improved and helping the team commit to and deliver improvements in those processes
+Actively participate in Agile release and sprint planning, sprint grooming, artifact creation, sprint testing, demonstrations and retrospectives and solution releases.
+Execute other activities related to development work, such as participate in meetings, provide briefings, presentations and other support materials that will promote the program, assist in achieving user buy-in, and explain technical concepts to non-technical audiences
+Required Skills:
+Advanced understanding of Data Science/Machine Learning/Artificial Intelligence
+3+ years performing data science work in Big Data environment. Experience in Data Warehouse/Lake environment preferred
+5+ years of demonstrated experience with Apache Spark.
+3+ years of proficiency with programming languages including Python, R, SQL and SAS
+Excellent analytical, verbal, and written communication skills and the ability to interact professionally with a diverse group, executives, managers, and subject matter experts.
+Ability to triage issues, react well to changes, work with teams and ability to multi-task on multiple projects
+Strong problem solving and analytical skills demonstrated by the ability to assimilate new information,
+Well-versed in the use of Microsoft Office Tools
+Desired Skills:
+Knowledge of Agile, including Scrum and Kanban, and management tools (e.g., Jira, Confluence)
+Experience working in an AWS Cloud environment
+Experience with industry standard version control tools (i.e., Git)
+Education: Bachelor’s degree in a technical discipline preferred – Computer Science, Mathematics, or equivalent technical degree, or the equivalent combination of education, professional training, and work experience.
+Clearance: Must be a US Citizen and be able to obtain a government agency Suitability Clearance. USCIS Entry on Duty (EOD) preferred.

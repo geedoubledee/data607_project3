@@ -1,0 +1,30 @@
+Primary Roles and Responsibilities:
+Selecting and integrating any Big Data tools and frameworks required to provide requested capabilities
+Develop and maintain data pipelines implementing ETL process, monitoring performance and advising any necessary infrastructure changes
+Translate complex technical and functional requirements into detailed designs
+Investigate and analyze alternative solutions to data storing, processing etc. to ensure most streamlined approaches are implemented
+Serve as a mentor to junior staff by conducting technical training sessions and reviewing project outputs
+Skills and Qualifications:
+Strong understanding of data warehousing and data modeling techniques.
+Proficient understanding of distributed computing principles - Hadoop v2, MapReduce, HDFS
+Strong data engineering skills on GCP cloud platforms
+Experience with building stream-processing systems, using solutions such as Storm or Spark- Streaming
+Good knowledge of Big Data querying tools, such as Pig, Hive, and Impala
+Experience with Spark, SQL, and Linux.
+Knowledge of various ETL techniques and frameworks, such as Flume, Apache NiFi, or DBT.
+Experience with various messaging systems, such as Kafka or RabbitMQ.
+Good understanding of Lambda Architecture, along with its advantages and drawbacks
+Job Type: Full-time
+Salary: $100,000.00 - $140,000.00 per year
+Benefits:
+401(k)
+Dental insurance
+Health insurance
+Paid time off
+Schedule:
+8 hour shift
+Experience:
+Google Cloud Platform: 4 years (Preferred)
+SQL: 5 years (Preferred)
+Data warehouse: 1 year (Preferred)
+Work Location: Remote

@@ -1,0 +1,30 @@
+Data Engineer
+Remote
+12+Months
+W2 Only
+JD:
+Big data ,ETL, Design Approach, SQL ,Cloud ,Spark
+· Expert in writing SQL Query including understanding of leveraging index and partitions.
+· Experience in delivering Data Engineering work using Databricks or any other Apache Spark platform.
+· Experience with streaming data processing.
+· Experience working with APIs as both source and target.
+· Experience working in Azure environment (focusing on Azure SQL Database, Azure Data Lake Gen2, Azure Data Factory, Azure Analysis Service, CosmosDB, Azure Event Hub).
+· Worked with GIT and CI/CD pipeline (preferable Azure DevOps / VSTS).
+· Data analysis, data modelling, data integration, data warehousing and database design.
+Responsible for quality and reliability of deployed ETL pipelines and Data warehouse
+Thanks
+Upendar
+Business Development Executive
+3K Technologies, LLC
+www.3ktechnologies.com |
+Analytics | BI | Big Data | Cloud |Software Engg.
+t: +1 (408) 713-6271 | f: +1 (408) 884-2420
+Job Type: Contract
+Salary: $84,500.58 - $190,893.09 per year
+Schedule:
+8 hour shift
+Experience:
+Informatica: 1 year (Preferred)
+SQL: 1 year (Preferred)
+Data warehouse: 1 year (Preferred)
+Work Location: Remote

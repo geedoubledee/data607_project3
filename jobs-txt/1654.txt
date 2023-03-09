@@ -1,0 +1,22 @@
+Overview:
+SRI International, an over 75-year strong pioneering research institute, has a rich history supporting government and industry. Our innovations have created new industries, billions of dollars in market value and lasting benefits to society. SRI is organized around broad disciplines and capabilities, with research and development divisions and labs to groups who excel at identifying new opportunities, developing products and creating custom solutions. Our organization is driven by impact - delivering unique solutions for the world's important challenges and transforming ideas into reality for clients and partners.
+
+From image capture to situational understanding, SRI’s Center for Vision Technologies (CVT) offers end-to-end vision solutions that translate into real-world applications. Our scientists pioneered real-time, real-world computer vision with the early development of pyramid/wavelet processing that enabled analysis with unprecedented speed and precision. They continue today with a broad array of advances in visual navigation, 3D scene modeling, and object and activity recognition.
+
+The Vision and Learning group in CVT is searching for a Sr. Technical Manager who will lead cutting edge applied research projects in areas such as vision and language, adversarial robustness, explainable machine learning, zero-few shot learning, transfer learning, satellite image analytics, human behavior analytics and social multimedia analytics.
+Responsibilities:
+As a hands-on Manager you will:
+Lead a group of technical research staff members, providing technical guidance, staff oversight and group/individual planning.
+Seek out new business opportunities and lead proposal efforts based around the technical capabilities of the Vision & Learning group.
+Work with technical staff to develop novel state of the art technologies that can bring in new business opportunities with both government and commercial clients.
+Facilitate innovative projects, principles and ideas that affect the organization's selling success or generate future products or technologies (IP).
+Oversee the generation of technical papers
+Qualifications:
+PhD or Masters with a focus on Electrical Engineering, Computer Science, Computer Engineering or a related field.
+At least 10 years of experience in Data Science, Machine Learning, Artificial Intelligence, or Information Exploitation Systems.
+At least 2 years of experience managing a team.
+Due to government requirements candidates must be a US Citizen with the ability to obtain/maintain a security clearance.
+Experience in machine learning for computer vision applications with emphasis on deep learning-based techniques.
+Experience with transitioning research projects to government and commercial customers.
+Good overall coding and architecting skills.
+Published research work in academic conferences or industry circles.

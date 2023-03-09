@@ -1,0 +1,32 @@
+Overview:
+
+HarperCollins is looking for a Director of Data Science to lead the Data Science team.
+
+The Data Science team works closely with sales, inventory management, editorial, and other teams to solve complex challenges and drive business growth by developing algorithms, building automated data tools, and providing data-driven recommendations.
+
+This role will report to the Chief Digital Officer.
+Responsibilities:
+Leads, manages, and mentors a small team of data scientists and analysts.
+Serves as team lead on multiple projects and participates in development, validation, and delivery of algorithms and tools.
+Collaborates with business stakeholders, data engineers, and software developers to understand key business questions and design and deploy analytic solutions.
+Owns the full development cycle of machine learning models and data-driven tools that drive commercial impact in business areas, including marketing, pricing, demand forecasting, search engine optimization.
+Collaborates with business leaders and contributes to long-term data science and business roadmap.
+Gets to the core of issues concerning the business, helping team members with Python and SQL as needed.
+Qualifications:
+1+ years of experience managing analytic professionals
+5+ years of experience in data science-related roles
+Proficiency in Python, SQL, git, and common data science libraries, like pandas, scikit-learn, and tensorflow
+Proficiency in statistical modeling, experimental set-up, data analysis, predictive model development, and model deployment
+Understanding of best practices for leading high-functioning data teams (git, documentation, etc.)
+Experience distilling stakeholder requirements into problem definitions and delivering solutions
+Strong communication skills with the ability to effectively communicate with technical and non-technical stakeholders
+
+HarperCollins Publishers is a company full of people who are passionate about books. When you apply for a position, we want to know why you want to work here, and why you are interested in the job. That’s why cover letters are strongly preferred .
+
+The salary range for this position is $150,000-$175,000. We recognize that attracting the best talent is key to our strategy and success as a company. As a result, we aim for flexibility in structuring competitive compensation offers to ensure we are able to attract the best candidates. The quoted salary range represents our good faith estimate as to what our ideal candidates are likely to expect, and we tailor our offers within the range based on the selected candidate's experience, industry knowledge, technical and communication skills, and other factors that may prove relevant during the interview process.
+
+Pay-for-performance is a key element in our strategy to attract, engage, and motivate talented people to do their best work. Accordingly, offers extended for this role will include an annual incentive opportunity expressed as a percentage of salary or a fixed amount. Similarly to salary, annual incentive opportunity targets are set based on a variety of factors including competitive market practice.
+
+In addition to cash compensation, the company provides a comprehensive and highly competitive benefits package, with a variety of physical health, retirement and savings, caregiving, emotional wellbeing, transportation, and other benefits, including "elective" benefits employees may select to best fit the needs and personal situations of our diverse workforce.
+
+HarperCollins Publishers is an equal opportunity employer.

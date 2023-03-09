@@ -1,0 +1,29 @@
+Requirements and skills
+Business Intelligence - they are working on an enterprise project (1 year in maturity) to centralize reporting for the operations teams. they have created 4-5 groups of reports with more to accomplish.
+The reports support PSAT/SAT/AP ordering, testing and monitor behaviors at various levels.
+Must Have:
+80 - tech abilities / 20 - soft skills communications.
+BA/BS required (major in analytical field desired)
+A minimum of 5 to 10+ years work related experience.
+Experience in hands-on development of reporting applications for the Web in a professional environment
+AWS - Athena, AWS - S3
+RedShift
+Tableau Desktop and Tableau Server (v2018 forward)
+Nice to have:
+AWS - EMR/Spark; AWS - Lambda; AWS - SNS/SQS
+react.js;
+Tableau API Integration
+Job Type: Full-time
+Salary: $100,000.00 - $110,000.00 per year
+Benefits:
+401(k)
+Dental insurance
+Health insurance
+Paid time off
+Schedule:
+8 hour shift
+Experience:
+Business intelligence: 5 years (Preferred)
+AWS: 3 years (Preferred)
+Tableau: 3 years (Preferred)
+Work Location: Remote

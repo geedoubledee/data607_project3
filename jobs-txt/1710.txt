@@ -1,0 +1,31 @@
+RevolutionParts is dedicated to modernizing the auto industry through our parts e-commerce platform. And we are pretty great at it too! We have enabled thousands of dealerships to sell auto parts online by transforming the way buyers and sellers connect.
+
+And not only are we dedicated to revolutionizing the auto industry; we are also passionate about building a revolutionary team. Our Revolutionaries (as we call ourselves) are talented humans who have a shared goal of delivering an exceptional product and customer experience. Plus, we have fun while doing it!
+
+As the Director of Data Science, you will take ownership of developing from scratch and evolving this critical practice at RevolutionParts; ensuring we improve our decision making with a high level of precision that will drive value to our customers and increase revenue to RevolutionParts. You'll be joining a team of problem-solving achievers where everyone - including you - is striving to constantly build innovative and intuitive products that solve real market needs. You’ll be reporting directly to the CPO.
+
+We are an incredibly supportive team - we all work, win, and learn together. If you want a clear-cut role with the same tasks for years, this is not for you. If you like to think big, can keep focused on priorities, and work on a variety of projects, we need you!
+Responsibilities
+This is an individual contributor role
+Be a driving force in the creation of the data intelligence ecosphere
+Identify the most important company problems to solve and work directly with senior leadership to get cross functional alignment in solving those problems
+Drives projects with hands-on data science, analysis, or mathematical modeling
+Proven ability to develop and socialize a compelling story that creates change
+Evangelize the practice of data science and rigor around statistical concepts and practices
+Help product managers design and analyze A/B tests
+Gather, organize and interpret structured and unstructured data from multiple internal and external sources
+Utilize advanced statistical techniques to create predictive models and creative analyses
+Longer term, you’ll drive the design and implementation of ML capabilities across the organization
+Requirements
+5+ years of experience as a Data Scientist
+History using Python or R for predictive modeling and data manipulation
+Proven ability to communicate and present to non-technical audiences
+Prior experience leading business-critical projects
+History of using digital, marketing, customer, or product data
+Team management experience is a plus
+PhD/MS in Computer Science, Statistics, or another STEM-related field
+Neural network experience is a plus
+Machine Learning expertise required; Deep Learning or Natural Language Processing experience a plus
+RevolutionParts is proud to provide all full-time Revolutionaries with a comprehensive employment package including competitive compensation, career development, benefits, 401K match, parental leave, and many more valuable perks. You can learn more about our core-value driven culture at our career page.
+
+RevolutionParts is an Equal Opportunity Employer; we value diversity. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, family status, veteran status, or disability status.

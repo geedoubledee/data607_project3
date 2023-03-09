@@ -1,0 +1,42 @@
+OUTGROWN YOUR OWN BACKYARD? COME PLAY IN OURS.
+
+At Columbia, we’re as passionate about the outdoors as you are. And while our gear is available worldwide, we’re proud to be based in the Pacific Northwest, where natural wonders are our playground.
+
+Every product we make and every task we undertake is inspired by the famous words of our founder Gert Boyle: “It’s perfect. Now make it better.” As pioneers of relentless improvement, we are constantly evolving.
+
+We believe the outdoors is ours to protect and strive to keep our planet healthy. We believe in empowering people to experience the outdoors to the fullest.
+
+And we believe in you.
+ABOUT THE POSITION
+Although we're an apparel and footwear-focused company, technology is central to everything we do. Columbia Sportswear’s Digital Technology (CDT) group enables an IT infrastructure across four global brands, a global supply chain, and 500+ geographically dispersed stores. These teams support in-store, mobile, and data platforms to enhance customer interface and service in an ever-evolving industry.
+The Data Scientist is a member of the Data & Analytics (D&A) team and will support the delivery of innovative analytical solutions to help answer the organization’s pressing challenges and opportunities. This role will focus on developing end-to-end solutions, from prototyping to production-ready complex algorithms. The candidate will utilize advanced analytics to solve complex business problems and integrate findings into business processes. You will have the opportunity to mentor others and help a growing and curious community of analytics practitioner.
+HOW YOU’LL MAKE A DIFFERENCE
+Design and build scalable models that leverage best-in-class statistical and machine learning techniques to be integrated into analytics workflows across the business
+Collaborate with other members of the D&A team and business partners in translating business requirements that can be answered with advanced analytics
+Conduct exploratory data analyses and data mining to understand underlying patterns, trends and behavior to highlight opportunities through data to significantly improve business performance across brands, regions, and channels
+Audit existing analytical processes and provide guidance on implementing advanced machine learning capabilities according to industry standards.
+Under minimal supervision, establish and execute plans to build, implement and maintain predictive models using available tools and programming languages. Manage full life cycle of projects
+Collaborate with Data Engineers to validate source data and develop data pipelines that feed into machine learning workflows.
+Translate analytical findings and statistical models into measures of business impact and actionable recommendations
+Drive best practices in applying and deploying Data Science at scale
+YOU ARE
+A lateral thinker with aptitude to synthesize and create a cohesive picture from a wide variety of information sources
+Extremely organized, detail-oriented, resourceful and flexible
+Able to work and collaborate with cross functional teams, including IT, and manage partner expectations
+A strong communicator that can demonstrate an ability to work with all ranges of an organization to advance Columbia’s Data Science practice.
+An agilest at heart and a team player who enjoys collaboration and thought partnership
+YOU HAVE
+Minimum Bachelor’s degree in Mathematics, Statistics, Computer Science, Engineering or other relevant quantitative field, with a Graduate degree strongly preferred
+Minimum 3 years of experience as a Data Scientist, Statistician or related position
+Hands-on quantitative experience to include data mining, predictive modeling, machine learning, statistical programming, working with both structured and unstructured data
+Demonstrated capability in rapid prototyping and developing end-to-end solutions using complex algorithms
+Broad understanding of core statistical and ML techniques
+Highly proficient in SQL and other statistical programming languages, e.g., R, Python, SAS
+Proficient in the use of visualization tools, Power BI preferred
+Experience with Microsoft Stack preferred
+Solid time-management skills and able to work on multiple tasks or projects concurrently
+Strong interpersonal, written, communication and relationship-building skills
+A plus for experience with MLOps, Deep Learning, and/or big data
+Columbia Sportswear Company and our portfolio of brands, including Columbia, SOREL, Mountain Hardwear and prAna, know a thing or two about adventures. After all, we've been on one since 1938, working to perfect the art of enjoying the outdoors. Behind everything we make is an employee who's found that the greatest adventure starts with joining a company that strives to do the right thing.
+This job description is not meant to be an all-inclusive list of duties and responsibilities, but constitutes a general definition of the position's scope and function in the company.
+At Columbia Sportswear Company (CSC), we are committed to providing an environment of mutual respect where equal employment opportunities are available to all applicants and teammates without regard to race, color, religion, sex, pregnancy (including childbirth, lactation and related medical conditions), national origin, age, physical and mental disability, marital status, sexual orientation, gender identity, military and veteran status, and any other characteristic protected by applicable law. CSC believes that diversity and inclusion among our teammates is critical to our success as a global company, and we seek to recruit, develop and retain the most talented people from a diverse candidate pool. All employment is decided on the basis of qualifications, merit, and business need.

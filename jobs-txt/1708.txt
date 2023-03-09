@@ -1,0 +1,37 @@
+84.51° Overview:
+84.51° is a retail data science, insights and media company. We help the Kroger company, consumer packaged goods companies, agencies, publishers and affiliated partners create more personalized and valuable experiences for shoppers across the path to purchase.
+Powered by cutting edge science, we leverage 1st party retail data from nearly 1 of 2 US households and 2BN+ transactions to fuel a more customer-centric journey utilizing 84.51° Insights, 84.51° Loyalty Marketing and our retail media advertising solution, Kroger Precision Marketing.
+Join us at 84.51°!
+__________________________________________________________
+
+DIRECTOR, DATA SCIENCE
+SUMMARY:
+Kroger Precision Marketing (KPM), powered by 84.51 is an emerging Retail Media Platform. Combined with Kroger loyalty data, the power of 84.51's data science, and best-in-class strategic media teams we help CPGs explore the power of reaching Kroger customers based on purchase behaviors. We believe in the power of utilizing data to fuel personalization to Kroger customers, while also delivering on true value and impact of media in the advertising ecosystem. We are looking for a Data Science leader to help us advance and propel the KPM business forward.
+This exciting data science leadership role in Kroger Precision Marketing will collaborate closely with our commercial program leaders to ensure the development of superior solutions to improve and quantify the impact of advertising on customer behavior in-store and online. This role sits within a broader data science team tasked to drive the science behind Kroger Precision Marketing in commercializing Kroger's emerging e-commerce business. Our data science team leverages large volumes of data to develop powerful sciences using cutting edge machine learning and mathematical techniques to improve products, processes, and systems that positively impact our customers. We lead our organization in identifying and adopting the tools and technologies that will position KPM as a leader in the media industry.
+RESPONSIBILITIES:
+Manage a team of data scientists evaluating, developing and enhancing solutions for omni-channel media targeting, measurement and optimization of campaigns in-flight
+Ensure we have appropriate and industry-leading science approaches/solutions and design methods and analysis to articulate the value of science to our clients and partners
+Upskill our broader data science team on the media industry, provide thought leadership, and identify opportunities to improve on our existing solutions
+Provide project specific coaching and direction to junior data scientists, as well as career development support
+Collaborate closely with 84.51° Commercial Program Leadership, Product, Engineering, Activation and Client facing teams to deploy and automate sciences that will ensure Kroger's digital touch points are relevant and meaningful
+Deliver advanced customer insights to both technical and non-technical audiences using visualization tools
+Engage with media partners and CPGs to translate business questions, scope solutions with powerful data at our fingertips, and showcase the value of the solutions developed
+QUALIFICATIONS, SKILLS, AND EXPERIENCE:
+Good understanding of the digital media industry
+Experience and knowledge of how to utilize data for decision making
+Knowledge of social media, TV tech platforms and owned media assets is a plus
+Experience developing analytic solutions to prove and improve the effect of digital media
+Experience leading a team that leverages R or Python to develop analytical solutions
+Experience deploying science to fuel decision making and optimization
+Experience with managing, recruiting, training, developing, coaching, and/or inspiring highly technical associates
+Strong academic background in mathematics, statistics, computer science, economics, or similar discipline
+Ability to present technical solutions to non-technical audiences
+Strong interpersonal and communication skills
+Strong analytical, creative problem-solving and decision making skills
+Strong business acumen; grocery and/or retail experience is a plus
+Passionate about data, analysis and insights
+Natural curiosity
+Welcomes and embraces change
+An openness and willingness to try new things and to fail
+#LI-Remote
+#LI-SSS

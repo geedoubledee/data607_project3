@@ -1,0 +1,37 @@
+Duck Creek Senior Software Engineer
+Be a part of the Digital transformation team. Bring your ideas to the table – and make an immediate impact on how insurance is purchased. Help build out capabilities that will drive business decisions. Play a critical role in building out the infrastructure on how we do business tomorrow. Work with cutting edge technologies and be on forefront of Small Commercial Product Development.
+
+In this role, you will:
+As a Duck Creek Software Engineer will be responsible to work on end-to-end development & delivery of new insurance products & capabilities enabling new business opportunities and operational efficiencies on Duck Creek Policy Underwriting & Admin Platform utilizing SAFe Agile. This role is also responsible for all integrations and interfaces upstream as well as downstream supporting business objectives of multiple divisions.
+Work on a large portfolio of globally distributed developer teams to deliver products and services in the most efficient way possible.
+You will need deep knowledge of the Duck Creek platform, strong architecture background, design thinking, change orientation, seamless execution, strong relationship management and effective communication capabilities.
+Partner with business architecture and enterprise architecture team to define optimum application and solution architecture to meet current and future underwriting and policy admin platform needs.
+Lead end-to-end development and implementation of new insurance products, packages on Duck Creek Platform.
+Build internal expertise on Duck Creek Platform working with HR, vendor partners and personal relationships in the industry.
+Enable transition from an iterative waterfall to an agile-based operating model.
+Deliver development projects within the allocated budget partnering with finance to ensure appropriate accounting treatment of costs.
+Keep on top of Duck Creek Technology Product Roadmap and the industry trends including Digital Transformation, InsureTech, AI/Machine Learning etc.
+
+Qualifications :
+Bachelor's or Master's Degree in Computer Science, Information Systems, or another related field.
+At least 6 years with insurance background required; experience in Commercial lines platform/systems implementation of Duck Creek Policy is required
+At least 6 years of experience on Duck Creek Policy Platform delivering insurance products and capabilities for multiple lines of business
+Deep knowledge of commercial insurance products and operational processes is required; expertise in assessing internal and external data needs to meet underwriting guidelines is required
+Experience in enabling agile transformation/implementation in medium to large projects/programs is required.
+Hands on knowledge of Duck Creek Policy v6.x, Duck Creek Author, SQL Server etc.
+At least 5-7 years of hands on experience in technology stack such as Microsoft.Net, Java, ASP.NET, IIS, SQL Server, HTML, XML, CSS, XSLT etc.
+Good knowledge of Data & Analytics technologies such as Data Lakes, Business Intelligence Tools, Predictive Models, 3rd Party Data.
+Good knowledge of Microservices & API Mgmt., Java Script Frameworks such as Angular, Cloud Platforms such as Microsoft Azure is preferred.
+Strong analytical skills and influence skills to achieve results.
+Excellent written/verbal/presentation skills; ability to effectively communicate across all levels is required.
+Strong ability to identify, understand and communicate business needs and complex technical concepts in simple, concise and crisp manner to technical and non-technical audiences.
+
+Technology Doesn't Change the World, People Do.®
+
+Robert Half is the world’s first and largest specialized talent solutions firm that connects highly qualified job seekers to opportunities at great companies. We offer contract, temporary and permanent placement solutions for finance and accounting, technology, marketing and creative, legal, and administrative and customer support roles.
+
+Robert Half puts you in the best position to succeed by advocating on your behalf and promoting you to employers. We provide access to top jobs, competitive compensation and benefits, and free online training. Stay on top of every opportunity – even on the go. Download the Robert Half app and get 1-tap apply, instant notifications for AI-matched jobs, and more.
+
+Robert Half will consider qualified applicants with criminal histories in a manner consistent with the requirements of the San Francisco Fair Chance Ordinance. All applicants applying for U.S. job openings must be authorized to work in the United States. Benefits are available to temporary professionals. Visit https://roberthalf.gobenefits.net/ for more information.
+
+© 2022 Robert Half. An Equal Opportunity Employer. M/F/Disability/Veterans. By clicking “Apply Now,” you’re agreeing to Robert Half’s Terms of Use .

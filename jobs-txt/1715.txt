@@ -1,0 +1,39 @@
+Be Here. Be Great. Working for a leader in the insurance industry means opportunity for you Great American Insurance Group's member companies are subsidiaries of American Financial Group, a Fortune 500 company. We combine a "small company" culture where your ideas will be heard with "big company" expertise to help you succeed. With over 30 specialty and property and casualty operations, there are always opportunities here to learn and grow.
+At Great American, we value diversity and recognize the benefits gained when people from different cultures, backgrounds and experiences work collaboratively to achieve business results. We are intentionally focused on fostering an inclusive culture and know valuing diversity is an essential leadership quality. Our goal is to create a workplace where all employees feel included, empowered and enabled to perform at their best.
+Great American’s Business Data & Analytics department is looking for a Data Science leader to join our growing team. The Business Data & Analytics group is focused on helping our property/casualty business units make data-driven decisions that will impact our financial future and continued growth.
+The main job of our data scientists is to ask questions and help find the answers – using data and analytics. You will work on a highly collaborative team of data professionals who are excited to solve business problems at Great American. Strong work ethic, intellectual curiosity, and creative thinking are what we value most. Be willing to learn, be willing to teach, and be part of the team.
+A successful candidate must have the following qualities:
+Be strong technically – fluent in either R or Python
+Comfortable pulling and manipulating data using SQL
+Prior experience building and deriving insights from statistical models
+One (or more) of GLMs, XGBoost, Random Forests, Neural Networks, etc.
+Knowledge of production implementation and appropriate practicality
+Ability to explain technical analysis to non-technical audiences
+Familiarity with data visualization tools
+Openness to influence peers directly and indirectly
+Additional qualities that would be GREAT to have:
+Prior management experience
+Property/casualty insurance domain experience
+Expertise in Natural Language Processing (NLP) or Artificial Intelligence/Machine Learning (AI/ML)
+Bachelor’s/Graduate degree in Applied Math, Statistics, Computer Science or other technical domain
+Now that’s covered, what’s in it for you?
+Work for a company (and team) that values its people
+Hybrid-schedule flexibility and work/life balance
+Career development and tuition assistance
+Work in a growing industry for an established Fortune 500 company
+Competitive pay and benefits
+Paid Time Off (PTO)
+Retirement and Health Savings Account (HSA) contributions
+Employee Stock Purchase Plan available at a discount for employees
+Wellness and mental health programs
+Parental and family leave
+Diverse, inclusive, and welcoming culture
+If you’d like more information, here are the rest of the job details:
+Participates in and oversees the Data Science team in analyzing internal and external data and performing statistical modeling. Recommends action plan to the business:
+Ensures the determination of requirements and project plans. Establishes priorities and ensures progress.
+Evaluates project status and resource utilization and implements changes to improve the team's effectiveness.
+Responsible for performance and coaching of staff and decisions regarding talent selection, development, and performance management. Ensures new members of the team receive proper training.
+Ensures that the team meets performance targets.
+Performs other duties as assigned.
+Business Unit:
+Business Data and Analytics

@@ -1,0 +1,24 @@
+Atomic AI, Inc. is a well-funded, early-stage biotech company transforming the rational design of molecules and medicines through the cutting-edge fusion of artificial intelligence and structural biology. Atomic's unique R&D platform, based on research featured on the cover of Science, provides new strategies to treat or cure previously undruggable diseases by targeting RNA structure. We are an interdisciplinary team working across computational and experimental biology and believe that our strongest asset is our people.
+The opportunity
+As a full-time Engineer on the Machine Learning team, you will work closely with computational and experimental scientists to advance our R&D technology platform for RNA structure prediction, target identification, and early drug discovery. You will optimize and deploy novel machine learning models and develop efficient pipelines to harness different data modalities. You will contribute new ideas and realize their potential as part of a continuously advancing state-of-the-art platform. As an early employee, you will proactively shape the direction of our machine learning efforts and of the whole company.
+At Atomic AI, you will be an execution-focused self-starter with a passion for scientific research and a positive attitude when facing challenges. You will prioritize effectively amidst complexity, adapt nimbly to changing conditions, and grow outside of your comfort zone. You will collaborate thoughtfully and promote the success of all team members.
+Primary responsibilities
+Optimize and deploy novel machine learning models for RNA structure prediction and drug targeting.
+Develop efficient and scalable data pipelines.
+Establish automated processes to continuously evaluate and improve our RNA structure prediction platform.
+Develop high-quality code in a team setting.
+Analyze, interpret, and organize results and present progress to colleagues in regular research meetings.
+Work within a collaborative, high-caliber, interdisciplinary team and proactively shape the scientific and strategic vision of the company.
+About you
+Ph.D., M.Sc., M.Eng., B.Sc., or B.Eng. in Computer Science, Physics, Statistics, Applied Mathematics, Materials Science, Computational Biology, or related field.
+3+ years of experience in machine learning infrastructure, pipeline building, distributed training, and deployment.
+Experience with different deep learning models in the context of industry or academic research.
+Proficiency in Python and deep learning frameworks (e.g., PyTorch).
+Ability to write clean and performant code.
+Excellent presentation and writing skills, ability to clearly communicate technical information to colleagues.
+Pluses
+Publications at major machine learning conferences or in major scientific journals.
+Experience in deep learning method development.
+Previously worked on projects related to structural biology, molecular design, or drug discovery.
+Foundational knowledge of physics, chemistry, and molecular biology.
+Atomic AI is committed to equal employment opportunity regardless of race, color, ancestry, national origin, religion, sex, age, sexual orientation, gender identity and expression, marital status, disability, or veteran status.

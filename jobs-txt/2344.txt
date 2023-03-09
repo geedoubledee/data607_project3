@@ -1,0 +1,43 @@
+Overview:
+The Business Intelligence Developer (BID) assists in design, implements content, and analytics tools within the EHR environment and data visualization tools. This person works full time to meet end-user data needs and is a part of the Analytics team. Analyzes and defines report requirements; documents specifications, designs, develops, tests, implements, and maintains operational reports for content areas they support. Participates in new module or new application implementation and upgrades, and will act as a liaison between departmental staff, Information Systems staff for all facilities and the application vendors.
+Responsibilities:
+Safety
+Manages processes effectively regarding employee/patient safety.
+
+Record Keeping
+Maintains all required records, reports, statistics, logs, files, and other documents, using the ITSM system as required.
+
+Process Improvement
+Promotes a culture of process improvement by participating in unit/department-based programs that supports the system’s process improvement goals.
+Actively participates on system-wide or hospital-based teams as needed.
+
+Role Specific Responsibilities
+Implements reporting content and analytics tools
+Works with subject matter experts and project application teams to identify the needs of report consumers; prioritizes and implements new reports and change requests
+Works with subject matter experts and business intelligence developers to design specifications for custom report requests and extracts
+Uses reporting workbench extract framework to build/deliver in-scope extracts
+Follows and enforces the Cogito Analytics Catalog and associated metadata standards
+Responsible for setting up/modifying in-scope SlicerDicer data models with the direction of the Business Intelligence Developers
+Assists the principal trainer with developing training curriculum and training power reporting users. If a principal trainer is not staffed, the BID will provide end-user training as needed.
+Works with Application Analysts to test and validate reports after installation and implementation of system patches, service utilities and version upgrades as assigned
+Maintains data integrity and security for assigned applications and systems
+Develops communication related to education efforts for deployments, upgrades, optimizations and other reporting changes as assigned
+Partners with quality, operational, and business leaders on report design and optimization to meet quality, safety, financial and efficiency needs
+Performs other related duties as assigned
+Familiar with standard concepts, practices, and procedures within the field
+Regular and predictable attendance is an essential job function
+Work directly with report consumers to identify needs, and meet those needs with Reporting Workbench, Radar, Registries, Metric Framework, Pulse, Crystal Reports and/or Data Visualization Tools
+Manage the Report Request Intake Process
+Competent to meet age specific needs of the unit assigned
+Qualifications:
+Education
+Bachelor’s degree in Business or IT or related field; or, 4 years of equivalent IT or business experience required
+Licenses and Certification
+Relevant job-related as applicable
+EPIC Cogito certification/accreditation required or completed within 90 days of hire. Must remain current in certification.
+Experience and Skills
+Technical Experience: 3 years of analytics, SQL experience and developing in data visualization tools highly preferred.
+Knowledge of healthcare information systems - 2 years of experience in a hospital and/or clinic setting preferred.
+COVID VACCINATION
+
+#PIQCorp

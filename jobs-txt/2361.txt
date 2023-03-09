@@ -1,0 +1,90 @@
+Data Science Manager
+School of Public Health - Health Policy and Management
+77518BR
+University Job Title
+Principal Data Scientist
+Bargaining Unit
+None - Not included in the union (Yale Union Group)
+Time Type
+Full time
+Duration Type
+Fixed
+If Fixed Duration, Period
+2 years from date of hire
+If Fixed Duration, is continuation possible?
+Yes
+Other Fixed Duration Date
+28-Feb-2024
+Compensation Grade
+Administration & Operations
+Compensation Grade Profile
+Senior Manager; Senior Program Leader (27)
+Wage Ranges
+Click here to see our Wage Ranges
+Work Location
+Medical School Campus
+Worksite Address
+37-55 College Street
+New Haven,, CT 06510
+Work Week
+Standard (M-F equal number of hours per day)
+Searchable Job Family
+Computing and Information Systems, Research/Support
+Total # of hours to be worked:
+37.5
+Position Focus:
+Lead the design and construction of a scalable Medicaid data platform. The platform will extract, transform, and load Medicaid data from multiple states, enrich the data for analysis, and automatically generate standard analytic files that conform to researcher needs. The Lead Data Scientist will maintain and extend an existing data platform in conjunction with senior faculty and other team members, and will be responsible for developing and maintaining the protocols for data management, data repository development, and data validation. In addition, the Lead Data Scientist will oversee the work standards of all research staff within the division who enter, manage, verify, or monitor the data.
+
+Serve as the Medicaid Research Group expert in data science and database design with a focus on building scalable solutions to big data problems in health care. The position will lead the design and construction of a unique-to-academia Medicaid data platform that automates the process of extracting, transforming, and analyzing the standard datasets many healthcare researchers rely on (e.g. administrative claims data). The platform will expand Medicaid research output at Yale and facilitate a broad set of collaborations with external researchers, Medicaid stakeholders, and policymakers.
+
+This individual’s initial focus will be to build scalable solutions that support ongoing research into Medicaid managed care. But, a key role for this person will be to work with other YSPH faculty and researchers to understand their needs and identify opportunities to adapt the Medicaid data platform to serve a broader audience.
+
+Primary Duties:
+1. Serve as primary lead in the development and maintenance of the Medicaid data platform, a data repository and codebase currently in the planning stages.
+2. Design data platform architecture, including details ranging from folder structure and file storage to data dictionary maintenance and building a codebase to extract, transform, and load new data into a standardized format for enrichment and analysis.
+3. Manage and construct limited use de-identified datasets for permitted, shared use, overseeing proper authorization for data use agreements and secure release of information from the repository according to regulatory policy.
+4. Use statistical computer programs (i.e. Python) and existing database programs to construct data and build models to predict the impact of health care policies on coverage and costs.
+5. Supervise students and staff members directly and indirectly; influences and oversees the work standards of all research staff within the division who enter, manage, verify and monitor data.
+6. Develop and maintain data systems designed to ensure that databases used for research projects comply with administrative policies, procedures and requirements set forth by both the incumbent as well as the Research Office, Institutional Review Boards, Office of Research Oversight and the data security guidelines outlined by the Information Security and Compliance Offices, as well as overseeing proper authorization for data use agreements and secure release of information from the data repository according to regulatory policy.
+7. Develop materials and processes to onboard new team members and ensure smooth transitions for team members that move to new projects.
+8. Research and propose best analytic practices for ambiguously-scoped data platform components via code reviews, improve the work of other team members.
+Essential Duties
+1. Leads development and execution of new and/or highly complex algorithms and statistical predictive models and determines analytical approaches and modeling techniques to evaluate potential future outcomes. 2. Establishes analytical rigor and statistical methods to analyze large amount of data, using advanced statistical techniques and mathematical analyses. 3. Manage highly complex analytical projects from data exploration, model building, performance evaluation. 4. Apply in-depth knowledge of systems and products to consult and advise on additional efforts across organization/enterprise. 5. Motivates Project members and probe into technical details, and mentors’ others to do the same. 6. Provide thought leadership and direction of analytic solutions, tools and studies. Anticipate and solve strategic and high-risk business problems with broad impact on the business area by applying leading-edge theories and techniques to investigate problems, detect patterns and recommend solutions. 7. Provides guidance to develop enterprise-wide analytics strategy and roadmap. Interact with internal and external peers and management to share highly complex information/solutions related to areas of expertise and/or to gain acceptance of new or enhanced technology/ business solutions.
+Required Education and Experience
+Master's degree in Quantitative or related Field and minimum four years of progressively complex related experience.
+Required Skill/Ability 1:
+Mastery of at least one analytic framework (R, Python, Julia) with a very strong preference for Python.
+Required Skill/Ability 2:
+Ability to deal well with ambiguity and act with autonomy.
+Required Skill/Ability 3:
+Excellent problem solving and communication skills.
+Required Skill/Ability 4:
+Strong attention to detail.
+
+Preferred Education, Experience and Skills:
+Health policy research experience. Experience working with Medicaid data. Knowledge or experience with software engineering processes (such as agile software development) a plus.
+Weekend Hours Required?
+No
+Evening Hours Required?
+No
+Drug Screen
+No
+Health Screening
+No
+Background Check Requirements
+All candidates for employment will be subject to pre-employment background screening for this position, which may include motor vehicle, DOT certification, drug testing and credit checks based on the position description and job requirements. All offers are contingent upon the successful completion of the background check. For additional information on the background check requirements and process visit "Learn about background checks" under the Applicant Support Resources section of Careers on the It's Your Yale website.
+COVID-19 Vaccine Requirement
+Thank you for your interest in employment at Yale University. Please also note that the university has a COVID-19 vaccination and booster requirement for all students, staff & faculty which is described in the COVID-19 Vaccine Program. As you search our open positions, you will see that all postings list their on-site addresses which gives more detail on the on-campus work location of the role.
+Posting Disclaimer
+The intent of this job description is to provide a representative summary of the essential functions that will be required of the position and should not be construed as a declaration of specific duties and responsibilities of the particular position. Employees will be assigned specific job-related duties through their hiring departments.
+EEO Statement:
+University policy is committed to affirmative action under law in employment of women, minority group members, individuals with disabilities, and protected veterans. Additionally, in accordance with Yale’s Policy Against Discrimination and Harassment, and as delineated by federal and Connecticut law, Yale does not discriminate in admissions, educational programs, or employment against any individual on account of that individual’s sex, sexual orientation, gender identity or expression, race, color, national or ethnic origin, religion, age, disability, status as a special disabled veteran, veteran of the Vietnam era or other covered veteran.
+Inquiries concerning Yale’s Policy Against Discrimination and Harassment may be referred to the Office of Institutional Equity and Accessibility (OIEA).
+
+
+W.L. Harkness Hall, 3rd Floor, Room 303
+100 Wall Street, New Haven CT 06511
+203-432-0849
+equity@yale.edu
+Note
+Yale University is a tobacco-free campus

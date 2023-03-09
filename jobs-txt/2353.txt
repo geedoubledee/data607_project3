@@ -1,0 +1,86 @@
+Awarded the Best Place to Work 2021, Blue Cross Blue Shield of Arizona helps to fulfill its mission of improving the quality of life of Arizonans by delivering a variety of health insurance products and services to meet the diverse needs of individuals, families, and small and large businesses as well as providing information and tools to help individuals make better health decisions.
+This position is remote within the state of AZ only. This remote work opportunity requires residency, and work to be performed, within the State of Arizona.
+The Business Intelligence (BI) Developer is responsible for the design, creation, and maintenance of sustainable reporting
+solutions to support data-driven decisions. Drives significant analytic initiatives in support of business strategies.
+Develops an understanding of business processes and operational tools in order to create meaningful reporting designs.
+Responsible for the analysis of business data needs and develops the required data modeling. Designs and develops
+creative and interactive data visualizations. Partners with business leaders across the organization to support and
+implement high-quality, data-driven solutions. Assists IT with collecting and storing operational data from source systems.
+Stays current on all processes, techniques, tools, and industry best practices to ensure BlueCross BlueShield of Arizona
+is at the forefront of Business Intelligence solutions.
+REQUIRED QUALIFICATIONS
+1. Required Work Experience
+2 years of Business Intelligence experience
+3 years of Data Analytics, Dashboarding, Reporting, or Analysis experience
+2. Required Education
+High-School Diploma or GED in general field of study
+3. Required Licenses
+N/A
+4. Required Certifications
+N/A
+PREFERRED QUALIFICATIONS
+1. Preferred Work Experience
+5 years of Business Intelligence experience
+5 years of Data Analytics, Dashboarding, Reporting, or Analysis experience
+2 years Operational experience
+2. Preferred Education
+Bachelor’s Degree in Data Science, Business, or related field
+3. Preferred Licenses
+N/A
+4. Preferred Certifications
+N/A
+ESSENTIAL JOB FUNCTIONS AND RESPONSIBILITIES
+Partner with business leaders and SMEs to understand reporting and analytics needs within their functions.
+Gather, document, and analyze business reporting requirements.
+Map business requirements to source data structures and develop data models from data located within multiple data stores utilizing data solutions such as SQL or Snowflake.
+Design, build, and maintain dashboards visualizations using BI applications such as Tableau or Domo.
+Ensure dashboards are creatively designed and tell a story behind the data.
+Analyze report data for accuracy and report on potential quality errors.
+Participate in peer review process to ensure all reports are accurate prior to distribution.
+Partner with business owners to prioritize projects to ensure the most important items are being successfully addressed.
+Partner with IT to identify and store required data sets.
+Partner with stakeholders to plan, communicate and deliver data visualizations successfully and on time.
+Provide regular communications on the status of assigned items, both currently being worked and those in the backlog.
+Provide ongoing analytics expertise and insights into data trends across the operational segments.
+Lead and facilitate dashboard demonstration and educational sessions
+Provide ad-hoc data analysis and support to business functions.
+Perform all other duties as assigned.
+The position requires a full-time work schedule. Full-time is defined as working at least 40 hours per week, plus any additional hours as requested or as needed to meet business requirements.
+REQUIRED COMPETENCIES
+1. Required Job Skills
+Advanced skills in data applications such as Tableau, SQL, Power BI, ETL
+Ability to display complex quantitative data in a simple, intuitive format to present findings in a clear manner
+Creativity in designing data visualizations
+Strong understanding of data structures that ease the generation of reliable data
+Strong analytical skills.
+Proficient Data mining and normalization skills
+Ability to multitask, prioritize, and manage time efficiently
+Adaptability / ability to manage change
+Must be articulate and able to communicate with employees at all levels across the organization, from front-line
+worker to executives
+Proficiency in spreadsheet, database and word processing software
+2. Required Professional Competencies
+Results focused with successful record of accomplishments
+Ability to manage multiple priorities
+Maintain confidentiality and privacy
+Ability to maintain positive work relationships
+Ability to complete tasks with limited supervision
+Ability to think about customer and employee needs when evaluating possible solutions
+3. Required Leadership Experience and Competencies · N/A
+PREFERRED COMPETENCIES
+1. Preferred Job Skills
+Advanced skills in data applications such as Domo and Snowflake
+Moderate planning and project management skills
+Knowledge of statistical concepts and capabilities.
+Data collection and warehousing knowledge
+Knowledge of healthcare industry.
+Advanced PC proficiency
+2. Preferred Professional Competencies
+Thorough knowledge of the company’s needs, policies and culture
+Handle multiple and frequently changing priorities
+Think analytically and problem solve independently
+3. Preferred Leadership Experience and Competencies
+N/A
+Our Commitment
+BCBSAZ does not discriminate in hiring or employment on the basis of race, ethnicity, color, religion, sex, sexual orientation, gender identity, national origin, age, disability, protected veteran status or any other protected group.
+Thank you for your interest in Blue Cross Blue Shield of Arizona. For more information on our company, see azblue.com. If interested in this position, please apply.

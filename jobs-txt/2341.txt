@@ -1,0 +1,43 @@
+The Position
+Data Scientist
+Full-time position (Indianapolis or Sant Cugat)
+Diabetes is a pesky monster — and that’s putting it mildly. If you’re serious about helping us face it head-on, come join us!
+Being a global leader in integrated Personalized Diabetes Management (iPDM), Roche Diabetes Care collaborates with pioneers around the globe, including people with diabetes, caregivers, healthcare professionals, and payers. We aim to transform and advance care provision and foster sustainable care structures. Under the brands RocheDiabetes, Accu-Chek, and mySugr, comprising glucose monitoring, insulin delivery systems, and digital solutions, we unite with our partners to create patient-centered value. By building and collaborating in an open ecosystem, connecting devices, and digital solutions as well as contextualizing relevant data points, we aim to support the optimization of therapy and enable better-informed therapy decisions.
+For a behind-the-scenes look, check out our Roche code4life to see what makes Roche Diabetes Care tick.
+Here’s what we’re looking for:
+You are a hands-on analyst who is able to dive quickly into Real World Data from various sources.
+You apply your experience in mathematical modeling and machine learning methodologies and model selection to drive discovery and refinement of models.
+You contribute your technical knowledge as a foundation for product decisions, identify and drive improvements.
+You demonstrate strong collaboration and communication skills, as well as an entrepreneurial mindset, to transform the way we use data and analytics.
+You understand and practice the protection of personal and confidential data.
+Reporting to the Global Head of Algorithms and Advanced Analytics, you will have an essential part in contributing to the Roche Diabetes Care success story. As a Data Scientist on this team, you will participate in various innovation and development teams based on project priorities.
+Your upcoming mission:
+DEVELOP ALGORITHMS AND INSIGHTS: You will determine the data necessary to answer the research question, and access the data from diverse sources.
+PRODUCE HIGH QUALITY ANALYSES: You will apply statistical analysis and advanced analytical methods (AI/ML) that are problem appropriate.
+INTERPRET AND SHARE RESULTS: You will share findings with internal stakeholders and scientific communities; publish results; and participate in external conferences.
+COLLABORATE & SHAPE: You will collaborate within Roche Diabetes Care and the broader Roche community and with external partners.
+Essential skills for this mission:
+MSc, PhD or similar qualification in a quantitative discipline (e.g., statistics/ biostatistics, physics/engineering disciplines, computer science, mathematics).
+Knowledge and experience in data sciences (statistics, machine learning)
+Demonstrable experience working proactively and delivering results in a fast-moving, dynamic environment with significant uncertainty.
+Strong technical depth in at least one Data Analytics area (statistical techniques, machine learning, data visualization) and an eagerness to learn other areas.
+Fluency in two or more statistical programming languages (SAS, R, Python, Matlab).
+Strong collaboration skills and excellent communication skills
+Entrepreneurial mindset and self-direction, with a servant leadership disposition.
+Ability to work in a matrix environment with global, team members coming from different disciplines (e.g. business, operations, etc.)
+Bonus skills:
+PhD in a quantitative discipline
+Experience analyzing large data sets using appropriate tools (SQL, parallelization, Hadoop, Spark, etc.)
+Knowledge and experience in the healthcare field.
+Here's what you can expect from us:
+We are ambitious and passionate people building meaningful products.
+We actively promote personal and career development so if you like writing blog posts, contributing to open source projects, or are an active participant and/or speaker at conferences and meet-ups, we are here to support you.
+An innovative agile working environment allowing for collaboration and knowledge sharing in cross-functional teams
+Hybrid home office/on-site working model.
+Loads of benefits (brand new Apple hardware, training, etc. ...)
+Oh, and did we mention the best team in the world!
+Here at Roche Diabetes Care, we are committed to providing a healthy, equal, and inclusive working environment for our employees! We care about family-friendly career paths, sustainability, a healthy lifestyle, and the flexibility of a modern workplace. We maintain a culture of learning and sharing, as well as open and candid feedback. At every level, there are many opportunities to develop and grow at Roche Diabetes Care - both professionally and personally.
+Who we are
+At Roche, more than 100,000 people across 100 countries are pushing back the frontiers of healthcare. Working together, we’ve become one of the world’s leading research-focused healthcare groups. Our success is built on innovation, curiosity and diversity.
+Unless entitled to a reasonable accommodation under applicable law, employees are required to be fully vaccinated against COVID-19 in accordance with customer requirements, the company’s health and safety obligations and/or applicable law or guidelines.
+Roche is an equal opportunity employer and strictly prohibits unlawful discrimination based upon an individual’s race, color, religion, gender, sexual orientation, gender identity/expression, national origin/ancestry, age, mental/physical disability, medical condition, marital status, veteran status, or any other characteristic protected by law. If you have a disability and need an accommodation in connection with the on-line application process, please email us at US.Accommodation@roche.com.

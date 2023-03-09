@@ -1,0 +1,28 @@
+At Unfold, we are specifically focused on the vertical farming industry and its unique growing requirements. Putting taste, color, texture, flavor, nutrition (and more) is at the center of our seed development. Together, we are seekers and explorers on the roads of reimagination. Unfold welcomes others who love feeding their curiosity as much as they thrive on feeding the world. Join us in pushing the boundaries of what's possible tomorrow by working hard on what can be done today –with HOPE.
+Working as a member of the Software Engineering team, you will build data pipelines for our predictive plant breeding platform and architect infrastructure to scale our rapidly growing data set. You will combine raw data from scientific experiments, high-throughput plant screening systems, and customer and partner data into consistent and machine-readable formats. You will develop and test architecture that enables data to be easily extracted and transformed for predictive modeling. Data is the centerpiece of our long-term vision and our day-to-day operations.
+Major Responsibilities
+Own maintenance and development of core SQL databases that contain genetic, phenotypic, and environmental data about growing plants
+Implement innovative quantitative solutions that advance plant breeding alongside our team of data scientists and software engineers
+Transform raw data produced by our R&D farm, customers, and partners into authoritative sources for all facts about the business
+Use the latest machine learning data stack technologies to deploy services that enable predictive breeding that produce better vegetables
+Explore ways to enhance data quality, reliability, and usability
+Identify opportunities for data acquisition
+Collaborate with data scientists and architects on several projects
+Required Qualifications
+Previous experience as a data engineer or in a similar role writing production-quality code
+Technical expertise with data models, data mining, and segmentation techniques
+Experience working with fast-growing data sets that quickly scale and how to keep the data healthy as it grows
+Strong programming experience in SQL and Python
+You are passionate and experienced with data pipelines, ETL, exploratory data analysis, and/or data visualization
+Degree in Computer Science, IT, or a similar field; a Master's is a plus
+Data engineering certification (e.g., IBM Certified Data Engineer) is a plus
+Desired Qualifications
+Experience with Google Cloud Platform, Airflow, and Looker
+Working experience in Agile Scrum environments
+Experience with source control tools such as Git.
+Direct experience working in a start-up environment, or a mature appreciation for the opportunities and challenges arising in such an environment
+The pay range for this position allows for a salary range of $115,293 - $173,939/yr; however, the base pay offered may vary depending on job-related knowledge, skills, and experience.
+We are committed to keeping employees healthy, motivated, focused, and creative both inside and outside the office. We recognize the value of comprehensive benefits to employees and their families; therefore, we offer a competitive compensation and benefits program including 100% covered employee medical, dental, and vision insurance (75% for dependents), 100% covered life insurance policy, unlimited PTO policy, a $50 monthly commuter benefit, a $100 monthly wellness benefit, 14 company paid holidays plus an end of year shutdown, paid pregnancy and parental leave, and the option to enroll in FSA & DCFSA accounts, as well as individual training and development opportunities. The list above details our current available benefits. However, we are continuously working to improve our offerings by listening to our team as we design and update them.
+Unfold values the health and welfare of our employees; therefore, any newly hired candidate must provide proof of COVID-19 vaccination prior to the start of their employment. If you wish to request an accommodation due to a disability or a qualifying medical condition that contraindicates the vaccination, or you object to being vaccinated on the basis of sincerely held religious beliefs and practices, Unfold will engage in a process to determine if a reasonable accommodation can be provided.
+Unfold is committed to making the job application process accessible to everyone. If you are living with a disability (visible or not visible) and need to request a reasonable accommodation for any part of the application or hiring process, please let us know so we can accommodate you.
+Unfold is committed to promoting a culture of diversity, equity, and inclusion. We believe that all Unfold employees share the responsibility of upholding our commitment to these values and encourage candidates from a wide range of backgrounds, perspectives, and lived experiences to join us in our mission of reimagining the nature of how we sow, grow, and know plants so that we can all work together to create a world in which the freshest, most nutritious, most delicious produce is available to every person on our planet. Unfold does not discriminate based upon race, religion, color, national origin, gender (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender identity, gender expression, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics.

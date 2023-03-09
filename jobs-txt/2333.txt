@@ -1,0 +1,40 @@
+About Us
+Twitch is the world's biggest live streaming service, with global communities built around gaming, entertainment, music, sports, cooking, and more. It's where millions of people come together to chat, interact, and make their own entertainment.
+We're about community, inside and out. You'll find coworkers who are eager to team up, collaborate, and smash (or elegantly solve) problems together. We're on a quest to empower live communities, so if this sounds good to you, see what we're up to on LinkedIn and Twitter, get interviewing tips on Instagram, and discover projects we're solving on our Blog.
+About the Role
+Amazon Interactive Video Service (IVS) is a managed live video service, within Amazon Web Services (AWS), built on top of Twitch Video. It has one of the world's largest live video networks. IVS powers the many companies that are using live video to uniquely engage and build communities, just as it does for Twitch, where more than a billion hours are streamed live each month.
+The IVS Video Intelligence team, a central data team for all of IVS, is looking for an experienced Senior Machine Learning Engineer to create a strategic impact for the entire IVS business. As part of the team, you will develop models of our live video infrastructure that show us how to provide a better experience to viewers and broadcasters, and create production services to deploy them in a stable and observable way. You will report to the Head of Data & Applied Science in IVS.
+If you are experienced in developing applications with predictive components and have a passion for deep technical problems at consumer web scale, come help us grow an enterprise cloud service. You will work in our San Francisco office, but we will also consider other locations including Seattle (WA), Los Angeles (CA), or US-Virtual.
+You Will:
+Deliver production services that deploy machine learning models
+Invent new models for our video network infrastructure to give live video broadcasters and viewers a better overall experience
+Become a domain expert real-time video streaming tracking and measurement, building trust with your product and infrastructure partners.
+Mentor junior team members and promote analytics and experimentation best practices throughout the company.
+You Have:
+At least 3 years of experience building and deploying predictive analytics (machine learning models) in production systems.
+At least 1 years of experience in a senior technical role. You have created and led technical programs in your current role.
+Excellent statistical knowledge.
+Expert SQL skills, so you can quickly tap into our data sources.
+Proficient with at least one compiled language (e.g. Go, C++, Rust).
+Proficient with at least one scripting language (e.g. Python, Ruby, Bash).
+Bonus Points
+Experience working with global network infrastructure, in particular real-time video streaming event data.
+Passion for live streaming video and online communities.
+PhD in computer science, mathematics, physics or other analytical fields.
+Perks
+Medical, Dental, Vision & Disability Insurance
+401(k), Maternity & Parental Leave
+Flexible PTO
+Commuter Benefits
+Amazon Employee Discount
+Monthly Contribution & Discounts for Wellness Related Activities & Programs (e.g., gym memberships, off-site massages, etc.),
+Breakfast, Lunch & Dinner Served Daily
+Free Snacks & Beverages
+
+We are an equal opportunity employer and value diversity at Twitch. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.
+Pursuant to the San Francisco Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.
+Pursuant to the Los Angeles Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.
+The base pay range for this position in Colorado, Connecticut and Washington is $167,100 - $226,100 yr and in New York City is $183,800 - $248,700 yr. Pay is based on market location and may vary depending on job-related knowledge, skills, and experience. A sign-on payment and restricted stock units may be provided as part of the compensation package, in addition to a full range of medical, financial, and/or other benefits, dependent on the position offered. Applicants should apply via Twitch's internal or external careers site.
+Workers in New York City who perform in-person work or interact with the public in the course of business must show proof they have been fully vaccinated against COVID or request and receive approval for a reasonable accommodation, including medical or religious accommodation.
+Job ID: TW7177
+#LI-Remote #RemoteFriendly

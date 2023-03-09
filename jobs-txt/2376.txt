@@ -1,0 +1,61 @@
+Elutions is a global Enterprise Artificial Intelligence & Automation company, empowering clients to drive continuous efficiency, cost and quality improvements whilst achieving environmental sustainability goals. As the global leader in our industry, we are constantly on the lookout for go-getters, people who aren't afraid to work hard, but have fun at the same time. Those who join our team aren't just bright, they are eager to develop and hone their skills every day, all while making a significant difference in the world.
+
+We are seeking a talented Senior Data Science Manager who will manage strategic projects, act as a team lead by mentoring project leads and play the role of advisor to our business in matters of data science and machine learning. The role will lead a team of data scientists that provide solutions to all business verticals within Elutions. The manager is insatiably curious about data and uses that passion to find insights hidden within the trillions of operational datapoints we have access to.
+
+Data Scientist Responsibilities:
+Perform exploratory data analysis and statistical modelling with high quality data handling techniques
+Collaborates with stakeholders throughout the business to understand existing processes and identify opportunities for leveraging data to drive solutions.
+Provides leadership and mentoring to the Data Management team and meets with team members on a regular basis.
+Helps with the Data Management prioritization of requests, projects and support efforts. Communicates updates on a regular basis to all levels of the organization.
+Serves as critical cross-functional escalation point of contact for data management organization.
+Provides data management leadership with regular updates on projects and support including metric reporting.
+Keeping skills current by learning new algorithms, programming languages, and techniques. Ensuring the same for direct report employees.
+Recommends training opportunities to further advance individuals and the Elutions Data Science practice.
+Create meaningful data visualizations to communicate findings using python, PowerBI, etc.
+Designs and builds custom AI driven data models and algorithms to optimize products and processes.
+Perform feasibility, impact, technical risks and gap analysis.
+Apply new mathematical methodologies to achieve specific models or analysis.
+Create scalable model applicable to real time problems overcoming data barriers.
+Incorporate process of continuous improvements into day-to-day tasks, aiming for quality refinements in statistics and data handling methods.
+Troubleshoot problems and quality assurance in the processes with timely quality/ maintenance checks.
+Update existing code to support ongoing analytic applications. Update, maintain and document existing work.
+Collaborate with Research & Insights, Product Development, IT and other teams to conceptualize and implement analytic software from start to finish.
+Design and deploy highly scalable ML architectures as solutions in Oil & Gas, Manufacturing, Retails industries.
+Integrate ML software into Maestro, our AI Platform, with a professional software engineering team.
+Perform other duties and projects as directed.
+
+Required Knowledge, Skills, and Abilities:
+Bachelor’s degree or equivalent experience.
+3+ years of experience with SQL and relational databases.
+3+ years of exposure to cloud and big data technologies.
+3+ years in Data Bricks and Python.
+3+ years in managing direct reports or 5+ as a team lead.
+5+ years in developing ML models.
+5+ years of experience as a Data Scientist, Quantitative Analyst, Statistician or similar role is required.
+Previous experience working on Machine Learning projects and problems in the classroom/industry
+Solid understanding of data structures, algorithms, computability and complexity, and computer architecture.
+Solid understanding of probability, statistics, distributions, and analysis methods.
+Knowledge of programming languages such as Python, R and SQL.
+Knowledge of Machine Learning tools, libraries, and APIs such as numpy, pandas, scikit-learn, TensorFlow and Spark and apply them to effectively choose a proper model.
+Ability to work with unstructured data.
+Ability to model and evaluate data sets to determine useful patterns.
+Interface effectively with customers, other departments and managers to resolve industries customer problems and issues.
+Experience with Deep Learning and Linear Programming a plus.
+
+Educational Requirements:
+Minimum of Bachelor’s degree in one of the following disciplines (or similar): Computer Science, Statistics, Data Science, Advanced Mathematics, Machine Learning
+Master’s degree preferred
+Certifications preferred
+
+Workplace Culture & Benefits
+Emphasis on team-first culture, with a significant amount of collaborative interdepartmental project work
+Focus on team building and socializing, hosting several team focused events per quarter and monthly happy hours
+Significant opportunities for merit-based upward mobility and promotion within the team
+Very active and highly accessible leadership team that is heavily involved in day-to-day operations
+Full benefits package available (medical, dental, vision, long & short-term disability, life insurances)
+Ability to save in 401k
+Generous holiday schedule
+Significant accommodation for familial commitments (family-first focus)
+Opportunities for flexible schedule (Work from home)
+Casual dress in-office environment
+Pet friendly work environment

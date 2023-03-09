@@ -1,0 +1,37 @@
+The Trade Desk is a global technology company with a mission to create a better, more open Internet for everyone through principled, intelligent advertising.
+
+Handling over 600 billion queries per day (more than 100X the query volume of search globally), our platform operates at unprecedented scale. We have also built something even stronger and more valuable: an award-winning culture based on trust, empathy, collaboration, and ownership. By working together across typical dividing lines, we are better as a team than any of us could be apart.
+Do you have a passion for solving hard problems at scale? Are you eager to join a trust-based, globally-connected team, where your contributions will make a meaningful difference?
+
+Come and see why Fortune Magazine consistently ranks The Trade Desk among best small-medium sized workplaces globally.
+ABOUT THE ROLE
+Managers of Data Science lead their teams to higher levels of productivity. They collaborate with their team to find what works and what changes should be made to optimize for the long term.
+Managers of Data Science actively participate in all aspects of product strategy. For data-driven products, managers have end-to-end ownership including designing, building, and delivering customer-facing products.
+Depending on your interests and background, you will tackle problems related to natural language processing and machine learning over hundreds of millions of web pages; graph mining and algorithmic optimization on petabytes of data; and causal inference with missing data.
+You have the necessary skills to roll up your sleeves and jump into data with your fellow data scientists. You can lead by example and bring your team to a solution.
+Managers of Data Science contribute to more than our product–they build up a team built on a foundation of generosity and openness. We expect our Data Scientists to help make others better and raise the bar for those around them.
+You will lead a highly productive team and continuously optimize for the long term in collaboration with your team.
+You will support the career growth of your team using your excellent listening skills, effective feedback, and the technical expertise that allows you to match contributors to projects that best develop their skills.
+
+WHO WE ARE LOOKING FOR
+You have a sustained track record of leading data scientists while making significant strategic and tactical contributions to large, impactful software projects. You think beyond just the task at hand to deeply understand the 'why' and convey that vision to your team.
+You have an abundance of curiosity and take a proactive approach to learning and developing new skills.
+You have strong data intuition. At our scale, many off-the-shelf modeling techniques (open source and enterprise) simply don't work. You work from first principles and intuition to develop solutions and adapt them to a unique environment.
+You have a product-focused mindset. You have the passion and ability to contribute to the process of discovering what delights our clients and to move one of the world’s largest and most influential industries toward a vision of openness, transparency, and evidence-based decision-making.
+You work with confidence and without ego. Our data scientists have deep knowledge and exercise a high degree of leadership in their daily work. You have strongly-held, defensible ideas, and advocate for what you believe is right. You are also adept at identifying and evaluating trade-offs, willing to be proven wrong, and quick to support your fellow teammates.
+You value, seek out, and foster diversity. We are a global team with diverse backgrounds, experiences, and perspectives. To complement this team, you will welcome ideas that are different from your own and be skilled at finding and building from common ground.
+You are a creative thinker, not bound by "the way things have always been done." What you know is less important than how well you learn and innovate. We don't need data scientists who know all the answers; we need data scientists who can invent the answers no one has thought of yet, to the questions yet to be asked.
+
+WHAT YOU BRING TO THE TABLE
+You are intellectually curious and enthusiastic to learn (and teach) new technologies / techniques.
+You are you comfortable working on an agile, distributed team spanning multiple time zones and continents.
+You communicate effectively across both technical and non-technical audiences.
+Preferred, a BS/MS with 12 years or a PhD with 8+ years of experience working in a data-driven role. Your demonstrated experience leading productive, impactful data science teams and projects is more important than your level of education.
+You make effective use of big data technologies such as Spark and AWS, write efficient SQL, and are proficient in one or more of the following programming languages: R, Python, Java, or Scala. We do not expect you to know every technology we use when you start. We care that you learn quickly and solve complex problems using the best tools for the job.
+#LI-BM2
+Our Compensation and Benefits (for Colorado residents only)
+Base Compensation Range: $154,300 -$308,600
+In accordance with Colorado law, the range provided is The Trade Desk’s reasonable estimate of the base compensation for this role. The actual amount may be higher or lower, based on non-discriminatory factors such as experience, knowledge, skills and abilities. The Trade Desk also offers a competitive benefits package. Click
+here
+to learn more.
+The Trade Desk does not accept unsolicited resumes from search firm recruiters. Fees will not be paid in the event a candidate submitted by a recruiter without an agreement in place is hired; such resumes will be deemed the sole property of The Trade Desk. The Trade Desk is an equal opportunity employer. All aspects of employment will be based on merit, competence, performance, and business needs. We do not discriminate on the basis of race, color, religion, marital status, age, national origin, ancestry, physical or mental disability, medical condition, pregnancy, genetic information, gender, sexual orientation, gender identity or expression, veteran status, or any other status protected under federal, state, or local law.

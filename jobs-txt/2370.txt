@@ -1,0 +1,51 @@
+Job Summary:
+If you are an outgoing self-starter who enjoys working in a fast-paced environment, then now is the time to join Enertia Software, an industry leader in oil and gas software. As a growing corporation, Enertia is continuously welcoming highly motivated, like-minded individuals with a desire to learn & grow. We offer our employees the best opportunities to create & contribute to a supportive environment. Our progressively open & energetic organization encompasses a fun culture that believes in the importance of the customer experience.
+Enertia Software encompasses a progressive culture & casual environment with an open communication team concept that encourages organic growth. Our competitive salary & benefits package includes 401K with company match, bonuses, dental & medical insurance, prescription drug coverage, paid company holidays & vacations, & job training programs.
+The Business Intelligence Developer will work closely with the Business Intelligence Team to provide business intelligence solutions. This individual should have strong analytical skills, strong communication and organizational skills, and excellent time management abilities.
+Duties/Responsibilities:
+Analyze, design, implement, and support Business Intelligence solutions based on business requirements and technical specifications using the Microsoft BI Platform (SQL Server, SSRS, SSAS Multidimensional, and Power BI)
+Work closely with internal teams, gathering requirements, and translating them into BI solutions
+Collaborate with other BI staff on the team for maximum output and efficiency
+Communicate effectively with technical and non-technical team members
+Education and Experience:
+Bachelor of Computer Science, Information Technology, Information Systems, or related field
+5 years’ experience with the Microsoft BI Stack including SQL Server, SQL Server Reporting Services (SSRS), Analysis Services (SSAS), Integration Services (SSIS) or Power BI
+5 years’ experience developing SSAS Multidimensional (MDX) and Tabular Solutions (DAX).
+Experience with snowflake data warehouse design appropriate for SCD Type 1, 2, or 3
+Understanding of best practices with dimensional design in conjunction of partition and aggregation optimization
+Familiarity with SQL Data Tools within Visual Studios
+Strong Data Validation skills and experience with SSIS package development and deployment
+Ability to read and understand database structures
+Strong self-organization and self-management skills
+Experience with Finance and Accounting concepts
+Exposure to Oil and Gas upstream is a plus.
+Job Type: Full-time
+Pay: $106,560.00 - $112,596.00 per year
+Benefits:
+401(k)
+401(k) matching
+Dental insurance
+Flexible schedule
+Flexible spending account
+Health insurance
+Health savings account
+Life insurance
+Paid time off
+Parental leave
+Vision insurance
+Compensation package:
+Bonus pay
+Yearly pay
+Experience level:
+5 years
+Schedule:
+8 hour shift
+Ability to commute/relocate:
+Houston, TX 77002: Reliably commute or planning to relocate before starting work (Required)
+Experience:
+Business intelligence: 5 years (Preferred)
+SQL: 5 years (Preferred)
+Data warehouse: 5 years (Preferred)
+SSIS: 5 years (Preferred)
+SSAS: 5 years (Preferred)
+Work Location: Hybrid remote in Houston, TX 77002

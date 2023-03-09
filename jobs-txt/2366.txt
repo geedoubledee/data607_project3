@@ -1,0 +1,39 @@
+Role- Business Systems Analyst
+Duration- 12-18+ months contract with possible ext
+Location- FULLY REMOTE
+Visa: Citizen/GC open for c2c
+OVERVIEW
+The Business Systems Analyst will solicit, understand, and document the business requirements, processes and workflows developing both written and visual depictions of requirements and process flows. This includes understanding, documenting, and evaluating business processes through interviewing stakeholders. The business systems analyst elicits, gathers compiles and documents user requirements and translates them into functional requirements for technology solutions with an eye to improving processes and systems, enhancing their sustainability, and delivering maximum return on investment. THEY PERFORM DATA ANALYSIS, DATA MAPPING, AND DATA VISUALIZATION. THEY WORK WITH THE PROGRAMMING AND ARCHITECTURE STAFF IN DESIGNING SOLUTIONS BASED ON FUNCTIONAL REQUIREMENTS INCLUDING CONDUCTING GAP ANALYSIS. THE BUSINESS SYSTEMS ANALYST MUST HAVE AN UNDERSTANDING OF THE BUSINESS, FUNCTIONAL, AND TECHNICAL ASPECTS OF BOTH THE BUSINESS PROCESSES AND THE SYSTEMS USED WITHIN THE PORTFOLIO THEY SUPPORT INCLUDING INTEGRATIONS POINTS AND IMPACTS TO OTHER BUSINESS UNITS/SYSTEMS.
+SKILL QUALIFICATIONS REQUIRED:
+Experience working with IT development staff on complex projects
+Strong technical background
+Strong Data analysis and presentation skills
+Ability to work collaboratively within a team environment to support deadlines
+Ability to handle multiple tasks concurrently
+Proven experience with business and technical requirements analysis, elicitation, modeling, verification, and methodology development
+Ability to influence stakeholders and work closely with them to determine acceptable solutions
+Excellent documentation skills
+Excellent oral and written communication skills
+Fundamental analytical and conceptual thinking skills
+Experience creating detailed reports and giving presentations
+Excellent planning, organizational, and time management skills
+Ability to create systematic and consistent requirements specifications in both technical and user-friendly language
+Exceptional analytical and statistical skills with the ability to apply them to systems issues and products as required
+Experience in in Agile, Waterfall, and Hybrid environments
+Technical understanding of the digital platform, cloud applications, web services, server-side components and APIs
+Data analysis skills including ability to perform intermediate to advanced SQL queries
+Experience in scripting
+Competency in Microsoft applications including Visio, Word, PowerPoint and Outlook. Advanced skill in Excel including formulas, pivot tables, vlookup, and macros.
+Understanding of REST & SOAP Web Service and how to use SoapUI, REST API clients
+EDUCATION AND EXPERIENCE QUALIFICATIONS
+BS or BA with emphasis in computer science, information systems or business administration
+5-7 or more years related work experience
+Job Type: Contract
+Salary: Up to $65.66 per hour
+Schedule:
+Monday to Friday
+Education:
+Bachelor's (Required)
+Experience:
+Business systems analyst: 7 years (Required)
+Work Location: Remote

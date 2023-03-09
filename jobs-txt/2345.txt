@@ -1,0 +1,58 @@
+SUMMARY
+In this role, you will working collaboration with stakeholders from various departments within the organization to provide advanced data-driven solutions, business insights and support decisions. As a data scientist II in the analytics team, you will have a sound knowledge and experience Statistical Models, Data Mining, Machine Learning, building analytical solutions to deliver insights, insights communication and presentation, as well as demonstrating the ability to combine advanced analytics skills with exceptional business acumen. In addition, you will be key to the success of the department’s goal of creating a reliable foundation for ongoing reporting and analytics.
+BEHAVIORALCOMPETENCIES
+Action oriented- Taking on new opportunities and tough challenges with a sense of urgency, high energy, and enthusiasm.
+Customer focus- Building strong customer relationships and delivering customer-centric solutions.
+Communicates effectively- Developing and delivering multi-mode communications that convey a clear understanding of the unique needs of different audiences.
+Decision quality- Making good and timely decisions that keep the organization moving forward.
+Collaborates- Building partnerships and working collaboratively with others to meet shared objectives.
+Nimble learning- Actively learning through experimentation when tackling new problems, using both successes and failures as learning fodder.
+Demonstrates self-awareness- Using a combination of feedback and reflection to gain productive insight into personal strengths and weaknesses.
+MAJOR RESPONSIBILITIES
+Lead and support analytical projects by providing Statistical expertise in study design, statistic modeling, data analysis, outcome interpretation and communication.
+Ability to apply statistics knowledge, develop analytics solutions(descriptive, inferencing, predictive, and prescriptive),and derive insights to support business decisions, and proactively come up with ideas to explore and uncover new findings and improve process efficiency.
+Provides technical development expertise for designing, coding, testing, debugging, documenting, and supporting all types of analytical products consistent with the established specifications and business requirements in order to deliver business value.
+Develop a deep understanding of the key initiative of the organization, and be able to provide analytical solutions that provides actionable recommendations to drive the success of the key initiatives.
+Participates in development of standards, design and implementation of proactive processes to collect and report data and statistics on assigned systems.
+Communicate analytical findings and recommendations in a clear and concise way to non-technical audiences, both in oral and written presentations.
+Work closely with Information Management teams to automate recurring tasks and improve processes to continually increase efficiency
+POSITION QUALIFICATIONS
+Education/Skills
+Master’s degree or PhD in Statistics ,Analytics, Computer Science, Math or a related discipline is required
+Proficiency with programming languages, automation tools and stats packages (e.g. R, python, SAS, hive)is required
+Sound knowledge and experience in Statistical Models and Data Mining is required
+Experience creating and using advanced machine learning algorithms and statistics: regression, simulation, scenario analysis, modeling, clustering, decision trees, neural networks etc.is required
+Experience working in the healthcare setting and utilizing healthcare data to generate insights
+Demonstrate good understanding of healthcare data analytics terminology and concept ,e.g. ICD, CPT, MS-DRG, MDC, LOS, GMLOS, OBS and etc.
+Must demonstrate exceptional analytical skills with business acumen
+Must have communication skills and the ability to develop and present solutions to all levels of management (including executive levels).
+Must have demonstrated the ability to solve complex problems with minimal direction.
+Must be able to interact effectively and patiently with customers especially while under pressure.
+Must be able to manage multiple projects simultaneously to meet objectives and deadlines
+Experience with BI/visualization packages, preferably MicroStrategy
+Ability to establish and maintain positive working relationships with other employees.
+Experience
+Minimum of 2 years of experience, and preferably 3 years of experience, of leveraging advanced analytics to drive business decisions
+Strong background in Statistic modeling and development of analytics solution based on business needs
+Requirements:
+Master's Degree in Statistics, Data Analytics, Math, Computer science
+PHD in Statistics preferred
+Work Type:
+Full Time
+
+Req. No
+54694
+Job Title
+Data Scientist II
+Market
+CHRISTUS System Office
+Category
+Information Technology
+Facility
+CHRISTUS Corp Irving Offices 919 and 909 Buildings
+Address
+919 Hidden Ridge
+Irving, TX 75038
+US
+Type
+FULL TIME

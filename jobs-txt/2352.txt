@@ -1,0 +1,25 @@
+What to Expect
+As a BI Developer, you’ll be responsible for designing data solutions, optimizing our data pipeline architecture, as well as developing infrastructure for data collection in order to support cross functional teams in the Energy Manufacturing Facilities Organization in Fremont, CA. You will also contribute to build internal tools and web services for the Facilities team, including project budgeting, cost control, equipment capacities, utility usage, and project management tools. Your ability to creatively collaborate and execute team goals will affect scalability and directly contribute to the company mission of accelerating the world’s transition to sustainable energy.
+What You’ll Do
+Plan, design, develop, test, implement, and maintain advanced BI applications, reports/dashboards in support of the Facilities team objectives
+Identify, design, and implement internal process improvements: automating manual processes, optimizing data delivery, re-designing infrastructure for greater functionality and scalability
+Build the infrastructure required for optimal extraction, transformation, and loading (ETL) of data from a wide variety of data sources
+Optimize data systems and/or build them from the ground up to support our data initiatives, increase operational efficiency, improve collaboration and knowledge sharing
+Gather, analyze, and document business requirements and translate into technical specifications, prototypes, and end state products
+Work closely with Software Engineers, Data Engineers, Data Scientists, Quality Engineers, and various cross functional team members to design, build, test, and maintain analytics solutions
+What You’ll Bring
+Education: BS/MS in Computer Science, Engineering, Information Technology/Systems, another related discipline, or relevant experience. Additional technical certifications are a plus
+Highly proficient developing with MS Power Platform (Power Apps, Power Automate, Power BI)
+Advanced SQL knowledge and in-depth RDBMS development experience
+Strong knowledge of Data Warehousing and Multidimensional Data Modeling
+A successful history of integrating source systems and delivering self-serve Business Intelligence
+Experience building containerized applications, data pipelines and deploying to public or private clouds, Microsoft Azure, or similar providers
+Experience with data pipeline and workflow management tools (Airflow preferred)
+Experience in web application development, including Implementing Application Programming Interfaces (APIs), Object Oriented Programming and Design (OOP&D), Object Relational Mapping (ORM)
+Experience and knowledge in back-end and front-end: SQL Server, HTML, .Net, Python, REST services, JSON, M query, DAX, MDX, SSAS, etc.
+Self-directed and comfortable supporting the data needs of cross functional teams, systems, and products in a high-pressure environment
+Experience analyzing and documenting business processes
+Preferred
+Microsoft Power Apps + Dynamics 365 Developer Certification is a plus
+Experience creating PowerShell scripts is a plus
+Experience with any of the following preferred: Ignition, Siemens TIA Portal, Profibus, Modbus, Kepware, MySQL, & High Performance HMI best practices

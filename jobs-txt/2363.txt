@@ -1,0 +1,51 @@
+Title:
+Senior ORACLE Database Administrator
+
+POSITION OVERVIEW
+
+Candidate must be US citizen or US permanent resident.
+
+Selected candidate may be able to work remotely from own residence or from any major KBR office locations.
+
+Under broad direction, the successful candidate will function as a Senior Database Administrator within the Global KBR Database team. The successful candidate must be a team player, able to work with minimum supervision and must be willing to work outside regular business hours as needed. This position requires on-call DBA support which operates on a rotating schedule. The successful candidate will be required to maintain compliance with IT governance processes and controls including compliance with KBR database standards.
+
+QUALIFICATIONS:
+Required education, skill, and experience
+
+:
+
+Candidate is preferred to have an undergraduate degree in Computer Science, Management Information Systems, Business Administration or Engineering.
+
+Candidate must have minimum 7+ years DBA experience to include installing enterprise scale Oracle database servers
+
+Must have in-depth experience working in ORACLE Real Application Cluster (RAC/ASM), RDBMS 12c/18c/19c, DATAGUARD, RMAN on Linux and Windows platform
+
+Successful candidate shall be able to build, configure, troubleshoot, monitor, and maintain ORACLE RAC databases with ASM and DATAGUARD environments in Linux platforms in a 24x7 environment with minimum downtime.
+
+Strong troubleshooting, performance tuning, capacity planning and proactive monitoring skill
+
+Strong organizational skills, as well as excellent written and oral communication skills
+
+Ability to work independently and keep management adequately informed
+
+Strong analytical skills and the ability to address complex tasks, consistently deliver to project scheduled completion.
+
+Willing to learn new skills
+
+Major Plus
+
+Microsoft SQL Server and Azure SQL
+
+ORACLE WebLogic, ORACLE APEX, ORACLE FORMS/Reports
+
+ORACLE Multitenant
+
+ORACLE Enterprise Manager
+
+Linux Shell Scripting, Perl, PowerShell
+
+ORACLE Security, Kerberos authentication
+
+In compliance with the U.S. federal government’s vaccine mandate, only candidates who are fully vaccinated for COVID-19 or have a reasonable accommodation or approved medical exception will be considered for this position.
+
+KBR is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, disability, sex, sexual orientation, gender identity or expression, age, national origin, veteran status, genetic information, union status and/or beliefs, or any other characteristic protected by federal, state, or local law.

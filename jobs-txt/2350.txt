@@ -1,0 +1,25 @@
+Job Description :
+Data Scientist Responsibilities:
+Collaborates with translators to define technical problem statement and hypothesis to test; understand business problems to implement scalable and sustainable solutions
+Coordinates with SMEs, translators, IT and data engineers to deliver holistic analytical solutions
+Designs, creates, tests and implements complex models and algorithms that drive analytical solutions throughout the organization
+Regularly tests and maintains analytical models to improve efficiency and keep up with changing business needs, ensuring timely analysis and testing for regular maintenance of solutions over time
+Writes reports articulating the analytics insights and their business impacts
+Conducts and leads meetings and workshops to explain findings
+Supports translators in communicating the design, functioning and output of the analytical models/solutions developed
+Qualifications
+* 3+ years of experience in data science
+* Master’s or other advanced degree in statistics, computer science or data science
+* Proficiency in Python and PySpark and ability to derive insights from terabytes of time series-based data
+* Experience with object-oriented design, coding and testing, engineering software platforms
+* Thorough understanding of machine learning frameworks such as Scikit Learn and Tensorflow
+* Experience in model deployment in Azure or local Python based servers such as Flask, Waitress, Gunicorn
+* Understanding of advanced applied mathematics in AA, artificial intelligence and array operations
+* Comfort in using SQL Server, PostgreSQL/ MySQL, and R
+* Knowledge of programming languages (R, PHP, Python)
+* Experience in industrial industry applications or process industries (chemicals, energy, petroleum refining, mining) preferred.
+Job Type: Contract
+Pay: $77,760.83 - $192,284.19 per year
+Schedule:
+8 hour shift
+Work Location: Remote

@@ -1,0 +1,47 @@
+At Netradyne, our team is committed to delivering solutions to our customers that advance their market leadership. Our focus is to continuously drive innovation, while delivering meaningful actionable data. The Netradyne Driveri® Vision-Based Driver Recognition Safety Program significantly advances the technology category through the application of Artificial Intelligence, Machine Learning and Edge Computing. The foundations of Driveri® are equally focused on providing comprehensive performance insights, highlighting positive activity as well as significantly reducing the resources needed to address risk. Netradyne draws from a diverse team of innovators, technologist, and customer advocates to create an experience where customer success continues to motivate what is next.
+Netradyne is committed to building a world-class team of technologists and industry experts to deliver product that improve safety, increase productivity, and optimize collaboration within the organizations. With growth exceeding 4x year over year, our solution is quickly being recognized as a significant disruptive technology – that has put 'legacy' providers in a "spin" cycle trying to catch up. Our team is growing, and we need forward thinking, uncompromising, competitive team members to continue to facilitate our growth.
+We are looking for an experienced Machine Learning Research Engineer to join our fast-growing technology team. This role will require you to help with design, implement and commercialize driver monitoring and driver assistance algorithms. You will have access to very large datasets and will get to deploy new algorithms/models into thousands of vehicles.
+Responsibilities
+Design and commercialize algorithms characterizing driving behavior
+Design, implement and track key metrics; and architect data-driven solutions
+Improve machine learning infrastructure for scalable training and inference
+Innovate and develop proof of concept solutions showcasing novel capabilities
+Requirements
+Masters or PhD with 3+ years' experience in Computer Science, Electrical Engineering or a related area
+Excellent programming skills- Python (required) and C++ (desired)
+Research or industry experience with machine learning models
+Ability to take abstract product concepts and turn them into reality
+Ability to innovate on cutting-edge problems without documented solutions
+Experience with successfully applying machine learning to solve a real-world problem
+Experience with conducting successful statistical experiments
+Desired Skills
+
+Experience with image, video and time-series data
+Experience with road scene understanding (objects, lanes, interactions, signs, etc.)
+Experience with person/driver scene understanding (pose, distracted, eye status etc.)
+Experience with Predictive analytics
+Publications in top conferences (CVPR/NeurIPs/ICML/ICLR)
+We are committed to an inclusive and diverse team. Netradyne is an equal opportunity employer. We do not discriminate based on race, color, ethnicity, ancestry, national origin, religion, sex, gender, gender identity, gender expression, sexual orientation, age, disability, veteran status, genetic information, marital status or any legally protected status.
+If there is a match between your experiences/skills and the Company needs, we will contact you directly.
+Netradyne is an equal opportunity employer.
+Applicants only - Recruiting agencies do not contact.
+California Consumer Privacy Act Notice
+This notice applies if you are a resident of California ("California Consumer") and have provided Personal Information to Netradyne that is subject to the California Consumer Privacy Act ("CCPA"). We typically collect Personal Information in the capacity of a service provider to our clients, who are responsible for providing notice to their employees and contractors and complying with CCPA requirements.
+During the past 12 months, we have collected the following categories of Personal Information: (a) identifiers; (b) biometric information (see our Biometric Data Privacy Policy for more information); (c) Internet or other electronic network activity information; (d) geolocation data; (e) Audio, electronic, visual, thermal, olfactory, or similar information; (f) professional or employment-related information (from job applicants and from clients regarding their employees and contractors); and (g) education information (from job applicants). We will not discriminate against any person that exercises any rights under the CCPA.
+We have collected this Personal Information for the business purposes and commercial purposes described in this Policy, including to provide the Services to our clients, process job applications, and for marketing and promotion.
+The sources of such Personal Information are you, our clients and our service providers. We have shared this information this only with our clients (if you are an employee or contractor of them) or our service providers.
+If you are a California Consumer, you have the following rights under the CCPA:
+You have the right to request:
+The categories and specific pieces of your Personal Information that we've collected;
+The categories of sources from which we collected your Personal Information;
+The business or commercial purposes for which we collected or sold your Personal Information; and
+The categories of third parties with which we shared your Personal Information.
+You can submit a request to us for the following additional information:
+The categories of third parties to whom we've sold Personal Information, and the category or categories of Personal Information sold to each; and
+The categories of third parties to whom we've disclosed Personal Information, and the category or categories of Personal Information disclosed to each.
+You can request that we delete the Personal Information we have collected about you, except for situations when that information is necessary for us to: provide you with a product or service that you requested; perform a contract we entered into with you; maintain the functionality or security of our systems; comply with or exercise rights provided by the law; or use the information internally in ways that are compatible with the context in which you provided the information to us, or that are reasonably aligned with your expectations based on your relationship with us.
+You have the right to request that we not sell your Personal Information. However, we do not offer this opt-out as we do not sell your Personal Information as that term is defined under the CCPA.
+You can make a request under the CCPA by e-mailing us at privacy@netradyne.com We may request additional information from you to verify your identify. You may also designate an authorized agent to submit a request on your behalf. To do so, we will require either (1) a valid power of attorney, or (2) signed written permission from you. In the event your authorized agent is relying on signed written permission, we may also need to verify your identity and/or contact you directly to confirm permission to proceed with the request.
+As noted above, if your request concerns Personal Information collected in our capacity as a service provider to a client, we are not responsible for responding to the request and may send the request to the client for a response.
+Governing law
+This Services are provided in the United States, and are located and targeted to persons in the United States and our policies are directed at compliance with those laws. If you are uncertain whether this Policy conflicts with the applicable local privacy laws where you are located, you should not submit your Personal Information to Netradyne.

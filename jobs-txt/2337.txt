@@ -1,0 +1,55 @@
+Remote Work Will consider, preference to local
+Top 3 Skills
+Coding skills
+Data management
+Data warehousing
+Data foundation for SEC MANA and Group Reporting as well as EPM
+Responsibilities:
+(The primary tasks, functions and deliverables of the role)
+Design and build reusable components, frameworks and libraries at scale to support analytics products
+Design and implement product features in collaboration with business and Technology stakeholders
+Identify and solve issues concerning data management to improve data quality
+Clean, prepare and optimize data for ingestion and consumption
+Collaborate on the implementation of new data management projects and re-structure of the current data architecture
+Implement automated workflows and routines using workflow scheduling tools
+Build continuous integration, test-driven development and production deployment frameworks
+Collaboratively review design, code, test plans and dataset implementation performed by other data engineers in support of maintaining data engineering standards
+Analyze and profile data for designing scalable solutions
+Troubleshoot data issues and perform root cause analysis to proactively resolve product and operational issues
+Requirements:
+Education
+Bachelor's degree in IT or related field.
+One of the following alternatives may be accepted:
+PhD or Law + 3 yrs;
+Masters + 4 yrs;
+Associates + 6 yrs;
+High School + 7 yrs exp
+5 years relevant work experience
+Skills
+Strong understanding of data structures and algorithms
+Strong understanding of solution and technical design
+Has a strong problem solving and analytical mindset
+Able to influence and communicate effectively, both verbally and written, with team members and business stakeholders
+Able to quickly pick up new programming languages, technologies, and frameworks
+Advanced experience building cloud scalable, real time and high-performance data lake solutions
+Experience with relational SQL
+Experience with scripting languages such as Shell, Python
+Experience with source control tools such as GitHub and related dev processes
+Experience with workflow scheduling tools
+In-depth understanding of micro service architecture
+Strong understanding of developing complex data solutions
+Experience working on end-to-end solution design
+Able to lead others in solving complex problems by taking a broad perspective to identify innovative solutions
+Willing to learn new skills and technologies
+Has a passion for data solutions
+Job Type: Contract
+Pay: $60.00 - $70.00 per hour
+Schedule:
+8 hour shift
+Application Question(s):
+Are you available on W2 contract ?
+Experience:
+Python: 2 years (Preferred)
+SQL: 2 years (Preferred)
+Data warehouse: 2 years (Preferred)
+Work Location: Remote

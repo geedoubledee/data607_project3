@@ -1,0 +1,46 @@
+Overview:
+Integral Federal is actively searcing for a SQL Database Administrator to support our on-going Federal program in the Washington DC Metro area.
+Responsibilities:
+Designing and configuring database architecture, including hardware and physical layout.
+Performing monitoring and performance tuning.
+Provide ongoing database support in multiple-cluster production environment.
+Perform planned and emergency database maintenance.
+Handling best practices database troubleshooting, corruption, backup and disaster recovery.
+Managing distributed databases, and configuring client/server and web-based environments.
+Perform Development to Production database migrations.
+Qualifications:
+Active Secret clearance
+Bachelor's degree or quivalent experience.
+Microsoft SQL database administration and clustering.
+Microsoft SQL networking and multi-site replication.
+Hands-on experience in database administration with strong scripting skills.
+Experience in large databases and Replication technologies.
+Database security (STIGs) and auditing.
+Database architecture, including hardware configuration, logical and physical database layouts.
+Database management, monitoring of multiple databases.
+Database performance management and tuning.
+Database fault analysis and resolution.
+Database backup and disaster recovery procedures.
+Effective verbal and written communication skills.
+Ability to work independently to complete tasks and activities.
+Desired - Knowledge of the following operating systems and platforms:
+UNIX / Linux
+MS Windows
+Company Overview:
+Integral Federal’s expertise spans identity intelligence, multimodal biometrics, cybersecurity, and IT application development and service management. We serve a diverse range of defense, civilian, and intelligence community agencies in support of their national and international security missions. Headquartered in Rockville, Maryland, we serve clients throughout the country and in several OCONUS locations.
+
+Our company is united by a shared passion for excellence in service. We are an Equal Opportunity Employer that cultivates a culture of diversity, equity, and inclusion. Minority, female, disabled, and veteran individuals are urged to apply.
+
+We’ll offer you a comprehensive total rewards package that includes:
+
+Medical, Dental & Vision Insurance
+Flexible Spending Accounts
+401(k) Retirement Savings Plan with immediate vesting
+Time to relax and unwind using PTO and paid holidays
+Paid parental leave
+Earned bonuses and awards
+Professional Training Reimbursement
+Paid Parking
+Employee Assistance Program
+
+As a federal contractor, Integral is subject to any federal vaccine mandates or other customer vaccination requirements. All new hires are required to report their vaccination status.

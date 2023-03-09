@@ -1,0 +1,47 @@
+Penn Interactive (PI) is an interactive gaming company headquartered in Philadelphia. PI is the digital arm of PENN Entertainment (NASDAQ: PENN), the largest regional casino operator in the U.S.). Our mission is to challenge the norms of the gaming industry by building an immersive interactive gaming experience that is responsible, innovative, and fun. Through our partnership with Barstool Sports, we are hoping to continue to launch our online sportsbook and iCasino across the US. We are committed to helping our team members grow and succeed. We believe that hiring talented individuals that love what they do will help us win!
+About the Role & Team
+We are looking for a Data Science Manager to lead a team of data scientists. The Data Science team is responsible for building models and APIs to help improve the sportsbook and casino products. We are looking for someone who is interested in leading the development of projects including recommendation engines, player clustering and classification, A/B feature testing, document classification and extraction, and sentiment analysis, to create a world class data-centric product experience. We are building industry-leading features, and tools to enhance player experience and player safety. The ideal candidate has a passion for leadership and management, data, a strong background in quantitative analysis and an interest in professional sports, betting & eSports.
+The Data Science & Machine Learning team will accelerate culture transformation by understanding the business goals, identifying the fundamental business problems, delivering data solutions and integrating products that will influence overall business strategy with a focus on prescriptive analytics and calculating the return on investment.
+While focusing on improving players' experiences across all Penn Entertainment touchpoints, the team develops, builds, and deploys end-to-end systems and tools at scale to unlock additional value and create competitive advantages in our products and services.
+The team partners with all business units across the Penn Entertainment enterprise, including Barstool Sportsbook & Casino, theScore Bet, theScore Media, our corporate partners with retail objectives, Penn Gaming Studios, Absolute, and other various parties.
+About the Work
+Key responsibilities:
+Help identify and prioritize impactful data science projects as well as define goals & objectives for the team.
+Manage and mentor team members as they progress through their career progression journey.
+Own decisions for Data Science project prioritization, roadmap, workflows, tooling, integrations, modeling techniques, algorithm, deliverables, etc.
+Own relationships & touchpoints with primary stakeholders for each project in flight / on the roadmap & in production.
+Contribute to build vs buy decisions when it comes to third party integrations for Data Science powered products / solutions .
+Collaborate with business partners to develop and adapt statistical approaches, models and tools to meet market conditions, drive strategic decision making, and address problems facing the business.
+Responsible for monitoring stability and accuracy of data science projects in production.
+Interact regularly department leaders; proactively initiate ideas to improve services or products; contribute to department or group objectives, strategy and priorities.
+Partner cross functionally with key executive leaders within the organization to leverage data in new and innovative ways to drive actionable insights and business value.
+Some examples of of projects:
+Customer Lifetime Value & Marketing Mix Modeling
+Reinvestment & bonus allocation
+User behavior identification and clustering
+Personalization with recommendations
+Product & feature engagement
+Forecasting primary business KPIs
+About You
+Bachelor's in an analytical field (math, statistics, physics, computer science, etc.) or equivalent.
+5+ years of experience in data science, preferably at a digital company.
+5+ years of experience in guiding teams and managing project lifecycles.
+Excellent written, communication, organization and presentation skills.
+Ability to work cross functionally (e.g., key stakeholders and other data teams) to deliver high quality results.
+Knowledge of statistics and machine learning techniques and algorithms.
+Coding ability in SQL, Python and/or R.
+Experience with enterprise level data lakes.
+Experience using AWS and/or GCP is a bonus.
+A passion and curiosity for solving analytical problems using quantitative approaches.
+Ability to take complex ideas and present them in a clear manner to cross-functional groups with little or no knowledge of statistics or machine learning.
+Ability to focus in a fast paced environment and multitask.
+A fun person who isn't afraid to laugh and enjoy themselves.
+What We Offer:
+Competitive compensation package.
+Comprehensive Benefits package.
+Fun, relaxed work environment.
+Education and conference reimbursements.
+
+#LI-REMOTE
+
+Recently being recognized as a top workplace in the United States, we believe people work their best when they can be themselves. We are looking for hungry, innovative thinkers to help us challenge the status quo of the gaming industry. Diversity, equity, and inclusion are vital to all of our processes, programs, and structures. Your story, who you are, and your experience matter here.

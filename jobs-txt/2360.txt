@@ -1,0 +1,25 @@
+Job Description
+We are a solutions-based company, looking for a Machine Learning Engineer Intern on our team! Silent Falcon is looking for professionals who can solve complex issues, test new approaches, and research new solutions using data.
+About the Job
+
+We’re looking for Machine Learning Engineers! Our software and data pipelines have been built from the ground up, so if you are excited about collaborating in a high-performance team and implementing the latest advancements in Deep Learning to impact the future of geospatial analytics, then this opportunity could be an excellent fit for you.
+Typical Duties and Responsibilities
+Strong object-oriented programming skills with knowledge in data structures and algorithms, including Python
+Strong problem-solving, analytical, and debugging skills
+Interest in Machine Learning/Deep Learning/Computer Vision for GIS applications
+Knowledge in developing and validating ML models
+Knowledge of Deep Learning frameworks such as PyTorch, Tensorflow, and Keras
+Education and Experiences
+B.S. in Computer Science, Computer Engineering, Data Science, Statistics, Mathematics, or related technical field
+
+Skills and Qualifications
+Assist in the design and development of scalable solutions that leverage machine learning including models, systems, tools, and scripts
+Assist in the implementation of machine learning algorithms
+Execute machine learning tests and experiments
+Run experiments in a fast-paced environment
+Collaborate with other engineers and cross-functional team members to ensure the success of Machine Learning projects
+Continuously improve quality and impact of ML systems through iterative releases throughout the ML development lifecycle
+Assist with establishing best practices for deploying robust, maintainable ML systems
+Participate in peer code reviews to ensure code quality, maintainability, and scalability
+The Location
+Silent Falcon is located in Front Royal, VA and Albuquerque, NM. While both locations are great places to live, you can work remotely within the continental United States. Candidates must be U.S. Citizens.

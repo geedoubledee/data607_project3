@@ -1,0 +1,39 @@
+Who We Are:
+At Newfish, our mission is to build the strongest foundation for person identity and addressability on the market and develop best-in-class enterprise-grade prospecting solutions for CMOs. Fueled by thoughtful strategists, data scientists, engineers, and problem-solvers, our platform addresses core issues in audience creation, segmentation, and targeting. We’re excited to fill a key strategic gap in the modern marketing toolkit and power existing platforms to higher performance.
+
+Position Description:
+Newfish, Inc is seeking candidates for Director of Data Science (Measurement) to be located in New York, NY (or remotely within the United States). This position is fully remote for now but NYC-based once we reopen our offices later in the year.
+
+With digital media performance sitting at the crux of Newfish’s mission, you will be leading and growing a team responsible for a key core offering. The measurement team is responsible for communicating, analyzing and optimizing the performance of media campaigns using a variety of tools, including surveys, media performance metrics, and propensity modeling via a wealth of audience information. We’re growing quickly and this role has the potential for huge impact on our trajectory. You’ll be reporting directly to our Chief Data Science Officer and working closely with the product and engineering teams. The ideal candidate is a strong leader, a critical thinker and a good communicator who excels in a fast-paced environment. Get in on the ground floor of our expanding data science team!
+
+Us:
+We move quickly and deliver amazing tools and products for ad performance analysis and optimization.
+We build ads responsiveness models to identify key characteristics associated with engagement.
+We build reach propensity models, utilizing both log-level and aggregated data.
+We develop targeted and meaningful surveys and analyze results in order to determine brand lift for persuasion campaigns, employing survey weighting techniques as needed.
+We design and run statistically sound experiments to further uncover predictors of performance.
+We have demonstrated expertise in the competitive and ever-changing digital ads landscape.
+We collaborate closely with clients, as well as across the org, to frame and tackle ad campaign goals, both mathematically and within the business context.
+We communicate rationale and findings from models and analyses to facilitate client and operational decisions.
+In short, we own all phases of the digital media measurement lifecycle (campaign goal development with the client, ad measurement and reporting, survey administration and analysis, ML modeling for performance optimization)
+
+You:
+M.S. or Ph.D. in Statistics, Operations Research, Mathematics, Computer Science, or other quantitative field. (Ph.D. preferred)
+5+ years of industry experience delivering and scaling successful and innovative machine learning products both in scope and on time.
+2+ years of experience managing, recruiting, training, developing, coaching, and inspiring highly technical associates.
+2+ years of experience in the digital media industry, with proven knowledge of business processes and industry/market trends within the space.
+Excellent business acumen, with proven ability to understand, analyze and problem solve business goals in detail, developing effective solutions with clients.
+Track record of leadership, communication and negotiation skills to work with clients as well as colleagues of various seniority levels.
+Strong skills in statistical languages (e.g. Python/R) and querying languages (e.g. SQL).
+Developed expertise in Bayesian/Frequentist statistics for hypothesis testing.
+Excellent experience with survey based measurement and weighting techniques.
+With the above said, we always encourage people of all backgrounds and experiences to apply. We understand that job listings don't always allow your unique work history to shine so we invite you to show us what you know!
+
+Seniority Level: Senior level
+
+Employment Type: Full-Time
+
+How to Apply: Qualified and interested individuals should apply by submitting their resume and cover letter (optional) to careers@newfish.us with the job title in the subject line.
+
+Newfish Inc is an Equal Opportunity Employer
+Newfish Inc does not discriminate on the basis of race, color, religion, religious affiliation, national origin, alienage or citizenship status, age, sex, sexual and other reproductive health decisions, creed, disability, sexual orientation, gender or gender identity or expression, marital or partnership status, pregnancy, arrest or conviction record, caregiver status, military or veteran status, actual or perceived status as a victim of domestic violence, sexual violence or stalking, unemployment status, credit history or any other basis prohibited by applicable law.

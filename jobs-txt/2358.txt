@@ -1,0 +1,51 @@
+Job Description:
+Join a world-class academic healthcare system, UChicago Medicine, as a Manager, Data Science & Analytics in the Data & Analytics department. This is a remote, work from home opportunity with occasional travel to our campus. You may be based outside of the greater Chicagoland area.
+
+Job Summary
+
+The Manager, Data Science & Analytics is responsible for ensuring that data are strategically used to support Clinical Effectiveness initiatives, while demanding the highest data quality. In this role, the Manager, Data Science & Analytics will lead and actively participate in discovering areas of opportunity within the domains of capacity & access and nursing care quality using multiple types of data including, but not limited to operational, clinical, financial, and external comparison. This position is closely aligned with the activities of the Clinical Effectiveness teams. The effective Manager, Data Science & Analytics ensures collaboration with clinical and non-clinical teams including close collaboration with UCM IT.
+
+Essential Job Functions
+
+Clinical Effectiveness Leadership and Development:
+Partner with Clinical Effectiveness leaders to shape the analytics vision for UCM’s capacity and access and nursing care quality initiatives.
+Lead Clinical Effectiveness measurement and reporting efforts across University of Chicago Medicine.
+Design and maintain effective and efficient processes for the measurement, tracking, reporting and analysis of inpatient and nursing quality data
+Data Science & Analytics Team Leadership:
+Provide training, coaching, and mentoring to direct reports (analysts, engineers) and assist with balancing work priorities of staff to ensure adherence to internal and external reporting deadlines with the highest standards of data quality.
+Design data flow processes to apply best practices of information flow, beginning with data collection (manual or automated) through reporting (manual and automated) and ensure a sustainable, reliable, and efficient system of reporting.
+Actively participate in the Analytics Core collaboration at University of Chicago Medicine and be an ambassador for the Enterprise Informatics and Analytics Program.
+Quality of Analytics to support the Clinical Effectiveness:
+Provide in-depth analyses. Disseminate findings and insights to UCM leadership and staff, using the most effective and efficient processes available.
+Leverage expertise and relationships within the network of analysts and analytics leaders at University of Chicago Medicine to ensure effective and efficient data flows to support successful reporting and insight.
+Develop Clinical Effectiveness reports and scorecards and support activities from other analytics teams to appropriately use data. Analyze and interpret statistical data to identify drivers of positive patient experience.
+Required Qualifications
+Bachelor’s degree
+Prior experience managing analytics teams or experience working for a healthcare provider in an analytics role
+Excellent problem-solving skills
+Excellent written and verbal communication skills
+Demonstrated SQL skills
+Demonstrated competency with use of computer applications, including word processing, spreadsheet programs, statistical packages, and graphics (PowerPoint).
+Demonstrated competency with business intelligence tools (Tableau preferred) and dashboard development
+Demonstrated ability of successful project management
+Demonstrated ability to employ and design processes to utilize powerful analytic required for analyzing data residing in large relationship databases
+
+Preferred Qualifications
+Prior experience with electronic health record data
+Certification in Epic Cogito/Clarity
+Familiarity with R and Python
+Familiarity with Alteryx
+Position Details
+Job Type/FTE: Full-time
+Shift: Day
+CBA Code: Non-Union
+Location: Chicago, IL (Hyde Park/Remote)
+No Visa Sponsorship Available
+Must comply with UCMC’s COVID-19 Vaccination requirement as a condition of employment. If you have already received the vaccination, you must provide proof as part of the pre-employment process. This is in addition to your compliance with the Flu Vaccination requirement as well. Medical and religious exemptions will be considered consistent with applicable law. Lastly, a pre-employment physical, drug screening, and background check are also required for all employees prior to hire.
+Why Join Us:
+We’ve been at the forefront of medicine since 1899. We provide superior healthcare with compassion, always mindful that each patient is a person, an individual. To accomplish this, we need employees with passion, talent and commitment… with patients and with each other. We’re in this together: working to advance medical innovation, serve the health needs of the community, and move our collective knowledge forward. If you’d like to add enriching human life to your profile, The University of Chicago Medicine is for you. Here at the forefront, we’re doing work that really matters. Join us. Bring your passion.
+________
+Bring your career to the next level at a hospital that is thriving; from patient satisfaction to employee engagement, we are at the Forefront of Medicine. Take advantage of all we have to offer and #BringYourPassiontotheForefront.
+University of Chicago Medicine is growing; discover how you can be a part of this pursuit of excellence at: www.uchospitals.edu/jobs
+
+The University of Chicago Medical Center is an equal opportunity employer. We evaluate qualified applicants without regard to race, color, ethnicity, ancestry, sex, sexual orientation, gender identity, marital status, civil union status, parental status, religion, national origin, age, disability, veteran status and other legally protected characteristics.

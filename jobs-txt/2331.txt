@@ -1,0 +1,36 @@
+About Ledger Investing
+Ledger Investing is a Y Combinator backed insure-tech startup that is transforming the way insurance risks are financed. Today, Ledger is an online marketplace connecting insurance risk to capital, focusing on securitization. Insurance risk originators are able to source capital more efficiently vs. the traditional value-chain. Capital providers gain access to an asset class that is highly diversified vs. most asset classes. Insurance securitization has quickly grown to be a $100 billion market but is limited in scope due to opacity and complexity. Ledger is expanding this market to $1 trillion by building a seamless data pipeline from the policyholder to the capital markets, enabling transparency, and bringing best-in-class analytics and real-time insights to the table. Our recent $75 million Series B round of investment funding has set us up for exponential growth. We are on our way to disrupting the industry by serving as an unparalleled, advantageous marketplace for virtually all types of insurance risks and capital, including traditional reinsurers, institutional investors, and accredited investors.
+About the Team:
+Data scientists at Ledger are critical to the success of the company. Our team specializes in modeling the behavior of casualty insurance risk portfolios. We analyze and predict the performance of every insurance program that seeks capital through us, and our analyses are critical in determining on what terms, if any, our investors are willing to offer capital for each program. In short, our math forms the ground truth that serves as the basis of negotiations for transactions with tens of millions of dollars at stake.
+About the Position:
+The questions we focus on have broad overlap with traditional topics within actuarial science: estimating loss development, forecasting portfolio performance, quantifying tail risk, and the like. Instead of using traditional actuarial methods, we rely instead on more modern statistical approaches, particularly from the fields of Bayesian statistics and machine learning. We are building a robust, scalable, and highly automated pipeline by which we can price ILS transactions at scale with minimal human intervention.
+At the same time, we recognize the value in more traditional actuarial perspectives, as they are the fruit of decades of practical experience. We also still regularly deal with stakeholders who are immersed in a traditional perspective, and actuaries play a vital role in translating to and from the modern Bayesian approaches we use internally. The synthesis of actuarial domain knowledge with cutting-edge techniques is at the crux of what we do.
+About You:
+Successful candidates will have all of the following attributes:
+Extensive knowledge of statistics, machine learning, and data science.
+Several years of hands-on experience in pricing and/or reserving for property and/or casualty insurance lines.
+Demonstrated ability to apply new statistical or modeling techniques to actuarial problems (e.g., loss development, rate segmentation, trend estimation, etc)
+Familiarity with modern Bayesian modeling techniques.
+Extensive experience with Python, R, Julia or other open-source languages with strong numerical computing ecosystems
+Strong attention to detail and ability to reconcile conflicting or ambiguous sources of information.
+Ability to work independently and communicate ideas effectively.
+The following attributes will help candidates stand out from the crowd:
+A track record of publications and/or presentations on actuarial modeling topics.
+Contributions to open-source data science or machine learning projects.
+An actuarial designation (ie., ACAS or FCAS).
+MS or PhD in statistics or a related field preferred.
+Familiarity with Bayesian modeling using Stan.
+Familiarity with version control, especially Git/GitHub.
+Your Benefits:
+Competitive salary, bonus potential, and equity compensation
+Work from anywhere. We're flexible. Our headquarters is in New York, but this position can be fully remote or hybrid.
+Uncapped paid time off
+Paid Holidays
+401k
+Medical, dental, and vision insurance - multiple plans to choose from
+Company paid Life and AD&D insurance
+ClassPass - We contribute to your monthly membership offering a large range of providers & services in Fitness and Wellness. Get a massage on us!
+Up to $5,000 paid by Ledger towards your dream desk setup! Customize what works for you.
+
+For US based positions:
+Ledger Investing is an equal opportunity employer and complies with all applicable federal, state, and local fair employment practices laws. We strictly prohibit and do not tolerate discrimination against employees, applicants, or any other covered persons because of race, color, religion, creed, national origin or ancestry, ethnicity, sex, gender (including gender nonconformity and status as a transgender or transsexual individual), sexual orientation, marital status, age, physical or mental disability, citizenship, past, current or prospective service in the uniformed services, predisposing genetic characteristic, domestic violence victim status, arrest records, or any other characteristic protected under applicable federal, state or local law.

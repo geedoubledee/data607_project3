@@ -1,0 +1,41 @@
+About EAB
+At EAB, our mission is to make education smarter and our communities stronger. We work with more than 2,500 institutions to drive transformative change through data-driven insights and best-in-class capabilities. From kindergarten to college to career, EAB partners with leaders and practitioners to accelerate progress and drive results across five major areas: enrollment, student success, institutional strategy, data & analytics, and diversity, equity, and inclusion (DE&I). We work with each partner differently, tailoring our portfolio of research, technology, and marketing and enrollment solutions to meet the unique needs of every leadership team, as well as the students and employees they serve.
+At EAB, we serve not only our partner institutions but each other—that's why we are always working to make sure our employees love their jobs and are invested in their communities. See how we've been recognized for this dedication to our employees by checking out our recent awards.
+For more information, visit our Careers page.
+The Role in Brief
+Data Engineer
+Keywords: Talend ETL, SQL, Postgres, AWS
+Be part of a rapidly growing company serving the higher education industry with innovative marketing strategies, data-driven analysis, and comprehensive thought leadership. As a Data Engineer, you will play a key role in building our leading-edge marketing platform and drive the connections between complex data entities and underlying systems. In this role, you will be responsible for creating new products, improving existing products, and play a hands-on role in delivering products in rapid and dynamic environment.
+This role is open to remote opportunities based in the United States.
+Primary Responsibilities:
+Design, develop, and implement advanced ETL pipelines that bring together data from disparate sources, making it available to users using a variety of ETL tools.
+Facilitate cross-functional data-integration efforts upstream and downstream
+Detect data quality issues, identify their root causes, implement fixes, and design data audits to capture issues
+Extract data from multiple sources, and integrate them into a target database, application, or file using efficient programming processes.
+Implement and deploy solutions in a CI/CD pipeline
+Write and refine code to ensure performance and reliability of data extraction and processing.
+Communicate with all levels of stakeholders as appropriate, including product managers, application developers, business users.
+Participate in requirements gathering sessions with product managers and technical staff to distill technical requirements from business requests.
+Recommend process improvements to increase efficiency and reliability in ETL development.
+Collaborate with Quality Assurance resources to debug code and ensure the timely delivery of products.
+Some of our technologies might include: Talend as well as various datastores such as Postgres SQL, S3, Aurora and AWS services.
+Basic Qualifications:
+Bachelor’s Degree (or equivalent years of experience) + 2 years of relevant experience OR Master’s degree with 1 year of experience
+1+ years of experience on Data Warehousing and building data pipelines.
+At least 1 year of experience in software development and Data Warehousing using ETL tools like Talend.
+At least 1 year of experience developing and deploying applications on AWS
+Ideal Qualifications:
+1+ years of building applications in AWS or any cloud environment
+1+ years of experience creating automated solutions
+Commitment to valuing diversity, practicing inclusive behaviors, and contributing to an equitable working and continual learning environment in support of EAB’s DE&I Promise
+Benefits:
+Consistent with our belief that our employees are our most valuable resource, EAB offers a competitive benefits package.
+Medical, dental, and vision insurance, dependents eligible
+401(k) retirement plan with company match
+Generous PTO
+Daytime leave policy for community service or fitness activities (up to 10 hours a month each)
+Wellness programs including gym discounts and incentives to promote healthy living
+Dynamic growth opportunities with merit-based promotion philosophy
+Benefits kick in day one, see the full details here.
+At EAB, we believe that to fulfill our mission to “make education smarter and our communities stronger” we need team members who bring a diversity of perspectives to the table and a workplace where each team member is valued, respected and heard.
+To that end, EAB is an Equal Opportunity Employer, and we make employment decisions on the basis of qualifications, merit and business need. We don’t discriminate on the basis of race, religion, color, sex, gender identity or expression, sexual orientation, age, non-disqualifying physical or mental disability, national origin, veteran status or any other basis covered by appropriate law.

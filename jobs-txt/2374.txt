@@ -1,0 +1,19 @@
+Title: AWS Data Engineer
+Location: 100% Remote
+Required skills :
+Kafka
+Kinesis
+Nifi
+Job Type: Contract
+Salary: $70.00 per hour
+Benefits:
+Health insurance
+Schedule:
+8 hour shift
+Experience:
+Data engineer: 8 years (Preferred)
+AWS: 8 years (Preferred)
+Kafka: 6 years (Preferred)
+Kinesis: 5 years (Preferred)
+Nifi: 5 years (Preferred)
+Work Location: Remote

@@ -1,0 +1,27 @@
+****This position is a Hybrid position working out of the Orlando/Burbank office 3+ days a week and will require eventually relocating****
+The Decision Science team focuses on creating innovative mathematical models to inform business decision making through data. The team is interested in all fields related to data science, with emphasis on statistics, operations research, econometrics, and machine learning.
+The Decision Science team resides within the Disney Decision Science + Integration (DDSI) organization. DDSI provides internal consulting services for clients across The Walt Disney Company. The DDSI team sits at the intersection of business strategy, advanced analytics, and technology integration to help our partners explore opportunities for analytics, shape business decisions, and drive value. Our work includes conceptualizing new solutions, solution design and development, implementation and integration with business processes, and ongoing business support.
+The Senior Manager, Decision Science will lead a highly skilled team of experts across technical domains, in order to conceptualize, design, and develop new data and decision science capabilities, and on this basis to create reusable software and system components that have potential for broad use. In this position you will also lead and support the ideation, development and implementation of statistical and machine learning techniques to resolve and support business decisions. It also involves acting as a thought partner and subject matter expert to develop and refine ideas, generate hypothesis, analyze data and apply advanced statistical models to formulate solutions. The Senior Manager, Decision Science focuses on leading, mentoring, and professionally developing a high performance team that leads complex projects and technical initiatives, and takes a broad perspective to identify innovative solutions concerning system requirements and design.
+Responsibilities:
+Manage direct reports, which may include managers as well as professional staff specializing in different technical disciplines. May also manage the work of further professional staff in a matrixed organization
+Lead a portfolio of complex projects and initiatives, to include responsibility for scope negotiation and work estimation, resource allocation, development and teaching of necessary skills, adaptation of plans to meet operational challenges, and representation of the team with senior leaders and with partners (e.g. product teams, client teams, and vendors)
+Lead research and development of emerging science, tools, and technologies
+Understands a large, or multiple significant, lines of business (e.g., media, resorts, etc.) or business domains (e.g., sales, marketing, finance, pricing), and rapidly learns new domains
+Accountable for several large, concurrent bodies of work, serving multiple functions/units
+Innovates to resolve complex technical, operational, and organizational problems
+Manages multiple related teams; allocates resources; creates new projects and may create new partnerships
+Presents complex technical concepts internally, to all levels of the organization, including the most senior leaders, and ensures alignment with leader on high-level prioritization and decision-making
+Influences others, including senior leaders, across several lines of business; may emphasize negotiating new partnerships across departments; represents and brands the team externally
+Champions change in adoption of new tools and methods
+Basic Qualifications:
+At least 3 years of related/relevant experience
+Prior management experience preferred
+Competence in multiple topics from statistics, optimization, machine learning, and/or econometrics. Distinction in breadth of knowledge enabling responsibility for large, complex, or varied output
+Ability to understand and support multiple large business domains
+Competence in mathematical computing with at least one programming language (e.g. Python, R, Java), and the ability to learn technical methods and tools independently
+How to Stand Out:
+Proven knowledge of marketing ROI analytics, including predictive modeling, survival analysis, marketing mix modeling, media and programmatic advertising, experiment design and causal inference
+Familiarity with content analytics, streaming subscription and viewership analytics, customer churn modeling, and lifetime value analytics
+Familiarity with software development tools such as GitLab/GitHub, Docker, and cloud computing tools such as AWS
+Required Education:
+Master's or Ph.D. in technical discipline (Statistics, Operations Research, Industrial Engineering, Mathematics, Machine Learning, Econometrics, or related field) or equivalent experience

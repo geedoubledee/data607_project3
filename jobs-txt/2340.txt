@@ -1,0 +1,73 @@
+Senior BI Developer Job Description
+Senior BI Developer will work with stakeholders to develop and design Power BI solutions using the Microsoft Power BI stack. This role will also lead the development of datasets, visual reports, dashboards and KPI scorecards. This position will also be providing technical support to end users, troubleshooting, diagnosing and solving BI related issues.
+Position Requirements
+· A Bachelor’s degree in Data Analytics, Computer Science, Technology, Economics, Data Science or Finance.
+· 3-5+ years of experience in data-related or business intelligence fields.
+· Strong data visualization experience using Power BI
+Performance Tuning
+Data Security
+· Knowledge and exposure to working with Azure based data services, such as:
+o Azure Data Factory
+o Azure Data Lake
+o Azure Synapse Analytics
+o Azure Analysis Services
+o Power Automate
+Technical documentation skills
+Self-motivated and directed, with keen attention to detail
+Able to prioritize and execute tasks in a high-pressure environment
+Experience working in a team-oriented, collaborative environment
+· Ability to identify and create plans to resolve issues.
+· Develop Power BI models using a combination of data sources, which can be organized and filtered for use by our customers
+· Leverage Power Query to assist business users in formatting, ingesting, transforming, and enriching data
+· Develop best practices documentation
+Technical Requirements
+Power BI
+Report Builder
+Power Query
+Dax Studio
+Data Warehouse design
+Microsoft SQL Server
+Machine Learning/AI
+Travel
+Some travel may be required.
+PHYSICAL DEMANDS AND WORK CONTITIONS:
+The physical demands and work environment described here are representatives of those that must be met by the employee to successfully perform the essential functions of this job. Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions.
+· Work involves sitting, walking, talking, hearing, bending, stooping, kneeling, and/or crouching.
+· Work also involves repetitive wrist, arm, finger motion, typing data on computer keyboard, typing data on a calculator, using hands to handle, feel or operate objects, machines, and reaching with arms and hands.
+· Vision abilities required by this job includes vision, the ability to adjust focus, and ability to focus at a computer screen for long periods of time.
+· The employee may be required to push, pull, lift, and/or carry up to 20 pounds.
+· The noise level in the work environment is usually moderately quite with few distractions.
+· Ability to bend or stoop to retrieve lower shelf files. Ability to reach overhead to retrieve upper shelf files.
+· Ability to sit 2/3 to 3/4 of day
+Data2Logistics is an equal opportunity employer.
+It is the policy of Data2Logistics, as an Equal Opportunity Employer, that all persons shall receive equal employment opportunities in accordance with their job-related qualifications, without regard to race, color, religion, sex, sexual orientation, age, marital status, national origin, veteran status, or disability.
+This job description in no way states or implies that the duties and responsibilities are the only duties and responsibilities to be performed by the individual(s) with this job description. The individual(s) maybe called upon and required to follow other instructions or perform other duties/responsibilities requested by his/her Supervisor, consistent with the purpose of the position, department and/or company objectives.
+PAY TRANSPARENCY POLICY STATEMENT
+The contractor will not discharge or in any other manner discriminate against employees or applicants because they have inquired about, discussed, or disclosed their own pay or the pay of another employee or applicant. However, employees who have access to the compensation information of other employees or applicants as a part of their essential job functions cannot disclose the pay of other employees or applicants to individuals who do not otherwise have access to compensation information, unless the disclosure is (a) in response to a formal complaint or charge, (b) in furtherance of an investigation, proceeding, hearing, or action, including an investigation conducted by the employer, or (c) consistent with the contractor’s legal duty to furnish information. 4I CFR 60-I.35(c)
+This position is not available in the following States/Cities:
+AL, AK, AZ, AR, CA, CO, CT, DC, DE, HI, Chicago, IL, IA, LA, ME, MD, MA, MS, MO, MT, NE, NV, NH, NJ, NM, NY, NYC, ND, OK, OR, PA, PR, RI, SD, VT, WA, WV, WI, WY
+Job Type: Full-time
+Pay: $85,960.17 - $120,237.01 per year
+Benefits:
+401(k)
+401(k) matching
+Dental insurance
+Employee assistance program
+Employee discount
+Flexible schedule
+Flexible spending account
+Health insurance
+Health savings account
+Life insurance
+Paid time off
+Referral program
+Tuition reimbursement
+Vision insurance
+Schedule:
+8 hour shift
+Day shift
+Experience:
+Informatica: 4 years (Required)
+SQL: 3 years (Required)
+Data warehouse: 3 years (Required)
+Work Location: Remote

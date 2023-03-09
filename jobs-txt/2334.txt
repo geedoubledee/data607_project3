@@ -1,0 +1,31 @@
+DevOps Engineer/Python Developer
+Remote
+6 Month Contract to Hire
+As an Artificial Intelligence/Cloud Service Software Engineer on the Operational Transformation and Intelligent Automation Team, you will work with key systems across the PBM, Healthcare and Retail businesses, evaluating the latest technologies, designing and delivering “art of the possible solutions” to improve operations and enhance member and client satisfaction. An ideal candidate has the ability to work in a dynamic environment, learn and implement new technologies and skills. Understanding, analyzing and decrypting complex processes is key to the team’s ability to define and implement industry leading solutions to improve the customer experience.
+Required Qualifications:
+2+ years experience with application development
+Cloud experience preferred (AWS, Azure, or GCP)
+Restful Services using Python
+Expert programming experience in Python
+Expert experience with Jenkins pipelines, Git
+Quick learner and interest in ML
+Agile methodology experience
+Preferred Qualifications:
+Azure WebApps
+CosmosDB
+Cognitive Services
+Other programming skills including Node.js, .Net
+Agile methodology experience
+Front end web technology experience
+React, Angular
+HTML, CSS, Javascript
+Eight Eleven Group provides equal employment opportunities (EEO) to all employees and applicants for employment without regard to race, color, religion, national origin, age, sex, citizenship, disability, genetic information, gender, sexual orientation, gender identity, marital status, amnesty or status as a covered veteran in accordance with applicable federal, state, and local laws.
+Job Type: Contract
+Benefits:
+Dental insurance
+Health insurance
+Vision insurance
+Schedule:
+8 hour shift
+Monday to Friday
+Work Location: Remote

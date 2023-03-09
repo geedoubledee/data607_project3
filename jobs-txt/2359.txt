@@ -1,0 +1,16 @@
+Power BI Report development.
+Building Analysis Services reporting models.
+Developing visual reports, KPI scorecards, and dashboards using Power BI desktop.
+Connecting data sources, importing data, and transforming data for Business intelligence.
+Analytical thinking for translating data into informative reports and visuals.
+Capable of implementing row-level security on data along with an understanding of application security layer models in Power BI.
+Should have an edge over making DAX queries in Power BI desktop.
+Expert in using advanced-level calculations on the data set.
+Responsible for design methodology and project documentaries.
+Should be able to develop tabular and multidimensional models that are compatible with data warehouse standards.
+Very good communication skills must be able to discuss the requirements effectively with the client teams, and with internal teams.
+Job Type: Contract
+Pay: $66,822.05 - $134,196.96 per year
+Schedule:
+8 hour shift
+Work Location: Remote

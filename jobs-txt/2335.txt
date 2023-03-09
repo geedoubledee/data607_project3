@@ -1,0 +1,24 @@
+Note: By applying to this position you will have an opportunity to share your preferred working location for this position from the following: Sunnyvale, CA, USA; San Francisco, CA, USA
+Minimum qualifications:
+Bachelor's degree or equivalent practical experience.
+Experience in virtualization or cloud native architectures in a customer-facing or support role.
+Experience with big data, machine learning, and numerical programming frameworks (e.g., TensorFlow, Python, MATLAB).
+Experience in performing technical presentations or public speaking.
+
+Preferred qualifications:
+Advanced education in a technical field (Computer Science, Engineering and Mathematics).
+Experience in and understanding of data and information management as it relates to big data trends and issues within businesses.
+Experience building machine learning solutions and leveraging specific machine learning architectures (e.g., deep learning, LSTM, convolutional networks.)
+Experience architecting and developing software or infrastructure for scalable, distributed systems.
+Ability to learn quickly, understand, and work with new emerging technologies, methodologies, and solutions in the cloud/IT Technology space.
+About the job
+The Google Cloud Platform team helps customers transform and build what's next for their business — all with technology built in the cloud. Our products are engineered for security, reliability and scalability, running the full stack from infrastructure to applications to devices and hardware. Our teams are dedicated to helping our customers — developers, small and large businesses, educational institutions and government agencies — see the benefits of our technology come to life. As part of an entrepreneurial team in this rapidly growing business, you will play a key role in understanding the needs of our customers and help shape the future of businesses of all sizes use technology to connect with customers, employees and partners.
+As a Sales Engineer, you will work directly with Technical Sales teams as a machine learning subject matter expert to differentiate Google Cloud to our customers. You will help prospective customers and partners understand the power of Google Cloud, explaining technical features, helping customers design architectures, and problem-solving any potential roadblocks. Additionally, you will have the opportunity to help customers to leverage specialized machine learning (ML) hardware developed by Google (e.g., Tensor Processing Unit). In this role, you will work closely with customers and product development to shape the TPU platform.
+Google Cloud provides organizations with leading infrastructure, platform capabilities and industry solutions. We deliver enterprise-grade cloud solutions that leverage Google’s cutting-edge technology to help companies operate more efficiently and adapt to changing needs, giving customers a foundation for the future. Customers in more than 150 countries turn to Google Cloud as their trusted partner to solve their most critical business problems.
+Responsibilities
+Work with the team to identify and qualify business opportunities, understand key customer technical objections, and develop the strategy to resolve technical blockers.
+Provide in-depth machine learning expertise to support the technical relationship with Google’s customers, including product and solution briefings and proof-of-concept work. Partner directly with product management to prioritize solutions impacting customer adoption to Google Cloud.
+Work directly with customers to demonstrate and prototype Google Cloud product integrations in customer/partner environments.
+Recommend integration strategies, enterprise architectures, platforms, and application infrastructure required to successfully implement a complete solution using best practices on Google Cloud.
+Travel to customer sites, conferences, and other related events.
+Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also Google's EEO Policy and EEO is the Law. If you have a disability or special need that requires accommodation, please let us know by completing this form.

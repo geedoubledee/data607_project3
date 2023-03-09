@@ -1,0 +1,24 @@
+JOB DESCRIPTION AND POSITION REQUIREMENTS:
+The Office of Research Information Systems (ORIS) within the Office of Associate CIO for Research is looking for a highly motivated Database Specialist to join its team .
+This position is fully remote within the United States.
+This position is involved with the administration, design, and development of databases and pipelines within application and reporting environments. This role will be involved in the monitoring of the security of databases management systems and ensuring vulnerabilities are being mitigated and resolved. This role will also be involved in the development and maintenance of documentation related to supporting data management.
+The successful candidate must be able to i solate, analyze, and diagnose a wide array of problems around moving and storing data and provide resolution independently or collaboratively when appropriate . They must also have :
+Strong analytical and problem-solving skills
+Proficient oral and written communication skills
+Ability to interact with both technical and non-technical audiences
+The candidate must be professional, highly motivated, and resourceful individual. We are seeking candidates with experience in:
+Microsoft SQL Server
+SQL development
+Azure Devops
+Typically requires a Bachelor’s degree or higher and four plus years of related experience, or an equivalent combination of education and experience for a Level 3.
+The following b ackground c hecks must be successfully completed for this position:
+This position will require successful completion of standard background checks.
+The Pennsylvania State University is committed to and accountable for advancing diversity, equity, and inclusion in all of its forms. We embrace individual uniqueness, foster a culture of inclusive excellence that supports both broad and specific diversity initiatives, leverage the educational and institutional benefits of diversity, and engage all individuals to help them thrive. We value inclusive excellence as a core strength and an essential element of our public service mission.
+CAMPUS SECURITY CRIME STATISTICS:
+Pursuant to the Jeanne Clery Disclosure of Campus Security Policy and Campus Crime Statistics Act and the Pennsylvania Act of 1988, Penn State publishes a combined Annual Security and Annual Fire Safety Report (ASR). The ASR includes crime statistics and institutional policies concerning campus security, such as those concerning alcohol and drug use, crime prevention, the reporting of crimes, sexual assault, and other matters. The ASR is available for review here .
+Employment with the University will require successful completion of background check(s) in accordance with University policies.
+EEO IS THE LAW
+Penn State is an equal opportunity, affirmative action employer, and is committed to providing employment opportunities to all qualified applications without regards to race, color, religion, age, sex, sexual orientation, gender identify, national origin, disability or protected veteran status. If you are unable to use our online application process due to an impairment or disability, please contact 814-865-1473.
+
+Penn State Covid-19 Vaccination or Testing Requirements
+Penn State is committed to the health of our local and global communities. As a condition of employment, all employees are required to comply with COVID-19 vaccination or testing requirements. Click on Penn State Covid-19 Vaccination or Testing Requirements to learn about the requirements as well as general COVID-19 information at Penn State.

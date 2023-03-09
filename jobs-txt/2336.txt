@@ -1,0 +1,24 @@
+Analytica is seeking a Business Intelligence (BI) Developer to support a dynamic federal government project. The ideal candidate will have a passion for creating dashboards, exploring data, problem solving, and creating end-to-end Business Intelligence solutions.
+They will have experience in developing Tableau dashboards, Tableau Prep and Desktop, analytical tools, and visualization concepts. The qualified candidate will effectively communicate with Government stakeholders to identify meaningful visualizations and work with the team to identify and estimate work.
+Analytica has been recognized by Inc. for 3 consecutive years as one of the 250 fastest growing business. We offer competitive compensation with opportunities for bonuses, employer paid health care, training and development funds, and 401k match.
+Responsibilities:
+Develop and design data visualizations using Tableau (both desktop and server).
+Work with stakeholders to gather, refine, and validate visualization requirements.
+Collaborate with subject matter experts to develop business logic calculations and to document assumptions and data issues.
+Enhance and automate queries of different types of data sources such as relational databases and flat files.
+Lead projects, including tracking progress, developing status updates, and communicating with stakeholders.
+Identify, troubleshoot, and resolve complex technical issues on behalf of end users of both Tableau Desktop and Server.
+Required Experience:
+Bachelor’s degree in Computer Science, Engineering, Information Technology, or related field.
+Knowledge and experience with the features and capabilities of Tableau Version 2020+ (both desktop and Server)
+Experience working with stakeholders to gather, refine, and validate visualization requirements.
+Experience building interactive visualizations for a variety of stakeholders.
+Experience leading projects, including tracking progress, developing status updates, and communicating with stakeholders.
+Experience providing advanced support for Tableau desktop, server, and prep by troubleshooting, implementing bug fixes, and conducting root cause analysis.
+Preferred Experience:
+Experience developing content for and delivering training to others on the use of Tableau or similar BI software in a classroom setting.
+Using data preparation software (such as Tableau Prep) to combine or restructure data for analysis.
+Experience with training and supporting end users of Power BI.
+About ANALYTICA: Analytica is a leading consulting and information technology solutions provider to public sector organizations supporting health, civilian, and national security missions. Founded in 2009 and headquartered in Bethesda, MD, the company is an established 8(a) small business that has been recognized by Inc. Magazine each of the past three years as one of the 250
+As a federal contractor, Analytica is required to verify that all employees are fully vaccinated against COVID-19. If you receive an offer and are unable to get vaccinated for religious or medical reasons, you may request a reasonable accommodation.
+Job Type: Full-time

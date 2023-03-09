@@ -1,0 +1,136 @@
+Position Details
+Position Information
+Requisition Number
+S2171P
+
+Home Org Name
+Office of Information Technology
+
+Division Name
+Chief InfoOffice and InfoTechnology
+
+Position Title
+IT Database Administrator / Senior Administrator
+
+Job Class Code
+MA33/MA34
+
+Appointment Status
+Full-time
+
+Part-time FTE
+
+Limited Term
+No
+
+Limited Term Length
+
+Job Summary
+The central Office of Information Technology at Auburn University is seeking applicants for a Database Administrator. The position will serve as the database administrator for Ellucian Banner administration, as well as administration of associated applications. Responsibilities include, but are not limited to, Oracle database, SQL Server, Snowflake, and application server administration, including backup, recovery, installation, and maintenance of database software, supporting associated applications. Applicant must be able to perform intermediate Linux skills preferably on Redhat.
+
+The ideal candidate applies systems thinking, possesses superior interpersonal and communication skills, is self-motivated, and is a life-long learner.
+
+Working onsite is a requirement of the job. May work up to 2 days hybrid remote in local area with supervisor’s approval.
+
+7 Reasons You’ll Love Being an IT Database Administrator at AUBURN :
+Work/life balance is a priority! No travel is required.
+Careers in Higher Education are reliably stable.
+Competitive retirement plan and benefits.
+Generous leave (including two weeks off during the holidays!)
+Paid parental leave.
+Tuition assistance for yourself and dependents.
+Being a part of the life-changing work and research our students, faculty, and staff perform.
+
+Auburn was named by Forbes Magazine as one of the state of Alabama’s best employers, with employees staying an average of ten years! Learn more about Auburn’s impact, generous employee benefits, and thriving community by visiting aub.ie/working-for-auburn.
+It’s a Lifestyle: The Auburn/Opelika area is a page right out of Southern Living magazine with an idyllic small-town feel, perfecting a unique balance between a close-knit community and driving consistent growth and development. Paralleling the exponential growth of Auburn University, the Auburn/Opelika area boasts services and amenities that cater to any interest. We’re proud of our top school systems, city services, award-winning restaurants, and the infectious spirit of life in a college town. You can find us nestled halfway between the beach and the mountains in a lower-cost-of-living area, two hours outside of Atlanta or Birmingham. If you’re new to Auburn, we’d love to introduce you. If you’re already acquainted with Auburn, we’ll keep it simple: it’s time to come home!
+Our Commitment: Auburn University is committed to a diverse and inclusive campus environment. Visit auburn.edu/inclusion to learn more about our commitment to expanding equity and inclusion for all.
+
+Essential Functions
+Administer databases through the pre-established security request/approval framework. Perform code migrations via approved migration process. Review application developer code when migration issues occur, looking for errant code or variations from established Auburn conventions.
+
+Perform complex scripting and analysis and troubleshooting on existing script. Write scripts that automate simple server and database operations and documents script operations. Use pre-written vendor instructions to accomplish technical objectives and customize instruction for university specific environments.
+
+Install, configure, monitor, and maintain production and non-production databases. Perform all standard database maintenance tasks without guidance.
+
+Monitor and respond to database incidents including, but not limited to, backup, recovery, tablespace allocation, performance, security access constraints, account operations, nightly job processing, and physical hardware issues rarely.
+
+Minimum Education and Experience
+Education Level
+High school diploma or equivalent for entry level
+
+Field of Study
+
+Years of Experience
+
+Area of Experience
+
+Requirements for Additional Job Levels
+The position is posted at two Database Administrator levels:
+Database Administrator
+High school diploma and 12 years of relevant experience OR
+Associate’s degree and 8 years of relevant experience OR
+Bachelor’s degree and 4 years of relevant experience.
+Typical salaries are between $68,200 – $81,100
+Senior Database Administrator
+Bachelor’s degree from an accredited institution and 8 years of relevant DBA experience.
+Typical salaries are from $75,867 to $91,833
+
+Relevant IT experience with relational database management systems or database deployment. Experience with Oracle Enterprise Management and SQL Development, preferably in a university setting.
+
+Alternate Minimum Education and Experience (If available)
+Education Level
+
+Field of Study
+
+Years of Experience
+
+Area of Experience
+
+Requirements for Additional Job Levels
+
+Minimum Skills, License, and Certifications
+Minimum Skills and Abilities
+Detailed understanding of server infrastructure and operating systems including Windows and Linux, including the ability to navigate and operate in a command line only environment.
+Understanding of networking, firewalls, and load-balancing.
+Knowledge of database queries, theory, design.
+Knowledge of structured query language (SQL), such as Transact-SQL or SQL/PSM.
+Proficient in operating systems (e.g., Windows or Linux).
+Excellent communications skills both written and verbal.
+
+Minimum Technology Skills
+
+Minimum License and Certifications
+
+Desired Qualifications
+Desired Qualifications
+Bachelor’s degree in Computer Science or Engineering, Software Engineering, MIS, or related field. Master’s degree is IT or related preferred.
+Knowledge of relational databases such as SQL, Oracle, MySQL, and/or Snowflake.
+General knowledge of applications such as Ellucian Banner, Qlik, Salesforce, and/or other applications that rely on a back-end database.
+Ability to handle multiple tasks pertaining to databases and/or applications without supervision.
+
+Posting Detail Information
+Salary Range
+$55,300 - $107,800
+
+Job Category
+Information Systems/Technology
+
+Working Hours if Non-Traditional
+
+City position is located in:
+Auburn
+
+State position is located:
+Alabama
+
+List any hazardous conditions or physical demands required by this position
+
+Posting Date
+11/10/2022
+
+Closing Date
+
+EEO Statement
+Auburn University is committed to an inclusive and diverse campus environment. Women, underrepresented groups, individuals with disabilities and veterans are encouraged to apply.
+
+AUBURN UNIVERSITY IS AN AFFIRMATIVE ACTION/EQUAL OPPORTUNITY EMPLOYER. It is our policy to provide equal employment opportunities for all individuals without regard to race, sex, religion, color, national origin, age, disability, protected veteran status, genetic information, sexual orientation, gender identity, or any other classification protected by applicable law.

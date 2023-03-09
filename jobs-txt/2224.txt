@@ -1,0 +1,37 @@
+Who You Are
+As a BEN data scientist, you will research, design, implement, and deploy machine learning models and optimization strategies that will help creatives ensure that their content reaches the widest audience possible. The applied machine learning team at BEN is responsible for consulting with stakeholders to determine an appropriate machine learning solution and ensuring that the solution makes it all the way out the door and into the customer’s hands. We are dedicated to delivering valuable and usable products to our customers as painlessly as possible, while ensuring that we maintain high standards for quality, trust, and understandability.
+Typical daily activities will likely include:
+Reading literature to stay up to date on the latest machine learning advancements.
+Implementing models and algorithms described in said literature.
+Advising coworkers on where and when machine learning is appropriate to use.
+Starting with the simplest approach to solve the problem at hand.
+Documenting and monitoring machine learning models before and after deployment.
+Working with data engineers and user interface designers to ensure a coherent product.
+Updating previous work that is no longer performing to our expectations.
+Writing software tests to ensure code is doing what is expected.
+Code reviews of other data scientists work on related projects, or submitting your work for review.
+A strong candidate will ideally possess at least one strong expertise in the following areas and familiarity with others.
+
+Who We Are
+BEN Group, Inc. connects global brands to consumers through the power of popular entertainment. From the world-leading product integration platform, to the global leader for rights clearances and representation (Greenlight), to the best in class Influencer channel optimization solutions (TubeBuddy), BEN Group helps elevate projects, amplify brands, and captivate audiences. Our team is global, with offices in Los Angeles (headquarters), New York, London, Shanghai, and Provo.
+At BEN, we recognize that our employees are the key to the company’s success and work hard to maintain our incredible company culture. While BEN is a well-established organization and a recognized industry leader with a rich history of integration and licensing success stories, we have not abandoned our start-up mentality. BEN continually evolves branding strategies through artificial intelligence and predictive modeling to meet the unique needs of our clients. To that end, BEN is results-oriented, client-centric, and highly creative organization which offers candidates the opportunity to learn from the best and the brightest in this dynamic industry. BEN offers a competitive benefits package and promotes an environment which supports our core values of Empowerment, Passion, Accountability, Teamwork, and Inclusion.
+
+Responsibilities:
+Research, develop, and train machine learning models to produce actionable insights from predictive models.
+Research, develop, and train generative models to create text, images, or video.
+Extract value from data without ground-truth using unsupervised machine learning techniques.
+Develop state-of-the-art model/algorithms in one or all the following areas: deep learning (convolutional neural networks, NLP, machine vision), object detection/classification, model fusion based on different data modalities (e.g., video and audio), etc.
+Code review using industry standard best-practices.
+Spend some time building or refining good data sets. Good data is defined consistently, covers all edge cases, and is appropriately sized.
+Qualifications and Skills:
+1+ years of experience with machine learning with excellent understanding of data science fundamentals in either an academic or corporate setting.
+Strong track record of academic publications or successful industry projects related to machine learning.
+We are developing cutting-edge machine learning applications. The ideal candidate has a strong understanding of the under-the-hood fundamentals of machine learning. Additional requirements include reading and implementing related academic literature and experience in applying state-of-the-art machine learning models to computer vision (e.g., recognition, segmentation, detection) or large language models.
+Strong software engineering practices and familiarity with Python programming, debugging/profiling, testing, and version control.
+Experience in writing code that can be utilized in a production environment.
+Basic knowledge of statistical methods related to data science topics.
+Familiarity with proper experiment design fundamentals and critical thinking skills to avoid common data science pitfalls.
+Experience working collaboratively with others when developing software products.
+Ability to communicate effectively, honestly, and transparently with engineering peers and professionals outside of the data science field.
+Background in a scientific field or business training would be a plus.
+Willingness to take initiative on tasks, advocate for what’s right, and fulfill promises made.

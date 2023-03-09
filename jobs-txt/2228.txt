@@ -1,0 +1,23 @@
+The more data, the better. You see patterns and connections in seemingly unrelated places. You’re excited to build data products that make consumers' financial lives better.
+LoanSnap is a FinTech company transforming the multi-trillion dollar loan industry using artificial intelligence, cryptocurrency, and blockchain technology. We are a small, smart, and fun team backed by top VC firms. Our two founders, Karl Jacob and Allan Carroll, are serial entrepreneurs whose companies have helped millions of consumers from protecting them from spam to communicating with family members. Karl has raised 23 rounds of financing, created 6 companies from scratch and built products and companies that impact 10s of millions of people. Now we are helping consumers with the largest financial transaction of their lives, buying or refinancing a house using our tech to deliver smart loans that help customers get the right loan for their situation.
+Your job will be to lead our data science team and work with our product and engineering teams to:
+Help build industry-leading, data-driven lending products
+Rapidly prototype features and predictive models
+Identify, research, and analyze potential data sources
+Communicate quantitative results and recommendations
+Generate easy-to-understand data visualizations
+Success will be measured by how efficiently and accurately you can hire and retain a powerful team that can identify and exploit opportunities to use data to improve LoanSnap lending products and internal tools.
+Key Responsibilities
+Finding patterns in data, turning them into features, and building accurate, reliable models
+Working with PMs to build compelling products using data and prediction
+Quickly learning business context and helping the company make data-driven decisions
+Finding and mentoring talented data scientists
+Preferred Skills
+You quote Ed Tufte while sleep talking
+You're great at something which we should have put in this job description, but didn't know to ask for
+You have a passion for something outside the office
+What Sets Us Apart:
+LoanSnap is backed by Richard Branson, Joe Montana and True Ventures who were behind Peloton and Blue Bottle. We are focused on improving every American’s money situation. LoanSnap invented the world’s first smart loan technology that uses artificial intelligence to analyze a person’s entire financial picture and shows simple ways to benefit from a smarter loan now and into the future. Our clients working with LoanSnap, can save money, time and feel confident that their home loan will safeguard their financial needs.
+Every position is designed with growth and career development in mind, there are no dead-end jobs here. Our employees enjoy being part of a community of aspiring individuals who thrive in an environment that promotes high performers, innovation, high standards, and teamwork. We actively mentor and grow our employees as demonstrated by the numerous people who have started in this industry straight out of college and gone on to further either their sales or have ventured into numerous other roles within the company. We are able to do this because our technology automates a large part of the process leaving our employees to focus on helping our customers.
+LoanSnap, Inc. and LoanSnap Holdings is an affirmative action employer that provides equal employment opportunities (EEO) to all employees and applicants for employment without regard to race, color, religion, sex, national origin, disability, genetics, gender, sexual orientation, age, marital status, veteran status. In addition to federal law requirements, LoanSnap Inc. and Loan Snap Holdings complies with applicable state and local laws governing nondiscrimination in employment in every location in which the company has facilities. This policy applies to all terms and conditions of employment, including recruiting, hiring, placement, promotion, termination, layoff, recall, transfer, leaves of absence, compensation, and training. The company is committed to diversity, equity, and inclusion practices providing equal opportunities for growth and development within the organization
+Apply for this position here.

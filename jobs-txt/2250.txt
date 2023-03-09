@@ -1,0 +1,36 @@
+Job Title: Manager, Sport Science Data
+Department: Football (Soccer) Research & Development
+Reports to: Director, Football (Soccer) Research & Development
+Status: Full-Time
+Location: Blue Crow Sports Group HQ. Houston, TX
+
+Blue Crow Sports Group is hiring a Sport Science Data Manager. Working within our Football (Soccer) Research & Development department, the successful candidate will be responsible for providing research and analytical support across various performance units (Player Recruitment, Development, Sports Medicine, S&C, etc.). The position requires strong collaboration with our data science team to integrate performance data across various football research projects and to facilitate the addition of relevant performance reports to our proprietary data platform. This role requires strong research and analysis skills, ability to think critically and scientifically as well as technical and non-technical communication competences.
+Essential Duties & Responsibilities:
+Manage all performance data collection strategies aiming to maximize data integrity and quality for both, continuous athlete monitoring processes as well as ad-hoc research requests. Provide supervision and educational support regarding technology implementation and measurement protocols for performance staff working at our partner clubs.
+Lead the provision of research and analysis services to increase organizational knowledge in performance related areas such as S&C, Sports Medicine, Nutrition, Biomechanics, etc.
+Proactively formulate and identify research questions and hypothesis that may help advance our understanding of different football related areas, in particular how different sport science aspects may influence football performance, injury risk, player projections, etc.
+Design data reporting tools and systems to help athletes, coaches and other stakeholders assimilate the information and improve decision-making.
+Collaborate with our engineering team to integrate relevant performance reports and statistical models within our proprietary data management web platform.
+Work with our engineering and development team to support data warehousing, ingestion and maintenance of any performance related data into our information systems.
+Align with our R+D staff to facilitate the use of sport science data to improve current models and statistical processes in areas such as player projections, transfer analysis, playing styles, when appropriate.
+Examine the market for new technologies and research that may support Blue Crow Sports Group mission and strategic goals. In addition, implement rigorous protocols to support internal decision-making regarding the acquisition of new technologies and data sources.
+Establish continuous communication with club level staff to ensure that all performance technologies are appropriately maintained and serviced at all times.
+
+Education and/or Experience and Skills:
+Degree in sport science, data science, statistics or another related field. Master’s degree is preferred.
+Significant experience working with large datasets and analysing sport science data, including but not limited to spatial-temporal data, force plate analysis, timing gates, growth & maturation, anthropometry, biomechanics, etc.
+High degree of familiarity with common sport science technologies and their implementation within high performance environments.
+Knowledgeable in sport science related disciplines (strength & conditioning, nutrition, physiology, physiotherapy, etc.)
+Proficiency with statistical programming languages, ideal R and/or Python.
+Familiarity with data modeling and database languages(SQL, Postgress SQL, Databricks, etc.).
+Familiar with common collaboration and version control tools, such as Git and/or GitHub.
+Experienced in communication strategies, reporting best-practices, and data visualization.
+Ability to translate complex analytical concepts into easy-to-understand take-aways.
+The successful candidate will excel at qualities such as growth-mindset, critical-thinking, proactivity, problem solver and ability to build relationships with technical and non-technical colleagues, amongst others.
+Fluent in English. Ability to communicate in Spanish preferred.
+Other:
+This role is based at our Blue Crow Sports Group HQ in Houston, TX.
+Periodic international visits to our partner clubs will be required at different times during the season.
+Please note this job description is not designed to cover or contain a comprehensive listing of activities, duties or responsibilities that are required of the employee for this job. Duties, responsibilities, and activities may change at any time with or without notice.
+
+We are an equal opportunity employer and all qualified applicants will receive consideration for employment without regard to race, color, religion, national origin, sex, sexual orientation, age, disability, gender identity, marital or veteran status, or any other protected class.

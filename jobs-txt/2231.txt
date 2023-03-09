@@ -1,0 +1,52 @@
+Company Description
+We’re a six-time “Best Company to Work For,” where intelligent, talented people come together to do outstanding work—and have a lot of fun while they’re at it. Because we’re a full-service consulting firm with a diverse client base, you can count on a steady stream of opportunities to work with cutting-edge technologies on projects that make a real difference.
+Logic20/20's Global Delivery Model creates a connected experience for Logicians across geographies. You'll have access to projects in different locations, the technology to support Connected Teams, and in-person and online culture events in our Connected Hub cities.
+Job Description
+Bring your skillset to an exciting and meaningful initiative where we are leveraging data science, artificial intelligence, and machine learning to mitigate wildfires. By proactively identifying and addressing issues with power lines and related equipment, we’re increasing safety, saving lives, and protecting the environment. This is a highly visible, highly impactful project with implications for millions of customers.
+As a Big Data Engineer, you’ll join our Data Management team to design and develop scalable data processing infrastructure. Applying an Agile approach, you’ll work closely with our team of analysts, technical product owners, and data scientists to provide the structure for a highly anticipated solution. You’ll leverage your balance of technical skills and business acumen to help the client better understand their core needs and technical capabilities. Your efforts will result in greater protection for the community and our environment, long-term.
+Hear more about these efforts as Jeff Lovington shares his experience working in Data Science and Machine Learning for the Energy & Utilities sector.
+About the team
+The Logic20/20 Advanced Analytics team is where skilled professionals in data engineering, data science, and visual analytics join forces to build simple solutions for complex data problems. We make it look like magic, but for us, it’s all in a day’s work. As part of our team, you’ll collaborate on projects that help clients spin their data into a high-performance asset, all while enjoying the company of kindred spirits who are as committed to your success as you are. And when you’re ready to level up in your career, you’ll have access to the training, the project opportunities, and the mentorship to get you where you want to go.
+“We build an environment where we really operate as one team, building up each other’s careers and capabilities.” – Adam Cornille, Director, Advanced Analytics
+About you
+You are collaborative, working with partners to understand business needs and pain points
+You are determined and able to manage obstacles while maintaining a positive outlook
+You are patient and savvy in explaining technical benefits and deficits to non-technical audiences
+You have a passion for learning new data tools and best practices
+You have built large-scale machine learning pipelines, quickly developing and iterating solutions
+Qualifications
+5+ years of data engineering experience
+3+ years of implementation experience using PySpark
+Strong understanding of high-performance ETL development with Python
+Experience with Big Data Technologies (Hadoop, Spark, MongoDB)
+Experience designing and developing cloud ELT and date pipeline with various technologies such as Python, Spark, PySpark, SparkSQL, Airflow, Talend, Matillion, DBT, and/or Fivetran
+Demonstrated ability to identify business and technical impacts of user requirements and incorporate them into the project schedule
+Ideal, but not required
+An undergraduate degree in technology or business
+Agile, Scrum, and/or SAFe experience and certifications
+Experience building data and computational systems that support machine learning
+Knowledge of AWS services
+Experience with modern software delivery practices, including source control, testing, and continuous delivery
+Experience with streaming data in Spark
+Additional Information
+All your information will be kept confidential according to EEO guidelines.
+Compensation starts at $160,000 and is flexible dependent on experience
+About Logic20/20
+To learn more about Logic20/20, please visit: https://www.logic2020.com/careers/life-at-logic
+Core Values
+At Logic20/20, we are guided by three core values: Drive toward Excellence, Act with Integrity & Foster a Culture of We. These values were generated and agreed upon by our employees—and they help us pursue our goal of being one of the best companies to work for and to work with. Learn more at https://www.logic2020.com/company/our-values.
+Logic20/20 Benefits
+Why Logic20/20? It’s our goal to be one of the best companies to work for. One piece of the puzzle is an evolving set of benefits that extend past medical, dental, and 401(k).
+You will have
+Career Development – A built-in program from day 1, providing a mentor and individually-directed training opportunities, plus access to leaders across the company
+PTO, Paid Holidays, & Voluntary Leave – Worry-free time off to recharge and pursue your personal goals
+Community & Committees – As part of our “Culture of We,” Logic20/20 invests in providing many social, interest, and learning opportunities
+Recognition – From peer recognition, swag, and the chance to win a once-in-a-lifetime type of award, we make your Logic20/20 journey stand out
+Referral Programs & Bonuses – Employee, project, and sales referral programs with paid incentives
+Equal Opportunity Statement
+We believe that people should be celebrated: for their talents, ideas, and skills, but most of all, for what makes them unique. We prohibit harassment and/or discrimination based on age, race, creed, color, religion, sex, national origin, ancestry, disability status, veteran status, sexual orientation, gender identity or expression, genetic information, marital status, citizenship status, or any other basis as protected by federal, state, or local law.
+To learn more about our DE&I initiatives, please visit: https://www.logic2020.com/company/diversity-equity-inclusion
+Privacy Policy
+During the recruitment and hiring process, we gather, process, and store some of your personal data. We consider data privacy a priority. For further information, please view our company privacy policy.
+Job Type: Full-time
+Pay: $160,000.00 per year

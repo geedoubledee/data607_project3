@@ -1,0 +1,46 @@
+Senior Azure Data Engineer
+
+Bravotech a leader in IT staffing and staff augmentation services, seeks a Direct Hire Azure Data Engineer for a Plano, Texas based role.
+
+The Senior Azure Data Engineer is responsible for designing and implementing Data and BI solutions using the Microsoft Azure platform. This role is 75% hands-on coding and 25% architecting Azure solutions. You must have at least five years of hands-on Azure expertise in designing, developing scalable multi-tenant Data and machine learning products using Azure Data Lake Gen2, Azure Databricks, Data Pipelines for near real-time data analytics and machine learning, and near real-time Azure SQL cloud-based data warehouse.
+
+Must also be an expert with 10 years of hands-on experience in designing, implementing, and delivering into production, large scale near real-time data warehouse.
+
+RESPONSIBILITIES FOR POSITION
+Design and develop data pipelines
+Design and develop Azure execution architecture
+Evangelize engineering design and development standards
+Acts as a key contributor to the design and development lifecycle of analytic applications utilizing Microsoft Azure and BI technology platforms
+Participate in Agile ceremonies including daily stand-ups, sprint planning, retrospectives, and product demonstrations
+Produce efficient and elegant code that meets business requirements
+Author unit tests that adhere to code coverage guidelines
+Proactively communicate progress, issues, and risks to stakeholders
+Accurately estimate assignments
+Create and maintain technical documentation
+Mentor less experienced engineers
+Contribute to the growth and maturity of the Software Engineering group
+
+REQUIRED Experience
+5 years hands-on experience designing and implementing multi-tenant solutions using Azure Databricks for data governance, data pipelines for near real-time data warehouse and machine learning solutions
+10 years of extensive, hands-on experience designing and implementing large scale multi-tenant distributed data architecture for BI and OLTP systems
+Advanced hands-on experience designing and implementing large scale multi-tenant data pipeline (TB or PB in size) including Change Data Capture (CDC) solutions for structured, semi-structured, and unstructured data in batch and real-time environments
+5 years of hands-on experience in Azure services including Azure SQL Database, Azure Databricks, Azure Analysis Services, Azure ML Services, and Azure Synapse Analytics
+5 years of hands-on experience with data integration using ETL / ELT tools (e.g., SSIS, Azure Data Factory, Airflow)
+
+Technical/Functional Competencies
+Design data platform solutions using Azure data services such as Data Factory, Azure Event Hub, Azure Synapse Analytics, Azure Databricks
+Knowledge of Python programming
+Expert in data modeling
+Broad experience in Microsoft SQL technologies including SSAS Tabular models, DAX, T-SQL, Service Broker, Replication, and Performance Tuning
+Broad multi-tenant data architecture and implementation experience across different data stores (e. g., Azure Data Lake GEN2, Azure SQL Data Warehouse, Azure Blob Storage, HDFS), messaging systems (e. g., Azure Event Hubs, Apache Kafka), and data processing engines (e. g., Azure Data Lake Analytics, Apache Hadoop, Apache Spark, Apache Storm, Azure HDInsight)
+Experience with data integration through APIs, Web Services, SOAP, and/or REST services
+Experience using Azure DevOps and CI/CD as well as Agile tools and processes including Git, Jenkins, Jira, and Confluence
+Must have demonstrated experience designing and implementing data pipelines for consumption by machine learning and BI solutions.
+Knowledge of SOA and Micros Services Application Architecture
+Ability to work in a fast-paced, collaborative team environment
+Excellent written and verbal communication skills and ability to express ideas clearly and concisely
+
+US Citizen or Green Card only - FTE
+Must be open to working onsite in the office 4 days - during first 90 days
+IND123
+Clean criminal background, drug screen, ability to pass the credit check.

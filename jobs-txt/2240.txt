@@ -1,0 +1,22 @@
+At Jellyfish, we build software that helps engineering teams measure their development efforts and improve strategic decision-making.
+As a member of Jellyfish Research, you will work closely with data scientists to understand and facilitate data needs for high-impact research, analysis and reporting. You will optimize, expand or redesign our current data platforms, including storage and pipeline architecture, to ingest, combine, and aggregate data from multiple sources. You'll also build tooling to export data to external systems as needed. We are looking for a teammate with experience building robust, efficient, high-throughput data systems that primarily serve data analysts and scientists. We would love it if you are interested, or have experience, in doing some data analysis.
+Most importantly, you will be part of a highly talented team working in a fun, challenging, and collaborative environment, building a fast-growing business and company led by experienced entrepreneurs and backed by top-tier investment partners.
+As a Data Engineer for Jellyfish Research, you will:
+Design, build, and maintain research data platforms and pipelines for analytics and data science
+Collaborate with data scientists to understand needs and design solutions to acquire and aggregate data at scale to empower data scientists and the data-curious to derive actionable insights
+Develop tools to monitor research data platform health and performance
+Foster an environment where data scientists can assist with some data pipeline changes to facilitate their learning, growth, and appreciation for the complexities of the data
+Collaborate on data flows for new, innovative feature prototypes
+Perform as-needed, as-available, and/or as-interested data analyses and exploration
+About you:
+You have a strong interest in data platforms for analytics and data science use cases
+Proven experience in data engineering, database administration, data pipeline development, or building data platforms
+You have experience building scalable, cloud-based solutions for data aggregation and reporting
+You have advanced SQL knowledge and experience with multiple database solutions
+You are a strong programmer
+You love learning new things and teaching others what you know
+You have strong communication skills and enjoy working as part of a cross-functional team.
+Bonus points if you have experience with:
+Standard Python libraries for data science (e.g. pandas, scikit-learn, TensorFlow).
+Our engineering technology stack (Python 3, Django, Postgres, Docker, AWS).
+We believe that it takes a diverse team to build the best company we can. Jellyfish welcomes people from all backgrounds and especially encourages applications from members of groups underrepresented in the software industry.

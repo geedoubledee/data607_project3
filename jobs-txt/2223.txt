@@ -1,0 +1,42 @@
+Paramount Global (NASDAQ: PARA, PARAA) is a leading global media and entertainment company that creates premium content and experiences for audiences worldwide. Driven by iconic studios, networks and streaming services, Paramount's portfolio of consumer brands includes CBS, Showtime Networks, Paramount Pictures, Nickelodeon, MTV, Comedy Central, BET, Paramount+, Pluto TV and Simon & Schuster, among others. Paramount delivers the largest share of the U.S. television audience and boasts one of the industry's most important and extensive libraries of TV and film titles. In addition to offering innovative streaming services and digital video products, the company provides powerful capabilities in production, distribution and advertising solutions.
+As a Director of Data Engineering, you will be collaborating with Ad Sales, Marketing, Research, Finance, Product, and other engineering data teams to build out scalable data pipelines and data products for Paramount Global. We are passionate about working with diverse teams and leading by example. Does this sound like you? Join us at Paramount!
+
+Responsibilities:
+Lead data initiatives across Paramount Streaming Organization
+Lead a data engineering team and software engineers for developing scalable and reliable data pipelines
+Drive data architecture and systems planning
+Partner with our product, infrastructure, BI, and marketing teams, developing technical roadmaps aligned with the company’s vision and strategy
+Partner with other data engineering groups and implement standards and best practices.
+Stay current with the latest technology trends! Qualities & Experience We’re Seeking:
+
+Minimum Bachelor's degree in Computer Science or a similar degree
+10+ Years and strong experience in Data Engineering or Software Development or Data Science and 5+ years leading teams
+Strong experience with data engineering on big data platforms
+Experience working with Streaming data
+Experience working in either GCP or AWS cloud platform
+Programming Experience in Python or Scala
+Experience working with large volumes of data
+Practical experience in Agile/SAFe methodology and tools
+Experience demonstrating leadership, self-motivation, accountability, and being a standout colleague.
+Demonstrated ability to create and develop business plan and ability to articulate long-term value proposition
+Proactive and strategic thinker with strong written and verbal communication skills Additional Qualifications:
+
+Experience developing SDLC processes, including DevSecOps & CI/CD
+Familiarity with exploratory data analysis using tools like Jupyter Labs, Pandas & matplotlib, etc.
+Experience with Snowflake
+Experience with Apache Airflow
+Experience working with resources from multiple regions
+
+ADDITIONAL INFORMATION
+
+Hiring Salary Range: $140,000.00 - 200,000.00.
+
+The hiring salary range for this position applies to New York City, California, Colorado, Washington state, and most other geographies. Starting pay for the successful applicant depends on a variety of job-related factors, including but not limited to geographic location, market demands, experience, training, and education. The benefits available for this position include medical, dental, vision, 401(k) plan, life insurance coverage, disability benefits, tuition assistance program and PTO or, if applicable, as otherwise dictated by the appropriate Collective Bargaining Agreement. This position is bonus eligible.
+
+https://www.paramount.com/careers/benefits
+
+Paramount is an equal opportunity employer (EOE) including disability/vet.
+
+At Paramount, the spirit of inclusion feeds into everything that we do, on-screen and off. From the programming and movies we create to employee benefits/programs and social impact outreach initiatives, we believe that opportunity, access, resources and rewards should be available to and for the benefit of all. Paramount is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ethnicity, ancestry, religion, creed, sex, national origin, sexual orientation, age, citizenship status, marital status, disability, gender identity, gender expression, and Veteran status.
+
+If you are a qualified individual with a disability or a disabled veteran, you may request a reasonable accommodation if you are unable or limited in your ability to use or access. https://www.paramount.com/careers as a result of your disability. You can request reasonable accommodations by calling 212.846.5500 or by sending an email to viacomaccommodations@viacom.com. Only messages left for this purpose will be returned.

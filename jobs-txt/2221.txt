@@ -1,0 +1,26 @@
+Leading the future in luxury electric and mobility
+At Lucid, we set out to introduce the most captivating, luxury electric vehicles that elevate the human experience and transcend the perceived limitations of space, performance, and intelligence. Vehicles that are intuitive, liberating, and designed for the future of mobility.
+We plan to lead in this new era of luxury electric by returning to the fundamentals of great design – where every decision we make is in service of the individual and environment. Because when you are no longer bound by convention, you are free to define your own experience.
+Come work alongside some of the most accomplished minds in the industry. Beyond providing competitive salaries, we’re providing a community for innovators who want to make an immediate and significant impact. If you are driven to create a better, more sustainable future, then this is the right place for you.
+
+As a Manager within the Data science & Machine Learning team, you will have the opportunity to shape the vision and strategy for the Lucid data analytics and ML products, as well as make significant contributions towards building the data science and ML organization.
+In this role you will be blending a passion for data science, advanced analytics and ML with the engineering rigor and leadership skills required to build and deliver highly sophisticated AI services and products. The overarching vision for the tech lead manager is to create an ecosystem of inclusion, diversity, technical know-how and cross-functional collaboration that can empower data scientists, analysts, machine learning engineers and research scientists in their efforts to transform the rich database of the Lucid vehicles into valuable insights and products for customers and internal business or engineering teams alike.
+The Role
+Manage engineers and grow the team by hiring and finding great candidates, establishing, and maintaining team culture.
+Ensure high technical standards by instituting processes (architecture and design reviews, testing, and documentation) and culture (engineering excellence).
+Contribute and add to the team’s code base and technical design by leveraging state of the art machine learning techniques for a variety of problems across the company
+Define and shape the team vision and roadmap for Data Science, Operational Intelligence team by working with partners in other departments such as manufacturing, supply chain, logistics and marketing.
+Qualifications
+Masters or PhD in computer science, mathematics, engineering with 4+ years of data science and machine learning experience.
+At least 4 years of experience programming with Python, Scala, Java or C/C++
+At least 2 years of experience leading teams developing analytics, data science and ML solutions
+Proven ability in change management and conflict resolution
+Knowledge of underlying mathematical foundations of statistics and machine learning. Hands on experience and in-depth knowledge of deep learning, CNNs, NLP, signal processing, optimization, and other advanced analytics techniques is highly preferred.
+Experience with cloud technologies and tech stack including but not limited to big data technologies (Spark, database systems, ETL, etc.), Kubernetes, Airflow, Kubeflow, MLFlow, or any other data science/ML pipeline or platforms.
+Excellent communication skills - strong verbal, written and presentation skills with the ability to articulate complex solutions and in a relatable way at all levels of the organization
+At Lucid, we don’t just welcome diversity - we celebrate it! Lucid Motors is proud to be an equal opportunity workplace. We are committed to equal employment opportunity regardless of race, color, national or ethnic origin, age, religion, disability, sexual orientation, gender, gender identity and expression, marital status, and any other characteristic protected under applicable State or Federal laws and regulations.
+
+Notice regarding COVID-19 protocols
+At Lucid, we prioritize the health and wellbeing of our employees, families, and friends above all else. In response to the novel Coronavirus all new Lucid employees, whose job will be based in the United States may or may not be required to provide original documentation confirming status as having received the prescribed inoculation (doses). Vaccination requirements are dependent upon location and position, please refer to the job description for more details.
+Individuals in positions requiring vaccinations may seek a medical and/or religious exemption from this requirement and may be granted such an accommodation after submitting a formal request to and the subsequent review and approval thereof by our dedicated Covid-19 Response team.
+To all recruitment agencies: Lucid Motors does not accept agency resumes. Please do not forward resumes to our careers alias or other Lucid Motors employees. Lucid Motors is not responsible for any fees related to unsolicited resumes.

@@ -1,0 +1,32 @@
+Business Intelligence Developer
+Requisition #: 492443
+Location: Johns Hopkins Hospital, Baltimore, MD 21201
+Category: Non-Clinical Professional
+Work Shift: Day Shift
+Work Week: Full Time
+Weekend Work Required: No
+Date Posted: Nov. 10, 2022
+Join an amazing global healthcare organization!
+Excellent compensation package!
+Awesome benefits, including dependent tuition reimbursement!
+Requisition #: 492443
+Location: 1800 Orleans Street, Baltimore, MD 21287
+Shift:
+Full Time (40 hours)
+Day Shift; 8:00am - 4:30pm
+Exempt; Pay Grade: IX
+Job Summary:
+Now announcing $5,000 sign on bonus for this fully remote job position. As part of a dynamic team, grow and learn a broad set of skills in order to address requirements from clinical and operational leadership representatives and propose feasible system solutions for data, information and management. conduct system development to improve clinical and operational efficiency (cost), enhance value (quality and safety of care), support a learning department/organization (Quality Improvement/Research). Create Dashboard/Web development for multisource operational and clinical reporting; Web development with EDW feed financial development, Safety/Quality clinical information and reporting platform; Precision Medicine/PMAP data utilization and access. Outcomes include measurable, positive, and lasting impact on business results and rehabilitation clinical care via integrated solutions and reporting.
+Education:
+A Bachelors degree required. Masters degree strongly preferred.
+Licensure/Certifications:
+EDW internal certification required within 6 months. A certification such as Certified Analytics Professional, project management, or a certification in a data analytic tool such as Tableau Software, or Epic required. The ability to obtain Epic Caboodle or Clarity Certification as requested in the first year.
+Experience:
+Requires minimum of 5 years of progressive experience in healthcare IT, analytics, software development or data management. Experience with Business intelligence development tools such as tableau and SAS and programming tools such as R, Python, and SQL.
+Requires demonstrated experience in project management or management and experience working with external vendors.
+Knowledge/Skills:
+Requires a thorough knowledge of health care and hospital business operations. Requires knowledge and understanding of the interrelationship of business process and Information Systems applications. Requires a thorough knowledge of data warehouse and data management principles and processes and database development. Understands the range of options and best practices for common Business intelligence design techniques such as change data capture, key generation and optimization, and performance tuning. Significant experience with data quality, data profiling, metadata management and reporting. Knowledge of all phases of the Software Development Life Cycle (SDLC). Strong proficiency in SQL programming, query writing, query performance tuning, and database technologies. Advanced knowledge in medical terminology and clinical informatics. Ability to distill and articulate technical and organizational approach to clinical data needs.
+Goal oriented and action-focused, pragmatic and self-disciplined, organized with ability to facilitate and interact effectively with upper levels of management. Ability to plan, organize, direct, implement and evaluate processes to lead projects and manage resources to achieve desired result. Strong programming, analytical, and computational skills. Ability to convey technical methods, approaches and plans to audience of varying degrees of technical understanding including clinical and business stakeholders and technical team. Ability to manage long term client and vendor relationships, including resolution of production issues and upgrades, to help future product development better to meet the needs of the organization. Demonstrated command of web technologies and business intelligence techniques & tools. Must be detail-oriented and accurate.
+Johns Hopkins Health System and its affiliates are an Equal Opportunity / Affirmative Action employers. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity and expression, age, national origin, mental or physical disability, genetic information, veteran status, or any other status protected by federal, state, or local law.
+Johns Hopkins Health System and its affiliates are drug-free workplace employers.
+We are committed to providing a healthy and safe environment for our patients, visitors and staff members. The Johns Hopkins Hospital has a tobacco-free at work policy. Employees must refrain from using any tobacco products during their work shifts — including while at lunch or on breaks, and whether they are on or off campus.

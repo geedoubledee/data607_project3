@@ -1,0 +1,15 @@
+Job Summary::
+Administer, test, and implement computer databases, applying knowledge of database management systems. Coordinate changes to computer databases. Identify, investigate, and resolve database performance issues, database capacity, and database scalability. May plan, coordinate, and implement security measures to safeguard computer databases.
+Job Duties and Responsibilities: :
+Maintain SQL Database Server environment.
+Implement and optimize the database systems that support all Web Service environments.
+Conduct performance tuning of indexes and databases.
+Review database design and integration of systems, provide backup recovery, and make recommendations regarding enhancements and/or improvements. Findings should be reported to the CORs during weekly meetings to determine feasibility, develop plans/schedule and implement as applicable.
+Maintain security and integrity controls.
+Formulate policies, procedures, and standards relating to database management, and monitor transaction activity and utilization.
+Oversee the scheduling of database projects, database and transaction log backups, notifications, and database replication.
+Review technical designs, reports, documentation, and other materials produced by staff.
+Maintain and improve all Disaster Recovery Plans (DRP) to include design, configuration, testing, and documentation yearly.
+Job Requirements (Education/Skills/Experience)::
+Tier 2 – Moderate Risk Public Trust
+A minimum of 7 years’ SQL database administration experience

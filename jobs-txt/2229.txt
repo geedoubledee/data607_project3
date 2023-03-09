@@ -1,0 +1,32 @@
+Who we are:
+Chartboost is the leading in-app monetization and programmatic advertising platform. We reach a global audience of over 700 million monthly active users and process over 2.7 trillion monthly advertising auctions. The Chartboost SDK is one the most widely integrated mobile ad SDKs and through the Chartboost Exchange, Ad Network, DSP and other services, we empower mobile app developers to build businesses, while connecting advertisers to highly engaged audiences.
+As a senior member of the analytics team, you will deliver re-usable data products for use by executive, operations, partnerships, product, and engineering teams. You will collaborate with data engineers, data scientists, product managers, and operations analysts to develop and drive the data analysis strategy for Chartboost's data platform. You will create re-usable, and easily maintainable data products, dashboards, design and execute A/B tests. Our data is massive ~4.3PB, with ~100TB ingested daily. If you're looking for the rare opportunity to solve complex challenges at scale and impact the ad-tech ecosystem in a meaningful way, you will find this role compelling and rewarding.
+Impact you will make:
+Deliver analyses and reporting to the leadership team to track achievement and performance of financial targets. Deliver weekly deep-dives on opportunities and gaps in business performance. Empower the leadership to make critical business decisions.
+Design and execute A/B tests to compare performance of new features and strategies vs. benchmark. Empower product team to evaluate product performance.
+Develop statistical and machine learning models that drive product insight and impact product vision
+Design and execute analyses to key operational questions to improve yield revenue, and profitability of advertising campaigns. Empower the operations and business teams to prioritize advertisers, and publishers and test operational strategies.
+Define, prioritize and deliver analytics roadmap and product features based on business requirements.
+Take ownership of the data and visualization strategy for the analytics team.
+Manage members of the team by providing technical and career guidance
+Who you are:
+BS in Computer Science, Math, Statistics, Economics, or other quantitative field; Masters, MBA or PhD preferred
+5+ years of experience as a data analyst ideally with 1+ years of experience in digital advertising or gaming
+Fluent in SQL; Solid experience with programming in Python; Adept in at least one visualization tool such as Tableau, or QlikView
+Demonstrable experience with some or all of the following: statistics, experimental design, machine learning, deep learning
+Experience in analyzing large datasets, preferably in a Hadoop or Spark environment, and deploying production ready systems at scale
+Strong written and oral communication skills
+Ability to work effectively in a fast-paced environment with changing priorities
+Ability to collaborate effectively with engineers, product managers, analysts, and marketing to deliver unambiguous business impact
+Perks:
+Competitive salary with bonuses based on performance
+Restricted Stock Units (RSUs) - you will have the potential of RSUs depending on the level/role
+Comprehensive medical, dental and vision insurance
+401(k) plan with match through Fidelity
+Catered lunches and fully stocked kitchens
+Commuter Program
+Flex Vacation – personal time to refresh your mind/body/soul, spend time with loved ones and celebrate life events. There is no accrual or specific limit to the amount of time an employee may use
+More about us:
+We are proud of the product we've built and appreciate the impact it has on other people's businesses and lives. We want to be surrounded by people who are always finding opportunities to try something new and grow. We love data and anything that helps drive intelligent decisions and always design with the user in mind. Sounds like a fit? Join us, and be part of the team that will change the future of mobile gaming!
+We are an equal opportunity employer — we celebrate diversity and are committed to creating an inclusive environment for all employees and make our hiring decisions without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, disability, age, or veteran status.
+California Residents, please review the Chartboost California Employment Candidate Privacy Notice before submitting any personal information.

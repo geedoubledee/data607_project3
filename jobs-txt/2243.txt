@@ -1,0 +1,44 @@
+About AgencyKPI:
+AgencyKPI is a Midwest Insurtech company that provides a business intelligence platform for insurance networks, independent agencies, and insurers.
+
+The people at AgencyKPI are an unparalleled combination of experienced insurance industry leaders along with exceptional data scientists, software developers and business strategists, and we are looking for the right people with the right skills to join us.
+
+During a time when most Insurtech companies claim that disruption is the path to the future, AgencyKPI is developing software platforms that support Harmony, Understanding, and Balance between all partners and vendors in the insurance industry. Why this approach? Because we have a fundamental belief that insurance agencies, networks, carriers, and wholesalers desire to deepen their relationships through mutual understanding and the harmonizing and balancing of their collective efforts.
+
+Culture:
+We are remote - first company with employees located in various regions throughout the Midwest. We were Ranked by the Austin Business Journal in 2020 as one of the Top 10 Best Places to Work, because we strive to understand the working styles of all our employees to ensure that our “Ways of Working” best serve all of us collectively and as individuals. Our core values of Integrity, Innovation and Delivery guide us individually and as a team to work together in a cohesive manner to define and drive our organizational success. We are seeking talented individuals who share these values and want to make a direct impact to the insurance industry.
+What is the role:
+The Data Engineering Manager, reporting to the CTO, will lead a team of Data Engineers, Data Analysts, and Database Admins, and partner closely with Application and Product teams to define, design and deliver solutions that combine modern, cloud-native (AWS) data pipeline toolsets. We're building solutions to achieve amazing feats with data, to arm our customers with actionable intelligence. You will have a company-wide view of the Data Engineering solutions that you build, and you will consistently think in terms of automating or expanding the results company-wide.
+AgencyKPI thrives by finding the right people, aligning them on the right teams, with the right tools to solve the hard customer problems which align with our Mission/Vision/Values.
+What you’ll do on a daily basis:
+Lead a team of Data Engineers, Analysts and Admins
+Design and implement solutions to complex and ambiguous data challenges, starting from first principles
+Evolve our long-term data engineering strategies
+Define the tech stack & operational strategies
+Work with AWS technologies such as S3, Glue, Lambda, Athena, RDS and more
+Experiment and explore new technologies to create innovative solutions
+Apply data engineering best practices in terms of quality, security, scalability and maintainability
+Develop means for automating data- and analytics-related systems and processes, as appropriate, to support data science activities.
+Develop and manage the processes, controls, and technical solutions necessary for an effective data engineering function
+Adapts departmental plans and priorities to address resource and operational challenges.
+What background should you have?
+Required
+3+ Years managing a high performing Data Engineering (or similar) team
+Bachelor's degree in a relevant field (Computer Science, Engineering, Mathematics, etc.), or equivalent industry experience
+5+ Years with hands on exposure to data modeling, data warehousing, and building ETL pipelines with Amazon AWS services, at scale
+Knowledge of batch and streaming data architectures
+Familiarity with non-relational databases / data stores (object storage, document or key-value stores, graph databases, column-family databases)
+Flexible, adaptable and ability to work in a rapidly changing environment
+Preferred Qualifications
+Experience with AWS technologies like RDS, S3, EC2, Glue, Lambda, and IAM roles and permissions etc
+Experience applying statistical and machine learning models to large datasets
+Experience using the scientific method to solve problems by forming hypotheses and testing them through well-documented and reproducible experiments
+Ability to effectively articulate technical challenges and solutions
+Ability to work with ambiguous/undefined problems; ability to think abstractly
+Maturity, judgment, negotiation/influence skills, analytical skills, and leadership skills
+What do we offer?
+Competitive compensation package
+Earn the opportunity to enjoy an equity position
+Generous health, dental and vision insurance package that covers employee, spouse, and dependents
+Instantly vesting 401k with company match
+Getting to work with an incredibly talented team, in a rapidly scaling company, with unmatched industry buy-in

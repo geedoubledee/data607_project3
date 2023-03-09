@@ -1,0 +1,53 @@
+Company Description
+Zayo provides mission-critical bandwidth to the world’s most impactful companies, fueling the innovations that are transforming our society. Zayo’s 133,000-mile network in North America and Europe includes extensive metro connectivity to thousands of buildings and data centers. Zayo’s communications infrastructure solutions include dark fiber, private data networks, wavelengths, Ethernet, and dedicated Internet access. Zayo serves wireless and wireline carriers, media, tech, content, finance, healthcare and other large enterprises.
+This role will lead a team of data engineers and own the strategy for data extraction, engineering, and storage at Zayo. As the leader of Data Engineering, this position will be responsible for the design, development, and support of an existing on-prem MSSQL data warehouse that supports system integration, analysis, and reporting. Zayo is also making a large investment in bringing our data environment into a scalable enterprise level cloud based architecture, so it’s an exciting time to join the team and be a part of designing, building, and implementing a new data foundation and ecosystem.
+
+Responsibilities
+Build and manage a team of talented data engineers with the ability to not only keep
+up with, but also pioneer, in this space.
+Collaborate with and influence leadership so that your team’s work directly impacts
+company strategy and direction.
+Develop new techniques and data that will enable answering previously
+unanswerable and new questions.
+Design and implement a data engineering roadmap and execute the vision behind it.
+Instill a culture of ownership, collaboration, and results.
+Track record of recruiting talent in data roles including data engineering, analytics,
+and data science.
+Build and automate new ETL processes to pull from many disparate data sources to
+centralize information in a new data warehouse design
+Guide a team to maintain and develop existing data warehouse integrations and ETL
+processes to move data efficiently between various enterprise systems.
+Create a team policy for version control and process for documentation and change
+management.
+Miscellaneous automation of data processes across a wide variety of customer
+platforms
+Production support for integration servers
+SQL & Reporting support across various business groups
+Follows standard test plan to test each client and ensure that configured functionality
+meets the needs of the company
+Ability to handle multiple priorities and meet aggressive deadlines
+Responsible for occasional after-hours maintenance work
+
+Qualifications
+Five or more years leading and coaching a team of technical data staff
+Ability to translate business concepts into a technical architecture
+Intermediate to Advanced SQL skills
+Proficiency in MS SQL Server, SSRS & MS BI stack preferred
+Experience computing in a Cloud Datalake/Warehouse environment
+Experience with version control and deploy via GitHub/GitLab preferred
+Bachelor's or Masters degree Computer Information Systems or similar
+Five or more years database design, data management, reporting and ETL.
+The ability to communicate effectively at all levels of the organization.
+Prior experience with data migration/integration efforts
+Prior experience with Salesforce.com a plus
+Prior experience with Cast Iron integration application or similar tools a plus
+Prior experience with dbt or similar data transformation tool a plus
+Base pay range: $127,500 - 187,000, commensurate with experience.
+Nothing in this job description restricts management’s right to assign or reassign duties and responsibilities to this job at any time
+Benefits, Rewards & Wellness
+Excellent Health, Dental & Vision Insurance
+Retirement 401(k) Savings Plan
+Fitness membership discounts
+Generous paid time off policy including paid parental leave
+Zayo provides equal employment opportunities to all employees and applicants for employment and prohibits discrimination and harassment of any type without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state, provincial or local laws.
+This policy applies to all terms and conditions of employment, including recruiting, hiring, placement, promotion, termination, layoff, recall, transfer, leaves of absence, compensation and training.

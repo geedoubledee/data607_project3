@@ -1,0 +1,33 @@
+The Junior Database Administrator will maintain SQL Server databases by planning and monitoring.
+Responsibilities:
+Support database upgrades by maintaining, evaluating, and improving a transaction processing model
+Answer user questions
+Monitoring database performance
+Evaluating and resolving DB processing and programming problems
+Secures database by preparing access and control policies and procedures
+Implements disaster recovery procedures
+Involved in tasks related to training users in database use
+Requirements: (Clearance/Citizenship)
+Public Trust
+Successful completion of HSPD-12 PIV process and BEP background check
+2-4 years of related database experience
+Experience maintaining databases in a production environment
+Experience:
+Certification specializing in various database management systems
+Design database management tools
+Assesses database performance by developing a protocol for measurement of results and identification of problem areas
+Experience in improving database performance
+Education:
+A bachelor's degree in information technology or computer science
+Shift information:
+Regular/Full-time
+Job Type: Full-time
+Pay: $65,000.00 - $90,000.00 per year
+Schedule:
+5x8
+8 hour shift
+Experience:
+Database administration: 1 year (Required)
+License/Certification:
+Public Trust Clearance (Required)
+Work Location: Remote

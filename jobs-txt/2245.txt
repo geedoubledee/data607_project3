@@ -1,0 +1,21 @@
+Context
+We have a great project and need Migration Engineers to assist with migration of an enterprise client to a new data center. This new IT production environment is based in Redhat Linux, IBM AIX, Sun Solaris, UNIX and HP UX. We are searching for an engineer to support the migration by migrating servers, storage and databases to the new environment. We use a strict step-by-step plan (factory plan) to efficiently execute the migration.
+
+Competence
+Bachelor of Science / Master's degree
+Minimal 3-5 years of relevant work experience within an enterprise environments
+Advanced knowledge of Redhat Linux and UNIX
+Advanced knowledge of IBM AIX, Solaris, and HP UX
+Some knowledge of IBM XIV, Pure Storage, HPE Nimble and 3PAR storage preferred
+Experience with databases (Oracle) preferred
+Strong verbal and written communication skills
+Good documenting capabilities
+The candidate has a hands-on mindset, a strong customer- and problem-solving orientation, shows fast results, and has demonstrated good communication skills, especially in an international IT organization. To achieve the project goals, the candidate is able to liaise directly with all stakeholders. The candidate has a clear focus on results and quality, and is eager to develop quickly as a project leader, serving customers.
+
+Activities
+Intake / analysis of applications for migration
+Creation or update of migration run books
+Migration of VMware instances to the new platform
+Creation of storage disks, virtual storage devices
+Reconfiguration of servers, including storage & network
+0lzQgVi9oq

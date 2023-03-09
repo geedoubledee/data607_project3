@@ -1,0 +1,26 @@
+Note: By applying to this position you will have an opportunity to share your preferred working location from the following: New York, NY, USA; Chicago, IL, USA.
+Minimum qualifications:
+Bachelor's degree in Statistics, Computer Science, Economics, Mathematics or equivalent practical experience
+7 years of experience in quantitative analytics with a focus on marketing analytics
+5 years of experience in people management
+Experience with analytic software tools (e.g., SQL, R, SAS)
+
+Preferred qualifications:
+PhD degree in Statistics, Computer Science, Mathematics, or a related technical field
+Experience working in the ad industry
+Experience with cloud engineering and storage
+About the job
+Google creates products and services that make the world a better place, and gTech’s role is to help bring them to life. Our teams of trusted advisors support customers globally. Our solutions are rooted in our technical skill, product expertise, and a thorough understanding of our customers’ complex needs. Whether the answer is a bespoke solution to solve a unique problem, or a new tool that can scale across Google, everything we do aims to ensure our customers benefit from the full potential of Google products.
+
+To learn more about gTech, check out our video.
+Additional information:
+
+The US base salary range for this full-time position is $166,000-$262,000 + bonus + equity + benefits. Our salary ranges are determined by role, level, and location. The range displayed on each job posting reflects the minimum and maximum target for new hire salaries for the position across all US locations. Within the range, individual pay is determined by work location and additional factors, including job-related skills, experience, and relevant education or training. Your recruiter can share more about the specific salary range for your preferred location during the hiring process.
+Please note that the compensation details listed in US role postings reflect the base salary only, and do not include bonus, equity, or benefits.
+Responsibilities
+Manage a team of Marketing Data Scientists that provide consultative services and develop custom machine learning/statistical solutions
+Deliver strategic insight of the organization, establishing close relationships with leaders in business to ensure strategic alignment on opportunities and customer priorities
+Build media measurement goals and lead analytics aspects of client engagements in the area of marketing mix modeling, attribution, and incrementality
+Solve complex analysis problems, applying methods such as statistical and machine learning models
+Design and deliver projects that drive automation, yield insights, and/or merge customer data with Google stack for the benefit of meeting the customers’ business objectives
+Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also Google's EEO Policy and EEO is the Law. If you have a disability or special need that requires accommodation, please let us know by completing our Accommodations for Applicants form.

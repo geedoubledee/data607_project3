@@ -1,0 +1,53 @@
+Why Vacasa
+We started with just one home and an idea: to bring homeowners and renters together with smart technology and caring local teams. Today, we're the largest full-service vacation rental company in North America thanks to the people who give us their best every day. You'll fit right in here if you're curious, entrepreneurial, and thrive in a rapid-growth environment.
+Why Data Science at Vacasa
+Company growth at Vacasa is at a sweet-spot: plenty of data for training models, AI initiatives have full executive support, and we are just scratching the surface. Vacasa's machine learning and data science research is broad. We train dozens of models, from dynamic daily pricing for tens of thousands of vacation homes, to probability models that are used throughout the company. There's potential to explore and implement recommender systems, NLP models, and neural networks.
+What we're looking for
+As a Data Science Manager, you will shape the future of predictive modeling at Vacasa. You will inspire, lead, and grow a team of world-class data scientists to execute and capitalize on multi-million dollar business opportunities. Your team will use large, complex datasets to train machine learning models to solve business problems.
+As player-coach, you will mentor and lead your team by example. You will demonstrate measurable improvements to our models through novel feature engineering approaches. You will set the research agenda for your team and break down tasks. You will determine when models are ready for production and recommend model retraining schedules. You will collaborate on a cross-functional engineering team. You will regularly interact with internal stakeholders including Product and Analytics. Your team has full executive support to scale the business using the latest techniques in data science and machine learning.
+You won't simply present data, but tell data-driven stories. You will convince and influence leaders using data-driven insights and recommendations. You will build credibility through structure and clarity, and be a trusted strategic partner.
+Vacasa's machine learning and data science research is broad. We train dozens of models, from dynamic daily pricing for all units, to probability models that are used throughout the company. There's potential to explore and implement recommender systems, NLP techniques, and neural networks. Vacasa has hundreds of millions of records for model training. Help us discover value in our data and bring it to customers!
+What you'll do
+Lead, mentor, and grow a team of results-oriented data scientists
+Set clear, measurable goals for your team
+Drive research initiatives to inform, influence, and support product strategy
+Conduct planning and brainstorming sessions with your team
+Stay up-to-date on trends in the field
+Drive best practices through experimentation, tool selection, testing, tracking, and documentation
+Become a domain expert in the vacation rental industry by discovering insights in our data that will lead to more effective dynamic pricing, probability models, occupancy forecasting, and other statistical approaches
+Build a strong culture in which everyone can be successful and valued
+Other duties, as assigned
+Skills you'll need
+10+ years of experience in a software or data-related field
+Graduate degree preferred, or equivalent practical experience
+Experience in dealing with large, semi-structured, raw data
+Experience running a research team with minimum guidance
+Python, pandas, numpy, pytorch, scikit-learn, SQL, Apache Spark, or equivalent
+Deep knowledge of machine learning algorithms, including supervised, unsupervised, neural network, regression, and tree-based approaches
+Familiarity with AWS tools such as SageMaker, EMR, Lambda, and Fargate a plus
+Familiarity with Docker or other container systems is a plus
+Dynamic pricing experience is preferred
+Working conditions
+This is work from home position with location prefrence of Boise, ID.
+You'll be working in your home office setting. We hold virtual training sessions and weekly team meeting. Occasional offsite team meetings in your region or our HQ locations. Requires frequent, repetitive use of a computer, phone, and office equipment. Requires patient, professional communication with prospective clients, and the ability to build confidence with prospects. Ability to work from home and resides in one of the followings states: AK, AL, AZ, CA, CO DE, FL, GA, HI, ID, IL, LA, MA, MD, ME, MI, MO, MT, NC, NH, NM, OR, PA, SC, SD, TN, TX, UT, VA, VT, WA, WI, or WY
+Compensation
+$190000 - $210000 / salary
+What you'll get
+Health/dental/vision insurance - employee & family coverage options
+Employer Sponsored & Voluntary Supplemental Benefits
+401K retirement savings plan with immediate 100% company match on the first 6% you contribute
+Ability to participate in our Employee Stock Purchase Plan
+Health & Dependent Care Flexible Spending Accounts
+Flexible vacation time
+Paid sick days and holidays
+Paid parental leave after one year of tenure
+Employee Assistance Program
+Career advancement opportunities
+Employee discounts
+All the equipment you'll need to be successful
+Great colleagues and culture
+Please visit our careers page to review our full benefits offerings
+Vacasa is an equal opportunity employer committed to fostering a diverse and inclusive workplace. We do not discriminate against applicants based upon race, color, religion, sex (including pregnancy, gender identity, and sexual orientation), national origin, age, disability, genetic information, or other classes protected by applicable law.
+Vacasa is committed to maintaining a safe and productive work environment. Possession, use, or being under the influence of alcohol or illegal drugs in the workplace is prohibited.
+Some positions may require that you drive a personal vehicle and/or company vehicle for work purposes. Employees who are required to drive a personal vehicle must have reliable transportation, a valid driver's license, and be at least 18 years of age. Employees who are required to drive a company vehicle must have a valid driver's license, be at least 21 years of age, and have been a licensed driver for no less than 3 years.
+An offer of employment for this role will be contingent upon the successful completion of a background check.

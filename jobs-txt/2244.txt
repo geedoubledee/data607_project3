@@ -1,0 +1,35 @@
+Job responsibilities include:
+Create cloud data models and database architecture using database deployment, monitoring automation code, and for long-term technical viability of cloud, master data management integrated repositories.
+Creating data flow diagrams
+Suggest ideas to improve system performance and cost reduction
+Communicate data architecture to stakeholders and collaborate and coordinate with other technical staff
+Technical experience:
+Bachelor’s and following related experience
+5-8 years of Application Development and deployment experience
+4+ Experience with creating Data Dependency, Data Structures and Data Access controls
+4+ Experience with integrating various Data ingress points, data ingestion and Data Quality
+4+ Experience is using the Azure/AWS native cloud services for data
+4+ Experience in Data Backup & Data migration strategy
+Experience with Azure Data Factory, Azure Databricks, and Azure SQL
+Experience developing and deploying ETL solutions on Azure/AWS
+Extensive hands-on experience implementing data migration and data processing on a cloud environment
+Preferred Experience in one or more skill areas:
+Azure DevSecOps: Azure Boards, Azure Pipeline based CI/CD software releases and code branch workflow
+Azure Repo based code repository management and security
+Experience working with Azure native services such as Synapse, Data Lake Storage, Alation, and Power BI
+Azure Cloud Data Solution certifications or equivalent
+Extensive hands-on experience implementing data migration and data processing on a cloud environment using Azure services: ADLS, Azure Data Factory, Azure Functions, Synapse/DW, Azure SQL DB, Event Hub, Azure Stream Analytics, Azure Analysis Service, HDInsight, Databricks Azure Data Catalog, Cosmo Db, ML Studio, AI/ML, etc.
+Ability to Obtain NACI clearance
+Location: Prefer Atlanta area, but Remote is option
+100% of telecommute
+Job Type: Contract
+Salary: $55.00 - $90.00 per hour
+Schedule:
+Day shift
+Experience:
+Application development: 6 years (Required)
+Azure SQL: 4 years (Preferred)
+ETL: 2 years (Preferred)
+Azure: 4 years (Required)
+AWS: 4 years (Required)
+Work Location: Remote

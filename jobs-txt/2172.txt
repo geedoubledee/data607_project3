@@ -1,0 +1,31 @@
+POSITION SUMMARY
+PerfectVision Manufacturing is a dynamic, leading solutions provider in the Telecommunications industry with several channels from satellite resellers to wireless contractors and everything in between.
+The Business Analyst is responsible for developing a deep understanding of business processes and data, identifying opportunities for improvement, gathering and documenting requirements for new solutions, and working with business areas and IT in all phases of the project life cycle to deliver solutions that will increase efficiencies and profitability. This role is a key contributor to the project definition, requirements gathering, design, development, testing and implementation of solutions to support business functions and implement change.
+ESSENTIAL FUNCTIONS
+Develop an understanding of and analyze existing systems against IT and business strategies to make well-defined recommendations to management for forward-thinking solutions, efficiency, and improvements.
+Serve as a subject matter resource providing operational support and ad hoc requests as needed.
+Build use cases, business flow diagrams, user stories, and perform gap analysis.
+Facilitate the negotiation of requirements amongst multiple stakeholders.
+Create, analyze, and validate detailed functional specifications.
+Assist in user acceptance testing of system changes and enhancements.
+Develop and execute comprehensive test plans and work closely with developer to define steps to reproduce and correct defects.
+Work with minimal supervision to analyze potential solutions against business requirements and financial impact to identify the best solutions for the business.
+Work with business areas to identify and prioritize enhancements and improvements.
+Develop and maintain business process models and functional documentation for areas of responsibilities.
+Act as key interface between business areas and technical IT personnel.
+Develop and maintain positive working relationships with other team members within the department and throughout the organization.
+Facilitate design sessions with the implementation team to define the solution.
+Deliver elements of systems design, including data migration rules, business rules, wireframes, or other detailed deliverables.
+Work closely with the Project Manager, Development, and QA Lead.
+Individual must be adaptable and able to respond to changes in priorities and adjust based on feedback.
+POSITION QUALIFICATIONS
+Education
+Bachelor’s degree or equivalent experience
+Experience
+Three plus years of experience in an analytical role within a professional business environment.
+Technical Skills
+Proficient in a Microsoft Windows environment.
+Must have basic to intermediate experience developing queries in an MSSQL environment.
+Microsoft Excel – Intermediate to expert level. Must have the ability to perform various functions for executing effective data manipulation, formulas, and calculations.
+Experience with industry standard System Development Life Cycle methodologies.
+Experience with Salesforce a plus.

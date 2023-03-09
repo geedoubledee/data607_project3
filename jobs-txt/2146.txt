@@ -1,0 +1,31 @@
+Position: Big Data Engineer / Data Scientist 3
+Location: Austin, TX
+Note: Remote work Mon, Tues, Thur, Fri. Onsite work Wed.
+Experience
+A data scientist (big data engineer) is someone who makes value out of data. Understanding how the business performs and builds AI tools that automate certain processes within the company.
+Skill Set
+Minimum Requirements:
+Candidates that do not meet or exceed the minimum stated requirements (skills/experience) will be displayed to customers but may not be chosen for this opportunity.
+Years Required/Preferred Experience
+8 Required Batch file programming
+5 Preferred SQL
+2 Preferred Cloud development
+1 Preferred HL7/FHIR
+1 Preferred Medicaid/Public Health
+1 Preferred Python
+Python experience
+ETL experience (Informatica preferred)
+Strong SQL experience
+Medicaid or Public Health experience
+Good understanding of HL7 V2 and V3 data structures
+OMAP knowledge/experience:
+The Observational Medical Outcomes Partnership (OMOP) CDM model for Electronic Health Records (HER)
+Azure cloud development platform experience
+Job Type: Contract
+Schedule:
+8 hour shift
+Experience:
+Batch Programming: 8 years (Required)
+Work Location: One location
+Speak with the employer
++91 9492144430

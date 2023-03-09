@@ -1,0 +1,47 @@
+The College of Arts and Sciences at the University at Buffalo is seeking a Database Administrator. This position assists the Assistant Dean of Planning and Analytics in the coordination and development of a cohesive data infrastructure that supports the College of Arts and Sciences programming, assessment, and planning initiatives. In this role you will be responsible for developing and maintaining the technical data infrastructure needed to support the college and the departments it serves.
+As the Database Administrator you will:
+Coordinate activities to maintain and further develop the department’s centralized data repository to facilitate aggregation and reporting of market data in collaboration with the Assistant Dean of Planning and Analytics.
+Extract, validate, and integrate large data sets from various sources in electronic and non-electronic formats to facilitate reporting and analysis.
+Maintain, evaluate, design, review and implement database management standards to better serve the needs of the department/organization, including the maintenance of user access and security.
+Collaborate with members of other CAS departments/divisions, including but not limited to Finance, Human Resources, Information Technology, Marketing and Communications and Enrollment on data sources, web application and governance.
+Regularly identify opportunities and develop enhancements to the team’s data repository and supporting software. Continually look for opportunities to enhance the data and reporting capabilities of the team; ensuring easy and fast access to data for Planning team members.
+Develop, secure, and maintain database tools used to gather and combine data for all CAS entities.
+Creating and implementing data security and recovery controls. Effectively manage all data across the platform and communicate all projects / feedback to the necessary parties.
+
+
+Outstanding Benefits Package
+Working at UB comes with benefits that exceed salary alone. There are personal rewards including comprehensive health and retirement plan options. We also focus on creating and sustaining a healthy mix of work, personal and academic pursuits – all in an effort to support your work-life effectiveness. Visit our benefits website to learn about our benefits packages.
+
+About The University at Buffalo
+The University at Buffalo (UB) #ubuffalo is one of America’s leading public research universities and a flagship of the State University of New York system, recognized for our excellence and our impact. UB is a premier, research-intensive public university dedicated to academic excellence. Our research, creative activity and people positively impact the world. Like the city we call home, UB is distinguished by a culture of resilient optimism, resourceful thinking and pragmatic dreaming that enables us to reach others every day. Visit our website to learn more about the University at Buffalo.
+University at Buffalo is an affirmative action/equal opportunity employer and, in keeping with our commitment, welcomes all to apply including veterans and individuals with disabilities.
+
+Minimum Qualifications
+A minimum of an associates degree with 5 years of experience, a combination of degree, certification and experience will be considered in lieu of the experience requirements.
+Experience in database design and management including: Database installation and configuration, data security, user creation and maintenance, database backups and recovery, database performance tuning and optimization, data transformation and loading, and querying and reporting.
+Knowledge of SQL Server/ T-SQL, scripting languages including Unix shells and PowerShell, and the principles of web-based technologies.
+Excellent communication and technical writing
+Excellent problem solving and analytical skills
+
+Preferred Qualifications
+SQL certification in MySQL, MSSQL or other.
+Project management experience
+
+Physical Demands
+
+Salary Range
+Competitive
+
+Type
+Full-Time
+
+Campus
+North Campus
+
+Posting Alerts
+
+Special Instructions Summary
+All application materials should be submitted via UB Jobs. Application materials submitted directly to the posting contact will not be acknowledged and cannot be considered.
+
+Additional Information
+Pursuant to Executive Order 161, no State entity, as defined by the Executive Order, is permitted to ask, or mandate, in any form, that an applicant for employment provide his or her current compensation, or any prior compensation history, until such time as the applicant is extended a conditional offer of employment with compensation.

@@ -1,0 +1,40 @@
+What you'll be doing day to day
+Support in collecting and analysing business data to perform industry research and derive answers and insights on business questions, presented and reported through using various reporting tools
+Leverage data assets by data collection and processing, to provide basis for day-to-day meaningful and actionable strategic and operational insights
+Support senior colleagues with problem solving for data quality issues from source systems and propose corrective actions for IT system or process improvements to step up data quality and timeliness over time
+Work to automate data cleaning processes, to be able to deliver insights to the business stakeholders on a periodical basis
+Support data driven decisions on product and strategy by helping to visualize data and enable change through knowledge of the business drivers that make the product successful
+Identify and help share trends and metrics from sources of raw data to increase efficiency of the organisation
+Apply good written and verbal communication skills in storytelling, supported by visualisation of data, primarily focused on stakeholders in advanced analytics
+Support senior colleagues with medium-scale modelling projects, focused on collecting and cleaning data, in processes that are able to adapt to changing attributes
+Work closely with other data analysts and across functions to help produce all required design specifications and ensure that data solutions work together and fulfill business needs
+Work across initiatives within INGKA Group, supporting steering towards data-driven solution
+Qualifications
+Proven training in computer science, econometrics, mathematics or equivalent
+Knowledge of working with large datasets and distributed computing architectures
+Experience in data visualisation software / applications
+Minimum 2 years of professional experience as a Business Analyst, (Junior) Data/Web Analyst or (Junior) Data Scientist
+Familiarity with cloud computing environments, e.g. Amazon Web Services or Google Cloud Platform
+Preferred: Experience with digital product development in a retail setting
+Preferred: Experience in software engineering
+Preferred: Experience in data processing and –analysis languages
+Preferred: Experience in working in an Agile or DevOps working set-up
+Job Type: Full-time
+Pay: $47,539.53 - $110,501.03 per year
+Benefits:
+401(k)
+Dental insurance
+Health insurance
+Life insurance
+Vision insurance
+Compensation package:
+Signing bonus
+Stock options
+Experience level:
+2 years
+Schedule:
+8 hour shift
+Monday to Friday
+Experience:
+SQL: 1 year (Preferred)
+Work Location: Remote

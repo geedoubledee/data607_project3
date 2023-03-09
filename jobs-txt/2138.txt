@@ -1,0 +1,46 @@
+Working at Atlassian
+
+Atlassian can hire people in any country where we have a legal entity. Assuming you have eligible working rights and a sufficient time zone overlap with your team, you can choose to work remotely or return to an office as they reopen (unless it’s necessary for your role to be performed in the office). Interviews and onboarding are conducted virtually, a part of being a distributed-first company.
+
+Your future team
+Data is a big deal at Atlassian. We ingest billions events each month into our analytics platform and we have dozens of teams across the company depending on the platform to drive their decisions. The team is also responsible to build and manage Atlassian's operational data store which is critical in helping make decisions and guiding their operations based on the data and services we provide. We are looking for a data engineering manager to join our growing Go To Market (GTM) Data Engineering team which is part of the Data Engineering department. Come and join our efforts to further democratize data and build an exceptional data products for the company.
+You'll be joining a team with a brand new mission. There will be plenty of challenges and scope to grow. We work very closely with Commerce, Finance, Sales, Support, Marketing and Analytics teams. We value when people ask hard questions and challenge each other to constantly improve our work. We are independent but love highly collaborative team environments, so you'll get the opportunity to work with lots of other awesome people just like you. We're all about enabling teams to execute growth, customer retention and M&A strategies by providing the right data fabrics and tools.
+This role requires you to be based in the United States.
+What you'll do
+Build and lead a team of data engineers through hiring, mentoring, and hands-on career development
+Provide deep technical guidance in many aspects of data engineering in a scalable ecosystem
+Work with close counterparts in other departments as part of a multi-functional team, and build this culture in your team
+Your background
+You have stellar people management skills and experience in leading an agile software team
+You thrive when developing phenomenal people, not just great products
+You have worked closely Data Science, analytics and platform teams
+You bring expertise in building and maintaining high-quality components and services
+You are able to drive technical excellence, pushing for innovation and quality
+You have 8+ years experience in a software development role as an individual contributor
+You have at least 3 years of engineering people management experience
+Deep understanding of data challenges at scale challenges and the eco-system
+Experience with solution building and architecting with public cloud offerings such as Amazon Web Services, DynamoDB, ElasticSearch, S3, Spark/Spark-Streaming, Presto/Athena, GraphDatabases
+Experience with Lambda Architecture and other Enterprise Data architectural standard methodologies
+Experience with test automation and continuous delivery
+A graduate degree in Computer Science or similar discipline
+It's great, but not required, if...
+Experience with at least one high-level programming language such as Python
+Understanding and experience building RESTful APIs and microservices
+Experience with Tableau and Tableau administration
+Experience with Machine Learning
+You've committed code to open source projects and have some examples
+#LI-LG2
+
+Our perks & benefits
+
+To support you at work and play, our perks and benefits include ample time off, an annual education budget, paid volunteer days, and so much more.
+
+About Atlassian
+
+The world’s best teams work better together with Atlassian. From medicine and space travel, to disaster response and pizza deliveries, Atlassian software products help teams all over the planet. At Atlassian, we're motivated by a common goal: to unleash the potential of every team.
+
+We believe that the unique contributions of all Atlassians create our success. To ensure that our products and culture continue to incorporate everyone's perspectives and experience, we never discriminate based on race, religion, national origin, gender identity or expression, sexual orientation, age, or marital, veteran, or disability status. All your information will be kept confidential according to EEO guidelines.
+
+Pursuant to the San Francisco Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.
+
+To learn more about our culture and hiring process, explore our Candidate Resource Hub.

@@ -1,0 +1,22 @@
+What we’re looking for:
+Quantitative background with advanced degrees (Master +) in Statistics, computer science, informatics, data science, or related quantitative fields.
+Strong hands-on experience with SAS
+In-depth understanding of statistical models
+Experience with test-control analysis and fuzzy matching
+Ability to manage project, lead delivery and communicate with internal and external stakeholders
+Experience using big data technology and Python is a plus
+Minimum requirements:
+Bachelor’s degree of 4-year college in Statistics, computer science, informatics, data science, or related quantitative fields with at least 3 years of industry experience
+Or Master’s degree in Statistics, computer science, informatics, data science, or related quantitative fields with at least 1 year of industry experience
+What you’ll be doing:
+Provides statistical methodology, project management support for Consumer Insights, Marketing Effectiveness and Media Innovations. Also supports the delivery of customized client projects from other Advanced Analytical teams.
+Has experience measuring campaign impact
+Develops appropriate methodologies to studies using various IQVIA data, media data as well as client data. Gathers recommendations from others to develop research plans, identifying appropriate data sources, and delivery options in meeting client information and analyses needs.
+Implements tactical study plans in answer to business questions, performs quantitative research, and provides written summaries of study results
+Will have direct client contact in support of project delivery from technical perspective
+Independently writes computer programs to meet project information needs, conducts analyses to derive conclusions from the study, and identifies new opportunities for standard reports and for value-added analytics.
+Works on projects where independent judgment is used within generally defined procedures and practices
+Work with cross-functional team to support machine-learning algorithms on big data platform to solve a variety of business problems
+IQVIA is a leading global provider of advanced analytics, technology solutions and clinical research services to the life sciences industry. We believe in pushing the boundaries of human science and data science to make the biggest impact possible – to help our customers create a healthier world. Learn more at https://jobs.iqvia.com
+We are committed to providing equal employment opportunities for all, including veterans and candidates with disabilities. https://jobs.iqvia.com/eoe
+As the COVID-19 virus continues to evolve, IQVIA’s ability to operate and provide certain services to customers and partners necessitates IQVIA and its employees meet specific requirements regarding vaccination status. https://jobs.iqvia.com/covid-19-vaccine-status

@@ -1,0 +1,35 @@
+Company Description
+
+ClientSolv Technologies is an IT solution firm with over a decade of experience serving Fortune 1000 companies, public sector and small to medium sized companies. ClientSolv Technologies is a woman-owned and operated company that is certified as a WMBE, 8a firm by the Federal government's Small Business Administration.
+
+Job Description
+
+We are seeking an Applied Machine Learning Engineer for a direct hire/permanent role. This direct hire/permanent role can work remotely from anywhere within the U.S. and will lead the production deployment of data science and ML algorithms, establishing appropriate model monitoring and CI/CD processes, and advise leadership on cloud architecture development.
+
+Additional responsibilities include:
+
+Converts MVP data science models into production level code and deploys them in on prem (python) and cloud environments (primarily AWS).
+Establishes model monitoring processes and drives continuous improvement of existing models.
+Actively engages with Data Engineering and IT teams influencing cloud architecture decisions.
+Collaborates with external vendors/partners such as AWS and Accenture.
+Works in both independent and collaborative team environments.
+Interprets, communicates, and presents analytic results to business executives.
+Reviews code and modeling approaches of Data Scientists.
+Continually strengthens knowledge of analytical methods, vendors, and tools.
+Actively participates in knowledge-sharing opportunities within team and across the company.
+
+Qualifications
+Must have experience in a manufacturing environment.
+Master’s degree in computer science, machine learning, deep learning or related field (e.g., data science, statistics, or similar)
+5+ years of experience building, scaling and operating cloud services in Azure, AWS, or GCP (AWS strongly preferred)
+3+ years of experience deploying ML APIs in production environments – from model training and versioning to delivery to customers Applied experience and working knowledge across a wide range of statistical and machine learning techniques.
+What are the nice-to-have skills?
+Experience in Machine Learning in auto or related industries (incl. image, speech, pattern recognition & anomaly detection)
+Experience in a startup environment strongly preferred
+Experience in IoT and streaming data analytics. Experience building & deploying commercial (monetized) data science/ML solutions.
+Experience building & deploying dynamic pricing solutions.
+Experience building & deploying recommendation engines.
+
+Additional Information
+
+This direct hire/permanent role can work remotely from anywhere within the U.S. The salary range for this role is between $130,000- $150,000 per year, plus a 20% annual bonus, and a comprehesnive suite of benefits.

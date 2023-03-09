@@ -1,0 +1,23 @@
+Requirements:
+Must Haves:
+· 2-5 years’ experience in a data scientist or data analytics role
+· Hands-on experience using Python, SQL and Tableau/PowerBI
+· Knowledge of at least one statistical programming language (R, SAS)
+· Strong quantitative skills
+· Experience in applying advanced statistical or machine learning techniques
+· Knowledge of dashboard and reporting software (Tableau, OBIEE, etc.)
+· Understanding of relational databases
+· Bachelor’s degree in a quantitative discipline (Statistics, Applied Mathematics, etc.) or sufficient on the job use of related skills. Masters/Ph.D. degree is a plus.
+· Strong presentation and communication skills
+· Exceptional standards for quality and strong attention to detail
+· Comfortable working with business partners and the ability to take initiative to drive projects forward.
+· Must be able to multitask and handle multiple projects at any given time.
+Job Types: Full-time, Contract
+Pay: $60.00 - $62.50 per hour
+Schedule:
+8 hour shift
+Monday to Friday
+Experience:
+Python: 1 year (Preferred)
+SQL: 1 year (Preferred)
+Work Location: Remote

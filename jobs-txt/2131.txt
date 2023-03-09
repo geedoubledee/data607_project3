@@ -1,0 +1,36 @@
+Become a Part of the NIKE, Inc. Team
+NIKE, Inc. does more than outfit the world’s best athletes. It is a place to explore potential, obliterate boundaries and push out the edges of what can be. The company looks for people who can grow, think, dream and create. Its culture thrives by embracing diversity and rewarding imagination. The brand seeks achievers, leaders and visionaries. At NIKE, Inc. it’s about each person bringing skills and passion to a challenging and constantly evolving game.
+NIKE is a technology company. From our flagship website and five-star mobile apps to developing products, managing big data and providing leading edge engineering and systems support, our teams at NIKE Global Technology exist to revolutionize the future at the confluence of tech and sport. We invest and develop advances in technology and employ the most creative people in the world, and then give them the support to constantly innovate, iterate and serve consumers more directly and personally. Our teams are innovative, diverse, multidisciplinary and collaborative, taking technology into the future and bringing the world with it.
+
+WHAT YOU WILL DO:
+Build and grow a highly skilled, cross-functional engineering teams that deliver platforms enabling Nike’s Digital Transformation. Lead the professional development and career plans for those on your teams, help us develop the technology leaders of tomorrow.
+Lead AI/ML Platforms development and sustainment; including data science tools, feature store, model management/workflows, model serving, notebooks, workload scheduling, and experiment tracking platforms.
+Develop a vision and long-term goals for how your teams will serve our Global Technology teams in delivery to Nike’s Athletes, plan the strategy for achieving those goals, and oversee its implementation towards the north star you set.
+Use your prior experience, knowledge of industry trends, and personal creativity to develop new and innovative solutions which delight our customers. Given the rapid pace of change in technology and machine learning today, always be pushing the boundary of what’s possible and be on the offense always
+Embrace and embody Nike’s core values (maxims) in your work and interactions with peers, partners, and direct reports.
+Role model transparency and accountability as a leader of Nike. Communicate effectively, build trust and strong relationships across the company, do the right thing.
+Engage employees meaningfully, assist the teams by removing roadblocks, align efforts across Nike’s matrix to drive progress forward and always win as a team. Accountable for growing & developing Enterprise Platform technology by attracting top industry talent.
+Develops AI/ML Platforms annual operating plans. Develops and drive team metrics.
+Contributes to cross-team Enterprise Platforms domain-mapping and strategy. Partners with Architecture to ensure architectural consistency across platforms.
+Ensures the technical team aligns with architectural standards, documentation and operational strategy alongside peers.
+Partners with the Enterprise Data & Analytics AAML and Nike Digital Engineering (“Serve”) teams to enhance and drive standards across Nike business users. Works closely with Platform Product Directors to understand and communicate product vision, strategy, and roadmaps that are aligned with Nike’s strategies and initiatives. Represents the customer in sprints to the delivery teams and provides sprint feature prioritization to ensure technology alignment with business priorities & strategies
+Provides customer service to our technology and business partners for onboarding, adoption, and documentation
+Partners closely with Reference Architecture, Domain/Solution Architecture, and Platform Engineering to align Platform Product Roadmaps with execution plans
+Measure and report on the value provided by Platform Product offerings and provide regular updates to partners on product priority, delivery, and adoption
+Stays ahead of industry trends and recommends relevant technologies & products in the areas of Advanced Analytics & Machine Learning, Artificial Intelligence, and Data Science tools and other emerging technologies in the areas of Enterprise Data & Analytics
+
+WHAT YOU BRING
+A Bachelor's degree in Information Technology or related field or equivalent combination of education and experience
+Experience with technologies such as AWS Sagemaker, TensorFlow, Kubeflow, Databricks & Spark, AWS EMR, and similar platforms. Should be able to communicate with customers each technology and the benefits/tradeoffs of each solution.
+Experience of open source technologies and impact of make/buy decisions in the area of Data Science, AI, & ML
+7+ years’ experience as an engineering leader for technology related products. Will consider candidates with less experience that have deep technical domain knowledge as an architect.
+10+ years’ experience in technology & architecture roles
+Must be able to articulate and have experience with the lifecycle of model development from notebooks into production
+Must have an understanding of enterprise security and privacy requirements associated with the above technologies
+Validated experience collaborating on the latest technologies with Engineers and Architects
+Extensive background in working with business partners: Translating business needs into prioritized technology features and requirements with shown presentation and facilitation skills.
+Consistent track record of being results oriented with demonstrated ability to achieve ambitious goals
+Experience with Agile software development methodology
+Must excel working in team-oriented roles that rely on ability to collaborate with others. Self-directed and comfortable working in ambiguous environments. Experience working in a highly matrixed organization
+NIKE, Inc. is a growth company that looks for team members to grow with it. Nike offers a generous total rewards package, casual work environment, a diverse and inclusive culture, and an electric atmosphere for professional development. No matter the location, or the role, every Nike employee shares one galvanizing mission: To bring inspiration and innovation to every athlete* in the world.
+NIKE, Inc. is committed to employing a diverse workforce. Qualified applicants will receive consideration without regard to race, color, religion, sex, national origin, age, sexual orientation, gender identity, gender expression, veteran status, or disability.

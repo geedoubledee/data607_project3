@@ -1,0 +1,30 @@
+We're transforming the grocery industry
+At Instacart, we invite the world to share love through food because we believe everyone should have access to the food they love and more time to enjoy it together. Where others see a simple need for grocery delivery, we see exciting complexity and endless opportunity to serve the varied needs of our community. We work to deliver an essential service that customers rely on to get their groceries and household goods, while also offering safe and flexible earnings opportunities to Instacart Personal Shoppers.
+Instacart has become a lifeline for millions of people, and we're building the team to help push our shopping cart forward. If you're ready to do the best work of your life, come join our table.
+Instacart is a Flex First team
+There's no one-size fits all approach to how we do our best work. Our employees have the flexibility to choose where they do their best work—whether it's from home, an office, or your favorite coffee shop—while staying connected and building community through regular in-person events. Learn more about our flexible approach to where we work.
+OVERVIEW
+We're looking for senior level machine learning engineers to join our team. We work on a range of interesting and challenging problems, from ensuring deliveries are efficient and on-time to helping customers decide what to buy. Machine learning is at the heart of this effort and an essential ingredient in Instacart's aggressive growth plan and vision for the future.
+As Instacart grows and takes on more challenging ambitions, we look to engineers to raise the level of execution overall and be technical leaders with both depth of knowledge and broad influence. In addition, they are strong communicators, excellent mentors and effective cross-functional operators.
+ABOUT THE JOB
+This is an individual contributor role with significant impact both within the machine learning team and on product team(s) you will collaborate with
+You will be responsible for technical roadmaps and will collaborate with Product Management, Data science, Product Engineering and Design to shape the overall product roadmap
+You will conceive and lead projects while being a hands-on builder of machine learning software components
+You will be a strategic thought partner for leaders across the organization on driving business impact through machine learning
+You will coach and mentor the next generation of strong engineers on the team
+ABOUT YOU
+MINIMUM QUALIFICATIONS
+Have a graduate degree in artificial intelligence, machine learning or equivalent self study and experience
+Have strong programming skills in Python and fluency in data manipulation (SQL, Spark, Pandas) and machine learning (scikit-learn, XGBoost, Keras/Tensorflow) tools
+Have experience leading multiple projects of varying scope and complexity in more than one problem space
+Are a strong communicator who can collaborate with diverse stakeholders across all levels
+PREFERRED QUALIFICATIONS
+Have 6+ years of industry experience using machine learning to solve real-world problems with large datasets
+Are a technical leader who is comfortable handling projects of significant complexity and ambiguity
+Strong expertise in one or more of the areas:
+Search relevance, recommendations, knowledge graph, catalog, or ads targeting
+Combining machine learning and operations research to solve optimal routing, inventory management or marketing mix optimization
+Fraud Detection, Anomaly Detection and Time-series Forecasting
+#LI-Remote
+Accommodations & Accessibility
+At Instacart, we strive to create an accessible and inclusive experience for all candidates. If you need assistance submitting an application through our career site due to a disability, please submit an Accommodations Request Form and someone from our team will reach out soon to see how we may be able to assist.

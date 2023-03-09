@@ -1,0 +1,36 @@
+What we want to accomplish and why we need you?
+Haptik is one of the world's largest Conversational AI companies, having reached over 550+ million devices, and processed over 5+ billion conversations till date. Haptik has been at the forefront of the paradigm shift of interaction from clicks to conversations. We have built a robust set of technology and tools that can enable any kind of conversational application. With a 390+ member strong team, Haptik is truly poised to lead the Conversational AI revolution with some of the best minds in the industry.
+
+Haptik's hybrid work model
+Haptik plans to operate in a hybrid work-model where our employees will have the flexibility to Work-from-Home (WFH) for up to 3 out of 5 working days every week.
+In addition to Mumbai and Bangalore where we already have an office, places like Delhi/NCR, Pune, Hyderabad and Chennai will also have an office space soon in 2022 as many of our current employees are also based in these cities.
+You’re encouraged to apply only if you’re either based in one of these 6 cities (Mumbai, Bangalore, Delhi, Pune, Hyderabad, Chennai) or are open to relocating to one within 6 months of joining us.
+What will you do every day?
+You will work with a highly self-motivated and independent team which finds pleasure in dealing with complexity of scaling ML platform and enjoys simplifying the ambiguity underlying Natural Language Understanding.
+
+Ok, you're sold, but what are we looking for in the perfect candidate?
+Come up with new ideas and approaches to solve problems in the domain of conversational AI
+Experiments and prototype new ideas to improve precision and recall of dialogue systems
+Perform in depth analysis of failure points of algorithm on different datasets and domains
+Foresee data requirements for future research projects and come up with innovative approaches for data generation
+Write production ready code to scale and deploy models with help of devops, backend and frontend teams.
+Publish and present successful research in relevant journals and conferences
+Requirements*
+Minimum 1 year of industry experience in Machine Learning or Post graduation with research experience in Machine Learning projects
+Experience working thoroughly on either Text or Image Dataset
+Ability to ask right questions that cut to the heart of the existing solutions and approaches
+Experience on at-least one of the projects amongst information retrieval, Text Classification, Machine comprehension, Entity recognition, Intent detection, Semantic frame parsing or Machine translation
+Experience working with at least one of the SQL, NoSQL or graph Database
+Proficient at programming in any one language
+Familiarity with at least one Machine Learning framework - Pytorch / TensorFlow / Keras
+Requirements is such a strong word. We don’t necessarily expect to find a candidate that has done everything listed, but you should be able to make a credible case that you’ve done most of it and are ready for the challenge of adding some new things to your resume.
+Tell me more about Haptik
+On a roll: Announced major strategic partnership with Jio.
+Great team: You will be working with great leaders who have been listed in Business World 40 Under 40, Forbes 30 Under 30 and MIT 35 Under 35 Innovators.
+Great culture: The freedom to think and innovate is something that defines the culture of Haptik. Every person is approachable. While we are working hard, it is also important to take breaks to not get too worked up.
+Huge market: Disrupting a massive, growing chatbot market. The global market is projected to attain a valuation of US $0.94 bn by the end of 2024 progressing from US $0.11 bn earned in 2015.
+Great customers: Businesses across industries - Samsung, HDFC Life, Times of India are some that have relied on Haptik's Conversational AI solutions to engage, acquire, service and understand customers.
+Impact: A fun and exciting start-up culture that empowers its people to make a huge impact.
+
+Working hard for things that we don't care about is stress, but working hard for something we love is called passion! At Haptik we passionately solve problems in order to be able to move faster and each Haptikan imbibes our key values of honesty, ownership, perseverance, communication, impact, curiosity, courage, agility and selflessness.
+#Li-hybrid

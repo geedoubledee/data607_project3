@@ -1,0 +1,27 @@
+Machine Learning Engineer
+8+ years of software development experience with 3 years of experience in designing & developing ML based applications.
+3+ years of hands-on ML centric programming experience with Python, Scala, Java or C++
+At least 2 years of experience leading teams, designing ML solutions, metadata frameworks, reusable components and pipelines for data and ML/AI solutions
+Experience in architecting & developing Build/Train & Serving frameworks & ML tools to scale into high-quality products and services
+Experience working in DevOps/MLOps model, familiarity with industry deployment best practices using CI/CD tools and infrastructure as a code (e.g., Docker, Kubernetes)
+Good technical knowledge and expertise in supervised, unsupervised machine learning and deep neural network recommendation systems
+Proficiency in on the cloud platforms such as AWS, AZURE and GCP to implement machine learning solutions
+Strong interpersonal and communication skills, including the ability to explain and discuss machine learning concepts with colleagues and cross functional teams.
+Thanks,
+Kumar
+Talent Team
+MindCrux INC.
+LinkedIn.com/Company/MindCrux
+www.MindCrux.com
+Mobile: 770-657-7956
+Job Type: Contract
+Schedule:
+8 hour shift
+Experience:
+overall Software development: 8 years (Required)
+Designing & developing ML based applications: 3 years (Required)
+Metadata, components, pipelines for data/ ML/AI: 2 years (Required)
+DevOps/MLOps model, familiarity with CI/CD tools: 2 years (Required)
+supervised, unsupervised ML and deep neural network: 3 years (Required)
+cloud platforms AWS, AZURE and GCP to implement ML: 2 years (Required)
+Work Location: Remote

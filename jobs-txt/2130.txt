@@ -1,0 +1,26 @@
+Job Title: Data Engineer
+Job Location: Phoenix, AZ
+(Remote or onsite both are ok)
+Skills Required: Snowflake and Matillion
+HI,
+This is Fayaz from seven hills group technologies
+We do have requirement for Data Engineer (Snowflake and Matillion)
+Job Description:
+Overall 5+ years of experience as Data Engineer
+Ensure all developments are fully documented and meet design requirements
+Knowledge and understanding of Databases like SQL server Snowflake, ETL Tools like SSIS, Matillion
+Strong understanding of the Snowflakes Data Cloud DWH Software as a Service
+Knowledge and understanding of industry-standard/best practices requirements gathering methodologies
+Experience in leading BI implementation projects, report rationalization defining KPI metrics, data engineering
+Good Problem solving & decision-making skills
+Good communication skills within the team, site, and with the customer
+Strong Knowledge in SQL
+Job Types: Contract, Full-time
+Salary: $42.45 - $70.96 per hour
+Schedule:
+8 hour shift
+Experience:
+Informatica: 6 years (Preferred)
+SQL: 1 year (Preferred)
+Data warehouse: 1 year (Preferred)
+Work Location: On the road

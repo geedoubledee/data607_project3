@@ -1,0 +1,49 @@
+We build the best mobile apps in sports.
+Our digital and mobile products are used by 200+ sports clubs in the NFL, NBA, LaLiga, MLS, NHL, LigaMX, AFL (Australia), and more. Our Java/SQL/cloud infrastructure serves up terabytes of real-time content and sends billions of push notifications to tens of millions of fans globally. Our infrastructure involves databases, caches, load-balancers, replication, APIs, all of which must work in concert to provide sports fans a real-time game-day experience.
+
+THE IDEAL CANDIDATE
+As a Senior Business Intelligence Developer, you will be responsible for collecting, organizing and analyzing terabytes of fan data from over 200 mobile sports apps around the world, including those of NFL, NBA, NHL, MLS, and LaLiga clubs.
+
+You will be responsible for providing daily/weekly/monthly insights to our sports clients to drive their revenue and ROI decision-making, drive their content strategy for mobile apps, and optimize fan engagement across mobile and other digital platforms. This is a SQL-intensive, programming-intensive (both Java and Python) role.
+
+The ideal candidate has experience with business analytics in sports, and loves tinkering with databases, Hadoop/Hive clusters, machine learning, statistics, and Tableau dashboards. The ideal candidate also has an understanding of ROI in sports, including ticketing, sponsorship, and other areas influenced by data. In addition, they must be a self-starter with expertise in relational databases, AWS cloud services, Java programming, SQL queries, Hadoop, Hive, Tableau, and more.
+
+As a Senior Business Intelligence Developer, you will be responsible for:
+Providing daily/weekly/monthly analytics insights to our sports teams
+Cleaning, organizing, and analyzing terabytes of data from our mobile apps
+Validating the analytics data that comes out of our mobile apps on a regular basis
+Creating, optimizing, and managing complex SQL queries
+Running machine-learning algorithms on very large data sets to extract insights
+Writing Java programs to manage, and interface with, large Hadoop clusters
+Building, maintaining, and refining Tableau dashboards
+Creating data-export workflows into the data warehouses of professional sports teams
+Working with the BI departments of 200+ sports organizations to deliver value every day.
+
+This position is an in-person role, based out of our offices in Pittsburgh.
+Our philosophy has always been to promote from within, and we expect to grow our people into senior leadership positions. Starting from a Senior BI Developer role, you will be given the personal coaching and ample opportunity, if you choose, to grow your career into a Product Manager, a Data-Warehouse Architect, or a Director of BI.
+
+THE REQUIREMENTS
+Worked in a sports team or a league in a business analytics role
+5+ years of database design and operation, and writing complex SQL queries
+5+ years of data visualization (Tableau, PowerBI, etc.)
+5+ years of Java systems programming
+5+ years of Python programming
+3+ years of Hadoop (Hive and MapReduce)
+Experience with deploying and maintaining software on Linux systems
+Experience with AWS cloud infrastructure (EC2, S3, EMR)
+Experience with ETL pipelines, and ETL frameworks such as Airflow
+Experience with machine-learning algorithms, time-series analysis, and statistical techniques
+Strong work ethic with the ability to get things done and meet deadlines
+Can thrive in a high energy fast-paced digital environment
+
+THE BENEFITS
+Paid time off every year
+Paid maternity and paternity leave
+Full medical, dental and vision health insurance
+Paid gym membership in LA Fitness
+Paid Coursera plan to take 8000+ courses around the world
+401(k) plan
+Beverages and snacks
+Paid parking near the office
+Relocation assistance to Pittsburgh, if needed
+Building products for well-known sports teams

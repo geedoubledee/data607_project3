@@ -1,0 +1,40 @@
+At Gallagher Bassett Services, Inc. (GB) we are constantly seeking skilled professionals who are up for a challenge and take exceptional performance to heart. The professionals we hire help us maintain our reputation as one of the most progressive property/casualty third party claims service organizations in our industry and throughout the world. GB provides services to Fortune 1000 companies worldwide. If you are looking for a professional career with an industry leader then you have come to the right place.
+
+Position Overview: Our BI team is growing and looking for a Business Intelligence Developer. In this role, you will work among a collaborative team and support data-driven decision-making across the entire business. You'll primarily leverage Power BI, SQL and SSRS technologies, though in our organization you'll constantly be exposed to other technologies. We're looking for someone who will be a champion for BI technology, data quality, integrity and reliability. In this role you will be given challenging, thought-provoking work on a high-performing team with significant impact to the organization.
+
+This position is hybrid - two days in office at our HQ in Rolling Meadows, IL and three days working from home.
+
+Responsibilities:
+Produce attractive, meaningful reports and dashboards; maintain and improve existing dashboards and reports
+Help shape best practices in visualization to deliver an excellent end-user experience
+Prepare ad-hoc analysis as requested
+Participate in department projects as assigned
+Partner with senior leaders to understand the business and the challenges they are trying to get resolved.
+Facilitate meetings with stakeholders to brainstorm ideas, pin down project requirements, and iterate through potential solutions
+Research questions related to report information and calculations
+Audit questionable report information
+Create queries and reports through the use of reporting tools to create efficiencies within the department
+
+
+Qualifications:
+Strong intellectual curiosity
+Experience in Power BI, SQL and SSRS
+Experience in any of the following would be helpful: Tableau, T-SQL, Python
+Strong ability to leverage SQL to perform data analysis
+Great communication skills, inquisitive and a strong desire for constant learning and growth
+Ability to quickly understand data and data relationships and translate the technical implementation to a business orientation
+Desire to dive into the complexity of our business and navigate both relationships and process
+
+U.S. Eligibility Requirements:
+Interested candidates must submit an application and resume/CV online to be considered
+Are you 18 years of age or older or can you demonstrate legal capacity to enter a contract
+Must be willing to submit to a background investigation; any offer of employment is conditioned upon the successful completion of a background investigation
+Must have unrestricted work authorization to work in the United States. For U.S. employment opportunities, Gallagher hires U.S. citizens, permanent residents, asylees, refugees, and temporary residents. Temporary residence does not include those with non-immigrant work authorization (F, J, H or L visas), such as students in practical training status. Exceptions to these requirements will be determined based on shortage of qualified candidates with a particular skill. Gallagher will require proof of work authorization
+Must be willing to execute Gallagher's Employee Agreement or Confidentiality/Non-Disclosure Agreement which requires, among other things, post-employment obligations relating to non-solicitation, confidentiality and non-disclosure
+Gallagher offers competitive salaries and benefits, including: medical/dental/vision plans, life and accident insurance, 401(K), employee stock purchase plan, educational expense reimbursement, employee assistance program, flexible work hours (availability varies by office and job function) training programs, matching gift program, and more.
+
+Gallagher believes that all persons are entitled to equal employment opportunity and does not discriminate against nor favor any applicant because of race, color, religion, sex, age, veteran status, disability, national origin, or any other legally protected status. Equal employment opportunity will be extended in all aspects of the employer-employee relationship, including, but not limited to, recruitment, hiring, training, promotion, transfer, demotion, compensation, benefits, layoff, and termination. In addition, Gallagher will make reasonable accommodations to known physical or mental limitations of an otherwise qualified applicant with a disability, unless the accommodation would impose an undue hardship on the operation of our business.
+
+#LI-DK1
+
+Additional Information

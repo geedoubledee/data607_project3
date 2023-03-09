@@ -1,0 +1,35 @@
+Machine Learning Engineer
+Fulltime
+100% Remote
+This role is to work with the Data Science team to develop and deploy machine learning solutions of the enterprise application and data landscape.
+The following functions are the responsibility of the ML Engineer within Data Science Team.
+Position Responsibilities:
+Responsibilities includes, but are not limited to the following:
+Design, build, deploy, monitor and support production deployment of data science solutions
+Research and implement ML algorithms and tools as a proof-of-concept and move it to the production-ready state
+Shows proficiency in Python, Java, Deep Learning, Machine Learning, Neural Networks, TensorFlow
+Select appropriate datasets and data representation methods
+Optimize and transform data science prototypes/solutions for speed, reliability, and scale
+Knowledge of Docker, openshift environment, AWS, Cloudera, REST are big plus.
+Implementing parallelization using spark, Kubernetes, etc
+Testing different platform stacks for performance and efficiency
+Providing scalability by planning, designing and deploying on the appropriate CPU/GPU clusters
+Collaborate cross-functionally with domain experts to identify gaps and structural problems
+Present findings and discuss project results with business units
+Analyzing, extracting, and optimizing relevant information from large amounts of data to help drive business decisions on product features and operational efficiency
+SQL knowledge is must
+Competencies:
+Knowledge of 7 + years of Python
+Data mining experience
+Deep knowledge of statistics and practical implementations of computational statistics
+Predictive modeling and algorithms
+Knowledge of reporting and data visualization
+Job Type: Full-time
+Pay: $100,000.00 - $110,000.00 per year
+Schedule:
+8 hour shift
+Education:
+Bachelor's (Preferred)
+Work Location: Remote
+Speak with the employer
++91 +1- 313-451-7558

@@ -1,0 +1,51 @@
+Business Analyst
+Position Summary
+The Business Analyst is responsible for defining and executing strategies using technical solutions to address the client’s market challenges. If you enjoy tackling large scale challenges and then recommending and implementing solutions, this position is for you!
+
+Duties and Responsibilities:
+Convert business requirements into functional solution requirements that are utilized by software development resources
+These requirements should be matched to the originating business requirement documents that drive the design
+Document and perform end to end test cases that are supported by underlying user stories
+Perform business analysis, identify root cause and develop recommendations/solutions to drive business improvements for the assets they represent
+Analyze test defects and corrective actions for such defects and track to resolution and end user validation
+Work with client solution architects, process engineers, UX/UI designer partners and developers to research components of solutions to problems
+Apply policy and make decisions for defect vs enhancement
+Help with data visualization, user experience and configuration elements of solution design
+Work closely with Deployment Managers to align to release notes, training content and user guides with solution releases/implementation
+Lead Joint Analysis and Design sessions for multiple assets and scope as assigned
+Perform other duties as needed
+
+Job Requirements
+Education and Experience: The requirements listed below are representative of the knowledge, skill, and/or ability required.
+Master’s degree in Business Administration, Business Analytics, Computer Science, Systems Engineering or related field
+5+ years of experience in an analyst role in the tech industry; preferably in software development
+Experience using an issue/defect tracking tool such as Jira
+Experience using a test management tool such as TestRail
+
+Qualifications:
+Working knowledge of IT industry
+Strong verbal and written communication skills; excellent email, telephone and virtual meeting etiquette
+Customer service orientated, ensuring needs are met in a timely fashion
+Ability to talk through a data problem and come up with a way to resolve challenges
+Ability to quickly analyze large data sets and draw inferences
+Understanding of marketing analytics strategies and tools, including those necessary to formulate metrics for measuring brand asset valuation, strategies for performing marketing experiments, determining Customer Lifetime Value, assessment of cost of customer acquisition etc.
+Ability to take opportunities for continuous improvement and implement documented process improvements
+Ability to work on multiple projects concurrently; demonstrated organization, problem-solving, project management, and time management skills
+Demonstrated strong ability to remotely work well within a team environment, or independently; strong interpersonal and teamwork skills; ability to work and interact effectively with team members from other disciplines, cultures, and organizations
+Excellent verbal and written communication skills; ability to effectively inform and present ideas confidently and persuasively to peers and managers
+Ability to take initiative to ask questions, ask for help, or provide updates, without reluctance
+Ability to meet the eligibility requirements for working in the US without RLA sponsorship for employment visa status
+Strong computer skills that include proficiency with MS Office (Word, Outlook, Excel, PowerPoint, and Visio), Teams and SharePoint
+Language Skills
+Ability to read, write, and speak English proficiently
+Physical Demands:
+While performing the duties of this job, the employee is regularly required to talk or hear.
+Frequently required to stand, walk, sit, use hands to feel; reach with hand and arms, and stoop, kneel, or crouch.
+The employee must occasionally lift and/or move up to 25 pounds.
+Specific vision requirements include the ability to see at close range, distance vision, peripheral vision, depth perception, and the ability to adjust focus.
+At times, may require more than 40 hours per week to perform the duties of the position.
+Work Environment:
+The position typically operates in a standard office environment.
+This role may use standard office equipment such as computer, phones, photocopiers, filing cabinets, and fax machines.
+#Remote
+#LI-Remote

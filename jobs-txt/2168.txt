@@ -1,0 +1,44 @@
+Engineer, Machine Learning
+The mission of the Allen Institute is to unlock the complexities of bioscience and advance our knowledge to improve human health. Using an open science, multi-scale, team-oriented approach, the Allen Institute focuses on accelerating foundational research, developing standards and models, and cultivating new ideas to make a broad, transformational impact on science.
+The Allen Institute for Cell Science builds open-source community tools that make cell biology more accessible to more people in order to foster scientific collaboration and discovery. Our team is composed of highly dedicated and creative people with diverse backgrounds and skill sets who work together on cutting edge development projects. We seek to grow our talented team and to build an environment that nurtures software engineers at all stages of their career. Join our inclusive team to pursue your passion of using software engineering to increase scientific and societal impact.
+We seek a talented engineer to join the Modeling Team to help build, analyze, and deploy sophisticated computational models of cell states and dynamic cellular processes based on 3D live cell imaging generated in our Institute. The role of this position is to collaboratively develop and maintain code and computational infrastructure to enable the efficient implementation and deployment of modern deep learning architectures - on-premises and in the cloud. This includes taking part in the development of a configurable deep learning framework, serotiny. This framework will enable our Institute and the research community at-large to perform cell biological pattern recognition on 3D live cell microscopy image data - with the ultimate goal of elucidating cellular organization and cellular state transitions. Research at the Institute is highly collaborative, requiring scientists and engineers to work across disciplines, focusing on high impact biological questions and establishing/maintaining the highest standards for best practices and computational rigor. Examples of relevant projects are here and here.
+The Allen Institute believes that team science significantly benefits from the participation of diverse voices, experiences, and backgrounds. High-quality science can only be produced when it includes different perspectives. We are committed to increasing diversity across every team and encourage people from all backgrounds to apply for this role.
+**Applicants must include a brief cover letter (max 1 Page) explaining why they are a good fit for this position
+Essential Functions
+Develop and maintain code and computational infrastructure to efficiently implement and deploy deep learning models that describe intracellular organization using live cell microscopy image data
+Launch large-scale data analysis workflows that include deep learning components and operate in a cloud environment; support other users of these workflows
+Promote integration and sharing of tools, resources, models, and data across the Institute
+Work across teams to create professionally packaged and reusable applications with intuitive and accessible visualizations from prototype models
+Creation or contribution to sharable open-source scientific codebase
+Note: Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions. This description reflects management’s assignment of essential functions; it does not proscribe or restrict the tasks that may be assigned.
+Required Education and Experience
+Bachelor's Degree in computer science, related field, or equivalent combination of degree and experience
+Minimum 1 year of professional experience developing infrastructure solutions
+Production experience with the implementation of deep learning models
+Experience with cloud-computing
+Demonstrated proficiency in scientific computing including Python and Linux/UNIX environment
+Preferred Education and Experience
+2-4 years of experience working in a professional environment
+Strong communication skills and ability to work in a collaborative, multi-disciplinary environment
+Experience with high dimensional statistical techniques and modeling approaches in biology applications
+Experience working with large-scale scientific measurement data
+Experience utilizing common software engineering practices such as version management, testing and continuous integration
+Desire to learn about scientific projects and to develop creative solutions for problem solving and standardization
+Experience with or working knowledge of
+deployment of containerized applications
+cluster management solutions, preferably Kubernetes
+workflow management systems like Prefect, Snakemake, Airflow
+distributed (numerical) computation frameworks like Dask or Ray
+infrastructure-as-code tools such as Terraform
+Maintainer of open-source projects
+Physical Demands
+Fine motor movements in fingers/hands to operate computers and other office equipment
+Position Type/Expected Hours of Work
+This role is currently able to work both remotely and onsite in a hybrid work environment. We are a Washington State employer, and the primary work location for all Allen Institute employees is 615 Westlake Ave N.; any remote work must be performed in Washington State.
+Additional Eligibility Qualifications
+In keeping with our focus on employee safety, all employees must be up to date with vaccinations against COVID-19 as a condition of employment unless a medical or religious accommodation is approved. All employees will be required to keep their vaccination status up to date according to CDC guidance.
+Additional Comments
+**Please note, this opportunity offers relocation assistance**
+**Please note, this opportunity sponsors work visas**
+
+It is the policy of the Allen Institute to provide equal employment opportunity (EEO) to all persons regardless of age, color, national origin, citizenship status, physical or mental disability, race, religion, creed, gender, sex, sexual orientation, gender identity and/or expression, genetic information, marital status, status with regard to public assistance, veteran status, or any other characteristic protected by federal, state or local law. In addition, the Allen Institute will provide reasonable accommodations for qualified individuals with disabilities.

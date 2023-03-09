@@ -1,0 +1,46 @@
+Packback is looking for a Machine Learning Engineer to support our mission to awaken and fuel the lifelong curiosity in every student. As a Machine Learning Engineer at Packback, you will be building features that empower students and professors to have a better learning experience.
+Packback’s A.I.-powered platform is used by educators in K-12 and higher education to help their students fall in love with the subject matter, drive personalized learning, and most importantly, quantify and improve student critical thinking skills.
+Key job duties include communicating well, providing thoughtful feedback to teammates, pairing, actively improving our team knowledge-base, and of course, writing code. You’ll be improving our data infrastructure, improving our Python APIs that power Packback’s AI, and developing new machine learning models (and deploying them to users) from Packback’s unique dataset.
+Why You Should Work at Packback
+Reach - Our platform, Packback Questions, is used by more than 10 thousand educators and 1.5 million students, who collectively author more than 10 million posts a year. You will be a part of building a platform that has a huge impact on inspiring curiosity in students.
+Training - We offer opportunities for learning and mentorship. We value people who like to wear many hats. You can get involved with the front end, back end, infrastructure and data functions.
+Ownership - Packback is a rapidly growing company. You will have responsibility for bringing innovative features to market while working closely with the product team.
+Want to learn more about engineering at Packback? Check out our docs repo on Github.
+Requirements
+We’re looking for somebody who is excited to work on our backend, infrastructure, and data science codebases. To succeed, you should have experience working with web frameworks (we use Django, but mainly that you are a great developer), have a strong grasp of machine learning fundamentals, and have experience developing production ML systems throughout the entire model lifecycle.
+Additionally, we’re looking for:
+Hands-on experience throughout the machine learning lifecycle: data transformation, feature engineering, and model deployment
+Experience deploying machine learning models to production web applications at scale within a modern web framework (e.g. Django)
+A solid understanding of classical statistics, such as fitting regression models, inference testing, and sampling methods
+Excellent SQL skills and experience with ETL/ELT data modeling processes
+2+ years of software engineering experience, especially with web-based products. However, transferable experience is more important than years of experience.
+It's great if you have
+Demonstrated experience doing backend web development using a modern web framework such as Django (or some other equivalent MVC framework)
+Experience working on highly scalable cloud infrastructures
+Comfort with Linux/UNIX systems
+Startup or small company experience
+Our commitment to diversity
+Working in the Education Technology space, it is an ethical necessity for us to build a diverse and inclusive team in order to better consider the needs of our audience’s wide range of backgrounds and educational experiences. We provide regular training on topics of diversity, equity, and inclusion to all employees.
+Employees of color are invited to participate in a mentorship program with members of our executive team to build career skills and to help with career progression.
+We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.
+Perks of working at Packback
+A culture that you can be proud to build: We work hard at building an inclusive culture of curiosity and continuous learning at Packback. In any role at Packback, being a good steward of our values and using them to inform decisions and communication can make an enormous impact on the business.
+Work-life balance: Packback offers an unlimited vacation policy. Team members are encouraged to take time off for volunteer opportunities. Our engineering team is fully remote, and provides flexibility and support for working wherever makes the most sense for you.
+Competitive Salary and Benefits: The salary range for this position is $85k-130k annually + bonus. We set clear expectations for professional growth and offer an annual learning and development stipend.
+Benefits
+Health & Wellness
+Medical Insurance
+Dental Insurance
+Vision Insurance
+401(k) with a 50% employer match
+Stock options
+Disability Insurance
+Life Insurance
+Commuter Benefits
+Generous Parental Leave up to 12 weeks
+Family Medical Leave
+Unlimited Time Off
+Additional Perks:
+Access to premium membership to One Medical
+Calm subscription
+Monthly Dashpass subscription by DoorDash

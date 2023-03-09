@@ -1,0 +1,44 @@
+Description
+Job Description:
+Our teams are dedicated to supporting new team members in an environment that celebrates knowledge sharing and mentorship. Experienced engineers will be assigned to new hires for one-on-one mentoring, collaborative code reviews, and coaching on customer engagement to help each new hire successfully onboard and demonstrate their skills. Projects and tasks are assigned in a way that leverages your strengths and will help you further develop your skillset.
+Foundation for Success (Basic Qualifications):
+This experience is the foundation a candidate needs to be successful in this position:
+Bachelor's Degree in Computer Science, Mathematics, Engineering, or a related field in addition to:
+5-7+ years of experience with PostgreSQL and other SQL
+4+ years of experience in Database Administration/Management
+Factors to Help You Shine (Required Skills):
+These skills will help you succeed in this position:
+Excellent ability to communicate with team and customer regarding activities supported
+Knowledge of automated methods and best practices for installation and configuration of PostgreSQL
+Knowledge of the PostgreSQL architecture
+Knowledge of how indexes, index management, integrity checks, configuration, patching, how statistics work, how indexes are stored, how they can be created and managed effectively.
+Implementing operational automation.
+Documentation skills for creating processes and procedures
+PostgreSQL database operational support skills for educating application development and testing users
+Monitoring tools and tuning procedures
+Backup and recovery procedures
+Skills in maintenance tools and procedures
+Experience with GIT or other source control tools
+Experience with scripting
+How to Stand Out from the Crowd (Desired Skills):
+Showcase your knowledge of modern development through the following experience or skills:
+NoSQL
+Oracle
+MongoDB
+Greenplum
+DEVOPS experience a plus
+Automation using Liquibase or other schema management tools
+Two years of experience using Python or Ansible
+Day to Day Responsibilities:
+At Leidos, we deliver innovative solutions through the efforts of our diverse and talented people who are dedicated to our customers’ success. We empower our teams, contribute to our communities, and operate sustainable. Everything we do is built on a commitment to do the right thing for our customers, our people, and our community. Our Mission, Vision, and Values guide the way we do business. If this sounds like a mission you want to be a part of, keep reading!
+Every position we take is more rewarding when you know the why behind it. Know your work makes a difference to support those who need it most. If your passion is enabling life changing service to those around, you this is the place for you. Find you passion in a team environment where all members are valued regardless of contractor or employee status. We are excited for you to take your place in our Leidos Family.
+Find your “Why” with us!
+The PostgreSQL Database Engineer has subject matter expertise and experience functioning as a PostgreSQL database engineer and administrator, supporting our customer by providing design, build, configuration, test, update, documentation, implementation, operational support, and upgrades for PostgreSQL Open Source (Community Edition). The candidate shall demonstrate extensive knowledge in PostgreSQL database administration and best practices. The candidate shall demonstrate knowledge of cloud solutions and services in a hybrid cloud environment. The candidate must be self-motivated, be able to collaborate in a team environment, and show initiative to support and promote solutions that enhance the modern development environment.
+Education & Qualifications
+Bachelor’s degree and 5+ years of experience in a related field
+Must be able to obtain a Public Trust
+Leidos’ Health Group is recognized as a Top 10 Health IT provider. We draw on decades of success to deliver a range of solutions and services designed to meet the healthcare challenges of today. From the research bench to the patient bedside, we are a company of scientists, engineers, and technologists delivering a broad range of impactful, customizable, and scalable solutions to hospitals and health systems, biomedical organizations, and every U.S. federal agency focused on health. Leidos works with customers across the continuum of care to improve clinical, operational, and financial outcomes with innovative solutions that advance the next generation of care. Our mission is to contribute to creating a healthier world. Begin your journey of a flourishing and meaningful career, share your resume with us today!
+ITSSCII
+Pay Range:
+Pay Range $74,750.00 - $115,000.00 - $155,250.00
+The Leidos pay range for this job level is a general guideline only and not a guarantee of compensation or salary. Additional factors considered in extending an offer include (but are not limited to) responsibilities of the job, education, experience, knowledge, skills, and abilities, as well as internal equity, alignment with market data, applicable bargaining agreement (if any), or other law.

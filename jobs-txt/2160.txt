@@ -1,0 +1,1 @@
+A professional Database Administrator (DBA) will keep the database up and running smoothly 24/7. The goal is to provide a seamless flow of information throughout the company, considering both backend data structure and frontend accessibility for end-users.

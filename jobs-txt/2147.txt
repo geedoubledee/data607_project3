@@ -1,0 +1,20 @@
+Overview:
+Monte Rosa Therapeutics is looking for an experienced, energetic, self-motivated, fun-loving individual with a strong computational and analytical background to discover and develop novel medicines. Delivering this new generation of treatments to patients requires a conceptual change: Monte Rosa recognizes this urgent need and is missioned to develop innovative molecular glue degraders (MGDs) to degrade the undruggable. Our team combines deep knowledge and outstanding skills in the areas of chemistry, structural and cell biology, computational modeling, AI/ML, and translational science to deliver pioneering degrader therapeutics for inflammatory and autoimmune diseases, hematological disorders, and oncology.
+
+We are looking for a creative computational biologist leader with ambition to tackle high-impact complex computational biology problems involving the generation, analysis, and interpretation of large-scale biological, pharmacological, and clinical datasets. The candidate will have experience leading teams and mentoring scientists and will work closely with a world-class team of scientists, from lab to clinical, to develop the next generation of MGDs. Our Data Sciences team comprises computational biologists, computational chemists, AI/ML structural biologists and software engineers. As part of Monte Rosa’s QuEEN discovery platform, we invent novel engines, including the BaseCamp data visualization suite, the fAIceit protein surface characterization engine for degron & target discovery, the Rhapsody engine for MGD generative designs and in silico screening, and the BreakThru engine for pharmacogenomic patient selection and collaboratively apply these for the discovery and development of MGDs. In this position, you will have the opportunity to push the boundaries of science and accelerate the discovery of new therapeutics.
+Responsibilities:
+Lead the computational biology team and mentor team members
+Contribute to the identification of targets, patient populations, and associated biomarkers
+With our translational team, implement clinical biomarkers for targeted therapies
+Support the design, analysis, and interpretation of pre-clinical, translational, and clinical studies
+Contribute to the development and application of analytical and data visualization tools
+Present analyses and results throughout the company and externally
+Qualifications:
+PhD. and extensive experience in computational biology, bioinformatics, or related disciplineExperience with biomarker identification and translational sciences
+Experience with scientific programming, such as with python or R
+Experience with computational analysis, algorithm development, statistics, and machine learning
+Experience integrating computational biology into a drug-development industrial setting
+Demonstrated leadership and ability to mentor outstanding team members
+Flexibility to accommodate to rapidly changing priorities and deadlines
+Desire to work in an agile, collaborative, team-based environment
+Excellent oral and written communication skills

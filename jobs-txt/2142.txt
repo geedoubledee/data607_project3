@@ -1,0 +1,31 @@
+Job Description
+
+We're looking for a Staff Machine Learning Engineer to advance the future of Construction Intelligence. As a member of our A.I. team, you'll help deliver the future of our next-generation insights, recommendations, and automated experience roadmaps. In this role, you will also enable A.I. capabilities to everyone in construction on a global platform.
+The construction vertical is ripe for technological innovation. Construction impacts the lives of nearly everyone in the world, and yet it's one of the least digitized industries, not to mention one of the most dangerous. Procore is leading the market with our SaaS construction platform. We build for real people with real experiences, empowering Groundbreakers to develop and transform the communities where we all live.
+This position will report to the Sr Manager, Engineering - AI, and has the opportunity to work remotely from a U.S., Canada, or U.K. location or in our Carpinteria, CA, New York, NY, or Austin, TX office. We're looking for someone to join our team immediately.
+What you'll do:
+Work with large-scale structured and unstructured data, build and continuously improve cutting-edge Machine Learning models for Procore product, business, and operational use cases
+Collaborate with cross-functional partners, including software engineers, product managers, operations, and data scientists, identifying opportunities for business impact
+Understand, refine, and prioritize requirements for machine learning models, driving engineering decisions and quantifying the overall impact
+Hands-on development, production, and operation of Machine Learning models and pipelines at scale, including both batch and real-time use cases
+Leverage third-party and in-house Machine Learning tools & infrastructure to develop reusable, highly differentiating, and high-performing Machine Learning systems
+Enable fast model development, low-latency serving, and ease of model quality upkeep, including feature platform, model interpretability, hyperparameter optimization, and concept drift detection
+Develop, test, and deploy microservices in a cloud environment (AWS)
+What we're looking for:
+5+ years of industry experience in applied Machine Learning, inclusive M.S. or Ph.D. in relevant fields
+Exceptional written and verbal communication skills
+Strong programming ( Python / Java / C++ or equivalent) and data engineering skills
+Robust understanding of the machine learning and data science technical ecosystems (e.g., Tensorflow, Pytorch, MLflow, Seldon, Kubeflow, Data lakes, Snowflake, SageMaker, Scikit, etc.)
+Deep understanding of Machine Learning best practices (e.g. training/serving skew minimization, A/B test, feature engineering, feature/model selection), algorithms (e.g. gradient boosted trees, neural networks/deep learning, optimization), and domains (e.g. natural language processing, computer vision, personalization and recommendation, anomaly detection)
+Industry experience building end-to-end Machine Learning infrastructure and/or building Machine Learning models
+An understanding of the cost of software development/tech debt and long-term maintenance
+Passion for customers and seeking a deep understanding of end-user problems as well as competitive and market trends in the A.I. space
+
+Additional Information
+
+If you'd like to stay in touch and be the first to hear about new roles at Procore, join our Talent Community.
+About Us
+Procore Technologies is building the software that builds the world. We provide cloud-based construction management software that helps clients more efficiently build skyscrapers, hospitals, retail centers, airports, housing complexes, and more. At Procore, we have worked hard to create and maintain a culture where you can own your work and are encouraged and given resources to try new ideas. Check us out on Glassdoor to see what others are saying about working at Procore.
+We are an equal opportunity employer and welcome builders of all backgrounds. We thrive in a diverse, dynamic, and inclusive environment. We do not tolerate discrimination against employees on the basis of age, color, disability, gender, gender identity or expression, marital status, national origin, political affiliation, race, religion, sexual orientation, veteran status, or any other classification protected by law.
+Perks & Benefits
+You are a person with dreams, goals, and ambitions—both personally and professionally. That's why we believe in providing benefits that not only match our Procore values (Openness, Optimism, and Ownership) but enhance the lives of our team members. Here are just a few of our benefit offerings: generous paid vacation, employee stock purchase plan, enrichment and development programs, and friends and family events.

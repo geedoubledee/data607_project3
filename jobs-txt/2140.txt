@@ -1,0 +1,36 @@
+Iterative Health is pioneering the use of artificial intelligence-based precision medicine in gastroenterology, with the aim of helping to optimize clinical trials investigating the treatment of IBD. We use advanced machine learning and computer vision to interpret endoscopic videos along with other types of data, helping clinicians better assess patients with potential GI problems. Ultimately, the company aims to establish more meaningful endpoints to serve as better predictors of both therapeutic response and disease outcomes.
+Iterative Health is looking for a Product Manager for our Data Foundations. Working at a deep technical level, you will drive the vision and requirements for the data pipelines that underpin our business. Your primary users will be our software engineering and machine learning development teams, building the tools they need to access data that unlocks business value. In addition, you will nurture a comprehensive understanding of our external-facing user products, to guide data product innovations.
+What you'll be doing:
+Drive the vision, strategy & roadmap, and overall success for our data foundations (Ingestion, ETL, Data warehouse) via technology solutions that satisfy varied and rapidly evolving business requirements.
+Partner with our Machine Learning teams to facilitate rapid deployment of new and updated models into our processing pipelines.
+Drive visibility into pipeline health, with the tools to promptly triage and solve issues, resulting in improved pipeline stability and predictability over time.
+Create and maintain clear documentation and diagrams that outline product capabilities, requirements and planned development.
+Write simple initiatives, epics and user stories that capture needs and break down the work into meaningful units for development.
+Work collaboratively to understand broader business objectives, helping us effectively prioritize pipeline feature development.
+Proactively communicate and share information to create common understanding.
+Develop close relationships with a range of internal technical and non-technical stakeholders to intimately understand their needs.
+Required skills:
+Strong technical background, with a keen understanding of data foundations in AI-driven environments, including
+large scale data platforms (e.g. AWS, Google, Azure),
+model deployments into processing pipelines (e.g. Pachyderm, WandB)
+API development.
+BI/analytics tools (e.g. Metabase, Tableau, Datadog)
+Strong relationship building and communication skills as well as cross-discipline collaboration, trust and communications with senior leaders, clinical and technical teams
+Experience in a role that included preparation of technical requirements and guiding multiple technical and business stakeholders through product development, preferably in a machine learning or developer-facing product
+Experience driving common understanding through diagrams and documentation
+Proactive in asking for help to address your knowledge gaps and excited to learn about new technologies
+Knowledge and experience in the healthcare industry, especially the role of data, technology, and software in advancing medical research
+Fast learner and team player; adept at identifying gaps, plugging the holes, and just making things work.
+Preferred skills:
+7+ years of experience in highly technical roles, preferably involving database and pipeline management; cloud computing and APIs
+5+ years of experience as a product manager, preferably in a machine learning or developer-facing product.
+Strong understanding of computer vision and deep learning techniques.
+Experience working in health tech, and an understanding of relevant compliance considerations.
+Some of our benefits include:
+Vision/Dental/ Medical Insurance
+Life/Disability Insurance
+Parental Leave
+Stock Options
+Flexible Work Hours
+Unlimited Paid Time Off
+At Iterative Health, we're actively working towards creating an environment that is representative of the diversity of patients our technology serves. We are focused on building an equitable and inclusive culture, and by extension, hiring process. If you require any accommodations to make the application process or interviewing experience more accessible to you, please contact CandidateAccommodations@iterative.health.

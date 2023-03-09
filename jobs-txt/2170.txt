@@ -1,0 +1,57 @@
+Join TBK Bank!
+At TBK Bank, we're a team of passionate, driven, collaborative, solutions minded people who want to make a difference in the lives of our customers and communities. Our mission is to do well and to do good at the same time. We accomplish this by working together, because at the end of the day, TBK stands for helping the people and business in our communities succeed. We thrive on providing exceptional customer service, and we look for friendly professionals dedicated to helping customers achieve their financial goals.
+Position Summary
+The SQL Database Administrator is responsible for supporting the IT needs of the company as they relate to database administration. This position will be responsible for new design, implementation, and support of high available SQL environments. This includes responsibility for SQL replication solutions, performance tuning, job scheduling, SQL backups, and disaster recovery. The successful candidate will monitor the databases, perform maintenance, patching, upgrades, and manage database user access according to company policies. Other responsibilities include creating and migrating database objects from development through production environments across the enterprise SQL Server databases. The SQL Database Administrator should be quick to grasp new concepts, thoroughly explore the depths of an issue, and be persistent in understanding the root cause of problems.
+This role requires strong interpersonal skills due to continual interaction with managers and users with varying technical backgrounds in a fast-paced work environment.
+Essential Duties & Responsibilities
+Participate in system design planning, review, and implementation to create enterprise solutions built on AWS
+Automate repetitive deployment and maintenance tasks
+Optimize database environments including query performance, and ongoing configuration of related automation, notifications, monitoring, and reporting capabilities
+Analyze environments and recommend modifications to improve efficiency, reliability, and performance for delivering applications and infrastructure in the cloud
+Responsible for participating in IT change management and asset management processes
+Creating and updating systems documentation, performing systems assessments and reporting results
+Collaborates with team members, developers, and software vendors to design, implement and test systems
+Occasionally required to work during non-business hours and on weekends
+Participate in on call rotation
+Accountability on the use of services, handling of sensitive data, and resolving incidents and requests in compliance with FFIEC regulations
+Contributes to research and evaluation and build out of new enterprise technologies
+Experience & Education
+The successful candidate will possess business operations experience and skills, leadership expertise, analytical and critical thinking skills, and attention to detail. Additionally, the ideal candidate should possess the following:
+Bachelor’s degree in Technology, Engineering or Mathematics (STEM)
+Technical certification in Microsoft SQL, PostgreSQL, AWS, or Microsoft highly desirable
+Minimum of 3 years’ hands on DBA experience using Microsoft or Postgres SQL
+Strong troubleshooting skills
+Comprehensive experience with MSSQL, PostgreSQL, RDS, Aurora, DynamoDB
+Experience with High Availability solutions such as Aurora PostgreSQL clusters, Windows Failover cluster and SQL Always On
+Experience with cloud technologies specifically in AWS, and looking for prior experience with VPC, Route53, EBS, S3, EC2, SNS
+Experience in maintaining databases in a cloud environment in Postgres SQL.
+Experience with query performance tuning, data loads, backup and restore, and index tuning
+Experience with Microsoft BI stack
+Experience with Replication using native SQL replication
+Experience supporting SSIS and SSRS
+Expertise in Infrastructure automation tools such as Ansible, Terraform, CloudFormation, or similar is a strong plus
+Practical experience with Docker and Kubernetes. Ability to create, maintain, and troubleshoot Kubernetes deployments is a strong plus
+Experience working within Agile software development methodology
+Ability to generate and maintain technical documentation is required.
+Skills & Abilities Required
+Knowledge and understanding of IT concepts, best practices and procedures
+Self motivated with the ability to work individually or in a team
+Ability to leverage tools to perform day-to-day administration tasks, root-cause analysis and service restoration (such as backup, restore, failover, log interpretation, and performance monitoring)
+Ability to multitask and manages work effectively by prioritizing own assignments, schedules, and meetings resulting in timely completion of work.
+High degree of personal integrity.
+The applicant should eager to learn and obtain technical certification.
+Must be able to receive and follow instructions given by management.
+Must have the ability develop solutions to unique problems.
+Work Environment
+The work environment characteristics described here maybe encountered while performing the essential functions of this job. Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions.
+Must be physically capable to stoop, bend, lift up to 20 lbs to place technology supplies and computers and related equipment onto racks, desks, counters and into cabinets and onto storage shelves, etc.
+Moderate noise (i.e. business office with computers, phone, and printers, light traffic).
+Ability to work in a confined area.
+Ability to sit at a computer terminal for an extended period of time. Occasional stooping or kneeling may be necessary.
+While performing the duties of this job, the employee is regularly required to stand, sit, talk, hear and use hands and fingers to operate a computer keyboard and telephone.
+Specific vision abilities are required by this job due to computer work.
+Regular, predictable attendance is required.
+Triumph Business Capital, Triumph Bancorp, Inc. and its subsidiaries reserve the right to modify this job description at any time, with or without notice. This job description in no way implies that these are the only duties, to be performed by the employee occupying this position. This job description is not an employment contract, implied or otherwise.
+Equal Employment Opportunity Statement: Triumph Business Capital and Triumph Bancorp, Inc. and its subsidiaries, provide equal employment opportunities (EEO) to all employees and applicants for employment without regard to race, color, religion, gender, sexual orientation, national origin, age, disability, genetic information, marital status, or status as a covered veteran in accordance with applicable federal, state and local laws.
+We offer Medical, Dental, Vision, Paid Time Off, 401k and much more.
+Go on. Do it. Apply Today!

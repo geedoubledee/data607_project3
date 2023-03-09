@@ -1,0 +1,21 @@
+About Hims & Hers:
+Hims & Hers Health, Inc. (better known as Hims & Hers) is a multi-specialty telehealth platform building a virtual front door to the healthcare system. Hims & Hers connects consumers to licensed healthcare professionals, enabling people to access high-quality medical care—from wherever is most convenient—for numerous conditions related to primary care, mental health, sexual health, skincare, and more. Launched in November 2017, the platform also offers thoughtfully created and curated health and wellness products. With products and services available across all 50 states and Washington, D.C., Hims & Hers' mission is to make it easier for all Americans to access affordable care and treatment for conditions that impact their daily lives. In January 2021, we were listed on the NYSE at an initial valuation of $1.6 billion and is traded under the ticker symbol "HIMS". To learn more about our brand and offerings, you can visit forhims.com and forhers.com.
+How can we use data to build systems that enable easier and more affordable access to health care? In this role as Senior Software Engineer, Machine Learning you will work with product managers, engineers, data analysts and others to conceptualize and implement data-driven products that help advance our mission to eliminate stigmas and break down barriers to access.
+You Will:
+Collaborate with engineers, product managers and designers to build machine-learning based systems
+Help guide decisions based on your knowledge of the data and statistical applications
+Bring a broad awareness of the landscape of statistical and ML-based tools for solving common end-user problems (e.g. recommendation systems, prediction models, decision trees)
+Mentor and be mentored by other engineers
+Actively participate in retrospectives and help drive continuous improvement in our process and culture
+You Have:
+3-5+ years working as a data scientist or machine learning engineer with a proven record of incremental changes that improved product metrics with machine learning technologies
+Solid background in machine learning fundamentals and statistical modeling techniques
+Intimate familiarity with modern data science and machine learning tool stack
+Our Benefits (there are more but here are some highlights):
+Medical, Dental, and Vision healthcare plans
+Unlimited PTO
+Generous Parental Leave
+401k Match
+Equity
+Employee Stock Purchase Program
+Hims is an Equal Opportunity Employer and considers applicants for employment without regard to race, color, religion, sex, orientation, national origin, age, disability, genetics or any other basis forbidden under federal, state, or local law. Hims considers all qualified applicants in accordance with the San Francisco Fair Chance Ordinance.

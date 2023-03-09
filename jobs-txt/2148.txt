@@ -1,0 +1,27 @@
+Two Sigma Insurance Quantified (TSIQ) works closely with its industry partners to deliver products and solutions, which lead to enhanced automation and data-driven decision making. Comprised of a diversified and growing team of highly skilled data scientists, engineers, and business professionals, TSIQ possesses the agility and innovation of a dynamic startup with the resources and long-term view of Two Sigma. Learn more about TSIQ at https://twosigmaiq.com/
+
+You will take on the following responsibilities:
+Apply state of the art computer vision and NLP techniques to extract data from unstructured sources
+Perform exploratory data analysis and develop predictive models (regression, classification, clustering) on terabyte sized structured and unstructured datasets
+Generate statistical models for a variety of phenomena
+Interact with industry professionals to understand their business and propose technical/statistical approaches
+Partner with external clients, delivering models / product updates, and leading discussions with the use of data
+Stay on top of the latest research and developments in the fields of Machine Learning and Artificial Intelligence
+Manage and motivate a team of Data Scientists
+You should possess the following qualifications:
+A strong academic record with at least one degree in a technical discipline
+Solid knowledge of Computer Science and Statistics
+7+ years of experience in one of the following domains: Machine Learning applied to Document Understanding, Computer Vision, or Natural Language Processing. Experience in applied computer vision a plus
+Experience with data analysis tools (R, numpy/pandas/scikit-learn) and SQL
+Advanced programming skills in Python
+Prior experience working in a growth-minded SaaS-based company
+Experience producing research reports and predictive models
+Strong communication skills, both written and verbal
+Interest in working in a fast-paced and dynamic environment
+You will enjoy the following benefits:
+Core Benefits: Fully paid medical and dental insurance premiums for employees and dependents, 401k match, employer-paid life & disability insurance.
+Learning: Tuition reimbursement, conference and training sponsorship.
+Time Off: Generous vacation, sick days, and paid caregiver leaves.
+Hybrid Work Policy: Flexible in-office days with budget for home office setup.
+The base pay for this role is anticipated to be between $170,000 and $210,000. The anticipated base pay range is based on information as of the time this post was generated. This role may also be eligible for other forms of compensation and benefits, such as a discretionary bonus, health, dental and other wellness plans and 401(k) contributions. Discretionary bonus can be a significant portion of total compensation. Actual compensation for successful candidates will be carefully determined based on a number of factors, including their skills, qualifications and experience.
+We are proud to be an equal opportunity workplace. We do not discriminate based upon race, religion, color, national origin, sex, sexual orientation, gender identity/expression, age, status as a protected veteran, status as an individual with a disability, or any other applicable legally protected characteristics.

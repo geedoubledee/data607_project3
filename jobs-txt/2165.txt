@@ -1,0 +1,57 @@
+We are Array Behavioral Care, where we envision a world where loved ones never struggle to access behavioral health services that support their wellness. Our mission is to transform access to quality behavioral care through innovative applications of technology. Come be a part of our organization where you can help us lead the way in providing remote high-quality behavioral healthcare to those who need it most.
+
+Position Summary
+This role reports into the Analytics & Program management team at Array Behavioral Care. This teams focus is leverage analytics to drive improvements throughout the organization. How can we use data to better improve our company’s performance and improve the quality of care that we provide to our Partners and Patients?
+Are you excited to use data to unlock actionable, high-value insights to help drive a growing business? Do you love identifying opportunities to solve business questions? Have you ever fought the urge to shout “data WHOA” after completing an analysis? Then you may be just who we’re looking for to join our analytics team!
+
+Job Responsibilities
+Array Behavioral Care is seeking a Senior Business Intelligence Analyst to work in collaboration with a Program Manager & Technical lead to build out the analytic capabilities of the organization. This will focus on:
+Building & maintaining Power BI reports for the various departments and lines of business
+Working with the Technical Lead to grow & build out backend tables in the Azure SQL DB Data Warehouse that feed data into Power BI star schemas
+Support the flow of data through the data analytics pipeline & troubleshooting any breakdowns (e.g., Ensure data flow from Source SaaS platform to Azure Data Warehouse to Power BI)
+Support other end users in helping them build out reports in the native SaaS applications (e.g. Salesforce, Athenahealth, NetSuite, ADP, Symplr, etc.)
+Collaborating with other non-technical departments on what new data can be brought into warehouse to drive value for the company and how to optimally visualize it in Power BI reports/dashboards
+Proactively identifying and building out additional attributes and metrics that that support business use case needs
+Presenting professional data analytic reports, dashboards, PowerPoints, & other information to the C-Suite & executive teams
+Designing and building new data processes that can automate the day-to-day work of other employees in the organization
+Be an advocate for data cleanliness and data governance
+Array’s business goals are to increase ROI and improve operational efficiency through automation and visibility into data analytics. Array is looking for a senior data intelligence analyst who can join the team to help buildout and implement much of these systems. Array’s systems are all modern, cloud-based SaaS with minimal technical debt.
+Serve as Company’s Primary Data Analytics Analyst Expert and Builder
+Design/Architect/Implement/Deploy new Data Dashboards & Reports
+Coordinate with the Technical Lead – Data Engineer to optimize the enterprise solutions for data platforms, integration, and analytics
+Support in the automation of the flow of data between various SaaS systems via an iPaaS
+Proactively engage with stakeholders to identify opportunities to, develop, and implement data-driven business optimizations (e.g., automated tasks and workflows, triggered alerts, error-checking)
+Be the primary point of contact for the business stakeholders supported by your team: meeting with them, understanding their requirements, and using your analytical mindset to direct the implementation of solutions ranging from process improvements to dashboards
+Collaborate with other leaders in the data organization to enable the members of your squad to have the greatest possible impact on business outcomes
+
+Minimum Qualifications
+Bachelor’s degree in related field
+3 to 5 years of relevant work experience specifically in Power BI, SQL Scripting, Data Modeling, and Cloud Based Data Warehouses
+Experience with Power BI DAX & Power Query
+Experience building star schemas in Power BI
+Strong data analytic capabilities including experience with data collection, manipulation, cleaning, analysis, ETL, and visualization
+Experience working with Microsoft Azure Data Factory (or similar system) and ETL
+Experience writing in SQL
+Must have the ability to quickly master and become expert in new data solutions & platforms
+Preferably experience working with data from Salesforce, NetSuite, and ADP
+Preferably experience working & documenting progress in JIRA
+Preferably experience working with healthcare data or clinical administrative data
+Preferably have a working knowledge of:
+Connecting data sources through an iPaaS via API connections (Informatica)
+API connections and calls with various SaaS systems work and
+Data Engineering best practices including experience with web services (SOAP / REST)
+Understands the importance of Data Governance and Data Cleanliness
+Excellent organization skills, time management and problem-solving skills; the ability to juggle many tasks at the same time; strong attention to detail
+Effective communication and interpersonal skills over the phone, in person, and via video conference
+Workable experience using the Microsoft Suite Tools (Excel, PPT, Word, Outlook, etc.)
+Strong ability to “Manage Up” - proactively provide updates to necessary stakeholders
+Ability to assess needs related to the job function and create new processes, documents, structures, and systems accordingly
+Experience working with multidisciplinary teams and diverse groups; Independent worker, self-starter
+Compassionate and kind person to colleagues, likable personality
+Ideally a passion for improving behavioral health access for patients in America
+
+Logistics
+Remote Position based in EST or CST
+Full-time employment
+
+At Array we strongly value diversity and are committed to equal opportunity and non-discrimination in all policies and practices, including the area of employment. We are proud to be an Equal Opportunity/Affirmative Action employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, national origin, age, disability, Veteran status, gender identity or expression, marital status, genetic information, or any other legally protected status.

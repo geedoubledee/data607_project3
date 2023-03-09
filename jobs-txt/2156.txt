@@ -1,0 +1,52 @@
+The Retail Pharmacy Analytics team maintains industry-leading analytical solutions to enable a roadmap
+that drives the technology development & innovation, while delivering high-quality and high-value
+solutions. This position will be reporting to the Executive Director – Patient Safety and Pharmacy Operations Analytics.
+
+The Director of Data Science, Patient Safety, will leverage their technical and product management expertise to drive our AI innovation to revolutionize the way CVS Pharmacy fills prescriptions. The candidate will drive analytical solutions in pharmacy professional practices and support our communities in prevention of drug misuse across a fleet of 9700+ pharmacy locations. An ideal candidate within this role will be required to lead, train, and develop a team of data scientists who will be responsible for maintaining current processes as well as fostering innovative solutions to drive continuous quality improvement within our retail business units. Prevention of patient safety events via analytically driven solutions powered by AI/ML will be the foundation of this team’s purpose.
+
+This person will collaborate with business leaders and partners to help inform strategy development, prioritization of analytic efforts, and formulation of specific workplans and projects to execute across the retail pharmacy chain. This individual must be able to effectively influence and communicate with non-technical audience using facts and well-reasoned cases.
+
+Responsibilities include
+
+Lead initiatives to improve patient safety and reduce drug misuse/ abuse using both descriptive and AI/ ML techniques
+Leverage technology depth to engage with key leaders across the enterprise to identify new applications of artificial intelligence in patient safety topics
+Input business requirements from various stakeholders, lead analysis of vast amounts of data and in turn synthesize strategies and tactics to solve complex problems
+Conduct or coordinate appropriate testing of analytic solutions including, machine learning and artificial intelligence, to ensure results are consistent with business requirements
+Develop and present meaningful and insights-driven materials on analytical results with recommendations and go forward planning to guide a variety of audiences including internal stakeholders and senior leadership
+Develop and mentor data scientists, contribute to their learning and training agenda, knowledge sharing, and provide input on technology stack
+
+Pay Range
+The typical pay range for this role is:
+Minimum: 120,000
+Maximum: 265,000
+
+Please keep in mind that this range represents the pay range for all positions in the job grade within which this position falls. The actual salary offer will take into account a wide range of factors, including location.
+
+Required Qualifications
+6+ years of experience leading and inspiring high-performance teams. Provides timely and periodic feedback to direct reports and holds them accountable for achieving quality results
+Ability to think strategically; including defining objectives, analyzing the key elements, managing budgetary implications, evaluating the risk, and developing framework to achieve success
+8+ years’ experience with the Software Development Lifecycle (SDLC) and agile development, including giving business requirements focused on data and analytics
+Strong leadership skills, strategic mindset and experience leading highly technical teams focused on
+deploying data and analytics solutions in healthcare
+Strong organizational skills. Ability to work on multiple tasks in parallel and consistently prioritize key objectives.
+Ability to engage with senior business stakeholders, execute level communication and influencing skills
+Deep experience with data modeling/analytics with SQL, Python, Tableau and/or other advanced
+analytical tools
+Highly motivated individual to work in an extremely fast paced environment both individually and with a team.
+
+Preferred Qualifications
+Strong analytics and data skills including solid training in statistics and data analysis, understanding of data management and visualization, ability to interpret outcomes of machine learning models
+Prior experience using and managing projects leveraging Cloud (Azure, GCP, …) technologies
+
+Education
+Bachelor’s Degree required
+Advanced degree majoring in Statistics, Computer Science, Mathematics, or related STEM field a
+plus
+
+Business Overview
+Bring your heart to CVS Health
+Every one of us at CVS Health shares a single, clear purpose: Bringing our heart to every moment of your health. This purpose guides our commitment to deliver enhanced human-centric health care for a rapidly changing world. Anchored in our brand — with heart at its center — our purpose sends a personal message that how we deliver our services is just as important as what we deliver.
+
+Our Heart At Work Behaviors™ support this purpose. We want everyone who works at CVS Health to feel empowered by the role they play in transforming our culture and accelerating our ability to innovate and deliver solutions to make health care more personal, convenient and affordable.
+We strive to promote and sustain a culture of diversity, inclusion and belonging every day.
+CVS Health is an affirmative action employer, and is an equal opportunity employer, as are the physician-owned businesses for which CVS Health provides management services. We do not discriminate in recruiting, hiring, promotion, or any other personnel action based on race, ethnicity, color, national origin, sex/gender, sexual orientation, gender identity or expression, religion, age, disability, protected veteran status, or any other characteristic protected by applicable federal, state, or local law.

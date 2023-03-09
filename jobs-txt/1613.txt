@@ -1,0 +1,33 @@
+Modis Inc. is seeking a Database Administrator candidate to join a leading local employer in the Akron, OH area. The DBA will be accountable for the design, implementation, maintenance, and troubleshooting of complex database systems supporting the business applications. Qualified candidates will have 7+ years of experience in SQL Server database administration and be able to come into the Akron office once a month.
+This role is with a leading company that is local and a household name! This is a long-term role scheduled for 2+ years. Pay rate is very flexible!
+DBA Job Responsibilities:
+Providing and maintaining reliable Microsoft SQL Server databases to support the business application.
+Implementing, monitoring and administering /Microsoft SQL Server databases including performance tuning.
+Performing system administration and performance monitoring.
+Support users of the application.
+Recommending improvements to strategy, application usage and process.
+Investigating and resolving application problems and/or performance issues.
+Providing consulting services for DBA work that impacts application and OSIsoft server configurations.
+Providing input on future direction of the database environments.
+Qualifications:
+Bachelor's degree in Engineering, Computer Science, or related field with 7+ years of relevant experience. In lieu of a degree, 12 years of relevant experience required.
+Relevant experience can include supporting a production database such as SQL Server database administration skills.
+Broad experience in database management software products and the use of those products in application development. (Quest, TOAD, SQL*Plus, etc.)
+Must work effectively in a team environment and on concurrent assignments.
+Strong technical writing skills, PowerPoint and Microsoft Excel.
+Understanding of basic network concepts, Windows Server administration strongly desired but not required.
+Details:
+Why Modis? Modis has a commitment to making exceptional connections with you and our clients; creating strong and long-lasting relationships for your career. Modis also prides itself on personal touch and providing current and up-to-date feedback on your performance.
+If you are interested in this remote but very occasionally hybrid role in Akron, OH DBA Job then please apply via http://www.modis.com
+Questions can be directed to kathy.becher@modis.com or 216-750-6232
+Equal Opportunity Employer/Veterans/Disabled
+To read our Candidate Privacy Information Statement, which explains how we will use your information, please visit https://www.modis.com/en-us/candidate-privacy/
+The Company will consider qualified applicants with arrest and conviction records
+
+
+
+Equal Opportunity Employer/Veterans/Disabled
+
+To read our Candidate Privacy Information Statement, which explains how we will use your information, please navigate to https://www.modis.com/en-us/candidate-privacy
+
+The Company will consider qualified applicants with arrest and conviction records

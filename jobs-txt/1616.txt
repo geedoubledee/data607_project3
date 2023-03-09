@@ -1,0 +1,3 @@
+Serve as a Database Administrator to manage SQL Server databases, while maintaining database servers and processes. Provide monitoring and tuning of systems health and performances. Will ensure high levels of performance, availability, and security. Will analyze, solve, and correct database issues and errors.
+
+Provide suggestions for solutions and refine automate regular processes, track issues and document changes. Aid developers with query turning and schema refinement. Will perform scheduled maintenance and support release deployment activities. Will develop processes for optimizing database security, create and manage database reports, visualizations, and dashboards.

@@ -1,0 +1,79 @@
+Position Summary: The Senior Manager/Director of Data Science leads the Data Science Team while collaborating with Research and Development (R&D), Engineering, Clinical, and Product Development personnel to build analytics and computing infrastructures for new and innovative diagnostic tests.
+Responsibilities:
+Leads the Data Science Team, a research team of data scientists and bioinformatics engineers.
+Leads data science development, contributes to problem-solving, and collaborates internally and externally on various research projects.
+Designs and implements solutions to extract and validate signals from complex genetic and genomic data.
+Develops statistical analyses and machine learning methods to model disease stages.
+Establishes and manages bioinformatics and machine learning pipelines for R&D research projects and large-scale clinical studies.
+Interprets results from multiple sources using a variety of techniques, ranging from simple data aggregation via statistical analysis to complex data mining independently.
+Designs, develops and implements the most valuable business solutions for the organization.
+Builds interdisciplinary partnerships with the laboratory, engineering, quality assurance, and business development teams.
+Author scientific findings in the form of technical reports, peer-reviewed journal submissions, and conference presentations.
+Other duties as assigned.
+Requirements:
+Knowledge, Skills, and Experience
+Ph.D. degree with 3+ years of relevant experience preferred, OR master’s degree with 6+ years of relevant experience.
+Extensive experience developing bioinformatics tools, machine learning algorithms, and data-intensive analytical pipelines.
+Strong track record of scientific research contributions in form of peer-reviewed publications, conference presentations, whitepapers, etc.
+Demonstrated skills in developing next-generation data analytics pipelines and experiences with orchestration tools (e.g., Nextflow, CWL, Argo, Kubeflow).
+Extensive experience with machine learning libraries (e.g., Scikit learn, Keras, Tensorflow, Pytorch).
+Proven ability to extract, transform, and load data as well as proficiency in manipulating structured/unstructured datasets from various sources.
+Strong coding skills in scripting/programming languages including Python, R, Java, and SQL.
+Proficiency in cloud computing platforms (e.g., AWS, Azure, GCP)
+Experience in developing liquid biopsy tests preferred.
+Knowledge in cancer genomics, proteomics, transcriptomics, or metabolomics preferred.
+Proven ability to collaborate with others in a complex, multifunctional, and specialty environment.
+Demonstrated skills and high level of attention to detail in data interpretation and ability to troubleshoot.
+Ability to multitask and thrive in an agile, fast-paced, deadline-driven environment while remaining flexible, proactive, resourceful, and efficient.
+Proficient verbal and written communication skills. Willingness to share and receive information and ideas from all levels of the organization to achieve the desired results.
+Embodies and demonstrates a track record of exhibiting Geneoscopy’s behaviors: Collaboration, Commitment, Courage, Self-Initiative, and Integrity.
+Possesses high ethics and conducts business most professionally.
+Seeks inclusiveness and collaboration but will step up to responsibility and make tough decisions and be accountable for those decisions.
+Results-oriented team player with strong interpersonal and communication skills, capable of working collaboratively with colleagues.
+Education Requirements
+Master’s degree required.
+Ph.D. degree preferred.
+Physical Demands
+Employee may be required to lift routine office supplies and use standard office equipment.
+Must possess the ability to sit and/or stand for long periods of time.
+Must possess the ability to perform repetitive motion.
+Values
+Ability to demonstrate, understand, and apply our workplace values:
+Bring passion – we are ALL IN to transform GI health.
+Do no harm – we are committed to quality, integrity, and transparency to earn provider’s and patient’s trust.
+Exercise agility – we act with speed and flexibility to translate ideas into impact.
+Be bold – we embrace opportunities to challenge the status quo.
+Work together – we believe that we will achieve breakthrough results through teamwork.
+Schedule
+This is a salaried position, requiring at least 40 hours per week. There may be projects that require activities beyond the standard hours.
+Compensation and Benefits
+The salary will be determined based on the candidate’s experience, knowledge, and abilities. Benefits include health, vision, dental, and life insurance, 401k (with employer match), paid time off, and flexible schedule.
+All employees are required to be vaccinated for Covid-19.
+By completing this online application for employment, you certify that the information on this application is true and complete to the best of your knowledge. You understand that any misrepresentation or omission of fact in response to any inquiry made in this application may result in rejection of application or, if hired, dismissal whenever it is discovered. You authorize and release all parties from any liability or damage that may result from seeking, furnishing or using such information. You understand and agree that, if hired, your employment is for no definite period and may, regardless of the date of payment of compensation, be terminated by Geneoscopy at any time, for any or no reason, with or without notice. You understand that no representation to the contrary is valid unless in writing, setting a definite term of employment, and signed by the company's CEO. You further understand and agree that any job offer is contingent upon your passing, to the company's satisfaction, a criminal background check, reference checks, and other possible screenings. You understand that this application is active for 90 days only, and if you do not hear from the company but still wish to be considered for employment after 90 days, you will need to fill out a new application.
+Job Type: Full-time
+Benefits:
+401(k)
+401(k) matching
+Dental insurance
+Flexible schedule
+Flexible spending account
+Health insurance
+Health savings account
+Life insurance
+Paid time off
+Parental leave
+Referral program
+Retirement plan
+Vision insurance
+Schedule:
+8 hour shift
+Supplemental pay types:
+Bonus pay
+COVID-19 considerations:
+All employees are required to be vaccinated for Covid-19.
+Application Question(s):
+Will you now, or in the future, require sponsorship for employment visa status (e.g. H-1B visa status)?
+Do you have a background/education/experience in Bioinformatics?
+Education:
+Master's (Required)
+Work Location: Remote

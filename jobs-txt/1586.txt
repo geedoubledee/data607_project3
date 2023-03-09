@@ -1,0 +1,30 @@
+Company Summary:
+Tessera Therapeutics is pioneering Gene Writing™— a new biotechnology designed to offer scientists and clinicians the ability to write small and large therapeutic messages into the genome, thereby curing diseases at their source. Gene Writing holds the potential to become a new category in genetic medicine, building upon recent breakthroughs in gene therapy and gene editing while eliminating important limitations in their reach, utilization, and efficacy. Tessera Therapeutics was founded by Flagship Pioneering, a life sciences innovation enterprise that conceives, resources, and develops first-in-category companies to transform human health and sustainability.
+Position Summary:
+Tessera is seeking a creative and motivated computational scientist to lead and grow our Data Science team. The ideal candidate has deep technical expertise in machine learning and deep learning, a track record of applying those skills to problems in biology and/or drug discovery, and strong leadership skills. You and your team will work on exciting challenges in the areas of genomic search, protein engineering, multi-omics data analysis, image analysis, and more.
+The Data Science group is part of a rapidly growing, multi-disciplinary "digital" department and will work closely with colleagues in Computational Biology, RNA & Protein Engineering, Data Engineering, etc. as well as experimental scientists across Research, external collaborators, partners, and more.
+Key Responsibilities:
+Recruit, lead, mentor, and develop a talented team of data scientists.
+Identify opportunities to apply machine learning techniques to help move our platforms and programs forward.
+Lead the development, validation, and delivery of ML algorithms and pipelines using best practices and available tools/resources.
+Establish a strong foundation for Tessera's machine learning capabilities and serve as a technical expert and point of contact within the company.
+Drive external collaborations.
+Collaborate closely with experimental scientists to ensure that data is generated and used effectively.
+Leverage public datasets where available and useful.
+Qualifications:
+PhD in Computational Biology, Computer Science, Mathematics, or a related field.
+5+ years of applied experience in industry, academia, or non-profit settings.
+Demonstrated experience applying modern machine learning techniques to large scale biological data and delivering impact in problems of biology and/or drug discovery.
+Strong technical proficiency in programming including ML frameworks, cloud computing, and dev ops.
+Understanding of molecular biology and genomics, including evolutionary biology and/or protein structure/function.
+Ideally experience in applying ML/AI techniques to protein engineering or sequence-structure-function studies.
+Ideally experience with recent advances in gene therapy and development of gene editing platforms
+History of working successfully in a cross-functional organization.
+Experience working in a fast paced and rapidly growing organization.
+Outstanding written and verbal communication skills, ability to work with colleagues from diverse scientific backgrounds and cultures.
+
+More About Flagship Pioneering
+Flagship Pioneering has conceived of and created companies such as Moderna Therapeutics (NASDAQ: MRNA), Editas Medicine (NASDAQ: EDIT), Omega Therapeutics (NASDAQ: OMGA), Seres Therapeutics (NASDAQ: MCRB), and Indigo Agriculture. Since its launch in 2000, Flagship has applied its unique hypothesis-driven innovation process to originate and foster more than 100 scientific ventures. In 2021, Flagship Pioneering was ranked 12th globally on Fortune's "Change the World" list, an annual ranking of companies that have made a positive social and environmental impact through activities that are part of their core business strategies.
+Flagship Pioneering and our ecosystem companies are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status.
+
+Recruitment & Staffing Agencies: Flagship Pioneering and its affiliated Flagship Lab companies (collectively, "FSP") do not accept unsolicited resumes from any source other than candidates. The submission of unsolicited resumes by recruitment or staffing agencies to FSP or its employees is strictly prohibited unless contacted directly by Flagship Pioneering's internal Talent Acquisition team. Any resume submitted by an agency in the absence of a signed agreement will automatically become the property of FSP, and FSP will not owe any referral or other fees with respect thereto.

@@ -1,0 +1,12 @@
+San Francisco | Mountain View | Remote
+About the Role
+Video.io is looking for passionate software engineers to join us and help contribute to our machine learning platform for video. You will
+Build highly-scalable classifiers, tools, models and algorithms leveraging cutting-edge machine learning and computer vision technologies.
+Collaborate with the teams to create a high performance and robust video product.
+Deliver high quality work on schedule.
+Qualifications
+BS/MS degree in Computer Science or equivalent majors with 2+ years of ML or computer vision experience.
+Good understanding of software development principles, capabilities and scalability.
+Good understanding of data structures and algorithms.
+Good team communication and collaboration skills.
+Passion for solving hard productionization challenges.

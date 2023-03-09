@@ -1,0 +1,20 @@
+Overview:
+Fort Bend County is ranked as one of the fastest growing counties in the nation. We have capitalized on not only the creed of our location, but on the "quality of life" for our families to call home. Our employees are the key to our success and the heartbeat of our foundation. The diversity and inclusivity of our community is our strength and at the forefront of a workplace environment welcoming to all. Live Here! Work Here!
+
+JOB SUMMARY:
+Responsible for all aspects of database administration and implementation. Performs systems analysis and programming tasks as directed. Participates in planning of programs, policies or objectives for own work group and department.
+
+Responsibilities:
+Installs and configures database management systems and related supporting software. Recommends optimum access techniques and coordinates installation requirements. Acquires and applies patches and fixes. Develops and maintains programs to support database operations including database backup, security control, performance tuning, and database manipulation. Establishes and maintains database security and user accounts. Defines systems requirements by working directly with end users. Designs, develops, tests and implements application programs and systems as directed. Designs documentation regarding shutdown, backup, troubleshooting and archiving procedures. Participates in implementing database policies and procedures to ensure the integrity and availability of databases and their accompanying software. Coordinates with end users and IT when implementing hardware or software in production environment. Identifies and leverages opportunities to improve data management processes, systems, and standards. Conducts research and make recommendations on database products, services, protocols, and standards in support of procurement and development efforts. On-call 24/7 for all supported hardware and software. Participates in activities and duties related to emergency management during a local state of disaster as directed by appropriate county managers.
+Qualifications:
+Bachelor’s degree in computer science, information systems or related field preferred. (High School/GED and four years of relevant professional relational database management experience in addition to the required seven years experience may be substituted for the Bachelor’s degree). Seven years of job related experience. Knowledge of SQL. Experience with maintenance scripts, logging, and database recovery. Strong multi-platform system and application programming skills. Strong analytical and system design skills. Good verbal and written communication skills, interpersonal skills and the ability to deal effectively with the public, other employees and elected officials. Requires experience in database administration, project analysis, and application and system programming.
+
+SALARY RANGE: $38.14 - $47.67 hourly based on qualifications
+CLOSING DATE: Upon filling position
+
+All full-time and part-time employees are members of the Texas County District Retirement System (TCDRS). Full-time employees also enjoy a wide-range of great benefits.
+
+Fort Bend County is an equal opportunity employer, committed to non-discrimination in employment on any basis including race, color, religion or creed, sex, sexual orientation, gender, gender identity, gender expression, pregnancy status (including childbirth and related medical conditions), national origin, ethnicity, citizenship status, age (40 and over), physical or mental disability, genetic information, protected military and veteran status, political affiliation or beliefs, or any other classification protected by state, federal and local laws, unless such classification is a bona fide occupational qualification.
+
+For more information on Fort Bend County's Title VI / Nondiscrimination Statement, visit www.fbctx.gov/comply
+To be considered for employment, all interested candidates must complete the required Fort Bend County online employment application located at www.fortbendcounty.jobs

@@ -1,0 +1,23 @@
+Location: 100% Remote
+Duration: Long Term
+Visa: Any Visa type
+*W2 Work Authorization Without Sponsorship is REQUIRED*
+REQUIRED
+Experience with cloud-based platforms (i.e. Azure, GPC, AWS) – Azure Preferred
+Snowflake SQL/Spark - Data engineering pipeline
+Exposure/understanding of deployment practices using containerization (i.e. Kubernetes, Docker)
+Experience in Python, SQL
+Strong critical thinking, communication, and problem-solving skills
+EXPERIENCE
+Preferred Qualifications:
+Experience building automated data pipelines
+Experience performing data analysis and data exploration
+Experience working in an agile delivery environment
+Exposure/understanding of DevOps best practice and CICD (i.e. Jenkins)
+Experience working in a multi-developer environment, using version control (i.e. Git)
+Experience with big data frameworks (i.e. Hadoop and Spark) – Azure Data Bricks Preferred
+Job Types: Full-time, Contract
+Pay: $60.00 - $65.00 per hour
+Schedule:
+Monday to Friday
+Work Location: Remote

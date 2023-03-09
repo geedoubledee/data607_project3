@@ -1,0 +1,57 @@
+GENERAL DESCRIPTION OF POSITION
+The Business Intelligence Developer's primary responsibility is to oversee the ongoing development, operations and standardization of enterprise data warehouse and operational data store. This will be accomplished through collaborations with departments to identify and determine the scope of the business opportunity, as well as analyzing/identifying effective reporting techniques and desired reporting formats that drive the development and design of the Business Intelligence (BI) solution.
+ESSENTIAL DUTIES AND RESPONSIBILITIES
+1. Collaborate with database administrators on the ongoing operations and standardization of enterprise data warehouse and operational data store. This duty is performed monthly, about 5% of the time.
+2. Manage administration, configuration, monitoring, performance, maintenance and usability of Business Intelligence (BI) systems. This duty is performed as needed, about 5% of the time.
+3. Develop, maintain and manage metadata, reporting, analytics, dashboards, report definitions, data extracts, etc. This duty is performed daily, about 10% of the time.
+4. Solve complex data issues using data analyst skills to determine root cause problem(s) for data integrity and data quality issues. This duty is performed as needed, about 5% of the time.
+5. Collaborate with departments to identify and scope the business opportunity in order to understand, document and analyze business requirements, identify effective reporting techniques and data sources, risks, and constraints, and desired reporting formats that drive the development and design of BI solution. This duty is performed daily, about 20% of the time.
+6. Maintain a strong understanding of business workflow, processes, and events and how these are captured in transactional systems. This duty is performed weekly, about 5% of the time.
+7. Provide guidance and technical support to departments regarding data analytics, business measures, and reporting. This duty is performed as needed, about 5% of the time.
+8. Improve and streamline processes regarding data flow and data quality to improve data accuracy, viability and value. This duty is performed weekly, about 5% of the time.
+9. Communicate plans, progress, and issues to management in a timely manner. This duty is performed weekly, about 5% of the time.
+10. Analyze, estimate, and fulfill requests for BI solutions. This duty is performed as needed, about 10% of the time.
+11. Lead or participate as a team member on organization projects. This duty is performed weekly, about 10% of the time.
+12. Work a flexible schedule to accommodate initiative timelines. This duty is performed as needed, about 4% of the time.
+13. Maintain knowledge of current and future techniques and technologies through research, training labs, reading, conferences and experimentation with new technologies in the workplace. This duty is performed as needed, about 5% of the time.
+14. Design, code, test and document all new or existing BI solutions. Write complex queries, views and stored procedures. This duty is performed daily, about 10% of the time.
+15. Develop and execute database queries and conduct analyses. This duty is performed as needed, about 5% of the time.
+16. Back-up other members of the team as required. This duty is performed as needed, about 3% of the time.
+17. The ability to work in a constant state of alertness and in a safe manner.
+18. Completes required BSA/AML training and other compliance training as assigned.
+19. Perform any other related duties as required or assigned.
+Requirements
+EDUCATION AND EXPERIENCE Technical degree required in such disciplines as Computer Engineering, CPA, etc, plus 5 years related experience and/or training, and 4 years related management experience, or equivalent combination of education and experience.
+COMMUNICATION SKILLS
+Ability to read, analyze, and understand common scientific and technical journals, financial reports, and legal documents; Ability to respond to complex or difficult inquiries or complaints from customers, regulatory agencies, or members of the business community.
+MATHEMATICAL SKILLS
+Ability to work with mathematical concepts such as probability and statistical inference, and fundamentals of plane, algebra, solid geometry and trigonometry.
+CRITICAL THINKING SKILLS
+Ability to define problems, collect data, establish facts, and draw valid conclusions. Ability to interpret an extensive variety of technical instructions in mathematical or diagram form and deal with several abstract and concrete variables.
+REQUIRED CERTIFICATES, LICENSES, REGISTRATIONS
+Not indicated.
+PREFERRED CERTIFICATES, LICENSES, REGISTRATIONS
+Not indicated.
+SOFTWARE SKILLS REQUIRED
+Advanced: 10-Key, Database Intermediate: Accounting, Alphanumeric Data Entry, Presentation/PowerPoint, Programming Languages, Spreadsheet, Word Processing/Typing
+WORKING CONDITIONS
+Normal working conditions as found within an office setting, wherein there is controlled temperature and a low noise level, plus a minimum of distractions.
+ENVIRONMENTAL CONDITIONS
+The following work environment characteristics described here are representative of those an employee encounters while performing essential functions of this job. Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions. The noise level in the work environment is usually moderate.
+PHYSICAL ACTIVITIES
+The following physical activities described here are representative of those that must be met by an employee to successfully perform the essential functions of this job. Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions and expectations.
+Semi-repetitive, low physical.
+Semi-repetitive type work which requires periods of concentration for varied time cycles as prescribed by the tasks.
+While performing the functions of this job, the employee is continuously required to use hands to finger, handle, or feel, talk or hear; regularly required to sit, reach with hands and arms; occasionally required to walk.
+The employee must occasionally lift and/or move up to 25 pounds. Specific vision abilities required by this job include close vision.
+ADDITIONAL INFORMATION
+Required Education and Experience:
+Experience must include development of BI solutions (metadata, reporting, analytics, dashboards, report definitions, data extracts, etc) (financial sector preferred).
+Advanced level of experience in executing, implementing and supporting BI solutions based upon business requirement, content knowledge and multiple data source types.
+Knowledge of SQL queries, SQL Server Reporting Services (SSRS) and SQL Server Integration Services (SSIS).
+Preferred Education and Experience:
+1 - 3 years of experience using data visualization tools such as Power BI and Tableau.
+Required Proficiencies:
+Analytical mind with an aptitude for problem-solving.
+Equal Opportunity Employer/Protected Veterans/Individuals with Disabilities
+The contractor will not discharge or in any other manner discriminate against employees or applicants because they have inquired about, discussed, or disclosed their own pay or the pay of another employee or applicant. However, employees who have access to the compensation information of other employees or applicants as a part of their essential job functions cannot disclose the pay of other employees or applicants to individuals who do not otherwise have access to compensation information, unless the disclosure is (a) in response to a formal complaint or charge, (b) in furtherance of an investigation, proceeding, hearing, or action, including an investigation conducted by the employer, or (c) consistent with the contractor’s legal duty to furnish information. 41 CFR 60-1.35(c)

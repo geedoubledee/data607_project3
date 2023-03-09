@@ -1,0 +1,21 @@
+Basic
+Work experience with ETL, Data Modeling, and Data Architecture.
+Experience with Big Data technologies such as Hadoop/Hive/Spark.
+Skilled in writing and optimizing SQL.
+Experience operating very large data warehouses or data lakes.
+Preferred
+Experience in designing and implementing highly performant data ingestion pipelines from multiple sources using Apache Spark and/or Azure Databricks
+Show efficiency in handling data - tracking data lineage, ensuring data quality, and improving discoverability of data.
+Integrating end-to-end data pipeline to take data from source systems to target data repositories ensures the quality and consistency of data is always maintained.
+Knowledge of Engineering and Operational Excellence using standard methodologies.
+Comfortable using PySpark APIs to perform advanced data transformations.
+Familiarity with implementing classes with Python.
+Summary
+Design, build and operationalize large scale enterprise data solutions and applications using one or more of AWS data and analytics services in combination with 3rd parties - Spark, EMR, RedShift, Lambda, Glue
+Design and build production data pipelines from ingestion to consumption within a big data architecture, using Java, and Python.
+Design and implement data engineering, ingestion, and curation functions on AWS cloud using AWS native or custom programming.
+Job Type: Contract
+Salary: $76.00 - $84.00 per hour
+Schedule:
+8 hour shift
+Work Location: Hybrid remote in Alpharetta, GA 30004

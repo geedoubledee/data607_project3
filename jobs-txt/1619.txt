@@ -1,0 +1,45 @@
+About Niche
+Niche is the leader in school search. Our mission is to make researching and enrolling in schools easy, transparent, and free. With in-depth profiles on every school and college in America, 140 million reviews and ratings, and powerful search tools, we help millions of people find the right school for them. We also help thousands of schools recruit more best-fit students, by highlighting what makes them great and making it easier to visit and apply.
+Niche is all about finding where you belong, and that mission inspires how we operate every day. We want Niche to be a place where people truly enjoy working and can thrive professionally.
+About The Role
+The Database Administrator (DBA) will be responsible for maintaining the integrity, security and availability of many databases across various lifecycles and team use cases. The DBA maintains an understanding of business needs and designs access and availability of databases for teams based on best practices. They will troubleshoot complex technical problems and mitigate risks by conducting server performance tuning, SQL tuning, disaster recovery, and capacity planning. This position will work in close partnership with engineering and business teams to ensure a well-designed and easy to use data experience.
+What You Will Do
+During the 1st Month:
+Learn about Niche by connecting with various team members to learn more about our company through our structured onboarding agenda and meetings
+Work with Infrastructure and Data team members to learn about our data, data infrastructure, areas of need, and how your role fits within the team, the Tech department, and Niche
+Shadow multiple roles to see how a DBA could help with their everyday work
+Within 3 Months:
+Understand the data access needs of various departments and specific roles, evaluate areas of improvement for enabling easy and secure data access, and implement changes you've identified as an opportunity.
+Begin to examine database systems and administrative processes and plan for needed maintenance and enhancements where needed.
+Own the database backup and restoration processes and develop a level of comfort that we're covered in the case of data loss or security incidents.
+Understand our data protection and compliance needs and how they may infer changes needed to current and future systems.
+Within 6 Months:
+Work with your team to identify longer term tasks and projects within the Infrastructure and Data teams that fit your interests, leverage your skill sets, and align with Niche's goals.
+Build observability systems that monitor for problematic trends and alerts when attention and response is needed.
+Begin performance testing and tuning on systems to improve our current systems and provide a baseline for new systems in queue for development.
+What We Are Looking For
+Experience in managing enterprise scale access and authentication patterns for RDBMS systems. Direct PostgreSQL experience is a plus
+Proficiency in writing SQL and overall database querying, tuning, and management concepts
+Functional understanding of Linux operating systems and Bash scripting
+Strong collaboration and communication skills, both verbal and written, to ensure clarity and transparency in a fast paced tech environment
+Experience with Python, R, AWS RDS, and Airflow are a plus
+Are you excited about the position and its responsibilities, but hesitant because your experience doesn't align 100% with the posted requirements? We believe you are more than a resume, so go for it! You won't want to miss the opportunity to play a part in helping students find where they belong.
+Why Niche?
+We are a fully flexible workforce empowering our employees to choose to work remotely, in our Pittsburgh office or whatever combination suits you
+Full time, salaried position with competitive compensation in a fast-growing company
+Best-in-class 100% paid employee health plan, including vision and dental and supplemental coverage
+Flexible Paid Time Off Policy
+Free unlimited mental health consultations so you can prioritize you and your family's mental wellbeing
+Stipend that allows you to build your work from home office in a style and function that suits your personal preferences
+Professional Development stipend each year for continuous learning and growth
+Ability to join our diversity committee (Niche Diversity Initiative) to shape company-wide programs and events
+Parental leave for all employees (12 weeks fully paid) in addition to short term disability for birthing parents
+Meaningful Stock options and 401(k) with employer match
+Your ideas and work will make an immediate impact on our company and millions of users
+You will join a team that cares about you, our mission, our work - and celebrates our wins together!
+Niche will only employ those who are legally authorized to work in the United States without sponsorship now or in the future for this opening.
+We are currently hiring in states where we currently have employees: AZ, CA, CT, FL, GA, IL, IN, KY, LA, ME, MD, MA, MI, MO, NE, NJ, NY, NC, OH, OK, OR, PA, TX, VA, WA, DC.
+Candidates only. No recruiters or agencies, please. Sorry, we do not offer relocation assistance.
+Niche is an equal opportunity employer committed to fostering an inclusive, innovative environment with the best employees. Therefore, we provide employment opportunities without regard to age, race, color, ancestry, national origin, religion, disability, sex, gender identity or expression, sexual orientation, or any other protected status in accordance with applicable law.
+All interviews are being held remotely. If there are preparations we can make to help ensure you have a comfortable and positive interview experience, please let us know.
+Job Type: Full-time

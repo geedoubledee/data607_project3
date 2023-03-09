@@ -1,0 +1,39 @@
+Overview:
+The position
+We are seeking a Machine Learning Engineer to join our Communities Organization to help A Place for Mom to achieve its ambitious goals by deriving insights from our data. The Machine Learning Engineer will support the team by creating and productionalizing machine learning models to answer business questions and to solve business problems. The Machine Learning Engineer will closely work with senior leadership in a high performing team environment and will play a pivotal role in growing A Place for Mom’s business.
+Responsibilities:
+What you will do
+Work and collaborate with stakeholders throughout the organization to identify opportunities for data science solutions
+Implement models, analyze models’ performance, and monitor business outcomes (customer experience, revenue, etc.)
+Integrate models into a framework and enable API access
+Implement iteratively improving, end-to-end machine learning pipelines: from business question, to data, to training, to API
+Enhance company’s machine learning framework, debug and correct data assumption through machine learning
+Mine and analyze data from large datasets to improve business processes and strategies
+Assess the effectiveness and accuracy of new data sources, develop efficient data gathering techniques
+Assess the methodological and functional pros and cons of implementing third-party products versus building an in-house system when facing a business problem.
+Qualifications:
+Required skills and competencies
+A Bachelor’s degree in at least one science, technology, engineering, demography, economics, statistics or mathematics field; or an equivalent related professional experience
+At least 3 years’ experience manipulating data sets and building statistical or machine learning models
+Experience with large data sets and proficiency with SQL and Python, PySpark experience is a plus
+Knowledge of a variety of machine learning techniques (clustering, decision trees, time series, artificial neural networks, etc.) and their real-world advantages/drawbacks
+Knowledge and experience with statistical techniques (regression, distributions, hypothesis testing, etc.)
+Strong analytical skills, including the ability to break down business scenarios into manageable components
+Experience in Google Analytics or Adobe Analytics is a plus
+Excellent written and verbal communication skills to coordinate across teams and to tell stories with data
+A drive to learn and master new technologies and techniques, curiosity and passion for making an impact
+
+About A Place For Mom
+We’re the leading online platform connecting families searching for senior care with a team of experienced local advisors providing insight-driven, personalized solutions. As the nation’s most trusted senior advisory service, we are a mission-based organization that enables caregivers to make the best senior living decisions for their loved ones. With hundreds of senior living experts nationwide, A Place for Mom helps hundreds of thousands of families each year simplify the process of finding the right senior care solution across home care, independent living, memory care, assisted living, and more. Our services are offered at no cost to families as we’re paid by the 14K+ communities and 3K+ providers in our network.
+
+Recently awarded one of the 2022 Best Places to work in NY and Best HR teams by Comparably, the leading workplace culture and brand reputation platform, A Place for Mom is committed to fostering, cultivating, and preserving a culture of diversity, equity, and inclusion.
+
+Employees who thrive at A Place for Mom live our values every day:
+Focus on Excellence
+Act with Integrity & Assume Positive Intent
+Drive Outcomes Every Day with Passion and A Sense of Mission
+Make the Lives of our Families and Customers Better, Easier and More Successful
+Realize the Full Potential in Each Team Member. Work as a Single Supportive Team
+#LI-KT1
+#LI-REMOTE
+#LI-KT1

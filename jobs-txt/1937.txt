@@ -1,0 +1,35 @@
+We are remote-friendly!
+Job Mission:
+A Senior Software Development Engineer Data (Sr SDE) is responsible for contributing to the development of products and engineering solutions. A Sr SDE is also responsible for the technical direction of engineering efforts as well as design choices for software structure, frameworks, protocols, and algorithms.
+The outcomes we're looking for:
+Contribute to the design, specifications and estimating of engineering projects
+Develop stable software that satisfies product requirements as well as meeting architectural specifications
+Maintain high levels of code test coverage while delivering clean concise and understandable code
+Provide constructive feedback on architectural designs and peer code reviews
+ABOUT YOU:
+Behavioral Competencies required:
+Independent worker: Need to be able to communicate but also work independently
+Cross-team collaboration: Collaborate across teams including but not limited to Engineering, Operations, and Client Success
+Curiosity and drive: Demonstrate curiosity and a well-developed drive to find answers to questions that are currently being asked or haven't yet been asked
+Excellent communicator: comfort explaining technical problems in person and in writing
+Organizational Competencies:
+Works hard and smart: Delivers value consistently by being inquisitive, having a high degree of accountability and working with intent
+Driven: Fueled by passion and commitment, showing tenacity to overcome obstacles.
+Outcomes oriented: Dedicated to results. Track record of improving performance
+Effective communication: Speaks and writes clearly and directly with the appropriate level of detail to communicate an idea.
+Teamwork: Work across team lines to value others' contributions and support each other and drive everyone forward. #OneTeam
+Qualifications:
+5+ years professional software development experience
+Advanced knowledge and experience with Python.
+Experience with one or more of the following is a plus: Ruby,
+Experience with data streaming services like Spark or PySpark
+Experience with AWS or other cloud services
+Experience with Map Reduce / EMR technologies
+Experience with PostgreSQL or other (O)RDBMS
+Experience with ElasticSearch
+Experience with Airflow or similar job scheduling systems
+Outstanding coding skills, knowledge of patterns and best practices in a object oriented style
+Self-directed, seek responsibility, and strive for excellence
+#oneteam
+
+In compliance with the nation-wide updates on the Equal Pay For Equal Work Act, salary range is displayed: Estimated salary range: $130,000 - $155,000. This base salary range represents the low and high end of the andros salary range for this position. Actual salaries will vary and may be above or below the range based on various factors including but not limited to location, experience, and performance. The range listed is just one component of andros's total rewards package for our employees. Other rewards may include annual incentive pay based upon performance that is commensurate with the level of the position. In addition, andros offers a generous benefit package, including medical, dental, and vision plans, wellness program, 401(k) with up to 4% match, life insurance, 11 company holidays, unlimited Paid Time Off and more!

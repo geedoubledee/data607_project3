@@ -1,0 +1,22 @@
+Ellumen, named a Top Workplace by the Washington Post, is an equal opportunity employer headquartered in Silver Spring, MD. We provide a broad spectrum of information technology and ancillary services to government and commercial customers primarily within the healthcare delivery domain. We seek a remote Database Administrator local to the Washington, DC area to join our team.
+
+
+
+Responsibilities
+Analyze database requirements of assigned projects.
+Analyze and determine information needs and elements, database relationships and attributes, proposed manipulation, data flow and storage requirements, and data output and reporting capabilities.
+Apply knowledge of database management systems to coordinate maintenance and changes to databases.
+Test and implement changes or new database designs.
+Write logical and physical database descriptions, including location, space, access method, and security requirements.
+Provide direction to programmers and analysts as required to affect changes to database management systems.
+Provide answers to database questions.
+Knowledge of and ability to monitor databases and to analyze and organize data and apply new technology designs and programs.
+
+Qualifications
+Experience with PostgreSQL and MySQL database administration, backups, monitoring
+Prefer 7+ years relative experience
+Completed Bachelor’s Degree in Computer Science or Information Systems preferred
+Ability to obtain a Public Trust clearance
+Must be local to the Washington, DC area
+
+We are committed to creating a diverse environment and proud to be an equal opportunity/affirmative action employer. Applicants can learn more about the company's status as an equal opportunity employer by viewing the federal "EEO is the Law" poster at https://www.dol.gov/ofccp/regs/compliance/posters/pdf/eeopost.pdf. Qualified applicants will receive consideration for employment without regard to race, color, religion, sex, gender identity or expression, sexual orientation, national origin, disability, age, or protected veteran status.

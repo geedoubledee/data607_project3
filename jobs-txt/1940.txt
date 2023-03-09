@@ -1,0 +1,22 @@
+Essential Functions
+Process: Extracts, tests, loads, and validates data. Analyze the data flow requirements and develops a scalable architecture for staging and loading data.
+Interprets the transformation rules for all target data objects and develops the software components to support the transformation.
+Assist with design/implementation of data staging methods. Prepare/implement data verification and testing methods. Create scripts/processes required to extract, transform, clean, and move data and metadata from a source application so they can be loaded into a data warehouse, data mart, or operational data store.
+Must be able to troubleshoot the existing code and develop new code, stored procedures, views, and functions.
+Ability to be on-call and respond to production issues in a timely manner.
+Documentation: Create and maintain ETL, data orchestration, and system documentation. Create source to target data lineage documentation. Maintain the development, test, user acceptance, and production ETL and data orchestration environments.
+Compliance: Adheres to the principles of the organization's Health Code of Ethics Compliance Plan in every encounter with customers, vendors, regulating agencies, the public and fellow employees. Adheres to corporate policies, procedures and standards. Follows SDLC standards.
+Communication: Effective in giving and receiving the information required to perform the job. Proficient in verbal and written communication skills.
+Job Type: Contract
+Salary: $95,000.00 - $100,005.00 per year
+Schedule:
+8 hour shift
+Experience:
+Healthcare/Clinic: 2 years (Required)
+Python: 2 years (Required)
+SQL: 2 years (Required)
+Building Pipelines: 1 year (Required)
+Java: 2 years (Required)
+Azure: 3 years (Required)
+PySpark: 2 years (Required)
+Work Location: Remote

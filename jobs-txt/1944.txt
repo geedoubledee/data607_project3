@@ -1,0 +1,29 @@
+Airbnb is a mission-driven company dedicated to helping create a world where anyone can belong anywhere. It takes a unified team committed to our core values to achieve this goal. Airbnb's various functions embody the company's innovative spirit and our fast-moving team is committed to leading as a 21st century company.
+The Location
+This position is US - Remote Eligible. The role may include occasional work at an Airbnb office or attendance at offsites, as agreed to with your manager. Airbnb, Inc. can employ in states where we have registered entities. Currently, employees can not be located in: Alaska, Indiana, Nebraska, North Dakota, Ohio, South Dakota, Wisconsin, Alabama, Mississippi, Oklahoma, Delaware or Rhode Island. As this list is continuously evolving and being updated, please check back with us if the state you live in is on the exclusion list. If your position is employed by another Airbnb entity, your recruiter will inform you what states you are eligible to work from.
+The Job
+Why Data at Airbnb?
+Quality data is fundamental to Airbnb's success. As a rapidly growing company, we are preparing for a future of tremendous growth and transformation. We are rebuilding our Data Engineering practice to enable the company's success by building a solid data foundation. We are seeking stunning Senior Data Engineers to help us define and realize our vision for trustworthy data across the company. This is a unique opportunity to join Data Engineering for a strong, but high potential, company early in its lifecycle.
+Like all teams at Airbnb, we value and promote the diversity of our workforce, our guests, our hosts, our marketplace platform, and the world. Simply put, you belong at Airbnb.
+What is Data Engineering at Airbnb?
+We need to ensure every area of the business has trustworthy data to fuel insight and innovation. Understanding the business need, securing the right data sources, designing usable data models, and building robust & dependable data pipelines are essential skills to meet this goal.
+At the same time, the technology used to create great data is continually evolving. We are moving to a reality where both batch & stream processing are leveraged to meet the latency requirements for the business. The Data Engineering paved path is still taking shape, and we want to collaboratively develop this to support the entire company. We need senior engineers who are passionate not only about the data, but also about improving the technology we leverage for Data Engineering.
+We are looking for talented Senior Data Engineers who are excited about redefining what it means to do Data Engineering. Data Engineering is part of our Engineering org as we believe great Data Engineering depends on solid Software Engineering fundamentals. However, we also recognize that each Data Engineer has a unique blend of skills. Whether your strength is in data modeling or in stream processing, we want to talk to you.
+Responsibilities
+Develop and automate large scale, high-performance data processing systems (batch and/or streaming) to drive Airbnb business growth and improve the product experience.
+Build scalable Spark data pipelines leveraging Airflow scheduler/executor framework
+Design our data models for optimal storage and retrieval and to meet critical product and business requirements.
+Understand and influence logging to support our data flow, architecting logging best practices where needed
+Contribute to shared Data Engineering tooling & standards to improve the productivity and quality of output for Data Engineers across the company
+Improve data quality by using & improving internal tools to automatically detect issues
+About You
+5+ years of relevant industry experience
+Bachelor's and/or Master's degree, preferably in CS, or equivalent experience
+Demonstrated ability to analyze large data sets to identify gaps and inconsistencies, provide data insights, and advance effective product solutions
+Experience designing and deploying high performance systems with reliable monitoring and logging practices
+Working knowledge of relational databases and query authoring (SQL).
+Excellent communication skills, both written and verbal
+The Pay
+Our job titles may span more than one career level. The starting base pay for this role is between $164,000 and $215,000. The actual base pay is dependent upon many factors, such as: training, transferable skills, work experience, business needs and market demands. The base pay range is subject to change and may be modified in the future. This role may also be eligible for bonus, equity, benefits, and Employee Travel Credits.
+Belonging & Accommodations
+Airbnb is committed to working with the best and brightest people from the broadest talent pool possible. We believe a diversity of ideas foster innovation and engagement, allow us to attract the best people, and to develop the best products, services and solutions. All qualified individuals are encouraged to apply. If you need assistance or a reasonable accommodation during the application and recruiting process, please contact us at: reasonableaccommodations@airbnb.com.

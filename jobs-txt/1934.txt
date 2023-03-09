@@ -1,0 +1,34 @@
+ABOUT INSTADEEP
+
+InstaDeep Ltd is a leading company that develops cutting-edge artificial intelligence products and solutions for major global and local clients in Europe, the US, Africa, and the Middle East. We focus on developing enterprise decision making systems that solve existing problems across a range of industries using advanced machine learning, reinforcement learning, and deep learning. Our expertise spans across research, product and solution development, allowing the whole end-to-end solution to be developed in-house across our teams in London, Paris, Lagos, Tunis, Dubai, and Cape Town.
+Our proactive approach to research, combined with a broad spectrum of high-quality clients, ensures a challenging and exciting environment to work and thrive in. In our mission to stay ahead of the curve, we are proud to partner with firms such as Google DeepMind, Nvidia and Intel, and world-class universities such as Oxford, University of Michigan and French Universities.
+Our research team publishes advanced research on reinforcement learning in top AI conferences such as NeurIPS and collaborates with world-leading researchers and companies.
+
+From Q2 2022, InstaDeep is expanding in the United States. With this aim, InstaDeep is looking for a Machine Learning Engineer to support the development of its US activities.
+
+JOB DESCRIPTION
+In this role at InstaDeep you will report to the Engineering Lead. You will design and create the algorithms capable of learning and making predictions that define machine learning.
+
+KEY RESPONSIBILITIES
+Design and implement highly scalable algorithms based on state-of-the-art Machine Learning and Deep Learning methodologies.
+Collaborate with the Research department to facilitate research that enables learning the semantics of data (images, video, text, audio, and other modalities).
+Apply knowledge of relevant research domains along with expert coding skills to develop industrial solutions (POC, MVP, fully deployed solution) and products (platforms and frameworks).
+Adapt machine learning and neural network algorithms and architectures to best exploit modern parallel environments (e.g. distributed clusters, multicore SMP, and GPU).
+Report and present development work clearly and efficiently, both internally and externally (clients, different audiences, etc.), both verbally and in writing.
+Upon request, collaborate with the business development team in their pre-sales activities, including but not limited to presenting the company to new prospective clients, and representing InstaDeep in conferences/events.
+
+SKILLS AND EXPERIENCE
+A B.S, M.S, or Ph.D in Computer Science, Machine Learning, Reinforcement Learning, or in a related field.
+2-5 years’ experience
+Excellent knowledge of Machine Learning and Deep Learning algorithms and models.
+Experience in developing and debugging production-level Python or similar languages. Knowledge of C/C++ is a strong plus.
+Experience with autograd libraries such as TensorFlow, PyTorch, Keras, or JAX
+Proficiency with version control (Gitlab, Github) and best coding practices.
+Experience with CI/CD tools to automate building, testing and deployment of ML projects.
+
+NICE-TO-HAVES
+Research and software engineering experience demonstrated via previous work, contributions to open source, or coding competitions.
+Reinforcement Learning, Computer Vision, or Natural Language Processing experience.
+Sales and pre-sales experience.
+
+Right to work in the United States is mandatory.

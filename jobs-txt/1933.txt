@@ -1,0 +1,53 @@
+Senior SQL Database Administrator
+American Public Education, Inc.
+Reporting to the Director, Systems and Database Operations, the Senior SQL Database Administrator provides ongoing leadership for the development and maintenance of American Public Education, Inc. SQL Server database environment. The Senior SQL Database Administrator takes a strategic approach to the planning of SQL Server instances and their administration and is responsible for all administrative functions within the SQL Server database environment.
+Responsibilities:
+Plans and deploys SQL Servers in a complex database and application environment
+Acts as the subject matter expert for topics concerning database administration in general and SQL Server in particular. Is the go to point of contact for all topics database related in APEI IT.
+Acts as a mentor to junior staff, influencing training strategies which bring junior members (both DBAs and non-DBAs) up to speed on areas related to database administration.
+Takes a leadership role in planning and performing database administration tasks including:
+Database backup and recovery
+Index analysis and maintenance
+Administering SQL Server replication, Reporting Services and SQL Server Integration Services.
+Database performance monitoring and tuning
+Database optimization
+Administration of user accounts, permissions and access rights
+Monitors patching levels and service packs, ensuring servers are up to date.
+Responsible for maintenance, administration and support of development, testing, staging and production support environment.
+Is proactive and takes the lead in resolving issues involving SQL Server integration with applications, working closely with network, analysis and application teams.
+Provides input to the Director, Systems and Database Operations on opportunities for improvement.
+Is familiar with and maintains compliance with such standards as APEI policies, the Family Education Rights and Privacy Act (FERPA), Sarbanes-Oxley (SOX), Payment Card Industry (PCI) and the General Data Protection Regulation (GDPR).
+Evangelizes the need to protect the integrity, security and availability of data by being the voice of database administration in design and requirements reviews and other application planning events.
+Acts as an escalation point for issues junior database administrators cannot resolve.
+Takes the lead in determining when major changes are required in SQL Server management.
+Architects SQL Server configurations for bleeding-edge features and new use cases.
+As a leader, defines high level standards for SQL Server management.
+Delves deeply into areas of database management specialization, such as integration between applications and data sources and data warehousing.
+Requirements:
+Bachelor’s degree in Computer Science or Data-related field desired.
+Demonstrated experience (five years or more) in the administration of databases in complex environments:
+100 + SQL Server instances
+Databases sized 500 GB or greater
+Database instances supporting critical business applications
+Database instances supporting web based applications
+Application and database environments with a high degree of application
+Knowledge of privacy and operational control standards such as FERPA, SOX and GDPR.
+Thorough understanding SQL Server security and its implementation.
+Knowledge of Windows enterprise ecosystem, including Windows high availability technologies.
+In depth knowledge and experience at and administration and planning level of the following SQL Server technologies:
+Replication
+SQL Server Integration Services
+SQL Server Reporting Services
+Alwayson Clustering
+Knowledge of Higher Education would be very helpful, but not required.
+Experience with:
+Relational Database Management System technologies such as Oracle and MySQL.
+Powershell
+Business intelligence tools such as Tableau and Microstrategy
+Data warehouse methodologies
+Data, entity and process modeling
+Colorado Pay Law
+If you are a Colorado resident and this role is available in Colorado or remote, you may be eligible to receive additional information about the compensation and benefits for this role, which we will provide upon request. Please send an email to recruiting@apei.com
+About Us:
+Online, on campus and in the workplace, we provide higher education and training to our country’s heroes – military service members, veterans, nurses, government employees, and motivated professionals that want to make a difference. American Public Education, Inc. educates service-minded students, ranging from the military, public service, federal agencies, and nursing communities, through American Public University System (APUS), Hondros College of Nursing (HCON), Rasmussen University and Graduate School USA (GSUSA).
+It is the policy of American Public University System (APUS) and American Public Education, Inc. (APEI) to afford equal opportunity to all qualified persons. We treat all qualified individuals equally as to their recruitment, hiring, assignments, advancements, compensation, and all other terms and conditions of employment. of American Public University System (APUS) does not discriminate on the basis of race, color, religion, creed, sex, age, national origin, sexual orientation, or physical, mental, or sensory disability, or any other characteristic protected by law.

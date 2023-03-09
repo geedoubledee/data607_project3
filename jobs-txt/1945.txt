@@ -1,0 +1,43 @@
+Description
+Welcome!
+Join our Enterprise Data and Analytics team where advanced data science, machine learning, artificial intelligence, statistics, cutting-edge technology, and finance are integrated in a collaborative environment. We've created a dynamic and high-performing culture that embraces inclusion, teamwork, and individual accountability where colleagues are recognized for outstanding results.
+Huntington Bancshares Incorporated is a $179 billion asset regional bank holding company headquartered in Columbus, Ohio. Founded in 1866, The Huntington National Bank and its affiliates provide consumers, small and middle-market businesses, corporations, municipalities, and other organizations with a comprehensive suite of banking, payments, wealth management, and risk management products and services. Huntington operates more than 1,000 branches in 11 states, with certain businesses operating in extended geographies.
+Our Enterprise Analytics team is growing, and we're looking for an outstanding senior-level candidate to lead our Data Science group.
+The Data Science Director leads an enterprise team to produce machine learning and statistical models for marketing, geospatial distribution network planning, and pricing optimization.
+The Data Science Director and team will
+Deliver models to produce leads for product acquisition, cross-sell, activation, utilization, balance build, and retention.
+Develop models and optimization strategies for branch location, branch consolidation, ATM locations, and merger / acquisition analysis.
+Promote best practices for statistical and machine learning methods across the Enterprise.
+Consult on product and service innovations, and provide artificial intelligence strategic guidance
+Promote sound data science practices including pipeline development, source control, and performance monitoring
+Collaborate with the legal, compliance, and risk teams to ensure all modeling activities satisfy regulatory requirements, company policy, and trustworthy AI principles. Champion corporate policies and procedures. Ensure compliance with legal and regulatory requirements. Work with management to develop and apply effective risk management processes and controls.
+Engage with other data scientists and analysts across the enterprise to enhance methods by continuously updating general understanding of and appreciation for their value.
+Basic Qualifications:
+Ph.D. (ABD sufficient) in an applied quantitatively-oriented or computationally-oriented field such as statistics, economics, applied mathematics, or operations research.
+5 years of related work experience in similar or directly related functions; preferably in financial services, retail, healthcare, telecommunications, entertainment, or other industries with strong experimental design, causal inference, and data science practices.
+Preferred Qualifications:
+Strong understanding of machine learning techniques, statistical learning methods, and artificial intelligence algorithms. Thorough understanding of structured analysis, multivariate methods, classification, targeting, behavioral segmentation, and financial analysis principles. Strong modeling skills, including the development of cluster analysis, logistic regression and other generalized linear regression techniques, decision trees non-linear algorithms and forecasting/time series analyses. Practical expertise in the design of experiments and providing recommendations for best measuring success.
+Excellent knowledge of a suite of analysis tools, or their equivalent, (R/RStudio, Python, SAS) and knowledge of cloud-based analysis suites (Amazon SageMaker)
+Advanced level experience with Microsoft Word, PowerPoint, and Excel.
+Strong verbal and written communication skills
+Proven people and thought leadership abilities
+Preferred Technical Skills:
+Experience developing and applying statistical or machine learning methods in a corporate environment with internal and external regulatory oversight.
+Fluent in multiple programming languages and experience building web-based applications using HTML, CSS, markdown.
+Direct experience with SQL programming and large database applications such as Snowflake, the AWS suite of data applications, MS SQL Server, Oracle, DB2, and Hadoop / Hive.
+Strong experience with business intelligence tools such as Tableau
+Preferred Leadership Skills
+Progressive thinker and problem solver, with a strong ability to manage ambiguity/complexity. Work effectively in teams as well as independently across multiple tasks while meeting aggressive timelines.
+Experience working in a consumer-centric company with teams of technical professionals in a cross-functional environment.
+Ability to embrace change, constructively negotiate constraints, and effectively leverage resources to create exceptional outcomes. Consistently inspires high levels of professional demeanor and integrity.
+Excellent written and verbal communication skills with a proven ability to interact effectively across all organizational levels.
+#LI-Hybrid
+#LI-AB2
+
+Exempt Status: (Yes = not eligible for overtime pay) (No = eligible for overtime pay)
+Yes
+Workplace Type:
+Hybrid
+Huntington is an equal opportunity and affirmative action employer and is committed to providing equal employment opportunities for all regardless of race, color, religion, sex, national origin, age, disability, sexual orientation, veteran status, gender identity and expression, genetic information, or any other basis protected by local, state, or federal law.
+Tobacco-Free Hiring Practice: Visit Huntington's Career Web Site for more details.
+Agency Statement: Huntington does not accept solicitation from Third Party Recruiters for any position

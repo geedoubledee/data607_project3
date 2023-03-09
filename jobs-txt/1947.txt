@@ -1,0 +1,31 @@
+About Muon Space
+Muon Space is working at the forefront of satellites, advanced sensors, business intelligence, and climate science to allow humanity to close the loop on climate change. From satellite missions to modeling to data analytics and actionable insights, we believe measuring, understanding and predicting Earth’s complex, coupled systems is both a great business opportunity and key to leaving future generations a livable, productive and healthy planet.
+About the role
+Muon Space is building an expert team that is designing and generating value-added products from Earth observations from Muon’s constellation of low Earth orbit satellites and other geospatial datasets. The Machine Learning Lead Engineer/Scientist will be a valuable key player on the Muon Science Team to oversee product development leveraging state-of-the-art machine learning techniques. This role will collaborate closely with geospatial and scientific product developers to incorporate machine learning techniques into Muon’s product development and satellite data processing pipelines to meet Muon’s goals in monitoring and addressing climate change.
+
+Responsibilities
+Support the creation of our machine learning workflow processes, including data collection and preprocessing, model design and training, and deployment of models into production
+Serve as the subject matter expert and the key driver on machine learning and its application to geospatial and value-added product development and satellite data processing
+Work with product developers (domain-specific and general data scientists and engineers) on incorporating machine learning algorithms into their product development and data processing pipelines
+Collaborate with data engineers to architect cloud-based infrastructure that efficiently harnesses machine learning tooling for data analysis and product development and in operational data product generation pipelines
+Maintain expert knowledge of machine learning techniques and their application to data product development and generation
+
+Qualifications
+M.S. or Ph.D. in Applied Mathematics or STEM field (EE, aerospace engineering, physics, etc.)
+5+ years of experience applying different machine learning techniques in product development and putting models into operational product generation pipelines
+Expertise in different forms of machine learning methods, e.g., classification, clustering, prediction, deep learning, etc.
+Advanced proficiency in python using tools such as numpy, scipy, dask, etc.
+Advanced proficiency in ML tools such as Tensorflow, Keras, PyTorch, Scikit-Learn, Theano, Kubeflow, etc.
+Demonstrated knowledge of the deployment and efficient use of machine learning algorithms, tools, and pipelines, specifically in cloud-based environments
+Preferred Qualifications
+Experience working with a distributed team of product developers
+Experience developing products from geospatial data (including non-imagery data types) using machine learning techniques
+Experience applying convolutional neural networks (CNN) in product development
+Experience interacting with and communicating with internal and external customers
+Experience developing retrieval algorithms for and products from satellite Earth observation data
+Experience applying machine learning techniques that use large (> 1 TB) training datasets
+Experience harnessing GPU infrastructure to perform machine learning tasks
+Experience deploying machine learning workflows in AWS
+
+Equal Opportunity
+At Muon, our mission embraces the entire planet and we believe our team should too. Muon is dedicated to creating a diverse and dynamic company and workforce. We believe in equal employment opportunity regardless of race, color, ancestry, religion, sex, age, national origin, citizenship, sexual orientation, marital status, disability, or gender identity. If you need a reasonable accommodation as part of your application for employment or interviews with us, please let us know. If you feel like you’re a good fit for this role but don’t check all of the boxes, we encourage you to apply anyway.

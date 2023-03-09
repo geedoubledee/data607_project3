@@ -1,0 +1,105 @@
+Company:
+US6469 Sysco Payroll, Division of Sysco Resources Services, LLC
+
+Zip Code:
+77077
+
+Minimum Level of Education:
+Bachelor's Degree
+
+Minimum Years of Experience:
+5 Years
+
+Employment Type:
+Full Time
+
+Travel Percentage:
+0
+
+JOB SUMMARY:
+
+Director, Data Science will help drive the development of industry-leading predictive models as part of its Enterprise Analytics Team. The Director will own the technical development of a portfolio of domain-specific predictive models in support of a functional group (Pricing, Merchandising, Supply Chain & Logistics, etc).
+
+There are two primary responsibilities of the Director Data Scientist:
+Develop predictive analytics ("hands-on-keyboard") via statistical, machine learning, and mathematical models on Sysco's corporate data to get actionable business insights as the technical expert in the portfolio
+Lead and coach data scientists to succeed in their areas of responsibility and in support of the domain-specific portfolio of models that you are accountable for
+
+RESPONSIBILITIES :
+Lead the technical development of an industry-leading predictive analytics portfolio in support of key functional & business priorities (e.g., demand generation, assortment optimization, supply chain design & optimization)
+Work with VPs and Sr Directors throughout Sysco to frame business opportunities and develop appropriate analytic strategies. Ensure the appropriate analytical techniques are used to solve those business opportunities.
+Implement data science models and visualizations using Python, Tableau and open source libraries
+Manage, attract, coach, retain, and motivate a world class team of scientists and engineers
+Lead multiple projects simultaneously and help team resource planning.
+Perform regular code reviews and give feedback on approach and coding standards to junior data scientists.
+Design and execute experiments to validate solutions during product rollout and present results to leadership.
+Collaborate with cross-functional teams to drive business results through various use cases of customer-level in
+Work with Sysco's technology teams on data integration to architect, build and continuously improve data assets, which are the foundation of data-driven and customer-centric initiatives
+Research industry leading analytics practices and recommend continuous improvement opportunities for Sysco
+Represent Sysco in industry events
+
+QUALIFICATIONS:
+
+Basic Qualifications:
+Must be able to think conceptually, strategically, and creatively with little oversight or direction (i.e. display thought leadership vs. simply "do" or execute something that was developed or directed by someone else)
+Must have experience initiating, driving and delivering complex analytical projects
+Able to perform quantitative analysis using appropriate analytical and visualization tools such as Python, Tableau and open source libraries
+Strong software design and OOP fundamentals (must be functional in nearly any language)
+Demonstrated experience using machine learning algorithms in a commercial setting
+High proficiency in the use of statistical packages, understanding advantages and limitations of each
+Proficiency in statistical analysis, quantitative analytics, forecasting/predictive analytics, multivariate testing, and optimization algorithms
+Must be very comfortable with numbers and have a solid understanding of various analytical techniques and where they should be best deployed
+Must have a basic understanding of the latest trends in database systems and technologies that enable advanced analytics including cloud based solutions such as AWS
+
+Preferred Qualifications:
+Experience in CPG, Retail and /or Foodservice
+Experience with Agile Software Development
+
+Education and / or Experience:
+Bachelor's degree + 10 years or Master's degree + 7 years or PhD + 5 years of industry experience in management consulting, strategy, analytics, at a specialized analytics company or in an analytics organization in a corporate setting.
+Degree should be in mathematics, statistics or computer science or related field; preferred from a top tier University.
+5+ years of experience accessing and manipulating data in SQL or NoSQL database environments
+4+ years of experience with scientific scripting languages (e.g., Python) and/or object-oriented programming (e.g., C++, Java)
+5+ years of experience with Bayesian statistics, regression analysis (beyond linear regression), supervised learning, unsupervised learning or timeseries analysis required
+Overall analytics experience can be inclusive of relevant post-graduate work
+
+Professional Skills:
+Inquisitive, innovative, and opportunistic
+Highly motivated, inspired overachiever
+Strong communication and interpersonal skills
+Understanding of end to end process for deploying analytics within a business organization to create value
+Strategic thinking and business acumen
+
+Physical Demands:
+
+The physical demands described here are representative of those that must be met by an employee to successfully perform the essential functions of this job.
+
+Working Conditions:
+
+The above information on this description has been designed to indicate the general nature and level of work performed by associates within this classification. It is not designed to contain or be interpreted as a comprehensive inventory of all duties, responsibilities, and qualifications required of associates assigned to this job.
+
+To perform this job successfully, an individual must be able to perform each essential duty satisfactorily. The requirements listed above are representative of knowledge, skill and/or ability required. Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions.
+
+BENEFITS INFORMATION:
+For information on Sysco's Benefits, please visit https://SyscoBenefits.com
+
+HOW WE PROTECT OUR ASSOCIATES
+
+COVID-19 Precaution(s):
+Personal protective equipment and masks provided
+Temperature screenings
+Social distancing guidelines in place
+Sanitizing, disinfecting, and cleaning procedures in place
+
+OVERVIEW:
+
+Sysco is the global leader in foodservice distribution. With over 57,000 associates and a fleet of over 13,000 vehicles, Sysco operates approximately 326 distribution facilities worldwide and serves more than 625,000 customer locations.
+
+We offer our associates the opportunity to grow personally and professionally, to contribute to the success of a dynamic organization, and to serve others in a manner that exceeds their expectations. We're looking for talented, hard-working individuals to join our team. Come grow with us and let us show you why Sysco is at the heart of food and service.
+
+AFFIRMATIVE ACTION STATEMENT:
+
+Applicants must be currently authorized to work in the United States.
+
+We are proud to be an Equal Opportunity and Affirmative Action employer, and consider qualified applicants without regard to race, color, creed, religion, ancestry, national origin, sex, sexual orientation, gender identity, age, disability, veteran status or any other protected factor under federal, state or local law.
+
+This opportunity is available through Sysco Corporation, its subsidiaries and affiliates.

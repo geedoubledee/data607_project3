@@ -1,0 +1,29 @@
+Company Description
+
+Axiado is an AI-enhanced security processor company redefining the control and management of every digital system. The company was founded in 2017, and currently has 60 employees. At Axiado, developing great technology takes more than talent: it takes amazing people who understand collaboration, respect each other, and go the extra mile to achieve exceptional results. It takes people who have the passion and desire to disrupt the status quo, deliver innovation, and change the world. If you have this type of passion, we invite you to apply for this job.
+
+Job Description
+
+What you will be doing:-
+Developing machine learning models for Axiado security products.
+Cleaning data and augmenting datasets.
+Create new data sets for the applications which don’t have existing datasets.
+Evaluating different CNN HW acceleration models and provide feedback to HW team.
+Work with Embedded SW team in integrating the HW acceleration device drivers.
+Some familiarity in embedded systems desired.
+
+Qualifications
+Experience in evaluating Machine learning and Neural Net models.
+Familiarity with dataset cleaning and understanding features.
+Hands on programming experience in C/C++ or Python.
+Prototyping ML models using python.
+Hands on experience in TensorFlow, Scikit-learn .
+Good communication skills .
+Bachelors/Masters/PHD in Electrical engineering , computer science or equivalent.
+Minimum 3 years of working experience in the industry.
+
+Additional Information
+
+Axiado is committed to attracting, developing, and retaining the highest caliber talent in a diverse and multifaceted environment. We are headquartered in the heart of Silicon Valley, with access to the world's leading research, technology and talent.
+We are building an exceptional team to secure every node on the internet. For us, solving real-world problems takes precedence over purely theoretical problems. As a result, we prefer individuals with persistence, intelligence and high curiosity over pedigree alone. Working hard and smart, continuous learning and mutual support are all part of who we are.
+Axiado is an Equal Opportunity Employer. Axiado does not discriminate on the basis of race, religion, color, sex, gender identity, sexual orientation, age, non-disqualifying physical or mental disability, national origin, veteran status or any other basis covered by appropriate law. All employment is decided on the basis of qualifications, merit, and business need.

@@ -1,0 +1,26 @@
+Under the direction of the Manager of Technical Services, the Database Administrator is responsible for setting up, configuring, and providing support for databases and database systems. Other duties include developing and maintaining all database configurations, including security, and addressing database issues.
+Roles and Responsibilities
+Install, upgrade, and manage database applications
+Develop and implement processes for monitoring and optimizing database security and performance
+Manage database user and application access according to security best practices
+Diagnose and troubleshoot database problems
+Create and manage database scripts and functions including MySQL User Defined Functions and MS SQL SSIS packages
+Create automation for repeating database tasks
+Design database layouts, implement and document designs in a clear, concise and accurate manner
+Analyze database usage and archive data according to established data retention policies
+Be available for on-call support as needed
+Performs other duties as directed
+
+Job Requirements
+Qualifications and Required Skills
+High school graduate or equivalent GED required
+At least 2 years of prior experience with Microsoft SQL and MySQL database administration
+Knowledge of database security, backup, recovery, and performance monitoring standards
+Working understanding basic networking concepts
+Ability to design, implement, and troubleshoot database technologies
+Ability to work with Windows and Linux servers that host databases and applications
+Knowledge of best practices concerning management, control, security, and monitoring of databases and associated applications
+Preferred Skills
+PowerShell and Linux shell scripting skills
+Experience cloud-managed (Azure or AWS) MySQL and MS SQL instances
+Experience with defining specifications for new hardware or cloud VMs for databases

@@ -1,0 +1,47 @@
+Company Description
+
+Visa is a world leader in digital payments, facilitating more than 215 billion payments transactions between consumers, merchants, financial institutions and government entities across more than 200 countries and territories each year. Our mission is to connect the world through the most innovative, convenient, reliable and secure payments network, enabling individuals, businesses and economies to thrive.
+When you join Visa, you join a culture of purpose and belonging – where your growth is priority, your identity is embraced, and the work you do matters. We believe that economies that include everyone everywhere, uplift everyone everywhere. Your work will have a direct impact on billions of people around the world – helping unlock financial access to enable the future of money movement.
+Join Visa: A Network Working for Everyone.
+
+Job Description
+
+We are looking for a seasoned individual to drive game-changing data product development in and around Visa. As a leader in the Data & AI organization, you will work in a rapid-paced environment leading various Data and System Engineering teams developing next generation solutions for Visa. You will have accountability for strategy, planning, hiring, vendor management, and overall execution & delivery of multiple for Visa’s Machine Learning Platform(MLP). You will face big challenges and question the status quo. You will change the way data products are developed at Visa with this initiative. You will build upon an established Data Science research and development practice for Data Products, focused on machine learning, AI, and analytics.
+You should be highly adaptable, possess effective interpersonal and organizational skills, and able to effectively manage multiple work streams. You should have experience collecting or analyzing engineering data and using this data to drive business decisions.
+In this role, you will spearhead product development and engineering efficiency in product teams by delivering data services, tools, and systems that will accelerate creating products featuring the best customer experience with the highest reliability, security, and outcome for Visa. You will also evangelize the Data Science, M/L, NLP, Engineering Fundamentals for development teams at Visa. This includes engaging in technical and functional discussions with all the engineering teams.
+We will take a data-driven approach and are passionate about having a culture of learning fast and constantly iterating towards success. You will wear multiple hats and demonstrate breadth, depth, and leadership. The solutions you help create will have a multiplier effect across all of Visa.
+Essential Functions
+Execute the vision for the Data & AI organization, ensuring delivery of differentiating data products and services for Visa and its partners.
+Lead and inspire the teams in the performance of all duties and responsibilities.
+Build on an established Data Science research and development practice for Data Products, focused on machine learning, AI, and analytics for the payments industry
+Extensive cross-organization collaboration playing a crucial role in interfacing with various technology teams and business stakeholders to identify requirements, converting them to functional specs, prioritizing, and driving execution using agile methodologies.
+Evangelize developer productivity solutions and systems across all the development teams to drive adoption.
+Work collaboratively across team boundaries to share common infrastructure and functional capabilities. Provide feedback into core product teams to influence their roadmap and strategy.
+Lead, grow and mentor a team of 15+ engineers, Data Scientists, Analysts & Directors
+This is a hybrid position. Hybrid employees can alternate time between both remote and office. Employees in hybrid roles are expected to work from the office two days a week, Tuesdays and Wednesdays, with a general guidepost of being in the office 50% of the time based on business needs.
+
+Qualifications
+
+Basic Qualifications:
+10 or more years of relevant industry experience with a Bachelor’s Degree or at least 8 years of industry experience with an Advanced Degree (e.g. Masters/ MBA) or at least 3 years of industry experience with a PhD
+Preferred Qualifications:
+Leadership experience leading teams in building sophisticated real-time, near real-time data processing pipelines on Big Data (Hadoop/Spark etc.)
+Extensive background in Data Engineering, Machine Learning, and Data Science
+Expertise in data analysis skills
+Ability to mentor Data Scientists and Engineers on best practices and development & productionalization of sophisticated models
+Significant experience implementing large-scale projects, using a geographically distributed technology organization in a highly matrixed environment
+Familiarity with Agile/SCRUM development methodologies and software development lifecycle principles
+Business Analytical skills to develop technical and functional requirements, use cases, user story maps and other related artifacts
+Experience in reviewing technical solution design and evaluation to ensure it meets business requirements and long-term product goals
+Experience in Agile lifecycle and/or tracking and process management tools e.g. JIRA, JIRA Align etc.
+Ability to work in a complex environment, Global/International experience, and the ability to work across cultures and time zones
+Ability to influence both verbally and through the preparation of written materials in order to build relationships and effectively communicate business needs to internal technology groups
+
+Additional Information
+
+Visa has adopted a COVID-19 vaccination policy to safeguard the health and well-being of our employees and visitors. As a condition of employment, all employees based in the U.S. are required to be fully vaccinated for COVID-19, unless a reasonable accommodation is approved or as otherwise required by law.
+Work Hours: Varies upon the needs of the department.
+Travel Requirements: This position requires travel 5-10% of the time.
+Mental/Physical Requirements: This position will be performed in an office setting. The position will require the incumbent to sit and stand at a desk, communicate in person and by telephone, frequently operate standard office equipment, such as telephones and computers.
+Visa is an EEO Employer. Qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, sexual orientation, gender identity, disability or protected veteran status. Visa will also consider for employment qualified applicants with criminal histories in a manner consistent with EEOC guidelines and applicable local law.
+Visa will consider for employment qualified applicants with criminal histories in a manner consistent with applicable local law, including the requirements of Article 49 of the San Francisco Police Code.

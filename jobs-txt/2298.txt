@@ -1,0 +1,31 @@
+Position: Machine Learning Engineer - Innovation Group
+Location: Remote Position - Within the U.S. or Canada
+Facility: Crafty Apes
+
+Crafty Apes is hiring inspired Machine Learning Engineers eager for opportunities to think outside the box and influence change. We value critical thinkers and creative problem solvers. Crafty Apes invests in its technological advancements and constantly seeks to improve workflows for all artists to better enable them to achieve great visual results. We are looking for candidates that want to be part of taking the Crafty Apes Innovation Group to the next level.
+
+The position of Machine Learning Engineer reports directly to the Director of Innovation. Our Machine Learning Engineers in the Innovation Group are Building tools indistinguishable from Magic, and working on projects so audacious that a year ago you would have called us crazy. We are redefining the whole entertainment industry, right now. Come join us.
+
+Crafty Apes is a global company working remotely. We are happy to consider applicants from all areas of the United States and Canada. This is a full-time salaried position with benefits.
+
+DUTIES AND RESPONSIBILITIES
+Ability to troubleshoot and problem solve complex Machine Learning challenges.
+Educate and support other members of the Innovation Group (developers and artists).
+Strong ability to understand the requirements across multiple disciplines and workflows.
+Take ownership of technical issues and work with the team to find appropriate resolutions.
+Proactively identify and solve problems.
+Assist in the design, development, testing and maintaining of new tools or updates to existing tools.
+Working with other key stakeholders to design, build, and implement the long term strategy for the Crafty Apes Innovation Group.
+Implement and document tools, scripts, and procedures.
+
+REQUIREMENTS
+Thorough understanding of Transfer Learning with Convolutional Neural Networks.
+Experience building and deploying AI-native products is preferred.
+An understanding of computer graphics and Pytorch3D a bonus.
+Experience with Deep Bidirectional Transformers is also a bonus.
+Must have a developed approach to software design and implementation.
+Communicates effectively with managers and all levels of personnel.
+
+We offer competitive pay and benefits, including medical, dental & vision coverage, vacation & sick leave, and more.
+
+Crafty Apes LLC is an Equal Opportunity Employer.

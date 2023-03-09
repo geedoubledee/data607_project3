@@ -1,0 +1,31 @@
+Description
+Job Description:
+Leidos is seeking an experienced Senior Microsoft Power Business Intelligence Developer who is responsible for driving insightful analytics and action-based reporting that measures business performance, and for recommending improvement areas for a centralized personnel security service organization.
+This position on the NISC IV program supports the Federal Aviation Administration (FAA), which is continuously striving for improved data, processes and developing the infrastructure for quality, error-free reporting, utilizing tools such as Power BI, SSRS, and SSIS.
+We’re looking for someone who is motivated by variety, is seeking a challenging environment for professional growth, and will create and manage BI and analytics solutions that turn data into knowledge.
+We’re looking for talent with excellent communications, critical thinking, and collaboration skills to function in a high-paced, dynamic environment, as well as the ability to work independently, and as part of a great team.
+Business Intelligence Developer Primary Responsibilities:
+Join our team to mature our Power BI reporting.
+Lead the development of operational dashboards, periodic business reviews, and effective metrics.
+Analyze complex business problems and issues using data to provide insight to decision makers.
+Participate in cross-functional teams to address business issues.
+Work closely with Business Analysts and end users to evaluate business requirements and advise on appropriate informative views and dashboards.
+Design, develop, deploy, monitor, report and improve enterprise process data visualization.
+Develop Power BI reports, dashboards, publish reports to power BI service and establish gateway refresh schedules using DAX and PowerPivot BI.
+Work on Microsoft BI analytics stack (SSIS, SSAS) and work on investigating new tools, tool capabilities and engage with Business to propose, manage, and implement solutions.
+Develop SSAS tabular models utilizing complex DAX functions and SQL queries, stored procedures using T-SQL, CTE, XMLA, PowerShell scripts.
+Work on complex data modelling and design patterns for BI/Analytics reporting requirements.
+Develop Proof of concepts to mock up complex reporting requirements with upcoming technologies on Microsoft Analytics platform.
+Maintain, update, and manage audit reports, and oversee data error corrections with team managers.
+This positions requires a great deal of interactions with the FAA Security Team, FAA executives and individual team members.
+Business Intelligence Developer Required Skills:
+Bachelor's degree in data analytics, systems engineering, or related field and 8 years of relevant experience.
+Proven SQL & Query writing skills.
+Significant Power Platform (Power BI, Power Apps, Power Automate) experience
+Hands-on knowledge of Oracle and SQL Server SQL, as well as strong understanding of relational and dimensional data modeling.
+Ability to document business requirements and translate into technical reporting specifications.
+Able to obtain a Public Trust clearance.
+Self-starter with the ability to work independently, while at the same time being a solid group contributor with strong leadership skills.
+Pay Range:
+Pay Range $94,250.00 - $145,000.00 - $195,750.00
+The Leidos pay range for this job level is a general guideline only and not a guarantee of compensation or salary. Additional factors considered in extending an offer include (but are not limited to) responsibilities of the job, education, experience, knowledge, skills, and abilities, as well as internal equity, alignment with market data, applicable bargaining agreement (if any), or other law.

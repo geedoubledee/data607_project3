@@ -1,0 +1,49 @@
+JOB DESCRIPTION
+
+InstaDeep is a leading company that develops cutting-edge artificial intelligence products and solutions for major global and local clients in Europe, the US, Africa, and the Middle East. We focus on developing enterprise decision making systems that solve existing problems across a range of industries using advanced machine learning, reinforcement learning, and deep learning. Our expertise spans across research, product and solution development, allowing the whole end-to-end solution to be developed in-house across our teams in London, Paris, Lagos, Cape Town, Dubai, and Tunis.
+
+Our proactive approach to research, combined with a broad spectrum of high-quality clients, ensures a challenging and exciting environment to work and thrive in. In our mission to stay ahead of the curve, we are proud to partner with firms such as Google DeepMind, Nvidia and Intel, world-class universities such as Oxford, Imperial College and French Universities, and immunotherapy powerhouse BioNTech.
+
+InstaDeep is looking for a new Research Engineer to join our expanding Research team in Boston. The team is primarily focused on applied research with a particular emphasis on Reinforcement Learning and decision-making. Our efforts are towards developing valuable research works and breakthroughs that were previously out of reach.
+
+In the Research team, the focus of a Research Engineer is to contribute to the research effort through the development and implementation of novel ideas, whilst building effective, modular and sustainable software solutions. As a Research Engineer you will have the opportunity to shape both our engineering and research culture.
+
+The core tasks of a Research Engineer include : developing prototype applications, providing programming support to research projects, implementing software libraries and contributing to InstaDeep’s publication efforts.
+
+We welcome applications from any background and foster an open and accepting environment. InstaDeepers are naturally helpful people who want to help others grow and succeed.
+
+We actively encourage and support applications from those with backgrounds underrepresented in the tech industry.
+
+Responsibilities
+
+Implement and develop novel algorithms and research ideas in fields such as machine learning, deep learning and reinforcement learning.
+Contribute to our publication efforts.
+Bridge the gap between the research and products by integrating new fundamental research into applied projects.
+Encourage and support good engineering practices as research is translated into reusable and maintainable code.
+Design and implement algorithms to leverage modern hardware and distributed computing systems (CPUs, GPUs, TPUs, Cloud, etc.).
+Report and present experimental results and research findings clearly and efficiently, both internally and externally, verbally and in writing.
+From time-to-time, collaborate with the business development team in their pre-sales activities, including presenting the company to prospective clients and representing InstaDeep at conferences/events.
+
+Minimum Qualifications
+
+Postgraduate degree in Computer Science, Machine Learning or a related scientific field.
+Experience in developing and debugging in Python or similar languages.
+Experience using deep learning frameworks such as PyTorch, Tensorflow and/or Jax.
+Research and software engineer experience demonstrated via previous experience, contributions to open source or coding competitions.
+
+Preferred Qualifications
+
+Work permit for the USA.
+Proven ability to contribute to research communities and/or efforts, including publishing scientific papers at conferences (JMLR, ICLR, NeurIPS, ICML, GECCO, etc.).
+
+Benefits
+
+Competitive salary.
+Working in small, diverse teams where you can make an impact.
+Varied challenges across industries.
+Opportunities to grow your career within an expanding company.
+Cooperation across European and African offices
+Annual offsite events.
+Flexible working hours.
+
+At present we operate in a hybrid way allowing work from home or work from the office as per each individual’s preferences. We are continuing to review the situation with the wellbeing of InstaDeepers at the forefront of our minds.

@@ -1,0 +1,41 @@
+The Business Intelligence (BI) Developer will support enterprise Business Intelligence in the deployment of cross-functional, enterprise-wide BI solutions. The BI Developer performs requirements analysis, designs, develops, deploys, supports and maintains reporting and analytical or business intelligence applications using a variety of data sources to support enterprise objectives. Responsible for collaborating with team members to develop and design BI reports and analytics initiatives for end users at Casa Systems.
+
+KEY RESPONSIBILITIES:
+Design, develop and maintain reports, dashboards, scorecards, data exploration and visual analytics.
+Automate and optimize reporting of strategic business processes and performance; and make recommendations for new metrics/analysis.
+Collaborate with cross-functional team members to understand business requirements.
+Enable effective decision making by identifying, retrieving, and aggregating data from multiple sources and compiling it into a digestible and actionable structure and format using Microsoft PowerBI and/or other tools, as appropriate.
+Create dashboards understandable by all levels of organization.
+Analyze data to determine trends, exceptions, and proactive alerts.
+Maintain a central repository of key reports across the company.
+Handle reoccurring analysis and tasks aimed at driving continuous cost savings initiatives and business optimization.
+Contribute to data reporting operational best practices to allow tools and techniques to scale
+Diagnose and support Power BI reporting solutions, including investigation of data issues, data validation, scalability, balancing and row level security implementation
+Collaborate with IT professionals to implement effective systems.
+Identify and provide input to new technology opportunities, including regular Microsoft PBI releases, that will have a positive impact on improving the BI visualization portfolio
+Perform other duties, as required.
+
+REQUIRED KNOWLEDGE, SKILLS, EDUCATION & EXPERIENCE:
+Bachelor or Master’s degree in Computer Science, Business or quantitative field such as mathematics, industrial engineering, statistics, information systems, operations research and/or equivalent work experience in a related field required.
+5+ years experience in statistics, analytics, and/or business intelligence.
+5+ years of working experience in delivering Power BI Solutions
+Expert knowledge of Power BI DAX is a must.
+Proficiency in writing complex queries to extract and analyze large volumes of data sets using SQL, Excel, Power BI DAX, Tableau and other analysis tools.
+Experience connecting Power BI with multiple data sources.
+Proven ability to successfully execute implementation of multiple projects at a time and manage priorities.
+A fundamental understanding of supply chain, logistics concepts, business operations and familiarity with data warehousing and architecture concept/tools is a plus.
+Experience working directly with business stakeholders to translate between data and business needs.
+Quantitative and analytical skills: Must be highly numerate and possess the ability to perform statistical analysis on large data set, to provide analytical support for projects, new businesses opportunities, and proposals.
+Problem solving skills: Must be naturally curious with proven ability to identify and resolve problems. Able to break down complex problems into smaller deliverables that add value.
+Critical thinking skills: Must possess an affinity for data and resourcefulness in obtaining data and must be able to relate with abstract to make decisions in situations where complete information is not available.
+Strategic and analytical thinker: Must be able to make decisions with a long-term focus in a results-oriented environment.
+Organizational skills: Must be able to effectively prioritize assignments, manage workload, as well as manage multiple concurrent projects in a fast-paced environment.
+Team player: Demonstrated ability to work effectively cross-functionally with IT, Sales Ops, Logistics, Finance, data subject matter experts, third party providers, and other analysts to mine the right data sources efficiently and accurately.
+Requires occasionally working with cross-functional teams, so it is essential that they possess the ability to work effectively in a team environment.
+Communication skills: Requires strong written and oral communication abilities to perform their job duties successfully, especially producing monthly reports.
+Able to live Casa’s core values: fun work environment, innovation & risk taking; passion, dedication & perseverance; and honesty & loyalty.
+#LI-EB1
+
+Required Skills
+
+Required Experience

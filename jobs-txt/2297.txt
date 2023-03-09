@@ -1,0 +1,37 @@
+Data Scientist, Systematic Global Macro
+Data Scientist, Systematic Global Macro
+Please direct all resume submissions to
+QuantTalentUS@mlp.com
+and reference REQ-16012 in the subject.
+Millennium is a top tier global hedge fund with a strong commitment to leveraging market innovations in technology and data to deliver high-quality returns.
+A small, collaborative, and entrepreneurial systematic investment team is seeking a strong data scientist. This opportunity provides a dynamic and fast-paced environment with excellent opportunities for career growth.
+Job Description
+Data Scientist as part of a small, collaborative systematic global macro team based, in New York, with a focus on applying cutting edge statistical and machine learning techniques to short-term strategies in futures, swaps, and FX markets.
+Location
+New York
+Principal Responsibilities
+Partner closely with the Senior Portfolio Manager to develop data engineering and prediction tools for systematic trading
+Assist in designing, coding, and maintaining tools for the systematic trading infrastructure of the team
+Scout, on-board, research, and maintain a diverse set of both traditional and alternative datasets
+Build signals from raw data and incorporate into machine learning models to forecast macro assets including futures and FX
+Preferred Technical Skills
+Expert in Python
+Expert knowledge of large-scale data analytics and their applications
+Bachelor, Master’s, or PhD degree in Computer Science, Engineering, Applied Mathematics, Statistics or related STEM field
+Broad understanding of fixed income, swaps, futures and FX
+Excellent communication, analytical and quantitative skills
+Preferred Experience
+3+ years of experience with Python programming
+2+ years of experience working with large datasets
+Experience with different types of data stores (SQL and no-SQL databases, s3, etc.)
+Highly Valued Relevant Experience
+Experience working in a systematic trading environment or sell-side equivalent experience
+Knowledge of machine learning and statistical techniques and related libraries
+Experience with ElasticSearch and other AWS services (RDS, Aurora, S3, EMR, Spark, Airflow, Sagemaker, Kafka, Athena, etc.)
+Experience working with web frameworks and visualization tools (such as D3)
+Team player, with a strong desire to participate and help others
+Strong critical thinking skills and creativity in developing new ideas
+Millennium pays a total compensation package which includes a base salary, discretionary performance bonus, and a comprehensive benefits package. The estimated base salary range for this position is $150,000 to $200,000, which is specific to New York and may change in the future. When finalizing an offer, we take into consideration an individual’s experience level and the qualifications they bring to the role to formulate a competitive total compensation package.
+Please direct all resume submissions to
+QuantTalentUS@mlp.com
+and reference REQ-16012 in the subject.

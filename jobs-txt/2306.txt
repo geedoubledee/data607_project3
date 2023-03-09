@@ -1,0 +1,32 @@
+DATA LEADER
+
+ABOUT THE COMPANY:
+Libertas Funding, LLC, headquartered in Greenwich, CT, is a dynamic fintech, specialty finance firm providing capital to small and medium-sized businesses. With over 100 years of combined funding and credit expertise, we work hard to provide our customers with optimal solutions to meet their funding needs. Libertas maintains a spirit of innovation and customer focus while leveraging our proprietary technology and financial discipline to help our clients reach their goals. We seek qualified, highly motivated individuals who work with integrity and excellence, and who value teamwork, customer service, diversity, and accountability.
+
+ABOUT THE ROLE:
+The Data Leader will own the company's data and machine learning initiatives, from early-stage ideation, analysis, and modeling development, as well as guide necessary infrastructure planning and development. The goal of the Data Leader is to develop a strategic roadmap that will enable Libertas to make data driven underwriting and business decisions. This position is ideal for a technologist and leader who is excited to be hands on, while building a team and strategy for data science at Libertas.
+
+QUALIFICATIONS:
+An established track record of building and leading high performing data and data science teams, including establishing hiring and retention best practices, effective stakeholder management, and creating systems for project success
+Must be a strong technical leader as well as an independent, critical, and analytical thinker who can rapidly adapt to changing business and organizational demands
+Ability to communicate complex data and modeling results in a simple, actionable way to diverse stakeholders
+Excellent interpersonal and relationship-building skills
+Track record of successfully building and deploying production level data modeling workflows/pipelines, for consumption by applications and internal customers
+Deep knowledge of data governance best practices, including data quality/integrity and privacy
+Fluency in multiple relevant programming languages and tools, e.g. SQL, Python, AirFlow, etc
+Experience DS project lifecycle, from ideation through deployment. Hands on experience with models like XGBoost and multi-class classifiers. Knowledge of complex modeling workflows, including multi-modal pipelines a strong plus.
+Experience with financial data is strong plus.
+Experience with visualization tools and best practices, Tableau specific experience is a strong plus.
+Bachelor's degree or higher in Computer Science or related STEM field
+7 plus years related work experience
+Experience with machine learning and AI
+Experience with data management tools
+Experience with Tableau and other visualization tools
+Knowledge of SQL, Python, Airflow, etc.
+Knowledge of AWS PaaS services including Redshift, Glue, EFS, S3
+Knowledge of the Agile process and Test-Driven Development
+Experience in startup companies
+
+Libertas Funding, LLC provides equal employment opportunities to all applicants for employment and prohibits discrimination and harassment of any type with regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by the federal, state, or local laws.
+
+*Libertas Funding is a mandatory Covid 19 vaccination employer* *Libertas Funding participates in E-Verify*

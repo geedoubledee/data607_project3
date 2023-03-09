@@ -1,0 +1,20 @@
+Job Purpose
+We are looking for individuals with a background in statistical modelling and finance to lead a team of data scientists at Intercontinental Exchange. You should have experience leading a team and have experience building, enhancing, or supporting products related to fixed income securities. The role requires individuals to enhance and expand proprietary algorithms designed to bring transparency and standardization to the fixed income market. You will join a fast-paced team of quants and data scientists tasked with evolving modeling techniques to improve precision and scale across millions of bonds. You will also be tasked with building on our thought leadership in researching new ways to utilize AI & ML to help further improve precision and operational efficiency. The role will require individuals to work with significantly large data sets spanning decades of historical data.
+Responsibilities
+Lead a team researching, implementing, and maintaining pricing models across fixed income asset classes
+Work closely with engineering and operational teams to procure, analyze, and validate data towards the building of models
+Talk about the work we do at internal and external venues
+Work closely with product support teams to validate methodologies
+Investigate ad hoc issues and debug pricing applications
+Knowledge and Experience
+8+ years of experience in the financial services industry. Ideally, some of these were when you were leading a team.
+Masters degree or higher in Computer Science, Math, Physics, Engineering, or related quantitative field
+An ability to slice into financial data and to think abstractly about building systems to account for differences between securities
+Strong communication and leadership skills
+Hands on experience utilizing SQL, Python and/or R.
+Experience using AI & ML techniques to solve complex multi-dimensional problems
+Schedule
+This role offers work from home flexibility of up to 2 days per week.
+Base Salary Range for New York Candidates
+The expected base salary for this role is between $212,000 to $265,000 USD. The base salary range does not include Intercontinental Exchanges incentive compensation. While we provide this range as general guidance, at ICE we compensate employees based on the skillset and experience of the individual.
+Intercontinental Exchange, Inc. is an Equal Opportunity and Affirmative Action Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, sexual orientation, gender identity, national origin or ancestry, age, disability or veteran status, or other protected status.

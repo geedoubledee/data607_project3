@@ -1,0 +1,36 @@
+Purpose:
+Business Technology Solutions (BTS) Analytics & Information Strategy is an ambitious team of curious data and analytics professionals on a mission to elevate decision-making by AbbVie BTS leadership through timely and relevant insights. We uncover opportunities for BTS by digging into data to find the “why” and “what can we do about it?” We focus on the highest priority challenges for BTS, saying no when needed to protect time during regular working hours for deep analytical creativity and collaborative problem solving. We challenge ourselves to continuously improve the insights we deliver, learning from each other and insights teams across AbbVie.
+
+You will succeed as the Director - Business Intelligence & Data Science if you are enthusiastic about applying advanced analytics techniques to the diverse questions and challenges facing BTS leadership, driving analytics innovation and experimentation to enable data-driven insights for complex business problems across BTS. You are comfortable using your deep expertise in prescriptive & predictive analytics, root cause analysis, data mining and exploratory insight generation to shape the implementation of data science techniques in novel contexts, iterating until that Eureka moment where you’ve unlocked the insight needed to solve the problem. You know that garbage in will mean garbage out, so you ensure data integrity and quality before you or your team starts an analysis, and coach junior team members on their data quality mindset. While you’re creative when you need to be, you don’t reinvent the wheel unnecessarily, and ensure consistent analysis techniques are used when comparability matters. You are energized by the breadth of potential advanced analytics use cases across optimization of employee experiences, forecasting, value optimization, talent development, talent acquisition, and brand building.
+
+This technical leadership role is competitively compensated through AbbVie’s Total Rewards program. We are looking for talented people to join our team. And when we find them, we make it our business to reward them well. Additional compensation details for this role provided on request after successful screening interviews.
+
+Responsibilities:
+Develop and execute strategy and roadmap for Business Intelligence (BI) solutions for BTS leadership, reflecting a deep understanding of how data can inform BTS leadership’s decisions and suitability for advanced analytics approaches. Anticipates and identifies issues that could affect timelines or quality and develops options and solutions.
+Accountable for the delivery of credible and relevant insights via advanced analytics according to the leadership-endorsed roadmap and on an ad-hoc basis. Maintain focus of Business Intelligence & Data Science team on roadmap priorities, negotiating timelines and commitments effectively to enable focus and balanced workload. Ensure team resources are well utilized but not overburdened.
+Lead and develop a high-performing Business Intelligence & Data Science team by coaching for development, providing feedback (including code reviews) and developmental assignments, leading team meetings and overseeing goal setting and progress towards goals.
+Leads and helps establish the design principles and standards to ensure analytical work product is consistent across projects where appropriate, enabling comparability of results across projects.
+Applies advanced analytics methods to answer ad-hoc business questions for BTS leadership, balancing robustness of approach with feasibility given time constraints (recognizing that a good answer before the decision is made is more valuable than a perfect answer delivered too late)
+
+In addition to standard statistical methods, oversees the development of prototypes, test methods and algorithms. Leverages emerging statistical methodologies, ML and AI to drive innovative analytical solutions to create insights
+Provide dotted-line direction to cross-functional analytics colleagues focused in specific domains (e.g. HR) to develop and execute strategies and analytics projects that contribute to the BTS advanced analytics roadmap. Influence teams working on parts of shared problems to set aligned architecture and technology standards for Business Intelligence solutions, including data models, analytical templates, metadata and master data management strategies; ETL, data auditing and data quality approaches.
+Ensures that data presented, and presentations, provide clear, actionable, audience-relevant insights. This role supports multiple use cases and should ensure that each work product is fit for purpose
+Identify business needs and support the creation of KPIs by identifying leading and lagging indicators of desired outcomes to be implemented in KPI reporting by the BTS Analytics Delivery team
+Ensures adherence to federal regulations and applicable local regulations, AbbVie Standard Operating Procedures (SOPs), and to functional quality standards. Stays abreast of new and/or evolving local regulations, guidelines and policies related to analysis of the data in scope for identified use cases (may include PII).
+
+Qualifications:
+Bachelor's Degree with 10 years’ experience; Master's Degree with 9 years’ experience; PhD with 5 years’ experience.
+Experience designing and implementing advanced analytics approaches that drive business value in a large, matrixed, multinational corporate environment
+At least 5 years of experience managing and developing analytics personnel. Direct line management preferred but development of colleagues within matrixed teams considered.
+Expert-level proficiency in Python and/or R, statistical and data mining techniques
+Proven expertise with Machine Learning and other advanced analytics techniques such as clustering and cluster prediction from features
+Familiarity with visualization tools like PowerBI, Tableau or equivalent
+Experience working in Cloud Computing environments (e.g., AWS, Azure, etc) is preferred
+Experience with Hadoop platforms and related “big data” technologies is preferred
+Strong intuition for feature engineering is preferred
+Demonstrated effective communication skills. Demonstrated ability to communicate analytical and technical concepts in layman’s terms
+Demonstrated problem-solving and analytical skills
+Demonstrated history of successful execution while managing multiple priorities effectively
+
+
+At AbbVie, we value bringing together individuals from diverse backgrounds to develop new and innovative solutions for patients. As an equal opportunity and affirmative action employer, we do not discriminate on the basis of race, color, religion, national origin, age, sex (including pregnancy), physical or mental disability, medical condition, genetic information, gender identity or expression, sexual orientation, marital status, protected veteran status, or any other legally protected characteristic. If you would like to view a copy of the company’s affirmative action plan or policy statement, please email CorpJat_ABV@abbvie.com.

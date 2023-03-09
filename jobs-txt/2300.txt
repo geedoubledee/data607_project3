@@ -1,0 +1,36 @@
+Center Information:
+The Quantitative Biomedical Research Center (QBRC) is a well-established research center at UT Southwestern Medical Center (UTSW). It aims to foster collaborations involving quantitative methods and technologies in any aspect of biomedical research, particularly for understanding disease etiologies and developing treatment and prevention strategies. Currently, the center has six faculty members, around 40 staff members, postdocs and student research assistants. We are actively recruiting new members to join this new and dynamic group.
+Position Title: Data Scientist I, II, III, Computational biologist I, II, III or Postdoctoral Fellow (Bioinformatics/Biostatistics)
+Duties & Responsibilities: For bioinformatics or statistician scientists, the projects include developing novel method for analysis and integration of multiple-omics data, and single cell genomics and transcriptome analysis. For data scientists, the projects include assembling and statistical analyses of big clinical data, and application of machine learning and deep learning methods on real medical problems.
+At UTSW, there are great opportunities for scientists to collaborate with outstanding biomedical investigators and work on exciting research projects. UT Southwestern provides a friendly, dynamic, collaborative, and integrative research and training environment with state-of-the-art facilities.
+Position Qualifications: Candidates should have a doctoral degree in either one of the following fields, including genetics/genomics, bioinformatics, computer science, biostatistics, computational biology or a related field. Programming skills in Python, Perl or R is preferred. Experience for deep learning is highly preferred for data scientist position.
+Related websites:
+QBRC: https://qbrc.swmed.edu/
+Application Deadline: until filled
+UT Southwestern Western Medical Center is an Affirmative Action/Equal Opportunity Employer. Women, minorities, veterans and individuals with disabilities are encouraged to apply.
+Job Types: Full-time, Contract
+Pay: $67,000.00 - $120,000.00 per year
+Benefits:
+401(k)
+401(k) matching
+Dental insurance
+Employee discount
+Flexible schedule
+Health insurance
+Life insurance
+Paid time off
+Referral program
+Retirement plan
+Tuition reimbursement
+Vision insurance
+Schedule:
+Monday to Friday
+Supplemental pay types:
+Bonus pay
+Commission pay
+Signing bonus
+Education:
+Doctorate (Preferred)
+Experience:
+Linux: 2 years (Preferred)
+Work Location: Remote

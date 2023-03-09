@@ -1,0 +1,43 @@
+KUNGFU.AI is a strategic AI services provider that gives companies the AI advantage. From sparking big ideas to delivering practical solutions, we help our clients unlock the business value of AI. We guide our customers on their AI journey, exploring a world of possibilities and then grounding that with a roadmap and practical deliverables that are embedded into their products and processes. Our inquisitive engineers continually research the latest AI techniques. We use that knowledge to build bespoke AI solutions for customers that multiply their business value.
+
+This position sits at the cutting-edge of machine learning and software engineering. As a Senior Machine Learning Engineer, you will be responsible for designing and developing AI and machine learning applications for our growing client base. You should have strong programming skills and must have professional experience in one or more of the following areas:
+
+AI and Machine Learning
+Computer Vision
+Natural Language Processing
+Data Science
+Deep Learning
+
+You will join a team of experienced engineers and entrepreneurs bringing practical AI solutions to the market.
+Here's what you'll be doing:
+Designing and developing machine learning models
+Running machine learning tests and experiments
+Running numerous experiments in a an environment that prioritizes knowledge-sharing, inclusivity, and trust
+Collaborating with other engineers in a pair programming environment
+Engaging in client-facing activities
+Building familiarity with state of the art machine learning techniques and staying up to date
+What we'd like to see:
+An engineer who can tell stories from a professional setting about the majority of the topics listed below. We aren't requiring a certain number of years of experience, but we do need someone who's got some experience under their belt.
+Extensive professional experience building, designing, and deploying Machine Learning Systems
+Someone who is proficient and quite comfortable programming in Python, as that's mostly what we use here.
+Experience with object-oriented programming, code hygiene, basic version control, etc. We work on PoCs and prototypes but also deploy and productionalize a portion of our work so some basic software engineering ability is a huge help.
+Someone who's comfortable working with deadlines and is confident in their time management.
+Excellent interpersonal skills and ability to get along with engineers at all levels, clients of technical and non-technical backgrounds, etc.
+We're huge on continuous learning. We always look for individuals that have an almost insatiable thirst for knowledge.
+Masters or Ph.D. in Computer Science or equivalent work experience.
+What’s in it for you:
+This is a full-time position that is remote.
+Compensation includes competitive salary, company stock grant, top (‘gold’) level of health, dental and vision insurance (KUNGFU.AI covers 100% of your premiums and 50% for any dependents), health and dependent flexible spending accounts, short- and long-term disability insurance, unlimited vacation (that you're encouraged to take), paid parental leave, and more.
+If this opportunity excites you, we can’t wait to meet you! Please send your resume along with a cover letter explaining why you’re passionate about the idea of joining KUNGFU.AI and a great fit for this role.
+
+KUNGFU.AI Culture
+
+We are committed to building an inclusive culture that’s professional and hardworking, while also fun, collaborative and open. We are proud to be the first company to take The Startup Diversity and Inclusion Pledge, which one of our co-founders started. We actively encourage people from underrepresented groups to apply. We believe that a diverse and inclusive workforce fosters more creative ideas, conversations, and results.
+
+We also believe in using AI for Good in both our client projects and our corporate philanthropy, where we dedicate time to work on pro bono projects for the greater good.
+
+We value passion, courage, and original thinking.
+You should take ownership over the things you build and be eager to learn new skills.
+You should have a passion for teamwork and making others around you successful.
+You should be a self-starter and have a strong work ethic.
+We are an early stage company, so we all perform work outside of our job description every day, and you should expect to be given and take opportunities to do the same.

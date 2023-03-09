@@ -1,0 +1,104 @@
+Posting Information
+Department
+Renaissance Computing Inst-637100
+
+Career Area
+Information Technology
+
+Posting Open Date
+11/03/2022
+
+Application Deadline
+11/30/2022
+
+Open Until Filled
+No
+
+Position Type
+Permanent Staff (EHRA NF)
+
+Working Title
+Assistant Director of Analytics and Data Science
+
+Appointment Type
+EHRA Non-Faculty
+
+Position Number
+20013801
+
+Vacancy ID
+NF0006413
+
+Full Time/Part Time
+Full-Time Permanent
+
+FTE
+1
+
+Hours per week
+40
+
+Position Location
+North Carolina, US
+
+Hiring Range
+Dependent on Qualifications and Experience
+
+Proposed Start Date
+12/19/2022
+
+Position Information
+Primary Purpose of Organizational Unit
+Are you ready to go beyond the state of the art?
+
+At the Renaissance Computing Institute (RENCI), we use data, creativity, and inclusive teaming to revitalize how science is done. Fostering data science expertise and creating cyberinfrastructure isn’t just about solving known problems – it’s about expanding human potential by unlocking data.
+
+We need innovators, builders, strategists, technologists, architects, and creative thinkers across all domains to drive this work forward. When you join our team, you’ll:
+Spend your time solving the interesting and unique problems of research and development.
+Shape your future through experimentation and unfettered access to premier education and research.
+Make connections to people and projects that ignite your passion.
+
+We know that diversity of people and ideas is a cornerstone of innovation, and we work to ensure our culture reflects that knowledge. We provide the tools you need to do your job effectively; we offer flexibility so you can be the most productive version of you; and we encourage thoughtful and challenging discourse.
+
+Join our research institute at the University of North Carolina at Chapel Hill today and help us spark a scientific renaissance across the Research Triangle Park, North Carolina, and beyond.
+
+Position Summary
+Renaissance Computing Institute (RENCI) is seeking an Assistant Director of Analytics and Data Science to develop an independent research program in Data Science including artificial intelligence, machine learning, knowledge graphs and other analytical methods. The individual is expected to support and manage biomedical and environmental research projects, aid in management of the Analytics and Data Science team, and mentor, guide and evaluate several direct reports.
+
+The Assistant Director will provide technical leadership, setting the analytical direction of research projects. The Assistant Director will apply their Data Science expertise to help advance RENCI’s research portfolio in Data Science, leading the development and execution of new research projects and proposals, both independently and in collaboration with internal and external partners.
+The Assistant Director will develop algorithms and tools involving, but not limited to: image analysis, natural language processing, graph analysis, question answering, and semantic search. Prior experience in one or more of these areas is essential.
+
+The Assistant Director will work with colleagues with expertise in data analytics, advanced computing including cloud computing systems, software engineering and domain expertise in the biomedical and environmental sciences. The Researcher will work in interdisciplinary teams, both within and beyond RENCI, promoting innovation and collaboration.
+
+Responsibilities:
+
+Develop independent research portfolio in area of expertise
+Manage research projects, and provide analytical direction
+Work with colleagues to develop and apply tools and methods
+Collaborate with software engineers and researchers to help design analytical systems to advance scientific discovery
+Provide leadership in user engagement and experience
+Contribute to interdisciplinary teams
+Train data contributors on the application of data standards and relevant tools
+Develop proposals and business development efforts
+
+Minimum Education and Experience Requirements
+Relevant post-Baccalaureate degree required (or foreign degree equivalent); for candidates demonstrating comparable independent research productivity, will accept a relevant Bachelor’s degree (or foreign degree equivalent) and 3 or more years of relevant experience in substitution. May require terminal degree and licensure.
+
+Required Qualifications, Competencies, and Experience
+BS in Data Science, Computer Science, Information Science, Bioinformatics, Biology or other scientific discipline
+Technical knowledge of Data Science and Analytics
+Experience in Machine Learning / Artificial Intelligence domains such as image analysis and natural language processing
+Software development skills in a relevant programming language (Python, R, Java, etc)
+Experience developing grant proposals
+
+Preferred Qualifications, Competencies, and Experience
+MS or PhD in Data Science, Computer Science, Information Science, Bioinformatics, Biology or other scientific discipline
+Expertise with Knowledge Graph creation and analysis
+Experience with bioinformatics or biomedical data
+Experience with semantic web techniques
+Experience with CI/CD pipelines
+
+Special Physical/Mental Requirements
+
+Campus Security Authority Responsibilities
+Not Applicable.

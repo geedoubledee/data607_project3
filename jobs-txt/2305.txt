@@ -1,0 +1,18 @@
+***Now offering a 4.5 day workweek!!!***
+Languages: T-SQL or other SQL language Databases: MSSQL, Mongo, PostgreSQL Technologies: Apache Airflow, Docker or Kubernetes Platforms: Azure or Google Cloud Platform or AWS Hard Skills: Build, test, and improve/maintain ETL data pipelines Data Modeling: Documentation: Creating/Maintaining Data Dictionary and ERDs Design: Implementation/Maintenance of Data Warehouse (familiar with modeling facts/dimensions and understands tradeoffs between star/snowflake schemas) Database Management: Deploy/Rollback DB schema changes Create/Alter tables, views, stored procedures, functions, indexes Data Governance: Improve data availability, usability, integrity and security Soft Skills: Enjoys data wrangling. Eager to understand internal/external business reporting needs. Ability to communicate effectively and work with business stakeholders to arrive at the appropriate solution. Comfortable working across departments to gather/spread necessary knowledge to complete a project. Willingness to learn new languages/technologies as needed for the job. Familiarity with Agile/SCRUM methodologies and practice.
+Job Type: Full-time
+Pay: $1,450.00 - $2,500.00 per week
+Benefits:
+401(k)
+Dental insurance
+Employee discount
+Flexible spending account
+Health insurance
+Life insurance
+Paid time off
+Vision insurance
+Schedule:
+8 hour shift
+Day shift
+Monday to Friday
+Work Location: One location

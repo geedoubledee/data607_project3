@@ -1,0 +1,44 @@
+Join our innovative and collaborative Digital Transformation and Data team. As a Data Scientist, you’ll influence and help Macquarie produce value with data within our Corporate Operations Group and beyond. You will apply your broad data expertise though a mix coaching others, providing strategic advice, and performing hands-on analysis.
+
+You will be responsible for:
+Partnering with business leaders and coaching nascent data teams to uplift data capability
+Identifying, determining feasibility, and shaping data use cases
+Determining appropriate analytical, statistical or machine learning approaches to create value
+Performing analysis and creating prototypes
+Communicating and influencing outcomes based on data
+Providing requirements to, and partnering with, technology/data engineering teams to productionise data prototypes
+
+To be successful in this role you will have the following skills and experience:
+Interpreting, telling stories and creating value with data
+Curious and business outcome focused with an ability to quickly understand a business area, break down a complex problem and work out how to solve it
+Strong collaboration skills having worked with business stakeholders at different levels of seniority and technical proficiency
+Comfortable working across a wide range of data sets and systems
+Broad understanding of, but not necessarily expertise in, data strategy, data visualisation, data architecture and what is involved in bringing data products into production
+Commercial exposure in a corporate, consultancy or start-up environment
+Deep practical expertise applying statistical knowledge and machine learning to solve business problems through manipulating and analysing data with SQL and Python or R
+Proven track record of overseeing multiple data science projects at all stages, from idea generation to objectives formulation to implementation and deliverables
+Excellent project management skills, with a proven track record of on-time and within-budget delivery. Exceptional ability to manage priorities across multiple stakeholders.
+About the Corporate Operations Group
+The Corporate Operations Group brings together specialist support services in Digital Transformation & Data, Technology, Operations, Human Resources, Business Services, Business Improvement & Strategy, and the Macquarie Group Foundation. We deliver service excellence to ensure Macquarie is open for business, deliver on transformational change, invest in our people and have deep relationships with our customers.
+Our COVID-19 policy
+In line with local regulations, all Macquarie employees in New York are required to be fully vaccinated against COVID-19 and provide proof of full vaccination in order to attend the office and to participate in external meetings and business travel in New York City, unless a reasonable accommodation is approved or as otherwise required by law. Outside of New York, proof of vaccination is not required to attend a Macquarie office, travel for business, or attend an external business event.
+Our commitment to Diversity, Equity and Inclusion
+The diversity of our people is one of our greatest strengths. An inclusive and equitable workplace enables us to embrace that diversity to deliver more innovative and sustainable solutions for our people, clients, shareholders and communities. At Macquarie, you'll be encouraged to be yourself and supported to perform at your best. If you're inspired to deliver on our purpose of ‘empowering people to innovate and invest for a better future’, we want you on our team. If you need adjustments made to the recruitment process, please reach out to your recruiter.
+All qualified applicants will receive consideration for employment and will not be discriminated against on the basis of race, color, religion, sex, sexual orientation, national origin, age, disability, protected veteran status, genetic information, marital status, gender identity or any other impermissible criterion or circumstance. Macquarie also takes affirmative action in support of its policy to hire and advance in employment of individuals who are minorities, women, protected veterans, and individuals with disabilities.
+We equip our people with the support to work in a range of flexible ways. Talk to us about what working arrangements would help you thrive.
+Salary range for this position: $108,000 - $192,500/Yr. Actual base salary may vary based upon, but not limited to, relevant experience, time in role, peer and market data, prior performance, business sector, and geographic location. The successful candidate may also be eligible for an annual discretionary incentive compensation award. Macquarie offers a full spectrum of benefits, including Medical, Prescription Drug, Dental, Vision, Health Savings Account, Dependent Day Care Savings Account, Life Insurance, Disability and Other Insurance Plans, Paid Time Off (including Sick Leave, Parental Leave and Vacation), Holidays, 401(k), and Short/Long Term Disability, in addition to other special perks reserved for our employees.
+
+About Macquarie
+A career at Macquarie means you’ll have the opportunity to develop and utilise new skills, explore interesting fields and do challenging work that will impact the lives of people around the world—whether it’s accelerating the green energy transition, helping sustain global food supplies, financing social housing projects or investing in essential infrastructure. At Macquarie, we’re empowering people to innovate and invest for a better future.
+Our size and international presence means your work can take you anywhere—across business groups, disciplines, sectors and borders. With 18,000+ employees and offices in 33 markets around the world, we’re a truly global organisation.
+You’ll be supported by a diverse team where the unique perspectives, ideas and experiences that all of our people bring are valued. You’ll be empowered to address unmet needs in our communities whilst advising and investing alongside our clients and partners. Working with us, you’ll have the opportunity to make a difference.
+Macquarie is a global financial group providing clients with asset management, retail and business banking, wealth management, leasing and asset financing, market access, commodity trading, renewables development, specialist advisory, capital raising and principal investment.
+
+Job no: COG-966317
+Work type: Permanent - Full time
+Location: Houston, New York, Philadelphia
+Category: Mid-senior, Technology
+Group: Corporate Operations Group
+Division: Technology
+Recruiter: Ryan Flores
+Opening Date: 26/7/2022

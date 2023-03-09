@@ -1,0 +1,42 @@
+Clari takes pride in being the leader in Revenue Collaboration & Governance (RevCG) and providing the first platform to stop revenue leak and achieve revenue precision. With Clari’s Revenue Platform, all revenue-critical employees now have an enterprise system to run revenue. Forecasting, pipeline management, conversation intelligence, deal execution, coaching, and buyer collaboration (to name a few) are a maze of challenges made simple with Clari. Thousands of teams at leading companies worldwide, including Okta, Adobe, Workday, and Zoom use Clari to drive revenue accuracy and precision.
+
+Clari's revenue operations platform enables experiences that are mission-critical for our users. It connects to our customer's most important business systems integrating data that we use to power our applications, analytics, data science, and APIs. We are building a platform of the future that lives and breathes data and intelligence which is instrumental in supporting our continued journey of explosive growth.
+
+We are looking for a product manager who is passionate about data and machine learning to drive intelligence capabilities throughout our stack. In this role, you will have the opportunity to expand Clari’s data science capabilities and embed them throughout our platform.
+
+This is a fully remote opportunity and can be worked from any location in the United States.
+Responsibilities
+Drive the vision and roadmap for data science in the Clari platform
+Partner with engineering on approaches to leverage machine learning
+Partner with product managers to maximize the impact of intelligence throughout our targeted revenue process applications
+Develop tight working relationships with customers, partners, and internal stakeholders, ensuring that we’re solving our users’ and customers’ most pressing problems
+Collaborate with Product Marketing, Growth, and GTM teams to shape and execute go-to-market strategies
+Ensure that our data science solutions are built for trust, scale, extensibility, and reliability
+Leverage data from multiple sources to inform product decisions and drive customer adoption
+Set targets for product adoption & impact, and work with success teams to ensure our product goals are met
+Qualifications
+4+ years of SaaS product management experience, from inception to delivery
+2+ years of data science/machine learning experience (e.g. time series analysis, HMM, Deep Learning for classification, and NLP)
+Experience managing complex stakeholder relationships, including engaging with users, customers, partners, and industry analysts
+Working familiarity with databases, data management, and modern API-based software architectures
+Working familiarity with modern ML development stack, open-source libraries, and hosted ML services (e.g. Tensorflow, PyTorch, NumPy, AWS Sagemaker, DataRobot, etc.)
+Experience delivering systems optimized for scalability and extensibility
+Strong written and verbal communication skills with a forte for breaking down complex technical problems
+Outstanding presentation skills with the ability to communicate business and technical topics and adjust to diverse audiences
+Work-Life and Benefits @ Clari
+Remote-first with opportunities to work and celebrate in person
+Medical, dental, vision, short & long-term disability, Life insurance, and EAP
+Mental health support provided by Modern Health
+Pre-IPO stock options
+Wellbeing and professional development funds
+Retirement 401(k) plan
+100% paid parental leave, plus fertility and family planning support provided by Maven
+Discretionary paid time off, monthly ‘take a break’ days, and Focus Fridays
+Focus on culture: Charitable giving match, plus in-person and virtual events
+#BI-Remote #LI-Remote
+
+You’ll often hear our CEO talk about being remarkable. To Clari, remarkable means many things. We believe in providing interesting and meaningful work in a nurturing and inclusive environment. One that is free from discrimination for everyone without regard to race, color, religion, sex, sexual orientation, national origin, age, disability, gender identity, or veteran status. Efforts have to be recognized. Voices have to be heard. And work-life balance has to be baked into the very fiber of the company. We are honored to be recognized by Inc. Magazine and Bay Area News Group as a best place to work for several years running. We’d love to have you join us on our journey to remarkable!
+
+If you feel you don’t meet 100% of the qualifications outlined above, we want you to apply! Clari believes in hiring people, not just skills. If you are passionate about learning and excited about what we are doing, then we want to hear from you.
+
+Clari focuses on culture add, not culture fit. One of our values is One with Customers, and we know we can serve them better when we involve as many different perspectives as possible. Our team is made stronger by what makes you unique, so we hope you’ll bring your whole self to the job.

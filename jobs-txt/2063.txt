@@ -1,0 +1,30 @@
+Responsibilities:
+Gather and update project materials, project documentation, business flows, and lessons learned documents.
+Liaise between developers and project stakeholders; fostering quality communication between engineering disciplines
+Prepare project documentation based on requirements such as Business Required Document (BRD).
+Collaborate with Business Partners and Cross-Functional Teams and supporting system documentation.
+Perform System Analysis and organizational review of existing QA Processes.
+Create and document, Functional Requirement Documents (FRD) from Business Requirements documents.
+Create Use Cases to define and elaborate the Functional Requirements of the application.
+Required:
+Bachelors or Masters in Science, Administration, Computers, Engineering, Technology, Economics or any related.
+Strong knowledge of Software Development Life Cycle (SDLC) – Feasibility Analysis, Design, Implementation, Deployment and Testing
+Experience in full Software Development Lifecycle (SDLC) from association with end-users for requirements determination, defining the system scope, system analysis, testing and documentation
+Proficiency in analyzing and Creating Use Cases, Use Case Diagrams, Activity Diagrams, Data Flow Diagrams, Business Flow Diagrams and Sequence diagrams using MS Visio
+Excellent skills in writing Business Analysis Documents such as BRD, FRD, SDS and FSD.
+Excellent oral and written communication skills and the ability to get along with people from different backgrounds.
+Job Type: Full-time
+Pay: $60,000.00 - $80,000.00 per year
+Benefits:
+401(k)
+Dental insurance
+Health insurance
+Professional development assistance
+Tuition reimbursement
+Schedule:
+8 hour shift
+Day shift
+Monday to Friday
+Education:
+Bachelor's (Preferred)
+Work Location: Remote

@@ -1,0 +1,42 @@
+Director of Life Science Research Analytics
+Truveta is the world's first health provider led data platform with a vision of Saving Lives with Data. Our mission is to enable researchers to find cures faster, empower every clinician to be an expert, and help families make the most informed decisions about their care. Achieving Truveta' s ambitious vision requires an incredible team of talented and inspired people with a special combination of health, software and big data experience who share our company values.
+Our headquarters are in the greater Seattle area but we celebrate and embrace a remote culture.
+Who We Need
+Truveta is rapidly building a talented and diverse team to tackle complex health and technical challenges. We are seeking candidates inspired by the opportunity to securely apply data in the development of real-world health solutions. Beyond core capabilities, we seek problem solvers, passionate and collaborative teammates, and those willing to roll up their sleeves while making a difference. We do things the right way. Our commitment to security and compliance assurance cannot be stressed enough. This position is critical to ensuring we are successful.
+If you are interested in the opportunity to pursue purposeful work, join a mission-driven team, and build a rewarding career while having fun, Truveta may be the perfect fit for you.
+This Opportunity
+The Director of Life Science Research Analytics will report to our VP of Life Science Research Success on the Partner team. They will focus on supporting strategic engagements with our Life Sciences partners to drive adoption of the Truveta Platform. In addition to having strong analytical skills and experience working with healthcare and health data, the Director needs to be able to teach and explain their analyses to broad audiences and collaborate with clients to promote the power of the data and the platform.
+Responsibilities will include:
+Lead analytical engagements with clients, which are used to:
+Teach, train, and demonstrate the power of the Truveta platform
+Expand and deepen our use case library
+Enhance features built into the platform
+Publish external white papers and peer-review publications that highlight client collaborations
+Use technical skills and domain expertise to receive incoming customer requests and produce analyses and build a collaborative foundational relationship with our clients
+Work closely with other Truveta teams to conduct investigations of data sources to ensure a high degree of trust on our results
+Build demos, use cases, and other content designed to drive adoption of Truveta technology
+Deliver feedback to internal teams based on customer requests to inform Truveta's product roadmap
+Provide analytical expertise, support, and leadership across the Truveta Partner team
+Key Qualifications
+MS/PhD in Biostatistics, Statistics, Mathematics, Computer Sciences, or related field.
+3+ years of experience analyzing Electronic Health Record data or other Real World Data sources in healthcare
+5+ years of hands-on statistical programming experience with R, and/or Python.
+5+ years of experience in a research context developing and executing statistical analysis plans the results of which will be published in academic journal articles, preferably in a health sciences context.
+3+ years of experience working closely with product/program management and presenting material from the research domain to non-technical audiences.
+3+ years of experience working in a cross functional team to deliver data science products and research under tight deadlines.
+Proven ability to understand clinical research questions and translate into data analyses workflows
+Proven ability with to simplify complex clinical research and other domain-specific topics into synthesized, structured, and simplistic content for a non-research audience
+Proven ability to partner and collaborate with clients on their research needs
+Excellent written and verbal communication skills.
+Why Truveta?
+Be a part of building something special. Now is the perfect time to join Truveta. We have strong, established leadership with decades of success. We are well-funded. We are building a culture that prioritizes people and their passions across personal, professional and everything in between. Join us as we build an amazing company together.
+We offer:
+Interesting and meaningful work for every career stage
+Great benefits package
+Comprehensive benefits with strong medical, dental and vision insurance plans
+401K plan
+Professional development for continuous learning
+Work/life autonomy via flexible work hours and flexible paid time off
+Generous parental leave
+Regular team activities (virtual and in-person as soon as we are able)
+Truveta is committed to creating a diverse, inclusive, and empowering workplace. We believe that having employees, interns, and contractors with diverse backgrounds enables Truveta to better meet our mission and serve patients and health communities around the world. We recognize that opportunities in technology historically excluded and continue to disproportionately exclude Black and Indigenous people, people of color, people from working class backgrounds, people with disabilities, and LGBTQIA+ people. We strongly encourage individuals to apply even if you exceed or don't meet all requirements.

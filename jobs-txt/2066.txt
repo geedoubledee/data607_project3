@@ -1,0 +1,40 @@
+Summary/Objective:
+Wheeler Trigg ODonnell LLP seeks a Junior Business Intelligence Developer to join its Information Services team. This position serves as a link between the information data services capacity and the firms business objectives. They work closely with financial systems and document technology to provide reports, implement new technology, and identify improvements in processes and workflows.
+Responsibilities:
+Collaborate with management to identify business process improvements.
+Design, develop and implement data reporting to address internal questions and challenges.
+Development reports in SQL Server Reporting Services (SSRS).
+Development of data extraction, transformation and loading with SQL Server Integration Services (SSIS).
+Assist in daily database administration activities such as backups, restores, and performance monitoring.
+Perform quality assurance and validation of data importing and exporting from data systems.
+Monitor our financial and document life cycle management systems for process improvement opportunities.
+Help design, document and maintain system processes and new services.
+Develop strategies for auditing the performance of the firms accounting and document management systems.
+Identify common sources of technical issues or questions and make recommendations to management.
+Constantly be on the lookout for ways to improve processes and deliver better value to the firm and its clients.
+Qualifications and Desired Characteristics:
+Bachelor's degree in Computer Science or related field, or equivalent experience.
+Strong aptitude for learning new technology.
+Experience in meeting with stakeholders to collect requirements, building and development, documentation, and testing the data and systems in the solution. Experience writing SQL queries and PowerShell scripts.
+Experience moving data between systems (MS SQL, REST API, Flat Files, etc.).
+At least 1 year of experience in SQL Server Database Administration.
+At least 1 year of experience using SSIS and SSRS.
+Strong technical knowledge or various software programs.
+Basic knowledge of generating process documentation.
+Understanding of networks, databases and other technology.
+Strong written and verbal communication skills, including technical writing skills.
+Salary Range: $75,000 - $90,000 per year, depending on qualifications and experience.
+Benefits:
+Health, dental, vision, life, and disability insurance
+Pre-tax flexible spending accounts for medical and other reimbursable expenses
+Tuition reimbursement
+A 25% contribution for public transportation and pre-tax withholding for transportation expenses
+Eighteen paid personal days and seven paid holidays per year
+A 6% employer-paid contribution to the firm's 401(k) plan and eligibility for voluntary contributions to the plan, both at the commencement of employment
+Employer contribution to health savings account of $300-$600 per year
+Wellness benefit of $350 per year
+Employee assistance program
+This role has the opportunity for occasional remote work.
+Equal Opportunity Employer: We do not discriminate on the basis of race, color, religion, national origin, sex, age, disability, sexual orientation, marital status, genetic information or any other status protected by law or regulation. It is our intention that all qualified applicants are given equal opportunity and that selection decisions be based on job-related factors.
+Job Type: Full-time
+Pay: $75,000.00 - $90,000.00 per year

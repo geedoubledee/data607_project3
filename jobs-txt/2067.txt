@@ -1,0 +1,56 @@
+The business intelligence developer (BID) functions as the expert for clinical informatics, EHR reports, and data visualization tools. The BID has expert knowledge of the EHR applications and applies superior ability to work with reporting and data analytics customers to understand, design, and document complex reporting and analytics needs and are able to coordinate all issues that arise during the reporting and data analytics assignments and projects. The business intelligence developer will analyze problems often without precedent and/or existing structure within UCSF Health and Benioff Children’s Hospitals, and address complex problems with an organization-wide scope. The BID will perform data analysis using independent judgment and technical expertise, as well as a basic understanding of the business operations of the area s/he/they are supporting. This position will support the delivery of outstanding patient care, operational performance, quality, and improvement efforts to help streamline processes and decision-making with a focus on EHR reporting, data analysis, and visualization for UCSF Health, Benioff Children’s Hospitals, and our affiliates. As part of the data analysis and reporting efforts, this position will focus on providing expertise across different data systems (All Epic EHR reporting tools, SQL, Tableau, etc.). This position will be an embedded member of the Clinical Systems application teams to manage the analysis of data, evaluation of data, get feedback from key stakeholders and use data to support the key workflows and performance of our hospitals, clinics, staff, programs, and operations.
+
+Attention to detail and strong communication with a variety of end users are critical skills for this position. Works to help other users learn and adopt the development standards and enjoys helping users enhance their data visualization and reporting skills. Requires strong EHR application knowledge and technical skills, and expert analytical abilities in the areas of data extraction, report generation, and information visualization, including but not limited to all EHR reporting tools, reporting workbench, radar, slicerdicer, SQL server, and Tableau. This role should understand how the data they produce fits into and supports the core workflows of their area of focus. The business intelligence developer might also develop user training aids and train end users in the use of reports & reporting functions & tools.
+Required Qualifications
+Bachelor's degree in health care information technology, computer science, or related area, and/or equivalent combination of experience/training.
+5 – 7 years of related experience.
+Epic Application Administration Certification (Within 6 months of hire)
+Epic Clarity Data Model (Within 6 months of hire)
+Expertise in EHR application(s) and a good working knowledge of how the application(s) collect and store data.
+Expertise in Epic Clarity and Caboodle data structures or equivalent databases, with the ability to independently analyze new data models to support the analytic and data needs of customers
+High proficiency with EHR reporting tools, SQL, as well as in the use of business intelligence tools such as SAP universe, web intelligence, and Crystal Reports. Ability to perform complex data analysis with large volumes of data.
+Prior experience developing self-service analytic tools utilizing slicerdicer, tableau desktop and/or tableau server
+Advanced organizational and project management skills, with the ability to lead a team, prioritize tasks, and see projects through from inception to completion on schedule.
+Advanced interpersonal communications skills, to convey highly technical information and instructions to all levels of clinical users in a clear and concise manner, to provide technical support, and to develop and deliver training materials as needed.
+Ability to apply advanced problem-resolution skills to highly complex issues, quickly diagnose problems, and develop, test, and implement appropriate and effective solutions in a timely manner.
+Advanced analytical skills and expertise in documentation and reporting, with the ability to apply metrics, design and run queries, collect and analyze performance data, and produce sophisticated reports and analyses for management use.
+Advanced ability to serve as a technical leader and information resource, and to work collaboratively with senior staff and management across departments, providing advice, counsel, and analysis on issues of policy, functionality, system efficiency, upgrades, business analytics, and industry advances and trends.
+Having an in-depth understanding of both the clinical and business workflows to achieve strategic outcomes for the implementation
+May be responsible for leading/mentoring other developers within the team
+Preferred Qualifications
+Master’s degree or doctorate in computer science or related area.
+License/Certification
+Epic Application Administration Certification (Within 6 months of hire)
+Epic Clarity Data Model (Within 6 months of hire)
+About UCSF
+At UCSF Health, our mission of innovative patient care, advanced technology and pioneering research is redefining what’s possible for the patients we serve – a promise we share with the professionals who make up our team.
+
+Consistently ranked among the top 10 hospitals nationwide by U.S. News & World Report – UCSF Health is committed to providing the most rewarding work experience while delivering the best care available anywhere. In an environment that allows for continuous learning and opportunities for professional growth, UCSF Health offers the ideal atmosphere in which to best use your skills and talents.
+Pride Values
+UCSF is a diverse community made of people with many skills and talents. We seek candidates whose work experience or community service has prepared them to contribute to our commitment to professionalism, respect, integrity, diversity and excellence – also known as our PRIDE values.
+
+In addition to our PRIDE values, UCSF is committed to equity – both in how we deliver care as well as our workforce. We are committed to building a broadly diverse community, nurturing a culture that is welcoming and supportive, and engaging diverse ideas for the provision of culturally competent education, discovery, and patient care. Additional information about UCSF is available at diversity.ucsf.edu
+
+Join us to find a rewarding career contributing to improving healthcare worldwide.
+Equal Employment Opportunity
+The University of California San Francisco is an Equal Opportunity/Affirmative Action Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, age, protected veteran or disabled status, or genetic information.
+Organization
+Health
+Job Code and Payroll Title
+006049 CLIN INFORMATICS SPEC 4
+Job Category
+Clinical Systems / IT Professionals
+Bargaining Unit
+99 - Policy-Covered (No Bargaining Unit)
+Employee Class
+Career
+Percentage
+100%
+Location
+Remote / Telecommute
+Shift
+Days
+Shift Length
+8 Hours
+Additional Shift Details
+Monday - Friday

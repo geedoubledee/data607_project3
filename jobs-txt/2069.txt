@@ -1,0 +1,45 @@
+Location
+Phoenix, AZ
+Description
+-Job Description: -
+Technical/Functional Skills-
+Python, Java, SQL, TensorFlow, Pandas, matplotlib, Jupiter, Tableau, Hadoop
+Roles & Responsibilities:
+Designing Client systems.
+Researching and implementing Client algorithms and tools.
+Selecting appropriate data sets.
+Picking appropriate data representation methods.
+Identifying differences in data distribution that affects model performance.
+Verifying data quality.
+Transforming and converting data science prototypes.
+Performing statistical analysis.
+Running machine learning tests.
+Using results to improve models.
+Training and retraining systems when needed.
+Extending machine learning libraries.
+Developing machine learning apps according to client requirements
+Regards
+Ayush Raj
+Technical Recruiter
+desk phone 551-310- 0689 extn 5256
+phone 469-581-9288
+Emonics LLC
+1260 Centennial Ave, Suite 1A
+Piscataway, NJ- 08854
+www.emonics.com
+Job Type: Full-time
+Salary: $110,000.00 - $125,000.00 per year
+Benefits:
+401(k)
+401(k) matching
+Dental insurance
+Health insurance
+Life insurance
+Schedule:
+8 hour shift
+Ability to commute/relocate:
+Phoenix, AZ 85008: Reliably commute or planning to relocate before starting work (Required)
+Experience:
+Python: 3 years (Required)
+Machine learning: 3 years (Required)
+Work Location: One location

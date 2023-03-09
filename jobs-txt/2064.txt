@@ -1,0 +1,42 @@
+Company Description
+
+Data & Analysis – AD, Data Science
+We are the connected marketing agency, a full-service agency with modern creative & media, data, and technology services all under one roof.
+We are connected in the way we think and the way we work. At the heart of our company are great people that we call Unicorns. Our Unicorns are open, bold, and curious and love to solve complex problems for clients in unique ways.
+The Data & Analysis team uses data-driven insights to fuel strategic growth for clients. We believe that data should never exist in a vacuum; instead, it should be put to work to bring the best ideas and stories to our clients.
+Digitas’ Data Science practice sits within our DNA (Data & Analysis) capability and develops industry-leading analytical solutions for clients across industries, channels and business functions. We apply a bespoke and cutting-edge arsenal of statistical, analytical and computing techniques to complex data problems at scale, with an emphasis on game-changing - and measurable - business impact. We work in close collaboration with colleagues across all agency disciplines to develop truly innovative, highly effective, data-powered solutions for our clients.
+To help with this, we’re looking for an outstanding Associate Director, Data Science – an experienced professional and passionate problem solver to evangelize our offering within the agency. Sound like you? Read on.
+
+Job Description
+
+What you’ll do:
+Our Data Scientists deliver analytic solutions across a wide variety of client applications. We build inferential and predictive models, including machine learning algorithms and AI; we process, integrate and manipulate big data with distributed systems and customer data pipelines; we synthesize results and translate findings into compelling stories that resonate with clients.
+As an AD, Data Science, you’ll help define and lead analytic solutions that contribute to the suite of Data Science offerings.
+Day-to-day, your role includes:
+Leading cross-functional teams to define, implement and promote cutting-edge analytical and data engineering solutions with new and existing clients such as:
+o End-to-end customer data integration, activation and enablement.
+o Rigorous statistical modeling and inferential analysis.
+o Machine learning and AI development and applications.
+Providing strategic vision and alignment for client engagements.
+Synthesizing complex, technical concepts and outputs into compelling story lines that resonate with a variety of technical and non-technical audiences.
+Engaging with colleagues across the agency to identify new and improved pathways for data-powered solutions.
+Providing expertise in fundamental skill areas such as statistical methods, machine learning, AI, cloud computing, and programming with open-source languages.
+
+We’re looking for rigorous analytic breadth and depth and 7+ years professional experience in a data science or analytics role, which typically includes:
+Experience leading and executing projects that span data engineering, data mining, data modeling, and business strategy.
+Robust, fundamental expertise in areas of statistical methods, distributed computing, machine learning, AI, and a variety of open-source programming languages
+Experience integrating a variety of data sources, methods, and applications to achieve specific objectives
+Flexibility to operate across technologies, industries, or level of scale and complexity
+Demonstrated ability to flex seamlessly from highly technical, analytical discussions to higher level, strategic conversations
+
+Got what it takes? We’d love to hear from you.
+Digitas is an equal opportunity employer.
+
+About Digitas
+Digitas is the Connected Marketing agency, built on the principle that there are better ways for brands to connect with people. We leverage comprehensive data, technology, creative, media and strategy capabilities to deliver Media-Fueled Creativity via connected Solutions that include Connected Campaigns, Social Marketing, Brand Experience, CRM & Loyalty, and Marketing Transformation. A Leader in Gartner’s Magic Quadrant for Global Marketing Agencies for six consecutive years, Digitas serves the world’s leading brands through a global network comprised of more than 4,000 employees across over 30 countries and 50 offices. For more information visit www.digitas.com.
+
+Additional Information
+
+Compensation Range: $106,500 - $167,500 annually. This is the pay range the Company believes it will pay for this position at the time of this posting. Consistent with applicable law, compensation will be determined based on the skills, qualifications, and experience of the applicant along with the requirements of the position, and the Company reserves the right to modify this pay range at any time. For this role, the Company will offer medical coverage, dental, vision, disability, 401k, and paid time off. If your requirements fall outside of this range, you are still welcome to apply.
+
+All your information will be kept confidential according to EEO guidelines.

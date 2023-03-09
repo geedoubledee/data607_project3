@@ -1,0 +1,22 @@
+Decide is an AI company that crowdsources decisions to achieve better outcomes. Our flagship product, the Decision Marketplace℠, is an ever-growing marketplace of intelligent models that gets smarter with every addition. Today, the Decision Marketplace is powering our ad platform to offer brands and publishers a future-proof solution for a cookieless world, but in the coming years, we expect that the scope of our work will expand.
+Decide is looking for an experienced ML Engineer to join our Applied ML team. As an ML Engineer, you will work closely with data scientists, analysts, and other engineers to ensure our machine learning models can be used in the real world.
+
+This role will report directly to the CTO.
+
+What you'll do
+
+Enhance our ETL pipeline
+Streamline feature encoding, model training, and deployment for a marketplace of ML models
+Support sub 50ms, high-transaction inferencing and decision execution
+
+Your skills and experience should include
+
+At least 2 years of experience using Applied Machine Learning techniques
+Extensive experience with Python
+Reasonable exposure to JavaScript and Node.js is a plus
+Prior experience with MLOps is strongly preferred
+Familiarity with GCP is strongly preferred
+Familiarity with TensorFlow is strongly preferred
+Degree in a quantitative field (e.g., computer science, engineering, physics, mathematics, etc.) is often helpful, but not required
+Located in or around Austin, TX or St. Louis, MO is preferred, but not required
+Decide values a diverse team. We do not discriminate on the basis of race, religion, sex, gender identity, sexual orientation, age, ability, national origin, veteran status, or any other basis in our employment decisions. We welcome all to apply.

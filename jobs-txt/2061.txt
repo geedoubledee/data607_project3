@@ -1,0 +1,36 @@
+Responsibilities:
+Lead the collaboration with business stakeholders and work with product owners to identify, analyze and document portfolio and program level business requirements
+Analyze the requirements and process flows to develop Epics and user stories
+Work with the product management team and product owner to understand deliverables and sprint dependencies, impact on the project scope, etc.
+Define functional and non-functional requirements and work with the project team to prioritize deliverables.
+Participate in backlog refinement sessions and assist the product owner in prioritization of user stories.
+Performing analysis to assess quality of project data.
+Identify anomalies and ensure that they are maintained through closure.
+Work with the Scrum team during the agile sprint cycles to clarify user stories.
+Work with the automation testing team during test planning, test preparation and execution activities to clarify user stories and acceptance criteria.
+Participate in PI planning, Inspect and Adapt, and Retrospective sessions, systems demo, testing activities and in some cases, UAT activities
+Support the design and modification of business systems or IT systems.
+Interact with the business stakeholders and subject matter experts to understand their problems and needs.
+Gather, document, and analyze business needs and technical requirements
+Propose solutions to business problems and as needed, design solutions
+Document the functional design of the system
+Interact with system architects, developers, and testers to ensure the system is properly implemented
+Review and create system documentation and user manuals
+Requirements:
+Six years of related experience with a Bachelor's degree; or 3 years and a Master's degree; or at least 8 years of Business Analysis activities
+Solid Experience with Agile methodology and tools (such as JIRA, Confluence) would be required
+Ability to work independently with minimal supervision required
+Interviewing skills, to talk with individuals and groups about their needs and ask the right questions to surface essential requirements information
+Listening skills, to understand what people say and to detect what they might be hesitant to say
+Analytical skills, to critically evaluate the information gathered from multiple sources, reconcile conflicts, decompose high-level information into details, abstract up from low-level information to a more general understanding
+distinguish presented user requests from the underlying true needs, and distinguish solution ideas from requirements
+Observational skills, to validate data obtained via other techniques and expose new areas for elicitation
+Writing skills, to communicate information effectively to program management, product owners, and technical teams
+Interpersonal skills, to help negotiate priorities and to resolve conflicts among project stakeholders (such as portfolio management, product management, and Scrum teams)
+High degree of confidence and ability to influence others through strong communication skills
+EEO Employer:
+RELI Group is an Equal Employment Opportunity / Affirmative Action employer. All qualified applicants will receive consideration for employment without regard to race, color, national origin, ancestry, citizenship status, military status, protected veteran status, religion, creed, physical or mental disability, medical condition, marital status, sex, sexual orientation, gender, gender identity or expression, age, genetic information, or any other basis protected by law, ordinance, or regulation.
+HUBZone:
+RELI Group is an established SBA certified HUBZone and 8(a) small business. We encourage all candidates who live in a HUBZone to apply. You can check to see if your address is located in a HUBZone by accessing the SBA HUBZone Map.
+
+OC8NAkyyzE

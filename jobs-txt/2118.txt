@@ -1,0 +1,38 @@
+Posted Date: Nov 17, 2022
+Requisition Number: 115898
+Location: Remote
+Duration: Spring 2023
+
+WHY HERSHEY?
+The Hershey Company is a global fortune 500 company that is a recognized leader in the Consumer Packaged Goods industry. Our goal is to integrate students with our knowledgeable and successful teams in order to maintain a fresh perspective on an ever-changing world. Every day presents new challenges and opportunities to learn, grow and innovate. Are you up for the challenge? Are you ready to make a difference?
+
+WHY SUPPLY CHAIN AT HERSHEY?
+The Supply Chain organization at The Hershey Company has open internships for analytically minded, tech-savvy undergraduate and graduate students. Technology and analytics are elemental to all aspects of Hershey’s supply chain. Hershey has a diverse global team focused on providing robust innovative capabilities, partnering on analysis to drive successful business outcomes and embraces an entrepreneurial mindset to create an environment that is exciting, compelling, innovative and dynamic.
+
+We are looking to fill a Data Scientist Co-Op role with the Supply and Demand Planning Center of Excellence. This role will be focused on using implementing analytical methods through software to understand, improve and monitor our forecasting system and process. Additional data related problems are continuously arising; additional opportunities will be available based on experience/skill level. This work ensures the most accurate forecasts are being used to impact multiple facets of our supply chain planning.
+
+RESPONSIBILITIES:
+Collaborates with IT to prepare and manipulate structured and unstructured data for data discovery and mining from multiple, disparate, resources.
+Builds high-end analytic models, utilizing supervised and unsupervised learning models, to support decision makers with data driven insights that address immediate business problems and objectives.
+Creates informative visualizations that intuitively display large amounts of data and/or complex relationships.
+Translates data analytics into coherent reports and presentations for internal and external customer with varying degrees of technical knowledge.
+
+QUALIFICATIONS:
+Passion for analytical problem solving.
+Pro-active problem solver who continually asks why to understand root causes.
+Experience with R or Python, SQL.
+Knowledge of advanced statistical techniques and concepts (regression, properties of distributions, statistical tests and proper usage, etc.) and experience with applications.
+Knowledge of machine learning techniques and approaches (feature engineering, classification, clustering, decision trees, etc.).
+Knowledge of time series analysis and forecasting a plus.
+Familiar with software engineering tools and processes (git, repositories, containers, devops, PyCharm,etc.).
+Quick learner through formal and self-guided education.
+Ability to work in teams or individually.
+Courage to challenge the status quo and take smart risks.
+Excellent written and verbal communication skills for coordinating across teams.
+
+EDUCATION:
+Bachelors degree candidates in quantitative, STEM focused programs are preferred (e.g. Business, Computer Science, Engineering, Economics, Mathematics, Statistics)
+Demonstrated experience with, and knowledge of, tools and techniques will also be considered.
+
+
+Nearest Major Market: Harrisburg

@@ -1,0 +1,37 @@
+Habitat for Humanity International is seeking a Business Intelligence Developer III. The Business Intelligence Developer III, is responsible for preparing and analyzing data, building reports, and visualizations, and interpreting results to generate organizational insights and inform decision-making.
+
+Responsibilities:
+Analyze data and build reports and dashboards using tools such as PowerBI, Tableau, and SQL Server Reporting Services
+Work with the Business Systems Analyst and the BI Solutions Architect to develop business requirements and documentation using industry-standard best practices
+Build, Maintain, monitor, and improve existing reports, metrics, ETL jobs, and dashboards.
+Develop test plans to validate dashboard and report data
+Perform ad-hoc analysis supporting special projects.
+
+Minimum Requirements:
+Education: Bachelor’s degree in Information Systems, Data Analytics, Computer Science, or related field
+Years of Related Experience: 5+ years of experience in business intelligence or analytics
+Proficient in SQL and Transact-SQL
+Experience with ETL development using tools such as Informatica, SSIS, or Azure Data Factory
+Skilled with logical and physical data modeling tools and techniques.
+Expert-level knowledge of the capabilities of industry-standard BI Tools, such as Tableau and Power BI
+Proven data analysis and storytelling
+Experience with data warehouses, data marts, and data lakes
+Understanding of business intelligence and data governance concepts and technologies
+Ability to analyze, understand, and document complex business processes and their underlying data
+Ability to work on multiple simultaneous projects in a fast-paced environment
+Excellent interpersonal skills-experience working with all levels of the organization, both technical and non-technical.
+Pursuant to current HFHI policy, this position requires full vaccination against COVID-19, except to the extent such requirement is prohibited by applicable law.
+
+Preferred – in addition to the minimum:
+Experience working in a fully remote environment
+Experience working with non-profit organizations
+Exposure to non-profit constituent relationship management or fundraising systems (Blackbaud CRM, Luminate Online, Revolution CRM, Salesforce Nonprofit Cloud, or similar)
+Experience working with non-profit financial systems data
+Active support of HFHI Values:
+o Humility – We are part of something bigger than ourselves
+o Courage – We do what’s right, even when it is difficult or unpopular
+o Accountability – We take personal responsibility for Habitat’s mission
+Safeguarding: HFHI requires that all employees take seriously their ethical responsibilities to safeguarding our intended beneficiaries, their communities, and all those with whom we work. Managers at all levels have responsibilities to support and develop systems that create and maintain an environment that prevents harassment, sexual exploitation and abuse, safeguards the rights of beneficiaries and community members (especially children), and promotes the implementation of Habitat for Humanity’s code of conduct.
+
+#LI-BW1
+#LI-Remote

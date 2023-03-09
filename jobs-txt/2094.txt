@@ -1,0 +1,46 @@
+POSITION TITLE: Business Analyst (P.3.a)
+
+CLASSIFICATION: Exempt
+REPORTS TO: Lead Product Manager
+DIRECT REPORTS: None
+
+ABOUT US
+MortgageHippo is a leading, consumer-centric digital lending platform processing thousands of loan applications totaling billions of dollars every month. The platform is used by hundreds of lenders ranging from IMBs to Banks and Credit Unions. The company’s platform is the only modern, Point-of-Sale solution available in the market that enables lenders to very quickly and cost-effectively customize workflows, business rules, UI, data flows between systems and many other aspects of the platform through its easy-to-use, no-code/low-code editors.
+
+THE ROLE & RESPONSIBILITIES
+We’re looking for a Business Analyst with extensive mortgage industry experience. You’ll be a key member of our product team, providing critical subject matter expertise.
+What you'll do:
+Evaluate and coordinate customer requests, understanding mortgage workflow, product enhancements, regulatory updates and application customization strategies for MortgageHippo implementations.
+Act as liaison between the business units, technical staff, and 3rd party vendors.
+Define/review business requirements to capture business needs and guide new change initiatives.
+Develop user stories, acceptance criteria, test plans, and test cases, support execution and documentation of product testing validation.
+Work, in partnership, with partners, including close partnership with Engineering and Customer functions as well as with external vendors and partners.
+Accountability for capturing action items, issues, and risks associated with assigned projects. Follow up on items with appropriate parties to ensure their resolution and/or advance issues in a timely fashion.
+Coordinate, document testing progress and issue tracking. Participate in testing as needed.
+Analyzing new mortgage industry products, including new offerings in up and downstream systems, assess impacts on existing applications.
+Work multiple projects concurrently and shift priorities as required to meet business requirements, deadlines and departmental goals and objectives.
+Organized, excellent communication skills (written and verbal), results oriented, and professional.
+You'll be a great fit for this role if you have:
+Experience in mortgage software platforms.
+Experience in project management
+Ability to translate business needs into requirements.
+An demonstrated interest in the mortgage industry.
+
+QUALIFICATIONS
+3+ years in the mortgage industry, preferably with a mortgage lender and/or with a SAAS mortgage software vendor.
+Proficiency with office applications.
+Excellent organizational skills, interpersonal skills, and ability to interpret and analyze data.
+The ability to coordinate/manage multiple projects for multiple clients.
+The ability to communicate both in writing and verbally with developers and clients, including the ability to write formal business requirements and specification documentation.
+
+WHAT WE OFFER
+You will work with smart and creative people who are passionate about solving tough problems.
+Health insurance
+Remote work options
+Macbook Pro or equivalent PC
+Paid time off
+Flexible scheduling
+Professional development
+
+Equal Employment Opportunity Statement
+It is the policy of MortgageHippo to provide equal employment opportunity (EEO) to all persons regardless of age, color, national origin, citizenship status, physical or mental disability, race, religion, creed, gender, sex, sexual orientation, gender identity and/or expression, genetic information, marital status, status with regard to public assistance, veteran status, or any other characteristic protected by federal, state or local law. In addition, MortgageHippo will provide reasonable accommodations for qualified individuals with disabilities.

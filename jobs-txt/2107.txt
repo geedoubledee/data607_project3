@@ -1,0 +1,33 @@
+Hello,
+Greetings from Hanker Systems Inc!!!
+Pleasure mailing you. I wanted to touch base with your regarding one of our client opportunities. Please go through the below requirement and let me know if you are comfortable with the position.
+Please send me your updated resume along with the best rate cap, visa status, and availability. Early response is appreciated.
+Job Title: Business Analyst
+Location: Salem, OR (Hybrid)
+Duration: 12+months
+Description of Job
+Individuals in this position have demonstrated experience in the standard concepts, practices, and deliverables related to Business Analysis in support of software development projects. Understands how to gather and document requirements. Has a working knowledge of the software development lifecycle. Works under limited supervision with considerable latitude for the use of initiative and independent judgment. Some familiarity with the use of standard market Testing tools. Requires a bachelor's degree in area of specialty and at least 9 years or equivalent experience in the field or in a related area.
+The Inventory Management System Analyst position will assist with Market research and analysis for transitioning from the legacy on-premise software to using the web-based tool
+Support transition from on-premise legacy Inventory Management System (IMS) to web-based platform
+Map processes in warehouse/distribution center to specific steps and attributes in the IMS tool including “Receive Pallet”, “Build a Box”, “Build a Pallet”, “Move Pallet in Warehouse”, etc
+Ensure New system is intuitive and easy to use for volunteers – remove or automate unnecessary system steps such as sales order, invoice, purchase order, etc
+Ensure boxes and pallets can be tracked via unique ID and barcode that relates back to the system and can be integrated via scanner
+Configure tool including adding custom attributes, validation rules, workflow/approval steps and other changes such as item expiration date, country of origin, manufacturer
+Required Technical Skills:
+Experience with UML, Process Modeling, Data Analysis, Business requirement documentation, Use cases and flow charts
+Onsite availability is 'Nice to have' for candidates, but not required.
+Estimated Duration
+12/01/2022 - 11/30/2023
+Thanks
+Anikesh Sagar
+Direct: 813-336-1908
+5401 W Kennedy Blvd #100, Tampa, FL 33609
+Job Type: Full-time
+Salary: $45.00 - $65.00 per hour
+Schedule:
+8 hour shift
+Ability to commute/relocate:
+Salem, OR 97301: Reliably commute or planning to relocate before starting work (Required)
+Experience:
+SQL: 1 year (Preferred)
+Work Location: Hybrid remote in Salem, OR 97301

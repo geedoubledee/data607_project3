@@ -1,0 +1,49 @@
+Position Purpose:
+The Software Engineer will focus on developing Business Intelligence reporting to create visualizations highlighting the successes, metrics, and processes for projects, programs, and ongoing initiatives. These reports may cover, but are not limited to, performance metrics, KPI metrics, contact center metrics, as well as ITIL Service Management reporting. The Software Engineer will play a key role connecting with the customer, learning their business and processes, gathering and understanding requirements, setting up and maintaining data pipeline jobs as necessary, writing code to aggregate, combine, and/or transform data, building visualizations, making certain the report meets and continues to meet customer needs, as well as anticipating new and future needs. Additionally, the Software Engineer will research new Business Intelligence technologies and contribute to continuous service improvement.
+Key Responsibilities:
+60% Delivers and Executes - Assists in developing, testing, deploying, and maintaining software; Follows best practices established by the organization and participates in improvement conversations; Consistently helps the team achieve results, even under tough circumstances
+20% Learns and Grows - Learns through successful and failed experiment when tackling new problems; Actively seeks ways to grow and be challenged using both formal and informal development channels
+20% Plans and Aligns - Builds partnerships and works collaboratively with others to meet shared objectives; Collaborates with other team members in agile processes; Relates openly and comfortably with diverse groups of people
+Direct Manager/Direct Reports:
+This position typically reports to Software Engineer Manager or Sr. Manager
+This position has 0 Direct Reports
+Travel Requirements:
+No travel required.
+Physical Requirements:
+Most of the time is spent sitting in a comfortable position and there is frequent opportunity to move about. On rare occasions there may be a need to move or lift light articles.
+Working Conditions:
+Located in a comfortable indoor area. Any unpleasant conditions would be infrequent and not objectionable.
+Minimum Qualifications:
+Must be eighteen years of age or older.
+Must be legally permitted to work in the United States.
+Preferred Qualifications:
+Proficiency with SQL (Microsoft T-SQL and Microsoft SQL Server Preferred)
+Experience in standard Business Intelligence Platform (Tableau preferred)
+Knowledge of Contact & ITIL Service Management metrics preferred
+Exposure in iterative delivery working in a fast pace, professional team enviornment
+Exposure to Machine Learning
+Minimum Education:
+The knowledge, skills and abilities typically acquired through the completion of a bachelor's degree program or equivalent degree in a field of study related to the job.
+Preferred Education:
+No additional education
+Minimum Years of Work Experience:
+1
+Preferred Years of Work Experience:
+No additional years of experience
+Minimum Leadership Experience:
+None
+Preferred Leadership Experience:
+None
+Certifications:
+None
+Competencies:
+Global Perspective
+Manages Ambiguity
+Nimble Learning
+Self-Development
+Collaborates
+Cultivates Innovation
+Situational Adaptability
+Communicates Effectively
+Drives Results
+Interpersonal Savvy

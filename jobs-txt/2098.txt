@@ -1,0 +1,40 @@
+The Liberty Mutual Global Retail Markets (GRM) US Data Analytics and Engineering (DAE) team is seeking a passionate data practitioner and leader as Director, Customer, Marketing, Digital and Service Engineering. This leader has deep experience in leading data engineering teams to build data solutions to enable holistic and effective Customer, Marketing, Digital and Service analytics, data lake, data warehouse, data science/advanced analytics and cloud technologies. You will be central to the implementation of several GRM US strategic initiatives which will provide data insights through reporting, analytics, data science and frontline applications. This role reports to the Senior Director GRM US Business Data Solutions Engineering (BDSE) as part of the Global DAE (Data Analytics Engineering team.
+About the role:
+Build a strong partnership with the Product Owners (PO) and leadership for Customer, Marketing, Digital and Service business functional domains.
+Partner closely with Enterprise Architecture and Data Strategy and Design teams on data solutions ensuring consistent use of design standards and patterns and on the data transformation initiative to re-design existing data warehouse and lake ecosystems.
+Lead the application teams, PO's and DAE/BDSE to define and implement business and IT vision and roadmap for customer MDM, campaign management, customer analytics, and many other Customer 360 related data solutions
+Build and direct a team of managers, scrum masters, engineers, and technologists to work in a fun environment and culture while driving high standards of achievement as “one data team.”
+Partner with DAE Portfolio leadership to drive team to mature and scale agile, provide consistent metrics and efficient processes.
+Lead your team in building data solutions which span all data platforms – Data Lake (relational, NoSQL), data warehouse/lakehouse (Snowflake and new technologies) and data tools (Data Visualization, Data Catalog, Data Virtualization and Advanced Analytics/Data Science).
+Build collaborative relationships with IT technology peers in all GRM US business domains; Customer, Marketing, Digital, Service Sales/Distribution and Claims Direct OLTP and frontline systems to ensure solutions align and are factored-into agile planning process.
+Devise talent strategy for the team – identify resource gaps or inefficiencies, build hiring plan, recommend promotions and manage performance for consistency with the needs and vision of the department.
+Define individual performance objectives and development plans and ensure alignment with project and department objectives.
+Initiate and foster business partnerships with current and potential clients, vendors, IT executives, and senior business executives; develops relationships that promote trust and increase efficiency and effectiveness; balances individual client needs with business priorities assuring alignment with the business strategies and objectives.
+Establish financial plan for department and manage to plan; ensures project financial plans are met by managers in department. Jointly establishes financial targets with business partners.
+Develop and maintain a network of industry contacts; performs or directs research on industry trends, competitors, business and IT products; analyzes trends and makes strategic and tactical recommendations.
+Qualifications
+Bachelor's or master's degree in technical or business discipline or related experience; Master's Degree preferred.
+Ten (10) or more years hands-on data analytics, data lake, data warehouse and/or analytic experience.
+Proactive leadership skills with (5) five or more years people leadership experience.
+A “bar-raiser” mentality and are driven to motivate and lead teams to achieve great things
+In-depth knowledge of project planning methodologies, IT standards and guidelines.
+Customer passion, business focus and the ability to negotiate, facilitate and build consensus.
+The ability to promote a team environment across a large set of separate agile teams and stakeholders.
+Strong team management, financial / budget management, organizational, communication and presentation skills.
+Strong vendor and offshore staffing experience.
+Preferred Qualifications:
+Experience with delivering Customer 360, Omnichannel capabilities and Reltio MDM
+Experience with driving CICD and DevOps capabilities to improve speed to market
+Experience with Snowflake, Snaplogic, Informatica and Power BI
+Experience with AWS data lake technologies – S3, EMR, Athena, Glacier
+Experience in leading a Managed Service implementation
+Working knowledge of metadata management, data modeling, data catalog or related tools (Erwin or ER Studio, Alation).
+At Liberty Mutual, our purpose is to help people embrace today and confidently pursue tomorrow. That's why we provide an environment focused on openness, inclusion, trust and respect. Here, you'll discover our expansive range of roles, and a workplace where we aim to help turn your passion into a rewarding profession.
+
+Liberty Mutual has proudly been recognized as a “Great Place to Work” by Great Place to Work® US for the past several years. We were also selected as one of the “100 Best Places to Work in IT” on IDG's Insider Pro and Computerworld's 2020 list. For many years running, we have been named by Forbes as one of America's Best Employers for Women and one of America's Best Employers for New Graduates—as well as one of America's Best Employers for Diversity. To learn more about our commitment to diversity and inclusion please visit: https://jobs.libertymutualgroup.com/diversity-inclusion
+
+We value your hard work, integrity and commitment to make things better, and we put people first by offering you benefits that support your life and well-being. To learn more about our benefit offerings please visit: https://LMI.co/Benefits
+
+Liberty Mutual is an equal opportunity employer. We will not tolerate discrimination on the basis of race, color, national origin, sex, sexual orientation, gender identity, religion, age, disability, veteran's status, pregnancy, genetic information or on any basis prohibited by federal, state or local law.
+
+20

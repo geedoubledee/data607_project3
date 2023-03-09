@@ -1,0 +1,38 @@
+About Cirkul, Inc.
+Cirkul is a venture backed, direct-to-consumer startup company that develops transformational hydration products that reimagine how flavored beverages are created, personalized, and enjoyed at home and on-the-go. You may have read about us going viral on TikTok (https://www.bizjournals.com/tampabay/inno/stories/news/2021/06/15/tampa-startup-hires-100-after-going-viral-on-tikto.html) or partnering with some great investors here (https://www.bevnet.com/news/2021/cirkul-closes-30m-series-b-led-by-af-ventures/).
+Overview
+We are looking for a Senior Data Engineer to join our growing data team. This hire will be responsible for expanding and optimizing our data and data pipeline architecture, as well as optimizing data flow and collection for cross functional teams. The ideal candidate is an experienced data pipeline builder and data wrangler who enjoys optimizing data systems and building them from the ground up. The Senior Data Engineer will support our software developers, data analysts and data scientists on data initiatives and will ensure an optimal data delivery architecture that is consistent throughout ongoing projects. They must be self-directed and comfortable supporting the data needs of multiple teams, systems and products. The right candidate will be excited by the prospect of optimizing or even re-designing our company’s data architecture to support our next generation of products and data initiatives.
+Responsibilities
+Create and maintain optimal data pipeline architecture
+Assemble large, complex data sets that meet functional / non-functional business requirements.
+Identify, design, and implement internal process improvements: automating manual processes, optimizing data delivery, re-designing infrastructure for greater scalability, etc.
+Build the infrastructure required for optimal extraction, transformation, and loading of data from a wide variety of data sources using Python and/or Node.js, SQL (using dbt for transformation), commercial SaaS and OSS offerings, and AWS ‘big data’ technologies.
+Work with stakeholders to assist with data-related technical issues and support their data infrastructure needs.
+Qualifications
+7+ years of experience in a Data Engineer role at a fast-growing tech company
+Proven experience working with various tools but more importantly, familiarity with how to best assemble and deploy a production-ready data stack to any cloud environment
+BS in a quantitative or scientific field such as computer science, computer engineering or equivalent experience
+Advanced working knowledge of Python & Node.js
+Exceptional fluency with SQL; you conquered the join venn diagram long ago and have moved on to explaining cost based optimization to your peers on the engineering team
+Experience with orchestration tools such as Airflow, Dagster, or Prefect, with big data tools such as Kafka & Spark, and with dbt
+Experience with AWS cloud services including EC2, EMR, RDS, Redshift
+Experience ingesting, processing, and visualizing data sources of varying types - structured/relational and unstructured
+Experience developing, managing, and manipulating large, complex datasets
+Experience performing root cause analysis on internal and external data and processes to answer specific business questions and identify opportunities for improvement.
+Strong project management and organizational skills.
+Experience supporting and working with cross-functional teams in a dynamic environment.
+A Little More About Cirkul
+Cirkul is a rapidly growing beverage technology company on a mission to make a healthier world by helping people enjoy drinking more water. The company has developed an innovative beverage delivery system that makes drinking more water delicious, fun, and personalized. The technology reduces the shipping weight of bottled beverages by 99% and uses 84% less plastic. Cirkul offers its customers over 50 unique flavors, all with no sugar, zero calories, zero carbs, no artificial colors or flavors, and a range of functional enhancements. Hundreds of thousands of consumers are using Cirkul to transition away from single-use plastics and sugar-filled beverages to healthier, better-for-you alternatives. The company is growing at a tremendous pace, is consistently profitable, and is backed by world class investors.
+Cirkul, Inc. is an Equal Opportunity Employer. We believe in hiring a diverse workforce and are committed to sustaining an equitable and inclusive, people-first environment. We do not discriminate on the basis of race, color, religion, sex, sexual orientation, gender identity, national origin, protected veteran status, or disability status. If you'd like more information about your EEO rights as an applicant under the law, please download the available EEO is the Law & EEO is the Law Supplement documents.
+Job Type: Full-time
+Benefits:
+401(k)
+Dental insurance
+Health insurance
+Paid time off
+Vision insurance
+Schedule:
+8 hour shift
+Ability to commute/relocate:
+Watertown, MA 02472: Reliably commute or planning to relocate before starting work (Required)
+Work Location: One location

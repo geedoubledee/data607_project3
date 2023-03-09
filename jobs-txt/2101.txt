@@ -1,0 +1,19 @@
+Paliwoda Labs is looking for Junior Researchers to join our Data team: Students in Data Science who contribute to the work we do in large-scale data analysis and visualization, while enhancing their own academic skills and competencies within themes that suit their interests; and who may eventually move to technical or co-founder roles within our Ventures portfolio companies — projects they helped to grow.
+
+Junior Researchers are assigned to projects in the Data Lab under the expert direct supervision of researchers already working with founders from the Ventures portfolio. Expect deep involvement in many aspects of each startup you are supporting to better understand business challenges, and to offer applicable technical solutions with a lean mindset that guides them through their growth and development.
+Primary Responsibilities:
+Gather data to train algorithms in one or more of the following areas: deep learning (convolutional neural networks), object detection/classification, tracking, multi-task learning, large-scale distributed training, multi-sensor fusion, etc.
+Train neural networks on a computer cluster in large-scale distributed settings.
+Optimize deep neural networks and associated pre/post-processing code to efficiently run on embedded devices.
+Communicate new findings to stakeholders via newsletters and social media.
+Help to co-ordinate resources and expertise for hosted “datathon” events.
+
+Minimum Requirements:
+Experience with Python programming, debugging/profiling, and version control.
+Comfortable working in computer cluster environments, with an understanding of related computer systems concepts (CPU/GPU interactions/transfers, latency/throughput bottlenecks during training of neural networks, CUDA, pipelining/multiprocessing, etc.)
+Understanding of the fundamentals of deep learning (layer details, back-propagation, etc.)
+Experience with a major deep learning framework (PyTorch, TensorFlow, MXNet, etc.)
+Experience with data science tools (Python scripting, numpy, scipy, matplotlib, scikit-learn, jupyter notebooks, bash scripting, Linux environment.)
+About Paliwoda Labs:
+
+Paliwoda Labs is our incubator for bold experimentation and innovation, with a focus on practical applications that help startups attract investment capital. We partner with entrepreneurs to nurture their ideas at early stages; offering technical assistance to demonstrate initial viability, and mentorship to align the strategic vision of founders with paths toward monetization and profitability. The Data Lab practice provides a diverse range of expertise for crafting data-centric applications that create value in the "real world" through data analysis and visualization, and innovative storytelling.

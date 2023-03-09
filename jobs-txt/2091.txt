@@ -1,0 +1,30 @@
+GTIConnect is seeking a Business Intelligence Developer to assist in providing innovative production solutions for a project with a Federal Client. Primary responsibilities for this key role include, but are not limited to:
+Support business intelligence solution architecture, design, development, implementation, and administration for a mid-sized federal client across a complex data landscape
+Act as a team member for the development of technical and functional requirements leveraging multiple artifacts and documentation throughout an iterative, Agile development lifecycle
+Leverage strong conceptual and technical knowledge of business intelligence (BI) tools like MicroStrategy, software components, design, development, and integration best practices to develop impactful BI solutions
+Participate in requirements gathering discussions and collect the appropriate level of detail required to and drive towards immediate technical results to solve client problems
+Provide conceptual and technical knowledge thought leadership of BI MicroStrategy tools architecture, software components, design, development and integration best practices across development workstream
+Job Requirements include, but are not limited to:
+Experience leading data analysis, data modeling and evaluation of new Business Intelligence technologies, features and products to synthesize innovative production solutions
+Experience installing, upgrading, administering, maintaining and troubleshooting MicroStrategy product suite software components to tune and optimize performance
+Experience demonstrating MicroStrategy development tools including Architect, Desktop, Web, Mobile, Object Manager, Enterprise Manager and Command Manage
+Experience applying SDLC best practices in a consulting environment with demonstrated ability to quickly decipher, analyze, translate and prototype MicroStrategy solutions in Agile development sprints
+Demonstrated ability to build trusted advisor relationships with clients
+Experience supporting sales and business development
+Required:
+Certifications: MicroStrategy Certified Developer
+Due to federal client requirements, only US Citizens can be considered
+Must Be Eligible to Obtain Government Public Trust
+Job Type: Full-time
+Pay: $92,039.70 - $130,831.43 per year
+Benefits:
+401(k)
+Dental insurance
+Health insurance
+Paid time off
+Vision insurance
+Schedule:
+8 hour shift
+Day shift
+Monday to Friday
+Work Location: Remote

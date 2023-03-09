@@ -1,0 +1,21 @@
+Top skills:
+Confluent or Apache Kafka (ability to ingest data into snowflake)
+Snowflake is preferred, almost a must
+Python for automation
+SQL server or other DB knowledge
+Preferred:
+Public cloud knowledge, specifically Azure
+ETL tools
+Responsibilities:
+Build constructive partnerships with business leadership to proactively recommend solutions to business issues through practical, elegant, and effective business intelligence and reporting vehicles.
+Direct deployment of enterprise data strategy vision through successful program delivery
+Collaborate with global and contractor leaders to develop partnerships that allow for capacity flexibility and offer equivalent and or superior quality delivery capability
+Effectively manages a balanced scorecard metric set that would include key measures such as quality & timely delivery.
+Incorporate best practices and standards in metadata and report/dashboard development
+Translates highly complex concepts in ways that can be understood by a variety of audiences
+Function as a mentor for other team members, providing assistance where needed
+Job Types: Full-time, Contract
+Salary: $20.00 - $50.00 per hour
+Schedule:
+Monday to Friday
+Work Location: Hybrid remote in Richville, MN 56576

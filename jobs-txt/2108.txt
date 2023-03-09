@@ -1,0 +1,60 @@
+Plano ISD Management Information Systems Department is looking for an Business Intelligence Developer. If interested, candidates must do the following:
+**Eligible for Remote Work- Must reside in Texas**
+Interested candidates must complete an online application with Plano ISD by visiting: https://www.pisd.edu/Page/5527
+and
+Send resume/cover letter to the email listed on the job posting at the link above.
+Business Intelligence Developer - Plano ISD
+Primary Purpose:
+This position works with key stakeholders across different business areas to gather requirements and develop reporting solutions and visualization dashboards for data driven decision-making. Organize administrative, financial, and student data from multiple sources using business intelligence (BI) tools, databases, and programming methodologies to synthesize results into meaningful information. This position is eligible for remote work.
+Qualifications:
+Education/Certification:
+Bachelor’s degree in Computer Science or related field preferred
+Industry certifications preferred
+Experience:
+Five years of experience designing, developing, and implementing business intelligence (BI) solutions for effective data analysis. Experience in K12 education and PowerSchool ERP/SIS a plus.
+Five years of experience creating data reports and visualization dashboards
+Five years of experience using Systems Development Life Cycle (SDLC)
+Five years of experience with Microsoft BI technology (Power BI, SSRS, SSAS, SSIS)
+Special Knowledge/Skills:
+Ability to extract data from various enterprise data sources and connect, import and transform data for business intelligence and analysis
+Ability to relate business goals to data elements and structures to support performance measurements and indicators
+Strong attention to detail with a critical eye toward data validation
+Ability to develop best practices and resolve technical issues
+Excellent verbal and written communications skills; able to manage multiple priorities effectively
+Ability to develop and maintain effective working relationships
+Major Responsibilities and Duties:
+Design, develop, and deploy business intelligence solutions and reporting methodologies for communicating status and trends to leadership in both ad-hoc and automated formal reports
+Develop and implement compelling dashboards using data to “tell a story” and provide insights into key data points
+Partner with business stakeholders to gather business requirements and translate business needs into comprehensive reporting solutions for data analysis
+Identify ways to streamline report generation and provide business leaders with resources to enable informed decision-making, including self-service tools that enable users to analyze data through various business dimensions with visibility to granular and historical data
+Identify and resolve data reporting and data integrity issues in a timely fashion while looking for continuous improvement opportunities
+Support BI tools and database updates through development, testing, debugging and documentation
+Maintain up-to-date documentation, including diagrams, on all BI/applications development, database systems, integration services, and connectivity
+Be customer service oriented and maintain a professional approach regarding all district matters
+Perform R&D, remain knowledgeable of emerging trends in technology, and keep abreast of innovative practices
+Attain and keep current, relevant technology certifications
+Perform special projects, after-hours support and upgrades, and other related duties
+Follow all rules, regulations, and policies of Plano ISD and follow directives from supervisor
+Follow attendance policy as assigned by supervisor
+Perform other functions that may be assigned by the Administration and/or supervisor
+Equipment Used:
+Computer, scanner, printer, copier, calculator
+Working Conditions:
+Mental Demands:
+Reading; ability to communicate effectively (verbal and written); maintain emotional control under stress; work with frequent interruptions
+Job Type: Full-time
+Pay: From $76,050.90 per year
+Benefits:
+Dental insurance
+Employee assistance program
+Health insurance
+Health savings account
+Life insurance
+Paid time off
+Retirement plan
+Vision insurance
+Schedule:
+Monday to Friday
+Education:
+Bachelor's (Preferred)
+Work Location: One location

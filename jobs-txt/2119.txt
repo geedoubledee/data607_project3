@@ -1,0 +1,69 @@
+Position Purpose:
+
+The Data Science Strategy Sr. Manager is responsible for building and executing the operating model for the Online and Marketing Data Analytics team. This operating model will determine process, structure, training and prioritization. The role will:
+Build flexibility in the Data Analytics team to support evolving enterprise priorities
+Lead the delivery of cross functional data projects
+Implement strategies that increase adoption of self-serve data products and insights
+As a Data Science Sr. Manager, you will also provide executive summaries to all levels of the organization and leverage your business knowledge and network to identify opportunities to leverage data science solutions.
+The above responsibilities require building relationships, a digital analytics background, an understanding of organizational strategy and experience with agile project delivery.
+
+Major Tasks, Responsibilities & Key Accountabilities:
+50% People Management & Team Leadership - Provide leadership, mentorship and coaching to direct reports and evaluate performance, execution, and contribution; Support Data Science Director in establishing a clear vision for the team and influencing reach with business partners; Attract, retain and develop top talent to build an effective and high performing teams; Support team in development of business knowledge and technical skills with clear plans and regular assessment of progress; Develop onboarding and training plan for both technical and soft skills that will ensure high level of capabilities within the team; Foster collaboration and alignment between different data science roles to develop a supportive and engaged team; Ensure best practices and world-class techniques are leveraged in the solutioning for business problems and future team reach; Drive team's results and celebrate accomplishments
+15% Program Management - Prioritize and assign projects by striking a balance between a variety of factors, like funding, return on investment, innovative or challenging work, among others; Manage programs for the team to ensure consistency of execution, balance of resources and quality solutions; Collaborate with program managers and business partners to align on objectives and expectations and ensure project teams deliver against them; Serve as escalation point for any issues or difficulties with specific projects; Provide executive updates to leaders at all levels of the organization on program effectiveness, team accomplishments, summary of findings and recommended solution, and explain internal and external impacts; Be a champion and advocate for the team's capabilities, expertise, and needs
+25% Strategy & Business Development - Leverage extensive business knowledge and relationships to seek out new business opportunities to leverage data science and advocate for team's skills; Effectively develop trust and collaboration with internal customers and cross-functional teams; Ensure alignment with IT support model, collaboration, tools and governance to enable data scientists to be most effective in executing their roles; Collaborate with other data science managers across the organization to lead the efforts of developing high level strategy and optimizing talent management
+10% Technical Exploration & Development - Seek further knowledge on key developments within data science, technical skill sets, and additional data sources; Participate in the continuous improvement of data science and analytics by developing replicable solutions (for example, codified data products, project documentation, process flowcharts) to ensure solutions are leveraged for future projects; Ensure best practices and vision for data analysis and model productionalization are leveraged
+
+Nature and Scope:
+This position reports to Director or above
+This position has Direct Reports and manages programs
+
+Environmental Job Requirements:
+Environment:
+1. Located in a comfortable indoor area. Any unpleasant conditions would be infrequent and not objectionable.
+Travel:
+Typically requires overnight travel 5% to 20% of the time.
+Standard Minimum Qualifications:
+Must be eighteen years of age or older.
+Must be legally permitted to work in the United States.
+
+Additional Minimum Qualifications:
+Demonstrated proficiency in predictive modeling, data mining and data analysis
+Proficient managing and growing team members in a professional setting
+Proficiency in guiding more junior team members through Data Science fundamentals in a professional setting
+Demonstrated experience with translating high level strategy to tactical execution
+
+Education Required:
+The knowledge, skills and abilities typically acquired through the completion of a bachelor's degree program or equivalent degree in a field of study related to the job.
+
+Years of Relevant Work Experience:
+10 years
+
+Physical Requirements:
+Most of the time is spent sitting in a comfortable position and there is frequent opportunity to move about. On rare occasions there may be a need to move or lift light articles.
+
+Preferred Qualifications:
+11+ years of experience in business intelligence and analytics
+Previous people or project team management experience
+Demonstrated expertise in predictive modeling, data mining and data analysis
+Mastery running queries against data (preferably with Google BigQuery or SQL)
+Proficient with data visualization software (preferably Tableau)
+Mastery utilizing statistical techniques to identify key insights that help solve business problems
+Proficient in Prescriptive Modeling like optimization, computer vision, recommendation, search or NLP
+
+Knowledge, Skills, Abilities and Competencies:
+Attracts Top Talent: Attracting and selecting the best talent to meet current and future business needs
+Builds Effective Teams: Building strong-identity teams that apply their diverse skills and perspectives to achieve common goals
+Builds Networks: Effectively building formal and informal relationship networks inside and outside the organization
+Business Insight: Applying knowledge of the business and the marketplace to advance the organization's goals
+Communicates Effectively: Developing and delivering multi-mode communications that convey a clear understanding of the unique needs of different audiences
+Develops Talent: Developing people to meet both their career goals and the organization's goals
+Directs Work: Provides direction, delegating and removing obstacles to get work done
+Drives Engagement: Creating an environment where people are motivated to do their best to help the organization achieve its objectives
+Drives Vision and Purpose: Painting a compelling picture of the vision and strategy that motivates others to action
+Instills Trust: Gaining the confidence and trust of others through honesty, integrity, and authenticity
+Interpersonal Savvy: Relating openly and comfortably with diverse groups of people
+Organizational Savvy: Maneuvering comfortably through complex policy, process, and people-related organizational dynamics
+Persuades: Using compelling arguments to gain the support and commitment of others
+Strategic Mindset: Seeing ahead to future possibilities and translating them into breakthrough strategies
+
+Pay Rate: $280,000 - $140,000

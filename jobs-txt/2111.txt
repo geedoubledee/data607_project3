@@ -1,0 +1,53 @@
+Position Summary
+Caris Life Sciences is looking for a creative, driven, and goal-oriented data scientist for R&D to enable and expand the Caris suite of histopathology biomarkers. This role will be responsible for developing computer vision-based machine learning algorithms and analytic pipelines to drive Caris' research initiatives forward, including designing, developing, and maintaining the machine learning infrastructure. The successful candidate will possess proficient analytical capability, a solid scientific background, strong communication skills, and a passion for personalized medicine and innovation. In addition, the position has numerous opportunities for publishing scientific results.
+Job Responsibilities
+Developing, implementing, refining, and testing algorithms and workflows that achieve strategic goals in image biomarker discovery, molecular profiling, and R&D objectives.
+Tasked with developing, implementing, refining, and testing algorithms and workflows to achieve the project's specific goal.
+Working with pathologists to create diverse feature sets and annotate ground truth cohorts.
+Developing state-of-the-art predictive models with both structured and unstructured data sets.
+Manipulate and process large multisource data sets.
+Respond to, and manage ad hoc requests to deliver accurate, in-depth results/data, in a timely matter.
+Adhere to coding and documentation standards and manage deliverables for areas of responsibility.
+Required Qualifications
+PhD in Data Science, Computational Biology, Mathematics, Computer Science, Engineering, or a related field with exposure to cancer biology.
+Ability to understand biological/pathology questions and formulate novel statistical and algorithmic solutions to challenging problems.
+Proficiency in at least one general-purpose programming language (Python, Java, C/C+, etc.); Python preferred
+Familiar with Linux environment and git.
+Ability to query complex data from databases, both relational and non-relational (SQL and noSQL).
+Proficient in using machine/deep learning frameworks and libraries, such as PyTorch, Tensorflow, Keras, OpenCV, etc.
+Current hands-on experience with state-of-the-art classification, segmentation, and object detection approaches.
+Experience with end-to-end data science workflows.
+Experience working with biomedical imaging. Experience with histopathology scanned slides is a plus.
+Proficient verbal and written communication skills to explain complex technical details in clear language.
+Proficient in Microsoft Office Suite, specifically Word, Excel, Outlook, and general working knowledge of Internet for business use.
+Conditions of Employment: Individuals must successfully complete pre-employment process, which includes criminal background check, drug screening, and reference verification. Also, individual must be fully vaccinated for COVID-19 by the date of hire to be considered for U.S.-based jobs, if not currently employed by Caris Life Sciences.
+Physical Demands
+Will work at a computer most of the time, with some time spent collaborating with subject matter experts and business group leaders either in person or through remote conferencing
+Training
+All job specific, safety, and compliance training are assigned based on the job functions associated with this employee.
+This job description reflects management’s assignment of essential functions. Nothing in this job description restricts management’s right to assign or reassign duties and responsibilities to this job at any time.
+Caris Life Sciences is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, religion, color, national origin, gender, gender identity, sexual orientation, age, status as a protected veteran, among other things, or status as a qualified individual with disability.
+Job Type: Full-time
+Pay: $110,000.00 - $125,000.00 per year
+Benefits:
+401(k)
+Dental insurance
+Health insurance
+Life insurance
+Paid time off
+Retirement plan
+Vision insurance
+Schedule:
+8 hour shift
+Supplemental pay types:
+Bonus pay
+COVID-19 considerations:
+All employees are required to be fully vaccinated.
+Ability to commute/relocate:
+Irving, TX 75062: Reliably commute or planning to relocate before starting work (Required)
+Education:
+Doctorate (Required)
+Experience:
+Python: 1 year (Preferred)
+SQL: 1 year (Preferred)
+Work Location: One location

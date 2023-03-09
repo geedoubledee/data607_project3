@@ -1,0 +1,41 @@
+The Oracle Database Administrator is a highly skilled technical position that involves intricate knowledge of Oracle databases. You will be responsible for all critical functions that the database administrator performs including database configuration, tuning, maintenance, patching, and problem diagnosis and resolution in development, UAT and production environments. We're seeking a great teammate that is willing to dig in and do what it takes to make the team successful. Effective communication with the IS Application teams is critical to achieving success with this position.
+
+Your responsibilities will include but are not limited to:
+Identifying and resolving problems occurring in all database environments including performance related issues (i.e. database & SQL tuning). Performing database software installs, configurations, patches, and upgrades for on-prem and cloud servers. Supporting DBA activities, reorgs, index builds, etc. Supporting Oracle GoldenGate and Active Data Guard replication. Proficient in utilizing DBA tools like Oracle Enterprise Manager, TOAD, etc. Assisting with Disaster Recovery testing. Participating in 24/7 on-call rotation.
+
+Pay Range
+The typical pay range for this role is:
+Minimum: 60,300
+Maximum: 126,600
+
+Please keep in mind that this range represents the pay range for all positions in the job grade within which this position falls. The actual salary offer will take into account a wide range of factors, including location.
+
+Required Qualifications
+5+ years experience supporting critical databases in a high profile type of organization.
+5+ years experience in Oracle, to include:
+2+ years Oracle RAC experience.
+2+ years of Oracle GoldenGate experience.
+2+ years of Active Data Guard experience.
+2+ years of automation experience
+
+Preferred Qualifications
+Experience in Oracle Enterprise Manager (OEM) and Unix OS.
+Experience in Microsoft Azure, Google Cloud Platform, Oracle Cloud Infrastructure.
+Experience with other RDBMS platforms such as PostgreSQL, SQLServer, DB2, etc is a plus.
+Highly organized, ability to multitask.
+Solid ability to diagnose issues and problem solve.
+Demonstrated ability to utilize communication skills to express ideas in a logical, decisive manner.
+Understanding of SAFe Agile
+Understanding of DevOps and CI/CD tools
+Experience with Ansible
+
+Education
+Bachelor's Degree or equivalent work experience required, plus one additional year of experience required for each year of college not attained.
+
+Business Overview
+Bring your heart to CVS Health
+Every one of us at CVS Health shares a single, clear purpose: Bringing our heart to every moment of your health. This purpose guides our commitment to deliver enhanced human-centric health care for a rapidly changing world. Anchored in our brand — with heart at its center — our purpose sends a personal message that how we deliver our services is just as important as what we deliver.
+
+Our Heart At Work Behaviors™ support this purpose. We want everyone who works at CVS Health to feel empowered by the role they play in transforming our culture and accelerating our ability to innovate and deliver solutions to make health care more personal, convenient and affordable.
+We strive to promote and sustain a culture of diversity, inclusion and belonging every day.
+CVS Health is an affirmative action employer, and is an equal opportunity employer, as are the physician-owned businesses for which CVS Health provides management services. We do not discriminate in recruiting, hiring, promotion, or any other personnel action based on race, ethnicity, color, national origin, sex/gender, sexual orientation, gender identity or expression, religion, age, disability, protected veteran status, or any other characteristic protected by applicable federal, state, or local law.

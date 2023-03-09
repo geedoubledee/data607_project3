@@ -1,0 +1,60 @@
+Data Engineer
+Workplace: Seattle, Washington, US
+Position is Hybrid, need local candidate.
+Mandatory Skills: Informatica ICS (IICS) or Informatica power center, Azure
+Position Summary
+The Data Engineer is responsible for developing data pipelines and/or data integrations for Costco’s enterprise certified data sets that are used for business critical data consumption use cases (i.e. Reporting, Data Science/Machine Learning, Data APIs, etc.). At Costco, we are on a mission to significantly leverage data to provide better products and services for our members. This role is focused on data engineering to build and deliver automated data pipelines from a plethora of internal and external data sources. The Data Engineer will partner with product owners, engineering, and data platform teams to design, build, test, and automate data pipelines that are relied upon across the company as the single source of truth.
+Job Duties/Essential Functions
+Develops and operationalizes data pipelines to create enterprise certified data sets that are made available for consumption (BI, Advanced analytics, APIs/Services).
+Works in tandem with Data Architects, Data Stewards, and Data Quality Engineers to design data pipelines and recommends ongoing optimization of data storage, data ingestion, data quality, and orchestration.
+Designs, develops, and implements ETL/ELT processes using Informatica Intelligent Cloud Services (IICS).
+Uses Azure services such as Azure SQL DW (Synapse), ADLS, Azure Event Hub, Cosmos, Databricks, Delta-Lake to improve and speed up delivery of our data products and services.
+Implements big data and NoSQL solutions by developing scalable data processing platforms to drive high-value insights to the organization.
+Identifies, designs, and implements internal process improvements; automates manual processes and optimizes data delivery.
+Identifies ways to improve data reliability, efficiency, and quality of data management.
+Communicates technical concepts to non-technical audiences both in written and verbal form.
+Performs peer reviews for other data engineers’ work.
+Regular and reliable workplace attendance at your assigned location.
+Ability to operate vehicles, equipment or machinery.
+Computer, phone, printer, copier, fax
+Non-Essential Functions
+Assists in other areas of the department as necessary.
+Assists in other areas of the company as necessary.
+Ability to operate vehicles, equipment or machinery.
+Same as essential functions
+Experience, Skills, Education & Licenses/Certifications
+Required:
+5+ years’ experience engineering and operationalizing data pipelines with large and complex datasets.
+3+ years’ hands-on experience with Informatica PowerCenter.
+2+ years’ hands-on experience with Informatica IICS.
+3+ years’ experience working with Cloud technologies such as ADLS, Azure Databricks, Spark, Azure Synapse, Cosmos DB, and other big data technologies.
+5+ years’ experience with Data Modeling, ETL, and Data Warehousing.
+Extensive experience working with various data sources (DB2, SQL,Oracle, flat files (csv, delimited), APIs, XML, JSON).
+Advanced SQL skills; solid understanding of relational databases and business data; ability to write complex SQL queries against a variety of data sources.
+Strong understanding of database storage concepts (data lake, relational databases, NoSQL, Graph, data warehousing).
+Able to work in a fast-paced agile development environment.
+Recommended:
+BA/BS in Computer Science, Engineering, or equivalent software/services experience.
+Azure Certifications.
+Experience implementing data integration techniques such as event/message based integration (Kafka, Azure Event Hub), ETL.
+Experience with Git / Azure DevOps.
+Experience delivering data solutions through agile software development methodologies.
+Exposure to the retail industry.
+Excellent verbal and written communication skills.
+Experience working with SAP integration tools including BODS.
+Experience with UC4 Job Scheduler.
+Successful internal candidates will have spent one year or more on their current team.
+Job Types: Full-time, Contract
+Pay: $69.00 - $73.00 per hour
+Schedule:
+8 hour shift
+Ability to commute/relocate:
+Seattle, WA 98101: Reliably commute or planning to relocate before starting work (Required)
+Application Question(s):
+How many years of experience in Informatica Power Center?
+How many years of experience in IICS?
+Experience:
+Informatica: 5 years (Required)
+Azure: 3 years (Required)
+ETL: 5 years (Required)
+Work Location: One location

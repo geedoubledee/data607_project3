@@ -1,0 +1,56 @@
+Develops, validates and executes algorithms and predictive models to investigate problems, detect patterns and recommend solutions
+
+Explores, examines and interprets large volumes of data in various forms
+
+Performs analyses of structured and unstructured data to solve moderately complex business problems
+
+Utilizing advanced statistical techniques and mathematical analyses
+
+Develops data structures and pipelines to organize, collect and standardize data that helps generate insights and addresses reporting needs
+
+Uses data visualization techniques to effectively communicate analytical results and support business decisions
+
+Creates and evaluates the data needs of assigned projects and assures the integrity of the data
+
+Explores existing data and recommends additional sources of data for improvements
+
+Documents projects including business objectives, data gathering and processing, detailed set of results and analytical metrics
+
+Primary location is NYC. Candidates in EST preferred.
+
+Pay Range
+The typical pay range for this role is:
+Minimum: 60,000
+Maximum: 128,700
+
+Please keep in mind that this range represents the pay range for all positions in the job grade within which this position falls. The actual salary offer will take into account a wide range of factors, including location.
+
+Required Qualifications
+1+ years of relevant analytic experience
+
+Experience programming using Python
+
+Experience in SQL
+
+Preferred Qualifications
+Healthcare industry experience with policy, claims, products, and systems.
+
+2 years of healthcare or pharmaceutical industry experience is preferred.
+
+Demonstrates good written and verbal communication skills. Able to present information to various audiences
+
+Effectively resolves problems and roadblocks as they occur
+
+Demonstrates proficiency in several areas of data modeling, machine learning algorithms, statistical analysis, data engineering and data visualization
+
+Ability to work with large data sets from multiple data sources
+
+Experience in Medical Billing, FWA, etc.
+
+Education
+Bachelor's degree or equivalent work experience in Mathematics, Statistics, Computer Science, Business Analytics, Economics, Physics, Engineering, or related discipline.
+
+Master's degree preferred
+
+Business Overview
+Bring your heart to CVS Health Every one of us at CVS Health shares a single, clear purpose: Bringing our heart to every moment of your health. This purpose guides our commitment to deliver enhanced human-centric health care for a rapidly changing world. Anchored in our brand — with heart at its center — our purpose sends a personal message that how we deliver our services is just as important as what we deliver. Our Heart At Work Behaviors™ support this purpose. We want everyone who works at CVS Health to feel empowered by the role they play in transforming our culture and accelerating our ability to innovate and deliver solutions to make health care more personal, convenient and affordable. We strive to promote and sustain a culture of diversity, inclusion and belonging every day. CVS Health is an affirmative action employer, and is an equal opportunity employer, as are the physician-owned businesses for which CVS Health provides management services. We do not discriminate in recruiting, hiring, promotion, or any other personnel action based on race, ethnicity, color, national origin, sex/gender, sexual orientation, gender identity or expression, religion, age, disability, protected veteran status, or any other characteristic protected by applicable federal, state, or local law. We proudly support and encourage people with military experience (active, veterans, reservists and National Guard) as well as military spouses to apply for CVS Health job opportunities.

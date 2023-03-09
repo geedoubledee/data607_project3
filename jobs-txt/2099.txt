@@ -1,0 +1,39 @@
+Come join a winning team! Here at Imprivata, you’ll see a dedicated group of professionals who care about improving healthcare. Our team thrives on collaboration and sharing ideas, whether in a cross-functional meeting or at one of our virtual team-building events.
+While we're diverse in our backgrounds and skills, we have much in common. A passion for our mission. A strong sense of integrity. A belief that we're making a positive impact and a commitment to having fun.
+We are seeking a Machine Learning Engineer II to join our team.
+
+The ML Engineer works as a member of the date-engineering team developing and supporting infrastructure serving our data science and artificial intelligence (AI) models. This team interfaces with the product and data science teams to build systems to meet customer objectives securely and safely. This team is responsible for all infrastructure, code, and CI/CD supporting our AI products as well as owners of data (databases, warehouses, etc.).
+
+Duties and Responsibilities:
+
+Develop, test, and maintain data pipelines for ingesting data from our various platforms (via SFTP, APIs, etc.).
+Develop infrastructure (containers, etc.) and infrastructure deployment methods (Terraform, etc.).
+Develop and maintain CI/CD pipelines.
+Develop and maintain testing environments for our infrastructure (Kubernetes, etc.) and our data science team.
+Develop APIs for serving model results (or equivalent) back to our platforms.
+Develop data platforms for our various data streams, ensuring data quality, validation, and downstream AI tasks are accounted for.
+Maintain enterprise cloud (AWS, Azure, Google Cloud) infrastructure or cloud-native infrastructure.
+Design and maintain logging and metric infrastructure to ensure up-time and reporting of key metrics external to our team.
+Qualifications:
+Minimum of a Bachelor’s in computer science, mathematics, or related degree focusing on these subjects, or equivalent industry experience.
+Ability to quickly learn to maintain and advance our data and infrastructure environments.
+Shows ability to solve problems and minimize technical footprint and technical debt.
+Strong understanding of version control (git or equivalent).
+Strong understanding of containers and container orchestrators.
+Comfortable developing from a Linux environment.
+Practical hands-on experience in at least one enterprise cloud vendor, preferably AWS (Athena, Batch, CDK, IAM, S3, Step Function, etc..).
+Practical hands-on experience writing production-grade code in Python, or an equivalent language.
+Understanding of relational databases and other data infrastructure are preferred.
+Experience building APIs is preferred.
+Working Conditions:
+
+Indoor office environment.
+Physical Requirements:
+This role is regularly required to walk, climb stairs, sit, stand, talk, hear, and use hands and fingers to operate a computer and telephone.
+At Imprivata, we have a top-notch work environment, developmental opportunities, a competitive total rewards package, and the desire to have fun. If you have the skills and qualifications as we have described above, we want to hear from you!
+
+Please keep in mind that all Imprivata open positions are posted on our careers page, which is the only way to apply for prospective employment at our company. We only contact candidates regarding their applications via @imprivata.com email addresses. For more information on how to remain vigilant about your personal security and privacy, you may refer to the FTC resources on Scams here and resources on Identity Theft and Online Security here.
+For more information about online scams, you may access the FBI Internet Crime resource page here. If you would like to report a scam, you may file an IC3 complaint with the FBI here.
+Imprivata provides equal employment opportunities, regardless of race, religion, age, sex, national origin, disability status, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state or local laws.
+
+#LI-Remote

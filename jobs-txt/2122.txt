@@ -1,0 +1,26 @@
+Location: 1000 Nicollet Mall, Minneapolis, Minnesota, United States, 55403-2542
+About us:
+Target is an iconic brand, a Fortune 50 company and one of America’s leading retailers.
+Behind one of the world’s best loved brands, is a uniquely capable and brilliant team of data analysts, scientists, product owners and engineers. The testing and measurement team drives continuous innovation and business growth through experimentation using testing and measurement philosophy for Target stores, Target.com and Target Mobile. The testing and measurement team plays a key role in identifying, testing and measuring the top growth opportunities at any given time. We are here to help Target improve the guest experience, whether guests shop us in stores, on Target.com or on Target Mobile.
+A role with Target’s testing and measurement team is a chance to help develop our in-house strength for quantifying the impact or minimizing the risk for a broad range of initiatives. Sometimes those initiatives are customer-facing as our clients look to optimize their business, but other times we apply advanced analytical methodologies on the internal products and processes our data sciences teams develop. We are in the process of adopting a responsible AI framework this person will champion and teach to others. As such, this role will be independent of modeling teams and will develop an independent perspective measuring possible unintended consequences for a broad range of algorithms.
+About the Job:
+Partner Consultation
+You’ll work closely with business, analyst, scientist, and teams to identify and prioritize existing models for exploration
+This requires someone passionate about data, modern customer prediction methods both online and offline, and the ability to bring objectivity to measuring impacts of current processes
+Improve Decision Making
+You’ll define the approach, develop the roadmap and lead ongoing review routines
+You’ll design and deliver insights using a mixture of analytical and visualization techniques
+Job duties may change at any time due to business and product needs
+About you:
+You are an expert in research areas such as measuring bias, ethics governance, artificial intelligence, machine learning, artificial intelligence ethics
+You have deep applied experience with the customer predictive model process, including attribute screening, using 3rd party data attributes and the overall scoring process
+You understand how to identify model bias, predictor drift and best practices for reporting on both
+You understand “protected class” predictors, and current industry trends across the data privacy conversation
+5-7 years of work experience in customer analytics, personalization, consulting, or data engineering roles
+Experience with analytics tools such as: DOMO, Hadoop/Hive, R, Python, Spark, and equivalent technologies
+Bachelor’s degree with strong academic performance in a quantitative field; or strong equivalent experience
+This position may be considered for a Full-Time Remote or Hybrid work arrangement based on Target’s needs. A Hybrid work arrangement means the team members core role will be a blend of virtual and onsite at a Target location. A Full-Time Remote work arrangement means the team member works full-time from home or an alternate location that’s not a Target location, does not have a desk at their primary HQ work location and may travel to HQ up to 4 times a year.
+The salary range is $118,200-$212,800.
+Pay is based on several factors including but not limited to education, work experience, certifications, etc. In addition to your salary, Target cares about and invests in you as a team member, so that you can take care of yourself and your family. Find competitive benefits from financial and education to well-being and beyond
+Americans with Disabilities Act (ADA)
+Target will provide reasonable accommodations (such as a qualified sign language interpreter or other personal assistance) with the application process upon your request as required to comply with applicable laws. If you have a disability and require assistance in this application process, please visit your nearest Target store or Distribution Center or reach out to Guest Services at 1-800-440-0680 for additional information.

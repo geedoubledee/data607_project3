@@ -1,0 +1,58 @@
+Who we are
+Acacia Center for Justice (Acacia) is a new non-profit that seeks to deliver and advocate for meaningful and effective access to justice and freedom for immigrants at risk of detention or deportation. Acacia works in partnership with a nationwide network of accountable and independent organizations committed to the critical work of providing legal orientation and representation services to adults and children facing deportation in the detained and non-detained settings. As a key part of this work, Acacia is responsible for delivering high quality research, evaluation and performance monitoring, and data analytics.
+Who you are
+The Director of Data Systems and Analytics will be responsible for developing and implementing an integrated data management and system architecture across the suite of programs, involving: data engineering, development of a program-wide codebase, and maintenance of data analytic environments, leveraging machine learning processes for the treatment of big data sets, code review, and review of data analytics for the purpose of contractually mandated reporting. In partnership with the Director of Research and Evaluation as well as the Managing Director of Research Evaluation and Data Analytics (REDA), this role is responsible for strategic planning and employment of cutting-edge technologies applied to all aspects of data management in support of the overarching research agenda. In this role, they will provide supervision, support, and mentorship to REDA staff working on projects and initiatives across the organization.
+The Director of Data Systems and Analytics will be primarily responsible for the following:
+Data reporting leadership
+Develop and manage immigration data analytics used to produce deliverables for mandatory reporting requirements across all programs
+Collaborate on program monitoring, evaluation and research initiatives with other senior leadership on REDA, finance, and program teams
+Support the development and implementation of a multi-year reporting, research and analytics agenda
+Support annual planning and budget development, in partnership with other REDA leadership
+Develop research proposals in support of fundraising, in partnership with other REDA leadership.
+Preparation of data system architecture for analysis and reporting
+Develop and oversee protocols for ensuring consistency in data science and analytics approaches, including code review, data integrity and security, and other quality control measures
+Oversee all aspects of data management and analysis across initiatives, including development of data collection and analysis process and protocols as needed.
+Data systems design and management
+Oversee all aspects of data ingestion as well as enhancements of the cloud based, data analytics space used by the REDA team
+Collaborate with IT staff, software designers, compliance officers and other key staff to develop strategies for maintaining the security of the data analytics space and optimizing the analytics capacities of Acacia’s program databases (which inhabit this space)
+Develop and implement data modeling techniques that allow for the integrated analysis of big data sets and Acacia program data (entered on Acacia databases) to meet contractually mandated reporting requirements
+Work with the Director of Research and Evaluation and the Managing Director of REDA to organize and update data outputs in conformity with reporting requirements, as well as other research and program evaluation goals.
+Hiring, supervision, and mentorship
+Build data science teams, including development of staffing plans, hiring, recruitment, and mentorship, while coordinating with other members of the REDA leadership team to ensure internal consistency and collaboration
+Supervise the data science and analytics portfolio on the REDA team, including managing relationships with external consultants and partners
+Supervise, support, and mentor an interdisciplinary team.
+Internal collaboration and support
+Partner with policy, program and communications staff to develop coordinated strategies that leverage data science tools to produce evidence-based messaging and materials.
+What qualifications do you have
+Required:
+Commitment to using analysis to address and undo racism and inequity in the immigration legal system; lived experience preferred
+Advanced graduate training, Ph.D., or equivalent and 6+ years of work experience, or equivalent applied experience over 8+ years
+Relevant work, educational background, or lived experience as a person directly impacted by the immigration system
+Project supervision experience (5+ years), which includes supervision of data science/analytics teams and demonstrated success in the accomplishment of project goals and management of timelines, scope, deliverables, and budget
+Advanced data science proficiencies and data analysis skill sets
+Exceptional written and oral communications skills, including the ability to translate and present technical processes to non-technical internal and external audiences
+Fluency in at least one programming language (e.g., R, Python, SQL, C/C++, Java); ability to learn R and other programming languages as-needed while in the role
+Working knowledge of the AWS data product ecosystem (e.g., S3, ECS, Athena) or similar cloud-based products
+Knowledge of federal government standards for cybersecurity and data privacy, and/or experience with best practices in these areas including handling of personally-identifiable information
+Working knowledge of Git and GitHub and dedication to using these tools to conduct peer code reviews and uphold coding standards
+Experience in working with dashboards or embedded embeds, through the use of software such as Tableau or Power BI or through collaboration with a development team
+In accordance with federal contracts, a National Crime Information Center (NCIC) check and an Electronic Questionnaire for Investigations Processing (e-QIP) security clearance are required for this position (for additional information: https://www.dcsa.mil/is/eqip/)
+Proficiency with Zoom, Slack, Microsoft Office, Outlook, Adobe, SharePoint, VPN, Smartsheet access, and other software applications as the need arises
+Physical presence in the U.S. required.
+Preferred:
+Experience in the fields of computer science, operations research, economics, quantitative sociology, computational social science, statistics, measurement, epidemiology, or a related field, or experience working on evaluation and measurement on federal contracts
+Experience using research to manage or evaluate work on federal programs
+Fluency in a language other than English spoken by people impacted by immigration enforcement in the United States
+Compensation and Benefits
+The compensation for this position is $146,000. The salary provided depends on factors including but not limited to professional and lived experience. The salary range listed is just one component of Acacia’s total compensation package for employees. Supporting Acacia staff—both personally and professionally—is our priority. To do this, we invest in the well-being of our staff through other rewards including generous paid time off, a comprehensive health insurance plan, student loan repayment benefits, professional development training opportunities and up to $2,000 annual for education costs and fees relevant to Acacia work, employer-funded retirement plan, and flexible time and remote work schedules.
+To Apply
+Please upload a resume and cover letter at the link provided or email admin@acaciajustice.org with Subject: ATTN: Human Resources / [Job Title], Acacia Center for Justice
+
+No phone calls, please. Only applicants selected for interviews will be contacted.
+
+As a federal contractor, and in order to ensure a healthy and safe work environment, Acacia Center for Justice is requiring all employees to be fully vaccinated and provide proof of their COVID-19 vaccine before their start date. Employees who cannot receive the vaccine because of a disability/medical contraindication or sincerely-held religious belief may request an accommodation (e.g., an exemption) to this requirement.
+Acacia is an equal opportunity/affirmative action employer. All qualified applicants will be considered for employment without unlawful discrimination based on race, color, creed, national origin, sex, age, disability, marital status, sexual orientation, military status, prior record of arrest or conviction, citizenship status, current employment status, or caregiver status.
+Acacia works to advance meaningful and effective access to justice and freedom for immigrants and challenge racial bias in an increasingly multicultural country and globally connected world. We value diverse experiences, including with respect to educational background and legal system contact, and depend on a diverse staff to carry out our mission.
+For more information about Acacia, please visit https://www.acaciajustice.org/
+Acacia Center for Justice is an equal opportunity/affirmative action employer. All qualified applicants will be considered for employment without unlawful discrimination based on race, color, creed, national origin, sex, age, disability, marital status, sexual orientation, military status, prior record of arrest or conviction, citizenship status, current employment status, or caregiver status.
+T7hTPJQIOz

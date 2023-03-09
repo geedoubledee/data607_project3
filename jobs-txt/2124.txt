@@ -1,0 +1,24 @@
+About RIOS
+RIOS Intelligent Machines, Inc. ("RIOS") is a technology company helping enterprises automate their entire factories, warehouses, or supply chain operations – by deploying AI-powered end-to-end robotic workcells that integrate within existing workflows. RIOS is the leader of fullstack AI-powered robotic workcells for factory automation and deploys its robotic fleet at scale to transform labor-intensive factories into "lights-out" factories of the future powered by robotics and AI. RIOS was founded by former Xerox PARC engineers and is headquartered in Menlo Park, CA. More information is available at www.rios.ai.
+The Role:
+RIOS is building one of the largest real-world datasets for model development. RIOS is looking for Data Engineers that can work with and collect RIOS datasets, participate in the development of and utilization of RIOS data collection and management infrastructure.
+Technical attributes of candidates may include some of the following:
+B.S. in Computer Science, Machine Learning, or related field (or equivalent) with 3+ years industrial experience
+Experience architecting data infrastructure for machine learning applications
+Knowledge in scaling data-driven systems
+Experience developing API's for interacting with backend storage infrastructure
+Expertise in Python, bash, linux systems, networking, object stores (e.g., S3)
+Expertise with databases such as SQL, NoSQL, and cloud solutions
+Attention to details such as documentation, version control and reproducibility
+Nice to Have:
+Experience with deep learning frameworks and tooling: Tensorflow, PyTorch, Databricks, etc.
+Experience with distributed data ingestion pipelines (Multi-cloud / multiple physical locations)
+Perks:
+Competitive salary package & Stock options for every employee
+Healthcare + dental + vision insurance plans
+401(k) plan
+Free lunch on-site at headquarters
+Paid parental leave
+Subsidized costs for internet / cellphone bills
+Flexible time off & paid holidays
+Social events + happy hours + team parties

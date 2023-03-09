@@ -1,0 +1,27 @@
+Robert Half is looking for a Business Intelligence Developer. Please apply today for immediate consideration.
+
+Responsibilities:
+You will be a member of the BI and Data Science team, you will help establish software for tasks associated.
+Assist developing, debugging, or designing of enterprise software applications or operating systems.
+Provide leadership and technical to other software developers.
+Design and implement changes to existing software architecture to meet changing needs.
+You will have project lead role.
+You will manage lower level personnel.
+You will work with backend operations, modeling, schemas, managers, and management commands. (Django)
+
+Python
+Django
+JavaScript
+MySQL
+HTML
+CSS
+
+Technology Doesn't Change the World, People Do.®
+
+Robert Half is the world’s first and largest specialized talent solutions firm that connects highly qualified job seekers to opportunities at great companies. We offer contract, temporary and permanent placement solutions for finance and accounting, technology, marketing and creative, legal, and administrative and customer support roles.
+
+Robert Half puts you in the best position to succeed by advocating on your behalf and promoting you to employers. We provide access to top jobs, competitive compensation and benefits, and free online training. Stay on top of every opportunity – even on the go. Download the Robert Half app and get 1-tap apply, instant notifications for AI-matched jobs, and more.
+
+Robert Half will consider qualified applicants with criminal histories in a manner consistent with the requirements of the San Francisco Fair Chance Ordinance. All applicants applying for U.S. job openings must be authorized to work in the United States. Benefits are available to temporary professionals. Visit https://roberthalf.gobenefits.net/ for more information.
+
+© 2022 Robert Half. An Equal Opportunity Employer. M/F/Disability/Veterans. By clicking “Apply Now,” you’re agreeing to Robert Half’s Terms of Use .

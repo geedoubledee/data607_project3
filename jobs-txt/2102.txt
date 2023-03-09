@@ -1,0 +1,38 @@
+US Citizenship required.
+The Junior SQL Server Database Administrator will maintain SQL Server databases by planning and monitoring. Specifically:
+Support database upgrades by maintaining, evaluating, and improving a transaction processing model.
+Answer user questions.
+Monitor database performance.
+Evaluate and resolve DB processing and programming problems.
+Secure database by preparing access and control policies and procedures.
+Implement disaster recovery procedures.
+Involved in tasks related to training users in database use.
+Assess database performance by developing a protocol for measurement of results and identification of problem areas.
+Qualifications
+A bachelor's degree in information technology or computer science.
+2-4 years of related database experience in maintaining databases in a production environment.
+Experience in improving database performance.
+Job Type: Full-time
+Benefits:
+401(k) matching
+Dental insurance
+Employee assistance program
+Flexible schedule
+Flexible spending account
+Health insurance
+Health savings account
+Life insurance
+Paid time off
+Professional development assistance
+Referral program
+Tuition reimbursement
+Vision insurance
+Schedule:
+Monday to Friday
+Ability to commute/relocate:
+Washington, DC 20228: Reliably commute or planning to relocate before starting work (Required)
+Application Question(s):
+Due to the needed security, U.S. Citizenship is required. Are you U.S. Citizen?
+Education:
+Bachelor's (Required)
+Work Location: Hybrid remote in Washington, DC 20228

@@ -1,0 +1,30 @@
+#TeamNextdoor
+Nextdoor is where you connect to the neighborhoods that matter to you so you can belong. Our purpose is to cultivate a kinder world where everyone has a neighborhood they can rely on.
+Neighbors around the world turn to Nextdoor daily to receive trusted information, give and get help, get things done, and build real-world connections with those nearby — neighbors, businesses, and public services. Today, neighbors rely on Nextdoor in more than 300,000 neighborhoods across 11 countries.
+Meet Your Future Neighbors
+At Nextdoor, machine learning is one of the most important teams we are growing. Machine learning is starting to transform our product through personalization, driving major impact across different parts of our platform including our newsfeed, our notifications, and our ads relevance. Our machine learning team is lean but hungry to drive even more impact and make Nextdoor the neighborhood hub for local exchange. We believe that ML will be an integral part of making Nextdoor valuable to our members. We also believe that ML should be ethical and encourage healthy habits and interaction, not addictive behavior. We are looking for great engineers who believe in the power of the local community to empower our members to make their communities great places to live.
+The Impact You'll Make
+You will be part of a scrappy and impactful team building data-intensive products, working with data and features. You will help build the foundational Machine Learning (ML) infrastructure that ML engineers will use for years to come as we ramp up our effort to introduce machine learning into our platform. You should be comfortable with petabytes of data, writing crisp design documentation, and building, debugging, and maintaining highly available distributed systems. The Machine Learning platform that you build will empower developers throughout Nextdoor to build better ML products more quickly than ever before.
+What You'll Bring to The Team
+You will design, implement and integrate the next generation of Machine Learning infrastructure to empower our Data Scientists and Machine Learning engineers to build machine learning (ML) models that make real-time decisions for the Nextdoor platform
+You will collaborate with other engineers and data scientists to create optimal experiences on the Core ML platform, including but not limited to: the featurestore, the real-time serving layer and the offline training system
+Bring a deep empathy for customer needs and insights as well as an intuitive grasp of the business problems we're trying to solve
+Extensive experience in one or more of the following languages: Python, Go, Java, or Scala
+Experience in designing, building, and debugging distributed systems
+Proven engineering skills. Experience of writing and maintaining high-quality production code
+A strong ability to partner with other data engineers throughout the company, and consult, design, and review their projects
+Strong collaboration and communication skills, both verbal and written
+Ability to succeed in a dynamic startup environment
+Bonus Points
+B.S. / Master in Computer Science, Applied Math, Statistics, Engineering or a related field
+2+ years of industry experience of applying machine learning at scale
+Experience with Python, Kubernetes, Go, Kafka, Docker, Spark, SQL, AWS and the Unix environment
+Experience with machine learning libraries and frameworks like Xgboost, Sklearn, TensorFlow, PyTorch, etc..
+Rewards
+Compensation, benefits, perks, and recognition programs at Nextdoor come together to create one overall rewards package.
+The starting salary for this role is expected to range from $120,000 to $192,000 on an annualized basis, or potentially greater in the event that your 'level' of proficiency exceeds the level expected for the role. Compensation may also vary by geography.
+We also expect to award a meaningful equity grant for this role. With equal quarterly vesting, your first vest date would be within the first 3 months of your start date.
+Overall, total compensation will vary depending on your relevant skills, experience, and qualifications.
+We have you covered! Nextdoor employees can choose between a variety of great health plans. We cover 100% of your personal monthly premium for health, dental, and vision – and provide a OneMedical membership for concierge care.
+At Nextdoor, we empower our employees to build stronger local communities. To create a platform where all feel welcome, we want our workforce to reflect the diversity of the neighbors we seek to serve. We encourage everyone interested in our purpose to apply. We do not discriminate on the basis of race, gender, religion, sexual orientation, age, or any other trait that unfairly targets a group of people. In accordance with the San Francisco Fair Chance Ordinance, we always consider qualified applicants with arrest and conviction records.
+#LI-Remote

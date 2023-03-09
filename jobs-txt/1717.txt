@@ -1,0 +1,23 @@
+As a Machine Learning Engineer at Zing Data, you'll help build cutting-edge natural language understanding systems to make data easy to query - working at the intersection of language, machine learning, and data analysis.
+
+Zing Data’s platform for mobile-friendly business intelligence means that we rethink how people ask questions of data - from new interfaces and modalities to handling complex data operations 'automagically' for users as if they had an experienced data scientist in their pocket.
+
+You’ll get competitive compensation, sweet offsites, company-provided health insurance, mobile-phone reimbursement, and a culture of learning and growth.
+
+While we are remote-first, we have staff in San Francisco and Boston, and prefer candidates who are in these two locations because it makes collaboration more seamless to be together in person occastionally.
+
+QUALIFICATIONS:
+At least 3 years of experience as a software engineer or machine learning engineer
+Fluent in computer science fundamentals and architecture design patterns
+Familiarity with Tensorflow, BERT, embeddings, deep learning, text parsing, and other core machine learning and natural language processing concepts and tools
+Familiarity with deploying memory-efficient models in production
+Exposure to common cloud architecture (GCP, AWS, Azure)
+Comfort with performance-tuning ML models
+Strong coding skills (Python, Java, etc.)
+
+ABOUT ZING:
+Zing Data is a MIT-founded, venture-backed pioneer making data easily accessible, collaborative, and usable anywhere. Trusted by startups and Fortune 1000 companies, Zing brings unprecedented simplicity to querying, visualizing, and aligning your team around data-driven insights.
+Zing is the first mobile app that lets you ask questions from data (not just view existing dashboards), collaborate with Google-docs like @mentions and shared questions, and empower everybody in your organization to make data-driven decisions whether they’re in the field or the boardroom.
+Free to use for up to ten people, Zing makes complex questions just a few taps on your phone - much like Robinhood transformed stock trading with simple, mobile-first tools.
+Our founding team holds multiple machine learning patents and brings experience from Facebook, LinkedIn, Rakuten, and Microsoft. We founded and sold multiple companies before building Zing. We’re driven, ambitious, thoughtful, curious, and eager to build a world where great decisions are informed by data for everybody at a company – no statistics degree, desktop, or big budget required.
+Zing is inclusive and we welcome great people regardless of race, religion, veteran status, age, disability, gender identification, or sexual orientation.

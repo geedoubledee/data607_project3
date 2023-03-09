@@ -1,0 +1,23 @@
+About Zilliz
+Zilliz is a leading vector database company for enterprise-grade AI. Founded by the engineers behind Milvus, the world's most popular open-source vector database, the company builds next-generation database technologies to help organizations create AI applications at ease.
+On a mission to democratize AI, Zilliz is committed to simplifying data management for AI applications and making vector databases accessible to every organization.
+What you will do:
+We are looking for a senior engineer to build an extremely easy-to-use RPC and backend data and modeling platform based on unstructured data embedding to support the sharing, management, and access of state-of-art pre-trained model libraries and datasets.
+Design, implement, and optimize system architecture.
+Bridge the gap between the system and modeling areas.
+Keep up with cutting-edge technologies and implement them into our infrastructure to benefit our end users.
+Engage in open-source technology communities and extend the company's technological reach.
+What we are looking for:
+Passion for open-source projects.
+Experience designing and developing infrastructure systems/frameworks and in-depth knowledge of various algorithms and data structures.
+Familiarity with mainstream frameworks such as PyTorch, TensorFlow, MLflow, and Kubeflow.
+Experience with recognized open-source projects.
+Proven track record in developing cloud-native system software.
+Benefits:
+Competitive compensation (cash + equity).
+Regular bonus and equity refresh opportunities.
+Medical, dental, and vision insurance.
+Paid time off, including vacation, sick leave, and global reset/wellbeing days.
+Generous 401(k) and regional retirement plans.
+Hybrid work model/Remote work opportunities available.
+Zilliz is committed to building an inclusive and diverse workforce. We are an Equal Opportunity Employer and welcome people from all backgrounds, experiences, abilities, and perspectives. All qualified applicants will receive consideration for employment regardless of race, color, national origin, religion, sexual orientation, gender, gender identity, age, physical disability, or length of time spent unemployed.

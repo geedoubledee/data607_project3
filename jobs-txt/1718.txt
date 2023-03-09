@@ -1,0 +1,45 @@
+WE ARE
+We are Black Rifle Coffee Company, a veteran-owned company serving premium coffee to people who love America. We have a passion for coffee, the veteran community, dogs, the outdoors... in short, if it makes our country awesome, then we love it. Our customers always come first, because without them we would have nothing. They have our eternal gratitude for that. We sell awesome coffee and make goofy videos, but the beating heart of Black Rifle Coffee is really in giving back — it's about serving those who serve us. That means supporting the military, veteran, and first responder communities in the ways we know best. As far as the folks who work here, we value integrity, innovation, radical transparency, a crazy good work ethic, and a deep love for our country and each other.
+*
+THE ROLE*
+Black Rifle Coffee is looking for a Business Intelligence Developer to architect data models and integrate data systems in support of the Retail team. The person joining the team will be responsible for partnering with business stakeholders to ensure data solutions are aligned with objectives and will be engaged in all phases of the data lifecycle.
+YOUR TASK
+Work directly with business stakeholders to identify and clarify business needs, understanding specific requirements for metrics and analysis
+Develop and maintain efficient and scalable data pipelines using Fivetran and Python scripts
+Use dbt to model data to usable end states that power analysis and dashboards; validate and maintain models to ensure 100% accuracy across systems
+Create scalable dashboards and reports to support business objectives and enable data-driven decision making
+Partner with data scientists, analysts, ML engineers, and product teams to coordinate the delivery of data projects
+YOUR EXPERIENCE
+Strong engineering background and interest in data analysis
+Prior experience building data pipelines in production
+Prior experience designing, developing, and maintaining robust data models
+4+ years experience with data architecture in either a Snowflake Data Warehouse or SQL Data Warehouse
+4+ years experience with a data visualization tool such as Sigma, PowerBI, or Tableau
+4+ years of SQL query language
+2+ years of Python or equivalent experience
+2+ years of dbt or Jinja experience
+Experience proactively identifying opportunities to improve performance and cost
+Excellent communication skills to thrive in ambiguous environments where problems are not well-defined and evolve quickly
+Experience working at a startup or comfortable in fast-paced environments
+This is a full-time position and may require long hours and may require weekend and night work per events
+While performing the duties of this job, the employee is regularly required to, stand, sit; talk, hear, and use hands and fingers to operate a computer and telephone keyboard reach, stoop kneel to install computer equipment
+Specific vision abilities required by this job include close vision requirements due to computer work
+Light to moderate lifting is required
+Ability to uphold the stress of traveling
+Regular, predictable attendance is required; including quarter-driven hours as business, demands dictate.
+Moderate noise (i.e. business office with computers, phones, and printers, light traffic).
+Ability to work in a confined area.
+Ability to sit at a computer terminal for an extended period of time.
+*
+YOUR BENEFITS*
+Please note that only Full Time, W2 Employees are eligible for Black Rifle Coffee Benefits
+*
+Comprehensive medical, dental & vision package
+401k with company match
+Company-paid life insurance + supplemental options
+Short and Long-Term disability options/coverage
+Extensive EAP program with legal coverage
+Pro-deal discounts with corporate partners in outdoor equipment, clothing, etc.
+American values-based culture built on freedom, integrity, accountability, respect, love, and commitment to serve those who have served.
+BRCC is an equal opportunity employer. Applicants will receive consideration for employment without regard to age, sex, race, color, religion, national origin, genetics, disability, marital status, sexual orientation, veteran status or any other protected characteristic required by applicable law. All selected candidates will be required to submit to a pre-employment background check.
+Job Type: Full-time

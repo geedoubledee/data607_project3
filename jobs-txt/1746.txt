@@ -1,0 +1,48 @@
+Itlize Global LLC is looking for entry-level Python Cloud Application developers to join our fast-growing software development consulting practice.
+Who We Are
+Itlize Global is a leading provider of IT consulting services. We specialize in custom software development, cloud computing, business intelligence, big data, data science and data analytics. Our highly innovative technological solutions enable companies to increase sales, improve efficiency and lower operating costs by exploring and realizing potential of vast enterprise data. We are dedicated to helping organizations become more agile, profitable, and competitive.
+Job Duties and Responsibilities
+Conceptualize the design for the application/functionality.
+Develop related software applications and programs to satisfy customer requirements.
+Creation of site layout/user interface from provided design concepts by using standard HTML/CSS practices.
+Placement and layout of web site pages given client provided content.
+Development of robust and user-friendly python-based web applications.
+Design and creation of relational/NoSQL database schemas.
+Research and evaluate software related technologies and products.
+Implement best practices, standards and procedures including quality and delivery methodologies.
+Ensure compliance with the documented software processes and procedures throughout the life cycle of software products.
+Create software documentation and update existing documentation.
+Use Angular to apply frontend business requirements
+Full Stack Developer Daily Tasks
+Assist in gathering requirements and project specifications
+Attend scrum meetings.
+Take ownership of daily project needs and communications.
+Communicate project status and deliverables with managers and clients.
+Design, create and program SQL Server databases per project needs.
+Python application development per project needs using python development framework (Flask, Django etc.).
+Manage project tasks, timelines, and communication.
+Perform routine site maintenance as needed.
+Other tasks as needed for successful project completion.
+Angular2+ development as per project needs.
+Requirements
+Hands on experience in Python and Python application framework (Flask, Django etc…).
+Solid knowledge in JavaScript, Angular2+
+Solid understanding of Object-Oriented Design and Programming.
+Solid understanding of web application development processes, from the layout/user interface to relational database structures.
+Strong organization skills to manage multiple timelines and complete tasks quickly within timeline and budget constraints
+BS/MS in computer science or a related field
+Strong experience designing and working with n-tier architectures
+Understanding the full life cycle of a software product.
+This position may require relocation.
+Job Type: Full-time
+Pay: Up to $55,000.00 per year
+Benefits:
+Dental insurance
+Health insurance
+Paid time off
+Vision insurance
+Schedule:
+8 hour shift
+Education:
+Bachelor's (Required)
+Work Location: One location

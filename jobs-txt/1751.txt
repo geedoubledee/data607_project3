@@ -1,0 +1,56 @@
+About Upstart
+
+Upstart is a leading AI lending platform partnering with banks and credit unions to expand access to affordable credit. As we transitioned to being a public company, we’re now poised to leverage our domain expertise and revolutionize every aspect of lending and credit risk evaluation. We’ve recently expanded our offerings to include automobile refinancing and we plan to take on more verticals as the business grows.
+
+By leveraging Upstart's AI platform, Upstart-powered banks and credit unions can have higher approval rates and lower loss rates, while simultaneously delivering the exceptional digital-first lending experience their customers demand. Upstart not only supports a large remote workforce, but also has offices in San Mateo, CA; Columbus, OH; and Austin, TX.
+
+Most Upstarters join us because they connect with our mission of enabling access to effortless credit based on true risk. If you are energized by the impact you can make at Upstart, we’d love to hear from you!
+
+The Team
+
+Upstart is looking for an experienced engineering leader for our core Machine Learning Platform. We are the first lending platform to leverage machine learning to price credit and automate the borrowing process. Our engineering and data science teams collaborate to use non-conventional variables at scale in a constantly improving underwriting model.
+
+In this role, you will be responsible for the core infrastructure which supports the analytics, development, deployment, and monitoring across all ML solutions in the company.
+
+If you are looking for the opportunity to join a hyper-growth company, develop a high performing team and make an outsized, lasting impact on an organization, this may be the right opportunity for you,
+
+Position Location - This role is available in the following locations: Remote within the US, San Mateo,CA and Columbus, OH.
+
+Time Zone Requirements - This team operates on the East and West Coast time zones.
+
+Travel Requirements - This team has regular on-site collaboration sessions. These occur 3 days per Quarter at the San Mateo,CA or Columbus, OH office. If you need to travel to make these meetups, Upstart will cover all travel related expenses.
+
+How you’ll make an impact:
+Partner with our recruiting team to attract a diverse team of exceptional engineers,
+Coach individuals and managers through career and skill development,
+Partner with product management, data scientists, and other internal stakeholders to set the technical roadmap for our analytical and ML capabilities,
+Partner with data science teams on the development and deployment of new ML solutions.
+
+What we’re looking for:
+Have 10+ years of engineering management experience, and 15+ years overall software engineering experience,
+Have led teams of 25+ engineers and have experience managing managers,
+Have a track record of attracting and developing great engineering talent,
+Are well versed in agile development methodologies,
+Have expertise in cloud native / big data technologies,
+Have expertise in MLOps / ML platform development,
+Are an excellent communicator in person and in writing,
+Are comfortable working with remote teams,
+Want to be part of a dynamic and fast paced environment.
+
+What you’ll love:
+Competitive Compensation (base + bonus & equity)
+Comprehensive medical, dental, and vision coverage
+Personal Development and Technology & Ergonomic Budgets
+Life insurance and disability benefits
+Clubs and Activities (Game Nights, Fitstarters, Superwomen, Book Club, Investing Club, Money Discussions, Photography Club and Basketball teams)
+Generous vacation policy
+401(k) and Employee Stock Purchase Plan (ESPP)
+Catered lunches + snacks & drinks
+
+The minimum base pay for this position in Colorado is $190,000 + bonus + equity + benefits. Base pay may vary depending on job-related knowledge, skills, and experience. This information is provided in accordance with the Colorado Equal Pay Act. It is specific to Colorado and may not be applicable to other locations.
+
+#LI-Director
+
+Upstart is a proud Equal Opportunity Employer. We are dedicated to ensuring that underrepresented classes receive better access to affordable credit, and are just as committed to embracing diversity and inclusion in our hiring practices. We celebrate all cultures, backgrounds, perspectives, and experiences, and know that we can only become better together.
+
+https://www.upstart.com/candidate_privacy_policy

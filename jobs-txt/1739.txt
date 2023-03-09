@@ -1,0 +1,48 @@
+Preferred Qualifications
+Knowledge of SQL Server and MySQL, COSMO, Document DB, Postgres, MongoDB
+Knowledge of ITIL framework processes such as Incident, Change, Problem, Service Request Management
+Knowledge of cloud computing architecture/design/best practices
+Job Summary
+The “Sr. DBA – SQL Server Database Administrator” is responsible for the performance, reliability, and scalability of the organization’s current MS SQL Server database environments as well as the design, construction, and population of our new technology database schemas/environments. From a day-to-day perspective the DBA is responsible to drive efforts to implement and/or refine operational and business continuity processes such as replication, availability groups, mirroring, backups and high availability. Additionally, will be tasked with supporting our production and development MS SQL Server databases and ensuring their performance, availability, recovery security and utilization.
+
+Key Responsibilities
+The “Sr. DBA – SQL Server Database Administrator” shall be responsible for working closely with a team of SQL Server DBA professionals, providing leadership in design, architecting, maintaining, securing and providing on-call support for HA database systems (On-Prem and Cloud)
+Subject matter expert in MS SQL Server
+Provide leadership in creating roadmaps and future state architecture of SQL Server platform collaborating with stake holders and business partners.
+Participating proactively in daily stand-up meetings, story grooming sessions, team retrospectives, suggesting and implementing improvements.
+Collaborate with vendors and internal team in the assessment of new technologies and their operationalization
+Researches emerging trends and new technologies to identify potential improvements; develop business case justifications and cost/benefit analyses for IT database related spending and initiatives.
+Adapts communication approach for audiences at multiple internal and external levels
+Builds long-term relationships within team and amongst peers by creating an environment of safety and innovation
+Lead and mentor Associates and Influences peers through change by using one’s self as an example.
+Develop and deliver innovative solutions and systems in support of Enterprise goals.
+Anticipates issues and develops preventive measures.
+Collaborate with clients, service providers and peers to successfully deliver on business commitments.
+Partners with others in their organization to set and manage expectations; continually seeks opportunities to be a thought partner and increase internal business partner satisfaction and deepen relationships.
+Negotiates solutions for issues that may be complex or controversial.
+Ensure performance, security, scalability and availability of enterprise MS SQL databases.
+Identify opportunities for improved performance in SQL operations and implementations.
+Design, implement and monitor disaster recovery plans as it pertains to the production database environment.
+Perform technical troubleshooting to diagnose, isolate and correct data and database issues.
+Give design recommendations for database functions that meet business operating standards while improving the efficiency of business processes.
+Strong TSQL and PowerShell knowledge; able to write and read as well as diagnose, develop and troubleshoot scripts.
+Performs other duties as assigned
+Education & Experience
+Bachelor’s degree or equivalent experience
+10+ years of experience in MSSQL Server in an enterprise level environment.
+Certified in Cloud technology (AWS/AZURE)
+Lead level expertise in MSSQL database platform
+Functional Competencies
+Ability to lead a technical team.
+Ability to identify, recommend, drive, and “own” projects and initiatives.
+Strong people and thought leadership; ability to develop, mentor and coach others
+Strong communication (oral and written) & presentation skills combined with the ability to influence others at different levels of leadership
+Demonstrated and foster a sense of urgency, strong commitment, and accountability for achieving
+High level of personal accountability for the continuity and improvement of the organization’s database environments, data, and processes.
+Self-motivation with a strong work ethic.
+Superior troubleshooting skills, inquisitiveness, and the ability to preemptively resolve problems.
+
+Experience with managing large-scale, complex database environments supporting complex/critical applications
+As a leading payments company in healthcare, we guide, price, explain, and pay for care on behalf of insurers and their members. We’re Zelis in our pursuit to align the interests of payers, providers, and consumers to deliver a better financial experience and more affordable, transparent care for all. We partner with more than 700 payers, including the top-5 national health plans, BCBS insurers, regional health plans, TPAs and self-insured employers, over 4 million providers, and 100 million members, enabling the healthcare industry to pay for care, with care. Zelis brings adaptive technology, a deeply ingrained service culture, and a comprehensive navigation through adjudication and payment platform to manage the complete payment process.
+
+SCAM ALERT: There is an active nationwide employment scam which is now using Zelis to garner personal information or financial scams. This site is secure, and any applications made here are with our legitimate partner. If you’re contacted by a Zelis Recruiter, please ensure whomever is contacting you truly represents Zelis Healthcare. We will never asked for the exchange of any money or credit card details during the recruitment process. Please be aware of any suspicious email activity from people who could be pretending to be recruiters or senior professionals at Zelis.

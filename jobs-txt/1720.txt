@@ -1,0 +1,53 @@
+Assist in the management of all required resources needed to support the college’s Database Management System environments. Assist in the evaluation of database software and database performance. Assist with developing techniques for monitoring databases. Assist with the development of database standards and Guidelines as designated by the Manager of Database Administration. Assist with maintaining quality control in total operation of the Collage’s database environment.
+
+Minimum Qualifications
+EDUCATION AND EXPERIENCE
+One to two years of college credit (30 credits are equivalent to one year). Combination of education and related experience for a total of four years. Experience working with Transaction-SQL (T-SQL).
+
+
+KNOWLEDGE , SKILLS AND ABILITIES
+Knowledge of producing typewritten materials accurately and in a timely manner through the use of work processing.
+Ability to perform detailed work independently, as well as, in a team environment.
+Working knowledge with Microsoft Office.
+Knowledge in to troubleshooting relational database problems and issues; knowledge of relational database management systems
+Knowledge of backup and recovery of relational database management systems;
+
+Criteria
+CRITERIA : The following criteria, which are not the sole criteria used in the final hiring decision, will be used to review the applications of those persons who meet the stated minimum qualifications and to select those qualified applicants who will be interviewed. Other information and observations made during the interview process may be considered in the selection process. A Resume/CV and cover letter are required with the application. Please ensure that your documents address the criteria listed below for this position.
+
+ESSENTIAL DUTIES
+Assist with Managing the Database Management System environment to provide high availability/continuous operation as required.
+Assist with developing and maintaining standards, procedures and methodologies for effective operation, access and control backup recovery of all database systems.
+Assist with supporting day to day operational duties for the database platform such as service requests and tickets, backups, monitoring, performance tuning and system troubleshooting.
+Assist with developing procedures and the maintenance of required documentation to facilitate knowledge transfer and business continuity.
+Assist with designing, implementing and modifying physical database structures; evaluate, test and implement database management systems, utilities and tools.
+Assist with support related issues for database security, production and quality assurance.
+Assist with control contents of production program libraries
+Assist with coordinating changes to application programs and modifications of appropriate production libraries.
+Assist with coordinating user security requirements including procedures, passwords, security codes, and access authorizations.
+Responsible for performance analysis and optimization of Database systems.
+Assist with performing Database instance monitoring and data protection.
+Assist with maintaining state-of the-art knowledge of technical changes and products
+Assist with fully documenting all changes to the DATABASE and ensures that a ‘walk through’ is conducted on major changes to production system.
+Work independently with minimum supervision bringing tasks/projects to a supervisor only when necessary.
+Assist with interacting with customers/project teams to ensure mutual understanding of project goals and progress.
+Assist with administering effective capacity planning to ensure maximum performance and availability of business operation.
+Provides regular status reports to Database Administrator.
+Participates in the on-call rotation for supporting the operational platform.
+Other duties as assigned.
+
+Job Requirements
+PHYSICAL REQUIREMENTS
+Must have the use of sensory skills in order to effectively communicate and interact with other employees and the public through the use of the telephone and personal contact as normally defined by the ability to see, read, talk, hear, handle, or feel objects and controls. Physical capability to effectively use and operate various items of office related equipment, such as, but not limited to a, personal computer, calculator, copier, and fax machine. No significant climbing, stooping, kneeling, crouching, reaching, standing, walking, pushing, pulling, lifting, grasping, and repetitive motions
+
+OTHER REQUIREMENTS
+Must be able to work Monday thru Friday, 8:30 a.m. – 4:30 p.m.
+Ability to communicate effectively in spoken and written standard English.
+As required by the 1986 Immigration Act, be prepared to present acceptable documentation showing your identity and that you are a U.S. citizen or an alien who is authorized to work.
+A background investigation will be conducted prior to the offer of employment. A signed authorization for the release of personal information will be required if selected for an interview.
+
+Is Background Check Required?
+Yes
+
+Is the incumbent responsible for working with minor children or directly engaging with minor children on campus?
+No

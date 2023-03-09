@@ -1,0 +1,36 @@
+About Us
+Founded in 2017, Coalition combines cybersecurity and insurance to help organizations prevent digital risk before it strikes. Coalition's Active Insurance policies combine traditional coverage with a digital risk assessment and monitoring technology to help small and medium-sized businesses protect themselves in today's hyper-connected world.
+
+The team at Coalition is made up of cybersecurity and technology experts, as well insurance industry veterans. Our secret sauce is bringing this expertise together to create a world-class organization with a massive technological advantage. Coalition is also backed by leading global insurers like Allianz, Arch Insurance, Lloyd's of London, Swiss Re and Zurich North America, Today, Coalition is one of the world's largest commercial insurtech serving over 160,000 customers.
+
+In June 2022, Coalition closed an additional $250 million in Series F Funding to accelerate its rapid growth at a time when many other companies struggled to find funding. This latest funding validated that Coalition is building a long-term business that can deliver profitable growth with a clear strategic advantage.
+
+Coalition has experienced tremendous growth by helping organizations of all sizes solve real-world problems and by remaining true to our founding values of character, humility, responsibility, purpose, authenticity and inclusion. We are proud to have been named among Inc.'s Best Workplaces of 2021 and one of Fast Company's most innovative companies for 2022.
+About the Role
+Coalition's mission is to protect the unprotected. To do this, we are reinventing an experience for organizations that helps them be secure in the uncertain world of digital risks. This means providing security at multiple levels: cyber, financial, and emotional through our innovative, end-to-end product suite. This product suite enables a new category that we are pioneering called Active Insurance. As the Head of Data Science at Coalition you will own our entire data platform and all of the ways that we derive value from it including analytics, machine learning, and artificial intelligence.
+Making effective and innovative use of our data is a fundamental pillar of our Active Insurance Strategy. Your organization will drive innovative end-to-end solutions from understanding our business requirements and historical data in the areas such as risk assessment, underwriting, and classification. You will collaborate closely with both engineering peers and business stakeholders. We are a human centric organization that is building for the long-term. We celebrate diversity and work hard to build a culture that is inclusive for all. Our culture is built around humility, purpose, authenticity, and responsibility. We have embraced distributed and remote work and our product and engineering teams are clustered in California, Washington, Colorado, Texas, and Portugal. Our ideal candidate will form insights and find innovative ways to meet current and evolving customer needs. We are looking for an experienced leader with a track record of successfully leading and growing a world-class data science and analytics organization.
+Responsibilities
+Build a world-class team. Hire excellent data scientists, machine learning engineers, and engineering managers. Mentor them and lay a clear growth path for your team
+Develop our data science strategy and vision. Your goal is to drive impact across different aspects of our business through innovative use of data science and machine learning
+Follow and share industry trends in data science and machine learning engineering
+Deliver machine learning models into production. Operate your services at scale with high operational rigor
+Create, enhance, and maintain technical documentation for all aspects of our data platform. Use this to drive engagement in the organization
+Work with executive stakeholders across the company to help incorporate company goals and initiatives into the vision and plans for your area
+Make Coalition a better place by modeling our cultural values and taking on the unseen, unforeseen, and important items that come up along the way
+Skills and Qualifications
+Computer Science or Engineering degree, or a related technical discipline, or equivalent work experience
+10+ years experience in data science, data analytics, and machine learning
+5+ years management experience and must have led a multi-team data science or machine learning engineering organization
+Demonstrated success delivering and operating machine learning capabilities in production
+Bonus Points
+Prior fintech or insuretech experience
+#LI-Remote
+Why Coalition?
+We're a highly fulfilling, mission-driven team who is committed to building a more diverse and inclusive culture. We want to work with people of all different backgrounds and paths in life, and we trust our team members to take responsibility, share ownership and put in the work, no matter how small the task. We are always looking for collaborative, inquisitive and dedicated individuals to join #OurCoalition and help us on our mission to solve digital risk.
+Recent press releases:
+To learn more, check out our featured press releases:
+Coalition Closes $250 Million in Series F Funding, Valuing the Cyber Insurance Provider at $5 Billion
+Coalition Named to Fast Company's Annual List of of the World's Most Innovative Companies for 2022
+Coalition Launches Active Insurance, Reaches $650M Run Rate GWP
+Coalition launches tech-powered executive risks products with personalized risk assessment for all US small-businesses
+Coalition's very foundation is built on respecting and encouraging diversity and inclusion across the organization. We respect and encourage diversityCoalition is proud to be an Equal Opportunity and Affirmative Action employer. We do not discriminate based upon race, religion, color, national origin, sex (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender, gender identity, gender expression, transgender status, sexual stereotypes, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics.

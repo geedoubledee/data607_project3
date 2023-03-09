@@ -1,0 +1,29 @@
+Job Role: Data Engineer
+Location: Remote
+Duration: Long Term
+Visa : US Citizen
+Skills and Areas of Expertise:
+Candidate must have the following skills:
+· 5+ years' experience with Snowflake development creating tables, views, excellent understanding how to connect to multiple databases to navigate the data; write SQL and Python. Good hands-on experience developing with Snowpipe and ability to write APIs.
+· 5+ years' experience developing Matillion orchestrations and transformation jobs
+· 5+ years' experience Informatica PowerCenter developing skills with mappings, sessions and workflows.
+Candidate must have knowledgeable background in: Snowflake, Matillion, Oracle, Informatica PowerCenter, database modeling, star schema, DataVault and DataVault 2.0 methodology, Jenkins, GitHub, scheduling tools such as Tidal and RunMyJobs, Informatica Scheduler and familiarity with an SAP ERP system.
+Behavioral:
+Candidate must demonstrate soft skills in:
+· highly effective communication with customers, business partners and stakeholders
+· work well in an agile team environment
+· hold self-accountable for committed deliverables
+Job Functions / Responsibilities:
+· Developing ELT ingest/egress orchestrations, mappings, pipelines in Matillion to Snowflake
+· Perform data analysis and root cause analysis with tools such as SQL Developer to connect to data source and targets, perform data profiling tasks and root cause analysis
+Qualifications & Skills:
+· Bachelor degree in a STEM related field
+Job Type: Contract
+Pay: $39.94 - $86.24 per hour
+Schedule:
+8 hour shift
+Experience:
+Informatica: 1 year (Preferred)
+SQL: 1 year (Preferred)
+Data warehouse: 1 year (Preferred)
+Work Location: Remote

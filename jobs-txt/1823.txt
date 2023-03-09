@@ -1,0 +1,36 @@
+Immediate Hiring || Data Engineer || 100% Remote|| c2c
+Hai,
+I was trying to reach you regarding the role of Data Engineer ||c2c
+Please find the job description and let me know your interest on it
+Job Title: Data Engineer
+Location: 100% Remote
+Must have Skills: Google Cloud, Python, Java, Big Query, Data Flow, Tableau, Looker Advanced SQL, pipeline build, automation
+Job Description:
+· Should have good hands-on experience with Python, Java (oop’s concepts)
+· Candidate should have experience on GCP stack which includes (Dataflow, DataProc, Composer, Datafusion, BigQuery, Vertexai, Tableau, Looker)
+· Experience in designing and executing solutions for complex business problems involving large scale big data warehousing, real-time analytics, and reporting solutions.
+· Advanced sql expertise is required.
+· Writing SQL stored procedures for reporting.
+· Good hands-on experience on Airflow is required.
+· Experience on DataStage is required
+· Tasks to extract data from databases and orchestrate these.
+· Experience on Visualization tools like Tableau, Data studio.
+· Strong experience on building pipelines and to automate tasks as per requirement.
+· Must be able to build architectural and design related ideas.
+With Regards,
+Karthikeyan.V |* Technical Recruiter*
+Teamware Solutions a division of Quantum Leap Consulting Pvt. Ltd
+Direct: 2488490508
+Job Type: Contract
+Salary: From $60.00 per hour
+Schedule:
+8 hour shift
+Experience:
+sql expertise: 10 years (Required)
+Python, Java (oop’s concepts): 10 years (Required)
+DataStage: 5 years (Required)
+Big Query, Data Flow, Tableau: 5 years (Required)
+Healthcare or Medical backgrounds ( Highly recommended ): 5 years (Required)
+Work Location: Remote
+Speak with the employer
++91 +12488490508

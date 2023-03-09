@@ -1,0 +1,37 @@
+We are seeking self-motivated, safe, positive, enthusiastic, and goal-oriented individuals for an immediate opening as a Data Engineer I.
+Our client manufactures business aircraft alongside some of the world’s most advanced fighter jets, the legendary Mirage and Rafale.
+Their business jets is widely regarded as the world’s most technologically advanced aircraft. Their business jets are renowned for their quality, performance, and efficiency and represent over 50% of the company’s revenue.
+They employ the most dedicated individuals in the aviation industry. They understand that their employees are their most valuable asset and the key to their success. There is a unifying pride in being recognized as a member of their family, where they share values, ideas, and team spirit.
+What Is In It For You
+Salary: depending on relevant industry experience.
+Benefits: Paid (individual) health insurance, life, and disability insurance, and paid vacation and sick time.
+Relocation: Open to paying relocation costs.
+A Day In The Life of a Data Engineer I
+As a Data Engineer I, you will be responsible for assisting with the development and support of the company’s ETL pipelines, databases, and dashboards. In this role, you will work with the rest of the Data Engineering team in continuously improving our applications and standards while providing high-valued solutions to the business.
+Essential Job Functions For The Data Engineer I In Little Rock, AR:
+Collaborate with peers across organizations to assist in the development of solutions in line with the business requirements
+Assists in designing, developing, supporting and documenting existing and future solutions
+Provide MIS management and Project Management with rough order of magnitude (ROM) estimates and clear status for software engineering activities
+Adhere to and assist with the creation / update of coding standards
+Study improvements in technology tools and processes
+Participate in the review of other peers deliverables
+Required Skills, Education & Experience
+Bachelor of Computer Science or related field. Completed, relevant education from an accredited college or university may be substituted for years of relevant work experience. year of education = 2 years of experience
+Must be familiar with object oriented programming, relational databases (Oracle, SQL Server, DB2, etc.), CI/CD pipelines, Agile ticketing system (Azure Devops, Jira, etc.) and methodology, and data visualization (PowerBI, Tableau, etc.)
+If you are interested in the Data Engineer I job in Little Rock, AR apply today!
+This vacancy is being advertised by Total Aviation Staffing, LLC. The services advertised by Total Aviation Staffing, LLC are those of an Employment Agency
+Job Type: Full-time
+Pay: $59,801.89 - $168,763.93 per year
+Benefits:
+401(k)
+Dental insurance
+Employee discount
+Flexible schedule
+Health insurance
+Paid time off
+Professional development assistance
+Tuition reimbursement
+Vision insurance
+Schedule:
+8 hour shift
+Work Location: One location

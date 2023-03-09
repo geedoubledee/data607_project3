@@ -1,0 +1,40 @@
+What to Expect
+Data Scientist, Advanced Applications Team
+Infrastructure Advanced Applications is looking for a highly motivated data scientist to join our team. The Infrastructure Team drives to create the factory of the future by overseeing the design, construction, and commissioning of cutting-edge large-scale equipment and utility systems in support of advanced manufacturing processes.
+What You’ll Do
+Qualifications:
+BS/MS/PhD in a relevant field or equivalent experience
+2-5 years of experience in a relevant field
+Responsibilities
+Development of scalable data architectures and pipelines for high reliability enterprise applications and integrations
+Data Model Development
+Database Architecture
+Optimization of Data Flows
+Production Server Architecture
+Interpret data, then analyze results using statistical techniques
+Identify, analyze, and interpret trends/patterns in complex data sets and depict the story via dashboards and reports
+Maintain and improved existing data visualizations, data pipelines and dashboards
+Acquire data from primary or secondary data sources and maintain databases/data systems
+Work closely with stakeholders to optimize data systems for their use case
+Generate highly readable code to automate data collection and cleanup while ensuring sufficient logging for troubleshooting
+Participate in specification and standard creation
+Participate in and/or lead database migration activities
+Provide expert on-call support for system outages and failover incidents
+Manage contractors to optimally execute scopes of work
+The ideal candidate takes pride in their analytical ability, organizational skills, and attention to detail. They thrive in an environment where innovative/high quality work is required, noticed, and rewarded. They have the capacity to carry tremendous responsibility. They look forward to learning an incredible amount on the job. They are an excellent cross-team communicator, with a knack for grounding software projects in real-world utility systems.
+Studies show that people of color and women are less likely to apply to positions where they don’t meet every requirement. We encourage everyone to still apply even if their background isn’t a perfect fit.
+What You’ll Bring
+Requirements:
+Proficiency in any modern text-based programming languages (Python, C, Javascript, etc.)
+Advanced proficiency with multiple data architecture paradigms (e.g. SQL, NoSQL, Kafka, etc.)
+Ability to work effectively on cross-functional teams and deal directly with stakeholders
+Ability to execute on many large-scale projects in parallel
+Additional Skills:
+Proficiency in frontend development, preferably with the React and Typescript
+Proficiency in Golang
+Experience working on the full life cycle of an application’s development, from initial request to production
+Ability to understand AI/ML methods for real-time system control or data processing
+Experience working in an enterprise application development environment
+Experience with Product Management (Agile techniques, etc.)
+Exposure to a wide variety of production machinery, industrial sensors, and equipment (electrical distribution, process skids, industrial HVAC, etc.)
+Experience working with teams executing large scale construction and/or facility maintenance projects

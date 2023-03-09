@@ -1,0 +1,33 @@
+About Us
+OneMain Financial is the country’s largest lending-exclusive financial company, proudly serving millions of customers with safe, affordable, and transparent installment loans. Our customers turn to us every day—online and at 1,500 branches in 44 states—to help them take control and improve their financial lives with solutions for debt consolidation, medical expenses, household bills, home improvements and auto purchases. Our talented and dedicated team members constantly look for responsible ways to serve our customers when, where and how they want. It’s all about doing the right thing—a mission that hasn’t changed for more than 100 years.
+The Role
+We’re seeking a data science leader and practitioner to transform and grow the machine learning practices that drive our loss mitigation strategies. As an Associate Director, you will own the data science solutions that drive the decisions impacting millions of our customers and nearly $20 billion of loans. You will assume ownership of an existing set of machine learning models for our personal loan business and will be charged with reimagining them to leverage new, diverse data sets and advanced algorithms. You will also partner with our business leaders to lay a strong foundation of loss mitigation solutions for our new card, auto purchase finance, and point of sale businesses. This is a great opportunity to put your mark on our businesses, and to build a vibrant community of data science experts.
+Critical characteristics include strong ability to partner with and influence business leaders, business problem solving, a forward leaning results focus, and expert understanding of statistics, machine learning, data, and cloud-based systems. Experiences must include a track record of delivering impactful machine learning solutions, as well as driving innovations in the use of data and the application of emerging machine learning approaches. This leader must also have a strong model risk management orientation – skilled in using “black box” approaches yet skeptical / experienced enough to not blindly trust them. Since this leader will be charged with both building the future while delivering impact in the present, one must have both the skills and orientation to get “hands on” and the ability to mentor other data scientists who they will work with.
+Responsibilities
+Partner with business leadership to imagine, design, and deliver the machine learning systems needed to produce great customer and financial outcomes.
+Reimagine and transform current practices and processes into cloud based adaptable machine learning systems.
+Drive research and exploration of new data sources, modeling techniques, and problem formulations to deliver sizable business impact in Loss Mitigation.
+Continuously monitor developments in data science and machine learning both in the financial services sector and more broadly to ensure that OneMain stays on the leading edge.
+Help recruit, train, and develop high performing talent as we grow and diversify the Data Science team.
+Actively contribute to our team’s vibrant culture through sharing knowledge, mentoring, helping peers, volunteerism, and generally being a great person to work with.
+Teach the broader data science team new tools and techniques. Bring along business partners through educating them on the opportunities in using new tools, techniques, and data.
+Work with external data providers to test new data and develop strategies for inclusion into the Loss Mitigation processes.
+Effectively prioritize competing initiatives across stakeholders, translate strategic priorities into a roadmap of initiatives, and manage expectations.
+Qualifications
+Master’s Degree in a quantitative discipline (Engineering, Statistics, Economics, Biostatistics, Physics, or Computer Science). PhD preferred.
+5+ years of machine learning solutions development and implementation experience in consumer lending financial services, insurance, or marketing; PHD degrees may offset experience.
+Expert experience designing, developing, and implementing machine learning systems.
+Applied experience in a variety of machine learning techniques like gradient boosting, deep learning, NLP, etc.
+Superior communication skills with the comfort to interact and influence partners at all levels.
+Proven experience working with teams of diverse individuals focused on several disparate projects simultaneously.
+Advanced programming experience in open-source languages (Python preferred) and the use of cloud computing resources.
+Benefits
+Because we want our team members to bring us their very best every day, we believe they deserve the right opportunities and benefits. That’s why we packed our comprehensive benefits package for full- and some part-timers with:
+Health and wellbeing options for team members and their dependents
+Up to 4% matching 401(k)
+Tuition reimbursement
+Continuing education
+Bonus eligibility
+Paid time off
+Paid volunteer time
+#LI-SD1 #Analytics #Datascience

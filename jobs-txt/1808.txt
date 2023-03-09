@@ -1,0 +1,42 @@
+Mejuri is the category-defining fine jewelry brand redefining luxury, your way. Feeling disconnected from an industry that typically markets to men, co-founder and CEO Noura Sakkijha leveraged her learnings as a third-generation jeweler to rethink the way women purchase jewelry—for themselves. In only seven years, and with a team of over 75% women, Mejuri has shipped over one million orders and opened retail stores across the globe, all while introducing new products weekly.
+
+As part of Noura’s original vision to empower women to invest in themselves, the brand launched the Empowerment Fund to support underrepresented women and non-binary individuals with the tools to empower themselves. Mejuri continues to reach new customers through exciting community initiatives and expansion into international markets, such as the UK, Australia and Germany.
+
+We are a team of retailers, creatives, technologists and strategists, and we are looking for someone special to join our team.
+
+The role:
+Mejuri is searching for a Sr. Manager, Data Science to oversee the Customer, Commercial, and Operations Data Science and Analytics teams. Reporting into the head of Data, this individual will be responsible for strategizing and driving execution against the data science & analytics roadmap, developing strategic business frameworks, deploying production models, driving the cross-company insights program, and hiring, managing, and coaching a team of data scientists and business analysts. This opportunity is ideal for someone who has experience growing data science & analytics teams, is comfortable working closely with executives, and is looking to provide high-value work within a small and agile data team while seeing the impact of their work in real-time.
+What you'll do:
+Leadership: Strategize and drive execution against the data science & analytics roadmap, own collaboration with cross-functional stakeholders, communicate insights to the senior leadership, and establish operational workflows that optimize impact (engagement, prioritization, delivery).
+Data/ML Applications. Own delivery of external models (e.g. pricing, content-recommendation), strategic business models (e.g. revenue growth, segmentation), and insight applications/dashboards.
+Insight Program. Drive execution and delivery of analytical deep dives that provide deep insight into customer behavior and business impact.
+Data Champion. Promote the application of data and best practices across the entire business.
+What you bring to the team:
+Management & Communication. Experience working with cross-functional stakeholders and managing a team, ability to manage long-term roadmap and prioritize competing efforts. Strong communication skills, both written and verbal, being able to explain complex technical information to a non-technical audience.
+Technical. Experience working with customer data platforms, event-level data, ML & feature engineering pipelines. Comfortable writing/reviewing code written in SQL, Python, R, or Scala, and leveraging machine learning frameworks & toolkits such as PyTorch, TensorFlow, Spark, or scikit-learn.
+Machine Learning & Analytics. Advanced understanding of machine learning & analytics applications and experience building & deploying models from the ground up.
+Experimentation. Experience designing & interpreting results of experiments across
+
+Looking for the perfect next opportunity is a big decision. Mejuri recognizes the importance of pay transparency when it comes to salary ranges as it empowers individuals through the hiring process and supports them in making an informed decision. This role will be for our Soho location in New York, NY with a salary range of $130-140K annually based on a candidate’s experience and qualifications.
+
+Benefits at Mejuri:
+A minimum of three weeks vacation, plus personal days and three religious observance days.
+A hybrid work model for all corporate roles.
+‘Mejuri Passport’ which allows employees who meet specific criteria to work in other locations for one month per year.
+Comprehensive medical and dental benefits, including mental health coverage, and generous personal and sick days for our full-time employees. We also offer bereavement leave, including miscarriage and stillbirth support.
+Parental leave salary top-up of up to 80%, as well as a personalized return-to-work transition and accommodation plan for full-time employees
+Semi-annual performance and compensation reviews.
+Internal coaching department and learning and development to support career growth and plans for everyone.
+A generous product discount!
+
+Please note that these benefits apply to full-time employees.
+
+Location:
+At Mejuri we embrace a hybrid working environment and support our corporate employees to be successful whether they are at home or in the office. The primary purpose of our offices is to drive collaboration and deepen relationships with one another.
+
+Accommodation / Accessibility:
+Mejuri does not discriminate in hiring or terms and conditions of employment because of an individual’s race, ancestry, colour, place of origin, religion, gender, gender identity, national origin, citizenship, age, disability, sexual orientation, family status or marital status, or any other protected category recognized by provincial or federal laws.
+
+Should you require any accommodation, please inform us and we will work with you to meet your accessibility needs. For any accessibility-related assistance, requests for information in accessible alternative formats or to report any accessibility problems, please share in your application.
+
+#LI-Hybrid

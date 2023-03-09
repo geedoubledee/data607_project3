@@ -1,0 +1,46 @@
+Kensho is an Artificial Intelligence company that builds solutions to uncover insights in messy and unstructured data that enable critical workflows and empower businesses to make decisions with conviction. Our products are powered by state-of-the-art Machine Learning techniques that allow customers to unlock insights faster using Artificial Intelligence, including voice-to-text transcription, data extraction from documents and natural language processing that gives computers the ability to comprehend and analyze human language.
+
+Kensho is looking for an ML Engineer to join the group of Machine Learning engineers working on one of the following products: Scribe, Link, Extract, NERD, or Classify. We are looking for talented people who share our passion for bringing to production robust, scalable, and highly accurate models.
+
+At Kensho, we believe in flexibility-first, and give our employees the opportunity to work from where they feel most productive and engaged (must be in the United States). We also value in-person collaboration, so there may be times when travel to one of our Kensho hubs (NY/DC/MA) will be required for team meetings or company events.
+What You’ll Do
+Conduct original research on large proprietary and open source data sets
+Design, build and maintain scalable production-ready ML systems
+Actively participate in the ML model lifecycle, from problem framing to training, deployment and monitoring in production
+Partner with ML Operations team to deliver solutions for automating ML model lifecycle, from technical design to implementation
+Work in a cross-functional team of ML engineers, Product Managers, Designers, Backend & Frontend engineers who are passionate about their product
+Who You Are
+Outstanding people come from all different backgrounds, and we’re always interested in meeting talented people! Therefore, we do not require any particular credential or experience. If our work seems exciting to you, and you feel that you could excel in this position, we’d love to hear from you.
+
+That said, most successful candidates will fit the following profile, which reflects both our technical needs and team culture:
+
+Have 3+ years of experience being a major machine learning contributor at a top company, hedge fund, or university
+Experienced with advanced machine learning methods
+Have strong statistical knowledge, intuition, and experience modeling real data
+Have expertise in Python and Python-based ML frameworks (e.g., PyTorch or TensorFlow)
+Demonstrated effective coding, documentation, and communication habits
+Exercise strong communication skills and can effectively express even complicated methods and results to a broad, often non-technical audience
+[optionally] Have published in top-tier journals and conferences in ML domain
+Technologies We Love
+ML: PyTorch, DGL, NetworkX, XGboost, LightGBM, DVC, NVIDIA NeMo, HuggingFace, Weights & Biases
+Deployment: Airflow, Docker, Kubernetes, AWS
+Datastores: Postgres, Elasticsearch, SQLite, S3
+At Kensho, we pride ourselves on providing top-of-market benefits, including:
+Medical, Dental, and Vision insurance
+100% company paid premiums
+Unlimited Paid Time Off
+26 weeks of 100% paid Parental Leave (paternity and maternity)
+401(k) plan with 6% employer matching
+Generous company matching on donations to non-profit charities
+Up to $20,000 tuition assistance toward degree programs, plus up to $4,000/year for ongoing professional education such as industry conferences
+Plentiful snacks, drinks, and regularly catered lunches
+Dog-friendly office (CAM office)
+In-office gyms and showers (CAM, DC)
+Bike sharing program memberships
+Compassion leave and elder care leave
+Mentoring and additional learning opportunities
+Opportunity to expand professional network and participate in conferences and events
+About Kensho
+Kensho is an Artificial Intelligence company that builds solutions to uncover insights in messy and unstructured data that enable critical workflows and empower businesses to make decisions with conviction.
+Kensho was founded in 2013 and was acquired by S&P Global in 2018. Kensho continues to operate as a startup in order to maintain our distinct, independent brand and to promote our breakthrough, innovative culture. Our team of Kenshins enjoy a dynamic and collaborative work environment that runs autonomously from S&P Global, while leveraging the unparalleled breadth and depth of data and resources available as part of S&P Global. As Kenshins, we pride ourselves on maintaining an innovative culture that depends on diversity and inclusion.
+We are an equal opportunity employer that welcomes future Kenshins with all experiences and perspectives. Kensho is headquartered in Cambridge, MA, with offices in New York City, and Washington D.C. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, or national origin.

@@ -1,0 +1,53 @@
+Power BI ETL Developer - Work From Home
+Are you passionate and knowledgeable about IT? Are you a team player who excels in business intelligence and reporting? Do you have a detailed and data driven mindset? Are you excited to work with the data platform team, data warehouse and new technology?
+This job might be for you!
+You will work directly with the Data Platform and Business Intelligence teams to understand, design and build BI / Reporting solutions for GreenPath. Additionally, you’ll have the opportunity to enhance the data warehouse and business intelligence solutions, developing Microsoft Power BI-based dashboards and SSRS reports, including SSAS tabular models and SSIS ETL packages to meet end-user requests.
+The most important characteristic of our IT team is that we are dynamic and fast moving with leading edge technologies. GreenPath is a place where we work as a team with extreme integrity to provide top-notch quality experiences & services.
+Financial wellness is a key factor in people’s freedom to pursue their dreams. We envision a world where people are ready for life’s ups and downs, and we all have the tools we need to accomplish our financial goals.
+We Have:
+Full-Time, Benefits Eligible, Work From Home position
+Extraordinary opportunity for growth and development in IT areas of your interest
+New and Leading technologies to work with
+The opportunity for you to work with leaders across the organization to understand business needs and help provide the data needed to make high impact business decisions
+A guiding principle to put people at the center of everything we do. Empathy coaching, human-centered design and behavioral economics practices anchor our work in meeting people’s needs.
+Caring, compassionate and creative humans that show up every day with integrity and a drive to provide a quality experience through each and every interaction. This is more than a job for most of us. We are on a mission to make it easier for people to be financially well.
+Partnerships with others enable us to impact financial health on a large scale. We collaborate to design and deliver financial health services that are a win for people, for our partners, and for GreenPath.
+Products and services designed specifically with our clients in mind.
+
+You Have:
+Bachelor’s degree in an IT or Computer Science discipline OR equivalent experience.
+Minimum 4- 6 years of hands-on experience designing and developing business intelligence solutions with Power BI and SSRS and other MSDN tools.
+Extensive knowledge and experience with Power BI, SSAS tabular models, SSIS, SSRS and SSMS.
+Extensive understanding of relational and dimensional data modeling.
+Strong understanding of multiple enterprise application data sources
+Experience in design of database schema for Raw and Data Warehouse using industry best practices (Ralph Kimball method).
+Experience in SQL programming, ability to develop SQL stored procedures and packages to implement complicated transformation logics
+Experience in working with data warehouses and OLAP cubes
+Experience with Business and Data analysis.
+Experience in financial services industry preferred
+Extensive knowledge of Power BI, SSAS tabular models, SSIS, SSRS and SSMS.
+Strong understanding of relational and dimensional data modeling.
+Strong overall technical, design skills and customer service skills.
+What you'll do everyday:
+Work with business leaders to understand requirements, formulate use cases, and then translate that into an effective technical solution.
+Develop Power BI dashboards and reports, and publish reports to Power BI server taking into account appropriate security levels
+Design and build robust data structures to support end user analysis and decision making.
+Import and transform data according to business requirements.
+Participate in brainstorming sessions and contribute ideas to our technology, logic, and products.
+Effectively communicate and interact with business and technical personnel to solve complex data related business and technical problems.
+Monitor data warehouse infrastructure and business intelligence scheduled processes and identify opportunities to make enhancements.
+Develop Ad-hoc report requests within the stipulated turn around times
+Ensure the work delivered is of quality and meets the business and technical criteria.
+Maintain an enthusiastic, positive attitude and be dependable team member.
+Other duties as assigned.
+The Perks:
+What will you get out of working at GreenPath? In addition to a competitive compensation and benefits package (medical, vision and dental plans), here are some of the additional perks our employees enjoy:
+
+We all need some “me time” every once in a while. All full-time employees receive 19 paid days off during their first year of employment, in addition to 10 company-paid holidays per year. Use it for a fabulous vacation, to play nurse (or patient) at home, or sit on your couch watching DIY marathons on HGTV all day. We don’t care – it’s your time. Enjoy.
+Saving for Retirement? GreenPath employees can start contributing to a 403b right away! After one year of employment we make a monthly contribution to eligible employee’s accounts equivalent to 5% of their monthly gross compensation.
+Need to reduce your student loan debt? GreenPath is a qualified employer under the federal Public Service Loan Forgiveness (PSLF) program, which means that you may be able to have a portion of your federal student loans forgiven after meeting certain eligibility requirements of the PSLF program.
+Planning on growing your family? GreenPath offers paid Maternity and Paternity benefits.
+Continuous learners can get their classroom fix in a couple of different ways. GP team members are eligible for up to $2,500 in tuition reimbursement per year. In addition, GP team members can attend courses through Invest in Yourself, an in-house educational program offering training classes on a variety of topics ranging from Cash Flow Planning to Microsoft Excel to Stress Management.
+50% off tuition at Cleary University
+
+GreenPath Financial Wellness reserves the right to change this description at any time. GreenPath Financial Wellness practices the concept of equal employment opportunity with respect to hiring, promotions, transfers, pay, discipline, fringe benefits, and all other terms and conditions of employment. No individual will be discriminated against, and no employment decisions will be made, on the basis of an individual's race, color, national origin, religion, age, gender, gender identity, sexual orientation, protected disability, marital status, familial status, veteran status, height, weight or citizenship.

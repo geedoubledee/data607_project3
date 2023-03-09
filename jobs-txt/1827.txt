@@ -1,0 +1,68 @@
+Senior Applied ML Engineerat EvolutionIQ
+New York, NY
+About EIQ
+Our mission is to harness the power of AI to transform the insurance industry, maximizing the best claim outcome for the carrier, the client and the claimant.
+Our AI and ML platform delivers a 10x+ ROI to our clients. The company 20Xed in value over the past few years and we’re continuing to grow. To date we’ve raised $20 million at a $160K+ valuation. We're founded by a senior Google AI expert and an algorithmic investor who previously worked at Bridgewater Associates. We were also recently named to Inc.’s Best Places to work! We have an office in NYC, but are very remote friendly.
+About you…
+5+ years of Machine Learning engineering experience
+Bachelor’s Degree or higher in Computer Science, Mathematics, or related field
+Experience with production/software development environments
+Acted as senior member of applied ML development team, from conception to shipping (1 or more)
+Acted as part of an ML team that shipped a product
+Expert developer who writes clean, efficient, easy to understand code with unit tests, functional design patterns
+Expert in Python 3 and Pandas or equivalent data manipulation library
+Excellent document writing skills (additional to presenting results through Jupyter notebooks)
+Extreme creativity and resourcefulness, appetite to solve previously unsolved problems
+We are looking for someone who…
+Exudes our ambitious, collaborative, and empathetic values
+Hold yourself to high standards, ensuring high quality and passion for the field in which you operate
+Demonstrates the ability to effectively communicate through written and verbal communication.
+Self-starter mentality with an eagerness to solve previously unsolved problems
+Can effectively correspond between technical and non-technical audiences
+Open to giving and receiving critical feedback and collaborating effectively across teams
+Open to giving and receiving critical feedback
+Believes in the mission of the company, cares about fundamental fairness
+Enthusiasm for team work and pair work
+Kind, empathetic, polite, and professional
+The Adventure
+The $1.3 trillion insurance industry represents one of the largest single, untapped, complex, and meaningful data systems remaining in the world that has not yet had artificial intelligence applied to it at scale.
+At EvolutionIQ, we are bringing together world-class technical talent who want to invent, solve, and create in an entirely new technology category. For our experts in machine learning, data science, applications, and technology integration, cracking the insurance industry’s previously ‘impossible’ big data problem with deep learning AI is our version of summiting K2 or Everest.
+Your Impact
+We are looking for ambitious Senior Applied ML Engineer, focused on model development and deployment, to join our growing team of Evolutioneers.
+Our teams are tackling challenges to modernize claims management atop a powerful AI backend, requiring sound technical judgment.
+In this role you will:
+Validate assumptions about clients data and business workflows with deep dive EDAs
+Identify and communicate potential pitfalls, technical issues, scaling challenges, and resolutions
+Integrate data from data engineering team into Evolution’s machine learning platform including data imputation & business-related feature engineering
+Build, tune, evaluate models (create custom evaluation strategies)
+Reproduce ML prototype in a live production environment
+EvolutionIQ is dedicated to attracting, motivating, and retaining exceptional talent from all walks of life. We believe diversity fosters equity, innovation, and engagement – allowing our teams, products, and solutions to thrive. Qualified candidates from all walks of life are encouraged to apply!
+Compensation
+The expected base salary for this role is between $200,000 and $225,000, with some flexibility for the right candidate. This role and its responsibilities can be adjusted for more junior candidates demonstrating potential, or more senior candidates bringing more experience and expertise to the table. The final offering will depend on a variety of factors, both known and identified, throughout the interviewing process. These factors that may impact the offer may include (but are not limited) to seniority, responsibilities, projected position growth, fringe and other benefits, and overall career expectations.
+Benefits & Perks
+Well-Being – Full medical, dental, vision, short- & long-term disability, 401k matching
+Home & Family – Flexible 100% paid parental leave (4 months for primary caregivers and 3 months for secondary caregivers), sick days, paid time off. Our office closes between December 24th and New Years Day to give all Evolutioneers time to rest and recharge for the year ahead.
+Work/Life Balance – Work from home / work from NYC (whether you’re local to NYC or visiting us on a company-paid trip), or join us at off-site company trips (we have taken everyone to Jackson Hole and Puerto Rico in past years)
+Office Life – Catered lunches, happy hours, and pet-friendly office space, $500 for your in home office setup and $100/ year for upgrades every year after your initial setup
+Growth & Training –$1,000/year for each employee for professional development, the ability to grow as we do
+Job Type: Full-time
+Pay: $180,000.00 - $225,000.00 per year
+Benefits:
+401(k)
+401(k) matching
+Dental insurance
+Flexible schedule
+Flexible spending account
+Health insurance
+Life insurance
+Paid time off
+Referral program
+Vision insurance
+Schedule:
+8 hour shift
+Supplemental pay types:
+Bonus pay
+Experience:
+Python: 2 years (Required)
+Machine learning: 4 years (Required)
+Work Location: One location

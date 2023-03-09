@@ -1,0 +1,17 @@
+Role: Mahine Learning Engineer
+Job type: Contract
+Location: Remote
+MUST HAVES:
+strong mid to senior - 4-5+ years
+GCP experience
+Experience deployment end-to-end systems with an understanding of endpoints and connecting systems via API’s
+Experience with post-model deployment operations
+Python coding experience
+Data featurization experience
+Git
+Kubernetes/Docker
+Job Type: Contract
+Pay: From $50.00 per hour
+Schedule:
+8 hour shift
+Work Location: Remote

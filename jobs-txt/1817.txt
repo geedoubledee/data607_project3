@@ -1,0 +1,84 @@
+Why Mayo Clinic
+Mayo Clinic is the nation's best hospital (U.S. News & World Report, 2022-2023) and ranked #1 in more specialties than any other care provider. We have a vast array of opportunities ranging from Nursing, Clinical, to Finance, IT, Administrative, Research and Support Services to name a few. Across all locations, you’ll find career opportunities that support diversity, equity and inclusion. At Mayo Clinic, we invest in you with opportunities for growth and development and our benefits and compensation package are highly competitive. We invite you to be a part of our team where you’ll discover a culture of teamwork, professionalism, mutual respect, and most importantly, a life-changing career!
+
+Mayo Clinic offers a variety of employee benefits. For additional information please visit Mayo Clinic Benefits. Eligibility may vary.
+
+Position description
+
+Mayo Clinic is respected and recognized as a world leader in healthcare, medical research, and clinical expertise. As we accelerate movement into the digital future, Mayo fully recognizes the next generation of health care will dramatically change, driven by consumerism, technology, and data. The Mayo Clinic 2030 strategy of CURE, CONNECT & TRANSFORM sets the vision of transforming healthcare as the global authority in the care of serious or complex disease.
+Mayo Clinic is seeking a Data Engineering Director responsible for creating and maintaining the analytical infrastructure organization that enables functions in the data products portfolio. You will be responsible for managing a team of development, testing, and maintenance, of architectures for large-scale medical related databases in GCP using Big Query and other state of the art systems. You will also be leading a team responsible for creating data set processes for verification, acquisition, mining and modeling of clinical data.
+The section head leads and manages an IT section and participates in the coordination and leadership activities of the division. Responsibilities include: develop and maintain internal and external client/vendor/peer relationships; coach and mentor staff; represent the section to, and participate in IT task groups, and institution committees and groups; plan and manage Mayo resources (project, people, facilities, money and equipment) in an efficient manner; develop and foster strategies and directions that support section and division goals and objectives; provide leadership in the design, selection, and application of information systems resources to satisfy the requirements of the systems; may serve as secretary, assistant secretary or member of IT for institutional committee.
+Responsible for driving the engineering and architecture that enables our enterprise-wide Data and AI platforms to drive business value and customer success:
+Responsible for building and delivering the high scale and reliability engineering.
+Lead the engineering team responsible for data design, prototype, and development of data pipelines.
+Develop and operationalize enterprise wide data policies, standards and procedures.
+Lead implementation of internal process improvements: automating manual processes, optimizing data delivery, re-designing infrastructure for greater scalability.
+Excellent analytic skills associated with working on unstructured datasets.
+Drive data security program to ensure best in class security protection techniques in compliance with required legal and regulatory policy.
+Creating or leveraging Enterprise Data APIs to support new product development
+Experience leading Data engineering teams of at least 25+ engineers and 2+ data engineering managers.
+Collaborate with software engineering leaders to strategize, analyze, develop and test functional requirements.
+Experience in managing complex and large-scale data products.
+
+Qualifications
+Bachelor's degree with eight years of experience, which includes two years of demonstrated leadership experience. Requires skill in effective decision making and effective consensus management. Strong understanding of finance, business processes, budgeting and human resources development. Excellent verbal and written communication skills. Demonstrated history of continuing education in personnel and administrative processes. Experienced with committee and consensus-managed, physician-led organization.
+
+Experience with personnel management, resource allocation, coaching and mentoring.
+Knowledge of professional software engineering practices and best practices for the full software development life cycle (SDLC), including coding standards, code reviews, source control management, build processes, testing, and operations
+Have in-depth knowledge of data engineering and building data pipelines with a minimum of 5 years of experience in data engineering, data science or analytical modeling and basic knowledge of related disciplines.
+Worked and lead Data Engineering teams in Continuous Integration / Continuous Delivery model.
+Build/Lead Data products highly resilient in nature.
+Build/Lead Test Automation suites, Unit Testing coverage, Data Quality, Monitoring & Observability.
+A minimum experience of 5 years using relational databases and NoSQL Databases.
+Experience with cloud platforms such as GCP, Azure, AWS.
+
+Authorization to work and remain in the United States, without necessity for Mayo Clinic sponsorship now, or in the future (for example, be a U.S. Citizen, national, or permanent resident, refugee, or asylee). Also, Mayo Clinic does not participate in the F-1 STEM OPT extension program.
+
+
+Additional qualifications
+Master’s degree preferred with six years of experience. Experience working in healthcare technology. Experience with managing both custom developed and vendor-supplied products and services. Master's degree preferred. Some travel may be required in this position.
+Continuous Integration using Git Hub Actions or Azure or Google Data Pipelines.
+Experience with cloud technologies, development and deployment.
+Experience with tools like Jira, GitHub, SharePoint, Azure Boards.
+Experience using advanced data processing solutions/capabilities such as Apache Spark, Hive, Airflow and Kafka, GCP Dataflow.
+Experience using big data, statistics and knowledge of data related aspects of machine learning.
+Experience with Google BigQuery, FHIR APIs, and Vertex AI.
+Knowledge of how workflow scheduling solutions such as Apache Airflow and Google Composer related to data systems.
+Knowledge of using Infrastructure as code (Kubernetes, Docker) in a cloud environment.
+Cloud Certification on Data Engineer & Data Analytics.
+
+Exemption status
+Exempt
+
+Compensation Detail
+$147,929.60 - $214,489.60 / year
+
+Benefits eligible
+Yes
+
+Schedule
+Full Time
+
+Hours / Pay period
+80
+
+Schedule details
+Monday through Friday, 8:00 am to 5:00 pm
+
+Weekend schedule
+As needed
+
+Remote
+Yes
+
+International Assignment
+No
+
+Site description
+Mayo Clinic is located in the heart of downtown Rochester, Minnesota, a vibrant, friendly city that provides a highly livable environment for more than 34,000 Mayo staff and students. The city is consistently ranked among the best places to live in the United States because of its affordable cost of living, healthy lifestyle, excellent school systems and exceptionally high quality of life.
+
+Recruiter
+Miranda Grabner
+
+EOE
+As an Affirmative Action and Equal Opportunity Employer Mayo Clinic is committed to creating an inclusive environment that values the diversity of its employees and does not discriminate against any employee or candidate. Women, minorities, veterans, people from the LGBTQ communities and people with disabilities are strongly encouraged to apply to join our teams. Reasonable accommodations to access job openings or to apply for a job are available.

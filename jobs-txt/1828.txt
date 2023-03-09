@@ -1,0 +1,34 @@
+Company Description
+
+At Shopify, we build products that help entrepreneurs around the world start and grow their business. We’re the world’s fastest growing commerce platform with millions of merchants in more than 175 different countries, with solutions from point-of-sale and online commerce to financial, shipping logistics and marketing.
+
+Job Description
+
+Shopify is like an operating system for a merchant’s business. Like an operating system, it provides a lot of what each merchant needs out of the box, but merchants rely on the ability to customize Shopify to meet their particular needs. Those customizations are built by first and third party developers who make apps, themes, and extensions that virtually every merchant uses to power their business.
+The mission of the Build team is to provide tooling, capabilities, and infrastructure to make all commerce developers highly productive and to enable them to solve problems for merchants globally.
+We’re looking for a strong leader with a proven ability to partner with and be a part of product leadership teams.The Senior Data Science Manager will own projects whose scope impacts multiple disciplines and domains at Shopify. They are responsible for deliverables that have directional implications on multiple product or service lines in which they operate, and to build a strong data culture around them along with the individuals and leaders that report into them. Specifically, the Senior Data Science Manager will:
+Define and guide the short-term and long-term data strategy for Core Data Science - Build
+Partner with Engineering, Product, & Design to identify unsolved user and business needs resulting in data powered solutions that scale
+Provide technical leadership to our data science teams and lead them as they analyze data, implement statistical techniques, create data visualizations, and build data pipelines (using Python, Spark, SQL, Mode, Tableau...etc)
+Cultivate a data-informed culture and deliver meaningful insights that drive product roadmaps and optimize business strategies
+Drive excellent practices for establishing metrics & KPIs to drive cross-functional alignment
+Collaborate with peer leaders in the product line Data Science team, and the broader Data organization, to improve and drive the group-wide Data Science & Engineering vision
+
+Qualifications
+
+Been a leader in multiple tech companies where analytics on top of massive data sets drives product & business decisions
+A demonstrated track record of attracting top data/analytics talent, developing high-performance teams, and a knack for keeping top talent happy, challenged, and impactful
+Previously managed other managers and can oscillate your leadership style relative to the needs of individual contributors that are also on your team
+Exceptional problem solving and analysis skills combined with the ability to synthesize and effectively communicate findings to both technical and non-technical stakeholders
+A product mindset that enables you to get to the root of problems faced by customers and users and to create data solutions and products to solve these challenges
+Previous experience with developer ecosystems a plus
+
+Additional Information
+
+We know that looking for a new role can be both exciting and time-consuming, and we truly appreciate your effort. And remember, we want to know what you're really interested in building and why you want to build it at Shopify, so please give us as much detail on this as you'd like in the answers on the next page.
+Our belief is that a strong commitment to diversity & inclusion enables us to truly make commerce better for everyone. We encourage applications from Indigenous peoples, racialized people, people with disabilities, people from gender and sexually diverse communities, and/or people with intersectional identities. Please take a look at our Sustainability Reports to learn more about Shopify’s commitments to our communities, and our planet.
+Interested, but not ready to apply?
+Join the Shopify Talent Community to learn more about us, while you polish up your resume: https://www.shopify.com/careers/teams/engineering
+At Shopify, we understand that experience comes in many forms. We’re dedicated to adding new perspectives to the team - so if your experience is this close to what we’re looking for, please consider applying.
+Our belief is that a strong commitment to diversity & inclusion enables us to truly make commerce better for everyone. We encourage applications from Indigenous peoples, racialized people, people with disabilities, people from gender and sexually diverse communities, and/or people with intersectional identities. Please take a look at our Sustainability Reports to learn more about Shopify’s commitments to our communities, and our planet.
+At Shopify, we understand that experience comes in many forms. We’re dedicated to adding new perspectives to the team - so if your experience is this close to what we’re looking for, please consider applying.

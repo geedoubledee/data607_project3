@@ -1,0 +1,43 @@
+The Health Equity team is dedicated to ensuring that all consumers and communities have equal opportunity to achieve their optimal health status.
+In this role, you will use your data visualization skills to create impactful graphs, figures and reports that illuminate opportunities to address existing health disparities that disproportionally impact people of color, sexual and gender minorities, people with disabilities and other vulnerable populations.
+
+You will work closely with a lead analytic consultant to identify and calculate relevant metrics, create appropriate data summaries, design and create dashboard products.
+Key responsibilities include:
+Develop and maintain consistent template and style guide for Health Equity dashboards
+Design visually impactful, meaningful and easy to navigate dashboards that tell a story without overwhelming the end user with too much information
+Own the end-to-end development process for new dashboards, from initial design through testing, revision, publication, automation and maintenance
+Develop and validate metrics and calculations that are relevant and accurate
+Present dashboards products to a wide variety of technical and non-technical audiences
+Execute iterative updates to dashboards and coordinate releases of refreshed data and design enhancements
+Maximize dashboard performance and troubleshoot technical issues
+Manage dashboard access
+
+Pay Range
+The typical pay range for this role is:
+Minimum: 95,000
+Maximum: 209,000
+
+Please keep in mind that this range represents the pay range for all positions in the job grade within which this position falls. The actual salary offer will take into account a wide range of factors, including location.
+
+Required Qualifications
+3+ years of experience developing Tableau dashboards
+5+ years of experience in working with and summarizing large datasets, using SQL, SAS, or Python
+
+Preferred Qualifications
+Prior experience analyzing healthcare data from several platform systems or sources and synthesizing it to draw conclusions on critical next steps
+Interest in public health, community health, civil rights, social determinants of health
+Experience combining and standardizing data collected and stored across multiple platforms
+Understanding of advanced calculations
+Working knowledge of Tableau administration
+Attention to detail and accuracy
+Excellent communication skills
+Ability to present to a wide range of stakeholders
+Ability to work independently and proactively problem solve
+Ability to collaborate with cross functional teams in a highly matrixed work environment
+Advanced degree majoring in data science, epidemiology, public health, statistics, computer science or related field a plus
+
+Education
+Bachelor’s Degree or equivalent experience
+
+Business Overview
+Bring your heart to CVS Health Every one of us at CVS Health shares a single, clear purpose: Bringing our heart to every moment of your health. This purpose guides our commitment to deliver enhanced human-centric health care for a rapidly changing world. Anchored in our brand — with heart at its center — our purpose sends a personal message that how we deliver our services is just as important as what we deliver. Our Heart At Work Behaviors™ support this purpose. We want everyone who works at CVS Health to feel empowered by the role they play in transforming our culture and accelerating our ability to innovate and deliver solutions to make health care more personal, convenient and affordable. We strive to promote and sustain a culture of diversity, inclusion and belonging every day. CVS Health is an affirmative action employer, and is an equal opportunity employer, as are the physician-owned businesses for which CVS Health provides management services. We do not discriminate in recruiting, hiring, promotion, or any other personnel action based on race, ethnicity, color, national origin, sex/gender, sexual orientation, gender identity or expression, religion, age, disability, protected veteran status, or any other characteristic protected by applicable federal, state, or local law. We proudly support and encourage people with military experience (active, veterans, reservists and National Guard) as well as military spouses to apply for CVS Health job opportunities.

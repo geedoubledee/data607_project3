@@ -1,0 +1,40 @@
+****PLEASE READ Throughly***
+Data Scientist - Remote
+Expert Technical Solutions has an immediate opening for a Data Scientist with one of
+our premier clients in the Texas market. Our clients’ data science team partners with
+trading groups to find practical applications for machine learning and other specialized technologies that contribute to our profitability.
+The Data Scientist will be responsible for leveraging large, complex datasets to gain an objective view of commodities markets. They will evaluate and develop trading strategies based on their insights and inform the development of analytical systems that streamline the process of generating ideas. Further, they will experiment with new techniques and datasets to expand the capabilities of the Data Science team.
+The successful candidate must have the following attributes:
+Advanced analytical skills
+High sense of urgency
+Interpersonal skills to work directly with traders and analysts
+Exceptional oral and written communication skills
+Great team player
+Ability to work independently and remain highly motivated and self-directed
+Responsibilities:
+Work closely with analysts, traders, developers, and other data scientists to develop powerful analysis, models, and analytical solutions
+Identify and collect relevant datasets along with Analysts and Developers
+Design and upkeep explanatory data models
+Design and evaluate trading strategies
+Produce predictive models and maintain forecast datasets
+Promote a culture of experimentation that challenges conventional financial modelling
+Required Skills: None NegotiableNote: Exceptional oral and written communication skills - of High Importance
+At least 1 year of Real-World, company experience as a data scientist withstrong Machine Learning skills
+Strong Python programming experience - knowledge of Python libraries such as NumPy, SciPy, pandas, matplotlib, seaborn, scikit-learn, keras/TensorFlow, statsmodel, etc.
+Experience with Time Series Data
+Experience in the commodities/mineral trading industry
+Degree is required - preferably a Master's in Data Science or Engineering/Analytics/math/science
+Strong Cloud background - AWS, Azure, Google Cloud
+Job Type: Full-time
+Salary: Up to $160,000.00 per year
+Schedule:
+8 hour shift
+Education:
+Master's (Preferred)
+Experience:
+Machine learning models: 1 year (Required)
+Python Programming: 5 years (Required)
+Time Series Data: 1 year (Required)
+commodities/mineral trading industry: 1 year (Required)
+Cloud background - AWS, Azure, Google Cloud: 5 years (Required)
+Work Location: Remote

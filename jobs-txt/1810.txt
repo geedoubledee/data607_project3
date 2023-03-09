@@ -1,0 +1,23 @@
+We need a senior Purview Subject matter expert with extensive Data Ingestion experience from Data Warehouses (SQL, AWS, Main Frame) to Purview. This is not a governance/GRC position it is all about creating Data Pipelines for Data Ingestion into Purview.
+MUST HAVE PURVIEW EXPERIENCE.
+JOB DESCRIPTION:
+Job Description: Architect/Engineer will be responsible for the analysis, design, documentation and review of technology solutions for business projects.
+Data Ingestion experience from Data Warehouses (SQL, AWS, Main Frame) to Purview
+Solid understanding of Microsoft Purview architecture and administration
+Implementation of compliance solutions including multiple Microsoft 365 apps and services
+Working knowledge of JSON, JavaScript, CSS and KQL (Kusto Query language)
+Experience planning and designing modern DLP strategies
+Experience designing and implementing integrations between Microsoft compliance solutions and Microsoft Security workloads such as Defender for Cloud Apps and Conditional Access
+Experience planning and performing migrations from legacy DLP to Purview
+Possess Microsoft 365 knowledge and understanding of security and compliance capabilities (DLP, Azure B2B, AIP, Classifications)
+Possess broader Microsoft Purview product knowledge and understanding of Purview features (eDiscovery, Governance, Audit, Communication Compliance, Customer Lockbox, Data Catalog, Data Connectors, Data Lifecycle Management, Data Map, Double Key Encryption, Records Management, Insider risk Management, Information Barriers)
+Ability to understand current state and create a roadmap and recommendations to achieve improvements throughout JM Family DevOps journey
+Job Type: Contract
+Pay: $60.00 - $70.00 per hour
+Schedule:
+8 hour shift
+Experience:
+Purview: 10 years (Preferred)
+Data Ingestion: 10 years (Preferred)
+Data warehouse: 10 years (Preferred)
+Work Location: Remote

@@ -1,0 +1,28 @@
+Why join Kalibrate?
+
+We're on a mission to create a world without guesswork - where every business has access to the insights that drive economic growth and shape thriving communities, today and in the future. We exist to help these businesses make better decisions - so they can identify opportunities, understand risk, invest smarter and outperform their competition.
+
+With the power of sophisticated data science, machine learning, and AI, we analyse countless data sources to identify the information that matters – enabling our customers to truly know their market and answer their most critical business questions with confidence.
+The Kalibrate team is over 300 strong across the globe, and we serve more than 1000 customers from retail, fuel, grocery, restaurants, healthcare and service retail in over 70 countries.
+
+What is the role?
+We are looking for an experienced MSSQL Database Administrator to join our Operations team at Kalibrate.
+
+You will be part of a fast-moving and high-performing team spread across the US and the UK. Responsible for designing, creating, and maintaining the availability and performance of our global Cloud-based Database infrastructure. Our focus is to promote and enable career growth.
+You will have a genuine passion for technology, be motivated to take strong ownership of actions and be keen to learn new skills and further yourself.
+
+The role is fully remote, however, we need you to be located in the Eastern time zone to have some overlap with the team in the UK. We also have multiple office locations in the eastern part of the US and you are more than welcome to use them if you live near one.
+
+The role comes with a comprehensive health/dental insurance package, 401k with company match, 15 PTO days and paid maternity/paternity leave. The salary will be shared by the recruiter during the first call.
+
+What do you bring to the (virtual) table?
+An impressive amount of SQL server experience, including the newest versions (a little bit of Cosmos DB is nice)
+Experience establishing and evolving oversight, transparency and governance of a SQL estate
+Experience owning large-scale deployments and significant data sets
+A track record in establishing standards and ensuring adherence to them
+A primary focus on data and platform security
+Optimisation of our Cloud Database Infrastructure (Azure).
+Building, maintaining and monitoring the Database environment.
+Owning or being involved in technical decision-making regarding Database implementation.
+Troubleshooting Database performance issues or live issues.
+If this is you, then click that apply button! If you do not have the right to live and work in the US, please do not apply.

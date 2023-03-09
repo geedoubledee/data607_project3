@@ -1,0 +1,52 @@
+Purpose of Job
+About USAA
+USAA knows what it means to serve. We facilitate the financial security of millions of U.S. military members and their families. This singular mission requires a dedication to innovative thinking at every level.
+
+The Director, Data Science – Retail Banking Strategy leads a team of advanced data and analytics professionals passionate about developing machine learning and artificial intelligence solutions crafted to support go-to-market, personalization, and operational optimization strategies across deposit, payments, credit cards, and consumer lending products and services.
+
+Applies technical skill and in-depth understanding of business processes and practices to influence the creation and execution of operational and strategic plans. Partners with IT and other areas to build major improvements to analytical processes and systems. Advises Senior Leadership on the development of data science solutions and long-term goals and or strategies. Maintains relationships with academic and industry leaders with vision to ensure the enterprise has access to groundbreaking thinking and technologies.
+
+USAA values a culture that is highly collaborative, and we have found that a hybrid work type helps employees gain the best of both worlds – collaborating in-person in the office and working from home. The actual onsite days are settled between each employee and the employee’s manager. Candidates are encouraged to live a commutable distance from one of our offices in San Antonio, TX or Plano, TX.
+Job Requirements
+Identifies and manages existing and emerging risks that stem from business activities and the job role.
+Ensures risks associated with business activities are effectively identified, measured, supervised, and controlled.
+Follows written risk and compliance policies, standards, and procedures for business activities.
+Collaborates with other analytical leaders to fulfill the strategic direction of the business through data and information exploration, research of emerging technologies or analytical techniques and long-term defined/project specific strategic assignments.
+Coordinates and implements the exploration of promising new technologies, analytical methods, and data sources (internal to USAA & external) that have potential to contribute to the enterprise.
+Partners with enterprise analytical and IT teams to build USAA core capabilities and processes.
+Identifies additional resource needs ranging from IT investments, 3rd party support or additional analysts.
+Understands the business direction, and environment and strategies to identify and recommend solutions that influence decision makers and inspire change.
+Advises the design and construction of large and sophisticated data sets from large amounts of structured and unstructured data (internal and external) to enable analytical solutions.
+Builds and leads a hard-working team of experts in sophisticated analytics; develops team reputation as highly skilled experts in the field of data science.
+Minimum Qualifications:
+Master’s degree in Computer Science, Applied Mathematics, Quantitative Economics, Statistics, or related field; 6 additional years of related experience beyond the minimum required may be substituted in lieu of a degree.
+8 years of experience in predictive modeling, large data analysis and computer science.
+3 years of direct management experience.
+Experience in stochastic modeling, machine learning, and other sophisticated mathematical techniques (e.g., neural nets, simulation, graph analysis).
+Expert in at least one compiled language (e.g., Java, C) and one dynamic scripting language (e.g., Python, PERL, Ruby).
+A strong track record of communicating results, insights, and technical solutions to Senior Executive Management (or equivalent).
+Extensive background in data mining and statistical analysis.
+Excellent pattern recognition and predictive modeling skills.
+Knowledge and application of Data Science principals and experience with data science methodologies.
+Experience with the following statistical and predictive modeling approaches: Gaussian Process; Markov Models; Hierarchical Clustering; K-Means; Linear Regression; Logistic Regression; Monte Carlo Simulation; Neural Networks.
+Deep technical skills, consulting experience, and business savvy to collaborate with all levels and fields within our customers’ organization.
+Demonstrated ability to communicate ideas with team members and/or business leaders to convey and present very technical information to an audience that may have little or no understanding of technical concepts in data science.
+Preferred Qualifications:
+US military experience through military service or a military spouse/domestic partner.
+Graduate degree (MA/MS/PhD) in Data Science, Applied Statistics/Mathematics, Business Analytics/Administration, Engineering, Economics, Finance, or a related field.
+6+ years of direct management experience, including at least 3 years leading highly technical teams of data scientists, decision scientists, business intelligence analysts and/or business strategy analysts.
+6+ years of experience producing insights and recommendations for Retail Banking product lines across Pricing, Marketing, Sales, Channels, Risk, Portfolio Management, Regulatory Compliance, and Customer Experience.
+6+ year of experience working on strategic initiatives in highly matrixed cross-functional environments.
+Results oriented, customer focused, creative, and persistent problem solver with proven ability to develop, prioritize, empower, and lead multi-functional teams with a diverse set of backgrounds.
+Excellent interpersonal, verbal, and written communication skills focused on effectively delivering presentations of varying technical subject matters to senior management and executive levels.
+The above description reflects the details considered necessary to describe the principal functions of the job and should not be construed as a detailed description of all the work requirements that may be performed in the job.
+Compensation:
+USAA has an effective process for assessing market data and establishing ranges to ensure we remain competitive. You are paid within the salary range based on your experience and market position. The salary range for this position is: $155,400 - $279,800.
+Employees may be eligible for pay incentives based on overall corporate and individual performance or at the discretion of the USAA Board of Directors.
+Geographical Differential: Geographic pay differential is additional pay provided to eligible employees working in locations where market pay levels are above the national average.
+Shift premium will be addressed on an individual basis for applicable roles that are consistently scheduled for non-core hours.
+Benefits:
+At USAA our employees enjoy best-in-class benefits to support their physical, financial, and emotional wellness. These benefits include comprehensive medical, dental and vision plans, 401(k), pension, life insurance, parental benefits, adoption assistance, paid time off program with paid holidays plus 16 paid volunteer hours, and various wellness programs. Additionally, our career path planning, and continuing education assists employees with their professional goals.
+To see details on our outstanding benefits, visit USAA Total Rewards.
+Relocation assistance is not available for this position.
+USAA is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, or status as a protected veteran.

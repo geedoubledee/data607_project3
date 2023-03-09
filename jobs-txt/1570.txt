@@ -1,0 +1,26 @@
+Our mission at Duolingo is to develop the best education in the world and make it universally available. But we've got more left to do — and that's where you come in!
+Duolingo is the most popular language-learning application in the world, with over 500 million users and over half a billion exercises completed daily. Beyond our core learning product, we have also entered into literacy with Duolingo ABC, English proficiency testing with the Duolingo English Test, and even Math.
+We are passionate about educating our users, making fact-based decisions, and finding innovative solutions to complex problems. We offer meaningful work, limitless learning opportunities, and collaboration with world-class minds. Come brighten your life and over half a billion more!
+As Head of Data Science, you will lead our elite team of data scientists who work closely with product and engineering teams and are subject-matter experts in user dynamics at Duolingo. The team focuses on detecting, explaining and actioning against behavioral shifts within our complex, constantly evolving business using extensive datasets. Your superpower is the ability to translate business questions into data science projects, and data analysis or statistical models back into decisions. As the data science leader, you'll shape how 'all things' data and data science contribute to Duolingo's strategy.
+What you'll do...
+Be the "go to" data science partner for the senior leadership team
+Advance Duolingo's data science capabilities and impact; integrating innovative solutions, providing thought leadership to drive business value, and cultivating close partnerships with a broad range of leaders across the company
+Lead and grow our elite data-science team
+What we're looking for…
+PhD in a quantitative field (e.g., statistics, economics, computer science, computational psychology)
+5 or more years or experience leading and growing teams and people
+Strong ability to establish and advance how data-science informs product strategy. Find opportunities for impact, explain data science concepts and findings to diverse executive audiences, and build decision confidence by sharing expertise in facts and uncertainties.
+Experience with analyzing large datasets
+Skilled in SQL, R, Python, and statistical methods to analyze behavioral data
+Excellent presentation and communication skills
+Why you'll love working here…
+Language learning opportunities
+Catered in-house lunches, and breakfast and dinner options
+Company-wide Hackathon
+PTO and company holidays
+Frequent company-wide dinners, monthly celebrations, social clubs, and so much more!
+We invest in and support our Duos! This role is eligible for a robust compensation package of base salary, equity, and Duolingo's world-class benefits. The starting base salary range for this role is, $195,800 - $314,100. Actual salary may vary based on level, work experience, performance, and other factors evaluated during the hiring process.
+We will do everything we can within reason to make sure that your interview takes place in an environment that fairly and accurately assesses your skills. If you need assistance or accommodation, please contact your recruiter.
+Because Duolingo requires all employees to return to work from an office, all employees will need to be fully vaccinated against COVID-19 as recommended by the Centers for Disease Control and Prevention to remain employed unless they have an exemption to vaccination pursuant to a required reasonable accommodation. This is so that our employees feel safe in the office.
+Take a peek at how we care for our employees' holistic well-being with our benefits here.
+Duolingo is proud to be an Equal Employment Opportunity employer. We do not discriminate based upon race, religion, color, national origin, gender (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender identity, gender expression, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics.

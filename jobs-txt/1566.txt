@@ -1,0 +1,47 @@
+Health Data & Management Solutions, Inc. (HDMS), a subsidiary of CVS Health, is a premier healthcare data analytics company. We work with leading Fortune 500 employers, health plans and provider groups. We transform and enhance claims, eligibility and a wide variety of other data inputs into a high-value decision-support asset for our clients. Over 7,500 users at more than 100 customers use our web-enabled analytic platform for healthcare business intelligence. HDMS is seeking a Lead Data Scientist to join our Customer Experience Team.
+
+The Lead Data Scientist is responsible for helping HDMS meet and exceed its corporate goals and expectations. You will be responsible for two distinct areas of responsibility: (1) leveraging their expertise in designing and executing on the analytic plans for key employer clients and offering support for other HDMS account teams; (2) leading the relationship and project management of key employer clients, and will work with an established team composed of clinical, analytic, data science, and customer experience resources.
+
+In this role, the Lead Data Scientist supports frequent calls and onsite visits with customers through project management of ongoing and new initiatives with the client. You will develop and deliver on clients’ analytic agendas based on business needs, presents observations and recommendations to clients, coordinates with a diverse, interdisciplinary internal team supporting client analytics. You will also interface and collaborate with benefit consultants and other advisors, as needed.
+
+Furthermore, you will:
+Coordinate with Data Operations in identifying and researching client data related issues.
+
+Be responsible for client issue management and issue triage, overseeing data quality assurance for clients
+
+Contribute to successful and timely recurring data refreshes
+
+Serve as first-line product expert to clients
+
+Identify opportunities for additional revenue by developing additional analytic use cases.
+
+To be successful, you will utilize your excellent project management and organizational skills, plus your strong communications and analytical skills to distill complex findings into simple explanations. A demonstrated passion for teamwork and solving business problems will also be key to your success.
+
+Pay Range
+The typical pay range for this role is:
+Minimum: 95,000
+Maximum: 209,000
+
+Please keep in mind that this range represents the pay range for all positions in the job grade within which this position falls. The actual salary offer will take into account a wide range of factors, including location.
+
+Required Qualifications
+10+ years of complex analytic experience required, preferable using large claims databases to identify cost, utilization, and population health trends.
+
+Experience using analytic solutions for very large databases required.
+
+Experience in employer-sponsored healthcare required.
+
+Experience in consultative selling required.
+
+Strong relationship management experience with complex, flagship client relationships required.
+
+Preferred Qualifications
+Experience with non-claims data sources within the employer plan-sponsored ecosystem preferred. Willingness to learn new analytic methods.
+
+Graduate Degree or Professional licensure preferred.
+
+Education
+Bachelor's degree or equivalent experience required
+
+Business Overview
+Bring your heart to CVS Health Every one of us at CVS Health shares a single, clear purpose: Bringing our heart to every moment of your health. This purpose guides our commitment to deliver enhanced human-centric health care for a rapidly changing world. Anchored in our brand — with heart at its center — our purpose sends a personal message that how we deliver our services is just as important as what we deliver. Our Heart At Work Behaviors™ support this purpose. We want everyone who works at CVS Health to feel empowered by the role they play in transforming our culture and accelerating our ability to innovate and deliver solutions to make health care more personal, convenient and affordable. We strive to promote and sustain a culture of diversity, inclusion and belonging every day. CVS Health is an affirmative action employer, and is an equal opportunity employer, as are the physician-owned businesses for which CVS Health provides management services. We do not discriminate in recruiting, hiring, promotion, or any other personnel action based on race, ethnicity, color, national origin, sex/gender, sexual orientation, gender identity or expression, religion, age, disability, protected veteran status, or any other characteristic protected by applicable federal, state, or local law. We proudly support and encourage people with military experience (active, veterans, reservists and National Guard) as well as military spouses to apply for CVS Health job opportunities.

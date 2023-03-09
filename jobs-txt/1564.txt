@@ -1,0 +1,23 @@
+if you are interested by sending a cover letter and resume to us at info@hotfix2.com.
+
+Junior Developer – Business Intelligence (ETL)
+Job Responsibilities
+The successful candidate will work with high level BI-ETL developers to convert legacy Teradata BTEQ scripts into Informatica mappings/workflows that will populate a new Hadoop/SQL Server Data Warehouse. Primary duties include, but are not limited to:
+Building/interpreting design documents
+Building/interpreting mapping documents
+Building/completing test documents
+Participate in technical design reviews and code reviews
+Understand and adhere to ETL best practices
+Develop and troubleshoot Informatica code
+Participate in peer review sessions
+Required Skills
+Prior experience using MS Office (word, excel, outlook)
+Excellent oral/written communication
+Preferred Skills
+Fundamental understanding of database concepts
+Experience with UNIX scripting
+Experience with large-scale data warehouses
+ETL experience
+Hadoop Experience
+Java background
+Background in transportation industry

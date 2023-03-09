@@ -1,0 +1,53 @@
+Location: 100% REMOTE
+Start: ASAP
+Duration: 6 months
+Interviews: MS Teams video
+Pay Rate Range: $75/hour
+
+Summary
+The Division of Information Technology Services (ITS) is currently seeking a talented individual to fill the role of Machine Learning Engineer. We are looking for an expert in machine learning to help us extract value from our data. The person who fills this role will lead all the processes for new virtual assistants, from data collection, cleaning, and preprocessing, to training models and deploying them to production. This individual will be responsible for aligning the models with the university’s overall machine learning strategy and road map.
+
+The ideal candidate will be passionate about artificial intelligence and stay up-to-date with the latest developments in the field. This individual will also be passionate about delivering an exceptional customer experience. We are currently in development of 2 bots hosted on the ServiceNow and the Microsoft Azure Bot Service platforms. This role will be responsible for updates and maintenance, and ongoing customer support as necessary.
+
+We are looking for a mentor to work with resources within and outside of existing Customer Experience (CX) team to leverage our data and provide an enhanced experience for our community. This role will need to collaborate and work with key groups and stakeholders across IT Services and the university. Representing ITS, the successful candidate will have strong collaboration, communication, and customer service skills to successfully partner with members across the community (at various levels).
+
+To ensure that essential services are provided to the university community, a flexible schedule is required. The employee may be required to work outside his/her regular working hours and on university holidays.
+
+Qualifications
+Proficiency with a deep learning framework such as TensorFlow or Keras
+Proficiency with languages such as JavaScript, HTML, Python, SQL, and C++.
+Expertise in visualizing and manipulating big datasets (pulling from AWS, CRMs, etc)
+Proficiency with OpenCV
+Familiarity with Linux
+Ability to select hardware to run an ML model with the required latency
+Familiarity with ServiceNow and/or Microsoft Azure Bot Services preferred
+
+Excellent interpersonal, communication and organizational skills are required. Excellent analytical and troubleshooting skills are necessary.
+
+Strong written communication skills are preferred, as is the ability to adapt to and follow an organization’s voice, tone, and style.
+
+Breakdown of time:
+
+Analysis- 50% of the time
+Understanding business objectives and developing models that help to achieve them, along with metrics to track their progress
+Analyzing the ML algorithms that could be used to solve a given problem and ranking them by their success probability
+Verifying data quality, and/or ensuring it via data cleaning
+Supervising the data acquisition process if more data is needed
+Finding available datasets online that could be used for training
+
+Design – 25% of the time
+Exploring and visualizing data to gain an understanding of it, then identifying differences in data distribution that could affect performance when deploying the model in the real world
+Defining validation strategies
+Defining the preprocessing or feature engineering to be done on a given dataset
+Defining data augmentation pipelines
+
+Deploy – 15% of the time
+Managing available resources such as hardware, data, and personnel so that deadlines are met
+Training models and tuning their hyperparameters
+Analyzing the errors of the model and designing strategies to overcome them
+Deploying models to production
+
+Collaboration – 10% of the time
+Collaborating with customers, stakeholders, and service owners to build out solutions
+
+PFUMFt9Frk

@@ -1,0 +1,35 @@
+Company Overview and Culture
+EXL (NASDAQ: EXLS) is a global analytics and digital solutions company that partners with clients to improve business outcomes and unlock growth. Bringing together deep domain expertise with robust data, powerful analytics, cloud, and AI, we create agile, scalable solutions and execute complex operations for the world’s leading corporations in industries including insurance, healthcare, banking and financial services, media, and retail, among others. Focused on creating value from data for driving faster decision-making and transforming operating models, EXL was founded on the core values of innovation, collaboration, excellence, integrity and respect. Headquartered in New York, our team is over 40,000 strong, with more than 50 offices spanning six continents. For information, visit www.exlservice.com.
+
+For the past 20 years, EXL has worked as a strategic partner and won awards in its approach to helping its clients solve business challenges such as digital transformation, improving customer experience, streamlining business operations, taking products to market faster, improving corporate finance, building models to become compliant more quickly with new regulations, turning volumes of data into business opportunities, creating new channels for growth and better adapting to change. The business operates within four business units: Insurance, Health, Analytics, and Emerging businesses.
+
+Key Responsibilities:
+Maintains database management systems in database modelling, schema design, implementation, maintenance and administration in a cloud platform environment
+Development, maintenance and testing of Microsoft SQL Server/SSIS/SSRS & Visual Studio solutions
+Extensive data quality and data migration experience including proficiency in data warehousing, data analysis and conversion planning for data migration activities
+Under limited supervision, maintains and monitors database utilities, the relationships between the database users and applications, uses query languages in order to support clients.
+Data migration/data management experience with end-to-end implementation
+Manage capture of source/target mappings and transformations based on project requirements
+Under limited supervision, maintains database support tools, database tables and dictionaries, recovery and backup procedures.
+Under limited supervision, analyzes, designs, creates and implements databases, including logical and physical databases, schemas, access methods, validation checks
+Technical Skills:
+Strong skills of SQL transactional replications.
+Monitoring/Trouble-shooting SSIS package errors via the Visual Studio Data tool.
+Monitoring scheduled SQL agent jobs
+Proficiency-level of T-SQL (Store Procedures, Triggers, Functions)
+Trouble-shooting database locks and performance tuning.
+Knowledge of both AWS and Azure Clouds.
+Hands-on data migration experience.
+Data modelling and schema management (DML, DDLs) for columnar and relational databases
+Candidate Profile:
+Bachelor’s/Master's degree in computer science/engineering or related areas
+Proficient in Microsoft® SQL preferred: SQL query skills, comprehensive understanding of SQL Table structure and an understanding of relational databases
+Have Microsoft or other professional DBA certification
+Have strong working knowledge in AWS and/or Azure environment
+EEO/Minorities/Females/Vets/Disabilities
+
+Please be aware that EXL requires all employees to be vaccinated for COVID-19. This position will require the successful candidate to obtain and show proof of a vaccination. EXL is an equal opportunity employer, and will provide reasonable accommodation to those individuals who are unable to be vaccinated consistent with federal, state, and local law.
+
+Base Salary Range Disclaimer: The base salary range represents the low and high end of the EXL base salary range for this position. Actual salaries will vary depending on factors including but not limited to: location and experience. The base salary range listed is just one component of EXL's total compensation package for employees. Other rewards may include bonuses, as well as a Paid Time Off policy, and many region specific benefits.
+
+Please also note that the data shared through the job application will be stored and processed by EXL in accordance with the EXL Privacy Policy.

@@ -1,0 +1,47 @@
+JOB Title: Senior Director of Data Science
+
+Location: Nashville, TN (virtual is fine too)
+
+What We’re Looking For
+The Senior Director of Data Science will be responsible for building and executing our data strategies to drive improvements to our online platform that increase customer sales, engagement and persistency. This role will work closely with Product, Engineering and Business Development leadership to create data analysis and data models to help advise consumers using our digital platform on their best health insurance plans.
+
+This role reports to the COO with high visibility across the C-suite, including the CEO and our Board.
+
+What You’ll be Doing
+Drive continuous improvement opportunities of current predictive modeling algorithms, and lead the development and implementation of new predictive modeling algorithms
+Serve as our methodology expert and provide guidelines to the team for applying appropriate algorithms or solutions to approach different data challenges
+Work effectively with product, engineering and CX teams to improve the digital customer experience to drive online sales
+Provide guidance to the team on working with datasets of varying degrees of size and complexity including both structured and unstructured data
+Lead batch and real-time model scoring to drive actions for online consumer product selection
+Lead communication, publish results and address constraints/limitations with business partners
+Proactively collaborate with business partners to determine identified population segments and develop actionable plans that enable the identification of patterns related to quality, use, cost and other variables
+
+Your Experience
+Bachelor’s degree in Statistics, Computer Science, Mathematics, Machine Learning, Econometrics, Physics, Biostatistics or related Quantitative disciplines and substantial experience in predictive analytics or equivalent
+Must have advanced expertise with software such as Python, R, SAS, SAS Enterprise Miner or equivalent platforms
+Experience with consumer-facing software platforms or marketplaces
+Experience leading end-to-end data science project implementation
+Experience with presenting project output to a wide range of audiences
+Ability to collaborate across multiple teams and influence business decisions
+Ability to identify business needs and build business cases for investment
+Proven track record of driving results from identified business opportunities
+
+Other “Preferred” Skills
+Worked in a regulatory environment
+Understanding of the “Senior Consumer” (55+)
+Healthcare experience welcomed but not essential
+Experience managing and building high performing teams
+
+COMPANY PROFILE:
+Healthpilot is a digital, consumer engagement platform making healthcare easy, efficient and effective for every customer. Our initial business focus is the Medicare insurance space, aiming to help each customer enroll online in the right Medicare product with the best insurance partner given the customer’s specific health and economic needs. Medicare products include Medicare Advantage, Supplement and Prescription Drug plans.
+
+HIGH-GROWTH ENVIRONMENT:
+Founded in November 2020, Healthpilot offers a dynamic, high-growth environment where you will have the opportunity to develop professionally and be part of a collaborative team. We offer an exciting and mission-driven work environment for people who want to solve problems and gain experience in technology and healthcare. Healthpilot is well capitalized and has partnered with a multi-billion dollar NYSE-traded enterprise to build and rapidly grow the business. We invest in our people at Healthpilot because people are our most important asset.
+
+BENEFITS:
+We are committed to providing a comprehensive set of benefits choices to meet different employee needs and lifestyles. Employees can take an active role in designing a personal strategy to help meet their short-term and long-term “health care and insurance” and “retirement savings” objectives. Benefit plans include medical and dental insurance, health spending accounts, and 401(k) savings with a company matching program. In addition to health and welfare benefits, other employee programs are offered to eligible employees including paid sick, personal and vacation time away.
+
+COMPENSATION:
+Compensation plays a critical role in our ability to attract, retain and motivate our workforce. Our compensation framework is designed to align the long-term interests of our employees with those of our other stakeholders by generating sustained value and reinforcing personal accountability.
+
+Healthpilot is an Equal Opportunity Employer.

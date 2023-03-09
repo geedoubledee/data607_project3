@@ -1,0 +1,38 @@
+JOB SUMMARY:
+*****Position is based REMOTE-Globally*******
+Director of Data Science is a new role empowered to craft the vision and strategy for data science and advanced analytics for LexisNexis Global Operations (GO). This individual will be the technical subject matter expert raising the maturity of data-driven decision making across GO. The director will bring the collective applied and/or theoretical analytical and data science knowledge and be responsible for building a supporting team to execute on vision and strategy.
+The director will develop and lead implementation of data science and advanced analytics strategy for GO through the execution of strategic projects and best practices with emphasis on supporting growth, innovation and operational efficiency. Incumbent has responsibility for management of emerging GO Data Science team, while promoting data focused organizational values and culture. Influence extends outside the director's immediate team to other teams within GO. Director will collaborate with Global Technology organization on the development and implementation of data related solutions.
+QUALIFICATIONS:
+5+ years’ experience using NLP tools and methods such as OpenNLP, Stanford NLP, LDA, Gensim, spaCy
+Proficiency training large scale models in at least one modern deep learning engine such as Tensorflow, Keras, PyTorch/Torch, MXNet, Caffe/Caffe2
+Experience leading customer-centric, data-driven operations
+Demonstrated experience driving analytical efforts within a global matrixed organization
+Strong process, engineering and systems orientation
+Educational background in data science, engineering, information systems, other advanced degree or equivalent experience required – Masters degree in Data Science preferred
+Self-starter with ability and desire to build a high performing team/function
+Managerial experience preferred
+Excellent oral and written communication skills (English required)
+Ability to travel globally and adapt working hours to meet global business needs
+SKILLS:
+Understand complex business processes and associated data sets to deliver analytics solutions that integrate and support the end-to-end business process
+Create, manage and deliver Analytics projects, including collaboration with technical development resources
+Strong stakeholder relationship management skills with ability to effectively communicate and work directly with senior business leaders, including SLT
+Demonstrates competencies in relevant Data Science and Analytics skills, software packages and/or Statistical frameworks
+Able to apply Machine Learning, Data Mining, and/or Statistical methods to build advanced data models including predictive and prescriptive modelling
+Understands and creates typical data steps to prepare and process data for analysis
+Capable of developing a project plan and managing resources in the execution of that project plan
+Able to apply domain expertise to capture current and likely market trends
+ACCOUNTABILITIES:
+Development and implementation of the GO Data Science and Advanced Analytics roadmap
+Directs the GO Data Science team, including recruitment, retention, development and performance management of resources
+Management of and/or collaboration with other resources as required for roadmap delivery
+Work with stakeholders to prioritize roadmap items
+Partner with GO leaders to identify opportunities to leverage data to deliver business value
+Identify and make recommendations for improvement to existing processes and procedures
+Interface with GO, GTO and BPS resources as required
+Managing numerous concurrent projects
+Define key performance parameters, measure progress and provide senior management updates
+Monitor and analyze new Advanced Analytics & AI technologies and make recommendations to management on their potential application to the business
+LexisNexis, a division of RELX Group, is an equal opportunity employer: qualified applicants are considered for and treated during employment without regard to race, color, creed, religion, sex, national origin, citizenship status, disability status, protected veteran status, age, marital status, sexual orientation, gender identity, genetic information, or any other characteristic protected by law. If a qualified individual with a disability or disabled veteran needs a reasonable accommodation to use or access our online system, that individual should please contact accommodations@relx.com or if you are based in the US you may also contact us on 1.855.833.5120.
+Please read our
+Candidate Privacy Policy

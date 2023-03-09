@@ -1,0 +1,27 @@
+Business Intelligence Report Developer
+Who You Are and What You'll Do
+The Business Intelligence Report Developer will work as part of the Data Services team reporting to the Manager of BI and Reporting. They will be primarily responsible for developing new SQL Server 2017 Reporting Services (SSRS) reports for multiple large-scale clients. Advanced knowledge of T-SQL is a requirement. Reporting will also be done within Tableau and/or Power BI, using views or cubes (MDX and DAX queries) – so OLAP and Snowflake knowledge are a big plus.
+The candidate will have a deep understanding of Snowflake and Star Schemas and will be experienced at writing complex but efficient queries and stored procedures to build reports and dashboards.
+
+What You'll Do Day to Day
+Designs, develops, and maintains various business intelligence applications (reports, dashboards, scorecards).
+Develops dashboards in Tableau and/or Power BI.
+Monitors report execution to determine if the run time of the reports is becoming too long and needs optimization.
+Provides feedback to the data warehouse build team to alert them to data issues or opportunities to expand the data warehouse to meet client expectations.
+Assist DW team with building SSAS cubes, ETL mapping or package updates in order to procure backend data sources and create efficiencies
+Performs extensive unit testing of BI applications before handing off to QA.
+Able to manage their own individual projects efficiently and to schedule with little oversight.
+Knowledge, Skills and Experience to be Successful in this Role:
+Minimum of 5 years' SQL programming experience.
+Minimum of 4 years' of experience working with SQL Server Reporting Services (at least version 2008 R2)
+Minimum of 2 years of Business Intelligence experience writing SQL to query Kimball style dimensional models that contain slowly changing dimensions.
+Experience using source control software, and deploying reports and dashboards from Visual Studio.
+2+ years' experience with dashboard software such as Power BI, Tableau, Qliksense, etc.
+Strong understanding of data warehouses and data analysis techniques including ETL design
+Able to multi-task while paying attention to the details.
+Strong oral and written communication skills. Ability to interact with clients, internal development staff, business analysts, etc.
+Experience with report subscriptions
+Able to performance tune queries.
+Experience with SSAS (MDX or DAX) a plus.
+Education
+Bachelor's degree preferred

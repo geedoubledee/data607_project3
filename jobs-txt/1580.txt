@@ -1,0 +1,33 @@
+Title: ETL Developer @ Charlotte, NC
+
+
+Job description :
+
+As a senior ETL developer. This position will report to the director of business intelligence and will be responsible for designing, developing, and supporting our organizations data warehouse. The position will assist with data analysis, constructing technical designs, developing ETL applications, communicating with team members and business stakeholders, and supporting existing ETL applications. This role will lead and coordinate the work activities of the ETL team and serve as the primary data warehouse architect. This position works closely with BI front-end developers to understand organizational data needs and will also work with the reporting team to create and maintain standards for data quality and database performance. The senior ETL developer will also work with IT to design the optimal hardware infrastructure to support current needs while planning to scale up as necessary.
+
+Your Role :
+Take on the most challenging and complex ETL projects
+Provide thought leadership and evolve technology standards, processes, and procedures in the area of ETL and data architecture
+Provide oversight to the development of the ETL team
+Design, develop, and support ETL solutions
+Assist with planning and resourcing of ETL projects
+Manage warehouse support activities while driving continuous improvement initiatives
+Establish and maintain data quality standards for the data warehouse
+Requirements :
+Bachelor's degree in Computer Science, Information Systems, or in a related discipline
+5+ years of IT Experience
+3+ years of ETL application development experience
+3+ years of ETL design experience
+5+ years MS SSIS experience
+5+ years MS SQL Server database experience
+3+ years Data modeling experience
+5+ SQL querying experience
+Strong ETL design skills
+Strong understanding of dimensional modeling techniques
+Significant, demonstrated experience with development and support of mission-critical BI/data warehouse applications
+Must be forward and strategic thinking, open to learning new technologies along with a demonstrated history of technology and process innovation
+Demonstrated problem solving, decision making, and leadership skills
+You Will Enjoy: :
+An opportunity to be a part of a great culture, an awesome team, a challenging work environment, and some fun along the way!
+Apply today to learn more and be part of our Growth story.
+All applications will be kept strictly confidential and once shortlisted, our team will be in touch with you for further discussions.

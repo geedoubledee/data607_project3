@@ -1,0 +1,49 @@
+Job Description:
+Manages teams that are responsible for performing data management, complex analysis and modeling that maximizes profits and asset growth and minimizes credit and operating losses and other risk exposures. Their team would provide data and analytical support on various product strategies to ensure company goals are met. Coordinates the production of databases, and performance reports for senior management. Manages the review and analysis of trends in current population distributions and recommends strategies. Directs the development of more complex databases, program models to extract data and use databases to provide statistical and financial modeling. Oversees the data design, analysis of portfolio trends, concerning credit score cutoffs, loss trends, portfolio dynamics, and bureau scoring criteria. Integrates the analysis team with other corporate units to ensure alignment of analysis with business strategies and objectives. Responsible for hiring and training Risk Analysis Specialist and Risk Analysis Analyst.
+Requires relevant degree and experience programming, developing and maintaining large, complex databases and data sets and using data mining and other advanced analytical techniques to aggregate data.
+The Enterprise Process Oversight Reporting and Analytics team designs and develops reports, dashboards, and analytical insights using natural language processing, phonetic analysis, lexicon based text analysis, and machine learning. Qualified individuals should have a keen interest in leading teams in finding practical business solutions using these tools, be passionate about breaking down complex business data problems, and able to support the delivery of well-designed data science solutions through effective program leadership. This will include providing both tactical insight in high viability projects as well as support of long term planning for next generation data analysis solutions. Candidates should have experience working in fasted paced R&D programs and&nbsp; a strong understand of the unique organizational and program leadership needs these environments require.&nbsp;&nbsp; The Program Manager be responsible for organizing and prioritizing teams work efforts to insure the team delivers maximum value to customers while minimizing program risk by driving adoption of best practices related to all aspects of workflow management with a focus on integration of agile principles at a program level. The roll will also act as the primary liaison with enterprise project management office, EPO Project management Center of Excellence, and other external stakeholders. Must be excited to be part of a fast paced organization, and enjoy the idea of understanding the root driver of our customers (both internal and external), intellectually curious and self-motivated to learn and experiment new techniques and approaches to solve business problems.
+KEY RESPONSIBILITIES
+Influences and partners with business to understand business strategy.&nbsp; Interacts on a regular basis with business leadership to ensure needs are understood and Technology updates are communicated on a consistent basis.
+Possesses an excellent understanding of the business processes, strategy and global perspective.
+Identifies technical capabilities required to support the business processes and collaborates in the development of information management strategies, developing them as an integrated part of the business strategy.
+Identifies industry trends and makes recommendations on how to enhance the existing business processes.
+Translates business requirements into functional requirements; performs business process mapping.
+Partners with Corporate Technology Teams to ensure user and functional requirements are understood.&nbsp;
+Reviews Statements of Work to ensure they clearly articulate the business need and elevates concern if estimates don’t seem to be in line with the work effort required to deliver the solution.
+Ensures Technology Project Management, Development, Testing and Implementation activities are established per project with Technology Partners.
+Represents the business to ensure projects are delivered on time, within budget and per defined requirements, in-line with service levels.
+Escalates issues to Management, as needed. Ensures technical support is delivered via appropriate Technology functions.
+Coordinates User Acceptance Testing and Training with business teams, as required, per project.
+Establishes and maintains productive relationships across all levels within Technology organization and external suppliers.
+Aware of evolving regulatory, legal and economic impacts for the Area.
+Responsible for compliance with applicable Corporate and Divisional policies and procedures.
+Provides regular status reporting and business insight to Leadership.
+Work with Business & Technology partners to devise new programs that support organization objective, strategy, and goals
+Minimum qualifications:
+Bachelor’s degree or equivalent experience.
+Minimum of 6-8 years of experience
+Successfully managed project portfolio with projects ranging from $100K-$5M
+Good influence and negotiating skills.
+Proven experience and understanding of the complete software life cycle.
+Good communication skills both verbal and written.
+Experience with business process design and operational excellence techniques.
+Formal Agile, Lean, and project management training including Project Management Professional training/certification
+Ability to work with a sense of urgency in order to meet critical deadlines.
+Detail oriented with strong investigative and problem solving skills.
+Strong applied statistical analysis back ground with understanding of business process control, statistical process control, risk-management, contingency planning, FMEA, sampling, and A/B Testing.
+Preferred Qualifications:
+Track record and business knowledge in pharmaceutical or medical device industry.
+Technology knowledge of the following disciplines a plus Commercial, Digital, EDI, eCommerce, Distributor Management, CRM, Mobility, ERP, Call Center System & Business Analytics
+Experience with vendor management, Phase 0s, Statement of Work (SOW) and Request for Proposals (RFP) reviews.
+Must be comfortable in collaborating with business leads, understanding business strategy/processes, looking for innovative solutions to drive business enhancements both for internal business users and external customers.&nbsp;
+Must have worked effectively with all levels of management up to and including Division Directors and VPs
+Experience with the following technologies a plus: Hadoop, Tableau, Machine Learning, AI, Natural Language processing, Nexidia/NICE Call Analytics
+Job Band:
+H4
+Shift:
+1st shift (United States of America)
+Hours Per Week:
+40
+Weekly Schedule:
+Referral Bonus Amount:
+0

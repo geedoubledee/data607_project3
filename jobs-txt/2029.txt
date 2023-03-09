@@ -1,0 +1,45 @@
+The Opportunity
+Bring your analytics mastery and skills to the cutting-edge digital healthcare arena! In your role as Director, Clinical Data Science, you will be a key leader of the research and data science function within our Value Based Care Analytics team. You will develop, refine, and apply novel methodologies to understand product performance based on cost and clinical outcomes and translate that information to support the successful delivery of value-based payment arrangements. You will organize and advise the team in conducting program evaluations for internal/external audiences, performing deep-dive analytics, and informing the organization on performance within our risk-based arrangements.
+For ultimate success in this role you’ll have a strong voice and perspective on how to scale our analytic capabilities, produce and deliver meaningful insights to our stakeholders, and lead a motivated team. We’re looking for a content matter expert in healthcare data and causal inference, a bridge-builder who can speak across a variety of functions throughout the organization, and someone who can both lead and contribute in different circumstances. We’re looking for someone who can listen to different perspectives and frameworks and turn varying inputs into actionable analytics. Your core competencies include leadership, creative problem solving, project management, curiosity and the drive to learn new methods, and the ability to execute.
+Responsibilities
+Lead and partner with a diverse team of data scientists, analysts, and actuaries in developing new insights to drive successful value-based payment arrangements through program evaluation, exploratory analyses, and evaluation of clinical and cost performance metrics
+Serve as subject matter expert and thought leader on causal inference and cost savings/ROI analyses that support value-based payment models
+Organize a team to advance multiple analyses simultaneously and learn together as new insights come to light
+Represent the Value Based Care Analytics team on cross functional efforts supporting the development of risk capabilities and data infrastructure improvements
+Analyze medical claims, pharmacy claims, proprietary Teladoc Health data, and other sources to understand which programs work for which clients – and why
+Identify Teladoc Health members at risk for poor health outcomes or increased medical spending to drive improvement actions
+Create cost and utilization reporting and analytics, including analytics to provide early warning insights
+Engage with stakeholders to identify key analytic questions or develop hypothesis related to outcomes drivers
+Lead a diverse team of data scientists through development and execution of our analytic pipeline, delivering key results to support success in Value Based Care
+Candidate Profile
+Demonstrated success in mentoring and guiding other analysts and shaping team dynamics through sharing strong perspective on scalability, sustainability, and culture
+10+ years’ experience as a healthcare analyst or data scientist, with strong quantitative and report development capabilities, or 7+ years’ experience with a Master’s degree or higher
+Experience in the healthcare industry working with managed care organizations, pharmaceutical benefit management organizations, government systems, hospital systems and integrated care systems
+Data domain expertise in causal inference, medical and pharmacy claims data, and cost and utilization metrics
+Strong data analysis skills, including using R, SQL, Python and/or other statistical software packages
+A knack for conveying our data’s stories in reports that spur data-driven decision-making
+The ability to manage multiple projects, exercising smart triage and good business judgment
+Strong respect for confidentiality
+Excellent verbal and written communication skills
+The people skills to maintain productive goal-achieving relationships with colleagues and external collaborators (even if numbers are your first love)
+A Bachelor’s degree in Health Services Research, Epidemiology, Business Analytics, or Data Science
+Experience with data engineering/ETL
+Experience developing and working in collaborative production coding environments to deliver analytic products or models
+Experience with standard health care groupers
+Technical interest and experience with data visualization
+Master’s degree in Health Services Research, Epidemiology, Business Analytics, or Data Science
+The base salary range for this position is $160,000-185,000. In addition to a base salary, this position is eligible for performance bonus, RSU’s, and benefits (subject to eligibility requirements) listed here: Teladoc Health Benefits 2022 . Total compensation is based on several factors including, but not limited to, type of position, location, education level, work experience, and certifications. This information is applicable for all full-time positions.
+Why Join Teladoc Health?
+
+A New Category in Healthcare: Teladoc Health is transforming the healthcare experience and empowering people everywhere to live healthier lives.
+
+Our Work Truly Matters: Recognized as the world leader in whole-person virtual care, Teladoc Health uses proprietary health signals and personalized interactions to drive better health outcomes across the full continuum of care, at every stage in a person’s health journey.
+
+Make an Impact: In more than 175 countries and ranked Best in KLAS for Virtual Care Platforms in 2020, Teladoc Health leverages more than a decade of expertise and data-driven insights to meet the growing virtual care needs of consumers and healthcare professionals.
+
+Focus on PEOPLE: Teladoc Health has been recognized as a top employer by numerous media and professional organizations. Talented, passionate individuals make the difference, in this fast-moving, collaborative, and inspiring environment.
+
+Diversity and Inclusion: At Teladoc Health we believe that personal and professional diversity is the key to innovation. We hire based solely on your strengths and qualifications, and the way in which those strengths can directly contribute to your success in your new position.
+
+Growth and Innovation: We’ve already made healthcare yet remain on the threshold of very big things. Come grow with us and support our mission to make a tangible difference in the lives of our Members.
+As an Equal Opportunity Employer, we never have and never will discriminate against any job candidate or employee due to age, race, religion, color, ethnicity, national origin, gender, gender identity/expression, sexual orientation, membership in an employee organization, medical condition, family history, genetic information, veteran status, marital status, parental status or pregnancy.

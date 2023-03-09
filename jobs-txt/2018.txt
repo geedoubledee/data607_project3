@@ -1,0 +1,37 @@
+Hiring a Data Scientist
+REMOTE-NJ
+Position Title:
+Data Scientist
+Provides architecture and model design consultation based on theoretical
+knowledge of statistics and computation. Application of Client/AI strategies to solve
+functional requirements.
+Responsibilities
+Design, build, and maintain automated predictive models to forecast and address
+traffic and Transportation Operations Management.
+Implement models and algorithms in prototype software leading into production
+deployment.
+Required Qualifications
+o Bachelor's degree in statistics, applied mathematics, or related discipline.
+o Deep knowledge of a variety of machine learning techniques (clustering, decision
+tree learning, artificial neural networks, etc.) and their real-world
+advantages/drawbacks.
+o Programming experience in Python, Java, Scala, R, etc. including neural network
+implementation, training, experimentation, and evaluation
+o Ability to apply common modeling best practices to build models using high-volume,
+asynchronous time series data in big data environments.
+o Advanced pattern recognition and predictive modeling experience.
+Desired Qualifications
+o Master's degree preferred.
+o Strong analytical ability; problem deconstruction, statistical thinking, meticulous
+forensic analysis, data validation, and scientific rigor with algorithms.
+o Programming experience with Big Data preparation/preprocessing, streaming data
+pipelines, and/or model deployment.
+o Experience on a broad set of Client approaches and techniques, ranging from Recursive
+Neural Network (e.g., LSTMs), ARIMA, GARCH.
+o Geospatial analysis experience.
+o Traffic data fusion algorithms and techniques.
+Job Types: Full-time, Contract
+Pay: $75.00 - $85.00 per hour
+Schedule:
+8 hour shift
+Work Location: Remote

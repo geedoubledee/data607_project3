@@ -1,0 +1,27 @@
+COVU is a venture-backed technology startup on a mission to modernize and digitalize independent insurance agencies and help everyday people better manage their risks and insurance in life by using AI and data analytics. We're building an all-in-one technology solution to allow agents to operate more efficiently and deliver a better customer experience. Our founders' backgrounds are in AI, Machine Learning, and data science—and we'll be heavily investing in these areas to be an AI-first company.
+
+We are looking for a hands-on Head of Data Science to take on a key role in our team and company vision going forward. With your help, we'll be establishing COVU's Data Science and Machine Learning function. This will involve everything from designing new data models to deploying them in production, monitoring, and improving current models.
+
+This is what you'll do:
+You'll be collaborating with business leaders to understand current and future Data Science opportunities, manage project intake, roadmap, prioritize, and manage staffing against key initiatives
+You'll be delivering and maintaining Data Science models that can be used across product teams to deliver values to different stakeholders (customer, operations, advisors, and insurers)
+You'll be creating robust data models to unlock new analytical opportunities
+You'll be building and managing our Data Science team, offshore and onshore.
+You'll be collaborating with data scientists and engineers to build and improve on the availability, integrity, accuracy, and reliability of data logging and data pipelines.
+
+This is what you'll need:
+M.Sc. or PhD. degree in Math, Economics, Statistics, Engineering, Computer Science, or other quantitative fields
+5+ years of hands-on Data Science / Machine Learning
+5+ years of Data Science leadership/management experience, preferably in the insurance industry
+Understanding of statistics (A/B test, etc.), machine learning (supervised learning, unsupervised learning, recommendation systems, etc.) and state of the art models (deep learning, etc.)
+Experience with building predictive or descriptive models and designing the associated metrics to evaluate these models
+Experience with different data types (structured, unstructured, text, voice, etc.)
+Experience with ML frameworks, such as Scikit-learn, Spark ML, Tensorflow, PyTorch, etc
+Experience working with Insurance data (Plus)
+Understanding of underwriting and actuarial science (Plus)
+
+Benefits
+Competitive pay with higher equity as the company is in the earlier stages, working directly with the co-founders
+Health and dental insurance
+Location:
+Our team is fully remote and we're open to hiring anywhere in the world.

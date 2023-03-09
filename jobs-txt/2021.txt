@@ -1,0 +1,36 @@
+As a BI developer at isolved you will be responsible for the development and administration of BI tools along with complete knowledge of the BI system. Your main duty of a Power BI developer is to convert data into meaningful insights through interactive and easy-to-understand dashboards and reports.
+Core Job Duties
+Create dashboards and interactive visual reports using Power BI.
+Identify key performance indicators (KPIs) with clear objectives and consistently monitor.
+Analyze data and present data through reports that aid decision-making.
+Convert business requirements into technical specifications and decide timeline to accomplish.
+Work with users and team members at all levels for performance improvement and suggestions.
+Develop reports in Power BI.
+Establish framework and documentation for data collection and reporting.
+Design, develop and deploy business intelligence solutions as per needs.
+Job Complexity
+Having wide-ranging experience, uses professional concepts and company objectives to resolve complex issues in creative and effective ways. Go-to expert in one specific area of their role. Some barriers to entry exist at this level (e.g., dept/peer review). Level at which career may plateau.
+Interaction
+Works on complex issues where analysis of situations or data requires an in-depth evaluation of variable factors. Exercises judgment in selecting methods, techniques and evaluation criteria for obtaining results. Networks with key contacts outside own area of expertise.
+Supervision
+Determines methods and procedures on new assignments and may coordinate activities of other personnel (Team Lead).
+Experience
+Typically requires a minimum of 8 years of related experience with a Bachelor's degree; or 6 years and a Master's degree; or equivalent experience.
+Minimum Qualifications
+Expert understanding of Power BI and time intelligence.
+Minimum 5 years experience as a Power BI Developer.
+Ability to write and execute DAX measures, queries and functions in Power BI.
+Understand business requirements in BI context and design convert data into meaningful insights.
+Understanding of the theory of visual design.
+Understanding of the testing and validation process of Power BI reports.
+• Redefine and make technical/strategic changes to enhance existing Business Intelligence systems. • Ability to decipher and compile data in a complex, multi-system environment with non-normalized data.
+Expert understanding of Tableau, Domo and other BI software tools.
+Additional Preferred Qualifications
+Bachelor's degree preferred or equivalent combination of education and work. experience in competency area required.
+Experienced Power BI Developer looking for a challenge.
+Demonstrated experience/report portfolio.
+Physical Demands
+Prolonged periods of sitting at a desk and working on a computer. Must be able to lift up to 15 pounds.
+Travel Required
+Yes, up to 15% domestic travel may be required.
+#CB

@@ -1,0 +1,9 @@
+The Business Intelligence Expert is responsible for defining dashboards with the clients and create front-end wire frames and working models. You will work with data from multiple sources to create front end dashboards and reporting visualizations. You will connect w/ clients to define specifications and iterate on the development.
+Requirements
+Qualifications
+Hands-on data lifecycle management
+Hands-on Business Intelligence Developer with experience with any of the following technologies: Tableau, Power BI, Qlik, Cognos or Microstrategy
+Hands-on Data Visualization skills
+Bachelor’s degree
+Experience with data modeling, transformation, data analysis and visualization techniques
+Ability to communicate analytic and data solutions in an actionable manner to business managers

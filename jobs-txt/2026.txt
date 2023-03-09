@@ -1,0 +1,64 @@
+Enquizit, Inc. Achieves Virginia Business BEST Places to work 2021
+
+https://enquizit.com/news/enquizit-inc-achieves-virginia-business-best-places-to-work-2021
+
+Data Engineer
+Enquizit Inc,
+
+Enquizit is seeking Data Engineers with extensive experience in extract, transform and load of complex structured and semi-structured data from a variety of data sources to data destinations. This can range from Transactional, Search, Document or NoSql data stores. Ideal candidates will have multiple years of experience dealing with complex, large volume data with stringent quality control requirements using open-source software. The individual must be capable of working in a fast-paced Agile environment and working cooperatively within a multi-functional team. The individual would also have some familiarity with scheduler, orchestrator, background jobs and Data Ingestion techniques. Experience with Docker and Kubernetes environments is preferred.
+
+Responsibilities
+Aggregate data from both internal and external data sources to build a data processing system.
+Create new pipelines and builds reusable components at scale to support reporting & analytics data products.
+Develop complex queries to transform raw data sources into accessible models by coding.
+Clean, prepare, transform, and optimize data at scale for integration and consumption.
+Implement data management projects and restructures current web architecture.
+Solve complex data issues and performs root cause analysis to proactively resolve product issues.
+Own the data pipeline and supports systems failures.
+Implement automated workflow using workflow scheduling processes like Apache airflow.
+Has broad experience and knowledge of open source and proprietary cloud data pipeline tools.
+Experienced at breaking down complex and large units of work, managing the work product of other engineers, and coaching more junior team members.
+
+Qualifications
+Bachelor’s degree in a related field or equivalent experience
+The following attributes will be required to be successful:
+A Bias for Action. Many decisions and actions are reversible and do not need extensive study. We value calculated risk taking
+Excellent communication and interpersonal skills
+Strong attention to detail
+Self-motivated, proactive, energetic and tenacious
+Excellent analytical, problem solving and resolution skills
+Strong sense of ownership and responsibility
+An interest in continuous improvement, innovation and simplification
+The ability to translate business problems into practical, scalable technical solutions
+Humility, integrity and the ability to be self-critical
+Location:
+100% remote
+Employment type:
+Fulltime/Contract C2C/1099/W2
+WHAT WE OFFER:
+15 days paid time off
+100% Health insurance premium paid by the employer for employees and 50% for dependents
+HSA contribution by employer
+Long-term disability, Short term disability, and Life Insurance/ AD&D - 100% employer paid
+Low-cost 401K plan with a 3% employer match
+Career Growth
+Training, Certification, and Continuous Learning opportunities
+Tech Conferences
+What You’ll Find:
+Everyone at Enquizit is driven by the pleasure of helping organizations who exist to do good, impacting our larger community.
+Rewarding work – We aim to empower good, doing business with clients whose work makes our world better.
+An open-door policy – We encourage feedback and transparency to enable trust and address issues proactively before they become larger.
+Encouragement to fail fast – We have one rule about mistakes: learn from them. When mistakes happen, we bypass blame and work as a team to correct what went wrong.
+Ongoing opportunities to learn – We have lunch and learns so we all learn, and as a company, we work smarter.
+Work-life balance – Our work is thrilling and meaningful, but we know that balance in all things is key to living well.
+A welcoming community – We work hard, but we take time to know each other, celebrate, and gather throughout the year.
+Cooperation across disciplines – Our teams rely on and coach each other, building trust and knowledge that pays off in every project.
+
+For more information about Enquizit visit https://enquizit.com/
+
+We are an Equal Opportunity Employer.
+
+To apply to the position, send a copy of your resume and cover letter.
+
+Kumar Ramachandran | Senior Manager
+Enquizit, Inc | www.enquizit.com

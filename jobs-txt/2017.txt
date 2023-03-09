@@ -1,0 +1,35 @@
+What Slack Technologies, LLC, a Salesforce company Has to Offer:
+Explore remote-friendly, flexible opportunities and join our mission to make work life simpler, more pleasant and more productive.
+
+To get the best candidate experience, please consider applying for a maximum of 3 roles within 12 months to ensure you are not duplicating efforts.
+Job CategoryProducts and Technology
+Job Details
+Slack’s Research & Analytics team is hiring a Director of Data Science to oversee our efforts in multiple key product areas. This role’s largest component will be working with the Expansion product team. The Expansion product team is a cross-functional team that is focused on the growth of the Slack self-service business. They focus on driving growth by streamlining and improving key aspects of the customer journey: creating and joining teams, invites, in-product education, awareness of paid features, trials, discounts, purchasing, and billing.
+You will work cross-functionally with product, design and engineering, as a member of the Expansion leadership group. Your team will be responsible for delivering data and insights to drive strategy, decision making, and execution. You will also work closely with other leaders on Research & Analytics to drive operational excellence across the entire organization.
+Responsibilities:
+You’ll build, lead and mentor a high-performing team of analysts
+You’ll drive the strategy for product analytics support for multiple product pillars.
+You’ll ensure the delivery of high quality work by providing technical guidance, implementing standard approaches, and generally providing on-going feedback
+You’ll partner closely with Product, Engineering and Design leadership to drive impact throughout the product development process with research and data
+You’ll ensure alignment with partner teams by fostering a collaborative and transparent working model
+You’ll be a strong advocate for the team, and represent their needs and challenges with cross-functional leadership
+You’ll partner closely with our Product leadership team to influence goals, strategy, and product direction
+You’ll work closely with Research and Analytics leadership to answer important questions about our customers, our product and the business
+Requirements:
+8+ years of professional experience working in data science and analytics.
+2+ years of experience in a management role.
+Experience leading and growing a high-performing analytics and data science team.
+Comfort providing technical feedback and guidance for broad sets of data projects.
+A consistent record of using data to help product teams to achieve goals.
+Experience leading and collaborating with diverse teams in a dynamic, rapid growth environment
+Ability to communicate effectively with managers and executives
+A nuanced understanding of diverse and inclusive hiring practices
+Comfort with ambiguity and grace under pressure
+Excellent written and verbal communication skills
+Accommodations
+If you require assistance due to a disability applying for open positions please submit a request via this Accommodations Request Form.
+Posting Statement
+At Salesforce we believe that the business of business is to improve the state of our world. Each of us has a responsibility to drive Equality in our communities and workplaces. We are committed to creating a workforce that reflects society through inclusive programs and initiatives such as equal pay, employee resource groups, inclusive benefits, and more. Learn more about Equality at Salesforce and explore our benefits.
+Salesforce, Inc. and Salesforce.org are Equal Employment Opportunity and Affirmative Action Employers. Qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender perception or identity, national origin, age, marital status, protected veteran status, or disability status. Salesforce, Inc. and Salesforce.org do not accept unsolicited headhunter and agency resumes. Salesforce, Inc. and Salesforce.org will not pay any third-party agency or company that does not have a signed agreement with Salesforce, Inc. or Salesforce.org.
+Salesforce welcomes all.
+Pursuant to the San Francisco Fair Chance Ordinance and the Los Angeles Fair Chance Initiative for Hiring, Salesforce will consider for employment qualified applicants with arrest and conviction records.

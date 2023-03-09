@@ -1,0 +1,32 @@
+VERY URGENT AND IMMEDIATE NEED.
+Note: Need Only US Citizen, Green Card
+Job Title: Sr. Machine Learning Engineer
+Location: Basking Ridge, NJ Hybrid – only 3 days/ monthly onsite ((Every Tuesday except first week of the month ))
+Duration: Long Term Contract
+Job Description:
+Need minimum 08+ years of experience
+Responsibilities
+Develop, implement and distribute large-scale, scalable web apps for data science and machine learning solutions
+Maintain and improve data pipeline using machine learning infrastructure and existing machine learning models
+Data manipulation and statistical modeling
+Time series forecasting model using ML and deep learning techniques
+Develop the core functionality of Plotly's enterprise products, with a particular focus on Dash application management capabilities (similar to Heroku)
+Improve reliability, testing, automation, observability, and performance throughout our stack
+Written and verbal technical communication skills with an ability to present complex technical information in a clear and concise manner to a variety of audiences
+Experience Required
+5+ years of experience as a data scientist, applied scientist, data analyst, machine learning engineer or a related role
+Bachelor's degree in Math, Physics, Statistics, Economics, Computer Science, or similar domain
+Proficiency in Python (including packages like numpy, pandas, sklearn, pytorch, tensorflow, matplotlib), SQL and Excel. Experience with Dash Plotly is a plus
+Experience working with demand forecasting, supply chain optimization, driver analysis, time series analysis, statistical models, regression models and deep learning models
+Experience working on various steps of developing a data science solution, like problem scoping, data gathering, EDA, modelling, insights, visualizations, monitoring and maintenance
+Ability to create efficient solutions to complex problems. Strong skills and solid foundation in data-structures, ML algorithms and pipeline development.
+Problem-solving: Ability to break the problem into small parts and applying relevant techniques to drive required outcomes
+Expertise in exploratory data analysis, visualization, ETL, hypothesis testing, experimentation, automation, etc.
+-----------------------------
+Job Type: Contract
+Salary: $40.00 - $55.00 per hour
+COVID-19 considerations:
+no
+Experience:
+Data Science: 5 years (Required)
+Work Location: On the road

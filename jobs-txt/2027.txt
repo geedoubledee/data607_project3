@@ -1,0 +1,59 @@
+Challenging Today. Reinventing Tomorrow.
+We're invested in you and your success. Everything we do is more than just a project. It's our challenge as human beings, too. That's why we bring a thoughtful and collaborative approach to every one of our partnerships.
+At Jacobs, we challenge the status quo and redefine how to solve the world's greatest challenges, transforming big ideas into intelligent solutions for a more connected, sustainable world.
+Design your career with a company that inspires and empowers you to deliver your best work so you can evolve, grow and succeed – today and into tomorrow
+
+Your Impact:
+
+The government client requires all employees to be fully vaccinated against COVID-19 for any/all positions that will require travel.
+
+Full vaccination (against COVID-19) is defined as: an individual must be either two weeks past the last shot of a two-shot vaccination sequence, or two weeks past the only shot of a one-shot vaccination sequence.
+
+Description of Duties:
+The Database Administrator supports the Missile Defense Agency (MDA) on the Integrated Research and Development for Enterprise Solutions (IRES) contract. The candidate will:
+
+Install, configure, operate, and maintain database systems across the Missile Defense Agency (MDA) enterprise network.
+Research and apply best business practices for the design and administration of databases.
+Support creation and maintenance of standard database policies, operating procedures and overall documentation.
+Implement database performance monitoring, fine tuning and optimize database systems.
+Support development and implementation of database backup and disaster recovery strategies.
+Conduct database capacity and availability audits.
+Participate in IT and business projects to define database system requirements and recommend technology solutions.
+Research, benchmark, document and introduce new database technologies and features into application life cycle.
+Collaborate with the application developers, business owners and architects in design and implementations.
+
+The successful candidate will:
+Quickly adapt to new situations.
+Have a strong commitment to a team environment.
+Have a willingness to learn new technologies.
+Be able to de-conflict requests/requirements.
+Be able to work independently with minimal supervision, with a high level of accuracy and attention to detail.
+
+This position can be filled at Schriever SFB, Colorado Springs, CO, Redstone Arsenal, Huntsville, AL, or in the National Capital Region
+
+This position is expected to pay $109,400 - $135,200 annually; depending on location, experience, education, and any certifications that are directly related to the position.
+
+This position will be posted for a minimum of 3 days. If a candidate has not been selected at that time, it will continue to be posted until a suitable candidate is selected or the position is closed.
+
+Resumes, in month and year format, must be submitted with application in order to be considered for the position. The selected candidate will be assigned as an employee for Jacobs or one of our teammate companies.
+
+Jacobs health and welfare benefits are designed to invest in you, and in the things you care about. Your health. Your well-being. Your security. Your future. Typical benefits offered include flexible work schedules and opportunities to work remotely, educational reimbursement, retirement benefits (401K match), employee stock purchase plan, health benefits, tax saving options, disability benefits, life and accident insurance, voluntary benefits, paid time off and paid holidays, and parental leave.
+#cjpost
+Here’s What You’ll Need:
+
+Basic Requirements:
+Must have one of the following combinations of education and experience: HS Diploma (or GED) and 12 years of general experience; Associate’s degree and 10 years of general experience; Bachelor’s degree and 8 years of general experience; Master’s degree and 6 years of general experience
+
+If this position requires travel selected candidate must be willing to provide proof of fully vaccinated (against COVID-19) status? (the process of which must be completed prior to the anticipated start date)
+Must have 6 years of experience in designing and implementing database structures, automating DBA tasks or with data modeling and schema design
+Must have, or obtain within 6 months of hire, an appropriate computing environment certificate (ex: Microsoft Windows Server 2016, Microsoft Azure, etc)
+Must have, or obtain within 3 months, a current DoD 8570 Level II Certification such as CompTIA Security+ CE or higher
+Must have an active DoD Secret Security Clearance
+
+Desired Requirements:
+Have experience with MS SQL Server 2014 or higher
+Have experience with MS SQL Server cluster, MS SQL Server database performance tuning, MS SQL Server database monitoring
+Have experience with MS SQL Server database backup/recovery
+Have knowledge, and experience, with relational DBMS concepts, design, architecture, and operations
+Have experience working with databases in Azure or AWS
+Jacobs is an Equal Opportunity/Affirmative Action Employer. All qualified applicants will receive consideration for employment without regard to race, religion, creed, color, national origin, ancestry, sex (including pregnancy, childbirth, breastfeeding, or medical conditions related to pregnancy, childbirth, or breastfeeding), age, medical condition, marital or domestic partner status, sexual orientation, gender, gender identity, gender expression and transgender status, mental disability or physical disability, genetic information, military or veteran status, citizenship, low-income status or any other status or characteristic protected by applicable law. Learn more about your rights under Federal EEO laws and supplemental language.

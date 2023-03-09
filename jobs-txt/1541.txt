@@ -1,0 +1,29 @@
+Ask Media Group's Product Engineering team is looking for a Data Science Engineering Manager with the expertise to help us scale our marketing initiatives and further drive user engagement. You'll lead a team composed of Data Scientists and Software Engineers to deliver audience-facing recommender products at scale. You and your team will collaborate with Product to identify machine learning product opportunities and maximize the value of solutions.
+We're looking for an experienced leader that is collaborative, resourceful, and can speak to complex ideas with ease. This position requires excellent communication skills, business instincts, and a "get-it-done" mindset to ensure that results are delivered on time while also encouraging creativity and innovation.
+What You'll Do:
+Manage large-scale data science projects that leverage data transformation and machine learning models
+Create the vision for data science projects and their potential to help our business
+Effectively communicate project deliverables and their impact to business stakeholders
+Automate and streamline projects to increase efficiencies and scalability
+Manage a cross-functional team of Data Scientists and Software Engineers
+Work with partners in Product and Web Development to achieve business goals
+Collaborate with team leads and executives to build data-informed business strategies and roadmaps
+Assist your team in making decisions around designing solutions, building ML models, and answering key questions with data
+Establish best practices for data science workflows
+Foster an environment and team culture that enables Data Scientists to perform at their best
+What We're Looking For:
+MS or PhD in Computer Science or other quantitative field
+5+ years' hands-on technical experience in a data science role or equivalent (NLP or ML focused)
+2+ years' management experience including building and leading data science teams
+2+ years' experience building scaled, audience facing machine learning products
+Expert-level understanding of data science topics
+Solid understanding of Scrum
+Strong communication and presentation skills
+Experience working with cross-functional team members
+Intellectual curiosity and a continuous striving to learn
+Company Culture
+As an organization, we value transparency, collaboration, learning, and collegiality. We are passionate about learning and doing our best. Sometimes we fail, but we learn from these failures. All the while, we believe that maintaining work-life balance and having fun is the key to our success.
+Salary & Benefits
+The salary range for this position is $145,000 - $195,000 annually. The base salary range represents the anticipated low and high end of the salary range for this position. Actual salaries may vary and may be above or below the range based on various factors including but not limited to work location, experience, and performance. The range listed is just one component of Ask Media Group's total compensation package for employees. Other rewards include annual bonuses, and short and long-term incentives.
+In addition, Ask Media Group provides a variety of benefits to employees, including a remote work model, flexible paid time off for salaried employees, health insurance coverage, life and disability insurance, a generous 401K employer matching program, tuition reimbursement, charity gift matching, free Care.com membership + subsidized rates for childcare, pet insurance, and more.
+We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.

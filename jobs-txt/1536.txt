@@ -1,0 +1,34 @@
+Data Engineer
+Rate - $50-$58/hour on a W2, 1 year contract, Remote
+Del Oro Consulting, a national consulting solutions provider with 20+ years' experience delivering consulting staffing services to global technology leaders in the US is seeking a Data Engineer. This consultant will work closely with the client's Enablement Business Leaders and Stakeholders to understand and maintain focus on their analytics needs.
+The ideal candidate is a strong communicator with demonstrated flexibility, creativity, and the capacity to receive and utilize constructive criticism.
+Responsibilities:
+Plan, create, and maintain data architectures while also keeping it aligned with business requirements
+Assemble large, complex sets of data that meet non-functional and functional business requirements
+Identify, design, and implement internal process improvements including re-designing infrastructure for greater scalability, optimizing data delivery, and automating manual processes
+Build required infrastructure for optimal extraction, transformation and loading of data from various data sources using AWS and SQL technologies
+Partner with various data teams to set up data extraction for business requirements
+Maintain database documentation
+Required Skills:
+Experience using ServiceNow (Integration Hub), Workday, Snowflake, LMS platforms
+Proficient in SQL, Python, JavaScript, Microsoft SQL Server, Oracle
+Familiar with Data Warehousing Concepts
+Experience with multinational data privacy guidelines
+Experience with Tableau, Azure, Power B, Xyleme, Qualtrics, Kafka , ExApi preferred
+Minimum Qualifications:
+5+ years of experience in a Data Engineer role
+Detail oriented
+A logical thinker with an understanding of various databases and skills to connect them
+Hands-on; you step in and help the team get unstuck
+Proven communication skills
+Ability to thrive in uncertainty and strive to bring order to it
+You work for the success of the entire team
+Details of Position:
+Fully Remote
+$50-$58/hour, Consultant, Contract Opportunity on W2
+Benefits include Medical, Dental, Vision & 401(k) (with a match)
+Applicants must be authorized to work for any employer in the United States. We are currently unable to sponsor or take over sponsorship of employment Visa.
+This is not a C2C opportunity.
+Del Oro Consulting is an equal opportunity employer, and all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability status, protected veteran status, or any other characteristic protected by law.
+Job Type: Contract
+Pay: $50.00 - $54.00 per hour

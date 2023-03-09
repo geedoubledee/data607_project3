@@ -1,0 +1,40 @@
+GEICO Technology Solutions is seeking a highly qualified Senior SQL Server Database Administrator to support our Microsoft SQL Servers. The Engineer will be responsible for the implementation, configuration, maintenance, diagnosis and performance tuning of critical SQL Server database systems, to ensure the availability and consistent performance of our corporate applications. This is a “hands-on” position requiring solid technical skills, as well as excellent interpersonal and communication skills. The successful candidate will be responsible for triaging and optimizing application and platform related performance issues. The candidate will also be responsible for ensuring database systems and services are certified for operational readiness (desired state configuration, security, health and performance). The candidate must be a subject matter expert on SQL and must able to lead applications and projects independently.
+Qualifications:
+Minimum 5 years of MS SQL Server and DBA experience
+At least four demonstrable advanced DBA skills such as:
+Perfmon
+SQL Trace
+SQL Server Profiler
+Idera
+Always On
+Transparent Data Encryption
+SQL Server Change Data Capture
+Successfully completed at least two of the following SQL DBA certifications and renew certification every 3 years:
+MTA Database Certification
+MCSA SQL Server 2012 Certification
+MCSE Data Platform and Business Intelligence Certification
+Must be able to learn and apply large amounts of technical and procedural information
+Must be knowledgeable of infrastructure tools and management techniques and able to follow standards and processes that have been published
+Must be able to provide systems training to team members as needed
+Demonstrable skills at supporting at least two major applications stacks from a system engineering perspective
+May be required to be on call for production support 24x7
+Must be able to concentrate and demonstrate a capacity to learn new technical concepts and to adapt to new technologies quickly
+Must be able to communicate in a clear, concise, professional oral or written manner, to be understood by customers, clients, co-workers and other employees of the organization
+Must be able to use a PC
+Must be able to follow complex instructions, resolve conflicts or facilitate conflict resolution, and have strong organization/priority setting skills
+Must be able to multi-task
+Must be able to perform under pressure and stressful situations
+Education:
+Bachelor's Degree in Computer Science or a related field
+Benefits:
+At GEICO, we make sure you have the support and resources to leverage and develop your skills, secure your financial future, and take care of your health and well-being. GEICO continually seeks to provide a workplace where everyone can be their authentic self. To help achieve this goal, we support associate-led Employee Resource Groups that foster a true sense of community. Through GEICO’s competitive benefits offerings and various training and development opportunities, we have you covered with our Total Rewards Program* that includes:
+Premier Medical, Dental and Vision Insurance with no waiting period**
+Paid Vacation, Sick and Parental Leave
+401(k) Plan
+Tuition Assistance including Direct Billing and Reimbursement payment plan options
+Paid Training, Licensures, and Certificates
+Benefits may be different by location. Benefit eligibility requirements vary and may include length of service.
+**Coverage begins with the pay period after hire date. Must enroll in New Hire Benefits within 30 days of the date of hire for coverage to take effect.
+Note: The safety of our associates, both current and future, is GEICO’s highest priority. Currently, most of our associates are working remotely due to the current COVID-19 pandemic. Candidates who are selected for this position will be trained remotely and must be able to work from home in a designated work area. Once GEICO determines it is safe for associates to return to the office, candidates may be required to work in our Chevy Chase, MD.
+GEICO is proud to be an equal opportunity employer. We are committed to cultivating an environment where equal employment opportunities are available to all associates and job applicants regardless of race, color, religious creed, national origin, ancestry, age, gender, pregnancy, sexual orientation, gender identity, marital status, familial status, disability or genetic information, in compliance with applicable federal, state and local law. GEICO celebrates diversity and believes it is critical to our success. As such, we are committed to recruit, develop and retain the most talented individuals to join our team.
+#AJ19

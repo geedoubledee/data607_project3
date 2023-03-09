@@ -1,0 +1,53 @@
+Position Description:
+Work with advanced technical principles, theories, and concepts.
+Be challenged with working on complex technical problems and providing innovative solutions.
+Work with highly experienced and technical resources.
+Work with the project team and business stakeholders/technical leads to define, analyze, and document requirements for new ServiceNow processes or improvements to current processes.
+Work with the ServiceNow development team to validate the solutions for defined requirements.
+Help other Business Analysts on the project team.
+Develop procedures, manuals, and other documentation as needed.
+Develop User Stories based on business requirements provided by the stakeholders/technical leads.
+Document current and future processes and workflows.
+Manage the User Acceptance Testing (UAT) and validation activities.
+Help the Project Management Team as needed.
+All other duties as assigned or directed.
+Requirements
+Must be able to obtain a Public Trust
+Bachelor's Degree in Computer Science, Mathematics, Engineering, or a related field plus at least 8 years of experience or Master's degree and 6 years
+Solid Business Analyst experience – Disaster Recovery and Business Continuity Projects
+Knowledge and experience with infrastructure platforms
+5 years of experience as a Business Analyst in the areas of Disaster Recovery / Business Continuity
+5 years of experience in designing and building business processes
+3 years of experience with process flow documentation creation
+Understanding of Agile software development practices
+Excellent verbal and written communication skills including presentation skills
+Desired Skills:
+Experience with using ServiceNow Business Continuity Management (BCM) and/or ServiceNow Integrated Risk Management (IRM) modules.
+ServiceNow Certification.
+Previous Government experience
+Job Types: Full-time, Contract
+Pay: Up to $62.00 per hour
+Benefits:
+Dental insurance
+Health insurance
+Paid time off
+Vision insurance
+Schedule:
+8 hour shift
+Education:
+Bachelor's (Required)
+Experience:
+Business Analyst: 8 years (Required)
+infrastructure Disaster Recovery: 8 years (Required)
+Business Continuity projects: 8 years (Required)
+infrastructure platforms: 8 years (Required)
+designing and building business processes: 5 years (Required)
+process flow documentation creation: 3 years (Required)
+ServiceNow Business Continuity Management (BCM): 3 years (Required)
+ServiceNow Integrated Risk Management (IRM) modules: 3 years (Required)
+Government: 3 years (Required)
+License/Certification:
+ServiceNow Certification (Required)
+Security clearance:
+Confidential (Required)
+Work Location: Remote

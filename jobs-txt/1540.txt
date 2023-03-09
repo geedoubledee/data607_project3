@@ -1,0 +1,36 @@
+Job Description
+Invonto is a software consulting company. We have an immediate opening for a machine learning engineer with experience in object detection, deep learning, and modeling.
+This is a remote position for candidates residing in New Jersey and willing to work in a hybrid environment when we return to the office.
+Qualifications
+2+ years of professional experience creating production ready applications using computer vision and deep learning
+Experience with real time image analysis, object detection, segmentation, and pattern development
+Experience with AWS, TensorFlow, PyTorch, and Python
+Experience converting models to run on mobile devices using TensorFlow Lite or PyTorch Mobile
+Excellent written and verbal communication skills
+Excellent analytical and problem-solving skills
+Must be able to perform in a small team environment with minimal supervision
+Additional Details
+This is a direct-hire position for candidates based in New Jersey. Position offers competitive salary and benefits.
+Must be authorized to work in the USA. We are unable to sponsor work visa. Only direct hire candidates should apply. We do not work through staffing agencies.
+Please submit your application with a resume and cover letter explaining your relevant experience. Only short listed candidates will be contacted. No phone calls, please!
+Job Type: Full-time
+Pay: $65,000.00 - $80,000.00 per year
+Benefits:
+Health insurance
+Paid time off
+Schedule:
+Monday to Friday
+Supplemental pay types:
+Bonus pay
+Experience:
+Software analysis: 3 years (Required)
+Machine learning: 2 years (Required)
+PyTorch: 1 year (Required)
+TensorFlow: 1 year (Required)
+API integration: 1 year (Required)
+Python: 2 years (Required)
+Python Flask: 1 year (Required)
+Computer vision: 1 year (Required)
+Dataset preparation: 1 year (Required)
+Github: 1 year (Required)
+Work Location: Hybrid remote in Bridgewater, NJ 08807

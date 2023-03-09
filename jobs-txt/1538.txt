@@ -1,0 +1,36 @@
+Job Summary
+
+
+Designs, deploys and supports data acquisition and data integration solutions from source systems to the data warehouse and data marts for business intelligence solutions such as dashboards, scorecards, reports and self-service analytics. Sources data from operational systems with integration and subsequent and secondary transformation. Supports end-user web-based presentation layers and the underlying technology layers including data models, dimensional databases, cubes and security infrastructure. All responsibilities associated with this function are performed in such a way as to support Carilion’s hallmarks of service excellence and quality.
+
+Designs Extract, Transform and Load (ETL) solutions in collaboration with Business Analysts to satisfy the reporting and advanced analytic needs of the business, optimized for reuse of data and interoperability of BI solutions.
+Develops and maintains ETL solutions, database schema and stored procedures in collaboration with the Data Modeler and BI Developer while adhering to technical solution standards and demonstrating flexibility when required.
+Tests ETL solutions collaborating with team members through unit testing and integration testing.
+Implements changed and new ETL solutions in collaboration with the Business Analyst and team members.
+Adheres to Change Management policies and processes to include timely reporting of all pertinent change information, effective discussion of the changes, internal and external communications, contingency planning, support of the change event and post-change reporting.
+Documents and maintains documentation of ETL solutions including diagrams and flow charts illustrating data flows.
+Provides tier-two technical support assisting the Business Analyst in resolving end user issues. Demonstrates logical analysis, effective troubleshooting, issue tracking and communication. Coordinates cross-functional teams to resolve complex issues.
+Provide input to ETL technical and functional design standards.
+Assists the Business Analyst with the development of training programs and materials to train end-users and mentor and develop team members.
+Minimum Qualifications
+
+Education: Bachelor’s degree in computer science, information systems, health care business or equivalent experience required. Master’s degree preferred.
+
+Experience:
+Minimum: 6+ years of relevant experience required.
+Minimum: 3-5 years working with enterprise data sources and ETL tools such as IBM DataStage or Informatica.
+Preferred: Financial and healthcare knowledge.
+Experience supporting technical service delivery relationships.
+Experience translating business needs into designs and specifications.
+Experience managing projects, testing and quality control.
+Experience with metadata management.
+Experience with data profiling and data quality analysis.
+Experience working with a coordinated data management environment (CDME) preferred.
+Experience facilitating requirements definition meetings/sessions using structured approaches such as Joint Application Development (JAD).
+Experience with IBM InfoSphere and IBM data models a plus.
+Proficient with dimensional databases, cubes and columnar data structures.
+Proficient with Microsoft Office applications such as Office, Project, Visio, SharePoint,
+
+Licensure, certification, and/or registration: Maintain application vendor certifications as needed. Preferred certifications: ITIL V3, CBAP, CBIP, CDMP, DGSP, PMP.
+
+Other Minimum Qualifications: Strong listening skills. Strong verbal and written communication skills demonstrating proper business use of grammar and punctuation.

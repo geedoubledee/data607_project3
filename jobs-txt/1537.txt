@@ -1,0 +1,73 @@
+What You Will Do
+
+We are looking for a motivated Oracle Database Administrator (DBA) to join our team-focused, fast-paced, and dynamic environment.
+
+You will be an Oracle Database Administrator (Oracle DBA) within the Infrastructure Services team of the SAE-1 group within the Software and Applications Engineering Division. The SAE-1 group provides Oracle and SQL Server database, middleware, and application administration services for Environmental, Safety, Health, Quality, Security and Visualization Solutions for the Los Alamos National Laboratory (LANL).
+
+This is a seasoned, experienced professional with a full understanding of Oracle Database Administration plus working knowledge of Linux, Oracle SQL, Oracle PL/SQL, Bash and/or Korn shell scripting. At the Database Administrator 2 level, the selected candidate will resolve a wide range of Oracle Database Administration issues in creative ways.
+
+What You Need
+
+Minimum Job Requirements:
+
+Technical Expertise
+Experience as a physical database administrator (DBA) performing the following tasks: installing database software; database creation; upgrading, maintaining, patching, tuning, backup and recovery of Oracle databases version 12c or newer (19c preferred) on Linux operating system hosts.
+Demonstrated experience writing Oracle SQL queries and PL/SQL scripts as needed to automate tasks.
+Experience writing and/or maintaining Bash and/or Korn shell scripts typically used to automate Oracle DBA tasks and repetitive and/or scheduled tasks.
+
+Collaboration
+
+Demonstrated ability working collaboratively, including participating in infrastructure services team communities of practice and the ability to organize and prioritize tasks to meet tight schedules and accomplish projects goals while effectively networking with peers across an organization, business unit, and/or institution.
+
+Education/Experience
+
+Position requires a Bachelor's Degree and 4 years related experience or an equivalent combination of education and experience directly related to the occupation.
+
+Desired Qualifications:
+Experience administrating Oracle Enterprise Business Suite tech stack.
+Mid-Tier Administration experience with Oracle Fusion Middleware, Apache Tomcat and Apache HTTP server.
+Location:
+This position will be in Los Alamos with the flexibility for the selected candidate to work from a location other than the primary location. Reporting onsite will be periodically required. Remote is at the discretion of management and can change at any time with appropriate notice.
+
+COVID Vaccine:
+
+The COVID vaccine is mandatory for all Laboratory employees, on-site contractors, and on-site subcontractors unless granted an accommodation under applicable state or federal law. This requirement will apply to those working on-site, those teleworking, and all new hires.
+
+Position commitment: Regular appointment employees are required to serve a period of continuous service in their current position in order to be eligible to apply for posted jobs throughout the Laboratory. If an employee has not served the time required, they may only apply for Laboratory jobs with the documented approval of their Division Leader. The position commitment for this position is a 1 year.
+
+Note to Applicants:
+
+Please provide a comprehensive cover letter that details how you meet the qualifications for this position.
+
+This position requires participation in a 24X7 on-call rotation.
+
+Participation in the Human Reliability Program (HRP) may be required.
+
+Overtime and working an irregular schedule may be required.
+
+Where You Will Work
+
+Located in beautiful northern New Mexico, Los Alamos National Laboratory (LANL) is a multidisciplinary research institution engaged in strategic science on behalf of national security. Our generous benefits package includes:
+PPO or High Deductible medical insurance with the same large nationwide network
+Dental and vision insurance
+Free basic life and disability insurance
+Paid childbirth and parental leave
+Award-winning 401(k) (6% matching plus 3.5% annually)
+Learning opportunities and tuition assistance
+Flexible schedules and time off (paid sick, vacation, and holidays)
+Onsite gyms and wellness programs
+Extensive relocation packages (outside a 50 mile radius)
+Additional Details
+
+Directive 206.2 - Employment with Triad requires a favorable decision by NNSA indicating employee is suitable under NNSA Supplemental Directive 206.2. Please note that this requirement applies only to citizens of the United States. Foreign nationals are subject to a similar requirement under DOE Order 142.3A.
+
+Clearance: Q (Position will be cleared to this level). Applicants selected will be subject to a Federal background investigation and must meet eligibility requirements* for access to classified matter. This position requires a Q clearance which requires US Citizenship except in extremely rare circumstances. Dependent upon position, additional authorization to access nuclear weapons information may be required that may or may not be available to dual citizens depending upon the circumstances.
+
+Eligibility requirements: To obtain a clearance, an individual must be at least 18 years of age; U.S. citizenship is required except in very limited circumstances. See DOE Order 472.2 for additional information.
+
+New-Employment Drug Test: The Laboratory requires successful applicants to complete a new-employment drug test and maintains a substance abuse policy that includes random drug testing. Although New Mexico and other states have legalized the use of marijuana, use and possession of marijuana remain illegal under federal law. A positive drug test for marijuana will result in termination of employment, even if the use was pre-offer.
+Regular position: Term status Laboratory employees applying for regular-status positions are converted to regular status.
+
+Internal Applicants: Regular appointment employees who have served the required period of continuous service in their current position are eligible to apply for posted jobs throughout the Laboratory. If an employee has not served the required period of continuous service, they may only apply for Laboratory jobs with the documented approval of their Division Leader. Please refer to Policy Policy P701 for applicant eligibility requirements.
+
+Equal Opportunity: Los Alamos National Laboratory is an equal opportunity employer and supports a diverse and inclusive workforce. All employment practices are based on qualification and merit, without regard to race, color, national origin, ancestry, religion, age, sex, gender identity, sexual orientation or preference, marital status or spousal affiliation, physical or mental disability, medical conditions, pregnancy, status as a protected veteran, genetic information, or citizenship within the limits imposed by federal laws and regulations. The Laboratory is also committed to making our workplace accessible to individuals with disabilities and will provide reasonable accommodations, upon request, for individuals to participate in the application and hiring process. To request such an accommodation, please send an email to applyhelp@lanl.gov or call 1-505-665-4444 option 1.Employment StatusFull Time

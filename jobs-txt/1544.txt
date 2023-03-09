@@ -1,0 +1,94 @@
+Initial Posting Date:
+08/03/2022
+Application Deadline:
+/
+Agency:
+Oregon Youth Authority
+Salary Range:
+5,885.00 - 8,894.00
+Position Type:
+Employee
+Position Title:
+Information Systems Specialist 7 - Business Intelligence Developer (Telework, Part-Time)
+Job Description:
+OREGON YOUTH AUTHORITY
+BUSINESS INTELLIGENCE DEVELOPER - ISS7
+Salem - CENTRAL OFFICE
+Bring your experience with PowerBI and reporting/analytical tools to OYA!
+Oregon Youth Authority (OYA) Information Systems Department is recruiting for a permanent, part-time Business Intelligence Developer to design, implement, and maintain reporting systems for the purpose of data mining, research, program evaluation, and dissemination of information. You will work with managers, information systems staff, researchers, and planners in institutions, community offices, administrative offices, and other information systems professionals to create optimal reporting methods for the Juvenile Justice Information System (JJIS) Reporting database and OYA’s data warehouse.
+As the Business Intelligence Developer, you will provide analysis, planning and coordination, design, development, and maintenance of the JJIS reporting system and the Department’s data warehouse reporting system. The work involves evaluation of complex computer applications to determine the optimal operating efficiency and maximum utilization of computer data resources. You will also provide technical assistance to Business Intelligence users.
+For a complete list of duties & responsibilities, please email the
+HR Recruiter.
+Additional Information:
+Part-Time: This is a part-time, 20 hours per week position. Benefits will be prorated according to the number of hours worked.
+Open until-filled: This recruitment will remain open until filled. Our first application screening is scheduled for 8:30 a.m. on August 16, 2022 but we may close the announcement at any time when we have received an adequate number of applications. We cannot guarantee that we will consider applications received after the first screening date. We encourage interested applicants not to delay in applying.
+Telework: This position is eligible for telework. You maybe required to travel to OYA's facilities and/or field offices. Currently this position will maintain a remote work schedule. Remote work is evaluated periodically to ensure business needs are being met and can be adjusted at any time. Please visit the state’s
+Work Reimagined
+website for more information.
+Representation: This position is represented by the Service Employees International Union (SEIU/OPEU)
+Relocation Assistance: Relocation costs may be paid in some cases. Please contact Human Resources for further information.
+We may used this recruitment to fill future vacancies.
+ABOUT OYA
+At OYA, diversity, equity, and inclusion are more than just words on a page. To meet our mission and live our values as an agency, DEI must be at the heart of all we do. We support cultural competence, develop teams and cultivate leaders in ways that are equitable to everyone, especially people of color, those who identify as LGBTQ+, or those from other marginalized communities. We are explicit and intentional as we identify resources that all our youth and staff need to grow and prosper. Our DEI work connects closely with our culture of positive human development, with safe and supportive environments where everyone is held accountable and connected to their community. The end goal is to protect the public and reduce crime by holding youth accountable and providing opportunities for reformation in safe environments.
+If you are looking to join a team that values individual and cultural differences, with the opportunity to contribute to youth reformation by enriching our workforce with diversity, OYA wants to hear from you! People of color, women, and other members of historically marginalized communities are strongly encouraged to apply!
+Please take a moment to watch this quick video about Oregon Youth Authority, our team and our culture
+bit.ly/work4OYA
+. For more information please visit
+www.oregon.gov/oya
+.
+What's in it for You?
+OYA values our employees. We believe that your time outside of the workplace is as valuable as it is inside the workplace. We offer a great work/life balance with flexible work schedules on most positions and a competitive benefits package, including low-cost, high-coverage
+health insurance
+, generous time-off, and a competitive
+retirement plan
+.
+Discover more about working in Oregon state government by
+clicking here
+.
+What We Are Looking For:
+Six (6) years of information systems experience with PowerBI and reporting/analytical tools such as SAP BusinessObjects suite, Cognos, SSRS.
+
+OR
+An Associate's degree in Computer Science, Information Technology, or related field, OR completion of a two (2) year accredited vocational training program in information technology or related field; AND
+four (4) years of information systems experience with PowerBI and reporting/analytical tools such as SAP BusinessObjects suite, Cognos, SSRS.
+
+OR
+A Bachelor's degree in Information Technology, Computer Science, or related field AND
+two (2) years of information systems experience with PowerBI and reporting/analytical tools such as SAP BusinessObjects suite, Cognos, SSRS.
+
+OR
+Master's degree in Information Technology, Computer Science, or related field may substitute for all of the above.
+DESIRED ATTRIBUTES/APPLICATION SCORING CRITERIA: If you have these qualities, let us know! It’s how we will choose whom to move forward!
+Note: You do not need to have all of these qualities to be eligible for this position.
+Demonstrated knowledge of developing, deploying and maintaining complex report and dashboard projects
+Strong ability to write complex SQL statements; experience with SQL Server DBMS and Oracle PL/SQL
+Have strong verbal and written skills along with the ability to effectively communicate with non-technical business stakeholders
+Strong ability to analyze and QA data, identify data integrity issues and make recommendations
+Experience working with SAP Business Objects suite
+How to apply:
+Complete the application fully or upload current, updated resume.
+Complete the questionnaire / supplemental questions.
+After you submit your application please respond to the public records request authorization and gender identity questionnaire. This step will come after you submit and will complete the process. If you are an employee, the tasks will come to your Workday inbox.
+If you are a veteran, you may receive preference.
+Click here for more information about veterans’ preference
+. The task to claim preference will come after the public records request and gender identity questionnaire tasks.
+Click here
+for a guide on how to upload your documents. For privacy reasons, please do not attach your DD214/DD215/civil service preference letter to your application or combine it with any other required document attachments.
+Good To Know Information:
+Our goal is to be a diverse workforce that is representative, at all job levels, of the citizens we are here to serve. OYA is an equal opportunity and affirmative action employer. All aspects of employment including the decision to hire, promote, discipline, or discharge, will be individualized based on merit, competence, performance, and business need.
+We do not discriminate on the basis of race, color, religion, marital status, age, national origin, ancestry, physical or mental disability, medical condition, pregnancy, genetic information, gender, sexual orientation, gender identity or expression, veteran status, or any other status protected under federal, state, or local law.” The more diverse we are, the better our work will be.
+Applicants with a disability may request a reasonable accommodation to participate in the hiring process. For assistance regarding reasonable accommodation or for alternative format please contact OYA Recruitment at 503-373-7301. Oregon Relay Service can be reached by calling 7-1-1.
+Pre-employment Checks:
+In keeping with our mission, OYA will conduct a criminal record check, per
+OAR 416 Division 800
+, a driving record background check and a vulnerable population abuse and neglect check. Information obtained about an individual is confidential. An individual who refuses to consent to a criminal records/background check shall be disqualified from consideration in the position for which you applied. All applicants are subject to additional pre-employment check(s) such as fingerprint based on criminal records check, pre-employment drug screening and/or education verification as required for the position.
+In 2003 Congress passed the
+Prison Rape Elimination Act
+(PREA), the first federal civil statue focused specifically on addressing sexual violence in juvenile facilities, jails, prisons, and other facilities. In recognition of the rights, safety, and well-being of the youth we serve you will be asked specific questions about your background to ensure our hiring and promotion practices comply with the National PREA standards.
+All OYA employees are required to submit to a two-step TB test to establish a TB free "base line." If offered employment and you accept, OYA will offer you the TB testing, and if you refuse, OYA will require the necessary documentation from your personal health care provider as a condition of employment.
+All positions in OYA will require the incumbent to serve as a "mandatory reporter" of child abuse.
+Visa Sponsorship:
+We do not offer Visa sponsorship. If you are hired, you will be required to fill out the US Department of Homeland Security’s I-9 form confirming you are able to work in the US. OYA uses E-Verify to confirm that applicants are authorized to work in the United States.
+Have Questions?:
+For questions about the job announcement, email
+OYA Recruiter.

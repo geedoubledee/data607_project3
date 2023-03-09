@@ -1,0 +1,24 @@
+Our Opportunity:
+Millions of Pet Parents with unique needs visit Chewy.com looking for products for their beloved pets. We have the task to solve the most important problems and make decisions for our Company in the service of our Pet Parents- what Assortment/Catalog will they see, what Prices will they buy at, which promotions will provide the best value to the Consumer, what combination of overall Pricing and Catalog (sum of parts) offers the best long term value to the customers and the company, what can we do better to make our Category Management technology scale for our customers and suppliers?
+Meet the Merchandising Data Science and Economics team @ Chewy: We use the best of machine learning and economics techniques and continuously test the outcomes to simplify our Pricing, Promotions, Catalog assortment for our customers and Vendor partners. We are hiring a Associate Director to lead the Merchandising Data Science and Economics team, and the candidate can choose any of our Main Office Hubs as their location. This is a leadership position that will have exposure across the entire business, influencing the vision, development and implementation of machine learning/data science solutions that power the whole Merchandising business- i.e. Pricing, Promotions, Catalog, Category/Vendor Management at scale. You will bring experience spanning analytics, economics, and data science that will help ensure Chewy pet parents find the right products at the best prices.
+
+What You'll Do:
+Hire, develop and lead a team of data scientists and economists.
+Set the long-term vision, goals, and roadmap for the team.
+Build, test, and deploy pricing optimization models.
+Measure, refine and improve model performance.
+Collect requirements and feedback from internal stakeholders as inputs for project prioritization.
+
+What You'll Need:
+MS in data science, economics, computer science, or a quantitative/engineering field.
+Demonstrated history of leadership and full-cycle ownership of high impact data science and engineering projects, from model conceptualization to scaled deployment to iterative improvement.
+5+ years of experience in directly managing and mentoring data/analytical/technical teams.
+Expertise using machine learning techniques (e.g. random forest, XG Boost, natural language processing)
+Proven experience with bringing structured thinking in ambiguous problems spaces and delivering solutions.
+If you have a disability under the Americans with Disabilities Act or similar law, and you need an accommodation during the application process or to perform these job requirements, or if you need a religious accommodation, please contact CAAR@chewy.com.
+
+If you have a question regarding your application, please contact HR@chewy.com.
+
+Chewy is committed to equal opportunity. We value and embrace diversity and inclusion of all Team Members.
+
+To access Chewy’s Privacy Policy, which contains information regarding information collected from job applicants and how we use it

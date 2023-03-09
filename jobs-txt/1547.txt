@@ -1,0 +1,35 @@
+Tapjoy is a leading mobile advertising and app monetization company. Our platform empowers advertisers to connect with over 975 million monthly active users through value exchange advertising that drives awareness, engagement and the metrics that matter most to their overall growth. Meanwhile, companies such as Scopely, Crowdstar, Topps and many of the Top 200 grossing app publishers trust our platform to monetize their content, grow their audiences and reward their users. Founded in 2007 and headquartered in San Francisco, Tapjoy is a global organization with more than a dozen offices worldwide.
+Recommender system is pretty much our business - we drive conversions. Given our massive scale, relatively modest improvements can have an outsized impact. If massive user datasets, cutting edge ML algos, recommender systems, multi-arm bandits excite you. You could be a great fit for this role to be a point of influence on a celebrated Data Science team at Tapjoy.
+
+Requirements:
+B.S./M.S., in Computer Science or similar applied engineering fields.
+Hands-on recommendation, optimization, classification ML industry experience.
+Ability to work in a fast-paced, test-driven collaborative and iterative programming environment.
+Understand major supervised learning and unsupervised learning algorithms (deep learning, tree-based models, SVM, Naive Bayes, generalized linear models, PCA, K-means variants).
+Solid understanding of common recommendation systems approaches and corresponding algorithms.
+Experience in experimental design and statistical inference.
+Experience in storytelling, dashboard, and reporting.
+Understanding of RDBMS, SQL and NoSQL alternatives is a plus.
+AdTech domain and marketplace knowledge is a plus.
+Experience with continual learning and model lifecycle management is a plus.
+
+Role:
+Gather and analyze large sets of structured and unstructured data and interpret results to create actionable plans for our Offerwall product.
+Develop and deploy machine learning models for ad recommendation (CTR prediction, Personalization and user segmentation, Exploration/Exploitation Algos).
+Develop and deploy models/algorithm for ad optimization system (eCPM optimization, bid optimization, ROAS optimization).
+Design and conduct online experience and perform statistical hypothesis testing for A/B testing results.
+Competencies:
+Solid coding skills in Python and SQL. Packages: scikit-learn, TensorFlow, Keras, PyTorch.
+Familiar with deploying real-time models in AWS SageMaker or similar platform.
+Experience with developing and deploying training and scoring data pipelines
+Knowledge in classification models, class imbalance, model calibration, and recommendation systems.
+Experience in wrangling with massive data (consolidating data from different sources, missing values, outliers, feature engineering, etc.)
+
+Business Unit:
+Engineering
+
+Skills - Technical 3:
+Python
+
+Skills - Technical 5:
+SQL

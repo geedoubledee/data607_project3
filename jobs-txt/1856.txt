@@ -1,0 +1,35 @@
+This is a remote position open to any qualified applicant in the United States
+1. SQL DBA - Admin core task - must for all level
+a. checking health of sql server
+b. checking sessions details
+c. checking error logs
+d. create logins & users and fix any issues
+e. knowledge on databases, Objects and DMV
+f. Monitoring & fixing alerts
+2. Database Backup & Restore - must for all level
+3. SQL Job creation and fixing any failure - Must for all level
+4. Database encryption - for L2/L3 level
+5. SQL Server Patching - for L2/L3 level
+6. SQL Server upgrade / Migration - for L2/L3 level
+7. Understanding SQL Server performance - L2/L3 level
+a. checking Blocking issues
+b. checking Deadlock issues
+c. Query tunning
+d. Index maintenance
+8. working knowledge on High Availability - L2/L3 level
+a. Log shipping
+b. Mirroring
+c. Always-on AG
+9. working knowledge on SQL Server Replication - L2/L3 level
+10. Linked server issues fixing SPN & Delegation - L2/L3 Level
+11. MS Azure (Iaas) working knowledge is a plus
+12. Understanding & writing T-SQL ,PowerShell scripts is a plus
+Employee Status : Full Time Employee
+Shift : Day Job
+Travel : No
+Job Posting : Nov 17 2022
+About Cognizant
+Cognizant (Nasdaq-100: CTSH) is one of the world's leading professional services companies, transforming clients' business, operating and technology models for the digital era. Our unique industry-based, consultative approach helps clients envision, build and run more innovative and efficient businesses. Headquartered in the U.S., Cognizant is ranked 185 on the Fortune 500 and is consistently listed among the most admired companies in the world. Learn how Cognizant helps clients lead with digital at www.cognizant.com or follow us @USJobsCognizant.
+Applicants may be required to attend interviews in person or by video conference. In addition, candidates may be required to present their current state or government issued ID during each interview.
+Cognizant is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to sex, gender identity, sexual orientation, race, color, religion, national origin, disability, protected Veteran status, age, or any other characteristic protected by law.
+If you have a disability that requires a reasonable accommodation to search for a job opening or submit an application, please email CareersNA2@cognizant.com with your request and contact information.

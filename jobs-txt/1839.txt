@@ -1,0 +1,64 @@
+Successful candidates for the Senior Manager, Data Scientist role will have experience using large sets of statistical and mathematical data, and have the predictive modeling and business strategy skills to build the algorithms necessary to form data driven decisions. They should be confident in their ability to communicate their findings, orally and visually. They should have experience leading, managing and developing other data analysts. Finally, they should be able to quickly build an understanding of how Netspend financial products are developed, perform in the payments space and how Netspend customers use Netspend products in their financial lives.
+Candidates must be naturally curious and enjoy diving deep into a data set to find answers to as yet unknown and potentially unasked questions. They need to have a natural desire to go beneath the surface of a problem and be thinkers who can ask the right (business) questions. They need to be confident and self-secure in their methods, realizing that working within massive data sets requires lot of time and patience as developing new algorithms and new insights often involves a trial-and-error process.
+Success in this role also requires understanding of how to integrate multiple systems and data sets; i.e., the ability to link and mash up distinctive data sets to discover new insights. This often requires being able to work with potentially incomplete data sources and cleaning data sets prior to using them. It also requires the ability to lead, manage and develop a small team of data analysts.
+Responsibilities
+Develop data mining techniques to discover new data trends in customer behavior
+Test and deploy AI against multiple business segments / operations / financial products and transaction types, including fraud prevention and risk mitigation
+Develop predictive models that can be implemented as fraud prevention or monitoring tools
+Coach and develop other data analysts
+Prioritize and assign work amongst a data analytics team
+Measure, track and ensure delivery of data projects in a timely manner
+Create automated processes to build aggregated data marts to support internal reporting and dashboards
+Develop customer behavior metrics and tolerances to monitor for unusual behavior
+Create data visuals that summarize and present findings for a business audience including executive leadership
+Support ongoing discovery of new customer behavior and fraud trends
+Perform other duties as defined by management
+Skill Set
+A basic programming foundation is required, preferably in several different programming languages such as Python, R, SAS, Stata or Matlab. The ability to query data with SQL code is key. In addition, the successful candidate needs to be familiar with or willing to learn about new and emerging data disciplines:
+AI: using AI as a tool in risk mitigation, fraud prevention and other areas defined by the business
+Natural Language Processing: the interactions between computers and humans
+Machine learning: using computers to improve as well as develop algorithms
+Conceptual modeling: to be able to share and articulate modeling;
+Statistical analysis: to understand and work around possible limitations in models;
+Predictive modeling: most of the big data problems are towards being able to predict future outcomes;
+Background/Experience
+A Bachelor’s degree in a quantitative, technical, or financial discipline is required. A Master’s degree in similar areas is preferred. The successful individual should fulfill most of the following capabilities:
+7+ years of experience in date science and advanced analytics;
+5+ years of experience in people management and development
+Advanced understanding of data science and statistical modeling techniques such as classification, clustering, regression, decision trees etc.;
+Experience testing and deploying AI solutions preferred;
+Experience using Python and other statistical tools (such as R);
+Able to work in a fast-paced multidisciplinary environment of constant change;
+The ability to query relational databases and perform statistical analysis (Oracle SQL);
+Able to create models, demonstrations to help management better understand the work;
+Experience developing dashboards using business intelligence or reporting tools such as Qlik;
+Have a basic understanding and appreciation of business processes and strategy;
+Strong written and verbal communication skills;
+Proactive work style and the ability to work autonomously;
+As provided in Netspend's Background Check policy, eligible candidates may be subject to drug, criminal history, and credit checks, which will be conducted and used in accordance with applicable local, state, and federal laws
+Job Type: Full-time
+Pay: $140,000.00 - $150,000.00 per year
+Benefits:
+401(k)
+401(k) matching
+Dental insurance
+Employee assistance program
+Flexible spending account
+Health insurance
+Health savings account
+Life insurance
+Paid time off
+Parental leave
+Tuition reimbursement
+Vision insurance
+Schedule:
+8 hour shift
+Day shift
+Monday to Friday
+Supplemental pay types:
+Bonus pay
+Experience:
+Python: 7 years (Required)
+SQL: 7 years (Required)
+people management: 5 years (Required)
+Work Location: Remote

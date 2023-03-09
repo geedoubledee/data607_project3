@@ -1,0 +1,46 @@
+Welcome to Perennial.
+Perennial is building the world's leading verification platform for soil-based carbon removal. Our vision is to unlock soil as the world's largest carbon sink. To do that, we are building trusted standards, tools, and technologies to help verify climate-smart agriculture.
+Perennial uses the world's most advanced remote measurement technology for soil carbon sequestration and emissions. We fuse machine learning, ground observations, and satellite data to map soil carbon and land-based GHG emissions at continent-level scales. This technology is powering the future of climate-smart agriculture and helping the food supply chain decarbonize.
+At Perennial, you will work in a mission-driven and collaborative environment alongside a diverse team with backgrounds spanning science, technology, carbon markets, and agriculture.
+Our HQ is located in Boulder, CO USA. We are a fully-flexible company for remote and hybrid work.
+We've raised $25M+ from mission-aligned investors including Temasek, Bloomberg, Microsoft Climate Innovation Fund, SineWave Ventures, Alumni Ventures Group, and Collaborative Fund.
+About the Role:
+As the Head of Data Science, you will lead a team to develop clearly defined models and algorithms that quantify carbon content in farmland from local to continent scales. Output from these algorithms will directly support the issuance of carbon offset credits underpinned by Perennial's award-winning technology. You will play a foundational role in shaping the strategy, architecture, and buildout of Perennial's data-driven quantification methodology. You will manage an excellent team of data scientists and applied scientists to execute Perennial's vision, and will report directly to the CTO. You will work closely with the VP of Engineering and VP or Product, and will be expected to communicate technical data science issues to stakeholders outside the data science and engineering teams. This is a tremendous opportunity to join a productive team at a pivotal time, and to apply your leadership skills to one of the most challenging and important problems in climate tech.
+Your Responsibilities:
+Manage and grow a stellar team of data scientists and applied scientists.
+Report directly to the CTO to execute Perennial's vision. This will require integrating information from engineering, science and commercial teams to balance competing objectives.
+Create and uphold a culture of communication and tight integration between the data science team and other teams within the company.
+Work closely with data scientists to generate new models, algorithms, metrics, features, and architectures to improve performance and explainability with respect to commercial and science objectives.
+Help explore solutions to problems such as temporal change detection, label-limited ML, and model applicability domain.
+Represent the company's data science externally at conferences and assist in the authorship of whitepapers or peer-reviewed publications.
+What You'll Bring:
+Extensive management experience in data science or algorithm development.
+Proven experience contributing to or leading modeling efforts at a company where the data science outputs are directly delivered as the end product.
+Proven experience balancing the needs of data science and commercial or product teams to achieve a common objective.
+Ability to manage open-ended R&D timelines alongside definite product requirements.
+Experience delivering ML/DL models in production.
+Strong experience with modern data science and computational statistics toolsets (e.g. the Python ML stack, numpy, pandas, sklearn, jupyter, AWS, etc.) and familiarity with a variety of MLOps tools.
+Experience applying a variety of ML/DL algorithms, including regressions, tree-based methods, neural networks, and time-series methods.
+Excellent verbal and written communication skills, including the ability to translate technical concepts for a non-technical audience.
+What will make you stand out:
+8+ years of management experience in data science or algorithm development.
+Experience or education in the physical, life, or ecological sciences, especially in a commercially relevant setting.
+Startup experience, preferably Series A stage or earlier.
+Experience with geospatial data or spatio-temporal prediction problems strongly preferred.
+Experience with one or more of the following: remote sensing, computer vision, deep learning, statistics, data/ML engineering, model training automation, physical sciences, life sciences, ecosystem sciences, carbon quantification, agriculture.
+Experience with scalable computing for ML/DL inference (e.g. Dask, Spark, batch computing).
+Bayesian methods, including methods of error propagation.
+Our Stack: Python, React, sklearn, Docker, Airflow, PostGIS, GDAL, AWS
+You'll love working at Perennial because:
+We live by our Core Values.
+Speak your truths, welcome new voices.
+Celebrate your successes, own your mistakes.
+Solve important problems.
+Invest in each other.
+Build for the future.
+Get your hands dirty!
+We challenge the status quo. We're a group of people who want to create the changes we hope to see in the world. See some of our recent press about the problems we're committed to solving.
+We invest in your life. We want to provide you with resources to meet your needs both in and outside of work. We offer generous PTO, health, vision, dental, 401k, and HSA benefits and a fully stocked kitchen to keep your mind sharp throughout the day.
+We want you to grow. We are a team that supports each others' professional and intellectual growth. You'll have access to regular opportunities to learn from teammates and invest in your professional development.
+We offer competitive compensation packages. Our team is our most valuable asset. We want everyone who works for us to feel fairly compensated for the impact they bring to our mission. The team member in this role can expect a starting salary in the range of $190,000 - $260,000 alongside equity in the company.
+Perennial is an equal opportunity employer. We celebrate and embrace diversity and are committed to building a team that represents a variety of experiences, backgrounds, and skills. We do not discriminate on the basis of race, color, religion, marital status, age, gender identity, gender expression, sexual orientation, non-disqualifying physical or mental disability, national origin, veteran status, or other applicable legally protected characteristics.

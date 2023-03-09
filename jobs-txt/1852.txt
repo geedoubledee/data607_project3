@@ -1,0 +1,28 @@
+We're seeking a Machine Learning Research Engineer to join us in our mission to improve human health and quality of life through the development, distribution, and application of advanced computational methods!
+As a member of our Machine Learning team, you'll deal with DNA, RNA, small molecule design, materials design, and/or quantum physics. Previous experience in these domains is not required, but an interest in learning is.
+Who will love this job:
+An engineer who can run independent projects end to end and is familiar with tensorflow, pytorch, Pandas, and/or sklearn
+A self-directed researcher who can wade through technical domains to get to "the real problem"
+An excellent communicator who loves collaborating in a team environment
+What you'll do:
+Collaborate closely with scientists, developers, and drug hunters to deliver new research that meet business and product goals
+Given a clean slate, assess the merit of an idea and help the team decide whether to develop it into a full feature
+Use your own judgment and with support from teammates to architect and implement proof-of-concept solutions
+Participate in a code reviewing environment that encourages learning and high code quality
+What you should have:
+Basic grasp of statistics
+Ability to work with multi-dimensional data and solve data munging problems with python
+BS, MS, or PhD in Computer Science, Software Engineering, Machine Learning, Mathematics, Physics, Chemistry, or a related field
+We'd prefer to hire someone with:
+Familiarity with source control (GIT, SVN, etc.)
+An understanding of continuous integration
+Background in large-scale distributed computing (pbs, slurm, etc.)
+Experience with building systems that operate on more than ten machines
+Knowledge of log processing and data analysis
+An understanding of ADME and/or QSAR/QSPR
+An independent interest in science (an undergraduate major or minor is a plus!)
+Pay and perks:
+Schrödinger understands it's people that make a company great. Because of this, we're prepared to offer a competitive salary, stock options, and a wide range of benefits that include healthcare (with dental and vision), a 401k, pre-tax commuter benefits, a flexible work schedule, and a parental leave program. We have catered meals in the office every day, a company culture that is relaxed but engaged, and over a month of paid vacation time. Our Administrative and Human Resources departments also plan a myriad of fun company-wide events. New York is home to our largest office, but we have teams all over the world. Schrödinger is honored to have been selected as one of Crain's New York Best Places to Work for three years running.
+Estimated base salary range (NYC only): $120,000 - $145,000. Actual compensation package is dependent on a number of factors, including, for example, experience, education, degrees held, market data, and business needs. If you have any questions regarding the compensation for this role, do not hesitate to reach out to a member of our Strategic Growth team.
+Sound exciting? Apply today and join us!
+As an equal opportunity employer, Schrödinger hires outstanding individuals into every position in the company. People who work with us have a high degree of engagement, a commitment to working effectively in teams, and a passion for the company's mission. We place the highest value on creating a safe environment where our employees can grow and contribute, and refuse to discriminate on the basis of race, color, religious belief, sex, age, disability, national origin, alienage or citizenship status, marital status, partnership status, caregiver status, sexual and reproductive health decisions, gender identity or expression, sexual orientation, or any other protected characteristic. To us, "diversity" isn't just a buzzword, but an important element of our core principles and key business practices. We believe that diverse companies innovate better and think more creatively than homogenous ones because they take into account a wide range of viewpoints. For us, greater diversity doesn't mean better headlines or public images - it means increased adaptability and profitability.

@@ -1,0 +1,11 @@
+Reviews and analyzes the programming systems to support the institution’s Enterprise Resource Planning (ERP) applications. Requirements gathering and writing, software development and testing, troubleshooting, documentation, database development, systems analysis, business process analysis, client-server technology, and agile development methodologies. Ensures that software can be completely integrated into the ERP system. Designs new modules to improve system efficiency where necessary and applicable. Demonstrates expertise in the Banner ERP and suite of systems including practices, and procedures. Relies on extensive experience and judgment to plan and accomplish goals. May provide consultation on complex integration projects and is considered to be the top level contributor/specialist DBA.
+Essential Functions
+Support application design and configuration of client systems through customization and coding of screen layouts, user interfaces, printed outputs, and interfaces with other systems to enable client strategies.
+Write and maintain technical specifications/documentation to describe program development, logic, coding, testing, changes, and corrections.
+Provide technical assistance by responding to inquiries from others regarding errors, problems, or questions regarding ERP and integrated systems.
+Attend both internal and external meetings and trainings.
+Analyze, define, and document requirements for data, workflow, safety processes and standards, hardware and operating system environment, interfaces with other systems, internal and external checks and controls, and outputs.
+Train end users or technical support staff to use programs.
+Build and apply technical, safety, industry, and functional standards to support efforts in enabling value creation for clients.
+Support the analysis and design of business processes.
+Maintain technical/professional currency and share knowledge with others.

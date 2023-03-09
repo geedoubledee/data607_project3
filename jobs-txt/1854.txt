@@ -1,0 +1,90 @@
+Job Description
+We are seeking growth and improvement minded Data Science & Analytics Associate Directors that can help drive our Strategic Operating Priorities.
+Invent | Pursue the Most Promising Internal and External Science to Address Significant Unmet Medical Needs
+Execute | Prioritize Resources Behind Our Key Growth Drivers (Oncology, Vaccines, Select Specialty Areas, Animal Health) While Optimizing Our Base Business)
+Adapt | Develop Our People, Culture and Business Model to Evolve with a Dynamic Landscape
+Diverse Talent | We are committed to providing an inclusive and welcoming environment with promoting leadership behaviors because having a high performing, engaged workforce is critical to our ability to deliver innovative solutions to patients and customers around the world
+Values and Standards | Our Steadfast Commitment to Our Values and Standards will Continue to Guide Us as We Take on new opportunities and Will Always be Fundamental to Our Success – They are a Competitive Advantage for Us
+The Data Science & Analytics Associate Director role will partner with the newly developed Human Health Insights, Analytics and Data area to use and apply data in dramatically improved ways to produce actionable insights that drive greater customer and market comprehension to inform launch brand strategies, help meet in-line brand growth objectives, and achieve improved customer engagement.
+They will be an integral part in helping to facilitate the creation of actionable commercial use-cases that create ‘data-driven’ decisions, that leverage knowledge across the organization and be more relevant to the customer.
+The preferred candidate will have an entrepreneurial spirit, comprehension of healthcare & technology, a demonstrated record of producing actionable insights from
+analytics, knowledge of and ability to identify & use new customer data sources to influence marketing strategy and identify data focused opportunities in these key growth areas.
+They will have demonstrated consistently strong leadership skills, an ability to work objectively and deal well with ambiguity and strong partnership skills. They will empower a growth mindset and inspire a culture of continual learning. This role will require interfacing and collaborating with many teams so strong communication skills.
+peers who will thrive in this role are motivated by developing a deep appreciation of pharma secondary data sources and possess an ability to define and translate objectives and business questions into analytical problems that require advanced and scalable analytical solutions that produce actionable insights.
+Additional Key Responsibilities
+Thoroughly appreciate the assigned internal client | stakeholder business needs and priorities to help build analyses promoting business objectives by delivering actionable insights
+Mine and analyze data leveraging advanced analytical/statistical techniques from disparate databases/sources (claims data/EMR Data and other sources) to drive optimization and improvement of therapy area commercial business strategies
+Be accountable for ensuring delivery of analyses with high quality standards, timeliness, compliance, and excellent user experience (routinely keep client base updated on progress)
+Establish and manages the continued close relationship with clients/stakeholders
+Comprehend the complexity/dependencies between multiple teams, platforms (people, technologies)
+Convey intensively with other platform/competencies to comprehend new trends/ methodologies being implemented/considered within the company ecosystem and bring new ideas forward that will enhance analytic capabilities of the organization
+Contribute to innovative experiments, specifically to idea generation, idea incubation and/or experimentation, identifying tangible and measurable criteria
+Where applicable, partner throughout the organization to identify, work with and direct the sourcing of externally available data sources based on the business needs, and execution of specific business objectives
+Effectively convey and positively influence stakeholders
+Education
+Bachelor of Science (or equivalent) in Data Science, Computer Science, Management Information Systems, IT,
+MBA , or an equivalent scientific/commercial discipline
+Knowledge | Skills
+Work objectively and as a Team member with Integrity | Precision | Accomplishment | Motivational Ambition | Respect
+Three plus years of relevant working knowledge delivering actionable analytical insights that drive positive business results
+Knowledge in mining medical claims/EMR, social media, etc. data with a strategic/inquisitive mindset and proven record of being able to produce actionable business insights that drive positive commercial results
+Providing actionable insights through analytics to commercial franchises brands at various stages of product life cycle (development, launch, maturity, end of life cycle)
+Proficiency formulating business questions based upon client insight standards
+Evaluating medical claims/EMR (and other data sources) data features to establish best data source to answer business question
+Ability to extract data from various database tables using tools such as SQL to develop features to be used in analysis including the ability to perform feature engineering
+Developing both machine learning and descriptive algorithms/modeling using such languages as Python, R and SAS etc.
+Comfortable formulating actionable insights and recommendations from commercial analytics into presentations (using PowerPoint, Tableau, etc.) and presenting results to various levels of franchise management
+Partner with diverse groups of work colleagues and positively manage ambiguity
+Self-motivation, proactivity, and ability to work objectively with minimum direction
+Proven knowledge of business processes and industry/market trends within the pharmaceutical/healthcare space
+Strategic business acumen, with proven ability to comprehend business processes and commercial strategies in detail – both at global and region/country levels – and translate these into detailed business standards/questions that power analytics
+Motivational and ethical stakeholder management and communication skills, along with the ability to convey appropriately and confidently with colleagues from different backgrounds and seniority levels
+Effective organizational skills, with ability to navigate a complex matrix environment and organize/prioritize work efficiently and effectively
+Data curation and management in a relevant life-science sector (pharmaceutical, academic, or healthcare)
+Proven track record of successful completion of multi-stakeholder projects necessitating coordination cross-functionally between several departments
+Ethical verbal and written communication skills
+Preferred
+Proven data science leveraging advanced statistical methods, Machine Learning/Artificial Intelligence, Natural Language Processing (NLP) modeling and model evaluation
+Analytical knowledge in driving actionable insights from data in the following therapeutic areas: HIV, Acute Care, other Infectious Disease (COVID), Anesthesia, Neurology, Immunology, Cardiovascular, Metabolic
+Work Logistics
+Hybrid of remote and on-site work | Onsite in Kenilworth, NJ or Upper Gwynedd, PA two to three times a week
+Our Human Health Division maintains a “patient first, profits later” ideology. The organization is comprised of sales, marketing, market access, digital analytics and commercial professionals who are passionate about their role in bringing our medicines to our customers worldwide.
+Who we are …
+We are known as Merck & Co., Inc., Kenilworth, New Jersey, USA in the United States and Canada and MSD everywhere else. For more than a century, we have been inventing for life, bringing forward medicines and vaccines for many of the world's most challenging diseases. Today, our company continues to be at the forefront of research to deliver innovative health solutions and advance the prevention and treatment of diseases that threaten people and animals around the world.
+#Data2020
+What we look for …
+Imagine getting up in the morning for a job as important as helping to save and improve lives around the world. Here, you have that opportunity. You can put your empathy, creativity, digital mastery, or scientific genius to work in collaboration with a diverse group of colleagues who pursue and bring hope to countless people who are battling some of the most challenging diseases of our time. Our team is constantly evolving, so if you are among the intellectually curious, join us—and start making your impact today.
+NOTICE FOR INTERNAL APPLICANTS
+In accordance with Managers' Policy - Job Posting and Employee Placement, all employees subject to this policy are required to have a minimum of twelve (12) months of service in current position prior to applying for open positions.
+If you have been offered a separation benefits package, but have not yet reached your separation date and are offered a position within the salary and geographical parameters as set forth in the Summary Plan Description (SPD) of your separation package, then you are no longer eligible for your separation benefits package. To discuss in more detail, please contact your HRBP or Talent Acquisition Advisor.
+For positions located in the United States and Puerto Rico – Subject to applicable law, all new hires (including internal transfers) must demonstrate that they are fully vaccinated against COVID-19 or that they qualify for a medical or religious exemption to this vaccination requirement. New hires (including internal transfers) to a position that, as determined by the Company, requires routine collaboration with external stakeholders (such as roles in health services or customer-facing commercial or research-based roles) (“Customer-Facing Role”) who are not vaccinated must qualify for a medical or religious exemption and be in a position that the Company determines can accommodate unvaccinated employees without causing an undue burden to business operations. If, following dialog with the candidate as appropriate, it is determined that the candidate either a) does not qualify for a religious or medical exemption or, b) for candidates applying for Customer-Facing roles, it is determined that allowing the candidate to work without vaccination would cause an undue burden to the Company, the candidate will be ineligible for hire or transfer, or any offer of employment or transfer (if applicable) will be revoked. Please note that notwithstanding the approval of any reasonable accommodation, the Company reserves the right to monitor, modify, or revoke any such accommodation if it is determined, following dialog with the employee, that the accommodation is no longer effective or results in an undue burden to the Company.
+
+US and Puerto Rico Residents Only:
+Our company is committed to inclusion, ensuring that candidates can engage in a hiring process that exhibits their true capabilities. Please click here if you need an accommodation during the application or hiring process.
+
+Pay Transparency Nondiscrimination
+We are proud to be a company that embraces the value of bringing diverse, talented, and committed people together. The fastest way to breakthrough innovation is when diverse ideas come together in an inclusive environment. We encourage our colleagues to respectfully challenge one another’s thinking and approach problems collectively. We are an equal opportunity employer, committed to fostering an inclusive and diverse workplace.
+Under New York City law, the Company is required to provide a reasonable estimate of the salary range for this job. Final determinations with respect to salary will take into account a number of factors, which may include, but not be limited to the primary work location and the chosen candidate’s relevant skills, experience, and education.
+Expected salary range:
+$129,800.00 - $220,500.00
+Search Firm Representatives Please Read Carefully
+Merck & Co., Inc., Rahway, NJ, USA, also known as Merck Sharp & Dohme LLC, Rahway, NJ, USA, does not accept unsolicited assistance from search firms for employment opportunities. All CVs / resumes submitted by search firms to any employee at our company without a valid written search agreement in place for this position will be deemed the sole property of our company. No fee will be paid in the event a candidate is hired by our company as a result of an agency referral where no pre-existing agreement is in place. Where agency agreements are in place, introductions are position specific. Please, no phone calls or emails.
+Employee Status:
+Regular
+Relocation:
+Domestic
+VISA Sponsorship:
+Yes
+Travel Requirements:
+10%
+Flexible Work Arrangements:
+Flex Time, Hybrid
+Shift:
+Not Indicated
+Valid Driving License:
+No
+Hazardous Material(s):
+Number of Openings:
+6
+
+Requisition ID:R199600

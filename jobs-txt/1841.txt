@@ -1,0 +1,36 @@
+Data Science Engineer
+Location: Austin, Tx / Remote / Hybrid Duration: Full-Time
+Salary: DOE
+Visa: Open to GC and USC Only In this Role:
+Matchpointe Group, Inc is looking for a Data Scientist to develop an IOT analytics platform enabling engineers and operations personnel to collaborate with developers & data scientists building innovative machine learning and artificial intelligence models. The platform facilitates the ingestion and transformation of asset, sensor and event data and makes it available in an open-source data science environment supporting Python, Jupyter and Spark.
+Roles & Responsibilities
+Work with customers and industry experts to discover high value use cases for failure detection, performance optimization and other actionable insights.
+Perform exploratory data analysis to discover patterns, trends, and performance insights from large, high- dimensional IOT signal data.
+Profile data sources to assess content, structure, quality, and utility.
+Define analytical experiments to validate hypotheses and test potential solutions using statistical analysis methods on historical data.
+Incorporate engineering and physics based mathematical models (e.g. fluid dynamics) to enhance and augment sensor signals.
+Train, test and validate predictive and diagnostic models using machine learning and artificial intelligence algorithms for classification, regression, and time-series analysis.
+Identify and implement new statistical or machine learning methodologies as needed for specific models or analysis.
+Utilize open-source technologies including Python, Jupyter and Databricks
+Work proactively with software development team to improve the platform.
+Work with customers and stakeholders to explain and document techniques and results using non- technical language and incorporate feedback.
+Experience & Educational Requirements:
+Exceptional understanding and ability to apply quantitative statistical methods and machine learning algorithms to solve complex challenges in business operations and develop predictive and diagnostic models.
+Master's Degree in Operations Research, Computer Science, Applied Mathematics, Industrial Engineering, Petroleum Engineering or related field from an accredited college or university.
+Proficiency in data analysis and model development in Python as well as the ability to implement, maintain, debug and test.
+3+ years’ experience using machine learning and artificial intelligence models and packages such as SciKit Learn, Scipy, Matplotlib,LIME, SHAP, Keras/ Pytorch/ TensorFlow.
+Experience working with Oil and Gas (production/artificial lift) is a plus.
+Some programming experience in one or more of the following fields is a plus: optimization, simulation, object-oriented programming, oil and gas, petroleum engineering.
+Experience in software development is a plus, ideally as part of a team using version control systems such as Git or SVN.
+Some experience with Databricks, Pandas, AWS, MongoDB, Timestream a plus.
+Ability to work with team members and customers to assess needs and resolve problems using excellent problem-solving skills, verbal/written communication, and the ability to present and explain technical and mathematical concepts to business audiences.
+Strong attention to detail with the ability to interpret raw data and assess large data sets for data integrity to effectively identify and treat outliers and data anomalies.
+Passion for learning, evangelizing new technologies and keep up to date with latest trends in data science.
+Willingness to work in a fast paced, entrepreneurial, and technical environment as part of a product and engineering team to build the most innovative and effective product in the market.
+Job Type: Full-time
+Pay: $130,000.00 - $180,000.00 per year
+Schedule:
+Monday to Friday
+Ability to commute/relocate:
+Austin, TX 78758: Reliably commute or planning to relocate before starting work (Required)
+Work Location: Hybrid remote in Austin, TX 78758

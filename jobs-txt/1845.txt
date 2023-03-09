@@ -1,0 +1,37 @@
+Director of Engineering, Data Platform
+San Francisco Bay Area
+
+Hanwha Techwin is an industry-leading provider of advanced network video surveillance and access control products. Our intelligent surveillance solutions are used globally – securing people, property, and data across a range of industries including retail, transportation, education, banking, healthcare, hospitality, airports, and more. Hanwha Techwin is an affiliate of the Hanwha Group, a Fortune Global 500 company.
+
+Hanwha Techwin's innovative cloud-based B2B intelligence-solution-as-a-service leverages Intelligent IoT Integration, AI/ML-based Data Analytics, Vision AI, and Blockchain technology stacks.
+
+As the Director of Engineering, Data Platform, you will lead a team of data engineers and data scientists, and work with the other Engineering teams to define and deliver innovative software solutions for the physical security industry. This position is based in our new Software R&D Innovation Center located in the San Francisco Bay Area.
+We are looking for an experienced, passionate, and self-driven individual who has a mix of both broad technical strategy as well as the ability to deep-dive into architectural and performance challenges.
+
+Responsibilities
+Responsible for designing, developing, and managing delivery of our data platform and architecture.
+Own and lead all data platform initiatives – Data Lake Strategy & Governance, Data Engineering and Platform development, Business Analytics, Reporting & Insights, Data Science, and ML/AI models.
+Recruit and lead a highly talented data platform organization with engineering leads, architects, Data Engineering and Business Analytics teams with multiple development streams and objectives.
+Lead multiple transformation initiatives, drive strategy, and foster innovation.
+Provide strategic oversight and implementation approaches for data management aligning with strategic business goals and roadmaps.
+Lead data roadmap and model discussions and development with product managers, architects and other engineering teams.
+Provide data subject matter expertise to business and development groups.
+Evaluate new data management technologies and consistently generate new ideas.
+Stay up to date with industry trends and bring industry knowledge while exemplifying a transformational mindset.
+Who You Are
+Strong analytical, strategic thinking and communication skills with the ability to synthesize, develop and present clear and concise recommendations.
+Strong leadership skills including individual leadership, change leadership, mentorship, motivation, coaching and development, and the ability to galvanize support.
+Highly detail-oriented, deadline-driven, and able to embrace change for a fast-growing organization.
+Ability to communicate a compelling vision and inspire others to deliver on an ambitious and complex roadmap.
+Possess uncompromising ethics and unwavering integrity.
+Champion of high standards, pushes for progress, embraces change, and challenges the status quo.
+Entrepreneurial mindset and driven to make an impact.
+
+Desired Skills and Experience:
+10+ years of experience with 2+ years leadership experience, including experience leading dataengineering and data analytics.
+Experience with cloud-based video surveillance, access control, IoT, AI-driven analytics.
+Track record of successfully recruiting, developing and retaining top talent from leading organizations.
+Comprehensive knowledge of data platform architecture, data modeling, database optimization, data management practices and processes.
+Experienced or conversant in cloud data offerings (especially AWS and Azure), data lake technologies, columnar and NoSQL databases, predictive analytics, data visualization, unstructured data, ETL/data integration, AI/ML, NLP.
+Strong understanding of agile software development principles.
+Bachelor's degree in Computer Science, Data Science or equivalent. Master's degree preferred.

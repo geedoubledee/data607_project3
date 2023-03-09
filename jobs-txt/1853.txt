@@ -1,0 +1,28 @@
+Location: Dover, DE
+Status: FT 80
+Summary
+The Database Administrator I is responsible for the performance, integrity, and security of Bayhealth’s databases. Under general direction, administers, manages, designs, documents, and evaluates a variety of database management systems; performs complex technical, analytical, and professional services involving evaluation, database driven web sites, healthcare operations support, and problem resolution.
+Essential Functions & Accountabilities
+1. Administers a variety of database systems including Microsoft SQL Server, Electronic Health Record (EHR) and others.
+2. Maintains and administers server and middleware tools used to develop database systems and framework.
+3. Assist with the development and enforces database administration and user standards and procedures.
+4. Audits, modifies, and amends data in systems using SQL commands, hand-editing, and bulk import.
+5. Oversees the scheduling of database projects, database and transaction log backups, notifications, and database replication between multiple SQL Servers and remote sites.
+6. Manages multiple concurrent projects.
+7. Evaluates and monitors database server integrity, security, and resources.
+8. Assumes the technical lead for database server and online database projects.
+9. Assists in the completion of file transfer protocol (FTP) requests.
+10. Reviews technical designs, reports, documentation, and other materials produced.
+11. Researches and implements new database and online technology.
+12. All other duties as assigned within the scope and range of job responsibilities.
+Position Requirements
+Education: High school diploma, GED or equivalent reqired; Bachelor’s degree is strongly preferred.
+Experience: Minimum of 5 years experience as a Database Administrator or similar role is required. Additional experience as database designer and/or information systems analyst is preferred.
+Computer / Software Knowledge: Knowledge of Database Management Systems (DBMS) administration and maintenance, database design, analysis and management is required. Knowledge of Unix: Red Hat Linux and SQL.
+Licensure / Certification: Certification attributable to the primary applications being supported is required within 12 months of hire.
+Additional: Position requires demonstrated knowledge & understanding of:
+o Administration and maintenance of management information systems
+o UNIX based operating systems (Linux preferred) and Windows Server Platforms
+o Basic principles of computer system analysis, principles of organization and project management
+o Knowledge and ability to work with scripting languages, system design and configuration around IT systems at Bayhealth.
+o Microsoft SQL, or other relational database systems

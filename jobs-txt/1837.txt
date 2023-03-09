@@ -1,0 +1,18 @@
+As a Technical Project Manager for our Data Science team, you'll play a central role in a growing team of data scientists, engineers, and product managers developing cutting-edge machine learning algorithms and other data products. You'll use your outstanding communication skills and impeccable organizational ability to help bridge the gap in communication between Product, Data Science, and Engineering, to ensure the entire team is proactively working to meet or exceed product timelines.
+You'll be involved in identifying and removing roadblocks from team tasks, gathering and clarifying requirements, and helping to define project timelines and priorities. It’s hard work juggling multiple projects simultaneously, but at the end of the day you can feel proud of the role you played helping to empower small businesses with the kind of sophisticated AI-driven marketing and business optimization tools previously only available to large corporations.
+Responsibilities:
+Translate high-level product concepts and Product Requirements Documents into Technical Specifications and Work Items
+Develop and maintain product road maps, project schedules, and resource allocations, knowing how to adapt to technological uncertainties, multiple dependencies, and changing requirements
+Leverage high-level understanding of machine learning and software product life cycles to guide estimations and task prioritizations
+Guide products throughout their life cycle, including framing business needs, working with domain and product experts, and update and maintain product/system documentation
+Guide regular coordination meetings with engineers and work with remote employees
+Qualifications:
+5+ years of industry work experience as a project/product manager in an agile Software as a Service development environment, including remote collaboration
+Prior experience supporting data scientists or machine learning engineers in a Project Management capacity; understanding of how traditional agile methodologies can best be adapted to the needs of data science projects
+Sufficient technical knowledge to discuss and understand complex data-driven cloud applications and machine learning algorithms
+Business domain knowledge in MarTech / AdTech / small business SaaS software solutions
+Experience with agile project management methodologies (preferred: agile certification) and deep familiarity with at least one project management software suite, such as Azure DevOps or Jira
+World-class communication, organizational, and diplomatic skills
+Excellent track record of meeting deliverables
+Bonus: experience as a data analyst, data scientist, or software engineer
+Job Type: Full-time

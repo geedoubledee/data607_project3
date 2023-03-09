@@ -1,0 +1,69 @@
+*Only local candidates will be considered for this position
+Hybrid position: Must be willing to commute to the office 1 day per week
+Position Summary:
+As a Sr. Database Administrator at PeopleConnect, you will work with engineers who are passionate about Continuous Improvement and industry best practices. We embrace Lean/Kanban methodologies. This team is in process of replacing traditional relational data stores with new, modern cloud offerings. Our goal is based upon performance, fault tolerance, security and reliability. We will leverage AWS as well as 3rd party marketplace offerings to make this happen.
+We are at a critical junction in migrating from hosted datacenters toward cloud native computing, all the while maintaining business in a hybrid fashion as we continue our transition. This role must provide both innovative cloud native solutions that are cost effective as well as steering direction for our hosted environment, ensuring performance and stability. You will work closely with a talented group of application admins, system admins, and developers, who work hard and play harder!
+The position will require a good mix of steadfast persistence, innovative thinking, ability to interpret performance data, and good people skills. If you can do all that while having fun, even better!
+Current projects include:
+-Re-thinking traditional relational data services and architecting/replatforming to cloud
+-Working with stakeholders to reduce database complexity as a whole and remove duplication
+-Improving database stability and application uptime by leveraging best in class DBaaS solutions
+Responsibilities:
+Provide leadership, mentorship and technical vision related to Relational, NoSQL & Big Data Services
+Analyze and recommend the right technologies to build technical solutions that meet business needs
+Follow and encourage best practices such as technical documentation on the wiki
+Orchestrate DB interactions, develop solutions that are repeatable and recyclable
+Database migration from on-prem to cloud, using open source tools and custom scripts where needed
+Improve PostgreSQL architecture - in terms Cost to Serve, Performance & Elasticity
+Manage cross platform data replication using open source tools
+Database maintenance, tuning, monitoring, performance analysis, and query tuning
+Database automation - including configuration management
+Database support, assuring optimized performance, stability and uptime
+Oracle maintenance and troubleshooting as needed - minimal, expected to die down over the next year
+Some non-RDBMS work likely - including managing Netezza, Hadoop, Hive implementations
+R&D + Implementation of automation & orchestration for DBaaS solutions found within our Cloud Architecture. Participate in on call rotation as defined by management
+Requirements:
+5+ years’ experience handling large scale RDBMS and no-SQL systems and related database migrations
+Sharp analytical abilities, proven database design skills, both physical and logical, and a track record of delivery
+Leadership, critical thinking and excellent verbal and written communication, documentation, analytical and problem solving skills
+Experience in troubleshooting complex and distributed systems
+Experience working in Cloud, Agile, CI/CD, DevOps environments a plus
+Experience with container runtime and management software like Docker, Kubernetes, Mesos, a plus
+Customer oriented with the ability to collaborate with technical and non-technical stakeholders
+Proven ability to work independently and as an integral member of a team
+Languages / Frameworks
+5+ years’ experience/expert level understanding and implementation of SQL, stored procedures, PL/SQL, PL/pgSQL
+5+ years’ experience/expert level with Postgres
+5+ years’ experience with the Unix command line essential - including the ability to setup, test and work with open source software
+3+ years’ experience with bash, Perl/Python scripting
+3+ years’ experience with RDMS, Big Data/NoSQL
+Experience working with 24/7 production websites
+Database troubleshooting skills on day to day activities
+Knowledge in different types of storage (SAN, NAS and DAS)
+Tools
+3+ years’ experience with monitoring tools like Zabbix, Nagios, Dynatrace, Datadog
+Education/Qualifications:
+Bachelor's degree in Computer Science, Software Engineering, or related field or equivalent experience.
+5+ years’ experience with PostgreSQL (extensive Oracle/MySQL experience with a willingness to learn PostgreSQL may substitute)
+3+ years’ experience with Oracle and/or MySQL
+PeopleConnect, Inc. is an equal opportunity employer
+Job Type: Full-time
+Pay: From $150,000.00 per year
+Benefits:
+401(k) matching
+Dental insurance
+Employee assistance program
+Flexible schedule
+Flexible spending account
+Health insurance
+Life insurance
+Paid time off
+Parental leave
+Professional development assistance
+Referral program
+Vision insurance
+Schedule:
+Monday to Friday
+Supplemental pay types:
+Bonus pay
+Work Location: Hybrid remote in Bellevue, WA 98004

@@ -1,0 +1,46 @@
+Job Summary
+The Lead Data Engineer is responsible for managing all imaging data, metadata and tools for interacting with such data. This role is critical for timely development of machine learning models and evaluation of clinical products. This person will collaborate closely with the engineering, data science and deployment teams to fulfill DeepHealth’s mission.
+Essential Duties and Responsibilities
+Design and maintain data pipelines and databases.
+Lead data curation efforts and ensure quality of datasets.
+Manage data-related software systems.
+Maintain libraries and repositories for data processing and management.
+Manage documentation for datasets and data manipulation tools.
+PLEASE NOTE: This is not an exhaustive list of all duties, responsibilities and requirements of the position described above. Other functions may be assigned and management retains the right to add or change duties at any time.
+Minimum Qualifications, Education, and Experience
+Bachelor’s degree in relevant field.
+At least five (5) years of data management experience.
+Expertise in Python (expert in pandas preferred).
+Familiarity with database languages and big data tools.
+Experience with imaging data (medical image data preferred).
+Strong individual team contributor and collaborator.
+Excellent written and oral communication skills.
+Quality Standards
+Communicates, cooperates, and consistently functions professionally and harmoniously with all levels of supervision, co-workers, patients, visitors, and vendors.
+Demonstrates initiative, personal awareness, professionalism and integrity, and exercise confidentiality in all areas of performance.
+Follows all local, state and federal laws concerning employment to include but not limited to: I-9, Harassment, EEOC, Civil rights and ADA.
+Follows OSHA regulations, RadNet and site protocols, policies and procedures.
+Follows HIPAA, compliance, privacy, safety and confidentiality standards at all times.
+Practices universal safety precautions.
+Promotes good public relations on the phone and in person.
+Adapts and is willing to learn new tasks, methods, and systems.
+Reports to work regularly as scheduled; consistently punctual with respect to working hours and lunch schedules, and maintains satisfactory personal attendance in accordance with RadNet guidelines.
+Consistently adheres to the time management policies and procedures.
+Completes job responsibilities in a quality and timely manner.
+Physical Demands
+This position often requires sitting, standing, walking, bending, twisting, reaching with hands and arms, using hands and fingers, handling, or feeling, speaking, listening, and high-level cognitive thinking. Must be able to use a computer and other office machinery including copiers, scanners and computer software. Must be able to lift up to 10 pounds occasionally. The position requires the ability to travel (~20% of time), drive a vehicle, and utilize other forms of transportation.
+Working Environment
+Office setting
+Pay Range:
+$120000+ per year
+Job Type: Full-time
+Pay: From $120,000.00 per year
+Schedule:
+8 hour shift
+Monday to Friday
+Application Question(s):
+Are you authorized to work in the United States without sponsorship?
+Experience:
+Data management: 1 year (Preferred)
+Python: 1 year (Preferred)
+Work Location: Remote

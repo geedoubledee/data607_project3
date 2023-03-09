@@ -1,0 +1,40 @@
+Why TrueML?
+TrueML is a software company developing machine learning-driven products that prioritize customer experience and revolutionize the experience of consumers seeking financial health. The mission-driven team of data scientists, financial services industry experts, and customer experience fanatics are building technology to serve people in a way that recognizes their unique needs and preferences as human beings and that endeavors toward ensuring nobody gets locked out of the financial system.
+TrueML is driving its mission through a family of companies and products that are reinventing the way consumers are engaged in financial services for better experiences and more productive outcomes. TrueAccord Corp, a subsidiary of TrueML, licenses products for first- and third-party debt collection services, and has served more than 20 million consumers in debt with an empathetic, digital-first approach. The company was established in 2013 by serial entrepreneurs, Ohad (Chief Executive Officer) and Nadav (Chief Innovation Officer) Samet after being treated badly while subjected to collections on a small balance.
+*
+Your Role: *
+TrueAccord is looking for a Data Science Manager to head its growing data science team.
+You will join a team dedicated to creating a data-driven culture and improving the efficiency and dependability of the way we make decisions. Our data scientists develop algorithms that enhance the collection process for our consumers, lead automation initiatives in the company, and help create insights to better understand our product and performance.
+We’re looking for a driven, hands-on data science manager to lead, mentor and manage contributors on the team. You should have an excellent grasp of core machine learning techniques, possess a product-focused mindset, and a track record of growing and empowering data scientists to drive business value through modeling and experimentation.
+You will work cross-functionally with Product Management, Engineering, and the business at large to identify trends and drive opportunities. Importantly, you will help to strike the optimal balance between research into new areas and practical application of those insights.
+What You'll Do:
+Build and lead the data science team to deliver world-class products
+Lead the technical strategy of the data science team
+Drive for shared context and understanding with the business
+Oversee modeling efforts, from providing code reviews to launch support
+Drive for impact and accountability
+Grow the team’s capabilities through education and tooling
+Roll up your sleeves to code, build and integrate models as needed
+You have:
+Previous experience as a manager of data scientists and ML engineers
+Strong sense of partnership with business leadership
+Drive to educate both scientists and the business to achieve goals in common
+Experienced at building, productizing and iterating models
+Advanced degree in quantitative studies or computer science
+Strong foundational skills in Python, pandas and SQL
+Ideally, you also have:
+Solid understanding of experiment design
+Experience with natural language processing techniques
+FinTech background
+Benefits, Perks, and Culture
+Everything you need to work remotely
+Medical/dental/vision insurance, 401k (with match), flex spending plan, and life insurance
+- Family-friendly policies - parental leave, remote positions
+Unlimited PTO
+Transportation benefits
+Employee assistance program (EAP) + Wellness Coach for you and 5 others
+Paid time off to do volunteer work in your community!
+We are a dynamic group of people who are subject matter experts with a passion for change. Our teams are crafting solutions to big problems every day. If you’re looking for an opportunity to do impactful work, join TrueAccord and make a difference.
+Our Dedication to Diversity & Inclusion
+TrueML and TrueAccord are equal opportunity employers. We promote, value, and thrive with a diverse & inclusive team. Different perspectives contribute to better solutions and this makes us stronger every day. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.
+Job Type: Full-time

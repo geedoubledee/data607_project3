@@ -1,0 +1,40 @@
+Our Purpose
+We work to connect and power an inclusive, digital economy that benefits everyone, everywhere by making transactions safe, simple, smart and accessible. Using secure data and networks, partnerships and passion, our innovations and solutions help individuals, financial institutions, governments and businesses realize their greatest potential. Our decency quotient, or DQ, drives our culture and everything we do inside and outside of our company. We cultivate a
+culture of inclusion
+for all employees that respects their individual strengths, views, and experiences. We believe that our differences enable us to be a better team – one that makes better decisions, drives innovation and delivers better business results.
+Job Title
+Data Scientist, AI Services - Mastercard Launch 2023
+Why is Mastercard for you?
+Mastercard designs and builds the critical systems that power global commerce and connect billions of people everywhere to the vital goods and services they need every day. We are building a future that extends well beyond payments technology with cutting-edge products and services that solve hard and exciting challenges, across payments, open banking, cryptocurrencies, digital identity, large-scale data analysis and cyber security. Our technology builds trust and supports more than 300 million transactions every day across 210 countries and territories.
+
+When you join Mastercard, you will work towards bringing more people everywhere into the digital economy: There can be no “left behind” and no “hard to reach”. Our teams are brought together by our common purpose and commitment to quality and innovation at scale. You will work side by side with leadership to overcome challenges together. Mastercard cultivates a culture of inclusion for all employees that values their individual strengths, views, and experiences. Follow your own path, with the flexibility to move between roles, teams and our global tech hubs. You can choose for yourself whether you want to become an expert, grow as a people manager, explore global markets, or learn entirely new skills.
+
+Technology Strategy and Transformation (TST)
+The Technology Strategy and Transformation team is responsible for connecting dots across Mastercard via transforming Mastercard Technology “ways of working”, driving operational excellence through innovation, scalability, and continuous improvement of cultural and organizational transformation. We are looking for passionate people to help us reshape the future at Mastercard, and who are eager to grow their skills.
+
+Join TST team to become a part of the Mastercard Transformation Journey to build Mastercard of Tomorrow by bringing together people, products, processes, and technology and drive impact across our key objectives:
+Shaping and communicating the Technology Strategy
+Enabling technology strategy execution and modernization
+Creating financial, operational and performance transparency for market facing and internal products
+Enabling MA teams using Advanced Analytics and AI
+
+As a data scientist on our AI Services team, you will:
+Work with senior data scientists to develop and deliver innovative ML/AI solutions for various data science projects.
+Gain a clear understanding of business operations and data needed to solve problem statements for specific projects.
+Pull and prepare data, train and test models, and be responsible for overall execution on projects using Mastercard operational and transaction data to glean insights for our partners.
+Support machine learning engineers in the deployment and operation of AI Services applications
+Maintain a current knowledge of advanced ML/AI tools and techniques
+
+All about you
+Currently enrolled in a bachelor’s or accelerated master’s degree program majoring in data science, mathematics, statistics, computer science, electrical engineering, or a related field with a graduation date of Fall 2022 or Spring 2023
+Strong interest in artificial intelligence, machine learning, or statistics. Interest in the payments industry a plus
+A love of learning and excited to work in a small, high-impact team
+Strong problem solving, data science, software engineering, and mathematical skills
+A collaborative, team-oriented nature
+Comfortable working side by side with our leadership to solve exciting problems togetherIn the US, Mastercard is an inclusive Equal Employment Opportunity employer that considers applicants without regard to gender, gender identity, sexual orientation, race, ethnicity, disabled or veteran status, or any other characteristic protected by law. If you require accommodations or assistance to complete the online application process, please contact reasonable_accommodation@mastercard.com and identify the type of accommodation or assistance you are requesting. Do not include any medical or health information in this email. The Reasonable Accommodations team will respond to your email promptly.
+Corporate Security Responsibility
+All activities involving access to Mastercard assets, information, and networks comes with an inherent risk to the organization and, therefore, it is expected that every person working for, or on behalf of, Mastercard is responsible for information security and must:
+Abide by Mastercard’s security policies and practices;
+Ensure the confidentiality and integrity of the information being accessed;
+Report any suspected information security violation or breach, and
+Complete all periodic mandatory security trainings in accordance with Mastercard’s guidelines.

@@ -1,0 +1,10 @@
+Job Responsibilities:
+Research and strategize data analytical solutions to transform envisioned 5G features challenges. Deploy integrated data analytics framework (application-level, data network and access-related analytics) in a 5G system to support service-based architectures Research & deploy analytical solution across network, service & customer assurance Support data and cloud transformation initiatives Support our software engineers and data scientists Contribute to our cloud strategy based on prior experience Understand the latest technologies in a rapidly innovative marketplace Independently work with all stakeholders across the organization to deliver enhanced functionality Job Skill: Good understanding of 5G features/slice/service types, architecture and 3GPP standardization that are underway. Good understanding of 5G domains Radio access network (RAN), transport network (TN), core network (CN) and services Good understanding of how data analytics can be leveraged to Relax complexity and signaling requirements Optimize network function and resource allocation & utilization Improve 5G system management, dynamic network & service adaption Good awareness of deploying analytics at RAN, Base station, Distributed and Central network architecture per 3GPP specification Exposure to Network, Service & Customer assurance solutions. Gather and understand data requirements, work in the team to achieve high quality data ingestion and build systems that can process the data, transform the data.
+Job Type: Contract
+Salary: $55.00 - $60.00 per hour
+Schedule:
+8 hour shift
+On call
+Ability to commute/relocate:
+Denver, CO 80206: Reliably commute or planning to relocate before starting work (Required)
+Work Location: One location

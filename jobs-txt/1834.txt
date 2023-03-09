@@ -1,0 +1,44 @@
+About Us
+Founded in 2017, Coalition combines cybersecurity and insurance to help organizations prevent digital risk before it strikes. Coalition's Active Insurance policies combine traditional coverage with a digital risk assessment and monitoring technology to help small and medium-sized businesses protect themselves in today's hyper-connected world.
+
+The team at Coalition is made up of cybersecurity and technology experts, as well insurance industry veterans. Our secret sauce is bringing this expertise together to create a world-class organization with a massive technological advantage. Coalition is also backed by leading global insurers like Allianz, Arch Insurance, Lloyd's of London, Swiss Re and Zurich North America, Today, Coalition is one of the world's largest commercial insurtech serving over 160,000 customers.
+
+In June 2022, Coalition closed an additional $250 million in Series F Funding to accelerate its rapid growth at a time when many other companies struggled to find funding. This latest funding validated that Coalition is building a long-term business that can deliver profitable growth with a clear strategic advantage.
+
+Coalition has experienced tremendous growth by helping organizations of all sizes solve real-world problems and by remaining true to our founding values of character, humility, responsibility, purpose, authenticity and inclusion. We are proud to have been named among Inc.'s Best Workplaces of 2021 and one of Fast Company's most innovative companies for 2022.
+About The Role
+As Engineering Manager of Data Science at Coalition you will direct a team of data scientists whose goal is to use analytics, machine learning, and artificial intelligence to influence business judgements and deliver high ROI projects for the company. You will collaborate closely with both engineering peers and business stakeholders to identify key business problems and develop and implement on a roadmap to provide high-value solutions to those problems. You will also direct the career growth of the existing team members and work to grow the team further in 2023.
+We are a human centric organization that is building for the long-term. We celebrate diversity and work hard to build a culture that is inclusive for all. Our culture is built around humility, purpose, authenticity, and accountability. We have embraced distributed and remote work and our product and engineering teams are clustered in California, Washington, Colorado, Texas, and Portugal. Our ideal candidate will form insights and find ways to meet current and evolving customer needs. We are looking for an experienced authority with a track record of successfully guiding and growing a first-rate data science and analytics organization.
+
+Responsibilities
+Immediately direct a team of 3-5 data scientists. Be accountable for growing those team members and driving further hiring for your team
+Influence our data science strategy and vision. Your goal is to drive impact across different aspects of our business through use of analytics and machine learning
+Drive the end-to-end delivery of high quality analytics and machine-learning solutions to our business stakeholders
+Work with business stakeholders across the company to help incorporate company goals and initiatives into the team's backlog
+Accountable for working with Product Managers and senior business stakeholders to develop and implement on key data science roadmap initiatives
+Drive hiring and direct talent through mentoring and performance evaluations
+Oversee the design and delivery of data models, reporting systems, data automation systems, dashboards and performance metrics that assist key business judgements
+Contribute and grow the culture of data excellence on our team by bringing mature insight, first-rate practices, and processes to our organization
+Skills and Qualifications
+6-10+ years of experience in related diagnostic, business systems or data engineering fields
+Experience guiding and growing a team of data scientists to achieve driven business goals using innovating data science solutions in a start up environment
+Comfort and experience working with guiding remote and distributed teams
+Comprehension of and experience using logical concepts and statistical techniques: hypothesis development, designing tests/experiments, assessing data, drawing conclusions, and developing actionable recommendations for business units
+Comfortable guiding others, recommending tools and standard methodologies to improve the efficiency of the team's work
+Strong communication experience and knowledge of how to convey intricate topics to non-technical audiences
+Drive, and a deep sense of accountability. We build the systems that keep us and our customers safe!
+Bonus Points
+A Bachelor's degree in Computer Science, Mathematics, Economics, Statistics or related technical field
+Experience guiding with agile software development practices
+Experience working in Tableau/Looker or similar data visualization tool
+Experience with DBT or similar analytics workflow tools a big plus
+Experience as a Programmer - Python, R, Perl, Java, and/or C++
+Why Coalition?
+We're a highly fulfilling, mission-driven team who is committed to building a more diverse and inclusive culture. We want to work with people of all different backgrounds and paths in life, and we trust our team members to take responsibility, share ownership and put in the work, no matter how small the task. We are always looking for collaborative, inquisitive and dedicated individuals to join #OurCoalition and help us on our mission to solve digital risk.
+Recent press releases:
+To learn more, check out our featured press releases:
+Coalition Closes $250 Million in Series F Funding, Valuing the Cyber Insurance Provider at $5 Billion
+Coalition Named to Fast Company's Annual List of of the World's Most Innovative Companies for 2022
+Coalition Launches Active Insurance, Reaches $650M Run Rate GWP
+Coalition launches tech-powered executive risks products with personalized risk assessment for all US small-businesses
+Coalition's very foundation is built on respecting and encouraging diversity and inclusion across the organization. We respect and encourage diversityCoalition is proud to be an Equal Opportunity and Affirmative Action employer. We do not discriminate based upon race, religion, color, national origin, sex (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender, gender identity, gender expression, transgender status, sexual stereotypes, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics.

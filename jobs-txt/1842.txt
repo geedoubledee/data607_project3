@@ -1,0 +1,49 @@
+Title: Machine Learning Engineer
+Clearance: Ability to obtain USCIS Entry on Duty (EOD)
+Location: Remote
+
+Overview:
+
+IntelliBridge is an award-winning national security company looking for a Machine Learning Engineer to support our contract.
+
+The Machine Learning Engineer is dedicated to designing and engineering advanced data processing and analytics tools to drive the next generation of decision-making. You will join a diverse interdisciplinary team designing and integrating augmented intelligence capabilities into products and services. Our goals and ambitions are bigger than any one individual. As such, you will join a collaborative team where our knowledge and strengths are complementary. We emphasize cooperative education, where we continually expand and refine our craft. Your talent in software development will be just as important as your understanding of databases, statistics, and machine learning. Your creativity and ingenuity will be needed to solve challenging problems. Ultimately, you will be part of a broad team geared towards delivering quality products and services to our clients, communicating and collaborating with engineers, economists, marketing strategists, and designers, to name a few.
+
+As a direct employee of IntelliBridge, you would receive a benefit package that includes health/dental/vision insurance coverage, 401K with company match, PTO & paid holidays, and annual tuition/training assistance. For more information, please visit our website.
+
+Clearance:
+Ability to obtain USCIS Entry on Duty (EOD)
+
+Responsibilities/Duties:
+Plan, develop, and maintain sustainable data science services as components of larger applications.
+Plan, develop, and maintain data ingestion, pre-processing, feature engineering, and processing services to make training, test, and production data easily and repeatably useable for data science services.
+Plan, develop, and maintain core data science functionality (including artificial intelligence, machine learning, and custom data analysis functionality) in these services that measurably improves customer outcomes.
+Plan, develop, and maintain systems for testing, evaluating, and improving the accuracy, efficiency, and value of these services for customer outcomes.
+Develop and deploy these services within larger environments and applications, coordinating with full-stack and DevOps engineers to implement and leverage containerized environments, version control, CICD deployment patterns, standard tools and technology stacks, testing practices, and code standards.
+Integrate these services with larger environments and applications, coordinating with full-stack and DevOps engineers to implement standardized service contracts, data security controls, and best coding standards and practices.
+Communicate problems, approaches, possibilities, expectations, results, and data science principles to a variety of technical and nontechnical audiences.
+Plan, develop, and maintain AI/ML solutions as standalone services, demonstrations, processes, and custom tools.
+Design, document, and communicate data and input requirements for developing standalone, repeatable AI/ML and data analysis solutions that measurably improve customer outcomes.
+Plan, develop, and maintain complete data science solutions, using and extending frameworks, libraries, technologies, and approaches that leverage industry-standard practices for entity resolution, image classification, decision support, feature engineering, and other categories of problem.
+Plan, develop, and maintain systems for testing, evaluating, and improving the accuracy, efficiency, and value of these solutions for customer outcomes.
+Coordinate with full-stack and DevOps engineers to implement and leverage standard tools and technology stacks, testing practices, and code standards.
+Implement these solutions so that their outputs can inform, apply to, and enrich data science services developed for integration with larger applications.
+Communicate problems, approaches, possibilities, expectations, results, and data science principles to a variety of technical and nontechnical audiences.
+Perform exploratory data analysis and communicate insights to customers and the product team
+Design, document, and communicate requirements and approach for data ingestion, pre-processing, feature engineering, and processing on custom data.
+Plan, develop, and maintain data analysis solutions, using and extending frameworks, libraries, technologies, and approaches to identify data features that measurably improve customer outcomes.
+Maintain a library of data analysis practices and approaches to grow our standard of practice and accelerate delivery.
+Develop and use creative solutions to communicate results, features, value, and further questions, including narrative descriptions, visualizations, and highlighted features.
+Communicate problems, approaches, possibilities, expectations, results, and data science principles to a variety of technical and nontechnical audience
+
+Required Qualifications:
+Bachelor’s in Computer Science, Information Technology Management, Engineering or related field
+Shall have a minimum of five (5) years of experience in the Information Technology field focusing on AI/ML development projects, DevSecOps and technical architecture specifically.
+Shall have experience with architecture & design experience, including at least three (3) years of experience deploying production enterprise applications in AWS that use AI/ML.
+Shall have experience with large scale, high performance enterprise big data application deployment and solution architecture on complex heterogeneous environments in AWS.
+
+Preferred Qualifications:
+Master’s in Computer Science, Information Technology Management , Engineering or related field
+Experience MLOps in a strong background in AIML is preferred.
+
+About Us:
+IntelliBridge delivers IT strategy, cloud, cybersecurity, application, data and analytics, enterprise IT, intelligence analysis, and mission operation support services to accelerate technical performance and efficiency for Defense, Civilian, and National Security & Federal Law Enforcement clients.

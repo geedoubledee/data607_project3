@@ -1,0 +1,27 @@
+Company
+Mapped is disrupting the commercial and industrial spaces with its fully automated Independent Data Layer platform. Our platform helps developers access data from various legacy systems, IoT devices, and enterprise silo'd applications via a single Mapped API. We utilize various machine learning models and tools to automatically convert heterogeneous data sources into a single data model or an ontology. An ideal candidate for Machine Learning (ML) engineers who work with cross-functional teams to improve the performance, scalability, and observability of ML systems.
+
+Responsibilities
+Build tools and capabilities for end-to-end model deployment pipeline.
+Build tools and capabilities for model management, performance monitoring, and data/label management.
+Coordinate with data scientists to efficiently develop ML models.
+Coordinate with the DevOps team to follow the best practices in engineering and operation.
+Required Skills
+4+ years of work experiences in backend (microservices) with Python
+2+ years of work experiences in MongoDB
+1+ years of work experiences in ML platforms (Azure ML, AWS SageMaker, etc.)
+Good understanding of ML lifecycles and MLOps tools (e.g., Airflow, mlflow, dvc, Feathr, etc.)
+Location
+Remote.
+
+Benefits
+Employees-first culture
+Flexible working hours
+Competitive salary
+Medical, Dental, Vision, and 401K
+Paid parental leave - both mothers and fathers
+Pre-IPO stock options
+Open vacation policy
+About Us
+Mapped is an AI-powered data infrastructure platform for commercial and industrial IoT. We are on a mission to bring data from people, places, and things together in a secure and scalable manner to developers. We started our journey with the idea of 'what if every built space had an API ?'. Mapped empowers enterprises and their developers to create new revenue possibilities, optimize operations, and accelerate innovation.
+Mapped is an Equal Employment Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, sexual orientation, gender identity, disability, protected veteran status, or any other characteristic protected by law.

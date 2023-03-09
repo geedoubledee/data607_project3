@@ -1,0 +1,46 @@
+Machine Learning Operations Engineer
+Part-Time/Consulting
+www.EcoMetricx.com
+EcoMetricx is re-defining economic consulting through advanced causal analytics. We augment economic evaluation with AI and machine learning tools to advise top decision-makers at leading companies.
+EcoMetricx employs cutting-edge AI to manage large-scale databases, extract actionable insights from complex customer data, and predict new trends. We design unique programs and experiments which maximize revenue and customer satisfaction using economic principles and insights from behavioral science. We build advanced custom causal statistical and machine learning tools to provide quantitative evaluations of customer behavior and forecasts.
+EcoMetricx is an innovative company driven by a diverse and international team. We are looking to break through established siloes and provide creative but scientifically rigorous solutions for our clients.
+We are looking for an engineer to join our machine learning team immediately to
+Interact with key client decision makers (CTO, Tech VPs, etc.) to understand their vision, gather requirements, and offer relevant insight based on experience in the field
+Design optimal database strategies to support client vision and product development
+Work in a collaborative team setting to expand and maintain our growing ML platform and infrastructure
+Want to learn new languages, paradigms, patterns, and frameworks
+Enjoy using your creativity and resourcefulness to tackle unexpected challenges
+Your Experience
+Bachelor’s degree in relevant field such as Computer Science
+Proven experience with SQL Server, Azure, AWS, Terraform, containerization tools (e.g., Docker), and/or orchestration systems (e.g., k8s)
+Strong understanding of security best practices in cloud and applications development
+Advanced python and related programming skills
+Basic understanding and willingness to learn machine learning algorithms and concepts
+Well-versed in data base design and optimization
+Excellent problem-solving skills
+Strong organizational skills, an orientation toward detail, and collaboration oriented.
+Your Personality
+Quick and independent learner
+Rigorous and detail-oriented scientific thinker
+Team player
+Motivated and inquisitive problem solver
+Benefits
+We are hiring worldwide, so we cannot add specific compensation here. Please tell us about your comp expectations when you apply so we can make sure there is a fit. Be sure we are paying competitively.
+Diversity
+We are striving to create a work environment welcoming for everyone. We hire great people from diverse backgrounds, not only because it’s the right thing to do but because we believe it makes our team stronger. We believe in treating each employee and applicant for employment fairly and with dignity. We base our employment decisions on merit, experience, and potential, without regard to race, color, national origin, sex, sexual orientation, gender identity, marital status, age, religion, disability, veteran status, or any other characteristic prohibited by federal, state or local law.
+Ready to apply?
+Please follow this link and apply there with your CV: https://jobs.gohire.io/K9N4Nv7g/110579/
+Job Types: Part-time, Contract
+Pay: $70.00 - $90.00 per hour
+Benefits:
+Flexible schedule
+Schedule:
+Monday to Friday
+COVID-19 considerations:
+fully remote position
+Application Question(s):
+What is your preferred compensation in USD?
+Experience:
+Python: 1 year (Preferred)
+SQL: 1 year (Preferred)
+Work Location: Remote

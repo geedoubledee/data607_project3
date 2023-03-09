@@ -1,0 +1,54 @@
+Hi ,
+Hope you are doing Great!
+Further below is the job description for “ Data Engineer ”
+Job Title : Data Engineer
+Job Location : Remote (Work From Home )
+Job Duration : 6 months with Extension
+Job Description :
+ROLE: Data Engineer
+Must be able to work in Central Time Zone.
+Looking for a Data-focused test engineer:
+With experience in Data Catalog, Data Quality, Data Governance, Master Data Management and/or Data Stewardship technologies and processes
+To work as part of an agile product team, delivering tested changes aligned with each sprint to support development lifecycles
+With the potential to evolve more predictive and intelligent testing approaches based on automation and innovative testing products & solutions
+To be a proactive, self-motivated and independent contributor with the ability to work in a fast-paced environment and deliver high-quality work on tight schedules
+Position responsibilities include:
+Partner with Data Engineers, stewards and others to gather and define business requirements, understand technical designs and systems and to support the development lifecycle of the product team
+Develop and drive risk-based testing strategies that may span multiple product teams, systems and dependencies
+Understanding ETL logic in order to write complex SQL queries for data quality validation
+Identify and analyze data discrepancies and data quality issues; work to ensure data consistency and integrity
+Capture testing artifacts and provide reports based on meeting test deliverables
+Ensure all defect artifacts are documented, triaged, and resolved in a timely manner
+Coach and mentor others on testing practices and tools
+Requirements
+What You'll Need...
+2-4 years of Python or Java scripting experience
+Previous experience as a DBA and/or a strong understanding of DB structures
+Ability to query databases using SQL to investigate discrepancies in data using comparative analysis techniques
+Experience working with APIs and in analyzing JSON and/or XML outputs
+Experience using tools such as ASG, Informatica, and/or Alation
+Strong knowledge of data structures, algorithms, enterprise systems, and asynchronous architectures
+Enterprise understanding in test planning, test data management, automated & manual test execution, and test management tools to support a complex data landscape
+Proven experience in defining and executing testing strategies by partnering with business and development teams to understand project scope, risk and data workflows.
+Must have experience with CI/CD pipelines, in-sprint test automation and CI integration
+One plus years of agile experience using SCRUM or Kanban
+Understanding of QA methodologies, life cycle and processes
+Strong knowledge and extensive experience with unit, functional and performance testing is desired
+Bachelor or higher-level degree in MIS, Data Analytics, Data Science, Computer Science or Computer Engineering preferred
+Financial Services background desired?
+if you are interested in this job or if you have references or friends looking for a job change then please share this mail with them and feel free to contact me
+Rohit Justin . K
+Technical Recruiter
+Work: 949 608 7375
+Email: Rohit.justin(@)kaygen.com
+Job Type: Contract
+Salary: $55.00 - $60.00 per hour
+Schedule:
+8 hour shift
+Experience:
+Python or Java scripting: 4 years (Preferred)
+DBA: 4 years (Preferred)
+SQL: 4 years (Preferred)
+CI/CD: 4 years (Preferred)
+SCRUM or Kanban: 4 years (Preferred)
+Work Location: Remote

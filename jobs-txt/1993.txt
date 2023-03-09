@@ -1,0 +1,44 @@
+Role:
+If you want to work on cutting edge technology with friendly, intelligent people in a highly collaborative environment, then Gradient AI is the right place for you. We are looking for talented Data Scientists that will help define how our claims and underwriting products evolve for the insurance industry. You'll do this through user research, rapidly prototyping new features, implementing machine learning systems, and delivering our customers actionable intelligence from large data sets.
+Gradient AI:
+Gradient AI is a fast-growing startup, bringing state-of-the-art Artificial Intelligence (AI) and Machine Learning (ML) solutions to the trillion-dollar insurance industry. Founded in 2018, we have recently raised $20M from top Insurtech investors to continue fueling our growth. Our software-as-a-service platform provides bias-free, data-driven insights, enabling insurance companies to profitably run their business and expand their offerings to underserved people and markets.
+Responsibilities:
+Mine and analyze data pertaining to customers’ business experience to discover critical business insights
+Utilize Python and libraries such as Pandas, NumPy, and PyTorch to create new models and tune pre-existing ones
+Synthesize research data, turning data to actionable insights, and specific model requirements
+Quickly deploy out-of the-box solutions where possible and innovate when necessary
+Work closely with engineers and production developers to ensure clear, effective communication within the team
+Stay current with advancements in Machine Learning and advocate for the appropriate application of those advancements in our own products
+Qualifications:
+BS/MS/PhD; 3+ years of professional working experience
+Experience building and productionizing Machine Learning models (Neural Networks, Random Forest, etc.)
+Experience in Python scripting and libraries such as Pandas, NumPy and Pytorch
+Fluency in SQL and/or PostgreSQL
+Experience working with insurance data or building insurance models is a plus
+What We Offer:
+A fun, team-oriented startup culture.
+Generous stock options - we all get to own a piece of what we’re building.
+Unlimited vacation days.
+Flexible schedule that supports working from home.
+Full benefits package including medical, dental, vision, 401k, and more.
+Ample opportunities to learn and take on new responsibilities.
+We are an equal opportunity employer.
+Job Type: Full-time
+Pay: $130,000.00 - $185,000.00 per year
+Benefits:
+401(k)
+Dental insurance
+Employee discount
+Flexible schedule
+Flexible spending account
+Health insurance
+Health savings account
+Paid time off
+Vision insurance
+Schedule:
+Monday to Friday
+Supplemental pay types:
+Bonus pay
+Experience:
+productionizing models: 3 years (Required)
+Work Location: Remote

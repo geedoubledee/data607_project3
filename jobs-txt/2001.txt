@@ -1,0 +1,47 @@
+About Quizlet:
+Inspired by our belief that anyone can learn anything and powered by our own curiosity, we build the smartest tools we can imagine to help students learn.
+Quizlet is the popular, global learning platform and app that millions of students, teachers and everyday people use to study any subject imaginable for school, work or as part of their personal interests - including two-thirds of high school students and half of all college students in the US. Combining cognitive science and machine learning, Quizlet guides students through adaptive study activities to confidently reach their learning goals. We’re on track to become the undisputed leader in user-generated learning content and engagement, at the scale of YouTube.
+Valued at $1 billion, Quizlet has raised over $60 million in venture capital from investors including Icon Ventures, Union Square Ventures, General Atlantic, Costanoa Ventures, Owl Ventures, and Altos Ventures.
+To serve our global community of learners, our teams tackle lofty technical challenges and design for use cases across cultures and languages. We work hard, act like owners, and collaborate every chance we get. We’re energized by the potential to power more learners through multiple approaches and various tools.
+About the Team:
+The Data Science & Analytics team at Quizlet is at the forefront of product and marketing research. We leverage our rich data set to represent the voice of our students and teachers at scale. Our team outcomes focus on delivering insights that drive product and marketing strategy. We serve a pivotal strategic role, identifying as well as driving inquiry on behalf of leaders at the company. The team is supported by Machine Learning and Data Engineering teams that partners with us to make sure we are building a data-driven culture.
+About the Role:
+As the Data Scientist for Marketing, you will lead our analytics efforts within the marketing and international teams. You will bring together insights across our vast user growth data, enabling you to identify new high-value opportunities, define key business metrics, set company-wide goals, and present quantitative research.
+*
+In this role, you will: *
+Partner with Lifecycle Marketing and go-to-market teams to measure the efficacy and success of campaigns and initiatives
+Drive quarterly strategy reviews to recommend future campaign strategies
+Discover high-value segments with lifetime value modeling
+Support ad-hoc requests from PR and Ads Marketing teams
+What you bring to the table:
+2+ years of experience in marketing analytics at a consumer internet company
+Experience supporting go-to-market teams or lifecycle teams
+Advanced SQL skills, including highly developed QA skills and ability to write efficient, optimized code
+Advanced skills in measuring incremental impact through techniques such as A/B testing, diff-in-diff, etc
+Strong communicator: effectively synthesize, visualize, and communicate your ideas to others
+Bonus points if you have:
+Experience with Braze, Periscope, BigQuery
+Experience with data pipelines
+Compensation, Benefits & Perks:
+Quizlet is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees. Salary transparency helps to mitigate unfair hiring practices when it comes to discrimination and pay gaps. Total compensation for this role is market competitive, including a starting base salary of $107,000 - $148,000, depending on location and experience, as well as company stock options
+Collaborate with your manager and team to create a healthy work-life balance
+20 vacation days (and we expect you to take them!)
+Competitive health, dental, and vision insurance (100% employee and 75% dependent PPO, HMO, VSP Choice)
+Employer-sponsored 401k plan with company match
+Professional Development stipend (teach yourself something new)
+Paid Family Leave, FSA, HSA, Commuter benefits, Wellness benefits
+40 hours of annual paid time off to participate in volunteer programs of choice
+We strive to make everyone feel comfortable and welcome!
+We work to create a holistic interview process, where both Quizlet and candidates have an opportunity to view what it would be like to work together, in exploring a mutually beneficial partnership.
+We provide a transparent setting, that gives a comprehensive view of who we are!
+In Closing:
+We hope you are excited about everything you read so far. We highly encourage you to apply for this position, even if you feel you do not meet all the requirements. Quizlet is always looking for amazing folks that believe in our mission and can contribute to our team in various ways - not merely candidates that fit a certain mold.
+We have a bias for action, take initiative, and take pride in delivering results. We make informed decisions whenever possible but are unafraid to take calculated risks on great ideas to promote learning. We embrace challenges and see effort as the path to mastery. We’re constantly seeking opportunities to learn and we embrace curiosity. Quality matters at Quizlet, and we hold the bar high on everything we do.
+We treat each other with honesty and respect, encourage vigorous debate, and seek critical feedback. We value diversity, humility, transparency, and collaboration as the best paths to our success — as individuals, as a team, and as a company.
+Quizlet’s success as an online learning community depends on a strong commitment to diversity, equity, and inclusion. We are actively working to build a team that is representative of the diverse communities we serve, and an open, inclusive work environment where all employees can thrive. As an equal opportunity employer and a tech company committed to societal change, we welcome applicants from all backgrounds. Women, people of color, members of the LGBTQ+ community, individuals with disabilities, and veterans are strongly encouraged to apply. Come join us!
+*
+To All Recruiters and Placement Agencies: *
+At this time Quizlet does not accept unsolicited agency resumes and/or profiles.
+Please do not forward unsolicited agency resumes to our website or to any Quizlet employee. Quizlet will not pay fees to any third-party agency or firm nor will it be responsible for any agency fees associated with unsolicited resumes. All unsolicited resumes received will be considered the property of Quizlet.
+Job Type: Full-time
+Pay: $107,000.00 - $148,000.00 per year

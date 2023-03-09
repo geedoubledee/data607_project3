@@ -1,0 +1,37 @@
+Your Opportunity
+
+The Risk Analytics team is looking for a dynamic, self-motivated data engineer at the Senior Manager level. The Risk Analytics and Modeling team falls within the Financial Risk Management function under the broader Corporate Risk Management organization. The team's primary functions involve conducting quantitative research and developing models. In this particular role, you will be playing a critical role in shaping the future of how the firm prevents and detects financial crime from both a strategic and technical perspective!
+What you are good at
+
+As a Sr. Manager, Data Engineer you will be:
+Collaborating with data scientists to design, implement, and deliver financial crime prevention modeling input data
+Building required infrastructure for optimal extraction, transformation and loading of data from various data sources
+Identifying, designing and implementing internal process improvements including re-designing infrastructure for greater scalability, optimizing data delivery, and automating manual processes
+Building analytical tools to utilize the data pipeline, providing actionable insight into key business performance metrics
+Working with stakeholders including data, design, product and assisting them with data-related technical issues
+What you have
+
+The Sr. Manager, Data Engineer has a solid engineer background, strong business acumen, an eagerness to learn and teach in a team setting, and a passion for solving meaningful problems. The individual should be tech-savvy and familiar with the best practices related to the development of advanced quantitative models:
+B.S. degree or higher in quantitative field
+6+ years of experience in analytics, data science or related role
+Advanced proficiency in SQL and Python
+Experience using big data tools such as Hadoop, Spark, and Hive
+Ability to build and optimize data sets, ‘big data’ data pipelines and architectures
+Ability to perform root cause analysis on external and internal processes and data to identify opportunities for improvement
+Ability to build processes that support data transformation, workload management, data structures, dependency and metadata
+Ensure the accuracy and availability of data to the end users and understand how technical decisions can impact their business’s analytics
+Solid communication skills with ability to translate data engineering concepts into easily understood language
+Curiosity and enthusiasm to learn new tools and techniques
+What will help set you apart
+M.S. in a quantitative field
+Demonstrated experience in financial crime prevention industry
+Experienced in Google Cloud or AWS
+Colorado Compensation
+Target Total Compensation 121,000 – 242,000
+Your actual pay will be based on your skills and experience - talk with your recruiter to learn more.
+Why work for us?
+Own Your Tomorrow embodies everything we do! We are committed to helping our employees ignite their potential and achieve their dreams. Our employees get to play a central role in reinventing a multi-trillion-dollar industry, creating a better, more modern way to build and manage wealth.
+Benefits: A competitive and flexible package designed to empower you for today and tomorrow. We offer a competitive and flexible package designed to help you make the most of your life at work and at home—today and in the future. Explore further.
+Schwab is committed to building a diverse and inclusive workplace where everyone feels valued. As an Equal Opportunity Employer, our policy is to provide equal employment opportunities to all employees and applicants without regard to any status that is protected by law. Please click here to see the policy.
+Schwab is an affirmative action employer, focused on advancing women, racial and ethnic minorities, veterans, and individuals with disabilities in the workplace. If you have a disability and require reasonable accommodations in the application process, contact Human Resources at applicantaccessibility@schwab.com or call 800-275-1281.
+TD Ameritrade, a subsidiary of Charles Schwab, is an Equal Opportunity Employer. At TD Ameritrade we believe People Matter. We value diversity and believe that it goes beyond all protected classes, thoughts, ideas, and perspectives.

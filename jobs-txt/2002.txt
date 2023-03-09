@@ -1,0 +1,17 @@
+Applied Machine Learning Engineers at SambaNova Systems are our experts at developing and deploying machine learning models. They stay up-to-date with the latest academic research in deep learning and run experiments to investigate statistical and systems tradeoffs. They are responsible for driving innovation in models and algorithms that run on the SambaNova platform and provide an ML-focused perspective to other teams. Applied machine Learning (ML) engineers therefore often operate at the intersection of algorithms and software/hardware systems at SambaNova.
+SambaNova leads the trend of large-scale deep learning solutions for industrial domain-specific AI workflows. The machine learning team in SambaNova innovates from strategic product pathfinding to large scale production. Leveraging the special characteristics of SambaNova's architecture that are not available in existing hardware, we develop unique capabilities in areas such as large language models, high resolution computer vision, ultra-fast time-series and large scale graph neural networks.
+Our efforts focus on delivering high-value workflows for vertical industrial customers in their AI transformation. These industries include but are not limited to financial services, energy, healthcare & life sciences and manufacturing. We are excited to have talents on board, pushing towards democratizing the high-value AI capabilities in real-world use cases.
+Specific Responsibilities:
+Building state-of-the-art deep learning models on SambaNova's SW/HW stack
+Implementing deep learning applications and optimizing the statistical performance and system efficiency
+Deploy the deep learning application to low-code solution platforms for vertical industries
+Software / model & hardware co-design for fast training and inference
+Applied research to solve key data, model and compute challenges in democratizing large-scale AI workflows to real-world use cases for customer success
+Skills and Qualifications:
+Experience with one or more deep learning frameworks like TensorFlow, PyTorch, Caffe2, or Theano
+Deep theoretical or empirical understanding of modern deep learning models
+Strong mathematical fundamentals and algorithms skills or experience in decomposing models to core operations
+Experience building and/or deploying machine learning models
+Strong programming, test design and debugging skills in Python and/or C++
+Interest in high performance machine learning systems and performance optimization
+Customers turn to SambaNova to quickly deploy state-of-the-art AI capabilities to meet the demands of the AI-enabled world. Our purpose-built enterprise-scale AI platform is the technology backbone for the next generation of AI computing. We enable customers to unlock the valuable business insights trapped in their data. Our flagship offering, Dataflow-as-a-ServiceTM, overcomes the limitations of legacy technology to power the large complex foundation models that enable customers to discover new services and revenue streams, and boost operational efficiency. Headquartered in Palo Alto, California, SambaNova Systems was founded in 2017 by industry luminaries, and hardware and software design experts from Sun/Oracle and Stanford University.

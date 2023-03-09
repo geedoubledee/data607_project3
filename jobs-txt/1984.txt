@@ -1,0 +1,45 @@
+We are looking for a passionate Business Intelligence Developer skilled at using data analytics and technology to share valuable business information with all levels of leadership in a healthcare revenue cycle setting.
+The BI Developer will be a key member of the analytics team, responsible for the update of relevant data, modification of existing data visualizations, and creation of new visualizations. This role will require database querying and the opportunity to create new database queries to fulfill data needs.
+Responsibilities
+· Implements, tests, deploys, and maintains analytic views
+· Collaborates with clients to obtain design and requirements
+· Creates and maintains BI scripts and dashboards
+· Supports the design of ETLs, data model(s), warehouse and technical documentation
+· Understands business requirements and delivers BI dashboards
+· Documents algorithms, parameters, models and relations
+· Implements and maintains KPI/metric calculations
+· Conducts testing and troubleshooting
+· Adheres to and drives compliance, privacy, confidentiality and security standards
+· Tracks industry trends
+Skills
+· Customer-centric
+· Analytical, critical thinking
+· Strong technical skills in people analytics infrastructure, architecture, Bi applications, programming languages, usability principles
+· Data visualization
+· Communications and change management
+· Process improvement and systems thinking
+· Innovative and proactive problem-solving skills
+Bachelor’s degree in Data Science, Data Analytics, Data Engineering, Statistics, or relevant field
+Job Type: Full-time
+Benefits:
+· Health insurance
+· Dental insurance
+· Vision insurance
+· Paid time off
+Ability to commute/relocate:
+· Kansas City, MO 64102: Reliably commute or planning to relocate before starting work (Required)
+Experience:
+· AWS Data Services or Tableau: 1 Year (Preferred)
+· SQL: 1 year (Preferred)
+· Software troubleshooting: 1 year (Preferred)
+Work Location: On location
+Job Type: Full-time
+Pay: $37,602.61 - $134,423.49 per year
+Benefits:
+Dental insurance
+Health insurance
+Paid time off
+Vision insurance
+Schedule:
+8 hour shift
+Work Location: One location

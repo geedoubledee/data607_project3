@@ -1,0 +1,15 @@
+About Hebbia
+Hebbia is reinventing the search engine to intelligently answer the world's most complex questions. Our AI understands and reasons over written knowledge to synthesize meaningful responses for users in seconds. We've raised significant funding from Peter Thiel, Index Ventures (via Mike Volpi), Jerry Yang (founder of Yahoo), Ram Sriram (one of the first investors in Google), and others, and have built the fastest-moving team in the world.
+Job Description
+Our technology powers financial services firms who are running due diligence on billion-dollar deals and want to make their analysts faster and smarter.
+You will own major ML product features from design to launch. You'll have close feedback loops with users and with our Customer Success team. A major focus will be scaling indexing to terabytes of unstructured text and iterating on search until we have accurate sub-second performance.
+This role is based out of our New York City office in Soho.
+Responsibilities
+Own product features: Take a customer need and turn it into an operationally-excellent build
+Meet with users: Serve as a deployed engineer to drive production contracts and upsells
+Iterate on publication-grade ML: Ideate on new ML approaches to drive step-change increases in search quality
+Who You Are
+3+ years ML research or ML engineering at a venture-backed startup or top technology firm
+Embraces rapid prototyping with an emphasis on user feedback
+Autonomous and excited about taking ownership over major initiatives
+Extreme passion for learning, growth, and leadership

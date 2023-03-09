@@ -1,0 +1,52 @@
+Note: If you are CURRENTLY employed at Children's and/or have an active badge or network access, STOP here. Submit your application via Workday using the Career App (Find Jobs).
+Work Shift Day
+
+Work Day(s) Monday-Friday
+
+Shift Start Time 8:00 AM
+
+Shift End Time 5:00 PM
+
+Worker Sub-Type Regular
+
+Children’s is one of the nation’s leading children’s hospitals. No matter the role, every member of our team is an essential part of our mission to make kids better today and healthier tomorrow. We’re committed to putting you first, and that commitment is at the heart of our company culture: People first. Children always. Find your next career opportunity and make a difference doing what you love at Children’s.
+
+Job Description Develops business intelligence applications that provide relevant, timely, and insightful information to support decision making and improve clinical or operational performance. Produces solutions by working closely with business users throughout all phases of the software development lifecycle. Works both collaboratively and independently among a team of other developers in the areas of requirements gathering, learning industry and Children’s Healthcare of Atlanta best practices, solution architecture, and software development methodology.
+
+Experience
+2 years of experience with developing in business intelligence solutions including data integration, modeling and reporting/analytics
+Experience using software such as SQL Server Reporting Services, QlikView, Tableau, Crystal Reports, Business Objects, Cognos
+Experience in SQL
+
+Preferred Qualifications
+Experience in a healthcare setting
+2 years of experience in QlikView/QlikSense or SQL Server Reporting Services
+
+Education
+Bachelor's degree in Computer Science, Information Technology, related field, or equivalent technical training and experience
+
+Certification Summary
+As applicable to position
+
+Knowledge, Skills and Abilities
+High capacity for data analysis, data modeling, computer programming, problem-solving, sound judgment, accuracy, and attention to detail
+Excellent oral and written communication skills
+Well-developed and proven organizational, problem-solving, analytical, and time management skills
+Must be able to function in a dynamic environment subject to impromptu changes in schedules and priorities
+Must be able to work on multiple projects concurrently
+Strong interpersonal skills to interact positively and productively with teams across organizational lines, including administrative/executive staff and patient care systems users
+Ability to perform job duties independently with minimal supervision
+Ability to translate business questions and requirements into reports, views, and business intelligence query objects
+
+Job Responsibilities
+Partners with internal customers to understand business objectives. Participates in the analysis of requirements and design specifications based on analytics and reporting needs.
+Navigates, understands, and leverages existing data structures to quickly respond to customer reporting and data requests.
+Partners with information technology to design and build reusable, reliable data assets and efficient ETL processes.
+Ensures accuracy and reliability of data in delivered content through QA and testing using SQL and other available resources. Resolves data discrepancies.
+Designs and builds effective and intuitive reporting/analytic tools, including data visualization where appropriate.
+Utilizes strong task management skills to track and prioritize outstanding customer needs, communicate timelines, and deliver solutions that meet key business needs first; Continuously works to improve processes and speed time to market.
+Supports existing applications, provides documentation and training, and functions as a knowledge resource to end users of the Business Intelligence tools.
+
+Primary Location Address 1575 Northeast Expy NE
+
+Job Family Business Intelligence

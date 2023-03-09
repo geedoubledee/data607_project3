@@ -1,0 +1,34 @@
+Company Details:
+Berkley Professional was founded in October 2008 as an operating unit of W. R. Berkley Corporation, one of the nation’s premier commercial property casualty insurance providers, by a team of management liability professionals with a combined total of over fifty years of experience in insurance and financial services. Backed by superior financial strength, Berkley Professional brings fresh capacity, underwriting acumen, claims handling expertise, and extensive relationships with insureds and brokers to the management liability marketplace.
+
+Since then, Berkley Professional has enjoyed calculated and consistent growth, while exceeding the needs of our business partners. We provide customized coverage solutions with fairness, responsibility and superior claims servicing. Berkley Professional continues to expand its product capabilities as well as geographic reach in order to better serve the dynamic management liability environment. This growth includes the addition of a dedicated Financial Institutions team as well as an experienced group of Transactional Liability underwriters furthering Berkley Professional’s capabilities.
+Responsibilities:
+The Business Intelligence Developer provides data management design and implementation experience and assists IT staff members in the development (programming), integration, testing, implementation, and support of data warehouse and reports. This is an exceptional opportunity to collaborate with an experienced team of developers and architects on various projects that will sharpen and build upon existing skills. Must be a self starter who takes initiative and can work virtually and independently! Duties and responsibilities include but are not limited to:
+Develop and support components of BI systems including: reporting development (SSRS/PowerBI), SQL queries, Batch processes, operations procedures including disaster recovery
+Helps DW systems remain stable, scalable and dependable given budget
+Must be ‘client facing’ to users in helping them develop ‘what if’ data solution approaches based on given business requirements
+Participate in technical reviews of data projects, technical status meetings and participates in technical best practices relating to how data is used
+Maintain core database development standards, including data maintenance and release procedures
+Maintain data software guidelines and implement the standards
+Develop structured, easy to maintain applications that comply with program/system specifications and adhere to Information Technology department’s standards. Continually review all software and stored procedures released to production for compliance with software and programming standards
+Ensure the systems are protected from unauthorized access, both technology department and all operations.
+Ensure that program logic and functionality are accurate, error free and meet user’s needs and requirements
+Continually research industry developments to ensure company remains on the forefront of software development. Balance internal development vs. purchase of software packages/integration into company’s data software architecture
+Security: Manage and maintain adequate security levels for software application, as outlined by Senior Management and BTS, including, but not limited to database access and application access
+Willingness to learn and grow as a BI developer into other elements of the BI architecture
+Qualifications:
+Bachelor’s degree in Computer Science or Information Systems preferred.
+Approach knowledge - Experience with Full Life Cycle development utilizing forward and reverse engineering strategies.
+Methodology knowledge - Works with methodologies for stability and code verification
+Data role experience - Experience as a BI developer / report and query writer
+Framework knowledge - Develops using procedures and query programming standards and deployment strategies for both warehouses and datamarts.
+Ability to prioritize - Ability to work on multiple projects and prioritize business tasks.
+Tool knowledge - experience developing and supporting applications in a Microsoft environment.
+Strong team player assisting / communicating with other team members
+Must have experience in dealing with complex SQL queries
+Experience creating SSRS and PowerBI reports
+Must be experienced in full range of testing (unit, system, stress, user acceptance)
+Experience working with report error handling and report performance improvements
+Experience with data modeling, transformation, data analysis, and visualization techniques
+Must be fully vaccinated and remain fully vaccinated against COVID-19. *, unless prohibited by law.
+Additional Company Details: The Company is an equal employment opportunity employer. Additional Requirements: *Per the CDC, fully vaccinated means at least 2 weeks after (1) a second dose in a 2-dose series, or (2) a single-dose vaccine, and this status and definition applies to COVID-19 vaccines currently authorized for emergency use or approved by the U.S. Food and Drug Administration.

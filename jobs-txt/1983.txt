@@ -1,0 +1,27 @@
+Are you ready to make an impact?
+West Monroe is seeking an experienced Data Science Manager. This is an excellent opportunity to join our growing Analytics practice that leverages advanced analytics, data science, and machine learning / artificial intelligence (ML / AI) to create impact for clients.
+
+Responsibilities
+Manage end-to-end data science workflow from data ingest and wrangling to analysis and presentation, including writing code, performing code and deliverable review, and people and project management, on due diligence and value creation engagements across various sectors, including Private Equity, Financial Services, Technology, and Consumer & Industrial Products
+Develop and test key investment hypotheses by asking the right questions and using appropriate data science approaches to derive data-driven answers
+Deploy analytics and machine learning models on large datasets using West Monroe's proprietary data science platform Intellio® Predict to inform investment and operational decisions
+Devise creative methods to enhance our team's capabilities in delivering analytics strategies and associated work, including presenting at internal skills-building seminars and contributing to data science-related product, asset, and offering vision and development
+Assist in business development by understanding business needs and requirements to create work plans, pricing estimates, detailed proposals, and Statements of Work
+Build the Next Generation of analytic Leaders through formal and informal mentoring of teammates within the Analytics practice and developing collaborative relationships across the rest of the firm
+Qualifications
+Depth and breadth in statistics, machine learning, and R/RStudio
+Basic knowledge in SQL and github is required
+Experiences with econometrics, cloud databases, Spark, AWS, and Python are pluses
+Strong interest in data science applications in business, management, and investing
+Experience with managing 2-5 teammates on data science projects
+Demonstrated experience with individual contribution to code, code review, and building deliverables for presentation, as well as leading technical engagements including proposal development, estimation, and day-to-day project management experience
+Desire to lead and mentor other data scientists while leading projects and acting as client liaison
+Excellent leadership, organizational, verbal, and written communication skills
+A commitment to inclusion and diversity, and openness to new ideas and perspectives
+#LI-HYBRID
+West Monroe is a digital services firm that partners with companies in transformative industries to deliver quantifiable financial value. We believe that digital is a mindset and it's something companies become, not something they do. We bring together diverse, multidisciplinary teams that use their expertise to develop and execute new ideas and ways of working.
+At West Monroe, we invest in our people and care in a big way. We are growing the next generation of leaders who lead with inclusion, enabling us to address our clients' most complex challenges. If you're looking for a place where you'll feel supported, our team will help you grow. We believe that growth breeds opportunity for all. And know that when we come together, we can do what's never been done.
+Our fast-paced culture and collaborative teams bring the energy and expertise needed to make an impact and deliver beyond expectations. If you are ready to set big goals with us, join us on our journey of building what matters for our clients, our people, and our communities.
+West Monroe is an Equal Employment Opportunity Employer
+We believe in treating each employee and applicant for employment fairly and with dignity. We base our employment decisions on merit, experience, and potential, without regard to race, color, national origin, sex, sexual orientation, gender identity, marital status, age, religion, disability, veteran status, or any other characteristic prohibited by federal, state or local law. To learn more about inclusion and diversity at West Monroe, visit www.westmonroe.com/inclusion.
+If you are based in California, we encourage you to read West Monroe's Notice at Collection for California residents, provided pursuant to the California Consumer Privacy Act (CCPA) and linked here.

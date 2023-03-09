@@ -1,0 +1,71 @@
+Job Posting
+: Oct 4, 2022
+Job Posting End Date
+: Ongoing
+Location
+: US-WA-Seattle-Starbucks Support Center
+Is this role eligible for remote or hybrid work? : Yes-Remote
+Starbucks - Engineering
+Schedule
+: Full-time
+Pay Range : 139000-246700
+Bonus Eligible : Yes
+Job Summary and Mission
+Are you a veteran engineering leader who wants to work for an ethical company, making an impact at the enterprise level?
+You might be a senior engineering leader wanting to focus on the data engineering practice, or you are an experienced data engineering manager looking for enterprise scale.
+Do you understand data? Are you passionate about developing a work environment that keeps your team motivated and inspired? Is your focus to be a part of solving real-world issues?
+If you answered yes and meet the below criteria, we would like to hear from you!
+This job contributes to Starbucks’ success by developing and executing all data engineering-related functions supporting Starbucks Enterprise Analytics, Reporting, and Data access functions. Models and acts in accordance with Starbucks’ guiding principles.
+Summary of Key Responsibilities:
+Leadership
+Provides clear intent:
+Sets objectives and goals for the team.
+Creates an environment that encourages innovation and problem solving
+Prioritizes initiatives and can relate all work directly to business requirements and stakeholders
+Identifies and communicates roles and responsibilities, ensuring the team fits into the broader organization
+Refines and optimizes the team structure to ensure close collaboration with other teams involved in common initiatives. Contributes to organizational capability and how we work together
+Proactively communicates on emerging issues, shifts in priority, and new opportunities
+Builds an environment of trust
+Planning and Execution
+Develops effective, functional process supporting effective execution:
+Ensures that programs and the team effort are aligned with company business goals and objectives.
+Provides consultation and support to ensure the correct management tools and processes are used.
+Relates initiatives to higher goals maintaining a coherent ‘big picture’ work effort
+Provides transparency in work effort and resource allocation
+Stakeholder Focus
+Providing functional expertise and a consultative relationship:
+Consults with business stakeholders to understand how data is needed and used within Starbucks
+Develops, implements, and maintains relationships with technology leaders and peers that are part of the ‘data chain’
+Educates business and data stakeholders on data management principles and initiatives
+Staff Development & Team Building
+Provides coaching, feedback, and developmental opportunities to build an effective happy team:
+Inspires the team to achieve business results
+Develops and supports individual career development plans.
+Nurtures a sense of purpose for all team members
+Provides personalized coaching, direction, and leadership support to team members to achieve personal, business, and customer results.
+Technology
+Strong SDLC knowledge. Leads the development of and adherence to development standards. Acts as a consultant to Data Science and Analytics teams to follow engineering practices.
+Builds and maintains a coherent set of tools and technologies to support an enterprise Data and Analytics capability
+Develops and documents implementation patterns, supporting common requirements and business needs
+Applies the most appropriate technology to the specific use case
+Researches and proposes technology, methods, and approaches to support new emerging trends in Starbucks data usage
+Data
+Develops and maintains a data strategy that creates foundational data products supporting all Starbucks data personas and use cases.
+Develops a framework of data Products that supports all data usage use cases, including Operational reporting, Analytics, and AI/ML.
+Summary of required Experience and Expertise
+Demonstrated track record of servant leadership
+Demonstrated bias for action and initiative
+Demonstrated capability to innovate without direct supervision
+Previous hands-on data engineering or coding experience (current role does not require coding)
+Deep understanding of the process, including Waterfall and Agile methodologies
+Deep understanding of SDLC
+Deep understanding of Data concepts and Architecture
+Demonstrated ability to establish plans and manage execution
+Strong written, verbal, and active listening skills
+Leadership exposure – 4+ years. Does not have to be limited to technology sector experience, Military or EMS leadership experience a bonus
+Hands on Coding experience – 3+ years
+Project or Product execution – 5+ years
+Enterprise Data experience – 5+ years
+All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, or status as a protected veteran.
+We are committed to creating a diverse and welcoming workplace that includes partners with diverse backgrounds and experiences. We believe that enables us to better meet our mission and values while serving customers throughout our global communities. People of color, women, LGBTQIA+, veterans and persons with disabilities are encouraged to apply.
+Qualified applicants with criminal histories will be considered for employment in a manner consistent with all federal state and local ordinances. Starbucks Corporation is committed to offering reasonable accommodations to job applicants with disabilities. If you need assistance or an accommodation due to a disability, please contact us at applicantaccommodation@starbucks.com.

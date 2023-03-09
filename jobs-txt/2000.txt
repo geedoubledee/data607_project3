@@ -1,0 +1,28 @@
+Come join a growing financial technology company that’s leading the marketplace in both the marketing and servicing of credit cards! Continental Finance Company specializes in credit card options for those consumers with less than perfect credit. We are seeking a Data Scientist to support our Data Science team.
+
+The Data Scientist is responsible for developing quantitative/analytic models and applications in support of the firm's risk underwriting and marketing effort. This role focuses on the development of models, strategies, and operational guidelines for the organization's various credit card products as they relate to the analysis, tracking, and reporting of various risk metrics. This role requires advanced degree in statistics/probability, physics, applied mathematics or another heavy quantitative discipline. Our Quantitative Analytic staff is focused on and responsible for the development of the theory and mathematics behind various models. This position reports to Chief Data Scientist.
+
+***CFC offers a hybrid work schedule which includes three (3) core days in the office (Tuesday, Wednesday, and Thursday) and two (2) remote workdays (Monday and Friday)***
+
+Essential Functions:
+Develop and design best in class models
+Develop and design best in class market intelligence applications that support decision making
+Collaboration with Risk Management to quickly and efficiently resolve outstanding issues and support documentation as required
+Test new statistical tools and packages
+
+The ideal candidate will have the following:
+Master’s Degree in related field or higher education required.
+Expert knowledge of classical statistical techniques such a linear regression and maximum likelihood regression.
+Expert knowledge of machine learning and AI methods including CART, Random Forests and XGBoost.
+Creating complex custom data queries in SQL
+Creating complex data models using Python.
+Creating complex data visualizations in Tableau
+
+Why Continental Finance?
+Continental Finance Company (“CFC”) is one of America’s leading marketers and servicers of credit cards for consumers with less-than-perfect credit. Since the Company’s founding in 2005, CFC has prided itself on its corporate responsibility to customers in terms of a strong customer support program, fair treatment and responsible lending. With our success, we have also grown into an innovative financial tech company! With a state-of-the-art consumer underwriting, marketing and servicing platform, we provide a variety of services to our consumers when other financial institutions will not accommodate them. We are proud to provide access to credit products and excellent services to consumers who are largely overlooked by traditional credit card issuers.
+
+CFC is an equal opportunity employer that is committed to inclusion and diversity. Our company provides equal employment opportunity (EEO) regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity, or veteran status.
+
+CFC is seeking bright, energetic individuals that will help us grow and develop together! We uphold a promise to treat our employees with the same care and concern as we do our customers. We offer all employees competitive compensation and benefits in an exciting, fast-paced business casual environment. Join our growing team and apply online today!
+
+***CFC offers a hybrid work schedule which includes three (3) core days in the office (Tuesday, Wednesday, and Thursday) and two (2) remote workdays (Monday and Friday)***

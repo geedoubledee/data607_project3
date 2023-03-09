@@ -1,0 +1,25 @@
+About CCC
+CCC Intelligent Solutions Inc. is the technology platform for the P&C insurance economy. CCC technology, insights, and support connect industries – insurers, automotive manufacturers, collision repairers, parts suppliers, lenders, fleet operators and more – to advance decision-making, productivity, and customer experiences for thousands of clients worldwide. Clients leverage CCC’s network management, data management, AI, operational workflows and customer experience solutions to efficiently scale, interact, transact and achieve their unique business objectives. CCC was ranked a best mid-sized company to work for by Forbes (2019). BuiltIn Chicago, Austin and LA named CCC a top place to work in 2020, 2021 & 2022. Diverse perspectives and experiences are core to CCC’s success and award-winning culture of more than 2,000 employees worldwide. We hold inclusion as a core value and are committed to celebrating and cultivating the diversity of our team. With a 40+ year track record of innovation, CCC’s tenacious spirit and growth mindset turn next generation technology into real world solutions and empower team members to expand their knowledge and potential. Headquartered in Chicago, CCC has 6 locations worldwide and is listed on the New York Stock Exchange (NYSE: CCCS). Find out more about CCC Intelligent Solutions by visiting cccis.com.
+Job Description Summary
+We’re seeking a motivated and skilled data scientist to join the ML Solutions team. The team builds the AI models for insurance decisions systems and functions like a startup within an established company. Our data scientists typically hold advanced degrees in diverse quantitative fields and are experts in building and deploying models at scale. The models developed by the team have helped transform and modernize the insurance claims processing across multiple lines of businesses, and the scope of our work is expanding.
+Job Duties
+The data scientist will be in charge of building and maintaining AI models for insurance decision systems. The candidate should have commanding knowledge of state-of-the-art AI modeling (GBM and XGB, neural nets, model diagnosis, feature importance analysis, experiment design) to build effective models for real-world data and be familiar with fundamentals of modeling (applied probability and statistics, parameter estimation, linear algebra and optimization ) for diagnosis and improvement of model pipelines
+The work can be broadly categorized into three modes, and this role will provide opportunities to work on all three.
+Study feasibility: research and incubate new ideas through hypothesis testing and data-driven experimentation
+Build: implement algorithms to train, evaluate and deploy models efficiently
+Maintain: monitor, retrain and add new features to models already in production
+Qualifications
+Academic background in computer science, statistics, operations research, applied math, engineering or related quantitative fields.
+Strong background in modeling foundations: probability, statistics, linear algebra, optimization, experiment design
+Expertise in AI modeling including various model architectures for structured and unstructured data
+Coding Skills
+Python: Hands-on experience with native data types, Pandas, Scikit-learn, Pytorch/Tensorflow for training of neural networks
+SQL: write queries required to build features out of complex data models
+Ability to write modular, readable code and follow software development best practices
+Comfort working with git and linux systems
+Preferred Skills:
+Multiple years of experience as a data scientist or data engineer
+Experience with language modeling (e.g. transformers, Huggingface, text extraction & pre-processing)
+Experience with AWS Sagemaker, Comprehend, Kendra
+Experience with self-supervised/contrastive methods for pre-training and zero-shot models
+Kubernetes, Airflow, or other workflow orchestration experience

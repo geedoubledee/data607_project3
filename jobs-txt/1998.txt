@@ -1,0 +1,60 @@
+About Lumen
+Lumen is guided by our belief that humanity is at its best when technology advances the way we live and work. With 450,000 route fiber miles serving customers in more than 60 countries, we deliver the fastest, most secure global platform for applications and data to help businesses, government and communities deliver amazing experiences. Learn more about Lumen’s network, edge cloud, security and communication and collaboration solutions and our purpose to further human progress through technology at news.lumen.com, LinkedIn: /lumentechnologies, Twitter: @lumentechco, Facebook: /lumentechnologies, Instagram: @lumentechnologies and YouTube: /lumentechnologies.
+The Role
+Lead a portion of a program effort to translate the client's business requirements into specific data systems, applications, or process designs and deliver innovative business consulting, business process design, systems integration, and support application design. Exercise latitude to translate the needs of the business into system capabilities in the form of system requirement specifications. Understand and support the data architecture with the ability and expertise to develop an overall solution to support the architectural direction. Perform research and development activities to support future IT business strategies.
+The Main Responsibilities
+Evaluate complex SQL queries
+Perform basic Data modeling in complex data environments
+Work in Finance ERP programs such as Oracle Finance or SAP
+Translate business requirements into data solutions and development features
+Discover, capture, and correlate business processes with data flows
+Diagram data flow and relate all aspects to business requirements and development efforts
+Analyze data from various sources and determine next actions
+Conduct research into systems issues and products as required
+What We Look For in a Candidate
+Required Qualifications and Skills:
+Bachelor's degree or equivalent education and relevant experience.
+10+ years of related experience
+Experience working in an Agile environment
+Experience in building advanced data solutions with Finance ERP systems such as SAP and Oracle Financials.
+Understanding of corporate finance topics including Accounts Receivable, Billing, Revenue Management, and General Ledger.
+Experience with traditional data warehouse data structures
+Experience with source to target mappings and ETL tools
+Experience preparing flow charts, business process management (BPM) workflow, and systems diagrams to assist in problem analysis
+Knowledge of IT operations, such as operating systems components, utilities, production schedulers, and system environment hardware components
+Demonstrated ability to communicate ideas in both technical and business user-friendly language Highly self-motivated and directed, with keen attention to detail
+Proven analytical and creative problem-solving abilities
+Demonstrated ability to prioritize and execute tasks in a high-pressure environment
+Experience leading a team of onshore and offshore analysts
+Strong communications skills
+Ability to train, coach, and mentor other team members
+Ability to influence leaders, peers, and development teams
+
+Desired Qualifications and Skills:
+Ability to adapt to new situations and learn quickly
+Data integration problem-solving skills with the ability to find successful resolutions
+Organization skills and ability to work on multiple projects and/or assignments simultaneously
+Experience with data pipelines using Confluent Kafka
+Experience designing solutions in GCP
+What to Expect Next
+Requisition #: 279198
+EEO Statement
+We are committed to providing equal employment opportunities to all persons regardless of race, color, ancestry, citizenship, national origin, religion, veteran status, disability, genetic characteristic or information, age, gender, sexual orientation, gender identity, marital status, family status, pregnancy, or other legally protected status (collectively, “protected statuses”). We do not tolerate unlawful discrimination in any employment decisions, including recruiting, hiring, compensation, promotion, benefits, discipline, termination, job assignments or training.
+Disclaimer
+The above job definition information has been designed to indicate the general nature and level of work performed by employees within this classification. It is not designed to contain or be interpreted as a comprehensive inventory of all duties, responsibilities, and qualifications required of employees assigned to this job. Job duties and responsibilities are subject to change based on changing business needs and conditions.
+
+Salary Range
+Salary Min :
+100440
+Salary Max :
+223680
+This information reflects the anticipated base salary range for this position based on current national data. Minimums and maximums may vary based on location. Individual pay is based on skills, experience and other relevant factors.
+This position is eligible for either short-term incentives or sales compensation. Director and VP positions also are eligible for long-term incentive. To learn more about our bonus structure, you can view additional information here. We're able to answer any additional questions you may have as you move through the selection process.
+As part of our comprehensive benefits package, Lumen offers a broad range of Health, Life, Voluntary Lifestyle and other benefits and perks that enhance your physical, mental, emotional and financial wellbeing. You can learn more by clicking here.
+Note: For union-represented postings, wage rates and ranges are governed by applicable collective bargaining agreement provisions.
+Salary Range
+Salary Min :
+100440
+Salary Max :
+223680
+This information reflects the base salary pay range for this job based on current national market data. Ranges may vary based on the job's location. We offer competitive pay that varies based on individual experience, qualifications and other relevant factors. We encourage you to apply to positions that you are interested in and for which you believe you are qualified. To learn more, you are welcome to discuss with us as you move through the selection process.

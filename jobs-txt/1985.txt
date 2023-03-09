@@ -1,0 +1,26 @@
+What you'll do
+When our square shaped burgers made their first sizzle on the scene more than 50 years ago, people knew our approach wasn’t like any other. Same goes for the way we support our employees. Our culture of openness, flexibility, and inclusiveness allows everybody to flourish in their own way. If you’re looking for a career where you can be part of the action as we continue to grow our iconic brand – We got you!
+The Lead Engineer - Data Science position is responsible for simplifying and improving operations in Wendy’s restaurants by leading the application of data science and analytics. The primary focus is to lead the design and development of data mining techniques, preforming statistical analysis to turn data into information, and building a high quality prediction system to enhance restaurant operations. Another key element of the role is to contribute towards best practices and frameworks to deliver a scalable data platform using newer tools and technology.
+Responsibilities
+Leads a cross-functional team and provides technical direction/expertise to develop and maintain a predictive demand model and AI tools to improve production operations. Activities include project management selecting sensors, mining data, validating algorithm and managing contractors. Maximize project results by executing project management processes, including the development of project charters, detailed project time lines, success criteria, functional requirements, development of testing methodology, data collection and analysis.
+Oversees the management and maintenance of kitchen simulation tools and conduct other statistical analysis as required. Activities include updating statistical model based on menu/operational changes, providing business analytics, presenting information to technical and non-technical audiences, and managing contractors.
+Drives alignment within IT to ensure the Data Engineering and hardware implementation requirements support the predictive demand model and support roll-out of associated kitchen equipment
+Leads cross functional team meetings and provide technical support as needed for the management of operations test, market tests, or national roll outs of assigned projects including conducting restaurant surveys, data collection, management of supplier time lines and contractor activities.
+Keep up to date on industry trends and recommend solutions beyond to meet business needs.
+Ownership of all technical aspects of the Wendy’s Data platform, including custom development
+Perform technical analysis, level-of-effort estimation, design, development, implementation of applications
+What we expect from you
+BS in data science, computer science, statistics, industrial engineering, or operations research with a minimum of 3-year experience in a commercial environment
+Master’s degree in Computer Science, statistics, operations research
+Previous experience in the food service or related industry
+5+ years of experience as a Data Scientist or in Machine Learning, AI Strong project management skills including the management of long duration, multi-functional engineering related projects
+Excellent understanding of analytics, algorithms and simulation tools
+Proficient in the use of a variety of software applications including R or Python Programming, SQL, Cloud Technologies (GCP or Azure or AWS)
+Wendy’s was built on the premise, "Quality is our Recipe®," which remains the guidepost of the Wendy's system. Today, Wendy's and its franchisees employ hundreds of thousands of people across more than 7,000 restaurants worldwide with a vision of becoming the world's most thriving and beloved restaurant brand.
+#LI-Remote
+Education: Bachelor's Degree
+Travel: None
+Pay Range: $96,000 - $168,000 Annually
+Wendy's is an equal employment opportunity employer who may provide reasonable accommodation to enable individuals with disabilities to perform the essential functions of the job.
+Apply Now
+Share

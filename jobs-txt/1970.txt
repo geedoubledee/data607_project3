@@ -1,0 +1,24 @@
+As a Data Scientist, you will be analyzing a wide range of unstructured data to address problems through attentive listening, astute planning, and out of the box thinking to develop solutions and reporting results in an engaging manner. The role will involve working with Research Scientists in analyzing complex data, generating insights, and creating solutions as needed across a variety of tools and platforms. The ideal candidate for this position will possess ability to perform both independent and team-based research and generate insights from large data sets with a hands-on/can do attitude of servicing/managing day today data requests and analysis.
+Skill Set – Have 3+ years' experience working with NLP (must to have), text analytics, proficiency in Python/R, and Git. Detailed information about Python and/ or R with the real time experience, instead of few bullet points. Experience in Pharma domain and unstructured text handling is a plus. Experience and knowledge of NLP is a plus Experience and knowledge with different model, expertise and accomplishments. Experience with text parsing/regular expressions (regex), and proficiency in libraries like Pandas, re, sci-kit learn, docx at some level Command of data science principles (regression, Bayes, time series, clustering, P/R, AUROC) Profile – Professional resume with good writeup about their experience and expertise and clear academic information with year and stream. Focus should be on relevant experience and technologies for this job. This would be helpful for evaluation. Machine Learning / Deep Learning Algorithms - Logistic Regression, SVM, Naive Bayes , RNN etc. With detailed information about experience and working knowledge. Text Analytics (Importance of everything in words as given above). Explain what is the real experience, rather mentioning just Test Analytics Sentiment analysis (e.g customer is happy, sad, likes a brand, positive or negative for a service or product and so on using available/ customizable python/R libraries) Sound Knowledge of Python/R. For example; if someone talk about Python or R, they can be explanatory that how did they use Python/ R rather adding few bullet points. Purpose, key highlights, accomplishments etc.. Having some cloud experience would give added advantage.
+Must have:
+Python, R
+Cloud
+Data Analytics
+Machine Learning, NLP
+Text Analytics
+Job Types: Full-time, Contract
+Pay: $111,648.00 - $122,984.00 per year
+Schedule:
+8 hour shift
+Experience:
+Python: 3 years (Required)
+Natural language processing: 3 years (Required)
+R: 3 years (Preferred)
+cloud: 3 years (Required)
+Machine learning: 3 years (Preferred)
+Text Analytics: 3 years (Preferred)
+Data analytics: 3 years (Preferred)
+Data visualization: 3 years (Required)
+Predictive analytics: 1 year (Preferred)
+Deep learning: 1 year (Preferred)
+Work Location: Remote

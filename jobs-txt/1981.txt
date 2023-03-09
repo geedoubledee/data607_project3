@@ -1,0 +1,48 @@
+About Us
+Twitch is the world's biggest live streaming service, with global communities built around gaming, entertainment, music, sports, cooking, and more. It's where millions of people come together to chat, interact, and make their own entertainment.
+We're about community, inside and out. You'll find coworkers who are eager to team up, collaborate, and smash (or elegantly solve) problems together. We're on a quest to empower live communities, so if this sounds good to you, see what we're up to on LinkedIn and Twitter, get interviewing tips on Instagram, and discover projects we're solving on our Blog.
+About the Role
+Reporting to the Head of Global Talent Acquisition, the Data Engineer will expand the reach and role of data among leaders and managers at Twitch. You will empower the business to integrate data into their daily workflow by creating/maintaining data pipelines, producing reporting, and automating our processes.
+You can work in San Francisco, CA or remotely across the US.
+This role is for you if:
+You love automating processes and developing efficient scalable solutions
+You're excited about contributing to the success, efficiency, and happiness of Twitch staff
+You're excited to jump into a diverse array of data work to support the team
+You enjoy working with autonomy and shaping a new function
+
+You Will:
+Delight consumers of people-related data by ensuring they have the data they need to inform decisions, where and when they need it
+Build and own data pipelines, SQL queries/views, and apps
+Automate processes through the use of JavaScript and other languages
+Improve business, engineering, and data processes through data architecture, engineering, testing, and operational excellence best practices
+Ensure the integrity of People and Places data in analyses and tools through regular audits
+Partner to develop analytics products and recommend opportunities
+Develop ongoing metrics, analyses, and dashboards to guide important decisions
+You Have:
+Experience writing SQL and a procedural language (Python, R, etc.) for data handling
+Experience owning systems that collect, transform, and visualize data
+Experience implementing data analytics, visualization tools and programs for HR working with Workday, Greenhouse, Tableau, Google Workspace, Google Data Studio, and Google Sheets
+Experience implementing software solutions to automate data source, visualization and analytics products
+Bachelors in related field, or equivalent experience
+Bonus Points
+Experience handling People-related data including compensation, performance, hiring, and engagement data.
+Experience automating Google services (Sheets, Docs, Data Studio) with Javascript
+Experience with Workday, Greenhouse, and Tableau
+Demonstrated net positive contributor to company community and culture above and beyond the core job
+Perks
+Medical, Dental, Vision & Disability Insurance
+401(k), Maternity & Parental Leave
+Flexible PTO
+Commuter Benefits
+Amazon Employee Discount
+Monthly Contribution & Discounts for Wellness Related Activities & Programs (e.g., gym memberships, off-site massages, etc.),
+Breakfast, Lunch & Dinner Served Daily
+Free Snacks & Beverages
+We are an equal opportunity employer and value diversity at Twitch. We do not discriminate on the basis of race, religion, color, national origin, gender, gender identity, sexual orientation, age, marital status, veteran status, or disability status, or other legally protected status.
+Pursuant to the San Francisco Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.
+Pursuant to the Los Angeles Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.
+The base pay range for this position in Colorado, Connecticut and Washington is $139,860 - $170,940 yr and in New York City is $153,900 - $188,100 yr. Pay is based on market location and may vary depending on job-related knowledge, skills, and experience. A sign-on payment and restricted stock units may be provided as part of the compensation package, in addition to a full range of medical, financial, and/or other benefits, dependent on the position offered. Applicants should apply via Twitch's internal or external careers site.
+Workers in New York City who perform in-person work or interact with the public in the course of business must show proof they have been fully vaccinated against COVID or request and receive approval for a reasonable accommodation, including medical or religious accommodation.
+Twitch values your privacy. Please consult our Candidate Privacy Notice, for information about how we collect, use, and disclose personal information of our candidates.
+Job ID: TW7236
+#LI-Remote #RemoteFriendly

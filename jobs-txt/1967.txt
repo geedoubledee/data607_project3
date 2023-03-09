@@ -1,0 +1,47 @@
+At ChemTreat, we understand and respect the awe-inspiring power of water to impact industries, and to sustain and enhance lives. Our 2,000 associates across North and South America maximize this power for our customers—from power producers to food and beverage companies to the automotive industry.
+
+When you join the nation's largest and fastest growing specialty chemical company dedicated solely to industrial water treatment, you’ll work side-by-side with those customers, helping them save millions of dollars and grow their businesses, all while protecting people and the environment. Our “whatever-it-takes” mindset allows us to turn our 50 years of experience and innovative thinking into meaningful outcomes for our customers—and rewarding careers for our people.
+
+ChemTreat is proud to be one of Danaher's Water Quality companies . Motivated by the highest possible stakes of climate change and global health, we’re working together within a rapidly digitizing industry to find innovative technologies that guarantee the safety of our water and our environment.
+
+Maximizing the Power of Water: https://wi.st/3vH5OUK
+
+About the Role:
+The Business Intelligence Developer will be instrumental on the development implementation of (BI) solutions, using Power BI that provides timely, accurate, and meaningful information to key users and decision makers across the company so they can effectively analyze business patterns and trends and make informed decisions. This involves gathering and understanding business needs and rules and documenting business requirements.
+
+What Will I Be Doing?
+Capture business, technical and operational requirements and create/communicate Cloud/Business Intelligence solution options (e.g., visualizations, etc.).
+Applies Cloud/BI best industry practices to successfully design, build and implement solutions to meet the needs of the business.
+Review Cloud/BI designs to ensure compliance with corporate objectives for data security, integrity, quality, performance, management, scalability, and reliability.
+Develop quality control measures, testing measures, and the accuracy of data standards and consistency to support deployment of solutions for the businesses and IT.
+Responsible for prototyping solutions, preparing test scripts, and conducting tests and for extraction, loading, cleansing, and data modeling for Cloud/BI solutions.
+
+What Makes Me Qualified?
+Four-year degree in Engineering , Information Science or equivalent. Master’s degree preferred.
+Know how to integrate with different data sources
+Strong understanding experience with Power Platform (e.g., Power BI, Power Automate, Power App)
+Understand Data Modeling, Data Warehousing and Data Mart (dimension and fact tables) concepts and best practices
+Work history of successful software design on API and Microservice based architecture
+Strong analytical, problem-solving and metadata skills.
+Advanced SQL, DBMS and NoSQL databases skills
+Hands-on DAX experience
+
+What Makes Me Stand Out?
+Familiarity with AWS and Azure Cloud Services
+Business acumen - Ability to obtain essential information about a situation, focus on the key objectives, recognize the feasible options, select an appropriate course of action and set in motion an implementation plan to execute solutions that include buy-in from stakeholders.
+Excellent analytic skills - Ability to capture relevant information from VOC sessions and conversations with stakeholders or identify gaps independently; and ability to break down complex situations into discrete steps and/or the concrete tasks necessary to solve problems.
+Customer focused - They take a personal interest and have a passion for meeting internal or external customers’ business needs. This means being fully available to the customer and becoming the advocate of customer issues within the organization.
+
+What Makes This Opportunity Exciting?!
+You will receive our comprehensive benefits package starting on the first day of employment
+Flexible scheduling that allows work/life balance
+Unlimited growth opportunity
+You get to be a part of an innovative environment!
+
+The salary range for this role is 93-112K. This is the range that we in good faith believe is the range of possible compensation for this role at the time of this posting. We may ultimately pay more or less than the posted range and this range is only applicable for jobs to be performed in Colorado. This range may be modified in the future.
+This job is also eligible for bonus/incentive pay.
+We offer comprehensive package of benefits including paid time off, medical/dental/vision insurance and 401(k) to eligible employees.
+You can apply for this role through the Careers Page at https://jobs.danaher.com/global/en/ (or through the Workday “Find Jobs” function if you are a current employee)
+Note: No amount of pay is considered to be wages or compensation until such amount is earned, vested, and determinable. The amount and availability of any bonus, commission, benefits, or any other form of compensation and benefits that are allocable to a particular employee remains in the Company's sole discretion unless and until paid and may be modified at the Company’s sole discretion, consistent with the law.
+
+When you join us, you’ll also be joining Danaher’s global organization, where 80,000 people wake up every day determined to help our customers win. As an associate, you’ll try new things, work hard, and advance your skills with guidance from dedicated leaders, all with the support of powerful Danaher Business System tools and the stability of a tested organization.

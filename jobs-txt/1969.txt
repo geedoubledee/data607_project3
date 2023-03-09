@@ -1,0 +1,65 @@
+The Head of Customer Decision Science & Marketing Analytics oversees customer decision science and marketing analytics and with a focus on enhancing the Company’s marketing analytics capabilities, implementing industry leading “full-funnel” marketing performance measurement, shaping decision making, driving customer segmentation, and driving business growth through highly relevant and advanced marketing performance insights and recommendations that inform sound decision-making and drive distinctive value to marketing and customers. Focuses on advancing the team’s capabilities and creating a “best-in-class” marketing performance measurement framework, performing campaign analysis, integrating cutting-edge solutions, and developing close partnerships with business stakeholders. Responsible for developing capabilities/approaches for developing customer segmentation, determining audiences, and measuring acquisition performance to guide continual improvement in customer acquisition and retention strategies.
+
+
+Primary Responsibilities
+Collaborates with marketing, product, and information technology team(s) to shape differentiated marketing analytical services and solutions that benefit the business.
+Develops and creates integrated recommendations on marketing’s ability to generate positive results across lines-of-business and measure effectiveness of all Enterprise marketing programs.
+Develops and reports on Enterprise key reporting KPIs to global team of Enterprise Marketing leaders and executives via regular cadences.
+Develops strategy and tactical solutions for advanced analytics capabilities that ensure marketing is making data-driven decisions.
+Prioritizes analytics and delivery initiatives and build a trusted, business-oriented, and highly- capable organization.
+Leverages a holistic view of data assets to deliver a compelling enterprise vision for how advanced analytics can contribute to documenting how marketing efforts impact critical corporate KPIs.
+Guides campaign-specific marketing analytics that will quantitatively demonstrate value and effectiveness of marketing programs.
+Performs customer modeling to help develop targeted acquisition approaches to maximize marketing dollars, develops propensity modeling for high value behaviors, and creates churn models to help increase acquisition.
+Develops recommendations to encourage and drive customer-centric decisions across the business.
+Creates compelling PowerPoint presentations with captivating analytic storytelling.
+Attracts, excites, develops, and retains a world class decision science & analytics team across a global footprint.
+Performs other duties as assigned.
+Qualifications
+Education
+Bachelor Arts/Bachelor Science (BA/BS) degree.
+Master’s degree desired in a relevant field including mathematics, statistics, computer science, or like.
+
+Experience
+10+ years of experience in: Analytics, Finance, or Consulting or 5+ years of data science and marketing analytics team management to include employee development and results delivery.
+Experience using BigQuery and Google Cloud Platform also a plus.
+
+Essential Skills
+Intellectual curiosity combined with mastery of storytelling and asking the right questions: ability to ‘connect the dots’ in delivering a full end to end story while addressing a business question uncovering impactful insights for common business questions.
+Ability to identify insights by combining information derived from analytics, statistical inferences, and business knowledge.
+Ability to lead customer data science practices such as creating segmentation, churn, and marketing models to provide predictive insights.
+Mastery in analyzing marketing and customer data (complex and multi-dimensional data sets).
+Expertise with campaign management and supporting technologies such as multivariate experimentation and audience segmentation.
+Expertise selecting context-appropriate modeling, analysis, and reporting techniques with hands-on skills with common marketing attribution and analytics techniques including: factor analysis, regression/logistic regression, CHAID/decision trees, K-means (clustering), univariate analysis (t-test), cross-tabs, time series analysis and others.
+Strong executive presence with a proven track record in Enterprise marketing decision science & analytics; ability to drive and deliver insights for competitive advantage.
+Ability to effectively utilize Application and/or web analytics: specifically, working with Google Analytics, Firebase, or similar tools to measure the benefits of the digital experiences and customer behaviors.
+Ability to conduct testing and optimization across digital ad platforms (i.e. Facebook, Google Universal Ad Campaigns, etc.).
+Strong background in designing and leading the creation of data visualization toolsets.
+Ability to effectively delegate work assignments, empower others, and give authority to work independently, set expectations, and monitor delegated activities.
+Excellent people and stakeholder management skills: including strong influencing skills and ability to navigate a global and matrixed organization.
+Strong passion and commitment for attracting and developing talent.
+Demonstrated ability to drive business value through research, insights, and measurement.
+Ability to lead through ambiguity and change.
+Active and self-driven internal orientation.
+
+Anticipated Base Pay: $157,000 - $237,600 (Performance Bonus Target available for this role)
+Day 1 Benefits to include:
+Customizable health plan-PPO/High Deductible Plan with Employer HSA Contribution
+20 Days of Accrued PTO
+13 Paid Holidays
+2 Community Service Days
+401k with Employer Match
+Parental Leave
+Employee Assistance Program
+Tuition Reimbursement
+Money Transfer Reimbursement
+Pet Insurance options
+The salary/pay rate listed is a good faith determination that may be offered to a successful applicant for this position at the time of this job advertisement based on company hiring process and budget for this role and may be modified in the future. Actual compensation may vary from posting based on geographic location, work experience, education and/or skill level.
+#HTFUS
+#LI -ME1
+
+Primary Location: United States of America-Texas-Dallas
+Work Locations: VIRTUAL EMPLOYEES
+Job: Data Operations
+Organization: Data Strategy & Analytics
+: Full-time
+Job Posting: Nov 4, 2022, 3:27:09 PM

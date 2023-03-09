@@ -1,0 +1,30 @@
+Join our community
+Community Health Network has an excellent opportunity available within our Data Analytics team. If you are looking for challenging work and meaningful advancement, then you should consider a career with Community.
+
+
+Where you fit in
+The Business Intelligence Developer is responsible for identifying, designing, developing, distributing, and maintaining the advanced analytics reporting needs of the Network. This role will write Store Procedures, data extracts, cubes using SQL Management Studio (SSMS) along with utilizing both MS SQL Server Reporting Services (SSRS), Epic’s Data Warehouse, and BusinessObjects BI platform for creating reports/crystal reports, universes, and dashboards. The Developer may be responsible for designing, configuring, debugging, monitoring BusinessObjects, and assist in troubleshooting Epic’s Clarity ETL processes, and Epic’s data warehouse. Works collaboratively with IT members, vendors, and customers and supports upgrades to reporting tools.
+
+Your exceptional skills
+Strong communication skills
+Data mine, query, and access large data sets
+Independently manage time and priorities
+Organize data in a presentable format
+Ability to query databases, data warehouse, or data stores using various query techniques
+Ability to work analytically
+Proven ability to be flexible and motivated, and to work well both independently, and in a team environment, in a high-pressure environment with changing priorities
+
+Your exceptional qualifications
+Bachelor’s degree in Computer Science, Information Technology, or related business field strongly preferred
+Two years of professional experience with relational database experience in Microsoft SQL Reporting Services (SSRS), including designing tables, writing SQL queries and store procedures required
+Strong proficiency with SQL preferred
+
+Your life with Community
+You work hard to provide our patients with the exceptional care, and you deserve benefits to match. Community offers a unique employment package that encompasses not only your day-to-day job, but also your career.
+
+You will have the opportunity to grow your career thanks to scholarships and tuition reimbursement from the Community Health Network Foundation, and receive recognition for your achievements.
+
+Apply today for immediate consideration.
+A representative and diverse workforce
+At Community Health Network, we build teams that deliver exceptional care through empathy, communication and collaboration. Caregivers play a vital role in our mission as they fulfill our PRIIDE values: Patients First. Relationships. Integrity. Inclusion. Diversity. Excellence.
+Community is proud to be an equal opportunity employer, aiming to ensure that caregivers feel empowered, recognized and respected in our environment at all times. We value different perspectives by actively seeking a diverse workforce that is inclusive and equitable to all. For more information on how we work to advance diversity, equity and inclusion to provide culturally-competent care that meets your individual needs, visit eCommunity.com/diversity.

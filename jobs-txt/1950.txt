@@ -1,0 +1,43 @@
+Location: Anywhere in the world
+Job Description:
+We are seeking to hire a highly skilled Database Administrator with excellent problem solving and communication skills. The position will report into Minerva DevOps and work closely with cross functional distributed teams. This position requires strong organizational and collaboration skills.
+Work closely and provide escalation support to Support Engineers. Work flexible hours as a needed to support the Support Engineers that are on the on-call rotation.
+Contribute technically to large scale projects in production.
+You will interface with Application and DB Developers to understand how Minerva software interacts with the DB. Review database infrastructure and suggest changes and improvements for database performance and maintenance.
+Responsibilities:
+Responsible for operations and administration of databases for various production environments.
+Review and troubleshoot production database issues.
+Monitor production systems DB performance, analyze logs, and identify problems before they arise.
+Provide support to on-call Support Engineers for production issues outside normal working hours as needed. Respond in a timely manner to production reported errors.
+Provide DB support during maintenance windows or deployment/release activities.
+Perform regular health checks and review logs on production systems.
+Review and analyze long running queries or transactions.
+Provide query tuning and schema refinement.
+Work with Development teams validating bug fixes and new releases
+Required Skills: (Must Have)
+Proficiency in data manipulation languages, including MySQL, Oracle Database 11g/12c.
+Oracle WebLogic configuration, troubleshooting and performance tuning.
+Experience with Oracle Data Guard Technology
+Senior level Linux user.
+Analyzing and optimizing DB performance.
+Analytical mindset and excellent problem-solving skills.
+Excellent verbal and written communication skills.
+Highly organized and responsible.
+Ability to learn and understand new technologies quickly.
+Other Skills: (Plus)
+MongoDB database administration support
+Knowledge of configuring database monitoring and alerting management systems
+Experience with Oracle partitioning & Oracle replication.
+Writing/reading/debugging SQL
+AWS VPC, EC2, PostgreSQL, Redshift, RDS, Kafka and Elasticsearch experience
+Familiarity with
+Kubernetes
+Docker
+OpenShift
+CI/CD concepts
+Required Education and Experience:
+Bachelor or Master of Science in Computer Science, or equivalent experience.
+Minimum 3-5 years of experience as a Database Administrator.
+Experience in troubleshooting production database performance and scalability issues (identifying inefficient queries, indexes, configurations, infrastructure etc.).
+
+Minerva Networks is an Equal Opportunity Employer. We recruit, train, compensate and promote without regard to age, race, religion, creed, color, nation origin, sexual orientation, marital status, or disability.

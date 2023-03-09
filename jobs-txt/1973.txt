@@ -1,0 +1,43 @@
+Clearance Level
+None
+Category
+Database Analysis/Design
+Location
+Remote, Based in the USA
+
+Travel Required: None
+Public Trust: Other
+Requisition Type: Regular
+Junior Oracle Database Administrator - 100% Remote!
+Exciting opportunity for recent college grads!
+GDIT is immediately hiring for a Junior Oracle Database Administrator. The Junior Oracle DBA will administer and maintain the security and integrity of the databases, applications in addition to providing incident management and problem support.
+The Junior Oracle DBA will work under the leadership of a Sr. Oracle DBA on Automation tools, monitoring and also be responsible for database capacity issues, replication and overall performance issues, Oracle SR Support follow-ups and readme document analysis. This is a great opportunity to work with the latest version of Oracle 19c and with hosting and cloud environment.
+What Junior DBA's Do:
+Monitor database performance, implement changes and apply new patches and upgrades, when required. Monitor and optimize database and server performance
+Design, create, and assist data modeling and database schema in accordance with business requirements.
+Create complex functions, scripts, stored procedures and triggers to support application development
+Develop best practices for database design, development activities, troubleshooting and root cause analysis.
+Perform regular tests and evaluations to ensure data backup, security, privacy, and integrity
+Test and implement database backup and recovery operations.
+Maintain existing stored procedures and review existing SQL code
+Create and maintain database documentation, including data standards, procedures, and definitions for the data dictionary (metadata).
+Monitor alert system details and reporting.
+Proactively and regularly make recommendations for system improvements.
+Perform business intelligence and business performance management activities.
+Skills/Experience Required:
+0+ years' experience and a Bachelor’s degree in Computer Science or related field of study (and/or equivalent combination of education and IT work experience)
+Knowledge of Oracle Database Systems architecture, design, development, and implementations. Oracle 19.x understanding preferred.
+Exposure to performance monitoring tools to find opportunities for optimization and improvement.
+Knowledge of SQL query development and working with developers in a web-based environment. SQL encryption technologies and third-party monitoring tools
+Critical thinking and problem-solving skills.
+Excellent Communication skills, written and verbal
+Nice to Have:
+Oracle Certifications and/or other vendor certifications is a plus.
+The likely salary range for this position is $44,000 - $66,000, this is not, however, a guarantee of compensation or salary; rather, salary will be set based on experience, geographic location and possibly contractual requirements and could fall outside of this range.
+View information about benefits and our total rewards program.
+
+About Our Work
+We are GDIT. The people supporting some of the most complex government, defense, and intelligence projects across the country. We deliver. Bringing the expertise needed to understand and advance critical missions. We transform. Shifting the ways clients invest in, integrate, and innovate technology solutions. We ensure today is safe and tomorrow is smarter. We are there. On the ground, beside our clients, in the lab, and everywhere in between. Offering the technology transformations, strategy, and mission services needed to get the job done.
+COVID-19 Vaccination
+GDIT does not have a vaccination mandate applicable to all employees. To protect the health and safety of its employees and to comply with customer requirements, however, GDIT may require employees in certain positions to be fully vaccinated against COVID-19. Vaccination requirements will depend on the status of the federal contractor mandate and customer site requirements.
+GDIT is an Equal Opportunity/Affirmative Action employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, or veteran status, or any other protected class.

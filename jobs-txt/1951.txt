@@ -1,0 +1,42 @@
+United States, Georgia, Atlanta
+Global Health and Wellbeing
+16-Nov-2022
+Ref #: 18144
+How you'll help us Keep Climbing (overview & key responsibilities)
+The Data Architecture Manager will be a key leader in supporting initiatives that drive improvements in the health and wellbeing of our employees, their families, and our customers. The Data Architecture Manager will own the implementation of end-to-end data solutions built on the highly scalable AWS ecosystem to enable our leaders to make data-driven decisions. The leader should be someone who has proven repeated success in developing scalable data pipelines for efficient extraction, load, and transformation of data from various sources and crafted intuitive interfaces and dashboards.
+
+A career at Delta not only gives you a chance to see the world, we provide excellent benefits to help you keep climbing along the way!
+Competitive salary, industry leading profit sharing and 401(k) with generous direct contribution and company match
+Comprehensive health benefits including medical, dental, vision, short/long term disability and life benefits
+A detailed wellness plan that recognizes the importance physical, emotional, financial and social wellbeing
+Domestic and International flight privileges
+Summary of responsibilities (not comprehensive of all tasks):
+Develop end-to-end data pipelines from ingestion to visual analytics with AWS tools, Python, SQL, Redshift, and Tableau
+Architect solutions to deliver timely and accurate business insights and reporting for physical, social, emotional wellbeing, and other wellness operations across Delta Air Lines footprint
+Provide thought leadership to influence relevant data, information, and application architecture
+Define and recommend tools, techniques, and approaches to design data solutions
+Closely work with the data engineering and data science teams
+Build/foster strong working relationships with internal and external customers
+Liaise with multi-functional teams to identify and prioritize concrete, high-impact insights across a variety of core business areas
+Effectively communicate insights and recommendations to both technical and non-technical leaders and business customers/partners
+
+What you need to succeed (minimum qualifications)
+Bachelors degree in computer science, information technology or related field
+5+ years of data architecture and data management experience
+5+ years of data visualization experience
+2+ years of cloud experience
+Sophisticated knowledge of AWS Services/Architecture
+Experience in AWS Compute such as EC2, Lambda
+Experience in AWS Storage services such as S3
+Experience in AWS Analytics such as Athena, Glue, Redshift
+High degree of technical expertise in Tableau
+Strong SQL skills with vast experience on RDBMS
+Experience in Python
+Ability to transform data and insights into compelling arguments
+Strong storytelling ability through data visualization
+Solid background showcasing the ability to work multi-functionally in an ambiguous and matrix-ed environment
+Strategic planning experience including the ability to problem solve and provide breakthrough solutions
+What will give you a competitive edge (preferred qualifications)
+Solid understanding of the healthcare industry
+AWS Certifications
+< Go back

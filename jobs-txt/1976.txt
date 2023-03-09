@@ -1,0 +1,24 @@
+1. Contribute to the development of best practice to improve quality, efficiency and effectiveness.
+2. Oversee the quality of all deliverables.
+3. Perform SAS data processes and analysis programming.
+4. Works with Statistician and Statistical programmer to assure results are consistent with expectations, and Quality control procedures are followed.
+5. Act as primary contact, when necessary, to ensure that company standards are implemented in all studies.
+6. Works collaboratively to meet study deliverables and timelines for statistical data analysis and reporting.
+7. Plans and carefully documents differences between programming results between program developer and Statistical QC programmer.
+8. Provided programming support on ISS/ISE and post-submission activities.
+9. Provide flexible and rapid response to programming requests.
+10. Ensure the consistency and adherence to standards within the project.
+11. Confirms that tracking sheets are current for projects, and confirm that results are consistent with earlier generated results.
+12. Maintain up-to-date study documentations.
+13. Identify opportunities to improve the methodology and provide practical solutions for problems.
+14. Develop, program, test and maintain computer validation/edit checks in SAS.
+15. Validate peer programming.
+16. Provide technical expertise and support to Data Management team.
+17. Routinely interface with cross-functional team members.
+18. Participate in regular team meetings and provide input when appropriate.
+19. Participate in the development of clinical programming SOPs and the development/optimization of clinical programming processes from study start up to database lock.
+20. Managing project priorities and timelines.
+21. Have good knowledge of statistical terminology, clinical data structure, clinical tests, medical terminology, regulatory standards and protocol designs.
+Confidential
+22. Review programming activities and costs in contracts.
+23. Direct responsibility for supervising and training junior clinical programmers in the performance of their duties.

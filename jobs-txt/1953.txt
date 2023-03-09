@@ -1,0 +1,25 @@
+Title: ML Engineer
+Location: San Jose, CA OR Austin, TX(Onsite)
+Type: Full Time
+Job Description:
+Must Haves: - Python, SQL, Airflow, Tensorflow
+Job Description
+Coding experience in Python and SQL
+Experience with ML/AI tools such as TensorFlow, Colab, Vertex AI
+Experience with data processing pipelines such as Airflow, DataFlow.
+Experience with GCP (Google Cloud Platform) or other cloud platforms
+Experience developing, maintaining, productionizing, Machine Learning models and debugging their performance on a complex system, having experience in production ML systems is highly desirable.
+Analyzing and troubleshooting large-scale distributed systems
+Self-motivated attitude and strong communication skills enabling you to interface with remote collaboration environments.
+Job Type: Full-time
+Salary: $130,000.00 - $140,000.00 per year
+Schedule:
+8 hour shift
+Monday to Friday
+Ability to commute/relocate:
+Boston, MA 02108: Reliably commute or planning to relocate before starting work (Required)
+Security clearance:
+Confidential (Preferred)
+Work Location: One location
+Speak with the employer
++91 (732)-285-6233

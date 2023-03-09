@@ -1,0 +1,13 @@
+Skills required: Power BI, Cosmos + SQL experience, Knowledge on Azure Data Factory, SQL.
+Role Description: Individual with strong technical background in SQL, SQL Server, data engineering, BI, Kusto, Data Analysis and strong knowledge of Data Warehousing Concepts.
+Role and Responsibilities: * Good Depth in Power BI * Should be able to write complex and efficient -SQL queries. * Should be able to design & Implement end-end data pipelines using cosmos and ADF. * Problem analysis and troubleshooting complex & “large volume of dataset’s” data issues. * Should have strong data analysis
+skillsSkills Required: * Proven experience in SQL Server writing complex T-SQL queries, Performance tuning * Proven experience in strong Data Analysis dealing with large volume of datasets. * Proven experience in Design & Implementation of end-end data pipelines. * Should have strong knowledge of Data Warehousing concepts. * Should have very good experience in BI tools (but not limited ) Reporting tools like Power BI * Cosmos and scope scripts * Microsoft Big Data Technologies. * Knowledge on Azure Data Factory * Excellent communication skills – direct communication with Client
+Job Type: Full-time
+Salary: From $50.00 per hour
+Schedule:
+Day shift
+Experience:
+Informatica: 8 years (Preferred)
+Work Location: Remote
+Speak with the employer
++91 6157030733

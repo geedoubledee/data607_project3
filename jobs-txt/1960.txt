@@ -1,0 +1,39 @@
+Atlassian is looking for an Engineering Leader to join Data Engineering and Applications team and build data products and applications that power critical business decisions across the organization and inform the product strategy. This leader will be responsible for leading more than one Data engineering team. We are looking for a forward-thinking, structured problem solver, technical specialist, and talented leader passionate about building systems at scale. You will lead a world-class data engineering practice, shape up technical strategy and data architecture, and develop data products to enable reporting, analytics, data science, machine learning, and AI workloads.
+
+As the data domain specialist, you will partner with a cross-functional team of IT, data platform, product engineering, analytics teams, and data scientists to support various initiatives. Requirements may be vague, but the iterations will be rapid, and you must take thoughtful and calculated risks. You are interested in reporting platforms and data visualization. Collaborate with legal, compliance, and internal audit to understand audit, compliance, and legal requirements and ensure data products and services are developed in compliance with policies.
+
+More about you
+You are passionate about technology and data and understand the power of data to influence the future of companies like Atlassian. You thrive on developing phenomenal data products using modern data architecture, engineering practices, and tools to process store, and expose governed and trusted datasets and metrics.
+You are well-versed in data-driven and data-informed product development and comfortable with the nuts and bolts of software engineering, data engineering, and basic data science.
+You have excellent business engagement skills and thrive on building strong partnerships and working relationships with business and analytics leaders at all levels. You have a strong sense of fiscal discipline, manage tight budgets, and drive cost efficiency.
+You are an experienced leader with extensive experience managing managers and a strong record of attracting and growing data talent through hiring, coaching, mentoring, and hands-on career development. You foster an inclusive environment where all points of view are welcomed and encouraged.
+On your first day, we'll expect you to have:
+15+ years of experience in building and managing the data warehouse, data pipelines, and data products
+10+ years of experience leading data engineering teams, experience managing managers of managers, and a track record of scaling organizations with over 75 engineers across geographies
+Strong business acumen with an understanding of business drivers and of how to drive value using data across the organization
+Demonstrated experience in developing strong business relationships and trust with senior business leaders across different functions.
+Prior experience partnering with Analytics and with Data Science teams
+10+ Years of experience in delivering data and analytics solutions for various domains like Go To Market, Customer support, Finance, People, Commerce, and Engineering
+Solid understanding and experience building Microservices and RESTful APIs
+Experience implementing DevOps best practices within the data platform, including solutions for CI/CD, data observability, monitoring, and lineage
+Experience with BI tools like Tableau, Amplitude, and Redash.
+You will have strong empathy and a bias for action.
+Proven experience hiring and mentoring high-caliber engineers with diverse technical strengths and backgrounds.
+High-energy self-starter with a passion for data and enjoy working in a fast-paced environment.
+Exceptional communication skills and can translate technical concepts into easy-to-understand language for business partners.
+A graduate degree in Computer Science or a similar subject area
+It's great but not required if you have:
+Experience working for SAAS companies
+Experience with Machine Learning
+Committed code to open source projects
+Our perks & benefits
+
+To support you at work and play, our perks and benefits include ample time off, an annual education budget, paid volunteer days, and so much more.
+
+About Atlassian
+
+The world’s best teams work better together with Atlassian. From medicine and space travel, to disaster response and pizza deliveries, Atlassian software products help teams all over the planet. At Atlassian, we're motivated by a common goal: to unleash the potential of every team.
+
+We believe that the unique contributions of all Atlassians create our success. To ensure that our products and culture continue to incorporate everyone's perspectives and experience, we never discriminate based on race, religion, national origin, gender identity or expression, sexual orientation, age, or marital, veteran, or disability status. All your information will be kept confidential according to EEO guidelines.
+
+To learn more about our culture and hiring process, explore our Candidate Resource Hub.

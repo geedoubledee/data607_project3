@@ -1,0 +1,35 @@
+Hi Folks,
+Hope you are doing great!!!
+Please find below job description
+Job Title: Data Engineer
+Location: Remote
+Duration: Long Time
+Job Description:
+Responsibilities:
+Write and optimize queries, provide input on peer code reviews and data modeling, deploy data updates via continuous integration / deployment (CI/CD) practices.
+Collaborate with software developers, other data engineers, and database architects on projects to ensure optimal data delivery following appropriate change management guidelines.
+Collaborate with software and reliability engineers to automate repeatable data tasks.
+Work with development and production support teams to troubleshoot data, application, and service deployment issues.
+Develop detailed, shared technical procedure documentation, including processes for contingency operations.
+Research, provide technical input, document, and implement new technology solutions.
+Implement necessary patches, hotfixes, service packs, cumulative updates, upgrades, and configuration change to maintain security compliance and application integrity.
+Qualifications:
+Bachelor's degree with a major or specialized courses in Information Technology or commensurate experience
+Strong verbal and written communication skills
+2 years related experience with a combination of the following:
+o Knowledge of relational database management systems, such as Oracle RDBMS and PostgreSQL
+o Knowledge of NoSQL, data warehousing solutions
+o Issue tracking tools such as JIRA
+o Strong analytical and problem-solving ability
+Familiarity with:
+o AWS cloud services (for example: EC2, S3, RDS, Glue)
+o Source control and leveraging a source code repository
+o Red Hat Enterprise Linux, Oracle Solaris, or other UNIX / Linux distributions.
+o Data collection and database/report design
+o Programming Languages (Java and Python are preferred)
+Position requires US Citizen or lawful permanent resident with three or more years of US residency
+Job Type: Contract
+Salary: $55.00 - $65.00 per hour
+Schedule:
+8 hour shift
+Work Location: Remote

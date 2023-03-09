@@ -1,0 +1,57 @@
+Index is a global advertising technology company helping media owners monetize their digital content through advertising so that consumers can continue enjoying free and open access to content online.
+We shaped the earliest forms of ad tech, and we're looking for the technical expertise to help shape its future. Our customers have unique problems that can be solved at scale, and that's where the technical skills of our team make a real difference. Our exchange handles more than 220 billion requests every day (which is even more than the New York Stock Exchange), and every member of our engineering team has an enormous amount of autonomy in building code that supports that level of scale. Through the transparency of our technology, dedication to innovation, and long-standing customer relationships, we lead through change.
+We have more than 500 Indexers around the globe dedicated to building a safe and transparent marketplace that provides a trusted experience for consumers.
+What's it like to work at Index?
+Index is an exciting and fast-paced place to work. We're built on our values of change, support, learning and teaching, trust, and intention. We pride ourselves on our independence and openness, not only in our technology, but in our teams, too. Our diverse and inclusive culture celebrates how we can leverage our unique differences to help drive Index forward.
+
+Our culture of success is truly supportive and collaborative. In working together across our teams, we're continually investing in the people and technology to solve the industry's most complex problems. As we extend the promise of ad tech to every channel, we're looking for talented engineers to help advance Index, and the industry, forward.
+
+Are you ready to join the programmatic evolution?
+Index Exchange is looking for an ambitious Senior Product Manager to help shape the future of data-science & machine learning at Index Exchange. Index Exchange is the most efficient ad exchange and our efforts in ML/DS are focussed on driving efficiency and value while enabling brand new experiences, both up and downstream
+You will work with a cast of highly-talented PMs, who have joined us from companies like Google, Amazon, Microsoft, and eBay, to build product roadmaps that will elevate Index Exchange to its next growth level. If being innovative and nimble sounds fun, and you like the idea of squaring off against the ad tech giants with a more interoperable and transparent approach, then this is the role for you!
+What We're Looking For:
+PM with 5+ years experience building products off massive datasets, leveraging cutting-edge data science models and data pipelines
+Ability to go technically deep with engineers and data scientists
+Excellent communication/presentation skills both in large and small groups
+A sustained track record of making significant, independent, and end-to-end contributions to large and impactful software
+You think like a business leaders, making the right tradeoffs and need minimal guidance to drive the right decisions for your areas of responsibility
+Experience within ad tech is a major plus, they need a firm understanding of how programmatic works, what matters most to DSPs, buyers, publishers, etc…
+Ability to solve complex, technical problems with creative solutions while managing tradeoffs
+Able to work in high visibility, high profile environments
+A very organized PM who excels at project management as well.
+Able to communicate well across a diverse group of people
+Here's What You'll be Doing:
+Building unique data driven products that have global impact
+Creating product roadmaps to set both internal and external expectations about the products we'll bring to market
+Working with commercial teams and customers (publishers, DSPs, agencies) to understand their needs, and decide which ones we should address
+Using your best judgment to make the right decisions, even when the data is imperfect; this includes saying "NO" to good ideas that simply won't win, because they're not great ideas
+Maintaining a prioritized set of products, features, and bugs in support of a thriving marketplace for digital advertising
+Collaborating with Design, Engineering and Project Management to deliver high-quality products and features on time
+Coordinating across numerous commercial and go-to-market stakeholders to ensure that products are launched correctly, that they can be measured appropriately, that they can be serviced, and that they meet the business objectives they were designed to achieve
+Partnering with customer service teams and early adopters to ensure that whatever we build is usable by our clients
+Here's What You Need:
+A Bachelor's Degree in Engineering, Computer Science, Math, or Physics
+A track record of successful launches and landings (goal attainment)
+Experience in product management as well as familiarity with building and shipping ML backed experiments and products
+Experience with programmatic ad tech platforms
+Strong technical, communication, and analytical skills
+Flexibility for some occasional travel (when/where it's safe to do so)
+Why You'll Love Working Here:
+Comprehensive health, dental, and vision plans at no cost to you
+Time off and flexible work schedules
+Retirement plan with a 5% company match
+Stock options and equity packages
+Generous parental leave
+Monthly wellness stipend plus fitness discounts and quarterly wellness group activities
+Home office stipend
+Community engagement opportunities and donation-matching program
+Annual virtual company retreats and regular community-led team events
+We participate in, and sit on the boards of, a number of industry standards-setting groups, including Prebid.org and the IAB, and you'll have the opportunity to represent us there
+Equal employment opportunity
+At Index Exchange, we believe that successful products are built by teams just as diverse as the audience who uses them. As such, we are committed to equal employment opportunities. We celebrate diversity of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or expression, or veteran status. Additionally, we realize that diversity is deeper than any status or classification—diversity is the human experience. For those who show grit, passion, and humility—Index will welcome you.
+Accessibility for applicants with disabilities
+Index Exchange is committed to working with and providing access and reasonable accommodations to applicants with disabilities. Please let us know if you'd like to request a reasonable accommodation.
+COVID-19 guidance: We have re-opened offices in various cities following local guidelines, but are continuing to maintain a flexible work environment.
+
+#LI-Remote
+#Ll-YW1

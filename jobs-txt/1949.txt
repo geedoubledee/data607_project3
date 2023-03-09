@@ -1,0 +1,27 @@
+Job Title: Data Engineer
+Location: (Currently Remote)
+Duration: 24 Months Contract
+Job Description:
+Looking for a Data Engineer to be part of the largest social media organization, working for their data center business group under a data science team.
+The Team has a mandate to move data centers to autonomous – self running /self-healing data centers.
+All projects are aligned towards the above mandate.
+All projects handle petabytes of data coming from different sensors & help in creating business value out of it.
+The Team consists of industry leaders in data science space, PHD/scholars from schools like MIT.
+Qualifications:
+* Advanced SQL coding.
+* Python Programming Experience.
+* Experience with Visualization tools experience.
+Job Type: Contract
+Pay: $60.00 - $70.00 per hour
+Schedule:
+8 hour shift
+Education:
+Bachelor's (Preferred)
+Experience:
+Data Engineer: 10 years (Preferred)
+Large Volume of Data: 5 years (Preferred)
+Data warehouse concept: 5 years (Preferred)
+Advanced SQL (Functional, procedure): 5 years (Preferred)
+Writing Complex Query: 5 years (Preferred)
+Creating Data Pipeline using Python: 5 years (Preferred)
+Work Location: Remote

@@ -1,0 +1,36 @@
+If you’re looking for a meaningful career, you’ll find it here at Webster. Founded in 1935, our focus has always been to put people first--doing whatever we can to help individuals, families, businesses and our colleagues achieve their financial goals. As a leading commercial bank, we remain passionate about serving our clients and supporting our communities. Integrity, Collaboration, Accountability, Agility, Respect, Excellence are Webster’s values, these set us apart as a bank and as an employer.
+
+Come join our team where you can expand your career potential, benefit from our robust development opportunities, and enjoy meaningful work!
+
+POSITION SUMMARY
+
+The Director, Data Engineer will be responsible for maintaining and creating optimal data pipeline architecture across multiple data sources including raw and processed data. You will assemble large, complex data sets that meet functional needs of the Enterprise Data Science function. You will develop optimal data processing techniques to automate manual processes, data delivery and validation. You will assist in integrating, consolidating and cleansing the data, optimize analysis and performance, partner with multiple stakeholders to identify data sources, gaps and dependencies while ensuring data integrity and quality user experience.
+
+JOB RESPONSIBILITIES
+
+Core Job Responsibilities/Key Activities/Elements:
+Maintains existing ETL processes to optimize performance of the existing data infrastructure used by the data scientists. Develops optimal data pipeline architecture across multiple data sources aligning architecture with business requirements. Creates complex data sets that meet functional needs of data scientists and other data engineers. Assists with the data migration of legacy systems into the cloud ensuring timely data delivery, data integrity and validation. Investigates and communicates identified data gaps and dependencies. Identifies performance issues including performance monitoring and testing of the incoming data. Builds a highly scalable infrastructure using SQL, Snowflake and AWS technologies. Ensures the work remains backed up and readily accessible to relevant coworkers
+Assists data scientists in integrating, consolidating, and cleansing the data. Aids in features engineering to provide actionable insights into customer behavior, customer acquisition, operational efficiency, and other key business performance metrics
+Deploys productionized models developed by data scientists in the cloud environment
+Ensures compliance with all regulations, policies, and procedures.
+EXPERIENCE
+
+At least 5+ years with advanced SQL knowledge and experience working with relational databases, query authoring (SQL) and Python. Prior experience working with various cloud and on-premise technologies (AWS, Azure, GCP, Snowflake, Redshift, SQL/NoSQL)
+SPECIFIC JOB RELATED EDUCATION & SKILLS
+
+Candidates with advanced degrees (Associates, Bachelor’s, and/or Master’s) preferred, yet a High School diploma or GED is required. Candidates with some combination of coursework and experience, or else extensive related professional experience, are eligible for consideration
+Strong computer science foundations, including data structures & algorithms.
+Skilled in programming languages such as SQL and Python as well as working with command line interfaces and APIs.
+Experience with AWS cloud services, including S3, EC2, Snowflake
+Proven success manipulating, processing and extracting value from large disconnected datasets.
+Excellent communication, analytical and problem-solving skills
+Ability to successfully manage a pipeline of duties with minimal supervision
+The estimated salary range for this position is $130,000 USD to $150,000 USD. Actual salary may vary up or down depending on job-related factors which may include knowledge, skills, experience, and location. In addition, this position is eligible for incentive compensation.
+
+#LI-MM2
+
+#LI-REMOTE
+
+#ZR
+
+Equal Opportunity Employer Minorities/Women/Protected Veterans/Disabled

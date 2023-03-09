@@ -1,0 +1,40 @@
+Click here to learn more about the Software Engineer hiring process (https://www.ezoic.com/software-engineer-hiring-process/)
+
+Ezoic offers a dynamic and unique opportunity for self-motivated individuals who desire a fast-paced and flexible work culture. As a company, we value creative solutions from all and empower employees to explore their professional passions.
+We're currently looking for a Software Engineer to join our dynamic team to work hybrid from our Carlsbad, CA, office.
+About the role
+Your contributions will have a meaningful and visible impact on the company on a daily basis. You will be building tools for three distinct audiences:
+Our publishers, providing tools to control and customize their sites and provide feedback on key performance metrics from the artificial intelligence engine.
+Our users, creating widgets and features used across thousands of sites to provide advanced functionality, which will be automatically enabled or disabled via the Ezoic engine at a granular level.
+The Ezoic team, providing access to data and features to allow the team to analyze performance, identify issues, and make changes to manage site performance.
+Key responsibilities
+Take basic ideas for features and turn them into finished products.
+Use Go, Node, or PHP to build new products and features.
+Utilize appropriate AWS cloud services to deliver high-performance applications.
+Suggest and implement improvements to existing features.
+Construct innovative and responsive user interfaces.
+Write comprehensive unit tests.
+Test your own features for quality and deploy them when they are ready.
+Collaborate with senior engineers to design features.
+What's needed for success
+Must have at least 2+ years of relevant software engineering work experience.
+More experienced engineers are encouraged. Compensation increases with experience.
+B.S. Computer Science or related.
+Experience with at least one of: Go / Swift / Java / Python / or PHP.
+Experience with a javascript framework (We use Vue.js), HTML, and CSS.
+Web application development experience is a plus.
+A drive to solve problems.
+Life as an Ezoic Engineer
+Ezoic is a technology-first company. Our CEO is a developer by trade, and our engineers are given all the tools needed to succeed. Here at Ezoic, our engineers are empowered to make a lot of their own decisions about both design and implementation and we encourage them to come up with new ideas to improve the application. We also aim to keep a balanced approach to work-life integration, based on our philosophy that happy engineers are more productive. We want you to be working on something that you are passionate about and allow engineers to move around to keep things fresh. Ezoic also has a Mentor Program, and we match you with someone more senior than you to go to for technical advice and help set you up for success in your new role.
+What Ezoic offers
+Ezoic offers a unique work opportunity, following a modified self-organization model. This means we don't have unnecessary bureaucracy, micromanagement, or emphasis on a hierarchy. Instead, we focus on contributions and results, empowering employees to have the autonomy to decide how to do their jobs best. Ezoic balances diligent work, giving back to our communities, and enjoying personal time. We are committed to supporting humanity and the world around us through paid volunteer time.
+All employees have unlimited PTO and company-paid holidays, flexible work schedule, comprehensive benefits, retirement savings with company-match, generous parental leave, and wellness perks.
+
+Additionally, for those who work onsite at the office, employees can enjoy company-sponsored lunch 3x per week, a dog-friendly environment and fresh air with opportunities to decompress utilizing our fitness room, massage chairs, or lavish game room. We also have various snacks and drinks including a tap for kombucha, cold brew coffee, and local microbrews.
+More about Ezoic
+Ezoic is a VC-backed Google Certified Publishing Partner, is an easy-to-use, yet incredibly sophisticated machine learning platform that allows digital publishers to automatically test content, layouts, and ads to enhance user experience and increase digital revenue. The Ezoic Ad Tester solution won the Google Business Innovation Award in 2016.
+Ezoic is a global company committed to an inclusive environment, employing a diverse workforce that represents the world we live in. Qualified applicants will receive consideration without regard to race, color, religion, sex, national origin, ancestry, age, sexual orientation, gender identity, gender expression, veteran status, physical or mental disability, medical condition, marital status, or other applicable legally protected status or characteristics.
+Interested?
+We look forward to receiving your resume. Don't meet every single requirement? Studies have shown that women and people of color are less likely to apply to jobs unless they meet every single qualification. At Ezoic we are dedicated to building a diverse and authentic workplace, so if you're excited about this role and our dynamic company but your past experience doesn't align perfectly with every qualification in the job description, we encourage you to apply anyways. You may be just the right candidate for this or other roles
+
+#ZR

@@ -1,0 +1,20 @@
+Vale Group has partnered with a publicly traded company in the commercial real estate industry, based in New York, NY, who is actively searching for an experienced Business Intelligence Developer to work HYBRID (4 Days in Office, 1 from home) - New York, 10018
+Candidates must reside in NY and be eligible to work in the United States (no C2C or sponsorship available)
+The ideal Business Intelligence Developer candidate will have experience in the software development life cycle on an enterprise-level scale and be able to use project management and analysis skills to design and implement data management and analysis solutions.
+This Business Intelligence Developer opportunity pays up to $120k and includes an annual bonus and full benefits.
+Preferred Tech Stack: AZURE, SQL, Python, Powershell, Tableau, PowerBI, Salesforce
+Business Intelligence Developer requirements:
+4+ years of experience
+Bachelor's Degree in Computer Science, Engineering is a plus
+Agile or Lean Project Management experience
+Business Intelligence Developer responsibilities:
+Design, develop, test, and deploy data analytics solutions to solve business challenges
+Employ Lean and Agile methodologies to plan and complete projects within determined timelines
+Utilize SDLC best practices to deliver functional products
+Work closely with internal and external auditors on requests
+Collaborate with internal departments on process improvement projects
+Maintain up-to-date knowledge on industry trends
+
+#LI-BC17
+#INDHP
+#LI-HYBRID

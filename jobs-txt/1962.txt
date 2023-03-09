@@ -1,0 +1,22 @@
+Database Administrator - - ( 220R2 )
+Description
+
+The Database Administrator is responsible for day-to-day administration and maintenance of database systems, developing and implementing database administration policies and procedures, managing database performance tools, and collaborating with information services counterparts to prioritize and support application database needs. The policies and procedures shall provide guidelines for installations, upgrades, backups, and database configuration ensuring that databases are:
+Maintained for integrity, performance, and availability
+Recoverable from a failure or disaster
+Protected from unauthorized access
+Supported for development and testing to allow efficient access by in house programs
+
+The Database Administrator will work with application teams and technology counterparts to assure appropriate monitoring of database performance metrics, alert stakeholders as appropriate, prioritize database needs, and analyze and resolve database administration issues.
+
+Qualifications
+
+Minimum of an Associate’s degree, preferably in a math, science, or technology related field of study. Bachelor’s degree preferred.
+Process and system analysis skills. Ability to assist with the identification of problems and opportunities and ensure efficient computer utilization.
+
+Primary Location : US-NY-Glens Falls
+Job : Professional - Data Management & Analytics
+Schedule : Regular
+Job Type : Full-time
+Scheduled Time of Shift (format example: 7a-7p, 8a-4:30p) : 8a-4:30p
+Job Posting : Aug 10, 2022, 1:46:02 PM

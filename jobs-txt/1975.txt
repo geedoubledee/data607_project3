@@ -1,0 +1,20 @@
+_Job Title : GCP Data Engineer
+_
+Client : Implementation Partner
+Location : 100% Remote
+Requirements:
+GCP Data Engineer with 6 to 8+ years of experience in Data Analytics and Big Data.
+Responsible for extract, transform and load (ETL) processes and the creation of applications that can connect to remote APIs. Preferably including streaming data into environments such as BigQuery on Google Cloud Management Platform.
+Preferred Experience in implementing Data Pipelines leveraging Google Cloud products such as Cloud BigQuery, GCS, Cloud DataFlow, Cloud Pub/Sub, Cloud BigTable.
+Strong background in Python programming skills
+Good experience in implementing data pipelines
+Have a good understanding of Google best practice/recommendation and should be able to align the same with the customer requirements to deliver best in class solutions for the customer’s Analytics requirements.
+A strong background and exposure to databases, including both relational (e.g. PostgreSQL, MySQL) and NoSQL (e.g. Redis, Cassandra, MongoDB) database systems
+Familiarity with real time streaming and processing of various data sources, including logs, time series telemetry data, unstructured social data and relational data
+Would be preferred to have been a part of implementation/migration of a Data Warehouse and Big Data (Hadoop) project from on-prem to GCP (using Google BigQuery, DataFlow, DataProc etc.)
+Work closely with the Operations team to tune existing and new architecture.
+Job Type: Contract
+Pay: $50.00 - $60.00 per hour
+Schedule:
+8 hour shift
+Work Location: Remote

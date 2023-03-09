@@ -1,0 +1,47 @@
+Machine Learning Engineer
+About CoVar
+CoVar is a small AI/ML R&D software company in Durham, NC, that uses artificial intelligence to solve problems that matter. We develop AI/ML tools to help the DoD detect enemies and threats, help biomedical researchers find new cures for diseases, and help monitor machinery to prevent injuries and environmental catastrophes. We are passionate engineers, dedicated to pushing the bounds of what AI/ML can do in the real world.
+About this position
+You will help CoVar develop software and machine learning algorithms to solve real-world customer problems. You will work with data, develop algorithms, evaluate results, and write the production code that goes onto real-world systems. You will have the opportunity to present your work to high-level customers in the DoD and in the industry. The position includes opportunities to publish novel work in both classified and unclassified settings.
+Qualifications
+Applicants should have expertise in Python (including NumPy, pandas, and other packages) and either PyTorch or TensorFlow. Deep understanding of machine learning fundamentals (gradient descent, cross-validation, ROC curves, confusion matrices) are necessary. Knowledge of classical machine learning (e.g., support-vector-machines, logistic regression) are valued. Applicants are ideally familiar with computer vision algorithms like object detection networks (e.g., YOLO, CenterNet) and modern image classification techniques. Previous experience with DoD customers is a plus.
+Minimum qualifications
+Software expertise: Python and associated numerical and analytics packages (NUMPY, PANDAS, etc.); git; PYTORCH or TensorFlow; CI/CD pipelines and regression testing.
+AI/ML expertise: Machine learning fundamentals; Deep knowledge of state-of-the-art in any of the following: computer vision (preferred), natural language processing, classical machine learning, Bayesian models, etc.
+B.S., preferably M.S. or Ph.D in engineering, math, computer science, or related field
+Excellent technical communication skills
+Ability to work in Durham, NC (relocation assistance available)
+Eligibility for US security clearance
+Bonus skills
+Department of Defense project experience
+Benefits
+Competitive salary, cash bonus, equity structure, and 401k with employer contributions
+Excellent health care coverage, including dental and vision plans
+Flexible work schedule
+Tuition support
+Visit us: www.covar.com
+Job Type: Full-time
+Benefits:
+401(k)
+401(k) matching
+Dental insurance
+Flexible schedule
+Health insurance
+Paid time off
+Relocation assistance
+Tuition reimbursement
+Vision insurance
+Schedule:
+8 hour shift
+Monday to Friday
+Supplemental pay types:
+Bonus pay
+Ability to commute/relocate:
+Durham, NC 27707: Reliably commute or willing to relocate with an employer-provided relocation package (Preferred)
+Application Question(s):
+Are you eligible for a US security clearance? (Required)
+Education:
+Bachelor's (Preferred)
+Experience:
+Python: 3 years (Preferred)
+Work Location: Hybrid remote in Durham, NC 27707

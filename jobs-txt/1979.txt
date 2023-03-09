@@ -1,0 +1,52 @@
+Date: Nov 16, 2022
+Location: Rome, NY, New York, United States
+Company: HII's Mission Technologies division
+Requisition Number: 11489
+Required Travel: 0 - 10%
+Employment Type: Full Time/Salaried/Exempt
+Hours Per Week: 40
+Security Clearance: Secret
+Level of Experience: Senior
+HII
+Job Description
+HII is seeking energetic self starters who enjoy exploring the art of the possible. We are seeking an Oracle Database Administrator who likes to use their
+creativity to solve complex, non-standard problems in the realm of database management. The position is with top researchers in the Air Force's Information
+Directorate working along side engineers and visionaries seeking to provide the tactical edge to our service men and women.
+The position is responsible for designing, implementing, maintaining, and administering database management systems which support
+mission-critical operations. Position ensures the availability, integrity, security, efficiency, survivability and reliability of databases. Position develops standards and procedures;
+consults with departments/users to determine system needs, analyzes requirements, and conducts feasibility studies; conducts system audits and tests;
+performs database system management activities; and develops documentation.
+Essential Job Responsibilities
+Implements and maintains smooth operation and physical design of databases. Conducts performance tuning of indexes and databases in general. Reviews database design and integration of systems, provides backup recovery and makes recommendations regarding enhancements and/or improvements. Maintains security and integrity controls. Formulates policies, procedures, and standards relating to database management, and monitors transaction activity and utilization.
+Strong and solid experience of database administration in a cloud environment. Experience with replication/clustering and partitioning a must
+Expertise in distributed database environments concerned with the survivability of the data and uninterrupted access of the data.
+Develop back up and data survivability planning and execution
+SQL and No SQL (like Mongo DB)
+Proficient in writing complex queries/SPROC/Functions/Triggers/Views based on the business requirements and Assist with schema design, code review, SQL query tuning, upgrade and improve application schema and data upgrades
+Very good Knowledge of indexes, index management, statistics, data-at-rest encryption, secure connectivity.
+Determines requirements and guidelines for database system/server backups; and develops, tests, and implements plans for database recovery.
+Develops and administers database security systems and procedures to safeguard databases against accidental or unauthorized modification, destruction, or disclosure.
+Develops database system performance standards and criteria; conducts system tests to determine the integrity of the database; and makes necessary changes.
+Diagnoses and troubleshoots system failures and determines logical solutions to complex system administration problems.
+Monitors and analyzes database management system/server usage and performance factors (i.e.: CPU time, response time, disk usage, distribution of records, and core requirements); and restructures the system for optimal performance.
+Develop and implement systems enhancements, upgrades, and improvements.
+Designs and implements a data archive plan for retaining and disposing of data files.
+Prepares and maintains documentation of database system operations.
+Must to have good communication skill with the problem solving capabilities.
+Must possess a demonstrated ability to analyze and resolve system problems related to database design and systems operations
+Provide guidance and support to Application Developers
+
+Minimum Qualifications
+15+ years relevant experience with Bachelors in related field; 13+ years relevant experience with Masters in related field; or High School Diploma or equivalent and 19+ years relevant experience.
+Position requires a minimum of a Secret security clearance with the ability to obtain a Top Secret clearance.
+Preferred Requirements
+Oracle, DBA, Golden gate, RAC, scripting
+Basic Unix/Linux/windows administration
+Oracle Golden Gate and Data guard knowledge
+Physical Requirements
+Job Performance will normally require only minor lifting and carrying of boxes of records or equipment.
+This opportunity resides with Intelligence, Surveillance and Reconnaissance, a business group within HII’s Mission Technologies division. From towers to processors, we design, develop, integrate and manage the sensors, systems and other assets necessary to support integrated intelligence, surveillance and reconnaissance (ISR) operations, exploitation and analysis for the Intelligence Community, the military services, geographic and functional combatant commands and DoD agencies.
+
+HII is a global engineering and defense technologies provider. With a 135-year history of trusted partnerships in advancing U.S. national security, HII delivers critical capabilities ranging from the most powerful and survivable naval ships ever built, to unmanned systems, ISR and AI/ML analytics. HII leads the industry in mission-driven solutions that support and enable a networked, all-domain force. Headquartered in Virginia, HII’s skilled workforce is 44,000 strong. For more information, please visit: hii.com.
+
+HII is an Equal Opportunity/Vets and Disabled Employer. U.S. Citizenship may be required for certain positions.

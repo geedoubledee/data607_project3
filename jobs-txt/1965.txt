@@ -1,0 +1,71 @@
+Formed in 2011, INADEV is focused on its founding principle to build innovative customer-centric solutions incredibly fast, secure, and at scale. We deliver world-class digital experiences to some of the largest federal agencies and commercial companies. Our technical expertise and innovations are comprised of codeless automation, identity intelligence, immersive technology, artificial intelligence/machine learning (AI/ML), virtualization, and digital transformation.
+RESPONSIBILITES:
+The Business Analyst (BA) performs systems development lifecycle activities including analysis, requirements, design, development, testing, and implementation of products, information systems, and business processes in a variety of technical environments.
+Follow best practices and develop and improve upon procedures consistent with task requirements, using analytical thinking and communication techniques to rapidly assimilate various types of information and identify which are relevant.
+Assist with requirements and prioritization activities including elicitation, analysis, design, testing, and implementation of products, information systems, and business processes in a data environment.
+Understands prioritization techniques to align requirements with vision and works with end users and business stakeholders to translate business questions and goals into requirements for reports, dashboards, BI query objects, and source data systems.
+Work closely with experienced analysts or project leaders to seek guidance and added instructions.
+Participate in strategic planning and evaluate and recommend technical solutions.
+Evaluates problems of workflows, organization, and technology and helps the team develop appropriate corrective action
+Be the Subject-Matter Expert (SME) on business requirements, user needs, and value.
+* Consult with and advise the PO based on own understanding and expertise.
+* Be able to represent the PO's needs and wishes to the development team.
+* Understand the business value of each item in the backlog and be able to help the PO prioritize the best order for maximizing return on investment (ROI).
+Be an expert on the current system's use and capabilities.
+* Provide training/instruction on how to use the system and explain the system's observable behavior.
+* Authority on the expected behavior of the system, including determining if a bug report is a defect or expected behavior.
+Be an Expert on how to write excellent epics, user stories and acceptance criteria and other scrum artifacts
+* Define what a good epic and a user story is.
+* Be able to assist the Product Owner (PO) in creating good user stories (with the assistance of the team, where necessary).
+* Write/edit user stories and acceptance criteria when the PO is not able to.
+* Own the "Definition of Ready", with the team's assistance on the "Definition of Ready".
+* Work closely with the developers and the test engineers to come to an agreement on the acceptance criteria for all user stories.
+Own the prioritization of stories (the PO sets the priorities; the BA owns that the list is accurate).
+Ensure that the PO is available to the team.
+* Help the PO prioritize their availability.
+Ensure that the team is completing Office of Information Technology (OIT) requests.
+* Help make sure that OIT and the PO are connected on priorities and deliverables.
+Be a gatekeeper of Quality.
+* Ensure the requirements are clear enough to test and edge cases have been addressed.
+* Lead the way and set a great example of checking that stories meet the Acceptance Criteria, are well done, and meet the "Definition of Done."
+Acts as a backup functional tester when required
+NON-TECHNICAL REQUIREMENTS:
+Must be a U.S. Citizen
+Ability to pass a 7-year background check and obtain/maintain a DHS-USCIS Entry on Duty (EOD) Clearance.
+MANDATORY REQUIREMENTS:
+Bachelor’s degree and 4+ years of pertinent Business Analysis experience.
+4+ years’ of experience working within Agile Frameworks, such as Scrum or Kanban
+Proficient in using JIRA
+Works closely with the Product Owner to clarify requirements
+Proficient in creating reasonable and accurate time estimates for assigned tasks
+Excellent communication skills to be able to interact directly with non-technical client stakeholders and act in a business-to-technical translation role, including generating effective visualizations
+DESIRED SKILLS:
+Active/Current DHS-USCIS Entry on Duty (EOD) Clearance/Investigation
+PHYSICAL DEMANDS:
+Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions
+INADEV Corporation does not discriminate against qualified individuals based on their status as protected veterans or individuals with disabilities and prohibits discrimination against all individuals based on their race, color, religion, sex, sexual orientation/gender identity, or national origin.
+Job Type: Full-time
+Pay: $80,000.00 - $110,000.00 per year
+Benefits:
+401(k)
+401(k) matching
+Dental insurance
+Flexible spending account
+Health insurance
+Health savings account
+Life insurance
+Paid time off
+Vision insurance
+Schedule:
+8 hour shift
+Application Question(s):
+This position requires the ability to obtain/maintain a U.S. Government Clearance, which requires U.S. Citizenship. Do you meet these mandatory requirements?
+Education:
+Bachelor's (Required)
+Experience:
+Business analysis: 4 years (Required)
+Agile: 4 years (Required)
+Jira: 1 year (Required)
+Security clearance:
+Confidential (Required)
+Work Location: Remote

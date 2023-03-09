@@ -1,0 +1,24 @@
+Job Description :
+Remote
+At least 3 years experience in multiple projects doing:
+Required:
+Data catalog curation; landing page, articles, tags, profiling, search, conversations, endorsements, notifications, deprecations
+Training/mentoring of data catalog stewards
+Writing, maintaining, executing data catalog processes, maintain it run book
+Preferred:
+Data catalog administration; add and configure data sources, metadata extract, query log ingestion, data sampling and compose query editor
+Experience establishing, monitoring, reporting data catalog metrics for Alation Analytics
+Job Type: Contract
+Pay: $55.00 - $70.00 per hour
+Benefits:
+Dental insurance
+Health insurance
+Vision insurance
+Schedule:
+8 hour shift
+Monday to Friday
+Experience:
+Training/mentoring of data catalog stewards: 3 years (Required)
+Writing, maintaining, executing data catalog: 3 years (Required)
+Data catalog curation: 3 years (Required)
+Work Location: Remote

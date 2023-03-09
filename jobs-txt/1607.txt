@@ -1,0 +1,40 @@
+Job Description Summary
+Vanguard’s Center for Analytics and Insights is seeking a Machine Learning Data Engineer with a desire to join a fast and versatile team focused on cutting-edge machine learning and deep learning technologies. We provide our clients with immediate business impact through technology solutions that are tailored to their data and business needs. You will work with a dynamic team of researchers, engineers, and data scientists, collaborating on delivery of new machine learning algorithms and their applications. We are looking for individuals who are excited about being exposed to new problems and challenges while working in a flexible environment.
+Requirements
+Creates sophisticated data solutions to business problems.
+Translates business specifications into design specifications and code. Ensures that all code is developed in a well-structured and modularized fashion.
+Continues to discover and implement new data sources and data integration techniques that are beneficial to clients
+Keen on learning about various tools and techniques for data wrangling and pipelining. Heavy focus on ML and AI aspects of data engineering.
+Partners with internal clients to enhance understanding of business functions and informational needs. Maintains a broad understanding of Vanguard’s technologies, tools, and applications, including those that interface with business area and systems.
+Understands, complies with and enforces team policies and procedures, especially those for quality and productivity standards that enable the team to meet established milestones
+Help drive optimization, testing, and tooling to improve quality
+Prototype new approaches and production-ize solutions at scale
+Collaborate with a cross functional agile team spanning user research, design, data science, product management, and engineering to build new product features
+Qualifications
+MS or higher preferred in the fields of Computer Science, Data Science, Information Technology etc.
+Strong SQL and query performance tuning skills. Proficient in any of the scripting languages (Python, R,Scala, Java etc. )
+Strong problem solving, planning, and communication skills
+Familiarity with Dockers, REST APIs, Web Scraping, AWS or similar cloud services is a must
+Familiar with big data frameworks such as Hadoop, Spark in Java/Python/Scala
+Knowledge of parallel processing and distributed computing is a must
+Hands-on experience in deep learning frameworks such as TensorFlow and Keras is a plus
+About Vanguard
+We are Vanguard. Together, we’re changing the way the world invests.
+For us, investing doesn’t just end in value. It starts with values. Because when you invest with courage, when you invest with clarity, and when you invest with care, you can get so much more in return. We invest with purpose – and that’s how we’ve become a global market leader. Here, we grow by doing the right thing for the people we serve. And so can you.
+We want to make success accessible to everyone. This is our opportunity. Let’s make it count.
+Special Factor
+Vanguard is not offering visa sponsorship for this position.
+About Vanguard
+We are Vanguard. Together, we’re changing the way the world invests.
+For us, investing doesn’t just end in value. It starts with values. Because when you invest with courage, when you invest with clarity, and when you invest with care, you can get so much more in return. We invest with purpose – and that’s how we’ve become a global market leader. Here, we grow by doing the right thing for the people we serve. And so can you.
+We want to make success accessible to everyone. This is our opportunity. Let’s make it count.
+Inclusion Statement
+Vanguard’s continued commitment to diversity and inclusion is firmly rooted in our culture. Every decision we make to best serve our clients, crew (internally employees are referred to as crew), and communities is guided by one simple statement: “Do the right thing.”
+We believe that a critical aspect of doing the right thing requires building diverse, inclusive, and highly effective teams of individuals who are as unique as the clients they serve. We empower our crew to contribute their distinct strengths to achieving Vanguard’s core purpose through our values.
+When all crew members feel valued and included, our ability to collaborate and innovate is amplified, and we are united in delivering on Vanguard's core purpose.
+Our core purpose: To take a stand for all investors, to treat them fairly, and to give them the best chance for investment success.
+Future of Work
+During the pandemic, we transitioned to a work from home model for the majority of our crew and we continue to interview, hire, and on-board future crew remotely.
+As we have developed the path forward, we have taken a thoughtful approach that both maximizes the advantages of working remotely and the many benefits of coming together and collaborating in a shared workspace. We believe that in-person interactions among our crew are important for preserving our unique culture and advantageous for the personal development of our crew.
+When our Crew return to the office, many will work in our hybrid model. A smaller proportion of our crew will operate in the Work from Home work model (for example, field sales crew); or in the Work from Office model (for example, portfolio managers).
+The working model that your role falls into will be communicated to you in the interview process – please do ask if you are unsure. We encourage you to make the decision regarding your job interview and offer knowing which model your role will fall into. We will test and learn as our ways of working evolve and will continue to evaluate working models along the way.

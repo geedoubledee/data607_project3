@@ -1,0 +1,61 @@
+Compass Corporate
+Salary: [[$100,000-115,000k]]
+A family of companies and experiences
+As the leading foodservice and support services company, Compass Group USA is known for our great people, great service and our great results. If you’ve been hungry and away from home, chances are you’ve tasted Compass Group’s delicious food and experienced our outstanding service. Our 225,000 associates work in award-winning restaurants, corporate cafes, hospitals, schools, arenas, museums, and more in all 50 states. Our reach is constantly expanding to shape the industry and create new opportunities for innovation. Join the Compass family today!
+great people. great services. great results.
+Each and every individual plays a key role in the growth and legacy of our company. We know the next big idea can come from anyone. We encourage developing and attracting expertise that differentiates us as a company as we continue to raise the bar.
+Job Summary
+The Compass EASST Database Administrator is responsible for administrating and monitoring enterprise class database technologies. This individual will be responsible with maintaining existing databases, adding new databases, troubleshoot and fix PROD and non-PROD issues, support internal and external projects.
+The Database Administrator works as a member of the Database Administration team and is charged to understand the goals/objectives of that team and how it supports those of the Enterprise Architecture and Shared Services Technology division.
+Job Responsibilities
+Perform scheduled maintenance and support release/deployment activities during and after business hours
+Implement approved database configuration changes
+Perform data restoration and recover activities as needed
+Provide 24x7 support for critical production systems
+Participate in on-call rotations
+Must be available for remote call-out support and to perform remote system maintenance when needed after normal business hours
+Perform database administration maintenance activities while maintaining high database system availability and reliability for business applications
+Manage databases through multiple product lifecycle environments, from development to mission-critical production systems
+Configure and maintain database servers and processes, including monitoring of system health and performance, to ensure high levels of performance, availability, and security
+Document and update processes as needed
+Job Qualifications
+Expertise in administration of SQL Server versions 2012 and above in a replication and Always On Availability environment
+Experience with AWS
+Experience in PowerShell
+Experience in using performance monitoring tools built in SQL Server as well as tools like Zabbix, Foglight, Dynatrace, Splunk etc., to analyze and isolate issues, and work with Development teams to resolve them
+Experience with backups, restores and recovery models
+Ability to multi-task and context-switch effectively between different activities and teams * Bachelor’s degree in computer science, or combination of education and experience
+At least 3 years of experience as a SQL Server DBA
+Strong verbal and written communication skills (English)
+Strong critical thinking and problem-solving skills
+Positive attitude and solutions-oriented thinking
+Ability to communicate technical concepts to both technical and non-technical audiences
+PREFERRED
+Familiar with Windows and Linux operating systems PREFERRED
+Experience with administration of at least one of these databases: DB2, MongoDB, MySQL, Postgres, DocumentDB
+Apply to Compass Group today!
+Click here to Learn More about the Compass Story
+Compass Group is an equal opportunity employer. At Compass, we are committed to treating all Applicants and Associates fairly based on their abilities, achievements, and experience without regard to race, national origin, sex, age, disability, veteran status, sexual orientation, gender identity, or any other classification protected by law.
+Qualified candidates must be able to perform the essential functions of this position satisfactorily with or without a reasonable accommodation. Disclaimer: this job post is not necessarily an exhaustive list of all essential responsibilities, skills, tasks, or requirements associated with this position. While this is intended to be an accurate reflection of the position posted, the Company reserves the right to modify or change the essential functions of the job based on business necessity. *Los Angeles applicants: Compass Group will consider for employment qualified applicants with criminal histories in a manner consistent with the requirements of the Los Angeles Fair Chance Initiative for Hiring (Ban the Box ordinance)
+Positions at this location may require proof of COVID-19 vaccination, boosters, and/or regular COVID testing. Where permitted by law, applicants who are offered a position for this location may be asked about their vaccination status, which must meet minimum business requirements. All religious, medical, or other legally recognized exemptions regarding vaccination status will be considered.
+Associates at Corporate are offered many fantastic benefits.
+Medical
+Dental
+Vision
+Life Insurance/ AD
+Disability Insurance
+Retirement Plan
+Paid Time Off
+Holiday Time Off (varies by site/state)
+Associate Shopping Program
+Health and Wellness Programs
+Discount Marketplace
+Identity Theft Protection
+Pet Insurance
+Commuter Benefits
+Employee Assistance Program
+Flexible Spending Accounts (FSAs)
+Req ID: 1121330
+Compass Corporate
+Christopher McMullens
+[[req_classification]]

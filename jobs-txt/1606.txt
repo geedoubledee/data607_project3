@@ -1,0 +1,13 @@
+The Director of Data Science is the chief architect of BioMADE’s Digital Backbone, which enables biomanufacturing innovation across Member institutions at the national level. This position is responsible for designing and integrating digital solutions essential for developing, optimizing and scaling advanced biomanufacturing capabilities. This includes strategies for advanced analytics and machine learning, with a demonstrated ability to extract actionable knowledge from datasets large and small, and applying them to R&D manufacturing challenges. They will oversee the Digital Backbone Roadmap which articulates digital and data analytic needs, and will lead a team of data scientists.
+Key Responsibilities:
+Oversee and implement the strategy for BioMADE’s Digital Backbone, a multi-institution digital framework for biomanufacturing innovation at the national level. Ensure that the BioMADE system is integrated into member’s digital infrastructure.
+Develop comprehensive data sciences strategy for advanced analytics, statistical modeling, machine learning and algorithms for extracting knowledge from small or large datasets.
+Manage the Digital Backbone Technology Roadmap development and implementation across the BioMADE ecosystem. Lead development of Project Calls directed at the Digital Backbone.
+Apply data science techniques to accelerate innovation in bio-manufacturing scaleup activities.
+Develop security and access models so that digital assets are protected, but meets a broad range of user needs with agility and velocity.
+Establish and oversee a sustainable data governance process for the Digital Backbone, enduring compliance with data and data protection regulations. Establish and oversee training and support for the digital infrastructure.
+Prepares and monitors budgets and metrics that measure the effectiveness and value created from the Digital Backbone.
+Delivers oral and written communication to summarize results and influence direction?of BioMADE’s Digital Backbone.
+Manage, mentor, and evaluate BioMADE’s data science team.
+Partners with Director of Cyberinfrastructure to ensure robust cyberphysical security is maintained.
+Other duties as assigned.

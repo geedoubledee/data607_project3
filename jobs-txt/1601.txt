@@ -1,0 +1,71 @@
+ECS is seeking a Data Scientist (Data Analytics) to work in our Washington, D.C. office.
+ECS is currently searching for a full-time Data Scientist to support one of the most innovative, exciting, and growing offices at the Department of Veterans Affairs (VA). The Data Scientist will be helping Multi-Channel Technologies (MCT), an arm of the Veterans Experience Office, to transform VA’s ability to serve Veterans and deliver world-class customer experience through improved program, data science, and analytical capabilities. As part of its mission to better understand customer needs and preferences, MCT is working to standardize reporting and analytics enterprise-wide, gaining actionable insights to improve the Veteran and employee experience. The position will include work with contact center telephony and customer relationship management (CRM) systems, looking at ways to surface valuable insights, making recommendations as it relates to AI, automation, and NLP. We are looking for a self-starter, someone with an entrepreneurial spirit, not afraid to take an idea from its inception and turn it into an efficiency building, innovative success!
+ROLE:
+Data mining, statistical and graph-based algorithms via technologies like R and Python
+Support efforts to improve the policies, procedures, and tools the agency has at its disposal to improve data quality
+Reviewing application and enterprise data models (conceptual, logical, physical) to identify data quality problems
+Configuring test and training data sets for use by team members
+Working with VA system owners to identify needed changes (i.e. technical, process, policy, etc.) to prevent future recurrence of identified issues
+Required Skills:
+Must have a Public Trust Clearance
+Must have AI and NLP experience
+BA/BS Degree in a quantitative discipline
+5 years minimum of relevant experience
+Experience using analytical tools, such as R/R Studio, Python, SAS, SQL, or advanced data quality analysis toolkits
+Good analytical skills with a focus on critical thinking, problem-solving, numeric reasoning, and creativity
+Familiarity with transaction, OLAP, and data warehouse data models
+Experience with data standardization and data governance processes
+Demonstrated strong communication and presentation skills (particularly to non-technical audiences)
+Good team player, able to manage multiple assignments, and adapt to changing client needs
+Ability to work in a dynamic, collaborative, results-driven environment
+Desired Skills:
+MA/MS in related field (Data Science, Operations Research, Statistics, Applied Mathematics, etc.) preferred
+CRM Systems experience
+Experience designing and developing analytic algorithms and techniques in support of robotic processing automation, machine learning, and/or other forms of artificial intelligence
+Experience working with Veterans Affairs (VA), Veterans Benefits Administration (VBA), and/or Veterans Health Administration (VHA) preferred
+Experience with PowerBI
+Experience working with contact centers
+Experience working with data quality and business improvement initiatives preferred
+Ability to create and maintain reports using python/R or SQL
+Ability to code in Python and familiarity with packages like Pandas, Numpy etc.
+Solid experience in writing SQL queries
+Experience in analyzing data to draw business-relevant conclusions and in data visualization techniques and tools
+Strong knowledge of Excel, MS Office, Data /Visualization, SQL
+Ability to identify anomalies within extensive datasets, recognize trends, draw conclusions, and make recommendations.
+Strong written and verbal communication skills including technical writing skill
+ECS is an equal opportunity employer and does not discriminate or allow discrimination on the basis of race, color, religion, gender, age, national origin, citizenship, disability, veteran status or any other classification protected by federal, state, or local law. ECS promotes affirmative action for minorities, women, disabled persons, and veterans.
+ECS is a leading mid-sized provider of technology services to the United States Federal Government. We are focused on people, values and purpose. Every day, our 3000+ employees focus on providing their technical talent to support the Federal Agencies and Departments of the US Government to serve, protect and defend the American People.
+Job Types: Full-time, Contract
+Pay: $90,000.00 - $100,000.00 per year
+Benefits:
+401(k)
+401(k) matching
+Dental insurance
+Employee assistance program
+Employee discount
+Flexible spending account
+Health insurance
+Health savings account
+Life insurance
+Paid time off
+Parental leave
+Professional development assistance
+Referral program
+Retirement plan
+Tuition reimbursement
+Vision insurance
+Schedule:
+Monday to Friday
+COVID-19 considerations:
+Following CDC health safety guidelines
+Application Question(s):
+Do you have a BA/BS Degree in a quantitative discipline and 5 years or more of relevant experience?
+Do you have experience in extracting data and building recurring reports for different business users and performing the exploratory analysis?
+Do you have experience with Power BI? If yes, please rate yourself (beginner, proficient, expert):
+Do you have experience with using analytical tools, such as R/R Studio, Python, SAS, SQL, or advanced data quality analysis toolkits
+Are you eligible to obtain a public trust clearance?
+Do you require work visa sponsorship now or in the near future?
+Salary expectations:
+Do you have familiarity with transaction, OLAP, and data warehouse data models?
+Do you have experience with data standardization and data governance processes? If yes, what tools do you have experience with using for data standardization and/or data governance?
+Work Location: Remote

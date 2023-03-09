@@ -1,0 +1,22 @@
+Azurity Pharmaceuticals, Inc. is a fast-growing pharmaceutical company focusing on the needs of patients requiring customized, user-friendly drug formulations, especially children and the elderly. Azurity’s products have benefited millions of patients whose needs are not served by other commercially available therapies. For more information, visit www.azurity.com.
+Azurity's success is attributable to our incredibly talented, dedicated team that focuses on benefiting the lives of patients by bringing the best science and commitment to quality into everything that we do.
+Mission:
+Implement the data models and data structures needed for each use case as defined by the Data Architect, in the most convenient format to be used by the Data Scientist
+Own the structural elements of data, e.g., data storage, data piping, interfacing with analytics platforms
+Participate in data requirements, modelling and testing
+Tasks & responsibilities:
+Provide technical support related to data structures, data models and meta data management to relevant stakeholders
+Creates data models, providing the right format and structure for the use case solutions
+Participate in early data modeling and testing for use case development, provide input on how to improve proposed solutions and implement necessary changes
+Extract relevant data to solve analytical problems; ensure development teams have the required data
+Interact with the business ([function]) to understand all data requirements to develop business insights and translates them into data structures and data models, in close collaboration with Data Architect
+Work closely with IT/IM teams on internal data acquisition (e.g., CRM, ERP) and with Data Architect for external data acquisition
+Knowledge & experience:
+5+ years’ experience with advanced data management systems (e.g., PostgreSQL, etc.)
+Deep expertise in data modeling and structuring
+Experience in high volume data environments
+Ability to quickly learn new technologies
+Developing and maintaining formal documentation that describes data and data structures including data modelling
+Strong attention to detail and an ability to think critically and conceptually
+Team oriented and flexible with proven track record in collaborating with multiple stakeholders
+Strong verbal and written

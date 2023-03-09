@@ -1,0 +1,32 @@
+Hippo Education is on a mission to empower the people of medicine to learn, grow, and thrive by creating education and community. Our hard working and quick-to-laugh crew creates exceptional medical education products through our technology platform that hosts podcasts, video courses, and more to keep clinicians up-to-date and at their best. We have a team of over 50 with some working at the main studio in Los Angeles while most of us work remotely all across the US. Hippo’s a fantastic place to work and we’re genuinely proud of the impact we have on clinicians and their patients.
+In this hybrid role as a DevOps / Data Engineer, you'll be instrumental in designing and supporting the cloud infrastructure for our products, as well as developing data pipelines and platform components to enable analytics insights. In your role, you’ll have the opportunity to make a big impact within our small team, with plenty of room to grow, helping to shape our team and culture. Collaboration and a passion for solving challenging problems will be key to your success.
+Required Skills:
+Advanced experience with AWS or other cloud providers (Elastic Beanstalk, RDS, Lambda)
+Proficiency building and maintaining scripts, code, and build tools for automation, process, and performance improvement
+Experience building ETLs against various sources, including REST endpoints
+Experience with SQL profiling, performance tuning and data ingestion into Data Warehouses
+Experience with implementation, maintenance, and monitoring of cloud services to maximize uptime and other performance metrics
+A track record of building resilient systems with disaster recovery in mind
+Excellent communication skills
+A great sense of humor, optimism, and collaboration
+Bonus points for experience with:
+Working with fast paced and high-performance Agile teams
+Experience writing API methods (GraphQL, RESTful APIs, using Node.js or other languages)
+Configuring and maintaining alerting and reporting tools to monitor the health and performance of infrastructure
+Familiarity with build tools (Jenkins, GitHub Actions)
+BA/BS degree in Computer Science, Information Technology, or related, or equivalent experience
+Details
+Full time with remote / telecommute option
+Competitive salary, vacation, 401(k) match, health, vision, and dental insurance
+Job Type: Full-time
+Pay: $105,000.00 - $125,000.00 per year
+Benefits:
+401(k) matching
+Dental insurance
+Health insurance
+Vision insurance
+Schedule:
+Monday to Friday
+Application Question(s):
+What US State do you reside in?
+Work Location: Remote

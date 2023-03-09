@@ -1,0 +1,31 @@
+Experience with HA/DR technologies like Failover clustering, Availability groups, Log shipping, Peer-2-Peer replication
+Mongo:
+Experience managing MongoDB from day-to-day operations, backup/restores, index/query tuning, good data management concepts and performance monitoring
+Knowledge of the extensive list of configuration options for MongoDB enterprise
+Experience deploying and maintaining different MongoDB topologies from standard replica set topologies, PSA topologies and more complex sharded cluster topologies, in a single data center or across multiple data centers
+Strong experience with installing, configuring and automating using MongoDB OPS manager
+Redis:
+Experience with implementing and designing databases solutions utilizing Redis
+Experience with cross data center replication with CRDB, Redis on flash and sharding with Redis databases
+AMQ and Kafka:
+Experience with Middleware technologies like AMQ, Kafka in high volume environments
+AMQ, Artemis, RabbitMQ with site-to-site message forwarding
+Familiar with designing and implementing proper HA architecture for messaging systems
+Common duties:
+Participate in implementing data models, database designs and data access controls
+Contribute to code review process
+Monitor, troubleshoot, and resolve database performance, stability, and storage issues
+Tune databases’ performance
+Mentor entry level database talent
+Manage variety of data storage systems’ security
+Automate tasks related to their work
+Job Types: Full-time, Contract
+Pay: $45.00 - $50.00 per hour
+Schedule:
+8 hour shift
+Monday to Friday
+Experience:
+Managing and Designing databases: 5 years (Required)
+Database administration: 5 years (Required)
+AMQ, Kafka: 3 years (Required)
+Work Location: Remote

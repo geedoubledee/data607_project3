@@ -1,0 +1,49 @@
+ICF is looking for a skilled Business Intelligence (BI) Developer to join our growing data visualization team and build innovative tools and services that address complex issues at the intersection of data analytics, metric reporting, and design. Working at ICF means applying a passion for meaningful work with intellectual rigor across a range of domains. Smart, compassionate, innovative, committed, ICF employees tackle unprecedented challenges to benefit people, businesses, and governments around the globe. We believe in collaboration, mutual respect, open communication, and opportunity for growth.
+What you will be doing:
+Work independently and as a member of a multi-functional, dynamic, multi-disciplinary team to setup and manage dynamic data visualizations and dashboards using a variety of Tableau products
+Work with clients to choose the right indicators and visualizations to tell compelling stories from complex data
+Demonstrate excellent communication skills with the ability to communicate effectively with end-users, the development team, and management.
+Produce readable, straightforward documentation for BI dashboards and record comprehensive trainings for delivery to end-users.
+Perform multi-step data analysis tasks starting with unstructured datasets. Clean and parse raw data, load datasets into different platforms and develop visualizations and reports for presentation to decision makers.
+Tools you will be working with:
+Tableau Desktop
+Tableau Prep
+Power BI
+Basic understanding of HTML/CSS/JavaScript
+Some Python/R scripting experience
+Data relationship database experience
+Basic Qualifications:
+Bachelor’s degree (data analytics/science, computer science, or related discipline).
+Tableau or Power BI Certification
+2-5 years of experience building and customizing BI Dashboards in Tableau Desktop and Power BI
+Expertise creating dashboard reports and efficiently and effectively communicating BI insights
+2-5 years of experience with data analytics and processing tools such as Talend, Python/R, or SQL
+Ability to perform complex, ad hoc data analysis tasks
+US Citizen or Permanent Lawful Resident (Green Card Holder) preferred. Employment must be compliant with eligibility for Public Trust Clearance due to Government Contract.
+Preferred Qualifications:
+Knowledge of the principles of good data visualization
+Knowledge of data mining, database design, and basic machine learning concepts
+Ability to use statistical tools for data interpretation and report preparation
+Knowledge of data visualization tools, including Tableau and Power BI, and familiarity with other similar tools like Qlik is a plus
+Familiarity with 508 issues and compliance.
+Demonstrated experience showing strong critical thinking and problem-solving skills paired with a desire to take initiative.
+Why work here:
+Opportunities for professional growth
+Comprehensive health benefits
+Generous vacation and retirement plans
+Employee support program
+Participation in charity initiatives
+Working at ICF
+Working at ICF means applying a passion for meaningful work with intellectual rigor to help solve the leading issues of our day. Smart, compassionate, innovative, committed, ICF employees tackle unprecedented challenges to benefit people, businesses, and governments around the globe. We believe in collaboration, mutual respect, open communication, and opportunity for growth.
+We can only solve the world's toughest challenges by building an inclusive workplace that allows everyone to thrive. We are an equal opportunity employer, committed to hiring regardless of any protected characteristic, such as race, ethnicity, national origin, color, sex, gender identity/expression, sexual orientation, religion, age, disability status, or military/veteran status. Together, our employees are empowered to share their expertise and collaborate with others to achieve personal and professional goals. For more information, please read our
+EEO & AA policy
+.
+Reasonable Accommodations are available, including, but not limited to, for disabled veterans, individuals with disabilities, and individuals with sincerely held religious beliefs, in all phases of the application and employment process. To request an accommodation please email
+icfcareercenter@icf.com
+and we will be happy to assist. All information you provide will be kept confidential and will be used only to the extent required to provide needed reasonable accommodations. Read more about non-discrimination:
+EEO is the law
+and
+Pay Transparency Statement
+.
+
+Virginia Remote Office (VA99)

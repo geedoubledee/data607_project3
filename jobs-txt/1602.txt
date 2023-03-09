@@ -1,0 +1,27 @@
+At ZoomInfo our employees work hard to 'define new possibilities', and they are driven by winning. ZoomInfo is a company that got to where it is today on the backs of heroic efforts, over the years, by our employees and we are looking for more people to contribute to those efforts.
+At our company you'll see that collaboration is second nature, and you'll be greeted by a team of incredibly smart, talented, and motivated individuals who will help you define your new best.
+You'll be presented with opportunities to both personally and professionally develop as you build your career. We believe that our employees love to work and love to work here, and that you will like coming to work because of the sense of accomplishment you get from being a part of what we're building.
+You are a fit for our team if you refuse to lose, you seek challenges, and you love to win. We welcome you to join our team of difference makers who are people working with a passion to win together.
+As a Data Science Product Manager, you will work directly with the Data Science team to drive the successful delivery of ML and AI products. This role is expected to effectively collaborate with a diverse group of peers across and at multiple levels of the organization. The successful individual will have proven ability to define and manage the data science product roadmap and a sound experience delivering a variety of innovative ML products.
+Responsibilities
+Own and champion data science methods / techniques to build best of breed ML models
+Be the expert go to person on the areas of data science approach, theories and methodology
+Strong experience with data science project life cycle and delivery methodology
+Prioritize features and resources to ensure critical data science resources are working on the highest impact solutions
+Manage stakeholder communication and internal alignment
+Work effectively with product managers, engineers and analytics to allocate the resources appropriately across various projects, including balancing customer needs with longer-term product roadmap needs
+Identify new and innovative methods to continuously improve our ML & NLP models to be the best of breed in the industry
+A successful candidate will have the following qualifications:
+Degree in a quantitative field, such as data science, statistics, mathematics, computer science, finance, or economics and minimum 2 years of data science experience (preferred M.Sc)
+5+ years of experience in product management
+Strong analytical skills and a curiosity to discover opportunities for impact and better data insights
+Interest in connecting ML technologies with real world search challenges
+Understanding of modern data management and machine learning techniques
+Demonstrated experience in building and maintaining large scale machine learning systems
+Ability to influence teams to embrace standard methodologies in delivering various effective machine learning models
+Exceptional interpersonal skills with a proven ability to build productive cross-departmental relationships and motivate team members
+Experience working through the full life cycle from data acquisition, modeling building through to deployment, and monitoring and revising models in a large-scale enterprise production environment
+Self-motivated and proactive, with demonstrated creative and critical thinking capabilities required to forge a path to success
+About us:
+Built over 20 years ago, ZoomInfo Powered by DiscoverOrg has helped companies achieve their most important objective: profitable growth. Backed by the world's most comprehensive B2B database, our platform puts sales, marketing and recruiting professionals in a position to identify, connect, and engage with qualified prospects. ZoomInfo offers unrivaled data and accuracy with contacts, companies, direct dials and professional movement. For more information on our intelligence solution, visit us at zoominfo.com
+#LI-SG1 #LI-Hybrid

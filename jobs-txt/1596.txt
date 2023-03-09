@@ -1,0 +1,22 @@
+Los Gatos, California
+Data Science and Engineering
+At Netflix, we seek to entertain the world. We have more than 200 million members in 190 countries, reflecting that great stories can come from anywhere and be loved everywhere.
+
+In April 2022, we announced that we are creating a new lower-priced, ad-supported tier for our customers. We are now working toward our goal of providing more choice for consumers and a premium, better-than-linear TV brand experience for advertisers. That said, we are looking for the founding members of this new business area for Netflix!
+
+The Ads Data Science and Engineering team at Netflix’s mission is to help build the foundation of the ads business at Netflix. We conduct analyses and develop analytic tools, build predictive models and algorithms using machine learning, all with the goal of creating more choices and joy for our members. As a leader in this space, you’ll work closely with partner teams to think big picture about our business goals and how we achieve them through analysis and experimentation. Your team will apply strong analytical rigor to evaluate ideas, dissect problems, build workflows, provide recommendations and drive success on end-to-end analytics initiatives in this 0 -1 space.
+Responsibilities
+Hire, inspire, and grow high-performing data scientists and analysts.
+Lead strong partnerships with stakeholders from across the business - from product management, engineering, consumer insights, content, and strategy.
+Instill an inclusive culture that is innovative and collaborative, both within your team and in the broader organization.
+Develop a team charter and roadmap that optimizes the impact of the team and reflects evolving business needs.
+Act as an ambassador between the Product, SP&A and DSE teams by having a deep knowledge of how the Netflix Ads product works.
+Ensure that your team is producing consistently trustworthy and high-quality technical outputs that influence the business.
+The Ideal Candidate:
+Demonstrated tenacity, resilience, and leadership experience that enables you to organize and drive cross-functional projects, overcome challenges, and propose solutions.
+Be both quantitative and qualitative. You should be able to quickly assess and understand complex systems, but also have high EQ, so that you can be a product ambassador to the rest of the organization, and our Hollywood and global partners.
+You are a player-coach. You can develop roadmaps and strategy, but also execute on technical work and ensure that your team produces consistent high quality outputs.
+Superb communication skills - You must be able to cultivate strong working relationships, communicate effectively, write meticulously, and give outstanding presentations to both technical and creative audiences.
+Experience building and leading hybrid analytics and experimentation teams in the Ads space.
+Capacity and passion to translate business objectives into actionable analyses, and analytic results into business and product recommendations
+A passion for TV and movies and defining the future of entertainment

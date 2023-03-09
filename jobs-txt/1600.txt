@@ -1,0 +1,37 @@
+MLB's Strategy & Development (S&D) organization is a centralized resource within Baseball's Office of the Commissioner. The S&D organization works cross-functionally across MLB to support development and execution of our strategies for growing baseball globally.
+As part of our charter, S&D is a service organization that oversees 5 key areas:
+Strategy: Align Industry strategic direction and provide internal consulting services to League Verticals and Functions, Clubs, Office of the Commissioner
+Club Biz Ops & Strategy: Support development of club strategies, best practices, x-functional dialogue
+Analytics: Centralized home for data-driven-insights to advise and support Strategy, Clubs, League Verticals and Functions
+Operations: Implement and stand-up new initiatives
+Corporate Development: Identify and activate inorganic growth opportunities for MLB that support our strategy and provide economic return
+MLB is hiring a Director, Data Science to guide and oversee the best practices of data science and machine learning methodologies, intending to connect insights from data to forecast and influence business decisions. This position will report directly to VP, Analytics and will focus on leveraging fan data to drive business impact for Major League Baseball and the Clubs. This role will serve as a valued cross-functional contributor, comfortable speaking to a range of stakeholders across highly technical and strategic topics.
+Responsibilities:
+Hire and develop a high-impact team of Data Scientists and Machine Learning Engineers.
+Collaborate with senior leaders and cross functional teams in problem framing and conception of ideas to develop consensus and execute on the machine learning use cases.
+Design machine learning systems to scale solutions across clubs, league verticals and functions.
+Lead and build machine learning models through all phases of development from design, testing, data gathering, training, evaluation, validation, governance, and implementation.
+Maintain the health of machine learning systems, including speed, model accuracy, reliability, and performance.
+Champion efforts to design and implement strategic fan growth initiatives such as LTV Forecasting, Subscriber Churn Propensity Models, Ticketing Lead Scoring Models, Schedule Optimization Models, Media Mix Models etc.
+Measure outcomes and translate analytics insights into recommendations that are clearly linked to the organization's strategy and goals.
+Required Skills and Background:
+Master's degree in Computer Science/Statistics/Data Science or relevant analytics field with 5+ years of Data Science experience or Bachelor's degree with 7+ years of relevant experience.
+2+ years of managerial experience.
+Deep hands-on experience in machine learning, relational databases, and open source programming languages (Python, R) for large scale data analysis.
+Experience in developing advanced data science and ML infrastructure and systems.
+Strong knowledge of data science technologies and machine learning concepts and have experience developing models from research, to a POC, to a production pipeline.
+Deep understanding of working in cloud environments, preferably GCP.
+Highly professional manner and excellent written and verbal skills
+Preferred Skills and Background:
+Experience with ML Ops Platforms/Tools (MLFlow, SageMaker, Domino Data Lab etc)
+Experience with Marketing Sciences in ad-targeting, propensity scoring, valuations, bid optimization and media measurement modeling.
+Proficiency with Data Visualization tools (Looker, Tableau, D3.js)
+Familarity with version control systems (Git, Bitbucket) and experience using project management tools (JIRA, Confluence)
+Why MLB?
+Major League Baseball (MLB) is the most historic of the major professional sports leagues in the United States and Canada. Employees love working at MLB because of the culture of growth, teamwork, and professionalism. Employees who are most successful at MLB take initiative, know how to identify problems and provide solutions, and always put the Team first. For those ready to step up to the plate and join the Major Leagues, MLB takes the same approach as teams do with their players: empowering our "workforce athletes" to be at their best by engineering experiences that put employees in the best position to succeed. Major League Baseball is looking for candidates who are passionate about growing America's pastime to best serve its fans for decades to come.
+MLB's vision is to be the global sport of choice for youth to play, fans of all backgrounds to enjoy and a desired destination for employment. With a belief that the journey to growth and greatness is ongoing, MLB gives employees the opportunity to continue learning and honing their skills with programs such as: tuition reimbursement; mentorship programs; lunch and learns; online course subscriptions; paid industry certifications; business resource groups; and more.
+MLB provides its employees with exceptional medical, dental, and vision coverage. Premiums are 100% employer covered to help employees focus on being their best!
+Major League Baseball is proud to be an equal opportunity workplace. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. If you have a disability or special need that requires accommodation, please let us know.
+Are you ready to Step Up to the Plate? Apply below!
+Per the NYC pay transparency law, the hiring range for this position is $150,000 to $225,000.
+As a candidate for this position, your salary and related elements of compensation will be contingent upon your work experience, education, skills and any other factors Major League Baseball (MLB) considers relevant to the hiring decision. In addition to your salary, MLB believes in providing a competitive compensation and benefits package for its employees. MLB offers employees a full range of best in class benefits with no employee contributions towards medical, dental, and vision coverage premiums, as well as incentive and recognition programs, life insurance and automatic employer 401k contributions. All benefits are subject to eligibility requirements and the terms of official plan documents which may be modified or amended from time to time.

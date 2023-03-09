@@ -1,0 +1,42 @@
+What We're Looking For:
+2U believes in the power of higher education to unlock human potential and help address society's critical needs. With 45 million registered learners in 196 countries and a catalog of 4,000 digital programs offered by 230 partners (including 38 of top 50 universities in the world), our platform connects learners who want to learn with institutions who have best-in-class learning content. Our mission is to build the world's best consumer centered higher education marketplace.
+The Data Science team is uniquely positioned to help 2U achieve this mission:
+A seat at the executive table: The Data Science team reports directly to the Chief Revenue Officer who leads Product, Marketing, and Data Science.
+One-of-a-kind dataset: Our dataset spans the learner lifecycle (from discovering our learning products, through the applications process, student lifecycle, and graduation) across MOOCs, short courses, bootcamps, and degree programs for over 45 million learners.
+Expansive and strategic remit: Data Science is chartered to relentlessly optimize 2U revenue operations by identifying and enabling product, marketing, and operational innovations through advanced analytics, experimentation and predictive modeling.
+As a Director of Data Science: Growth, you will drive data science partnership with business leaders on the Marketing and Product teams tasked with making investment decisions to drive revenue growth and margin efficiency. You will have an opportunity to establish a roadmap and vision to drive innovations through effective identification and application of analytics, causal inference, experimentation, and machine learning. We will rely on your leadership to expand our toolkit, enrich the strategic signal of our data, and lead a team that will use these core assets to have a big impact on the entire company's productivity. This is a high-impact role for a self-starter in which you'll have a direct influence on how marketing and product decisions are made. You will play a key role in spurring innovations to drive growth, engagement, and retention at a critical moment in 2U's history.
+Responsibilities Include, But Are Not Limited To:
+Design technical and impactful roadmaps for the business, and lead seamless execution of them.
+Be a trusted thought partner for business teams in the Revenue organization.
+Collaborate with and influence Marketing leadership so that your team's work directly impacts marketing strategy.
+Managing a core team of data scientists and creating opportunities for their career growth.
+Thoroughly understanding the data. This means both leading a team that performs analysis, but also getting your "hands dirty" to analyze data.
+Communicating insights clearly and effectively to cross-functional partners of varying technical levels.
+Contribute towards advancing the Data Science discipline at 2U, including driving data best practices such as improving and automating analytical processes, building new data tools and data sets, data education around the company and mentoring and developing data folks.
+Things That Should Be In Your Background:
+A self-starter with a strong sense of ownership and the determination to initiate and lead projects to completion in a scrappy environment.
+Experience leading high performing Data Science teams, with 3+ years people management experience.
+Experience instilling a culture of ownership, collaboration, and results.
+Expert communication and collaboration skills with the ability to work effectively with internal teams in a cross-functional environment.
+Track record of delivering analytics products, influencing marketing and product decisions, and providing expertise and direction on analytics, data science, experimental design, and measurement.
+Statistical knowledge and ability to guide the team to perform analysis using advanced techniques when needed, including sampling methods, causal inference, predictive modeling, and forecasting. Knowledge of when to use which statistical approaches, and drawbacks of possible methodologies.
+Advanced degree in Statistics, Mathematics, Physics, Economics, or related quantitative field.
+Experience running online controlled experiments at scale.
+About 2U Inc. (NASDAQ: TWOU)
+2U is comprised of 3 lines of business: Graduate Degree Programs, Short Course, and Boot Camps. Going beyond traditional learning management systems, we use tech, people, and data to help top universities and enterprise organizations transform in the digital era—and eliminate the back row in higher ed. We support lifelong learning which means thinking beyond a single degree. It means finding ways for students to gain the skills they need to change careers, evolve their expertise, and meet the challenges of the changing world head-on. We help our partners fill those needs—developing new digital education technologies and offerings capable of supporting students at different points in their lives. Whether they need a simple refresher, to learn something new, or to change their career trajectories completely, our partners are there to help them succeed. Together with our partners, 2U has positively transformed the lives of more than 275,000 students and lifelong learners.
+2U Diversity and Inclusion Statement
+At 2U, we are committed to creating and sustaining a culture that embodies diverse walks of life, ideas, genders, ages, races, cultures, sexual orientations, abilities and other unique qualities of our employees. We strive to offer a workplace where every employee feels empowered by the ways in which we are different, as well as the ways in which we are the same.
+Benefits & Culture
+Working at 2U means working with individuals that are passionate and mission driven. We collaborate on tough problems to deliver the best outcomes for our partners, students, and each other. You will find team members working together in our open office spaces, gathered in the kitchen grabbing a snack, or taking a break in our game rooms.
+2U offers a comprehensive benefits package:
+Medical, dental, and vision coverage
+Life insurance, disability and 401(k)
+Unlimited snacks and drinks
+Generous paid leave policies including unlimited PTO
+Additional time off benefits include: volunteer days, parental leave, and a company-wide winter break
+The anticipated base salary range for this role is $160,000 -$180,000, with potential bonus and equity eligibility. Salary offers are made based on the candidate's qualifications, experience, skills, and education as they directly relate to the requirements of the position, budget for the position and cost of labor in the market in which the candidate will be hired.
+
+To learn more, visit 2U.com. #NoBackRow
+Note: The above statements are intended to describe the general nature and level of work performed by individuals assigned to this position, and are not intended to be construed as an exhaustive list of all responsibilities, duties and skills required. All employees may be required to perform duties outside of their normal responsibilities from time to time, as needed.
+
+2U is an equal opportunity employer that does not discriminate against applicants or employees and ensures equal employment opportunity for all persons regardless of their race, creed, color, religion, sex, sexual orientation, gender identity, pregnancy, national origin, age, marital status, disability, citizenship, military or veterans' status, or any other classifications protected by applicable federal, state or local laws. 2U's equal opportunity policy applies to all terms and conditions of employment, including but not limited to recruiting, hiring, training, promotion, job benefits and pay.

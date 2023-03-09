@@ -1,0 +1,63 @@
+Database Analyst
+Brief description of the Project/Initiative is modernizing its finance operations, business systems, and processes. The Database Administrator (DBA) position will help support the Finance Transformation by partnering with development teams to implement database components that are performant and secure and administer the operations and security of databases across multiple platforms and products. In doing this, the DBA will directly support the implementation, post-implementation, and maintenance of ORIS products and features for the various projects related to the electronic grants management system used by the faculty, staff, and grant administrators at the University of Washington to procure and administer research grants and contracts. This position will work within existing and emerging teams with an expectation of following the ORIS standards and processes for teamwork and productivity.
+Position Purpose: products are used by faculty, administrators, and staff across the University of Washington to submit and manage research grant and contract applications. As a critical component in delivering high-quality tools to manage research grants and contracts, this position supports the vision of enhancing the ability of faculty, administrators, and staff to procure and administer research awards. It plays a vital role in maintaining the University of Washington's position as a leading public research University. It is critical that the Office of Research Information Services (ORIS) delivers high-quality software on time and within budget, optimizes production release cycles, and reduces production support volume.
+As Database Administrator responsible for ensuring the stability, performance, and security of the databases that support Office of Research systems, this position advances the Office of Research’s mission to support the integration of electronic research information systems. This will reduce the administrative burden on researchers across the University by improving the number of time researchers can spend on researching; improving University compliance and ensuring that the University can continue to be at the forefront of academic research. The Database Administrator position is charged with ensuring that database resources meet security, performance, availability, reliability, and availability requirements. The DBA will partner with development teams across multiple products and will need to work with different database systems and hosting platforms. The DBA will provide consultation and assistance in database design and will be responsible for provisioning, optimization, operations, and business continuity to ensure a secure and dependable performance and operations through implementation, test, integration test, and migration and Production deployment and cutover phases.
+What skills/knowledge/experience is required? Required Experience: Bachelor’s degree in Engineering, Computer Science, Information Technology, Business Administration, or equivalent experience Minimum 5 years of experience in the following areas:
+Database administration for MS SQL Server – ideally on both cloud and on-premises hosting environments
+Design and implementation of physical database models and schemas
+Writing stored procedures and functions and configuring triggers
+Recommending and implementing indexing strategies to improve performance
+Configuring and maintaining database security, including authentication, authorization, and encryption
+Managing databases in both Prod and Non-Prod environments
+Implementing and managing database backup and retention procedures
+Implementing and maintaining database performance monitoring and tuning strategies
+Configuring database logging and monitoring to ensure reliable and accurate reporting on database health and performance
+Database design, implementation, maintenance, and operation by industry standards and security best practices Desired Experience
+Database administration for other database management systems – both relational (e.g., Oracle) and document-oriented (e.g., MongoDB)
+Implementing and maintaining mechanisms for clustering, redundancy, load balancing, failover, and recovery
+Exposure to the Workday suite of applications/modules including experience with the Workday data model, security, integrations, and data load capabilities
+Exposure to the development and testing of APIs using the MuleSoft Any point integration platform
+Experience with DevOps concepts
+Experience with AWS Cloud Services
+Experience working on an Agile-Scrum team
+Working in higher education and/or research administration
+Excellent time and priority management ability.
+Excellent problem-solving/analytical abilities.
+Excellent verbal, written and listening communication skills.
+Demonstrated ability to work independently with minimal supervision.
+Demonstrated ability to understand and analyze functional and non-functional requirements of applications
+Demonstrated technical, interpersonal, and cross-group collaboration skills
+Demonstrated ability to troubleshoot database environment and configuration issues Responsibilities and Deliverables
+Provision and configure new database environments and databases
+Maintain configuration and management of databases across Non-Prod and Prod environments
+Partner with development teams to ensure database components and mechanisms meet all functional and non-functional requirements
+Implement and maintain regular database backup and retention plans
+Ensure that databases operate within security, reliability, and availability requirements
+Ensure that database archiving and disposition requirements are met
+Determine, implement and maintain performance monitoring and tuning strategies
+Configure logging and monitoring to ensure reliable and accurate reporting on database health and performance
+Research database issues as they pertain to production support and non-production support requests
+Participate in technology integration initiatives that involve ORIS-supported systems (i.e., Finance Transformation Program)
+Ensure business continuity and disaster recovery for ORIS databases
+Participate in organizational risk assessment activities, security planning, and vendor analysis
+Troubleshoot and resolve incidents arising around and within the databases
+Participate in software release (possibly including off-hours release and update times)
+Build strong relationships, working with diverse technical and business partner groups, both internal and external to the University of Washington.
+Effectively communicate and collaborate technical information with a wide range of people with varying levels of technical expertise.
+Job Types: Full-time, Contract
+Pay: Up to $73.00 per hour
+Schedule:
+8 hour shift
+Education:
+Bachelor's (Required)
+Experience:
+Database administration: 5 years (Required)
+Oracle: 5 years (Required)
+MS SQL Server: 5 years (Required)
+cloud and on-premises hosting environments: 5 years (Required)
+Workday suite of applications/modules: 5 years (Required)
+Workday data model, security, integrations, & data load: 5 years (Required)
+DevOps concepts: 5 years (Required)
+AWS Cloud Services: 5 years (Required)
+Agile-Scrum team: 5 years (Required)
+Work Location: Remote

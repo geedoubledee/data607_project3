@@ -1,0 +1,34 @@
+SAFe Business Analyst with API understanding. This role is less focused on mapping with APIs, but they still need someone who understands how an API works and has been on back end projects (ex: data migrations, etc).
+Important team overview:
+This train/team is feature based, which is not a traditional scrum team. A product owner will state what they need in a feature, it’s the Bas responsibility to go to external scrum teams, architecture teams, and development teams to say this is what we need (API mapping, dev work, microservices, etc). The BAs responsibility is to help teams write stories that are feature based, and bridge the gap between the functional and technical teams with the goal of working toward a truly SAFe environment. Understanding what an API is and how they work is crucial, but they do not need to do the technical mapping with APIs.
+Must haves:
+7+ years as an Agile business analyst within a matrixed environment
+3+ years with SAFe = proven track record working directly with product management teams in a SAFe environment (product owner, product manager)
+Understands APIs and how they work; is comfortable working with integration architects who are mapping data/source to target mapping
+Has been the “bridge” between technical and functional teams in previous roles
+Rally experience or similar (RTC / Jira / Confluence / etc)
+Healthcare experience required (understanding what a healthcare company is – members/networks/claims/etc)
+Soft Skills:
+Eagerness to get up to speed quickly
+Comfortable asking questions
+Excellent communication and collaboration skills
+Nice to haves:
+Fortune 100 company experience highly preferred
+SAFe certifications (POPM, SAFe Agilist, etc)
+Member facing application experience – member billing, enrollment, etc
+Healthcare communications application experience
+Digital communication tool experience (EX: Quadient)
+Team: Enterprise IT team – Digital Communications workstream (Health Care Business side). This new train will be interacting with and building products or experience in the context of member communications which could be electronic communications like email/text/marketing, email campaigns, etc. Each scrum team will consist of a BA, Product Owner, 1-2 Architects, and 1 QA resource (“core” team). There will be a Product Manager who is a dotted line to all work streams and acts as an RTE sometimes, he is the escalation point if needed.
+The applications they work with are directly related to Member facing communications (i.e. member demographics, communication material, digital material, etc – leveraging Quadient as tool).
+Role: This group is slightly unique, as they do not own application delivery teams within their program. They take funding and Business requirements and work with other groups’ applications.From a BA standpoint, this person will not have a daily stand up – the team is feature based. Interactions will be with product management areas and external teams to work through features and stories. This individual will be bridging the gap between functional and technical teams, both within the Agile Release Train and externally as well. This area is also responsible to partner heavily with architects who are doing data mapping with APIs and microservices, so understanding of what an API is is required – they do not have to be able to do the work itself.
+Job Type: Contract
+Pay: $60.00 - $65.00 per hour
+Experience level:
+5 years
+Schedule:
+8 hour shift
+Monday to Friday
+Experience:
+SAFe: 3 years (Preferred)
+Business analysis: 7 years (Preferred)
+Work Location: Remote

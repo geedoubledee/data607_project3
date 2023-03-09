@@ -1,0 +1,43 @@
+Part of the Walt Disney Company's Media & Entertainment Distribution (DMED) segment, Disney Music Group (DMG) is the music hub for TWDC, encompassing all aspects of music commercialization and marketing: recorded music (Walt Disney Records and Hollywood Records), Disney Music Publishing, and Disney Concerts. DMG distributes music both physically and digitally, and also licenses music throughout the world in various forms of media including television, print, gaming, and consumer products.
+
+The Manager, Data Science is responsible for Disney Music Group’s (DMG) data, quantitative frameworks, and decision support tools. The role will creatively explore new channels of data and build the analytical models that will help inform planning and decisions across the DMG business areas.
+
+To support these goals, the role will develop a deep understanding of how content, marketing, and distribution strategies interact to drive product performance.
+
+The right person for this role has tackled complex problems in forecasting and measurement, behavioral segmentation, and has worked with large transaction level datasets. The role will be expected to turn research into practical business solutions and continuously broaden and enrich our data assets. The role will need to collaborate effectively with cross-functional partners, working with Technology and Product teams to build decision support tools that will scale and expand how data is used across the organization.
+Responsibilities
+Drive pragmatic approaches to solving complex business problems through data creation, analysis, and statistical modeling
+Support new and potential opportunities through forecasting and scenario analysis. Develop tools that help business stakeholders evaluate trade-offs across tactics and environments, size opportunities, and create targets for driving business performance
+Establish top line and operational metrics that accurately represent the state of health for our brands, products, and campaigns. Build out in-depth knowledge of the success drivers, determining the KPIs that will help meet goals as well as deliver value added solutions that have a measurable impact on the business
+Activate descriptive and creative metadata, collaborating cross-functionally to develop the contextual models that will enable deeper business insights
+Build a holistic picture of DMG audiences, their listening behaviors and preferences across brands, artists, products, and platforms
+Partner with Engineering and Product teams to execute on data projects
+Lead and mentor a team member, setting priorities to maximize impact in the organization
+
+Basic Qualifications:
+7+ years data experience
+2+ years management experience
+Experience developing statistical models and analyses in an industry setting for business use cases. Applied knowledge of supervised and unsupervised learning techniques
+Experience with causal inference methods
+Expertise manipulating large, transaction level data sets and interpreting data trends from multiple disparate data sources
+Strong hands-on experience developing sophisticated analytical solutions using scripting tools (Python/R)
+Mastery in advanced SQL, large-scale data and numerical computing languages (PySpark)
+Experience data mining in distributed systems (Spark/Databricks)
+Proficient in data exploration and visualization tools (Tableau/Looker)
+Strong experience documenting data requirements, rules and, assumptions
+Experience communicating analytical concepts to a wide range of audiences
+Passion for building clear, concise, and meaningful metrics
+Strong time management with ability to work in a fast-paced environment across multiple priorities
+Strong attention to detail without losing sight of broader objectives
+Track record of operating independently, demonstrating creativity, and delivering results
+Keen interest in music and the music business
+Strong familiarity with music streaming services (Spotify, Apple, Amazon Music, YouTube), social media platforms (TikTok, FB/Instagram) and emerging technologies (digital assistants/voice)
+
+Preferred Qualifications:
+Experience developing analytical software that scale analyses
+Experience working with data in the entertainment industry
+Experience working with media performance data
+Experience building, managing and motivating teams in strategic support functions
+Required Education
+Bachelor’s degree in an analytical field including Statistics, Mathematics, Physics, Business Analytics, Computer Science, Engineering, or other related quantitative field
+Master’s degree preferred

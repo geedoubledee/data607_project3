@@ -1,0 +1,36 @@
+Job description
+A better internet, where privacy is the default, is possible. Building this better internet might seem daunting or even unthinkable, but at Proton, this is what we do every day.
+
+Proton was founded in 2014 by a group of scientists who met at the European Organization for Nuclear Research (CERN). Our first product, Proton Mail, is now the world’s largest encrypted email service. Subsequent Proton products, such as Proton VPN, Proton Calendar, and Proton Drive, give our users full control over how and with whom their data is shared.
+
+Today, Proton makes privacy universally accessible. Journalists from outlets like The Guardian and The New York Times, some of the world’s largest organizations, and people in more than 180 countries have signed up for over 70 million accounts. Our diverse and dynamic team is made up of more than 400 members representing over 40 different nationalities. While we are based in Geneva, Switzerland, we have offices in Zurich, Prague, London, Vilnius, Skopje, Taipei, and many more employees working remotely around the world.
+
+Join one of Europe’s fastest-growing companies to help us solve challenging problems and build new products that will reach hundreds of millions of people. We want to create more than just one of the world’s most impactful tech companies; we want to create a new internet that serves the interests of all people. We need you, your voice, your ideas, and your ambition to make it happen.
+
+Purpose of the role
+The MSA department is a highly multi-disciplinary group started in 2019 to tackle difficult mail delivery, spam and abuse problems. We built sophisticated systems from scratch that combine human intelligence and machine learning to make tens of millions of realtime or asynchronous decisions each day. As of 2022, our three areas of focus are 1) mail delivery and spam, 2) abuse and account security, and 3) site reliability of Proton. Over the past 3 years, our custom systems have reduced spam filter misclassifications by over 50%, blocked millions of abusive bulk signups, protected hundreds of thousands of users from account compromise by attackers, and mitigated hundreds of DDoS attacks. In order to move fast with limited resources, we are organized into autonomous teams responsible for the whole system, with expertise across infrastructure, data storage, backend, frontend, machine learning, security and operational excellence. In 3 years, we grew from 2 engineers to over 30 engineers and analysts, spread across 3 continents for 24/7 coverage. We are looking for humble, mission-driven, systems-thinking people who want to make a big impact in a startup environment.
+
+What you will do
+MSA uses machine learning in areas where it can significantly improve on manually created rules. We have successfully applied clustering to abuse detection, supervised learning to spam filtering, and anomaly detection to many domains. In order to meet the demands of scale, we approach machine learning challenges from a systems engineering standpoint, pushing the boundaries of scalable computing, and tying together numerous data sources to build models that protect our users and reputation. You will work with analysts and engineers to solve difficult problems and reduce human toil across many domains. As an engineering-driven organization, MSA currently doesn't have product or project managers, so you will have the opportunity to play those roles and lead the whole planning and development process. You will be responsible for the performance and reliability of the machine learning systems.
+Job requirements
+Deep experience in machine learning, pattern recognition, signal processing, data mining, or information retrieval
+Deep experience with running ML in production
+Strong software engineering skills (Python)
+Solid knowledge of statistics
+Excellent English communications, both written and spoken
+
+Why you should join Proton
+Be part of a movement - Proton is not just a product or service but a community-driven movement united by a shared vision of online freedom. Our services are open source, audited, and supported by community contributions. We give back to our community by maintaining core encryption libraries and by supporting other organizations furthering the same goals as us.
+Work with smart and dedicated people - Our team is diverse, collaborative, and tight-knit with people coming from all walks of life, including many of the world’s top academic institutions and organizations, such as MIT, Harvard, Stanford, Caltech, Cambridge, and ETH.
+Join a strong brand - Our encrypted email service - ProtonMail - has grown to be a staple of online security and privacy. Proton has been featured in multiple popular television and film productions, such as Mr. Robot, Knives Out, Sounds of Metal, and more.
+Grow with us - We’re one of Europe’s fastest-growing startups, doubling in size every year. Our growth gives you limitless career and educational opportunities as well as the opportunity to work side-by-side with many world-leading experts in their fields.
+Have your voice heard - We value your opinion and encourage you to speak up and share your ideas and thoughts. At Proton, no problem is someone else’s problem. We collectively strive to do the right thing and be the undisputed best in the world at everything we do.
+Benefits – these vary by location and type of contract but expect support on your vacation, parental leave, refreshment if working from the office, learning and development opportunities, equity for shared success, flexible working hours and remote work, company events and team building activities.
+
+Proton uses the Recruitee recruitment platform for a more effective hiring process and a better candidate experience. Your data will always be kept confidential and is not shared with any third parties. You will receive emails from the email address careers@protonmail.recruitee.com or other addresses on the protonmail.recruitee.com domain as part of the recruitment process.
+
+Proton does not accept unsolicited resumes from any sources other than directly from a candidate. Proton will not pay a fee for any placement resulting from the receipt of an unsolicited offer, even in a situation where Proton employs the relevant candidate.
+
+By applying to a role at Proton, you acknowledge that we will process and store your personal data for at least the duration of the hiring process and as necessary to enter a contractual relationship with you.
+
+Apply for this job

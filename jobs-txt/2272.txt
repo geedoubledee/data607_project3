@@ -1,0 +1,34 @@
+We are InterWell Health: a joining of Cricket Health & Fresenius Health Partners with InterWell Health...creating a trifecta in transforming kidney care! Learn more about our new organization at Transforming Kidney Care.
+
+We are seeking a person with a passion for Interwell Health’s mission to join us as Director of Data Science. In this new position, you will have the rare opportunity to build a new data science capability within the recently merged value-based kidney care organization.
+
+As Director, you will join the data leadership team and manage a growing group of data scientists to support Interwell’s mission of improving the lives of our patients, partner closely across all functional teams (Product, Marketing, Clinical, Population health, and Operation) to deliver predictive models/analytics tools, and communicate key insights directly to the internal executives and external stakeholders.
+
+If you have a track record of building predictive and ML capabilities to solve challenging real-world problems in healthcare with leadership experience, join our exciting journey!
+What you will do
+Manage a team of data scientists to build new predictive and analytical capabilities within the new patient-focused organization
+Define long term vision and roadmap for the data science/ML capabilities
+Ideate and direct new improvements on the existing predictive models to enhance model performance and processes
+Partner with data engineering team to design a database architecture that powers model development and deployment process
+Hire, mentor, and retain data scientists while providing attention to their career development, guidance and growth
+Build data-driven presentations that translate complex data analyses into crisp insights with clear recommendations - present your own work to C-suite!
+Communicate within InterWell cross-functionally to make sure the broader Interwell team is aware of any data roadblocks and understands key learnings and takeaways
+What you will need
+PhD is highly preferred in computer science, statistics, biostatistics, information systems, health economics, mathematics, public health or similar. Minimum of a Master's degree
+7+ years working as a data scientist or other relevant experiences
+2+ years of management experience leading data scientists
+Experience in statistical modeling, machine learning or algorithm development
+Deep expertise with SQL, R and Python
+Experience in developing and deploying predictive models to production, particularly within the context of healthcare
+Experience conducting research or leading research teams to answer questions of value to Interwell and its partners
+Experience with H2O.ai’s open source and Driverless.ai products
+Familiarity with Azure Synapse / Azure Data Studio / Azure Sql databases
+Excellent written, presentation, and verbal communication skills
+Benefits
+Competitive salary and vacation
+Generous health, dental, vision and parental leave policies
+Contributions for 401k retirement savings plans
+Commitment to building and maintaining an inclusive team
+Cricket Health by InterWell Health is a comprehensive kidney care provider with a personalized, evidence-based approach to managing chronic kidney disease (CKD) and end-stage kidney disease (ESKD). Cricket Health by InterWell Health delivers world-class, technology-enabled multidisciplinary care both in-person and virtually to achieve the best outcomes possible for patients and the best value for partners, keeping patients healthy and out of the hospital, accelerating access to transplant, and increasing home dialysis adoption. We are committed to aligning the success of our company with those of our partners and the patients whom we serve. Learn more at www.interwellhealth.com.
+
+Our team members come in all shapes, colors, and sizes. No matter how you identify or your lifestyle, creed, or fandom, we value each individual’s unique journey. Come join us and help our patients live their best lives.

@@ -1,0 +1,33 @@
+Formic Technologies is creating a world of abundance by unlocking robotic automation for small to mid-sized American manufacturers. Our mission is to continue the American legacy of innovation by increasing productivity and production capacity 10X. We combine proprietary software tooling and intelligent control with advance fleet management and financial innovation with a mastery of robotics. We enable manufacturers to deploy and scale automation quickly and with minimal risk, and believe that technology doesn't change the world until you make it accessible to those who need it most.
+We make building things easy and believe every factory should have access to unlimited labor through automation. As the world moves toward inflation and shortages, Formic is doing everything it can to reverse that trend. In the 18 months we've been in existence we've grown faster than any robotics company in history, and we're only just getting started.
+Supporting us in this vision, with investments thus far totaling over $30 million, are backers including Lux Capital, Initialized Capital, Balaji Srinivasan and CEOs of multiple fortune 50 companies.
+Join us to build the world's largest robot workforce, and fundamentally change the way that everything gets made - from aircraft parts to shredded lettuce, lattes to sheet metal, lawnmowers to candy corn, and everything in between.
+Duties & Responsibilities
+Experiment with the applicability of modern machine learning methods and applications to our real-world industrial robotics
+Develop, integrate, test and deploy ML solutions for usage across our robots
+Manage projects, meet milestones, and contribute to Formic's codebase
+Actively engage in the daily operations with teams across the company, identifying possible entry points for ML deployments, advocating for usage and educating on key benefits with stakeholders throughout the organization
+Maintain high development standards and rigorousness of methodology
+Advise on core product feature developments based on your unique perspective and experience
+Qualifications
+Minimum of 8 years of experience in developing code for real time machine learning applications in-production using ML libraries such as tensorflow, keras, pytorch, and scipy
+Experience in developing and delivering embedded control systems and real-time data analysis pipelines in robotics, automation, deep learning, artificial intelligence and/or machine learning and other similar applications, either formal or self-taught
+Proficiency with Linux and Open Source tools
+Experience with AWS IoT and Greengrass (highly preferred)
+Hunger to learn, grow and make huge impact in a fast-paced environment
+BS, MS, or PhD degree in Computer Science, Robotics, Physics, Mathematics or similarly quantitative/technical field, with advanced degree preferred
+Proficiency in writing, reading and understanding code. We work primarily in python, but the specific languages and frameworks you know are less important than your ability to learn new ones.
+Willingness and ability to travel to client locations (30% +)
+*
+Benefits & Perks*
+Formic believes we do our best work when we are equipped to take care of ourselves and our loved ones, and practice a healthy work-life balance. To support this Formic offers comprehensive benefits and perks, including:
+Health, Dental, & Vision Insurance
+Competitive base salary
+Equity in Formic
+One-time home office setup allowance of $3,000 USD
+Monthly Phone & Internet Reimbursement
+Unlimited PTO
+Regular off-site events
+401k & FSA
+Formic is an equal opportunity employer. We do not discriminate on the basis of race, color, religion or religious creed, sexual orientation, gender, gender identity, marital status, family or parental status, disability, military or veteran status, or any other basis protected by law. All employment decisions are based on a person's merit, business needs, and role requirements. If you require further accommodations or have questions regarding accessibility of our roles, please reach out to our VP of People at theresa@formic.co.
+Job Type: Full-time

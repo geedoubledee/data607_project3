@@ -1,0 +1,40 @@
+General Responsibilities:
+The Data Scientist is responsible for generating insights and recommendations from Hertz’s rich history of observational data. Working closely with management and senior level data scientists, the Data Scientist will build descriptive, predictive, and prescriptive models with the ultimate goal of maximizing profit and gaining a competitive advantage in the market.
+Curate data from many sources including internal databases and external APIs, and aggregate data to a format appropriate for building descriptive reports, optimization or predictive models
+Solve complex analytical problems using quantitative approaches using unique blend of technical, mathematical, analytical and data skills
+Use deep understanding of statistical and predictive modeling concepts, machine learning approaches, simulation, optimization models and algorithms, clustering and classification and recommendation techniques
+Integrate, store, and analyze large, complex multi-dimensional data sets with variety of tools
+Communicate analytic solutions to stakeholders and implement improvements as needed to the reports and outputs, algorithms and models
+Establish processes for large-scale data analyses, model development, model validation and model implementation.
+Keep current with technical and industry developments and assess the effectiveness and accuracy of new data sources and data gathering techniques.
+
+Essential Requirements:
+Education:
+Bachelor’s degree preferred in Statistics, Data Science, Operations Research, Industrial Engineering, Actuarial Science, Mathematics, Computer Science, Economics, or related quantitative discipline and 5+ years of relevant experience
+Or Master’s Degree in the previously mentioned disciplines and 2+ years of relevant experience
+Or Ph.D. in the previously mentioned disciplines
+
+Required Qualifications:
+2+ years experience querying data from relational databases using SQL
+1+ years experience building data science/optimization models with business big data
+Knowledge of a variety of machine-learning techniques and/or Optimization methods and their real-world advantages/drawbacks.
+Fluency in a scripting language, such as R, Python or similar
+Experience visualizing/presenting data for stakeholders using ggplot, Matplotlib, Tableau or similar BI tools
+Comfort working in a dynamic, research-oriented group with several ongoing concurrent projects
+Ability to lead tasks with minimal guidance
+
+Preferred Qualifications:
+Experience building statistical models, such as: Generalized Linear Models, ARIMA models, Generalized Additive Models, Bayesian models, tree models, and deep neural networks
+Experience generating and solving optimization models, such as linear programming, Mixed integer programming, decomposition methods, transportation models, combinatorial optimization, optimization and heuristic algorithm
+Knowledge of optimization tools such as: CPLEX,PULP, Gurobi, FICO Xpress or similar a plus
+Experience working in a cloud computing environment, such as AWS or Azure
+Experience developing in a distributed computing environment using tools such as Apache Spark
+Experience in car rental, transportation, or fleet management is a plus.
+Having a keen sense of pattern detection and anomaly detection.
+A drive to learn and master new technologies and techniques.
+Problem-solving aptitude, analytical mind and business acumen
+:
+At Hertz, we champion and celebrate a culture of diversity and inclusion. We take affirmative steps to promote employment and advancement opportunities. The endless variety of perspectives, experiences, skills and talents that our employees invest in their work every day represent a significant part of our culture – and our success and reputation as a company.
+Individuals are encouraged to apply for positions because of the characteristics that make them unique.
+Qualified applicants with criminal histories will be considered for employment in a manner consistent with applicable federal, state and local law. Hertz is a drug free workplace.
+EOE, including disability/veteran

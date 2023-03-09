@@ -1,0 +1,20 @@
+Duration: 6+ Months
+
+Job Description:
+
+Responsibilities will include AEM headful component development and configuration in CRXDE. You will work with Lead Front End Developers on specification and direction of the component development.
+This role will be responsible for timely and quality delivery of these components, ensuring a user experience that is a step above.
+
+Qualifications:
+
+Build modern, interactive websites using HTML5, CSS3, JavaScript and UI frameworks (prefer Vue.js knowledge)
+Ensuring technical feasibility, helping in the creation of UI/UX designsCollaborate with designers to implement and improve features
+Develop new user-facing featuresResponsive sites
+Can demonstrate of working knowledge of these technologies: https://frontendmasters.com/books/front-end-handbook/2017/practice/tech-employed-by-fd.html
+Knowledge of at least one or two content management systems
+Knowledge of at least one or two backend languages and how they work
+Stay current on the latest technologies and inspire your team to do the same
+
+The Capgemini Freelancer Gateway is enabled by a cutting-edge software platform that leads the contingent labor world for technology innovation. The software platform leverages Machine Learning and Artificial Intelligence to make sure the right people end up in the right job.
+
+A global leader in consulting, technology services, and digital transformation, Capgemini is at the forefront of innovation to address the entire breadth of clients’ opportunities in the evolving world of cloud, digital, and platforms. Building on its strong 50-year heritage and deep industry-specific expertise, Capgemini enables organizations to realize their business ambitions through an array of services from strategy to operations. Capgemini is driven by the conviction that the business value of technology comes from and through people. It is a multicultural company with over 200,000 team members in more than 40 countries. The Group reported 2018 global revenues of EUR 13.2 billion.

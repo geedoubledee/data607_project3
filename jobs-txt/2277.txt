@@ -1,0 +1,12 @@
+About the job
+The Red Hat Business Unit team is looking for Agile Project Manager - Enterprise Data & Analytics to join us. In this role, you will interact regularly with stakeholders to better understand their business needs with a focus on technology and data, and to communicate progress, risks, and issues that affect delivery. Facilitate reporting to summarize the state of assigned portfolio/product, the associated risks, and roadmap implications.
+What you will do
+Be responsible for updating delivery information and adhering to standards in designated work management tools
+Be responsible for updating templates and toolkits to keep the company’s knowledge assets up to date and relevant
+Work with the delivery team and stakeholder to create test plans and test cases to validate the work of the delivery team and to ensure that the work meets defined acceptance criteria
+Lead agile practices through continuous process improvement and feedback loops, delivering insights to the team, stakeholders, and the enterprise data and analytics organization
+What you will bring
+Bachelor’s degree (U.S. or foreign equivalent) in computer science, computer engineering, or related field and 5+ years of experience in the job offered or related role
+3+ years of experience with: agile frameworks and how to apply them at an enterprise level; supporting software development teams; and articulating technical limitations to both technical and non-technical business stakeholders to help audiences make business decisions
+1+ year of experience with either cloud services, analytics and data science, open source software, or DevOps practices
+#LI-DNI

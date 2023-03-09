@@ -1,0 +1,50 @@
+About the Connected Services Division:
+Aptiv is making mobility real. Today’s software-defined vehicles generate a lot of data. It’s expensive to transmit, and it’s not all useful. Aptiv’s Connected Services team is a global provider of telematics and analytics solutions serving the transportation industry. We help our customers identify the data they need to operate more efficiently and produce better products. With teams working across the globe, Connected Services creates and delivers solutions that combine comprehensive data acquisition methods with powerful edge and cloud computing architecture resulting in an enterprise-class solution for fleet management, product development, connected vehicle and data exchange applications. Come join the Aptiv Connected Services team for a unique opportunity to work with and learn from experts, while also significantly contributing to the future of mobility! Mobility has the power to change the world, and we have the power to change mobility.
+About this Position:
+The Data Scientist will be a key member of Aptiv Connected Services’ Data Science team. Our centralized team supports multiple areas of the organization, and has full access to a vast library of high-frequency and comprehensive vehicle data. We use advanced analytics, statistical modeling, and machine learning techniques to generate business insights for our customers and take the lead in developing cutting edge models to support our product offerings.
+Job Responsibilities:
+Work as part of our centralized data science team, collaborating and engaging with multiple functional areas within the organization.
+Process, manipulate, and explore large engineering and operational data sets across a range of platforms to uncover trends, generate insights, identify anomalies, and train models.
+Work closely with product leadership and subject matter experts to identify and develop analytics solutions to enhance our product offerings and solve business problems.
+Support the MLOps, data engineering, and product teams to productionize and deploy scalable models and solutions on our cloud and edge platforms.
+Requirements:
+University degree in computer science, mathematics, statistics, engineering, or a similar field.
+2+ years of working experience in data science and/or similar applications of extracting value from data is desired.
+Ability to frame and solve problems using statistical modeling and analysis.
+Experience with Python and data science related libraries such as pandas, NumPy, scikit-learn, Dask, PySpark, Keras, and TensorFlow.
+Experience with SQL and relational databases and knowledge of NoSQL databases such as MongoDB.
+Experience doing data science work in cloud environments.
+Exposure to deploying predictive models and machine learning algorithms into production environments is a plus.
+Knowledge of and/or experience in the automotive industry is a plus, but not required.
+Strong time management, organizational, and communication skills.
+A passion for working with data and using it to solve problems!
+Traits we seek:
+Curiously investigate everything – ability to solving problems analytically, creatively and collaboratively
+Lead with confidence – thought leaders who empower those around them
+Learn by doing – an entrepreneurial mindset that’s driven by hands-on experimentation
+Embrace resilience – seeing every challenge as a learning opportunity and invitation to grow
+Passion for product excellence – build great products with distinct customer value and apply continuous improvement and innovation
+Aptiv rewards and advantages:
+Competitive compensation with bonus potential
+Competitive health benefits
+401K with matching contribution
+Learning and development opportunities
+Discount programs with various manufacturers and retailers
+Recognition for innovation and excellence
+Opportunities to give back to the community
+Meaningful work that makes a difference in the world
+Relocation assistance (if applicable)
+Some see differences. We see perspectives that make us stronger.
+Diversity and Inclusion are sources of innovation and creativity, both of which are essential to Aptiv’s success. Everyday our diverse team comes together, drives innovation, pursues solutions, and meets challenges using their unique abilities, perspectives and talents, changing what tomorrow brings. When you join our team, you’ll get encouraged to think boldly, express your viewpoint and innovate as a matter of habit.
+Some See Technology. We See a Way to Make Connections.
+At Aptiv, we don’t just see the world differently; we work to change reality. That means developing technology that rewrites the rules of what’s possible in the pursuit of making transportation safer, greener and more connected. Today there are more than 190,000 of us globally, located in 46 countries, and united by one mission. Join the movement and together, let’s change tomorrow.
+Privacy Notice - Active Candidates: https://www.aptiv.com/privacy-notice-active-candidates
+Aptiv is an equal employment opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, national origin, sex, gender identity, sexual orientation, disability status, protected veteran status or any other characteristic protected by law.
+Job Type: Full-time
+Schedule:
+8 hour shift
+Application Question(s):
+Do you now, or will you at any time in the future, require any type of visa sponsorship or transfer to legally work in the U.S.?
+Experience:
+SQL and Relational Database: 2 years (Required)
+Work Location: Hybrid remote in Troy, MI 48098

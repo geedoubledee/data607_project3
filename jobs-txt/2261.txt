@@ -1,0 +1,74 @@
+Department Information
+Together, we innovate for a stronger Colorado
+The work of employees at the Governor's Office of Information Technology (OIT) is challenging and diverse because the needs of agencies, customers and Coloradans constantly evolve. But our focus never changes: improve the lives of all Coloradans through innovation and collaboration. We're building one of the nation's leading government IT organizations by reimagining how we support agencies, building first-of-their-kind applications, and creating an inclusive, collaborative culture, together. Join us in the important work of providing equitable access to services.
+
+We believe equity, diversity, and inclusion drive our success, and encourage candidates from all identities, backgrounds, and abilities to apply. We know it's important to support each other, and that means having a healthy balance of work and personal time, and benefits that allow us all to have fulfilling lives.
+
+Watch this video to learn about how OIT is thinking differently!
+
+Description of Job
+
+
+The Database Administrator II is responsible for supporting all efforts that keep the State databases running smoothly 24/7. The goal is to provide a seamless flow of information throughout the organization, considering both backend data structure and frontend accessibility for end users. Database Administrator II's provide complex database maintenance support to the organization, troubleshooting support, and collaborate on multiple projects simultaneously that have a database administration component.
+Some of the day to day duties:
+
+Perform monitoring of the DBMS systems.
+Proactively tune the database environment for applications to run smoothly and quickly and prevent outages.
+Perform SQL query performance tuning and advise developers.
+Provide response to service request tickets and solve associated database issues.
+Proactively remain current in database skill sets and technologies.
+Provide 24/7 database support and be available for problem solving assistance and communications support.
+Create and support nightly, weekly and monthly maintenance plans. Provide mechanized reporting for successful nightly plan completion.
+Handle database and table recovery; communicating required information to other state agencies.
+Ensure backups are available for recovery according to SLC (Service Level Contracts) and for disaster recovery.
+Working in an Agile project delivery methodology using AzureDevOps Boards
+Ongoing automation of routine database administration tasks using AzureDevOps and other automation tools.
+PowerShell and AWS Database experience - preferred
+
+Minimum Qualifications, Substitutions, Conditions of Employment & Appeal Rights
+A wide salary range is posted for this position and any job offer is based upon a salary analysis to comply with the Colorado Equal Pay for Equal Work Act. The salary analysis considers relevant experience, education, certifications, and state seniority as compared to others doing substantially similar work. While all offers are compliant with the Colorado Equal Pay for Equal Work Act, there is no guarantee an offer will be at the top of the posted range based on the salary analysis.
+
+Minimum Qualifications:
+
+Bachelor's degree from an accredited institution in a field of study related to the work assignment.
+
+A minimum of three (3) years of professional experience in an occupational field related to the work assigned to the position, to include previous experience as a dedicated Database Administrator in SQL Server 2016 or higher environment.
+
+Must be able to pass additional background checks in support of HIPAA, FTI, and CJI data classifications compliance.
+
+Substitutions:
+
+Additional appropriate education will substitute for the required experience on a year-for-year basis, but cannot completely substitute for these qualifications.
+Additional, appropriate paid or unpaid experience will substitute for the required education on a year-for-year basis.
+Training or Certification related to the work assigned to the position will be assigned credit towards substitution for experience and/or education, but cannot completely substitute for these qualifications.
+Preferred Qualifications:
+
+Relevant years of State Service in a position with similar duties.
+Three or more years of experience as a DBA operating independently within a production SQL Server 2016 - 2019 environment.
+
+SQL Server Database Administration certifications (Any).
+
+Agile, DevOps, and AzureDevOps experience.
+
+Knowledge of AWS Database platforms and hands-on AWS experience.
+
+Conditions of Employment:
+
+OIT employees must comply with any screening procedures in place at state entity locations where they might be required to perform work.
+A pre-employment background check will be conducted as part of the selection process.
+Positions supporting some agencies such as the Department of Corrections and the Department of Public Safety will also require a pre-employment drug test.
+This position may require travel within the specified geographic area, and to locations across the state as needed.
+Supplemental Information
+If this posting indicates “remote from anywhere in CO” in the title, periodic reporting to the primary state work location designated for the position is required. All remote work must be performed in Colorado.
+
+While candidates from out of state will be considered for this role, the candidate selected for the position must relocate and reside in Colorado on the first day of their new position. A reasonable timeframe for relocation will be established on an individual basis, while considering business needs, and determining a start date.
+
+Our application process and what to expect after you apply are described in the videos found here.
+
+The State of Colorado believes that equity, diversity, and inclusion drive our success, and we encourage candidates from all identities, backgrounds, and abilities to apply. The State of Colorado is an equal opportunity employer committed to building inclusive, innovative work environments with employees who reflect our communities and enthusiastically serve them. Therefore, in all aspects of the employment process, we provide employment opportunities to all qualified applicants without regard to race, color, religion, sex, disability, age, sexual orientation, gender identity or expression, pregnancy, medical condition related to pregnancy, creed, ancestry, national origin, marital status, genetic information, or military status (with preference given to military veterans), or any other protected status in accordance with applicable law.
+
+The Governor's Office of Information Technology is committed to the full inclusion of all qualified individuals. As part of this commitment, our agency will assist individuals who have a disability with any reasonable accommodation requests related to employment, including completing the application process, interviewing, completing any pre-employment testing, participating in the employee selection process, and/or to perform essential job functions where the requested accommodation does not impose an undue hardship. If you have a disability and require reasonable accommodation to ensure you have a positive experience applying or interviewing for this position, please direct your inquiries to our ADA Coordinator at OIT_HR@state.co.us or call (303) 764-7900.
+
+This posting may be used to fill multiple vacancies based upon business need.
+
+The Governor's Office of Information Technology does NOT offer sponsored Visas for employment purposes.

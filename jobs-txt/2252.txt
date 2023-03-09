@@ -1,0 +1,32 @@
+We're seeking a Full Stack Machine Learning Engineer to join us in our mission to improve human health and quality of life by developing advanced computational methods to transform drug discovery and materials design.
+As a member of our Machine Learning team, you'll work alongside machine learning engineers and scientists committed to deploying data-driven models into production for drug discovery and materials science.
+Working atop our tech stack (Kubernetes, Argo, PostgreSQL, Jenkins, Plotly Dash), you'll focus on productionizing team prototypes into refined machine learning products for both internal and customer use. This role is essential to delivering high-quality analytic tools based on validated machine learning research to scientists working in medicinal and computational chemistry.
+Who will love this job:
+A programmer who strives to create clear, repeatable, and stable computational workflows
+A computer scientist who understands the interplay between infrastructure, storage, compute resources
+An ML enthusiast who wants to work on the bleeding edge of supervised learning and De Novo molecular design
+A developer who aims to provide easy-to-use and intuitive user experiences
+A teammate who is excited to collaborate with engineers and scientists from a variety of domains in computational science
+A collaborator who can effectively communicate with technical and non-technical personnel and who enjoys working with product designers and managers
+What you'll do:
+Iterate on existing ML prototypes to bring components from proof-of-concepts to stable products
+Incorporate edge case protection, error handling, runtime portability, and documentation into supervised learning workflows
+Introduce new features into Plotly Dash dashboards with focus on improving UX
+Extend the capabilities of multi-machine, distributed systems that consume thousands of GPU compute hours every week
+Participate in code reviews with ML team members to promote best-practices development
+What you should have:
+Software engineering experience (in academia or industry) with focus on systems development, integration testing, and library cleanliness
+An understanding of relational databases, REST APIs, and stateless applications
+Experience using Git for distributed version control and source code management
+Familiarity with continuous integration and continuous deployment practices
+BS, MS, or PhD in Computer Science, Applied Mathematics, ML/Stats, Physics, Chemistry, or a related field
+We'd prefer to hire someone with:
+Cloud computing experience (GCP/AWS/Azure) for running containerized workloads
+Familiarity with Javascript and frontend development with React/Angular/Vue
+Foundational knowledge of supervised machine learning and De Novo design algorithms applied in computational drug discovery
+Independent interest in the sciences (a minor in a relevant discipline is a plus!)
+Pay and perks:
+Schrödinger understands it's people that make a company great. Because of this, we're prepared to offer a competitive salary, stock options, and a wide range of benefits that include healthcare (with dental and vision), a 401k, pre-tax commuter benefits, a flexible work schedule, and a parental leave program. We have catered meals in the office every day, a company culture that is relaxed but engaged, and over a month of paid vacation time. Our Administrative and Human Resources departments also plan a myriad of fun company-wide events. New York is home to our largest office, but we have teams all over the world. Schrödinger is honored to have been selected as one of Crain's New York Best Places to Work for the past three years running.
+Estimated base salary range (NYC only): $120,000 - $180,000. Actual compensation package is dependent on a number of factors, including, for example, experience, education, degrees held, market data, and business needs. If you have any questions regarding the compensation for this role, do not hesitate to reach out to a member of our Strategic Growth team.
+Sound exciting? Apply today and join us!
+As an equal opportunity employer, Schrödinger hires outstanding individuals into every position in the company. People who work with us have a high degree of engagement, a commitment to working effectively in teams, and a passion for the company's mission. We place the highest value on creating a safe environment where our employees can grow and contribute, and refuse to discriminate on the basis of race, color, religious belief, sex, age, disability, national origin, alienage or citizenship status, marital status, partnership status, caregiver status, sexual and reproductive health decisions, gender identity or expression, sexual orientation, or any other protected characteristic. To us, "diversity" isn't just a buzzword, but an important element of our core principles and key business practices. We believe that diverse companies innovate better and think more creatively than homogenous ones because they take into account a wide range of viewpoints. For us, greater diversity doesn't mean better headlines or public images - it means increased adaptability and profitability.

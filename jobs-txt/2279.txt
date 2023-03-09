@@ -1,0 +1,35 @@
+Gratiture Solutions is looking for a Data Engineer with 8 years of experience .
+Required Skills :
+Should have Good Experience in ETL tools and working with large data sets in the cloud
+Should have Good Experience in Data Development
+Should have Good Experience in GCP/Azure cloud platforms
+Should have experience in building streaming pipeline using spark streaming or similar
+Experience with Java, Scala and/or Python to write data pipelines and data processing layer
+Experience working with Relational Databases, Query Authoring (SQL) as well as working familiarity with a variety of databases
+Expertise in Kafka, Spark and at least one object-oriented programming language (Python, Java, Scala), Google Cloud, SQL
+Responsibilities:
+You will support the understanding of the priority order of requirements and service level agreements
+Help identify the most suitable source for data that is fit for purpose
+Perform initial Data quality checks on extracted data
+Analyze complex Data elements, systems, Data flows, dependencies, and relationships to contribute to conceptual, physical, and logical data models
+Develop the Logical Data Model and Physical Data Models including data warehouse and data mart designs
+Evaluate existing Data models and physical databases for variances and discrepancies
+Develop efficient Data flows. Create training documentation and trains end-users on data modeling
+Oversee the tasks of less experienced programmers and stipulates system troubleshooting supports
+Create test cases to review and validate the proposed solution design. Create proofs of concept. Test the code using the appropriate testing approach. Deploy software to production servers
+Data Engineering, Database Engineering, Business Intelligence, or Business Analytics, ETL tools and working with large data sets in the cloud
+Develop high performance and scalable solutions that extract, transform, and load Big Data
+Engage with Product Management and Business to support and build data solutions and develop expertise w.r.t data thereby being known as the true data analyst
+Engage with the engineering team to provide seamless production support
+Job Types: Full-time, Contract
+Pay: $120,000.00 - $130,000.00 per year
+Schedule:
+8 hour shift
+Supplemental pay types:
+Signing bonus
+Experience:
+Python: 5 years (Preferred)
+SQL: 5 years (Preferred)
+Kafka: 4 years (Preferred)
+Cloud: 4 years (Preferred)
+Work Location: Remote

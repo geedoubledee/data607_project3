@@ -1,0 +1,40 @@
+Overview:
+The Senior CRM Business Analyst (Sr. BA) leverages the same foundational business analysis skills as a business analyst, additionally taking on complex, high profile projects, with several business units or departments, multiple integrated systems and multiple organizations such coordination with vendor resources, as well as provide guidance to fellow business analysts.
+Responsibilities:
+Assumes project management responsibilities, when a project manager is not assigned to the team or project including developing high level project plan and timeline, identifying, tracking, monitoring and communicating project-related issues, scope changes, variances and contingencies that may arise during the project lifecycle and facilitating solutions with the appropriate stakeholders as well as creating communication plans and maintaining effective communications and working relationships with stakeholders and project team members.
+Assumes Scrum Master capabilities where an agile process is in place and a scrum master has not been assigned to the project or team, through facilitating all agile ceremonies including daily stand ups, grooming and planning sessions, retrospective sessions, demo/review sessions and acceptance criteria refinement sessions.
+Within Azure DevOps, sets up the team and project structure, iteration and board and manages the backlog, sprints and dashboards, adjusts the sprint process to adapt to the team and project requirements.
+Understands the Agile Methodology and knows where to implement it and where it is not helpful, adapts requirement gathering and analysis to support incremental and iterative development.
+Generates deliverables templates such as Business Requirements Documents, Data Mapping Documents, Epic/Features, User Stories, User Acceptance Test Cases, etc.
+Analyze existing tools (applications) and databases and provide solution recommendations to identified requirements
+Analyze Dynamics Current State and deliver business process improvements according to MS Dynamics CRM best practices.
+Create deliverables such as process flows, wireframes, mockups and functional prototypes to effectively communicate design strategies and detailed interaction behaviors.
+Become a Subject Matter Expert on a variety of packages and custom business applications including User Experience best practices.
+Qualifications:
+REQUIRED QUALIFICATIONS
+· 8+ years of prior experience as a Business Analyst or other IT role, such as support or development.
+· Expertise in MS Dynamics CRM implementations, both on prem and online, specifically in IT environments with existing core systems established in full integration with Dynamics.
+· Skilled at defining and documenting business and functional requirements for ongoing system enhancement initiatives in agile software development environments, including all common UML diagrams.
+· Experience writing clear acceptance criteria to a testable level.
+· Experience leading or participating in all Agile meetings including: sprint planning, sprint grooming, review, demo, stand-up, and retrospective sessions.
+· Experience in all phases of product, software, and testing lifecycles.
+· Microsoft Office experience: Word for documentation, Excel for data handling, Visio for process explanation, PowerPoint for presentation and Outlook for email.
+· Firm understanding of relational databases, database structures and design, and data management.
+· Beginner to moderate SQL knowledge.
+PREFERRED QUALIFICATIONS
+· 3+ years of experience on a business team interfacing with IT.
+· 3+ years of experience in healthcare.
+· Ability to become a Subject Matter Expert on various healthcare, insurance, pension, and/or payroll technology systems.
+· Experience working on different project types, such as off-the-shelf, new development, enhancements projects.
+· General knowledge of databases, applications, system interfaces, and operating systems.
+· Experience creating reports for business users, especially via SSRS or similar tools.
+· Knowledgeable in SDLC, Agile and/or Waterfall methodologies.
+Job Types: Full-time, Contract
+Pay: $75.00 - $85.00 per hour
+Experience level:
+8 years
+Schedule:
+8 hour shift
+Experience:
+SQL: 1 year (Preferred)
+Work Location: Remote

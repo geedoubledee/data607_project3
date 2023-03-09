@@ -1,0 +1,52 @@
+Analyzes information to identify trends and opportunities as well as identify information flow and data issues.
+Supports scrum team by defining workflows, epics/features/user stories, and acceptance criteria.
+Reports progress to various levels of leadership within organization and provides data insights to help leaders make actionable decisions.
+Identifies new capabilities and functionalities needed across the business processes and helps to build a data driven culture within the company.
+Plans, designs, and recommends business processes to improve and support business activities.
+Assists with developing the methods and procedures required to identify whether current business goals and objectives meet organizational needs.
+Facilitates meetings with stakeholders to gather and document data requirements, patterns in data, workflows, gaps, and potential solutions.
+Analyzes and documents client's business requirements and processes and communicates these requirements.
+Collaborates with work teams, departments, system leadership, staff, and other IT groups to define needs and business requirements and provides input into the development and modification of systems.
+Creates test scenarios and plans to be used in testing the business applications and analyzes results.
+Participates in reviews and inspections to verify 'intent of change' is carried out.
+Participates in business analyst tasks on information technology projects, problem tickets and provides support to other team members.
+Performs initial analysis of identified issues.
+Occasionally trains end users or helps guide the development of end user training materials as needed
+Ensures proper documentation and on-time delivery of all functional artifacts and deliverables.
+Acts as liaison to IT, operations and/or vendors supported in the division.
+Serves as operational business unit SME for technical and/or data driven solutions.
+Follows Agile/Scrum practices.
+Performs other duties as assigned.
+Have significant experience with data analytics and experience using analytical skills to
+seek out, research and evaluate a variety of options to provide high quality, efficient
+business processes and solutions that promote efficiency and aligns with the customer
+journey. Must demonstrate the ability to mediate and bridge the relationship between
+technical and business stakeholders without compromising the needs of the solution
+users and the strategic goals of the organization. Competent to work at the highest level of most phases of systems analysis while considering the business implications of the application of technology to the current and future business environment.
+Must meet or exceed core customer service responsibilities, standards and behaviors as outlined in the HFHS Customer Service Policy and summarized below:
+Communication Ownership
+Understanding Motivation
+Sensitivity Excellence
+Teamwork Respect
+Must practice the customer skills as provided through on-going training and in-services.
+Must possess the following personal qualities:
+Be self-directed
+Be flexible and committed to the team concept
+Demonstrate teamwork, initiative and willingness to learn
+Be open to new learning experiences
+Accepts and respects deversity without judgment
+Demonstrates customer service values
+PHYSICAL DEMANDS/WORKING CONDITIONS:
+Normal office environment with minimal exposure to noise, dust, or extreme temperatures. Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions.
+Job Type: Contract
+Salary: $25.00 - $30.00 per hour
+Schedule:
+5x8
+8 hour shift
+Day shift
+Monday to Friday
+Ability to commute/relocate:
+Troy, MI 48083: Reliably commute or planning to relocate before starting work (Required)
+Experience:
+SQL: 1 year (Preferred)
+Work Location: One location

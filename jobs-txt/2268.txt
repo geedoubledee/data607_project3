@@ -1,0 +1,85 @@
+Research Software Development Engineer/Senior Research Software Development Engineer - Remote
+Discovery Partners Institute
+Posting Category:
+
+The Discovery Partners Institute provides a platform for people to jumpstart their tech careers or companies in Chicago. Led by the University of Illinois System in partnership with local and global research universities, DPI does three things: train people for high-demand tech jobs, conduct applied R&D, and build businesses to grow Chicago's tech ecosystem. With state investment and a new urban innovation district in development just south of the Chicago Loop, DPI has the resources to attract, develop and leverage the most driven people and companies the region has to offer and keep them here.
+
+DPI invites nominations and applications for the position of (Sr.) Research Software Development Engineer. This position offers an extraordinary opportunity for versed engineers to build technology-based products and services. The (Sr.) Research Software Development Engineer will work closely with the system architect, other members of the cross-functional & cross-organizational teams, and external researchers/industry partners to create best-in-class scalable technology-based platforms and services, and solutions.
+Additional responsibilities included:
+
+Provide technology based objective thinking through experience and knowledge in the latest platforms, and software infrastructure (including cloud-based) applications and services to support ongoing and new projects by gathering and analyzing software requirements and investigating optimal solutions.
+Collaborate with a cross-functional team of stakeholders, software developers, and architects to design, implement, and test the solutions. Connect the dots between project needs, innovation, and good design.
+Document and conduct testing to evaluate software robustness, identify bugs and defects, and verify requirements gaps. Provides basic system administration support (e.g., keeping applications, operating system, and security settings up to date, ensuring regular data backups, etc.) for LAMP (Linux, Apache, MySQL, PHP/Perl/Python) servers.
+Write detailed supporting documentation including software requirements specification, system architecture specification, operational requirements specification, and user interface specification.
+Build user interfaces that are interactive, consistent and fast, that thrive under heavy customization and varying use cases, that encourage exploration, and that earn the trust of our customers through reliable, accessible and thoughtful interactions. Code solutions to problems using a structured approach, keeping in mind long-term maintainability and accessibility.
+Test coded solutions properly to ensure a quality application. Work with end-users during and after development to ensure needs are met.
+Provide support and training to other technical teams, empowering them to train their team members on using web-based tools.
+Collaborate with Digital Experience and Analysis team members and interfaces with Information Services and third-party product support to ensure that servers and applications run smoothly and efficiently.
+Prepare activity reports to monitor progress and track the status of the projects
+Assume additional appropriate and related duties to further the mission of the institute as needed.
+
+Qualifications:
+
+Required:
+Software Engineer Level:
+Bachelor's degree in computer science or engineering with 1-3 years of industry experience or an advanced degree with at least one year of industry experience.
+Senior Level:
+Bachelor's degree in computer science or engineering with more than 5 years of industry experience.
+
+Knowledge and Experience:
+Software Engineer Level Qualifications
+Solid Computer Science foundation in data structures and algorithms, object-oriented programming (OOP), and modern software engineering practices
+Demonstrated proficiency with Python, C++, Java, Matlab, HTML/CSS, jQuery, or other programming languages
+Experience working with REST APIs
+Demonstrated experience debugging and testing software systems
+Strong verbal and written communication skills
+Excellent problem-solving and multi-tasking skills
+
+Preferred
+Master's Degree in computer science or engineering
+Three plus years of industry experience
+Experience working with open-source applications and frameworks
+Experience with agile software development
+Experience with version control systems (GIT, P4, ClearCase, etc.), bug tracking systems (Jira, Bugzilla, GitHub, etc.)
+Experience with cloud computing or other distributed programming environments
+Experience with database programming
+Experience working with machine learning algorithms to solve classification and clustering problems, perform information retrieval from unstructured and semi-structured data, and build supervised and semi-supervised learning solutions
+Experience with big data and analytics
+
+Senior Level Qualifications
+Demonstrated experience debugging and testing software systems
+Experience working with open-source applications and frameworks
+Experience with agile software development
+Experience with version control systems (GIT, P4, ClearCase, etc.), bug tracking systems (Jira, Bugzilla, GitHub, etc.)
+Experience with cloud computing or other distributed programming environments
+Experience with database programming
+Experience working with REST APIs
+Experience working with machine learning algorithms to solve classification and clustering problems, perform information retrieval from unstructured and semi-structured data, and build supervised and semi-supervised learning solutions
+Experience with big data and analytics
+
+Preferred
+Master's degree in computer science or engineering with four-plus years of industry experience or Ph.D. in CS, Engineering, Physics, or Math with 0-2 year experience
+Experience mentoring junior engineers/students.
+Experience with project management
+Track record of designing, building, and deploying software solutions and supporting them.
+Working knowledge of Distributed computing, Distributed Decisions making, and data science.
+
+Appointment Information
+This is a full-time, 12-month Academic Professional position.
+
+Application Procedures & Deadline Information
+For full consideration, candidates must apply and submit a letter of application, resume, and names/addresses/phone numbers of three professional references by 6pm 11/28/2022 or visit at http://hr.uillinois.edu/employment.
+System Human Resource Services
+(217) 333-2600
+erhr@uillinois.edu
+The University of Illinois conducts criminal background checks on all job candidates upon acceptance of a contingent offer. Convictions are not a bar to employment.
+
+The University of Illinois System requires candidates selected for hire to disclose any documented finding of sexual misconduct or sexual harassment and to authorize inquiries to current and former employers regarding findings of sexual misconduct or sexual harassment. For more information, visit Policy on Consideration of Sexual Misconduct in Prior Employment.
+
+Applicants with disabilities are encouraged to apply and may request a reasonable accommodation under the Americans with Disabilities Act (2008) to complete the application and/or interview process. Requests may be submitted through the reasonable accommodations portal, or by contacting the Accessibility & Accommodations Division of the Office for Access and Equity at 217-333-0885, or by emailing accessibility@illinois.edu.
+
+As a qualifying federal contractor, the University of Illinois System uses E-Verify to verify employment eligibility.
+
+University of Illinois faculty, staff and students are required to be fully vaccinated against COVID-19. If you are not able to receive the vaccine for medical or religious reasons, you may seek approval for an exception in accordance with applicable University processes.
+Requisition ID: 9000209
+Job Category: Academic Professional

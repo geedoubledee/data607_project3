@@ -1,0 +1,63 @@
+Our client is seeking a Director who can work as part of our growing team at the U.S. Department of Homeland Security (DHS) and lead their Data Analytics and Visualization Practice. The ideal candidate should have direct DHS service delivery experience and expertise in capture/business development of data analytics and visualization related services. Candidates should also have experience in Project Management and experience overseeing growth and development of a business unit and its professional staff.This is a direct hire, full time position.
+YOUR FUTURE DUTIES AND RESPONSIBILITIES
+Director, Data Analytics and Visualization Practice
+Manage customer delivery efforts across Data Analytics, Visualization, Data Engineering and related accounts
+Lead projects that implement Data Analytics, Visualization, Data Engineering and other related solutions in areas such as: o Low-code/no-code development for mobile applications
+o Flexible and consistent data outputs that enable analytics and reporting
+o Streamline processes and integration with data collection that enables real-time ornear real-time reporting.
+o Automateddatacollectionthatimprovesdatacompletenessandqualityresultinginrobust analytical and reporting capabilities.
+o Create transparency into workflow and operations processes o Create enterprise-wide metrics dashboards
+o Explore data repository solutions
+o Automate data refresh(es) and transparency efforts
+Develop and manage Indev’s portfolio of data analytics and visualization corporate assets
+Lead capture/business development opportunities related to Data Analytics, Visualization,Data Engineering and related subject areas
+Provide subject matter expertise in Data Analytics, Visualization, Data Engineering andrelated areas
+Provide mentorship, training, and career development support to Indev’s professionals
+Represent Indev at industry conferences, associations, and events
+Help Indev’s DHS customers to automate data collection, provide process transparencyand deliver accessibility of data and streamlined analyses.
+Continuously monitor and evaluate emerging technologies and methodologies to assessopportunities, enhance tools and pivot to new solutions.
+Empower our customers with the ability to leverage data visualization utilities to make data driven decisions
+Provide full lifecycle IT Systems Development to build out solutions in cloud-native, on- prem, hybrid, microservices, and/or containerized deployment methods
+Provide license management strategy and support, including trade-off analysis of bring- your-own vs. enterprise
+REQUIRED QUALIFICATIONS TO BE SUCCESSFUL IN THIS ROLE
+3+ years’ experience in DHS capture/business development
+6+ years’ experience working in a Data Analytics and Visualization environment,preferably within DHS
+Experience with and be knowledgeable of DHS ICE IT Systems (preferred) and SLMprocesses
+Experience with Agile development and industry accepted best practices * Experience in several of the following: o Mobile application development
+o Advanced analytics
+o Microservices
+o Machine Learning/Artificial Intelligence o Tableau (Desktop, Server)o Qlik
+o Microsoft (Forms, Power Automate, Power BI) o UiPath
+EDUCATION & CERTIFICATIONS
+Bachelor’s Degree in technical/management fields to include, but not limited to, the following: computer science, engineering, business management, etc.
+Certifications in Data Analytics, Data Management, Data Governance desired
+PMP desired but not required
+LOCATION
+Washington D.C. metropolitan area. Telework/remote supported.
+CLEARANCE
+Must be a U.S. Citizen and be able to obtain a U.S. Federal government client badge and be required to pass a government Public Trust background investigation.
+Job Type: Full-time
+Pay: $180,943.71 - $220,823.40 per year
+Benefits:
+401(k)
+401(k) matching
+Dental insurance
+Flexible schedule
+Health insurance
+Life insurance
+Paid time off
+Retirement plan
+Tuition reimbursement
+Vision insurance
+Schedule:
+8 hour shift
+COVID-19 considerations:
+Position can be remote
+Application Question(s):
+Do you have experience working/supporting Department of Homeland Security?
+Are you a U.S. Citizen?
+What is the salary you are looking for?
+Experience:
+Data Analytics: 5 years (Preferred)
+Capture/Business Development: 6 years (Preferred)
+Work Location: Remote

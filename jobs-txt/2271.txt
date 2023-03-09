@@ -1,0 +1,39 @@
+Overview:
+
+JOB SUMMARY: The primary responsibilities of this position will be to be the sole database administrator for a large Washington DC-based organization of approximately 500 users, 100 total servers, and 10-15 SQL servers running mostly SQL 2012 and SQL 2014. These servers are hosted in a mix of an Amazon Web Services environment and on-premise on Microsoft HyperV. Applications running on SQL include Microsoft SharePoint and Microsoft Dynamics. High Availability is in use via SQL mirroring with a witness server. This organization is also starting a data warehousing initiative and will need the support of this position to offer recommendations, manage integrations, and to help execute this initiative. This position will be part of a team of ~10 individuals providing IT services to this customer, will have an adjunct team of an additional~10 individuals to provide services in a shared role, all as part of a 90+ person IT organization.
+
+Additionally, this position will also be responsible for helping to design a business practice within designDATA around database administration. As a large IT Managed Services Provider, designDATA wants to expand our offerings to include database administration. This includes designing what is included in this service offering, setting standards for how we would deliver this service, how to ensure the service is profitable, and what additional staffing and skillsets will be required to deliver this service.
+Responsibilities:
+Position will also be responsible for helping to design a business practice within designDATA around database administration. As a large IT Managed Services Provider, designDATA wants to expand our offerings to include database administration. This includes designing what is included in this service offering, setting standards for how we would deliver this service, how to ensure the service is profitable, and what additional staffing and skillsets will be required to deliver this service.
+Qualifications:
+QUALIFICATIONS:
+Bachelor's Degree from an accredited college or university with a major in Computer Science, Information Systems, Engineering, Business, or other related scientific or technical discipline or three (3) years of equivalent experience in a related field.
+5+ years working in SQL database administration (including SQL 2012 and 2014)
+3+ years being a lead / sole SQL database administrator in a complex database environment
+Experience with configuring SQL best practices (performance, high availability, security, backup and recovery)
+Experience with SQL licensing and cost management
+Experience with SSRS and reporting a plus
+Experience with Oracle Databases
+Experience as a DBA with AWS Cloud databases are a bonus.
+Valid driver’s license, insurance and reliable personal vehicle
+
+WORKING ENVIRONMENT: The majority of work is performed in a professional office setting with a wide variety of people with differing functions, personalities and abilities.
+
+PHYSICAL DEMANDS: The individual will be subject to sedentary work with the majority of hours in a professional office environment and will need to be able to quickly respond to a change in work demands. The individual is required to have close visual acuity to perform activities such as viewing a computer terminal. Occasionally lift, carry, push, pull or otherwise move objects (1-40 lbs.) are required.
+
+REASONABLE ACCOMODATION: It is design DATA, Inc.’s business philosophy and practice to provide reasonable accommodations, according to applicable state and federal laws, to all qualified individuals with physical or mental disabilities.
+
+PREFERENCE STATEMENT: design Data, Inc. grants preference to qualified Doyon Shareholders first, and second to qualified shareholders of other Alaska Native corporations that grant a similar preference in all phases of employment and training, which include, but are not limited to hiring, promotion, layoff, transfer, and training.
+PAY TRANSPARENCY STATEMENT: design Data, Inc. will not discharge or in any other manner discriminate against employees or applicants because they have inquired about, discussed, or disclosed their own pay or the pay of another employee or applicant. However, employees who have access to the compensation information of the other employees or applicants as a part of their essential job functions cannot disclose the pay of other employees or applicants to individuals who do not otherwise have access to compensation information, unless the disclosure is (a) in response to a formal complaint or charge, (b) in furtherance of an investigation, proceeding, hearing, or action, including an investigation conducted by the employer, or (c) consent with the contractor’s legal duty to furnish information.
+
+Apply Online at www.doyon.com
+
+design Data Inc. is a Federal Contractor and complies with the Vietnam Era Veterans Readjustment Assistance Act (VEVRAA).
+
+design Data, Inc. is an equal opportunity employer. We evaluate qualified applicants without regard to race, color, religion, sex, sexual orientation, gender identity or national origin, disability, veteran status, and other protected characteristics. The EEO is the Law and the poster is available at http://www1.eeoc.gov/employers/upload/eeoc_self_print_poster.pdf. For questions on the job posting contact (253) 344-5300.
+
+EOE AAP M/F/V/D
+
+If you need assistance or special accommodations during the application process, please contact the appropriate Human Resources Department at dgghr@doyongovgrp.com
+
+Only qualified applicants will be notified.

@@ -1,0 +1,41 @@
+PROJECT DESCRIPTION
+We are undertaking a complex initiative to transition our payments and settlements landscape The project will coordinate new product deployment into our landscape, transition period, and decommissioning of existing payments landscape. The project is expected to complete by end 2024.
+Project will deliver:
+Migration to new Payment as a Service model
+Increased data security in Retail sites
+Decommissioning of existing payments landscape
+REQUIRED SKILLSET:
+Business Process Mapping
+Requirement’s elicitation, documentation and management
+Understanding of requirements V-model and applicability to Waterfall Projects
+Workshop facilitation
+Stakeholder Management
+Comfort with technology and technical terminologies
+Experience collaborating across disparate and/or virtual and vendor teams
+NICE TO HAVE:
+Experience of Payments Operations
+DELIVERABLES
+Business Process maps documenting as-is and to-be for the project
+Roles and responsibilities definitions for as-is and to-be organization
+Business requirements and traceability matrix; aligned to IT streams technical functional requirements and specifications.
+Documented step out and workaround processes, with step-in actions defined
+Regular and ad-hoc status reporting
+Change Management process
+STAKEHOLDERS:
+This role will interface with:
+Business payments operations teams
+Business settlements operations
+3rd Party organization responsible for current processes
+Incumbent organization who will fulfil business processes in future
+Compliance Management teams
+IT Payments teams
+Solution Architecture
+Test Management teams
+We regret that we are unable to sponsor employment Visas or consider individuals on time-limited visa status for this position.
+Job Type: Contract
+Pay: $50.00 - $60.00 per hour
+Schedule:
+8 hour shift
+Application Question(s):
+Willing to work on site?
+Work Location: One location

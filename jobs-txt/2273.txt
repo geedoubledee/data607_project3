@@ -1,0 +1,47 @@
+Craft:
+Technology & Development
+Job Description:
+Activision Blizzard Media and King (a part of Activision- Blizzard) are building a new team to introduce innovative, impactful, and rewarding advertising experiences to our huge audience of highly- engaged players, and to create powerful marketing solutions embraced by the world's biggest marketers. Activision Blizzard Media is seeking a Data Scientist Leader interested in pushing the boundaries of mobile games analytics and advertising performance.
+
+Your role within our Kingdom
+Lead the data science team in building data products powering our advertising and monetization platform
+Leverage understanding of metrics, testing methodology and business strategy to help define the roadmap of the company.
+Promote and use advanced modeling techniques (eg. reinforcement learning, time series forecasting, causal methods) to provide precise measurement of our player base
+Provide guidance and mentorship to fellow data scientists by disseminating best practices, publishing reusable tools/code and giving constructive feedback.
+Present and visualise results in a clear and concise way to senior management for decision making.
+Lead data- driven decision making by partnering with key cross- functional teams and leadership.
+Proactively identify and lead improvements to the execution of research and analytics within the Data Science team.
+Skills to create thrills
+An advanced degree in a quantitative field - computer science, engineering, statistics, operations research, economics, etc..
+6+ years of experience in Analytics or Data Science both as an individual contributor and managing teams
+Consistent record of leading and influencing projects using data and working with large scale data and infrastructure
+Be a subject matter expert and analysis lead for ad products.
+Can research, identify and disseminate best practices across teams in terms of tools, systems and processes.
+Ability to communicate and collaborate effectively with cross- functional audiences (e.g Product, Engineering, Business Strategy).
+You are methodological and practical; able to prioritize and assist with business requests i.e. analyzing A/B tests, strange player behaviour, complex interaction dynamics, etc.
+Experience with a broad set of statistical and machine learning methods to solve and optimize critical business problems and metrics
+Bonus points
+Prior experience in advertising data products.
+Ability to learn quickly and work in a fast paced, rapidly changing and collaborative environment.
+The ability to write complex SQL queries and work effectively in any functional programming language for numerical analysis purposes.
+Strong adherence to data driven development and design, with an experimental and analytical approach to product improvement..
+Able to show good communication skills, and experience in visualising and reporting learnings.
+A Great Saga Needs Diverse Heroes
+
+Making games is fun. Especially when you do it with people who share the same idea of what makes a good workplace, great. We craft games for everyone, no matter where they are or who they are, and we employ all kinds of people from all types of backgrounds to bring them to life. We believe we simply can’t expect diversity in our players and new ideas in our games without first nurturing it in our people. A great saga needs all sorts of heroes, wouldn’t you agree? That’s why we provide equal opportunities and hire all sorts of talent.
+
+We're Seriously Playful
+
+Officially, we are a leading interactive entertainment company for the mobile world. Unofficially, we’re a serious business that takes pride in having fun. Every single day at King, we mix intuition with logic, art with science and magic with mathematics to craft the games the world loves to play. Together with our parent company, Activision Blizzard, our mission is to bring moments of magic to everyday life. Do you think this is something you can help us achieve? Then we’d love to talk with you.
+
+Be Part of an Exciting Team
+
+Activision Blizzard Media is a young and rapidly growing business that has been created to connect advertisers with our 260M global consumer base. This thriving start- up effort, which is currently embedded in the business unit of King (the makers of the #1 mobile game Candy Crush Saga) is rapidly scaling and is poised to become one of the largest advertising businesses in the world.
+About King
+King is the game developer behind the world- famous Candy Crush franchise, as well as mobile game hits including Farm Heroes, Bubble Witch and Pet Rescue. Candy Crush is the top- grossing franchise in US app stores, a position it has held for the last two years, and King’s games are being played by 245 million monthly active users as of Q3 2021. King, which is part of the Activision Blizzard group since its acquisition in 2016, employs nearly 2,000 people in game studios in Stockholm, Malmö, London, Barcelona and Berlin, and offices in San Francisco, New York, and Malta.
+A Great Saga Needs All Sorts of Heroes
+Making games is fun. Especially when you do it with people who share the same idea of what makes a good workplace great. We design games for everyone, no matter where they are or who they are, and we employ all sorts of people from all kinds of backgrounds to bring them to life. Truth is, we simply cannot expect diversity in our players and originality in our games without first nurturing it in our people. A great saga needs all sorts of heroes.
+Making the World Playful
+Making the World Playful is what inspires us to create new experiences and raise the bar. It’s what makes King a place where we can all dream bigger, continue to add innovation to our games, broadening the portfolio and exploring new territories in mid- core and casual. We take the art and science of gaming to the next level through our curiosity for the unexplored, passion for games, respect for each other and love for our players - and we’re not afraid to have fun along the way. In fact, together with our parent company Activision Blizzard and experts around the world, we believe having fun is good for you. There has never been a better time to join us. We're dreaming bigger and see a world of possibilities ahead. If you share our passion, our values, and our hunger to shape the future, join us in Making the World Playful!
+Applications needs to be in English.
+Discover King at careers.king.com

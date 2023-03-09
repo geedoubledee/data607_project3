@@ -1,0 +1,39 @@
+This Role:
+The Tableau Developer will source, analyze, and report data to enhance business operations. The position will support internal operational and coding teams working closely with other technical staff to understand the requirements and translate those requirements into technical specs and project goals.
+Key Responsibilities:
+Responsible for developing data models and advanced data sources for use in Business Intelligence visualization tools (Tableau) that help spot trends, identify issues, and further optimize internal operational processes.
+Work with Data Strategy team and other Technology departments to understand current data warehouse structure and application databases, and then build custom queries.
+Closely monitor data extracts and perform optimization at different points in the data extract process.
+Understand user requests and be able to translate those requests into technical specs and data sources.
+Adjust workload as necessary to prioritize more urgent report and data requests.
+Assist with business analysis and workflow documentation processes.
+Research and troubleshoot data inaccuracies between multiple systems; create and execute plan to fix them
+Guide and create appropriate data solutions (dashboards, reports, business intelligence tools, etc.) and data analysis for the measurement of processes and outcomes.
+Manage information assets and user access
+Adhere to current SDLC policies and procedures
+Define, maintain, and protect data input/output into logical storage
+
+Qualifications:
+To perform this job successfully, an individual must be able to perform each Key Responsibility satisfactorily. The following requirements are representative of the knowledge, skills, and/or ability required to perform this job successfully. Reasonable accommodation may be made to enable individuals with disabilities to perform the duties.
+Required:
+Minimum of 2 years of experience with Microsoft SQL Server (2008+), T-SQL, and experience creating and maintaining ETL’s a plus
+Minimum 2 years of experience with Tableau desktop
+Experience manipulating and analyzing large quantities of data
+Strong SQL skills
+Excellent interpersonal communication skills
+
+Preferred:
+Experience with healthcare RCM (revenue cycle management) or other healthcare data
+Experience with medical claims data
+Experience with scripting languages (Python, PowerShell, JavaScript, etc.)
+
+Benefits at LogixHealth:
+We offer a comprehensive benefits package including health, dental and vision, 401(k), PTO, paid holidays, life and disability insurance, on-site fitness center and company-wide social events.
+About LogixHealth:
+At LogixHealth we provide expert coding and billing services that allow physicians to focus on providing great clinical care. LogixHealth was founded in the 1990s by physicians to service their own practices and has grown to become the nation’s leading provider of unsurpassed software-enabled revenue cycle management services, offering a complete range of solutions, including coding and claims management and the latest business intelligence reporting dashboards for clients in 40 states.
+Since our first day, we have had a clear vision of a better healthcare system and have continually evolved to get there. In addition to providing expert revenue cycle services, we utilize proprietary software to provide valuable financial, clinical, and other data insights that directly improve the quality and efficiency of patient care.
+At LogixHealth, we’re committed to Making Intelligence Matter through our pillars of Physician-Inspired Knowledge, Unrivaled Technology, and Impeccable Service.
+To learn more about us, visit our website https://www.logixhealth.com/.
+.
+
+MyMDBME5ya

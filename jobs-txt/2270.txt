@@ -1,0 +1,41 @@
+Data Engineer
+JOB SUMMARY
+We are looking for an accomplished Data Engineer to join our quickly growing Analytics team. The hire will be responsible for expanding and improving our data and data pipeline architecture, as well as optimizing data flow and MDM for cross functional teams. The ideal candidate is an experienced data pipeline builder and data wrangler who enjoys optimizing data systems and building them from the ground up. The Data Engineer will support database architects, data analysts and data scientists on data initiatives and will ensure optimal data delivery throughout ongoing projects. They must be self-directed and comfortable supporting the data needs of multiple teams, systems, and products. The right candidate will be excited by the prospect of optimizing or even re-designing our company’s data pipelines to support our next generation of products and data initiatives.
+RESPONSIBILITIES
+Design, develop, and operate large scale data pipelines to support internal and external consumers
+Improve and automate internal processes
+Integrate data sources to meet business requirements
+Write robust, maintainable, well documented code
+QUALIFICATIONS
+4+ years professional Data Engineering and Data warehousing experience
+Extremely strong implementation experience in
+o Python, Spark, Azure Databricks, Delta Lake, and Databricks Data Warehouse.
+o SQL development knowledge – Stored procedures, triggers, jobs, indexes, partitioning etc.
+o Be able to write/debug complex SQL queries
+o Azure Data factory, Azure Synapse Analytics
+o ETL/ELT and Data-warehousing techniques and best practices
+Experience with MS-SQL server and Databricks Data warehouse.
+Experience building, maintaining, and scaling ETL/ELT processes and infrastructure
+Knowledge of being able to work with a variety of Ingestion patterns such as API/SQL servers etc.
+Experience with cloud infrastructure (Azure strongly preferred)
+Knowledge of Master Data Management
+Demonstrated ability of building quality metrics into Data pipelines
+Implementation experience with various data modelling techniques
+Implementation experience working with a BI visualization tool (Sisense is a plus)
+Experience with CI/CD tools (Preferred Gitlab, Jenkins)
+Pluses for experience with
+o UI development frameworks such as java script, Django, REACT etc.
+Experience working in a fast-paced product environment, with an attitude of getting the job done with the least amount of tech debt
+Prior Financial industry experience a plus.
+Be able to navigate ambiguity and pivot based on business priorities with ease.
+Strong communication, negotiating and estimating skills.
+Job Type: Full-time
+Pay: $94,000.00 - $111,200.00 per year
+Schedule:
+8 hour shift
+Monday to Friday
+Experience:
+Informatica: 1 year (Preferred)
+SQL: 1 year (Preferred)
+Data warehouse: 1 year (Preferred)
+Work Location: Remote

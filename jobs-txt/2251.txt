@@ -1,0 +1,53 @@
+Requires support CFPB’s Data Analytics program and develops algorithms, visualizations, and analytics solutions.
+Statistical analysis and model development using programming languages such as Python and R.
+Produce accurate reports on financial data including trend analysis, and pattern detection using software such as SQL and Excel.
+Write queries as part of data analysis (not including for automation purposes).
+Develop code to appropriately query, manipulate, and clean relational data.
+Develop creative and accurate visualizations that communicate a story, trend, pattern etc., through collaborations with other team members.
+Write queries as part of data processing code that is self- documenting and clean.
+Interpret machine learning models.
+Independently analyze data, applying and explaining the statistical and mathematical principles used.
+Use methods of exploratory data analysis and ability to identify when data is insufficient to reach conclusions.
+Work with subject matter or technical experts including attorneys, researchers, and/or economists.
+Provide technical expertise for non-technical researchers/subject matter experts, using multiple advanced analytical and statistical techniques such as:
+Natural language processing
+Time-series modeling
+Predictive Modeling
+Valuation of options and derivatives
+Sampling and sample size calculations
+Hypothesis testing
+Constructing and validating assessment instruments such as surveys, questionnaires, tests, and scales
+De-identification/re-identification standards for datasets, and/or
+A/B testing.
+Work with Data Architects to create a flexible schema for long term storage of data within the Data Warehouse.
+Create flexible parsing capability ensuring persistent parsed data using languages like Python and SQL.
+Design and implement flexible evaluation criteria using efficient evaluator code.
+Design and develop code using appropriate server environments and source code management like Github.
+Design and implement a customizable output and where appropriate use metadata to create layouts.
+The Evaluator Tool shall provide anonymized parsing, stripping out PII from final parsed data.
+1 year of experience in the following:
+Independently using data to answer questions.
+Using methods of exploratory data analysis and demonstrating ability to identify when data is insufficient to reach conclusions.
+Statistical analysis using programming languages such as Python and R.
+Developing analytics solutions that are programmatic.
+Choosing appropriate analytical techniques to solve a problem.
+Providing technical expertise for non-technical researchers/subject matter experts.
+Using advanced statistical or machine learning methods where appropriate.
+Experience working with subject matter or technical experts including attorneys, researchers, and/or economists.
+Attention to detail.
+Experience specific to regulatory analysis.
+Software or data engineering experience, including experience using Github, and Git. Interpreting machine learning models.
+Model development using programming languages such as Python and R.
+Job Types: Contract, Full-time
+Pay: $70.00 - $75.00 per hour
+Experience level:
+7 years
+Schedule:
+8 hour shift
+Ability to commute/relocate:
+Washington, DC: Reliably commute or planning to relocate before starting work (Required)
+Experience:
+Informatica: 1 year (Preferred)
+SQL: 1 year (Preferred)
+Data warehouse: 1 year (Preferred)
+Work Location: One location

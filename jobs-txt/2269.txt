@@ -1,0 +1,35 @@
+Company Description
+
+PubMatic is a digital advertising technology company for premium content creators.
+The PubMatic platform empowers independent app developers and publishers to control and maximize their digital advertising businesses.
+PubMatic’s publisher-centric approach enables advertisers to maximize ROI by reaching and engaging their target audiences in brand-safe, premium environments across ad formats and devices.
+Since 2006, PubMatic has created an efficient, global infrastructure and remains at the forefront of programmatic innovation. Headquartered in Redwood City, California, PubMatic operates 13 offices and nine data centers worldwide.
+
+Job Description
+
+We are immediately hiring a Machine Learning Engineer to join our growing team remotely from within the United States.
+Reporting to the Director of Machine Learning in Pacific Time, you will partner with Product and Engineering teams to solve problems with Machine Learning to identify trends and opportunities for the business.
+The ideal candidate will apply quantitative analysis, modeling and data mining to help drive informed product decisions for PubMatic + get things done.
+Responsibilities:
+Perform deep dive analysis to understand and optimize the key product KPIs
+Apply statistics, modeling, and machine learning to improve the efficiency of systems and relevance algorithms across our business application products
+Conduct data analysis to make product recommendations and design A/B experiments
+Partner with Product and Engineering teams to solve problems and identify trends and opportunities
+Collaborate with cross-functional stakeholders to understand their business needs, formulate and complete end-to-end analysis that includes data gathering, analysis, ongoing scaled deliverables and presentations
+
+Qualifications
+BA/BS or MS degree with emphasis on coursework of a quantitative nature (e.g., Statistics, Computer Science, Engineering, Mathematics, Data Sciences)
+2+ years of hands-on experience with design + implementation of Machine Learning models for solving business problems with statistical packages, such as R, MATLAB, Python (NumPy, Scikit-learn + Pandas) or MLlib
+Experience with articulating product questions and using statistics to arrive at an answer
+Experience with scripting in SQL - extracting large data sets and design of ETL flows
+Work experience in an inter-disciplinary/cross-functional field
+Deep interest and aptitude in data, metrics, analysis, trends and applied knowledge of measurement, statistics and program evaluation
+Distinctive problem-solving skills and impeccable business judgment
+Capable of translating analysis results into business recommendations
+#LI-SD1
+
+Additional Information
+
+Return to Office: PubMatic employees around the world have returned to our offices via a hybrid work schedule (3 days “in office” and 2 days “working remotely”) that is intended to maximize collaboration, innovation, and productivity among teams and across functions. All PubMatic employees in the US and India are required to be fully vaccinated to return to our offices. Covid-19 boosters are not required at this point in time.
+Benefits: Our benefits package includes the best of what leading organizations provide such as, paid leave programs, paid holidays, healthcare, dental and vision insurance, disability and life insurance, commuter benefits, physical and financial wellness programs, unlimited DTO in the US (that we actually require you to use!), reimbursement for mobile and internet expenses and fully stocked pantries plus in-office catered lunches 3 days per week.
+Diversity and Inclusion: PubMatic is proud to be an equal opportunity employer; we don’t just value diversity, we promote and celebrate it. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.

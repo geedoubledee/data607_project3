@@ -1,0 +1,78 @@
+Job Description
+Our Digital team is innovating how we understand our patients and their needs. Working cross functionally we are inventing new ways of communicating, measuring and interacting with our customers and patients through digital channels and technologies.
+Position Description:
+The Director, Data Science (Head of Impact Evaluation) role will work within the Human Health Insights, Analytics and Data area to use advanced statistical methods and techniques to isolate the impact of data driven commercial interventions within Human Health. This will include measuring the impact of analytics that is currently to support the business (Next Best Action, Targeting lists, Prediction algorithms on HCPs and HCCs, etc.) and the impact of promotional work through methods like MMX. Their remit will be to help create feedback mechanisms for the work that is done in Human Health so that continuous improvement can occur, and the organization can mature towards a more agile way of thinking through a hypotheses driven and experimentation oriented mindset and culture.
+The preferred candidate will have an entrepreneurial spirit, understanding of healthcare & technology, a demonstrated record deriving actionable insights from analytics. They will have demonstrated consistently strong leadership skills, an ability to work independently and deal well with ambiguity and strong collaboration skills. They will empower a growth mindset and inspire a culture of continual learning. This role will require interfacing and collaborating with many teams throughout a lot of our Company’s markets and so strong communication skills is a must.
+Individuals who will thrive in this role are motivated by developing a deep understanding of pharma secondary data sources and possess an ability to define and translate objectives and business questions into analytical problems that require advanced and scalable analytical solutions that produce actionable insights.
+
+Primary Tasks:
+Help systematize current MMX and PRM processes so they can be set up for scale both in the US and ex-US
+Bring all measurement activities currently carried out in Human Health under one umbrella and through a standard way of defining and measuring.
+Partner with finance teams to certify the financial impact measured and move towards a self-funded model.
+Develop mechanisms to take feedback from the measurement and inform strategy and analytics, hence creating self-learning systems.
+Create a CoE for causal inference methods, RCTs, etc. and share best practices with the organization.
+Contribute to innovative experiments, specifically to idea generation, idea incubation and/or experimentation, identifying tangible and measurable criteria.
+Where applicable, collaborate and partner throughout the organization to identify, share and lead the sourcing of externally available data sources based on the business needs, and execution of specific business objectives.
+Position Qualifications:
+Education Minimum Requirement:
+A minimum of BS (or equivalent) in Data Science, Computer Science, Management Information Systems, IT, or an equivalent scientific/commercial discipline.
+Masters/PhD preferred.
+Required Experience and Skills:
+Minimum of 10 plus years of relevant experience delivering actionable analytical insights that drive positive business results.
+Deep knowledge of PRM/MMX methodologies and ability to provide guidance to junior team members. Well versed in causal inference methodologies, experiment design, Hypothesis testing, RCTs, etc.
+Leading innovation and research projects in some capacity at a large organization.
+Providing actionable insights through analytics to commercial franchises brands at various stages of product life cycle (development, launch, maturity, end of life cycle).
+Developing both machine learning and descriptive algorithms/modeling using such languages as Python, R and SAS etc.
+Comfortable in formulating actionable insights and recommendations from commercial analytics into presentations (using PowerPoint, Tableau, etc.) and presenting results to various levels of franchise management.
+Demonstrated ability to collaborate with diverse groups of work colleagues and positively manage ambiguity.
+Self-motivation, proactivity, and ability to work independently with minimum direction.
+Proven knowledge of business processes and industry/market trends within the pharmaceutical/healthcare space.
+Excellent interpersonal and communication skills, along with the ability to communicate appropriately and confidently with colleagues from different backgrounds and seniority levels.
+Excellent organizational skills, with ability to navigate a complex matrix environment and organize/prioritize work efficiently and effectively.
+Proven track record of successful completion of multi-stakeholder projects necessitating coordination cross-functionally between several departments.
+Our Human Health Division maintains a “patient first, profits later” ideology. The organization is comprised of sales, marketing, market access, digital analytics and commercial professionals who are passionate about their role in bringing our medicines to our customers worldwide.
+Who we are …
+We are known as Merck & Co., Inc., Rahway, New Jersey, USA in the United States and Canada and MSD everywhere else. For more than a century, we have been inventing for life, bringing forward medicines and vaccines for many of the world's most challenging diseases. Today, our company continues to be at the forefront of research to deliver innovative health solutions and advance the prevention and treatment of diseases that threaten people and animals around the world.
+What we look for …
+Imagine getting up in the morning for a job as important as helping to save and improve lives around the world. Here, you have that opportunity. You can put your empathy, creativity, digital mastery, or scientific genius to work in collaboration with a diverse group of colleagues who pursue and bring hope to countless people who are battling some of the most challenging diseases of our time. Our team is constantly evolving, so if you are among the intellectually curious, join us—and start making your impact today.
+NOTICE FOR INTERNAL APPLICANTS
+In accordance with Managers' Policy - Job Posting and Employee Placement, all employees subject to this policy are required to have a minimum of twelve (12) months of service in current position prior to applying for open positions.
+If you have been offered a separation benefits package, but have not yet reached your separation date and are offered a position within the salary and geographical parameters as set forth in the Summary Plan Description (SPD) of your separation package, then you are no longer eligible for your separation benefits package. To discuss in more detail, please contact your HRBP or Talent Acquisition Advisor.
+We are proud to be a company that embraces the value of bringing diverse, talented, and committed people together. The fastest way to breakthrough innovation is when diverse ideas come together in an inclusive environment. We encourage our colleagues to respectfully challenge one another’s thinking and approach problems collectively. We are an equal opportunity employer, committed to fostering an inclusive and diverse workplace.
+Residents of Colorado
+Click here to request this role’s pay range.
+For positions located in the United States and Puerto Rico – Subject to applicable law, all new hires (including internal transfers) must demonstrate that they are fully vaccinated against COVID-19 or that they qualify for a medical or religious exemption to this vaccination requirement. New hires (including internal transfers) to a position that, as determined by the Company, requires routine collaboration with external stakeholders (such as roles in health services or customer-facing commercial or research-based roles) (“Customer-Facing Role”) who are not vaccinated must qualify for a medical or religious exemption and be in a position that the Company determines can accommodate unvaccinated employees without causing an undue burden to business operations. If, following dialog with the candidate as appropriate, it is determined that the candidate either a) does not qualify for a religious or medical exemption or, b) for candidates applying for Customer-Facing roles, it is determined that allowing the candidate to work without vaccination would cause an undue burden to the Company, the candidate will be ineligible for hire or transfer, or any offer of employment or transfer (if applicable) will be revoked. Please note that notwithstanding the approval of any reasonable accommodation, the Company reserves the right to monitor, modify, or revoke any such accommodation if it is determined, following dialog with the employee, that the accommodation is no longer effective or results in an undue burden to the Company.
+Current Employees apply HERE
+Current Contingent Workers apply HERE
+US and Puerto Rico Residents Only:
+Our company is committed to inclusion, ensuring that candidates can engage in a hiring process that exhibits their true capabilities. Please click here if you need an accommodation during the application or hiring process.
+For more information about personal rights under Equal Employment Opportunity, visit:
+EEOC Poster
+EEOC GINA Supplement
+OFCCP EEO Supplement
+Pay Transparency Nondiscrimination
+We are proud to be a company that embraces the value of bringing diverse, talented, and committed people together. The fastest way to breakthrough innovation is when diverse ideas come together in an inclusive environment. We encourage our colleagues to respectfully challenge one another’s thinking and approach problems collectively. We are an equal opportunity employer, committed to fostering an inclusive and diverse workplace.
+Under New York City law, the Company is required to provide a reasonable estimate of the salary range for this job. Final determinations with respect to salary will take into account a number of factors, which may include, but not be limited to the primary work location and the chosen candidate’s relevant skills, experience, and education.
+Expected salary range:
+$173,900.00 - $295,700.00
+Search Firm Representatives Please Read Carefully
+Merck & Co., Inc., Rahway, NJ, USA, also known as Merck Sharp & Dohme LLC, Rahway, NJ, USA, does not accept unsolicited assistance from search firms for employment opportunities. All CVs / resumes submitted by search firms to any employee at our company without a valid written search agreement in place for this position will be deemed the sole property of our company. No fee will be paid in the event a candidate is hired by our company as a result of an agency referral where no pre-existing agreement is in place. Where agency agreements are in place, introductions are position specific. Please, no phone calls or emails.
+Employee Status:
+Regular
+Relocation:
+Domestic/International
+VISA Sponsorship:
+Yes
+Travel Requirements:
+25%
+Flexible Work Arrangements:
+Remote Work, Work Week
+Shift:
+Not Indicated
+Valid Driving License:
+No
+Hazardous Material(s):
+Number of Openings:
+1
+
+Requisition ID:R213445

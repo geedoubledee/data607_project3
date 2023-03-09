@@ -1,0 +1,50 @@
+Reports to: IT Manager, Database Services
+Division: IT
+Location: RTP, NC
+Principal Functions:
+Management of large databases on Oracle – including installation, design, configuration, backup & recovery, performance analysis, tuning, capacity planning/forecast and security.
+Actively monitor the database environment to ensure optimal performance and to prevent production issues.
+Administration of ASM and Grid Infrastructure for RAC, Oracle Restart, Clusterware.
+Oracle Exadata deployment, administration experience. Oracle Exadata patching experience is required.
+Setup, configuration, troubleshooting Data-Guard Physical/logical and Active Data Guard.
+Backup and recovery and migration using RMAN, datapump and export/import.
+Proactively monitor and optimize system performance using tuning, optimization, AWR, ASH, and other methods.
+On-Call Support on a rotational basis – including Off-Hours and Weekends.
+Collaborate with DBAs, Developers, and Architects in troubleshooting database and application errors.
+Collaborate with Data Architects on data modeling using tools such as E/R Studio.
+Review Oracle SQL query, DDL, DML including stored procedure, packages before deployment.
+Provide support for database/application deployments.
+Design, automate and document new processes to improve efficiency of Database Services.
+Provide training in areas of specialization to other team members.
+Must be a team player with excellent collaboration and people skills to be able to engage in productive group discussions.
+Excellent verbal and written communication along with the ability to articulate technical solutions for various levels of management and technical staff.
+Ability to interface with users at all levels of the organization and good end-user support skills.
+Required Skills and Experience:
+Oracle DBA with 8+ years’ experience in a mission critical production database environment, including:
+Oracle 11g, 12c and 19c, 21c
+Oracle Exadata (2+ years)
+Strong Unix scripting and automation skills (2 years).
+Oracle Application Express (APEX/ORDS) administer, development, maintenance (1 year).
+Real Application Cluster (RAC), Grid Infrastructure, Oracle Clusterware. (4+ years)
+Oracle Multi-tenant architecture e.g. container and pluggable database. (2+ years)
+Oracle Encryption/Key Management using local wallet management or KMS e.g. Oracle Key Vault. (1+Year)
+Implementation or deep awareness Oracle Maximum Availability Architecture.
+Data Modeling
+Oracle 19c Grid (OEM), OMS Administration
+Recovery Manager (RMAN) database backup, recovery and cloning.
+Dataguard Active/Passive, Physical/Logical.
+Performance tuning, troubleshooting including SQL Tuning
+Installs, upgrades, patching including Bundle Patches, fleet patching experience.
+Preferred Skills and Experience
+Familiarity with Toad, DBArtisan and E/R Studio.
+Oracle Unified Directory/Centrally Managed Users with Active Directory integration
+AWS/RDS
+Ansible
+Liquibase
+JSON, Graph DB
+Oracle Database Appliance (ODA) administration.
+Experience in Healthcare Industry.
+Oracle Certification – OCP (19c), OCA
+Labcorp is proud to be an Equal Opportunity Employer:
+As an EOE/AA employer, the organization will not discriminate in its employment practices due to an applicant's race, age, color, religion, sex, national origin, sexual orientation, gender identity, disability or veteran status.
+For more information about how we collect and store your personal data, please see our Privacy Statement.

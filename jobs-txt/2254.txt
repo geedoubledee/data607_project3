@@ -1,0 +1,37 @@
+Working at Atlassian
+
+Atlassian can hire people in any country where we have a legal entity. Assuming you have eligible working rights and a sufficient time zone overlap with your team, you can choose to work remotely or return to an office as they reopen (unless it’s necessary for your role to be performed in the office). Interviews and onboarding are conducted virtually, a part of being a distributed-first company.
+
+Your future team
+Our Customer Analytics team is comprised of individuals with backgrounds in data science and analytics. We collect, organize and analyze data to help our business partners make informed decisions.
+We're looking for an Analytics & Data Science leader (Manager or Senior Manager) with business instincts, team development, creativity and analytics mastery. Someone who is passionate about applying these skills to lead multiple analytics teams, guide smarter product decisions, and delight our customers. This is a role that will stretch you, accelerate your learning curve and give you the chance to really leave your mark in the history of Atlassian.
+What you'll do
+Collaborate with Atlassian's product leaders (responsible for www.atlassian.com, support.atlassian.com & community.atlassian.com) to provide data-driven viewpoints on strategic decisions, identify high impact opportunities for analysis and align priorities with the company strategy and product roadmap
+Lead a team of data scientists and plan roadmaps by collaborating with product partners, customer research, data engineers, machine learning engineers and other data scientists
+Design targeted explorations of our big data, to understand trends, find opportunities, and make recommendations to improve user journeys and customer value
+Accelerate web experimentation through best practices, tooling and clear recommendations
+Be part of building an outstanding analytics culture at Atlassian. Leading by example, through education and creation of self-service tools, to make a lasting change in how your partners use data to make decisions
+Your background
+3+ years leading analytics or data science teams
+Experience applying your analytics to projects which have had a positive impact to company level business and product decisions
+A very high bar for output quality; with experience coaching teams to balance thoughtfulness, perfection and speed
+Craft compelling insights, explaining data science concepts to diverse audiences, and building decision confidence by sharing expertise of facts and uncertainties
+Familiarity partnering with multiple departments. For example: Product Management, Engineering, Design, Finance, Customer Research and Data Engineering teams
+Experience encouraging teamwork in a "work from anywhere" environment
+Previous experience in data manipulation and statistical programming languages (e.g. SQL, R, Python), and knowledge of cloud data environments (e.g. AWS)
+Varied experience applying a range of data science techniques (eg: exploratory data analysis, experiment design, propensity modeling or attribution)
+An Agile development mentality, appreciating the benefit of constant iteration and improvement
+
+Our perks & benefits
+
+To support you at work and play, our perks and benefits include ample time off, an annual education budget, paid volunteer days, and so much more.
+
+About Atlassian
+
+The world’s best teams work better together with Atlassian. From medicine and space travel, to disaster response and pizza deliveries, Atlassian software products help teams all over the planet. At Atlassian, we're motivated by a common goal: to unleash the potential of every team.
+
+We believe that the unique contributions of all Atlassians create our success. To ensure that our products and culture continue to incorporate everyone's perspectives and experience, we never discriminate based on race, religion, national origin, gender identity or expression, sexual orientation, age, or marital, veteran, or disability status. All your information will be kept confidential according to EEO guidelines.
+
+Pursuant to the San Francisco Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.
+
+To learn more about our culture and hiring process, explore our Candidate Resource Hub.

@@ -1,0 +1,64 @@
+For Current Gilead Employees and Contractors:
+Please log onto your
+Internal Career Site
+to apply for this job.
+Job Description
+Gilead Sciences, Inc. is a biopharmaceutical company that has pursued and achieved breakthroughs in medicine for more than three decades, with the goal of creating a healthier world for all people. The company is committed to advancing innovative medicines to prevent and treat life-threatening diseases, including HIV, viral hepatitis, and cancer. Gilead operates in more than 35 countries worldwide, with headquarters in Foster City, California.
+
+This role within Gilead’s Global Decision Science & Insights organization is responsible for development of omnichannel decision engine to drive commercial execution, creating continuity in the customer experience across engagement channels and improving impact of commercial activities. This role will report to the Senior Director, Advanced Analytics.
+This individual must leverage a deep skill set and functional expertise in data science techniques, methodologies, approaches, and tools to build a recommendation system that will inform the right customer, right channel, right cadence/sequence, and right content to drive the greatest impact. This individual will lead a team of 2-3 data scientists while also acting as an individual contributor.
+Key Responsibilities:
+SME and owner of recommendation system design, development, and implementation
+Lead the design and development of omnichannel decision engine to orchestrate customer touchpoints across personal, non-personal and DTC tactics to drive personalization at scale.
+Develop and create an algorithm library for recommendation systems, with continual Test and Learn mindset.
+Apply different A/B Testing and doing the readout of the results.
+Help develop a Content measurement framework.
+Develop scalable solutions to quickly implement from one brand to another.
+FRD creation and development of codebase and repositories.
+Help on onboard multiple therapeutic areas/ brands in a phased manner
+Work with cross functional teams across internal (e.g. sales, marketing, IT, legal, compliance etc.) and external (consulting partners, data vendors, marketing agencies) stakeholders for developing best in class machine learning models and ML operations at scale.
+Keep abreast of latest developments in the field and mentor and manage data scientists from external consulting partners to help design and develop the decision engine for Omnichannel NBA
+Take a hands-on role and deliver on highly visible products
+Ensure adaption of data science product with the business users to drive outcome and patient impact
+Lead the Data Science team supporting the development of the omnichannel decision engine, managing resources & timelines, identifying & mitigating risk, and mentoring & developing direct reports
+Off-shore vendor management to ensure development timelines are met and work product is delivered at the highest quality
+Basic Qualifications:
+Bachelor's Degree and Twelve Years’ Experience
+OR
+Masters' Degree and Ten Years’ Experience
+OR
+PhD and Eight Years’ Experience
+
+Preferred Qualifications:
+A highly technical SME Lead with hands-on experience in design and development of recommendation systems
+A bachelor's Degree with at least 12 years’ experience, a minimum of 10 years' experience with a master’s degree, or a minimum of 8 years' experience with a PhD in quantitative field with extensive experience in building and managing next best action orchestration capabilities and technologies to deliver seamless customer-centric engagement experience
+Understanding of marketing/digital data sources across personal (e.g. in-person / virtual sales rep calls, samples etc.), non-personal promotions (e.g. email, direct mail, banner ads, website, mobile alerts), events (e.g. speaker program, conference), survey (e.g. online questionnaires etc.) and social data (e.g. Twitter, Facebook, Sermo, Doximity etc.)
+Experience with advanced ML algorithms is a plus, especially with CNNs, Genetic Algorithms, Collaborative Filtering and Reinforcement Learning
+Experience using secondary data sources that are extensively used in pharma (e.g. IQVIA LAAD, IQVIA XPO, IQVIA DDD, etc.)
+Ability to work with marketing agencies to define the data format in which the campaign response data needs to be shared with Gilead
+Work with Gilead IT partners to define specifications for automated campaign data ingestion from marketing agencies into Gilead AWS platform at a pre-defined frequency
+Experience developing, deploying, and operationalizing data science (AI/ML) models to drive next best action using Reinforcement learning and/or Deep learning algorithms
+Life Sciences Digital capabilities exposure (i.e., channels, ecosystem partners)
+Management experience with teams and influencing senior-level management and key stakeholders.
+Proven track record of delivering on programs with complex business deliverables.
+
+For jobs in the United States:
+As an equal opportunity employer, Gilead Sciences Inc. is committed to a diverse workforce. Employment decisions regarding recruitment and selection will be made without discrimination based on race, color, religion, national origin, gender, age, sexual orientation, physical or mental disability, genetic information or characteristic, gender identity and expression, veteran status, or other non-job related characteristics or other prohibited grounds specified in applicable federal, state and local laws. In order to ensure reasonable accommodation for individuals protected by Section 503 of the Rehabilitation Act of 1973, the Vietnam Era Veterans' Readjustment Act of 1974, and Title I of the Americans with Disabilities Act of 1990, applicants who require accommodation in the job application process may contact
+careers@gilead.com
+for assistance.
+
+Following extensive monitoring, research, consideration of business implications and advice from internal and external experts, Gilead has made the decision to require all U.S., Canada, Australia, Singapore, and Hong Kong employees and contractors to receive the COVID-19 vaccines as a condition of employment. “Full vaccination” is defined as two weeks after both doses of a two-dose vaccine or two weeks since a single-dose vaccine has been administered. Anyone unable to be vaccinated, either because of a sincerely held religious belief or a medical condition or disability that prevents them from being vaccinated, can request a reasonable accommodation.
+For more information about equal employment opportunity protections, please view the
+'Know Your Rights'
+poster.
+NOTICE: EMPLOYEE POLYGRAPH PROTECTION ACT
+
+YOUR RIGHTS UNDER THE FAMILY AND MEDICAL LEAVE ACT
+PAY TRANSPARENCY NONDISCRIMINATION PROVISION
+Our environment respects individual differences and recognizes each employee as an integral member of our company. Our workforce reflects these values and celebrates the individuals who make up our growing team.
+Gilead provides a work environment free of harassment and prohibited conduct. We promote and support individual differences and diversity of thoughts and opinion.
+
+For Current Gilead Employees and Contractors:
+Please log onto your
+Internal Career Site
+to apply for this job.

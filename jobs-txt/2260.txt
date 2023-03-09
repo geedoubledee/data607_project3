@@ -1,0 +1,54 @@
+11 West 19th Street (22008), United States of America, New York, New York
+Director, Data Science: Apollo Team (Remote-Eligible)
+Data is at the center of everything we do. As a startup, we disrupted the credit card industry by individually personalizing every credit card offer using statistical modeling and the relational database, cutting edge technology in 1988! Fast-forward a few years, and this little innovation and our passion for data has skyrocketed us to a Fortune 200 company and a leader in the world of data-driven decision-making.
+As a Data Scientist at Capital One, you’ll be part of a team that’s leading the next wave of disruption at a whole new scale, using the latest in computing and machine learning technologies and operating across billions of customer records to unlock the big opportunities that help everyday people save money, time and agony in their financial lives.
+Team Description:
+Emerging Merchant Businesses is a new team dedicated to discovering and accelerating high-growth opportunities at Capital One. Our newly formed organization is composed of incredibly exciting Capital One businesses, including Capital One Shopping, Flex Pay, and Apollo. As part of the EMB team, you will work alongside experts across customer experience, data, technology (and more!) who are moving quickly to find the next big business at the company. We are looking for talented associates who are motivated to be part of this journey and help us shape the future of Capital One, growing and learning with a team who will invest in your development, foster an inclusive environment, and lead with heart to change banking for good.
+As a Director, Data Scientist on the Apollo team in Emerging Merchant Businesses, you are a part of a team that develops the core technology which drives our industry-leading understanding of the U.S. business landscape, generating valuable business insight from many disparate sources. The Apollo team is building technology that allows us to acquire, understand, and make inferences on large, disparate business data sets. This requires ideas from across the machine learning skillset, applied to problems and data that are unique to our business. You will do it all in a collaborative environment that values your insight, encourages you to take on new responsibilities, promotes continuous learning, and rewards innovation.
+In this role, you will:
+Lead a cross-functional team of data scientists, machine learning engineers, data engineers, business analysts and product managers to deliver product(s) customers love.
+Lead machine learning and data science technical direction and execution (operations, governance, processes and practice) working closely with product management to craft a roadmap and success criterion.
+Lean on your strong background in graph-based machine learning, deep learning, software engineering and algorithm development to organize, grow and manage the ML/AI capabilities for the product.
+Flex your interpersonal skills to translate the complexity of your work into tangible business goals
+The ideal Candidate is:
+Technical: Strong background in algorithmic and engineering practices in fields of machine learning including entity resolution, graph-based ML or deep learning. You have hands-on experience developing data science solutions using open-source tools and cloud computing platforms.
+Innovative: Learns constantly, including developments in algorithms, libraries, frameworks and ML technologies. You stay current on published state-of-the-art methods, technologies, and applications and seek out opportunities to apply them.
+Customer first: You bridge the gap between business/product needs with ML design, engineering and execution. You identify the KPIs, resource needs, trade-offs and translate that into a ML roadmap.
+Creative: You thrive on bringing definition to big, undefined problems. You love asking questions and pushing hard to find answers. You’re not afraid to share a new idea.
+A Strategic Thinker: You challenge conventional thinking and work with stakeholders to identify and improve the status quo. You can set the team vision and make strong day-to-day decisions backed by that vision.
+Inspiring Leadership: You establish a culture of inclusiveness, cooperation and candor. You’re passionate about talent development, provide frequent actionable feedback to team members, and promote innovation.
+A Data Guru: “Big data” doesn’t faze you. You have the skills to retrieve, combine, and analyze data from a variety of sources and structures. You know understanding the data is often the key to great data science.
+Statistically-Minded: You’ve built models, validated them, and backtested them. You know how to interpret a confusion matrix or a ROC curve. You have experience with clustering, classification, sentiment analysis, time series, and deep learning.
+A successful Candidate will have:
+Experience setting and implementing broad strategic vision for ML applications, underlying platforms, and software
+Demonstrated technical expertise in building, testing, deploying and scaling of machine learning software. Experience with cloud, open source software packages, environment management, reproducibility, and governance.
+High motivation, adaptability and being collaborative. An individual who can handle ambiguity and enjoys building. Moving in a fast-paced environment excites you and are looking for an opportunity to be a member of an innovative team that will be building and implementing innovative products in banking.
+Excellent communication skills. You can present technical context in intuitive ways. You can read the audience and adapt your communication style to various stakeholders both internal and external to the Apollo organization.
+Capital One is open to hiring a Remote Employee for this opportunity.
+Basic Qualifications:
+Bachelor’s Degree plus 9 years of experience in data analytics, or Master’s Degree plus 7 years of experience in data analytics, or PhD plus 4 years of experience in data analytics
+At least 4 years of experience in open source programming languages for large scale data analysis
+At least 4 years of experience with machine learning
+At least 4 years of experience with relational databases
+Preferred Qualifications:
+At least 1 year of experience creating and executing multi-year technical initiatives.
+At least 1 year of experience with containerization technologies and understanding on how to build for cloud scale delivery is a plus
+PhD in “STEM” field (Science, Technology, Engineering, or Mathematics) plus 5 years of experience in data analysis
+At least 1 year of experience working with AWS.
+At least 3 year of experience managing people and leading cross-functional teams
+At least 4 years of experience with relational databases with strong SQL knowledge
+At least 5 years of experience with technologies such as python, sci-kit learn, PyTorch, Scala, or R for large scale data analysis
+At least 5 years of experience with machine learning
+At least 5 years experience in algorithmic and engineering practices in fields of machine learning including entity resolution, graph-based ML or deep learning
+Capital One will consider sponsoring a new qualified applicant for employment authorization for this position.
+The minimum and maximum full-time annual salaries for this role are listed below, by location. Please note that this salary information is solely for candidates hired to perform work within one of these locations, and refers to the amount Capital One is willing to pay at the time of this posting. Salaries for part-time roles will be prorated based upon the agreed upon number of hours to be regularly worked.
+Location is New York City
+$260,592 and $307,440 for Dir, Data Science
+Location is Colorado
+$220,854 and $260,558 for Dir, Data Science
+Candidates hired to work in other locations will be subject to the pay range associated with that location, and the actual annualized salary amount offered to any candidate at the time of hire will be reflected solely in the candidate’s offer letter.
+No agencies please. Capital One is an Equal Opportunity Employer committed to diversity and inclusion in the workplace. All qualified applicants will receive consideration for employment without regard to sex, race, color, age, national origin, religion, physical and mental disability, genetic information, marital status, sexual orientation, gender identity/assignment, citizenship, pregnancy or maternity, protected veteran status, or any other status prohibited by applicable national, federal, state or local law. Capital One promotes a drug-free workplace. Capital One will consider for employment qualified applicants with a criminal history in a manner consistent with the requirements of applicable laws regarding criminal background inquiries, including, to the extent applicable, Article 23-A of the New York Correction Law; San Francisco, California Police Code Article 49, Sections 4901-4920; New York City’s Fair Chance Act; Philadelphia’s Fair Criminal Records Screening Act; and other applicable federal, state, and local laws and regulations regarding criminal background inquiries.
+If you have visited our website in search of information on employment opportunities or to apply for a position, and you require an accommodation, please contact Capital One Recruiting at 1-800-304-9102 or via email at RecruitingAccommodation@capitalone.com. All information you provide will be kept confidential and will be used only to the extent required to provide needed reasonable accommodations.
+For technical support or questions about Capital One's recruiting process, please send an email to Careers@capitalone.com
+Capital One does not provide, endorse nor guarantee and is not liable for third-party products, services, educational tools or other information available through this site.
+Capital One Financial is made up of several different entities. Please note that any position posted in Canada is for Capital One Canada, any position posted in the United Kingdom is for Capital One Europe and any position posted in the Philippines is for Capital One Philippines Service Corp. (COPSSC).

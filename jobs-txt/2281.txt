@@ -1,0 +1,32 @@
+Note: Google’s hybrid workplace includes remote and in-office roles. By applying to this position you will have an opportunity to share your preferred working location from the following:
+
+In-office locations: Sunnyvale, CA, USA; Atlanta, GA, USA.
+Remote location(s): California, USA; Georgia, USA.
+Minimum qualifications:
+5 years of experience in hardware carbon footprinting
+Experience in energy and carbon management, including greenhouse gas (GHG) inventory development and carbon reduction
+Experience designing, scaling, and leading supply chain sustainability programs, such as Scope 3 supply chain carbon accounting and circular economy programs
+
+Preferred qualifications:
+Bachelor’s degree or Master's degree in quantitative fields, including Data Science, Statistics, Computer Science, or environmental fields, including Environmental Science and Environmental Engineering
+Experience in supply chain sustainability at a major technology/manufacturing company
+Experience designing decarbonization strategies for hardware such as consumer devices and carbon intense commodities, including semiconductors
+Ability to engage and influence executive stakeholders as a business advisor and thought leader in data and analytics
+Excellent leadership and influencing skills, including an ability to lead change efforts across an organization
+About the job
+A problem isn’t truly solved until it’s solved for all. That’s why Googlers build products that help create opportunities for everyone, whether down the street or across the globe. As a Program Manager at Google, you’ll lead complex, multi-disciplinary projects from start to finish — working with stakeholders to plan requirements, manage project schedules, identify risks, and communicate clearly with cross-functional partners across the company. Your projects will often span offices, time zones, and hemispheres. It's your job to coordinate the players and keep them up to date on progress and deadlines.
+
+Our goal is to build a Google that looks like the world around us — and we want Googlers to stay and grow when they join us. As part of our efforts to build a Google for everyone, we build diversity, equity, and inclusion into our work and we aim to cultivate a sense of belonging throughout the company.
+As the Head of Carbon Data, Analytics, and Tools, you will develop and lead the team responsible for quantifying our supply chain environmental impacts and engaging teams to design strategies to achieve our Net Zero goal. The team will develop the infrastructure to measure, track, and monitor suppliers on their emissions targets.
+
+In this role, you will provide internal and external stakeholders with visibility and reporting on how Google is tracking towards its commitments.
+
+The US base salary range for this full-time position is $190,000-$284,000 + bonus + equity + benefits. Our salary ranges are determined by role, level, and location. The range displayed on each job posting reflects the minimum and maximum target for new hire salaries for the position across all US locations. Within the range, individual pay is determined by work location and additional factors, including job-related skills, experience, and relevant education or training. Your recruiter can share more about the specific salary range for your preferred location during the hiring process.
+Please note that the compensation details listed in US role postings reflect the base salary only, and do not include bonus, equity, or benefits.
+Responsibilities
+Act as a thought leader through proven experience in hardware sustainability and expert-level knowledge of life cycle assessment and accounting methods.
+Drive and support analytics and insights that will enable the Net Zero Supplier/Industry Engagement and Program Management teams to engage effectively with suppliers, Contract Manufacturers, and industry consortium partners.
+Partner closely with cross-functional leaders to influence Net Zero strategy via data-driven insights
+Map energy and facility usage of Google’s suppliers and service providers throughout our full value chain.
+Set up and scale the tool and data infrastructure to measure, track, and monitor suppliers.
+Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also Google's EEO Policy and EEO is the Law. If you have a disability or special need that requires accommodation, please let us know by completing our Accommodations for Applicants form.

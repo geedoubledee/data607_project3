@@ -1,0 +1,61 @@
+Salary Range $123,000 - $160,000*
+
+Job Description:
+Who We Are:
+Saks is a world-renowned luxury ecommerce destination. The company’s unique approach combines a focus on the digital customer experience with a strong connection to a network of extraordinary stores that extends that seamless experience into the real world.
+
+On its website and app, Saks offers an unparalleled selection of curated merchandise across fashion for women and men, beauty, jewelry, home décor and more. In addition to the shopping experience, customers come to Saks for inspiring editorial content, access to digital stylists, lifestyle experiences and other world-class services. The company is currently in the midst of a dramatic expansion, driven by significant enhancements to its platforms and offerings, with the goal of becoming the preeminent destination for luxury internationally.
+
+Role Summary:
+The Machine Learning Engineer will get hands-on and solve any problem on the way to serving customers and optimizing our business. We have opportunities in marketing and personalization across email, app and website. These initiatives will be building the foundations for our digital first customer identity. You will be working in a state-of-the-art environment where clickstream data, user activity data, and a vast ecommerce product dataset is accessible. The technologies that we use include AWS, Kubernetes, and Python/Kotlin.
+
+Key Qualifications:
+5+ years of experience as a software developer or a machine learning engineer
+
+Strong interest in fashion and luxury e-commerce
+
+Degree in computer science or a related area
+
+Preferred: Previous experience in both front-end and back-end software engineering
+
+Preferred: Desire to learn and work with machine learning
+
+Preferred: Relevant M.S. degree
+
+Preferred: Experience in e-commerce or retail
+
+Preferred: Experience building high availability, low latency, and high throughput systems
+
+Preferred: Ability to grow rapidly into the next level of your career, as the company grows
+
+Must be fully vaccinated against COVID-19 and, if hired, present proof of vaccination prior to beginning employment.
+
+Role Description:
+Develop and own end-to-end features that support Saks.com machine learning solutions.
+
+Design, develop, and document high-quality APIs
+
+Build user interfaces for Saks.com merchandising and planning teams
+
+Contribute high-quality, well tested, maintainable code
+
+Have an ownership mindset and take responsibility for the features you develop
+
+Your Life and Career at Saks:
+Exposure to rewarding career advancement opportunities
+
+A culture that promotes a healthy, fulfilling work/life balance
+
+Benefits package for all eligible full-time employees (including medical, vision and dental).
+
+An amazing employee discount
+
+Thank you for your interest with Saks. We look forward to reviewing your application.
+
+Saks provides equal employment opportunities (EEO) to all employees and applicants for employment without regard to race, color, religion, sex, national origin, age, disability or genetics. In addition to federal law requirements, Saks complies with applicable state and local laws governing nondiscrimination in employment in every location in which the company has facilities. This policy applies to all terms and conditions of employment, including recruiting, hiring, placement, promotion, termination, layoff, recall, transfer, leaves of absence, compensation and training.
+
+Saks welcomes all applicants for this position. Should you be individually selected to participate in an assessment or selection process, accommodations are available upon request in relation to the materials or processes to be used.
+
+Saks.com is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees.
+
+The above expected salary range may have some variability based upon factors including, but not limited to, a candidate’s overall experience, qualifications, and geographic location. If you are interested in the role, we encourage you to apply and, if selected to move forward in the interview process, you will have a chance to speak with our recruitment team regarding your specific salary expectations.

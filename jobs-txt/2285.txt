@@ -1,0 +1,20 @@
+Job type: W2/C2H/1099
+Location: Remote
+data engineer for Prudential
+Experience in developing and maintaining CI/CD process for SaaS applications by accessing tools like Maven, Jenkins, etc.
+Experience in containers is a plus.
+Experience setting up monitoring using Splunk, Dyntratrace.
+Working in regulation with industry standard best practices in close coordination with integration and deployment team.
+DevOps engineer must have effective leadership and cross-functional leadership and communication skills.
+Experience working experience on datasources like MySQL,Oracle, Hadoop, Cassandra
+Build independent web based tools, microservices and solutions * Ability to build Traffic policies to support HADR.
+Good command over any scripting language such as Shell, Python, etc.
+Developing solutions and processes used by developers to support local development environments
+Continually grow skills to enhance your technical expertise and contribution to the team
+Be creative and efficient in solving complex and/or time-critical problems
+Utilize Agile Development, SCRUM, Kanban, or Extreme Programming methodologiesDaily Tasks: Skills in nutshellDrupal, PHP, Angular, Express with Angular Universal, NodeJS Monitoring (PM2), SOLR, Java, AWS Cloud Engineering, AWS Cloud Services, Route 53, Load Balancers, EC2, Acquia CloudAutoscaling groups, Mem Cache, Secrets Manager, CloudFront, Code Deploy, Code Pipeline, VPC, CloudFormation, IAM,Secuirty Groups, S3, CloudWatch, EFS, WebSphere Portal,Ansible, Apache, Ngnix, NodeJS, Varnish, Jenkins, Terraform, LSyncD, Bash Scripting, Splunk.
+Job Type: Full-time
+Salary: $125,000.00 - $130,000.00 per year
+Schedule:
+Monday to Friday
+Work Location: Remote

@@ -1,0 +1,31 @@
+Overview:
+As a Tableau Developer , you will be part of a multi-disciplinary agile scrum team building, maintaining, and enhancing Tableau Reports and Dashboards that support NIH’s mission. Tableau is a new technology to NIH and therefore your role is key in helping NIH staff become more knowledgeable with business intelligence reporting tools. There will be opportunities to interface directly with the customer and educate them on Tableau. You will work in close cooperation with other developers, engineers, managers and product owners on project teams, as well as work independently on smaller efforts with limited direct supervision.
+
+This person must be resourceful, detail-oriented, and 100% client-focused, with a continuing passion for their profession.
+Responsibilities:
+Design and develop enterprise business intelligence and reporting solutions using Tableau
+Requirements solicitation and documentation in Azure DevOps (formerly VSTS)
+Attend Tableau Working Group sessions to demo reporting capabilities and educate NIH on Tableau
+Work with other development teams (Pega, SharePoint, et al) to enhance applications with dashboards and reports
+Learn NIH/NIA’s legacy systems so that Tableau can provide additional business value
+Qualifications:
+5+ years' experience as a Business Intelligence Developer and Analyst using Tableau for data analysis, report design and development, reporting, testing and support. analytical report development, dashboards, and visualization
+In-depth experience with data Extraction, Transformation, and Load (ETL) tools
+Excellent communications skills (written and oral), business acumen, and planning skills
+Report development using various BI tools
+OLAP analysis
+Dashboards
+Visualization
+Standardized Reporting
+ETL design, development, and deployment
+Design and architecture
+Familiarity with agile software development
+Complex SQL development
+Strong critical thinking and analytical skills with a creative mindset and an eye for customer experience
+Education:
+Bachelor's Degree in Information Technology, Business, Computer Science, or related field
+Tableau Data Analyst Certification (nice to have)
+Location:
+Remote/Bethesda, MD
+Clearance:
+The ability to obtain a government moderate background security clearance or Public Trust

@@ -1,0 +1,26 @@
+Job Description
+For this opening we will consider candidates from the following locations: , United States |
+
+
+We are looking for a Database Administrator who is a self-starter, eager to learn new tools and product and who is flexible and has ability to work within an environment that is fast paced and with a distributed team.
+Responsible for the entire day-to-day Database Administration of assigned platform, including troubleshooting, and resolving problems as they arise; develop plans and processes designed to improve long-term capabilities of system; ensure platform or system is always operating correctly without over-utilizing resources and is recognizing connections with other applicable machines on the network.
+DUTIES AND RESPONSIBILITIES
+Database Administration and Support - Provide a quality, high performance database processing environment by defining assigned database tables, queries, stored procedures, views, coordinating physical changes to computer databases in a timely manner while adhering to established departmental standards and procedures
+Assist with the tuning and performance of the database environment, determining optimum values for database attributes
+Monitor hardware resource utilization, recommending to management additional hardware necessary for forecasted levels, collaborating with staff to maximize performance
+Perform testing of designed transaction processing environment, testing for performance, stability, fail over, and new database versions
+Keep up to date on current and new releases of database platforms and technology, planning migration strategy accordingly
+Assist in the development of scripts, documentation, and procedures for database administration, testing, and production
+Ensure data integrity and security according to departmental standards and procedures
+Identify back up plan and content to ensure data is protected, ensuring data recovery is available and restored in a timely manner
+Knowledge of Database replication necessary
+EDUCATION
+Bachelor's degree in computer science, information systems, electrical engineering, computer engineer or a related field is preferred
+Minimum 2 years’ experience in computer science or MIS required, preferably including database administration experience
+TECHNICAL
+Based on area of responsibility and departmental need, knowledge of: one program platform Linux, Windows) is required and knowledge of SQL fundamentals (Informix,MS SQL Server) is preferred
+Based on departmental need, minimum 2 years’ experience with SQL Server database administration is needed.
+Intermediate knowledge of Word and Excel required
+Benefits & Compensation
+Want to love where you work? At Intrado, we offer a comprehensive benefits package that includes what you’d expect (medical, dental, vision, life and disability coverage, paid time off, a 401(k) retirement plan with company match and flexible spending accounts), and several that go above and beyond – tuition reimbursement paid parental leave, access to a robust library of personal and professional training resources, employee discounts, critical illness, hospital indemnity and pet insurances, identity protection and more! Apply today to join us in work worth doing!
+For candidates located in Colorado, the starting salary for this position is $95,000 to $120,000 per year and will be commensurate with experience.

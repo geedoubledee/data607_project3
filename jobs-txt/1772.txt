@@ -1,0 +1,47 @@
+For other positions, some roles may be based outside of our Denver office (as stated in the Job Title). Roles based outside of our Denver office can sit in any of the following 28 states: AZ, CA, CO, CT, DC, FL, GA, ID, IL, KS, MA, MD, MI, MN, NC, NJ, NV, NY, OH, OR, PA, SC, TN, TX, UT, VA, WA, and WI. Please only apply if you are able to live and work full-time in one of the states listed above. State locations and specifics are subject to change as our hiring requirements shift.
+-
+At Guild, we uphold our Core Values in everything we do. Our team emphasizes our Core Values in the following ways:
+Nurture A Learner's Mindset - using a combination of feedback and reflection to gain productive insight into personal strengths and development areas
+Build Shared Success - building partnerships and working collaboratively with others to meet shared objectives
+Be an Owner - holding self and others accountable to meet commitments
+Create Belonging - recognizing the value that different perspectives and cultures bring to our company
+Guild is hiring a Director of Business Intelligence (Data Consumption).
+We're looking for a Director of Business Intelligence with experience managing impactful agile development teams within the engineering organization, delivering data to cross-functional partners, and serving as a key input into data strategy and data model development.
+The Director of Business Intelligence will manage a team responsible for building, maintaining and leading our enterprise data warehouse, which serves as a source of truth powering our internal and external analytics, forecasting, and broader data strategy needs.
+Your team will be passionate about building extensible solutions that will scale with our continued business growth and deliver data-as-a-product with utmost accuracy and quality. You will serve as a dot-connector, thought-partner, collaborator, and enabler of data as a key strategic asset for Guild. Moreover, you'll use your expertise in data and leading teams to develop, grow, and mentor a top-performing team within the organization that ultimately helps to enable education benefits for students. To do that, you will need to develop a deep understanding of our data, operations, and the business and have a solid grasp for reporting infrastructure and scaling standard methodologies.
+Ensure delivery of high quality, secure and reliable data products aligned with the needs of the business across multiple teams.
+Partner with product and analytics to work with other leaders in the organization to build out and prioritize initiatives into an overall data set of work streams within the product roadmap.
+Work multi-functionally with a broad set of interpersonal partners such as Analytics and Insights, Product, Technology, Marketing, Finance, Sales and our executive leadership team to ensure planning and execution is aligned with business strategy, and your team is delivering efficiently and iteratively against those priorities on the data strategy roadmap
+Lead teams of BI Developers focused on building high quality scalable systems and solutions, delivery of data-as-a-product, collaborating on reporting architecture improvements, leaning in from a technical requirements and design perspective or helping the team to design a new on-call support rotation monitoring and on-call processes.
+Recruit, develop and retain top talent. Work with HR and other technology leaders to lead recruiting, retention and continuous learning opportunities for your team in the context of Guild's DEI goals.
+Weigh tradeoffs and have in-depth discussions on the nuances and scalability of our BI infrastructure systems - within the context of technologies such as Looker, DBT (data build tool), Snowflake, Airflow, GitHub, and Salesforce as well as other topics such as data modeling and evaluating new technologies and systems.
+Encourage and empower teams in a hybrid remote working environment.
+You are a good fit for this role if you have:
+Required Proficiencies
+Depth of experience leading business intelligence organizations serving highly diverse and data hungry business partners in companies deriving competitive advantage through data products
+Depth of understanding of data modeling, data transformations,data governance, important metrics and executive dashboards, internal and external reporting and analytics.
+Expertise leading teams using modern technologies and standard methodologies for data system development such as Snowflake, Looker, dbt, Airflow, AWS, Python, Monte Carlo.
+Experience with different data warehouse modeling approaches such as data vault, Inmon and Kimball architectures.
+Strong verbal, visual, and written communication skills with the ability to explain approach to all levels in the organization including key partners and leaders.
+Able to think strategically and see the big picture while also focusing teams on execution and delivery.
+Ability to communicate goals and objectives broadly to technical teams as well as broader business stakeholders.
+Experience leading and mentoring managers and individual contributors and building out career pathing in an organization.
+Shown success working closely with Product Management and Analytics, contributing to the product and data strategy and helping to optimally deliver on a higher-level roadmap.
+We feel passionately about equal pay for equal work, and transparency in compensation is one vehicle to achieve that. Total compensation for this role is market competitive, including a base salary range of $180,000 - $202,02 as well as company stock options.
+#LI-KT1
+At Guild, we unlock the talent and economic potential of America's workforce for employees and their companies. We partner with the nation's largest employers—including Walmart, Chipotle, Discover, Hilton, Macy's, Target, and The Walt Disney Company—to create cultures of opportunity that help them attract and retain top talent, while building the workforce of the future from within. By using our proprietary Career Opportunity Platform to develop education and learning programs that work in the real-world, thousands of employees at those companies have gained the skills, knowledge, and guidance they need to build a brighter future for themselves and their families—all without paying for tuition or career services on their own.
+Guild is female-founded and a certified B Corp. The company has been named to the TIME100 Most Influential Companies of 2022 list, CNBC Disruptor50 list three years in a row, Inc. Best Led Companies list, Fast Co. World Changing Ideas list and the B Lab Best for the World list among many others.
+Guild Education is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees. If you have a disability or special need that requires accommodation, please let your recruiter know. We currently offer the following benefits:
+Access to low-cost, high-quality health care options through Cigna and Kaiser (due to coverage limitations, Kaiser is currently only available in CA & CO)
+Access to a 401k to help save for the future
+Open vacation policy for employees to rest and recharge
+8 days of fully-paid sick leave, to take the time to heal and or recover
+Family-friendly benefits, including 12 weeks of parental leave for non-birthing parents and 18-20 weeks for birthing parents; 4-week ramp-up period for when employees return from a leave of 6 weeks or more; as well as employer-paid short-term and long-term disability, employer-sponsored life insurance, fertility and caregiving benefits.
+Well-rounded wellness benefits including free and low cost mental health resources and financial wellbeing support services
+Education benefits and tuition assistance to help your future development and growth
+Guild requires COVID-19 vaccines for all employees and guests attending Guild events or entering Guild offices. As of February 1, 2022, we will be expanding our in-person vaccination requirement to include booster shots. We will be using both Clear's Digital Vaccine Card and state-sponsored vaccine passports to verify proof of vaccine. Accommodations or exceptions can be requested for medical or religious reasons.
+PRIVACY NOTICE
+I understand that I am applying for employment with Guild Education and am being asked to provide information in connection with my application. I further understand that Guild gathers this information through a third-party service provider and that Guild may also use other service providers to assist in the application process. Guild may share my information with such third-party service providers in connection with my application and for the start of employment. Guild will treat my information in accordance with Guild's Privacy Policy.
+I have reviewed and agree to Guild's Privacy Policy as well as the privacy policies of the third-party service providers used by Guild associated with the application process.
+Job Type: Full-time
+Pay: $220,000.00 - $246,250.00 per year

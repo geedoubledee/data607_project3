@@ -1,0 +1,17 @@
+ Apply Statistical and Machine Learning methods to specific business problems and data.
+ Ensure data quality throughout all stages of acquisition and processing, including such areas as data sourcing/collection, ground truth generation, normalization, transformation, cross-lingual alignment/mapping, etc.
+ Using tools such as Tableau, Looker and GoogleData Studio to aggregate data from across our software tools to build and develop dashboards for both client-facing and internal purposes across the company that feature relevant KPIs and metrics
+ Create data dashboards and other data visualization tools to track progress to inform continuous quality improvement of the Congregate Settings Investigation and Response Unit.
+ Design, develop, evaluate, and release highly innovative models elevate the customer experience and track impact over time
+Job Types: Full-time, Part-time, Contract
+Salary: $65,000.00 - $80,000.00 per year
+Benefits:
+401(k)
+Health insurance
+Schedule:
+8 hour shift
+Monday to Friday
+Experience:
+Data science: 1 year (Required)
+Machine learning: 1 year (Required)
+Work Location: Remote

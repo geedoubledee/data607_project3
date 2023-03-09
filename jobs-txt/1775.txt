@@ -1,0 +1,37 @@
+A Master’s degree or foreign equivalent in Computer Science, Engineering, Artificial Intelligence, Data Analytics, Statistics, Mathematics, or related field and 1 year of experience in a related occupation.
+
+In the alternative, employer will accept a Bachelor’s degree or foreign equivalent in Computer Science, Engineering, Artificial Intelligence, Data Analytics, Statistics, Mathematics, or related field followed by 5 progressively responsible years of experience in a related occupation.
+
+Experience must include:
+1. 1 year of experience developing A/B testing frameworks.
+2. 1 year of experience visualizing data using Tableau.
+3. 1 year of experience using statistical computer language R, Python, or SQL to manipulate data and draw insights from large data sets.
+4. 1 year of experience applying fundamental statistical principles to solve applied problems.
+
+Telecommuting benefits available
+#0000
+
+Job summary
+Employer: Twitch Interactive, Inc.
+Position: Data Scientist, Analytics II
+Location: San Francisco, CA
+
+Multiple Positions Available
+1. Transform data into actionable insights and take data-driven approach to drive business decisions.
+2. Translate loosely-defined business problems into analytic terms by applying and adapting existing frameworks and solutions. Deliver artifacts in the form of analysis reports, spreadsheets, design specs (for data tracking or A/B experiments) and dashboards. Build solutions that scale wherever possible, and partner with engineers or other teams to deliver self-serve tools that automate repeatable analytic tasks.
+3. Solve problems using appropriate assumptions and translate findings into actionable recommendation.
+4. Assume responsibility for correct implementation and validate data, assumptions and results.
+5. Communicate work clearly, and adapt messaging for both technical and nontechnical audiences.
+6. Participate in team business reviews, design, scoping, and prioritization discussions.
+7. Work effectively with customers and/or internal partners to understand business impacts and identify any opportunities/problems arising from the technical or business decisions.
+8. Provide feedback and analytics guidance to more junior team members.
+9. Telecommuting benefits available.
+#0000
+
+All applicants must meet all the above listed requirements.
+
+#0000
+
+Amazon is committed to a diverse and inclusive workplace. Amazon is an equal opportunity employer and does not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, protected veteran status, disability, age, or other legally protected status. For individuals with disabilities who would like to request an accommodation, please visit https://www.amazon.jobs/en/disability/us.
+
+Pursuant to the San Francisco Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.

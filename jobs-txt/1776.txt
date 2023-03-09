@@ -1,0 +1,76 @@
+Term: Full Time
+Closing Date: 21st November 2022
+Location: Remote - Work from home (timezone: GMT-1 to GMT+6)*.
+Working Day: Flexible working hours throughout the week. Daily collective overlapping hours are 11:00-16:00 GMT. Our Full Time work week is approximately 40 hours.
+Team : Data Insights
+Travel: typically, four 1-2 weeks’ international travel per annum
+Benefits: Working at Peek has many benefits. Please find more information about those benefits here
+To Apply: You must submit your application through our recruitment centre via this link: https://peekvision.bamboohr.com/careers/37?source=aWQ9OA%3D%3D
+Millions of people worldwide are losing their sight unnecessarily. Join a mission driven award winning team who are intent on changing this.
+The Role
+Peek is seeking to build a dynamic team of data professionals to drive our data development, synthesis, analysis and innovation. Our software’s unprecedented ability to analyse eye health systems has become critical in strengthening the confidence of stakeholders in the eye health system by examining the needs, coverage and utilisation of limited resources to optimise access and health outcomes as well as data quality. As a result, we are establishing our software as an indispensable component of global efforts to reverse the trend of increasing visual impairment that currently affects more than a billion people.
+As a part of the developing Data Insights Team, you will be accountable for Peek’s data analysis tools and processes. You will be familiar with modern data technologies, working in Agile teams and data analysis principles. You will embrace the task of surfacing value from our systems’ data for internal and external stakeholders.
+The initial priority for the role will be working closely with our DevOps, data analysts and product roles to integrate our databases with a common business intelligence platform (to be chosen based on your assessment). Following this you will work with our data analysts, programme managers, product team and ultimately external stakeholders to use the BI tools to leverage our product to provide unprecedented insight into the operations of eye health services across Africa and Asia.
+Peek’s staff are distributed internationally around the globe and our customers and software users operate and deliver programmes in multiple countries. Travel to programmes using Peek’s software and services in different countries will be part of the role (in line with Peek’s Travel Safety Policy). Peek’s culture enables a self managed team structure. This provides a high level of ownership and accountability within each role, and enables effective and frequent collaboration between team members and across teams.
+Responsibilities and Attributes
+The 5 key responsibilities of the role are:
+Build/integrate business intelligence and analytics tools that utilise available data pipelines to provide actionable insights for the business, our customers and other stakeholders
+Work with the organisation's data analysts, application support and DevOps to assist with data-related technical issues and analyses
+Implement processes and systems to monitor data quality
+Identify, design and implement internal process improvements
+Create and maintain analytical tooling as data volume and complexity increases.
+The 5 key attributes we have identified for the role are:
+Familiarity with at least one business intelligence tool (e.g. Tableau, Google Data Studio, Microsoft BI, etc. ) including data visualisation using such tools.
+Demonstrable experience with at least one statistical programming language (Python, R or similar)
+Knowledge of data structures and experience of working with large datasets within an enterprise context
+Demonstrable experience of articulating and translating business questions and using statistical techniques to arrive at an answer using available data
+Demonstrable experience with or knowledge of Agile software development methodologies.
+Desirable attributes for the role are:
+MSc and/or PhD in quantitative discipline
+Knowledge of machine learning methodologies (e.g. reinforcement learning)
+Knowledge of public health and clinical trials statistics
+Knowledge of healthcare systems
+Experience in data pipeline architecture
+Knowledge of NoSQL technology (e.g. MongoDB)
+Authorship of peer-reviewed publications.
+About Peek
+1.1 billion people worldwide have preventable or curable vision loss, including 43 million who are blind. And rates are rising. Vision loss can have devastating effects on education, social status, and livelihoods. Simple, cost-effective treatments exist, like cataract operations or glasses. Further, the burden of most eye conditions is not borne equally. The majority of cases are in Africa and Asia, where eye care services are limited and people travel long distances to reach hospitals.
+Peek Vision is a social enterprise that powers eye health programme providers to strengthen systems and service delivery with a software and data intelligence platform.
+We are dynamic, impact-driven and award-winning . Our solutions for school & community eye health providers include:
+1. Population-level eye health surveys
+2. Programme design
+3. Software
+4. Data insights
+For a brief introduction explaining how Peek powers school and community eye health programme providers to make unmet eye health needs visible, watch this Introducing Peek Vision video: https://www.youtube.com/watch?v=0Ch20cw3Rdc
+Peek Capture is a smartphone app that allows non-specialists - such as teachers and community health workers - to conduct vision screening and eye health surveys in homes, communities and schools. It integrates the visual acuity check from our award-winning Peek Acuity Android App, allowing anyone to check visual acuity using a smartphone.
+Peek Admin is a web platform that displays the real-time data entered in Capture, allowing healthcare providers to understand where the need is greatest and how to improve services.
+They are used to power our two main offers:
+Peek for School and Community Eye Health Programmes
+We use Peek Capture to help eye health providers reach communities and join up local services, while data from Peek Admin helps ensure those who need treatment are reached.
+We offer our public health expertise to adapt the solutions to local needs and help partners analyse the data for iterative improvement.
+Peek for RAAB7
+RAAB (Rapid Assessment of Avoidable Blindness) is a rapid survey methodology developed at
+ICEH (International Centre for Eye Health) to identify the prevalence of eye health issues in a given population. Identifying population need is the first step to advocating for and designing impactful programmes.
+Peek is an equal opportunity employer. Peek will not discriminate and will take measures to ensure against discrimination in employment, recruitment, advertisements for employment, compensation, termination, promotions, and other conditions of employment against any employee or job applicant on the bases of age, disability, gender, marital status, parenthood, race, religion or belief, sex, sexual orientation, or any other factor which may be deemed discriminatory. Further the diversity of our team is important and crucial to our impact and we seek to ensure our team has affinities or links to the communities where we are most active.
+* Unfortunately we are currently unable to employ individuals resident in the following countries: India & Germany
+Job Type: Full-time
+Salary: $98,000.00 - $116,000.00 per year
+Benefits:
+Dental insurance
+Employee assistance program
+Flexible schedule
+Health insurance
+Life insurance
+Paid time off
+Parental leave
+Professional development assistance
+Retirement plan
+Vision insurance
+Schedule:
+Monday to Friday
+COVID-19 considerations:
+All interviews will be held remotely via Zoom.
+Application Question(s):
+To be considered for this role must submit your application through our recruitment centre via the link pasted below. Please confirm you have done this.
+https://peekvision.bamboohr.com/careers/37?source=aWQ9OA%3D%3D
+Work Location: Remote

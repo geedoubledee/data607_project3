@@ -1,0 +1,53 @@
+Requisition #: 609345
+Location: Johns Hopkins Health System, Baltimore, MD 21201
+Category: Information Technology
+Work Week: Full Time
+Weekend Work Required: No
+Date Posted: Nov. 17, 2022
+
+Join an amazing global healthcare organization!
+
+Excellent compensation package!
+
+Awesome benefits, including dependent tuition reimbursement!
+
+Requisition #: 609345
+
+Location: Hybird
+
+5801 Smith Ave Davis Bld, Ste 210
+
+Baltimore, MD 21209
+
+Shift:
+Full Time (40 hours)
+
+Day Shift, 8:30 am - 5:00 pm
+
+Exempt
+
+Position Summary:
+Works under the supervision of a Data Trust Analytic Team Leader or other data governance or analytic leadership appropriate for the scope of work. This supervision may be through a matrixed or direct reporting structure. This role is responsible for data analytics and additional support of performance measures, ongoing measurement, data collection, reporting, data visualization, and information dissemination. They are subject matter data experts that work with IT solutions to solve high priority organizational analytic problems in their work area. This role involves developing and fine tuning exploratory IT solutions, which includes coding, testing, debugging, designing, and implementing newly developed BI solutions. Spends time researching and planning analytic solutions for existing and new problems within the organization as directed by their supervisor and leadership. Responsible for leading the subject matter strategic design and maintenance of business intelligence tools. Identifies, researches, and resolves technical problems independently. Ensures that the use of business intelligence applications enhance clinical & business decision-making capabilities. Works on advanced, complex technical projects or business issues requiring state of the art technical or industry knowledge. Goals are communicated in solution or project goal terms. Will provide a leadership role for the work group through knowledge in the area of specialization. Partners and collaborates with other analytic teams and data warehouse engineers.
+
+Education:
+A Bachelors degree required. Masters degree strongly preferred.
+
+Work Experience:
+Requires minimum of 5 years of progressive experience in healthcare IT, analytics, software development or data management. Experience with Business intelligence development tools such as tableau and SAS and programming tools such as R, Python, and SQL.
+
+Requires demonstrated experience in project management or management and experience working with external vendors
+
+Required Licensure Certification, etc.:
+EDW internal certification required within 6 months. A certification such as Certified Analytics Professional, project management, or a certification in a data analytic tool such as Tableau Software, or Epic required. The ability to obtain Epic Caboodle or Clarity Certification as requested in the first year.
+
+Knowledge:
+Requires a thorough knowledge of health care and hospital business operations. Requires knowledge and understanding of the interrelationship of business process and Information Systems applications. Requires a thorough knowledge of data warehouse and data management principles and processes and database development. Understands the range of options and best practices for common Business intelligence design techniques such as change data capture, key generation and optimization, and performance tuning. Significant experience with data quality, data profiling, metadata management and reporting. Knowledge of all phases of the Software Development Life Cycle (SDLC). Strong proficiency in SQL programming, query writing, query performance tuning, and database technologies. Advanced knowledge in medical terminology and clinical informatics. Ability to distill and articulate technical and organizational approach to clinical data needs.
+
+Skills:
+Goal oriented and action-focused, pragmatic and self-disciplined, organized with ability to facilitate and interact effectively with upper levels of management. Ability to plan, organize, direct, implement and evaluate processes to lead projects and manage resources to achieve desired result. Strong programming, analytical, and computational skills. Ability to convey technical methods, approaches and plans to audience of varying degrees of technical understanding including clinical and business stakeholders and technical team. Ability to manage long term client and vendor relationships, including resolution of production issues and upgrades, to help future product development better to meet the needs of the organization. Demonstrated command of web technologies and business intelligence techniques & tools. Must be detail-oriented and accurate.
+
+Johns Hopkins Health System and its affiliates are an Equal Opportunity / Affirmative Action employers. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity and expression, age, national origin, mental or physical disability, genetic information, veteran status, or any other status protected by federal, state, or local law.
+
+Johns Hopkins Health System and its affiliates are drug-free workplace employers.
+
+We are committed to providing a healthy and safe environment for our patients, visitors and staff members. The Johns Hopkins Hospital has a tobacco-free at work policy. Employees must refrain from using any tobacco products during their work shifts - including while at lunch or on breaks, and whether they are on or off campus.

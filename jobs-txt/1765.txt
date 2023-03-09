@@ -1,0 +1,41 @@
+Full Stack Developer I
+Location: Onsite – Offutt AFB, NE
+Schedule: Full Time
+
+OVERVIEW
+Caribou Thunder is seeking a Full Stack Developer I to support a national defense contract at Offutt AFB, NE. Candidates will work on-site in a Top Secret environment to develop custom applications as well as integrate commercial and government capabilities into DoD products.
+
+SECURITY CLEARANCE
+Must have Top Secret
+
+EDUCATION and EXPERIENCE
+
+Bachelor’s degree in Computer Science, Engineering, or related discipline plus 1 year of Java development experience
+
+RESPONSIBILITIES
+Develop full-stack Java based web applications
+Work in an Agile DevSecOps team environment
+Utilize CI/CD pipelines
+Work with microservice architecture
+
+QUALIFICATIONS
+Java and JavaScript (Ext JS, React/Angular/Vue), CSS, and HTML
+Experience with containerization and deployment tools such as Kubernetes, Istio, Podman or similar applications.
+Experience with automated security scanning tools such as OpenSCAP, SonarQube or similar applications
+Experience with database integration and technologies such as SQL
+Messaging Middleware and event-driven data architectures (Kafka, JMS)
+Object-Oriented Design, Model-based engineering
+
+PREFERRED QUALIFICATIONS
+Familiarity with development tooling such as Eclipse, Jenkins, GitLab, Gradle, GIT, JUnit, Selenium, JIRA
+Direct Experience with Open Container Initiative (OCI) Compliance
+Spring Framework (SpringBoot, WebFlux, WebMvc, SpringSecurity)
+Object/Relational Mapping Framework (Hibernate) and SQL
+
+ABOUT CARIBOU THUNDER
+Caribou Thunder is a provider of global engineering services since 2006. The company is certified by the Small Business Administration as Women and Native American Owned, HUBZone and Small Disadvantaged Business, that has completed projects for Department of Defense and Intelligence Community in 22 countries around the globe and 35 states across America.
+Caribou Thunder is an established Department of Defense contractor with over 15 years of experience delivering global engineering programs. We offer industry leading salaries as well as world class benefits including Medical, Dental, Vision, Life Insurance, Disability Insurance, Health Savings Plans, and 401k offerings. We offer challenging and exciting work opportunities with growth potential, within several Department of Defense contracts and have a turnover level much lower than industry averages due to our tradition of serving our employees with the highest level of support. Caribou Thunder Engineering Services is pleased to be an Equal Opportunity/Affirmative Action Employer, in which hiring decisions are made without regard to race, color, religion, creed, sex, sexual orientation, gender identity, marital status, national origin, age, veteran status, disability, or any other protected class. United States citizenship is a requirement for all positions.
+MG91001
+#IND123
+
+qsSPqYRVBM

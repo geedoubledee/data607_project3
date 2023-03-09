@@ -1,0 +1,22 @@
+DESIRED SKILLS AND ABILITIES
+Key Responsibilities
+You will design, build and test cross cloud and on-premise data pipelines and leverage Azure Databricks for data processing.
+Collaborate with cloud architects, tech leads to facilitate on-premise to Databricks migration
+You should understand data pipelines and modern ways of automating data using cloud-based and on-premise technologies
+Develop reference architectures and design pattern library for typical Cloud based solutions implementations
+Advise on Cloud project set up, security and role based access implementation, and network optimizations
+Qualifications:
+2+ years with SQL and database table design – able to write structured and efficient queries on large data sets
+1-2 years on Databricks on any cloud platform (AWS, Azure)
+1-2 years working on AWS/Azure cloud
+1-2 year’s design and/or implementation of enterprise applications
+Experience in “migrating” on premise workloads to one or more industry leading public cloud(s)
+Experience in AGILE development, SCRUM and Application Lifecycle Management (ALM) with scripting experience in Python and shell.
+Hands-on experience in full life-cycle of software development or methodology using Agile Scrum/Kanban etc
+Able to work with agile teams as they perform feature level design, development, testing, and performance analysis
+Databricks certifications is a plus
+Job Type: Contract
+Pay: $65.00 - $75.00 per hour
+Schedule:
+8 hour shift
+Work Location: Remote

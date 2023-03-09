@@ -1,0 +1,41 @@
+The world's largest provider of commercial finance to the legal sector seeks a Data Engineer.
+Responsibilities:
+Data Platform Administration and Development
+Perform all the technical tasks required to keep our data platforms operating smoothly
+Ensure timely availability of fit-for-purpose-reports and data analysis
+Connect new systems to the data platform as needed
+Perform daily health and security checks on all systems and diagnose/fix issues
+Help select and deploy tools for user data access including reporting and BI platforms
+Create and maintain documentation of platform, processes, best practices, and usage guides
+Provide training and support to users in using our data tools
+Required:
+Bachelor's Degree in Computer Science or other relevant discipline
+3+ years experience as a data engineer or data analyst
+3+ years of experience with ETL or ELT (any tool OK)
+3+ years of experience with SQL
+2+ years of experience with Python
+Experience using and building APIs
+Experience with reporting and business intelligence platforms
+Working knowledge of Excel
+Nice to have:
+Experience with Postman a plus
+Experience with project management tools and techniques
+Understanding of law or background in the legal industry a plus
+Experience with scripting and coding with Microsoft tools a plus
+Job Type: Full-time
+Pay: From $175,000.00 per year
+Benefits:
+401(k)
+Dental insurance
+Health insurance
+Paid time off
+Vision insurance
+Schedule:
+8 hour shift
+Monday to Friday
+Supplemental pay types:
+Bonus pay
+Experience:
+ETL: 3 years (Required)
+Python: 2 years (Required)
+Work Location: One location

@@ -1,0 +1,12 @@
+Candidates should have strong theoretical foundation in Data Science and ability to communicate well (explain projects and answer detailed questions). Must also meet requirements for practical experience, please see previous note for those requirements.
+Required: *Bachelors degree plus 5-7 years exp or Masters with 3-5 years exp *Statistical data analysis (3+ years) *ML/AL modeling (3+ years) * Python (5+ years) * Experience working with AWS (required) (3+ years)
+Desired Skills: *5+ years exp with SQL(preferred), SAS(preferred) *Exp working with enterprise level business sites *understanding of business goals would be helpful **working with a team of about 8 people *working on one major project, with one more possible - Team is focusing on data telematics, particularly time series data.
+Job Type: Contract
+Pay: $60.00 - $65.00 per hour
+Schedule:
+Monday to Friday
+Experience:
+AI/ML: 3 years (Preferred)
+Statistical data analysis: 3 years (Preferred)
+AWS: 3 years (Preferred)
+Work Location: Remote

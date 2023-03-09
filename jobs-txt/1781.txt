@@ -1,0 +1,39 @@
+Further your career with Powerfront. We are an international, innovative SaaS provider with technology running through our veins. We transform the way organizations run their customer engagement strategies. A career at Powerfront is exciting, challenging and rewarding.
+We are looking for a game changer that will take the initiative to implement and engineer the experience of every application/software being put out by our business and:
+Key Responsibilities
+Ongoing SQL query and index analysis and tuning in cooperation with Developers and Sysadmin Engineers.
+Provide guidance and support to Application Developers
+Install, tune, implement and upgrade DBMS installations
+Monitor and maintain system health and security
+Setup and maintenance of continuous Database Monitoring and Alerts
+Create backup and recovery plans and procedures based on industry best practices
+Deploy Data Leak Prevention auditing methods and security hardening
+Managing and keeping up to date with Security Patches and new releases.
+Improving the database structure and performance of the Database to lower hardware dependency costs
+Disaster recovery: performing quarterly failover drills
+Capacity planning
+Implement and manage company data management practices and policies
+Troubleshooting issues in relation to outages and lost/corrupt data
+Key Requirements
+Excellent knowledge of MS SQL Server (2016/2019) including all the latest features (high availability/always encryption/memory-optimized tables/query store)
+Expert in Query Tuning, reading execution plans, and performance optimization
+Expert in writing complex SQL server queries and creating the optimal indexes for a given query.
+Experience with managing and deploying databases on Linux and Windows operating systems.
+Experience in effectively deploying and administering web/database-oriented solutions in modern cloud environments. AWS preferred.
+Knowledge in working with very large Databases (5TB+) and high throughput (5000 TPS) systems
+Experience with minimizing downtime and deploying high availability architectures (99.99% uptime)
+Experience with scripting or coding. Linux bash, Python, and/or Windows PowerShell.
+High attention to detail at all times
+Good understanding of data and schema standards and concepts
+Critical thinker and problem-solving skills
+BS in Computer Science or equivalent is required
+7-10 years experience in Database Administration
+Summary of Benefits
+Competitive salary
+Join a dynamic & forward-thinking organization revolutionizing retail technology
+Be a part of an amazing culture with a high client and staff retention
+Take pride in marketing to the most prestigious brands in the world
+Career progression and longevity
+Remote work environment
+Note: The purpose of this profile is to provide a general summary of essential responsibilities for the position and is not meant as an exhaustive list. Assignments may differ for individuals within the same role based on business conditions, departmental need or geographic location.
+Powerfront provides equal employment opportunities (EEO) to all employees and applicants for employment without regard to race, color, religion, sex, national origin, age, disability or genetics.

@@ -1,0 +1,23 @@
+General Characteristics
+Manages and maintains all production and non-production databases. Responsible for standards and design of physical data storage, maintenance, access and security administration. Performs backup and recovery on Database Management Systems, configures database parameters, and prototype designs against logical data models, defines data repository requirements, data dictionaries and warehousing requirements. This position optimizes database access and allocates/re-allocates database resources for optimum configuration, database performance and cost.
+Dimensions Education:
+Bachelor’s Degree in Computer Science, Information Systems, or other related field. Or equivalent work experience.
+Experience:
+A minimum of 3 years of experience working with various database management systems in database design, testing, implementation, maintenance and administration in a multiple platform environment.
+Complexity:
+Intermediate professional level role. Supports multiple services and multiple databases of medium to high complexity (complexity defined by database size, technology used, systems feeds and interfaces) with multiple concurrent users, ensuring control, integrity and accessibility of data. Works on multiple projects as a project leader or sometimes as a project advisor. May coach more junior technical staff.
+Job Type: Contract
+Pay: $57.00 - $90.00 per hour
+Benefits:
+401(k)
+401(k) matching
+Health insurance
+Schedule:
+8 hour shift
+Ability to commute/relocate:
+Haines City, FL 33844: Reliably commute or planning to relocate before starting work (Required)
+Experience:
+MySQL: 1 year (Preferred)
+Database administration: 1 year (Preferred)
+Oracle: 1 year (Preferred)
+Work Location: One location

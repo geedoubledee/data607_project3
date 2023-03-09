@@ -1,0 +1,20 @@
+TikTok is the leading destination for short-form mobile video. Our mission is to inspire creativity and bring joy. TikTok has global offices including Los Angeles, New York, London, Paris, Berlin, Dubai, Mumbai, Singapore, Jakarta, Seoul and Tokyo.
+
+Why Join Us
+At TikTok, our people are humble, intelligent, compassionate and creative. We create to inspire - for you, for us, and for more than 1 billion users on our platform. We lead with curiosity and aim for the highest, never shying away from taking calculated risks and embracing ambiguity as it comes. Here, the opportunities are limitless for those who dare to pursue bold ideas that exist just beyond the boundary of possibility. Join us and make impact happen with a career at TikTok.
+
+Recommendation algorithm team plays a central role in the company, driving critical product decisions and platform growth. The team is made up of machine learning researchers and engineers, who support and innovate on production recommendation models and drive product impact. The team is dynamic, fast-pacing, collaborative and impact-driven.
+
+Responsibilities - What You'II Do
+Build industry-leading recommendation system, improving user experience, content ecosystem and platform security
+Independently own full stack technology, from ML and data to productionalizing algorithms
+Systematically develop product strategy with strong analytical and impact-driven mindset
+Work with cross functional teams and partner R&D teams to grow TikTok in important markets
+Bachelor‘s degree in computer science or a related major, with 2+ years of related work experience
+Strong software development experience with C++, Python or other programming language
+Experience in one or more of the following areas: applied machine learning, machine learning infrastructure, large-scale recommendation system, market-facing machine learning product
+Strong communication and teamwork skills
+Passion about techniques and solving challenging problems
+TikTok is committed to creating an inclusive space where employees are valued for their skills, experiences, and unique perspectives. Our platform connects people from across the globe and so does our workplace. At TikTok, our mission is to inspire creativity and bring joy. To achieve that goal, we are committed to celebrating our diverse voices and to creating an environment that reflects the many communities we reach. We are passionate about this and hope you are too.
+
+TikTok is committed to providing reasonable accommodations during our recruitment process. If you need assistance or an accommodation, please reach out to us at usrc@tiktok.com.

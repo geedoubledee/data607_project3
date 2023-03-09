@@ -1,0 +1,34 @@
+**INCLUDE ALL RELEVANT EDUCATION, WORK EXPERIENCE IN THE DESIGNATED EDUCATION AND WORK HISTORY SECTION ON THE FORMAL APPLICATION.**
+
+Depending on business need and job suitability, this position may be a candidate for telework, subject to management approval.
+Salary Grade: DT09
+Recruitment Range: $73,965.00 - $110,948.00
+
+Description of Work:
+The IT Infrastructure and Operations Section of the Division of Employment Security (DES), Information Systems Group provides systems support for web application, mainframe applications, databases, Local Area Networks (LANs), desktop and laptop computing systems, and operates a service desk. The primary purpose of this position is to administer and maintain all DES databases, hosted either on premises or in the cloud. This includes installation, configuration, & patching of databases, database design, data modeling, data loading and extraction, stress testing database applications, database monitoring, database performance tuning and optimization, database backup & recovery, change control deliveries, resource management & capacity planning, batch job management, database security, trouble-shooting, and problem resolution. This position will work closely with database developers in designing optimal and efficient solutions that are easier to support, maintain, and administer, with an emphasis on identifying cloud native opportunities.
+Knowledge, Skills and Abilities / Competencies
+Qualified applicants must submit an application that clearly reflects work experience that demonstrates the following:
+
+Demonstrated technical expertise in Oracle or SQL Server databases and administration.
+Demonstrated experience with Windows or Unix/Linux operating systems and their associated hosting infrastructures.
+Demonstrated experience providing operational technical support on production databases located on premises or in a cloud environment.
+
+MANAGEMENT PREFERENCES:
+Expertise with databases clustering, mirroring, high-availability configurations, and their underlying operating systems and the associated hosting infrastructure.
+Progressive history of relevant database certifications, including Oracle Certified Database Administrator, AWS or Azure.
+Experience in migrating, deploying, supporting, and maintaining databases in the cloud.
+Strong understanding of database security.
+Understanding of cloud technologies and concepts with the ability to evaluate against future technical needs of the agency.
+Demonstrated ability to collaborate with other IT teams to identify database application requirements and deliver effective database solutions.
+Ability to evaluate third party tools and prepare bid specifications and proposals.
+Knowledge of ITIL concepts such as Incident, Request, and Change Management.
+Ability to present ideas, concepts, project requirements, and design specifications verbally and in writing.
+Applicant must meet both the Minimum Education and Experience Requirements and all posted Knowledge, Skills and Abilities / Competencies requirements to be considered Qualified for the position.
+Minimum Education and Experience Requirements
+Bachelor's degree in computer science or an IT related field or a related curriculum from an appropriately accredited institution and one year of experience in programming and applications analysis including the design and maintenance of an integrated database system; or
+
+Associate degree in computer science or an IT related field or a related curriculum from an appropriately accredited institution and two years of experience in programming and applications analysis including the design and maintenance of an integrated database system; or
+
+High School or General Educational Development (GED) diploma and five years of experience in programming and applications analysis including the design and maintenance of an integrated database system; or
+
+An equivalent combination of education and experience.

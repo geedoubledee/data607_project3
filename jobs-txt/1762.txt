@@ -1,0 +1,26 @@
+Summary
+Posted: Oct 17, 2022
+Weekly Hours: 40
+Role Number: 200433891
+Apple’s Strategic Data Solutions (SDS) team leads efforts to mitigate monetary losses, ensure financial crimes regulatory compliance, optimize various business processes, and improve the customer journey across Apple’s ecosystem. This role is part of the Technical Fraud Analyst (TFA) team. The TFA team is a global, fast growing, highly operational organization within SDS. The team assists with the SDS mission by providing deep subject matter expertise, bulk labels, fraud analysis and innovative approaches to business problems across the organization where a technical solution alone may not suit. We are looking for an outstanding analyst who is interested in working closely with our team cross-functionally to understand processes and analyze business needs, document and understand business requirements, conduct strategic assessments, track and develop analytics, and develop/implement technical solutions. This includes review of existing reports, existing metrics, and making recommendations to improve quality and efficiency. They will partner with analysts and data scientists to analyze complex business problems, have access to internal and external data sources, and be expected to communicate relevant insights to senior leadership and key decision-makers. The ideal candidate works well in collaborative environments with minimal formal structure and is comfortable in changing environments with competing priorities. They must possess solid business acumen, a strong technical background, natural curiosity, and the ability to effectively shift between communications styles based on the audience (technical peer review through leadership update). This position is based in Austin, Texas!
+Key Qualifications
+At least 3-5 yrs experience working as a data/business analyst, auditor, or related role
+Competent with SQL and big data systems and tools
+Programming skills in Python and data visualization
+Experience applying analytical techniques to provide solutions to real business problems
+Creativity to go beyond current tools to deliver best solution to the problem
+Inquisitiveness and a desire for continued self-improvement and development of new skills
+Comfort working independently and making key decisions on projects
+Ability to tell meaningful and accurate stories with data, analysis and visualization
+Ability to bridge between technical data science team and business teams to answer questions related to significance of a data pattern, or identifying relevance to business processes
+Ability to work cross-functionally with external teams and infrastructure teams to gather relevant data for the data science team
+Good interpersonal skills with ability to connect and develop strong partnerships
+Strong verbal / written communication skills
+Description
+•Support discovery of business problems •Analyze and interoperate new sources of data •Perform ad-hoc and reoccurring statistical analyses •Work with data warehouse architects and software developers to generate seamless business intelligence solutions for business partners •Present results of analyses to business units •Superb communication skills both written and verbal. •Ability to facilitate meetings, collect minutes, gather action items, and drive tasks to completion.
+Education & Experience
+BS / MS in technical field (math, statistics, engineering analytics, or similar) Apple is an equal opportunity employer that is committed to inclusion and diversity.
+Additional Requirements
+Python
+SQL
+Large data set experience

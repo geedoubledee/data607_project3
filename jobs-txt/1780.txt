@@ -1,0 +1,71 @@
+Who are we:
+We are an innovative award winning software company that utilizes its proprietary artificial intelligence (AI) platform to find, analyze, and organize dynamically unstructured data found within any type of business document.
+Most businesses are unable to fully access the critical information contained in unstructured documents (paper or digital). With 80% of the world’s documents in unstructured formats, vital information is being lost every day. This is a BIG DEAL.
+TackleAI is the modern solution to handle this data overload. It is like no other software.
+Whether the unstructured documents are PowerPoints, emails, images, reports, or any other unstructured format, TackleAI handles it all.
+We are revolutionizing the artificial intelligence industry!
+Check out some of our awards and recognitions below:
+2019 Established- Startup of the year
+2020 World Business Chicago- Most Promising Startup
+2020 North America Red Herring Winner
+2020 CIO Applications- Top 10 Artificial Intelligence Solutions Provider
+2021 CIO Applications- Top 10 Artificial Intelligence Solutions Provider
+2021 Silicon Review- Top 5 AI Solutions Provider
+2022 Builtin Chicago- Top 50 Best Paying Companies in Chicago
+2022 Builtin Chicago- Top places to work for in 2022
+2022 Builtin Chicago- Top 22 Chicago Startups to watch for in 2022
+What we need:
+As TackleAI continues to grow, we're seeking a Director of Machine Learning to act as a thought leader who will define and drive dynamic data initiatives that are critical to our success. In this role, you will collaborate with Engineering, Product, Leadership and other teams to make our platform smarter, and lead machine learning initiatives from prediction modeling, to recommendations, to search and beyond. You will recruit, hire, mentor, and motivate Machine Learning and Data professionals. You will work with executives and Data professionals. You will also understand our functionality with enough expertise to work closely with customers when needed to demonstrate the software or advise on their use cases, at times assisting our Customer Success team during implementation for new customer evaluations.
+What you'll do:
+Lead from the front as a hands-on subject matter expert, architecting and crafting scalable solutions, and driving data excellence across the organization.
+Coach and mentor our team as we build scalable data and machine learning solutions.
+Inform and deliver on ambitious product roadmaps to accelerate our growth.
+Build and deploy end to end ML models and leverage metrics to support predictions, recommendations, search, and growth strategies.
+Define measurement plans and inform the product roadmap of TackleAI, through experimentation and statistical analysis.
+Work cross-functionally to identify future machine learning applications for our company.
+About you:
+3-5 years of Hands-on experience designing and implementing elegant machine learning models at internet scale.
+Expertise with cutting edge technologies such as transfer learning, unsupervised feature generation, meta-learning, generative text models, computer vision, sensor fusion, or reinforcement learning
+Deep programming proficiency to implement solutions in production
+Advanced data science and mathematical skills (e.g. PhD in computational modeling, machine learning, statistics, computer science)
+Experience with modern databases, cloud environments, and data ecosystems
+Experience defining and leading large-scale projects with multiple stakeholders
+Experience within a leadership role where you have proven success with building and maintaining teams
+What we will offer you:
+At TackleAI we believe our teammates to be our biggest asset. We strive to provide the best work environment, culture, and employee experience for our team with the ultimate goal of creating and providing the best tech solutions and customer experience for our valued clients.
+As a team member at TackleAI you will enjoy:
+Hybrid Schedule - in office and remote work
+Unlimited PTO
+Blue Cross Blue Shield Health Insurance
+401(k) options- Roth, Traditional, or both
+10+ Paid Holidays
+Salary reviews 2 times per year with a potential increase based on performance
+Training and Development opportunities to enhance and sharpen skills
+Free gym membership for gym onsite
+Diversity focused, inclusive and safe office environment
+All you can eat and drink snacks and beverages
+Community service and outreach opportunities through Tackle the Future-company owned non-profit
+Equal Employment Opportunity Policy:
+TackleAI is an equal opportunity employer. In accordance with anti-discrimination law, it is the purpose of this policy to effectuate these principles and mandates. TackleAI prohibits discrimination and harassment of any type and affords equal employment opportunities to employees and applicants without regard to race, color, religion, sex, sexual orientation, gender identity or expression, pregnancy, age, national origin, disability status, genetic information, protected veteran status, or any other characteristic protected by law. TackleAI conforms to the spirit as well as to the letter of all applicable laws and regulations.
+Job Type: Full-time
+Pay: $180,000.00 - $250,000.00 per year
+Benefits:
+401(k)
+Flexible schedule
+Health insurance
+Paid time off
+Parental leave
+Professional development assistance
+Referral program
+Relocation assistance
+Retirement plan
+Schedule:
+8 hour shift
+Day shift
+Monday to Friday
+Ability to commute/relocate:
+Schaumburg, IL 60173: Reliably commute or planning to relocate before starting work (Required)
+Experience:
+Python: 5 years (Preferred)
+machine learning: 5 years (Preferred)
+Work Location: Hybrid remote in Schaumburg, IL 60173

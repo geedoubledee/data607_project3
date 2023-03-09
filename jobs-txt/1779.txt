@@ -1,0 +1,21 @@
+We are seeking a BI Developer to join a data warehouse and BI development team supporting our federal customer's financial dashboard and reporting system. The BI Developer will work with the data team and business analysts to produce customized and ad-hoc analytics and visualizations for the agency's financial systems users. The candidate for this role should be a quick learner, self-starter, and be able to take minimal customer requirements and turn them into requested reports, dashboards, and/or analytics. Ideal candidate will also have system administration experience. This is a full-time position on a multi-year contract with on-site work performed at the client's office located in Washington, D.C.
+Responsibilities:
+Research and evaluate technical solutions and recommend the best course for given requirements.
+Design, develop, test, and implement WebFOCUS reporting for both new and existing applications, reports, and visualizations.
+Support system administration of existing WebFOCUS applications, reports, and visualizations.
+Create and maintain technical documentation on SharePoint.
+Serve as a BI team contributor.
+Collaborate closely with technical database, business, and quality assurance teams
+Requirements:
+Active Top Secret security clearance.
+3+ years of experience developing or administering reporting applications using one or more BI platforms (e.g. WebFOCUS, Cognos, BusinessObjects, Tableau, Power BI, MicroStrategy).
+Strong, demonstrable knowledge of BI industry standards and best practices.
+Experience with relational databases, including an ability to interpret SQL.
+Demonstrated ability to troubleshoot and debug technical BI issues.
+Ability to rapidly learn new concepts and business systems.
+Analytical and problem solving skills with a strong attention to detail.
+
+
+cBEYONData is a Federal Contractor and an EEO and Affirmative Action Employer of Females/Minorities/Veterans/Individuals with Disabilities.
+Equal Employment Opportunity:
+All employment decisions shall be made without regard to age, race, creed, color, religion, sex, national origin, ancestry, disability status, veteran status, sexual orientation, gender identity or expression, genetic information, marital status, citizenship status or any other basis as protected by federal, state, or local law.

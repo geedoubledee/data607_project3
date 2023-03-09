@@ -1,0 +1,15 @@
+7+ years of overall software development and/or database engineering experience required
+2+ years of hands-on development experience with event based streaming technologies (Apache Kafka / Azure Event Hub or similar)
+2+ years of hands-on development experience with NoSQL DBs (MongoDB/Cassandra/ Azure Cosmos DB or similar)
+Job Type: Contract
+Salary: $85.00 - $95.00 per hour
+Schedule:
+8 hour shift
+Ability to commute/relocate:
+South San Francisco, CA 94080: Reliably commute or planning to relocate before starting work (Required)
+Experience:
+Data Engineer: 8 years (Required)
+Apache kafka: 2 years (Required)
+Cassandra: 2 years (Required)
+Azure Event: 2 years (Required)
+Work Location: One location

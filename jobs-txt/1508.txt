@@ -1,0 +1,66 @@
+Data Science Manager
+Description
+The Data Science Manager is responsible for leading three teams across Alabama Power Company (APC) and Southern Company Services (SCS); including, APC Predictive Analytics, SCS Marketing Analytics, and Energy Information eXchange (EIX).
+This position manages direct reports and multiple consultants/contractors including data scientists, data engineers, and product managers across several functional areas and geographies.
+The Data Science Manager is responsible for leading the APC Predictive Analytics team in creating, analyzing, and enhancing predictive and analytical models using both structured and unstructured data to inform growth decisions and strategies across APC Marketing and Economic Development and Customer Services. Additionally, this position is responsible for leading the SCS Marketing Analytics team in the development and enhancement of analytical models in support of marketing, sales, and development efforts across multiple operating companies and the Southern Company system. Lastly, this position leads the development, enhancement, and execution of the Southern Company Energy Information eXchange (EIX), which is Southern Company’s cloud-based data and analytics enablement platform.
+The Data Science Manager will lead the creation of analytics and communicate the strategic value and actionable insights from complex predictive modeling leveraging data science techniques with a focus on all customer classes (regulated and unregulated). This role will lead the development and usage of qualitative and quantitative customer data from internal, external, public, and purchased data.
+The Data Science Manager leads Southern Company system engagements for strategic partnerships and ventures as the subject matter expert for marketing and customer data and analytics. Additionally, this role bridges cross-organizational teams to underpin the business strategy and key initiatives with relevant data and analytics. Further, this role will serve as a strategic partner in Southern Company’s efforts to modernize our data architecture and analytics platforms to enable the company to meet our customers’ needs today and in the future. Similarly, this role will participate in the development of Southern Company’s customer data strategy.
+MAJOR JOB RESPONSIBILITIES:
+Identify opportunities, drive business profitability, increase efficiencies, and create greater customer awareness
+Lead APC and SCS teams in creating, enhancing, and deploying statistical and analytical models using both structured and unstructured data to inform growth decisions and strategies across APC Marketing and Economic Development and system marketing, sales, and development efforts
+Lead the development, enhancement, and execution of Southern Company EIX cloud-based data and analytics enablement platform
+Lead contractor, vendor, and consultant partners and allies that support the development and execution of APC and SCS analytics strategy
+Convey data driven insights for growth decisions and strategies across the residential, commercial, industrial, and unregulated segments
+Develop deeper understanding of our customers via internal and external data
+Target growth sectors and opportunities through advanced, repeatable, and deployable predictive models
+Manage multiple, concurrent projects with competing deadlines
+Manage and improve existing data sets and analytical tools
+Support the organization’s access to, understanding of, and engagement with internal and external data sources and systems
+Communicate technical information and complex data to non-technical audiences in a logical and concise manner
+Ensure the integrity of data being used through cleansing and maintenance
+Discover and recommend new data sources to complement existing data
+Ensure teams and clients know what data is available to them
+Lead the development of tools for clients to leverage within their roles
+Lead and actively participate in cross-functional and cross-system data and analytics focused efforts to identify and successfully execute future growth opportunities
+Candidates with the following preferred qualifications are encouraged to apply:
+Education
+Bachelor’s degree in a related field such as Statistics, Mathematics, Computer Science, etc.
+Master’s degree, Ph.D., or progress towards an advanced degree in a related field a plus
+Experience, Knowledge and Skills
+Demonstrated leadership experience required; managerial experience of employees preferred
+Understanding of advanced analytical, statistical, and predictive modeling methodologies
+Strategic understanding of data infrastructure, including data storage, retrieval, governance, reporting, and cataloging a plus
+Working knowledge of modeling techniques (e.g. Decision Trees, Neural Nets, Linear Regression, etc.) coupled with the ability to accurately interpret and communicate results
+Programming proficiency in one or more languages (SAS, Python, R, etc.)
+Data visualization in Power BI or another comparable tool
+Data integration and ETL experience
+Familiarity with SAS Viya a plus
+Experience with Machine Learning, Artificial Intelligence, and/or production level model deployment a plus
+Experience with on premise and cloud data and analytics solutions
+Knowledge of utility industry, data, systems, and procedures is a plus
+Proven collaboration with third-party partners and vendors
+Demonstrated experience defining objectives and producing deliverables in a fast-paced environment
+Ability to gain achievement through others and build high-performing project teams with and without direct reporting relationships
+Interface effectively and persuasively with all levels of management and external stakeholders
+Excellent interpersonal skills
+Demonstrated ability to communicate efficiently and effectively
+Strong critical thinking skills (problem solving and decision making) and ability to anticipate and troubleshoot complex problems and technical issues
+Highly motivated self-starter with the ability to prioritize work effectively, exercise sound judgment, be flexible, manage changing priorities and deadlines, and accurately complete multiple tasks with minimal direction
+Forward-thinking with a desire to improve processes
+Strong, energetic leader with the ability to energize others
+Demonstrated ability to lead, motivate, and develop employees as future leaders; ability to attract top talent and build high performing teams
+Innovative and entrepreneurial
+Alabama Power provides the valuable combination of competitive prices, reliable electricity supply and unparalleled service to 1.4 million homes, businesses and industries in the southern two-thirds of Alabama123.
+Southern Company (NYSE: SO) is a leading energy company serving 9 million customers through its subsidiaries as of Jan. 1, 2019. The company provides clean, safe, reliable and affordable energy through electric operating companies in three states, natural gas distribution companies in four states, a competitive generation company serving wholesale customers across America, a leading distributed energy infrastructure company, a fiber optics network and telecommunications services . Southern Company brands are known for excellent customer service, high reliability and affordable prices below the national average. For more than a century, we have been building the future of energy and developing the full portfolio of energy resources, including carbon-free nuclear, advanced carbon capture technologies, natural gas, renewables, energy efficiency and storage technology. Through an industry-leading commitment to innovation and a low-carbon future, Southern Company and its subsidiaries develop the customized energy solutions our customers and communities require to drive growth and prosperity. Our uncompromising values ensure we put the needs of those we serve at the center of everything we do and govern our business to the benefit of our world. Our corporate culture and hiring practices have been recognized nationally by the U.S. Department of Defense, G.I. Jobs magazine, DiversityInc, Black Enterprise, Forbes and the Women's Choice Award. To learn more, visit www.southerncompany.com.
+Southern Company is an equal opportunity employer where an applicant's qualifications are considered without regard to race, color, religion, sex, national origin, age, disability, veteran status, genetic information, sexual orientation, gender identity or expression, or any other basis prohibited by law.
+Job Field: Sales & Marketing
+Job Type: Standard
+Primary Location: Alabama-Metro Birmingham/Eastern AL-Birmingham
+Operating Company: Alabama Power Company
+Job Type: Standard
+Travel (Up to...): Yes, 25 % of the Time
+Work Location(s):
+APC Corporate Headquarters - 600 North 18th Street (600BIRMINGHAM)
+600 North 18th Street
+Birmingham, 35203
+Req ID: APC2007714

@@ -1,0 +1,81 @@
+Job Description
+
+Hybrid: This position does not require an employee to be on-site full-time to perform most effectively. The employee's role enables them to work at a GM facility or off-site as frequently as needed or desired.
+
+This position requires an employee to be onsite 1-4 x per year
+
+Description of Role:
+
+The Asst. Manager CFM Data Integration is responsible for supporting the implementation and innovation initiatives in relation to GM's Voice-of-the Customer (VOC) and Customer Interaction Feedback Tracking Survey program (CIFTS) with focus on data integration and sharing processes and respective quality assurance. The job holder is responsible for tracking business and functional requirements for the Enterprise VOC platform and global CX feedback management tools from numerous business stakeholders throughout General Motors and assist day-to-day operations of those systems and solutions in collaboration with GMIT, Chief Data & Analytics Office, and 3rd party vendors and ensure broad adoption and effective usage of the tool stack. All to ultimately ensure a high degree of data hygiene and precision, vendor service delivery and platform reliability as well as overall compliance with GM business, data and IT policies.
+
+Key Responsibilities:
+Support the ingestion/automation of new sources of data into VOC platform
+Support various business data needs through creating dashboards, extracting/formatting raw data, etc.
+Work across teams to understand impact of changes to surveys and VOC data streams
+Collaborate with business and IT partners to manage technical EPICs, features and user stories, manage backlog / user story grooming process pertaining to VOC, other customer feedback management programs such as CIFTS as well as Self-Service data and reporting programs
+Manage data quality assurance processes:
+Perform daily quality checks to ensure excellent data hygiene in VOC, CIFTS, and GM internal reporting platforms
+Assist in root cause analysis where discrepancies are found and escalate when needed
+Manage UAT / validation for new platform feature enhancements and data integrations
+Maintain technical documentation and create new documentation where needed
+Administration of shared VOC user support account directing users to appropriate party to answer questions
+Attend various staff/IT huddle sessions to ensure launch readiness and communicate changes to the business
+Act as ambassador for VOC program, lead platform overview and demo sessions
+
+Basic Required Skills:
+Demonstrate good understanding of customer service industry / CX trends
+Experience with Market Research and/or Customer Feedback Management systems ranging from feedback collection and data aggregation to analytics & reporting
+Foundational analytical skills with ability to synthesize complex or diverse information
+Experience with data integration, modeling, and optimization
+Attention to detail
+Project and process management skills
+Possess the flexibility to work both independently and in a complex team setting
+Ability to manage multiple priorities as well as demanding timeframes and deadlines
+Flexible and able to adjust to changing priorities or requirements in a fast-paced environment
+Proficient in MS Office (specifically Power Point and Excel; pivot tables, formulas, and importing of data)
+Basic Qualifications:
+Bachelor degree in Data Science, Data Analytics, Business Management, Applied Science or equivalent work experience
+3-5 years of working experiences in above mentioned fields
+
+Basic Preferred Skills:
+Experience with BI tools
+Experience in working in a Customer Experience and/or Contact Center Environment and /or CX Data & Analytics role within a large Enterprise
+Previous experience with any of the following or similar vendors and respective SaaS offerings: IPSOS, InMoment, Medallia, Maritz CX, Qualtrics, Clarabridge, NICE Nexidia, Call Miner, Voci, Verint, Escalent
+Foundational experience with unstructured data analysis, including voice and text analytics, machine learning / AI, Natural Language Processing / Natural Language Understanding
+Experience in managing complex IT projects, SAFe Agile certification
+Compensation:The median level of salary compensation for this role is $91,326.77 - USD Annual
+
+Bonus Potential:An incentive pay program offers payouts based on company performance, job level, and individual performance.
+
+Benefits:GM offers a variety of health and wellbeing benefit programs. Benefit options include medical, dental, vision, Health Savings Account, Flexible Spending Accounts, retirement savings plan, sickness and accident benefits, life insurance, paid vacation & holidays, tuition assistance programs, employee assistance program, GM vehicle discounts and more
+
+#LI-Remote
+
+#gmremote
+About GM
+
+Our vision is a world with Zero Crashes, Zero Emissions and Zero Congestion and we embrace the responsibility to lead the change that will make our world better, safer and more equitable for all.
+
+Why Join Us
+
+We aspire to be the most inclusive company in the world. We believe we all must make a choice every day - individually and collectively - to drive meaningful change through our words, our deeds and our culture. Our Work Appropriately philosophy supports our foundation of inclusion and provides employees the flexibility to work where they can have the greatest impact on achieving our goals, dependent on role needs. Every day, we want every employee, no matter their background, ethnicity, preferences, or location, to feel they belong to one General Motors team.
+
+Benefits Overview
+
+The goal of the General Motors total rewards program is to support the health and well-being of you and your family. Our comprehensive compensation plan incudes, the following benefits, in addition to many others:
+Paid time off including vacation days, holidays, and parental leave for mothers, fathers and adoptive parents;
+Healthcare (including a triple tax advantaged health savings account and wellness incentive), dental, vision and life insurance plans to cover you and your family;
+Company and matching contributions to 401K savings plan to help you save for retirement;
+Global recognition program for peers and leaders to recognize and be recognized for results and behaviors that reflect our company values;
+Tuition assistance and student loan refinancing;
+Discount on GM vehicles for you, your family and friends.
+
+Diversity Information
+
+General Motors is committed to being a workplace that is not only free of discrimination, but one that genuinely fosters inclusion and belonging. We strongly believe that workforce diversity creates an environment in which our employees can thrive and develop better products for our customers. We understand and embrace the variety through which people gain experiences whether through professional, personal, educational, or volunteer opportunities.GM is proud to be an equal opportunity employer.
+
+We encourage interested candidates to review the key responsibilities and qualifications and apply for any positions that match your skills and capabilities.
+
+Equal Employment Opportunity Statements
+
+The policy of General Motors is to extend opportunities to qualified applicants and employees on an equal basis regardless of an individual's age, race, color, sex, religion, national origin, disability, sexual orientation, gender identity/expression or veteran status. Additionally, General Motors is committed to being an Equal Employment Opportunity (EEO) Employer and offers opportunities to all job seekers including individuals with disabilities. If you need a reasonable accommodation to assist with your job search or application for employment, email us atCareers.Accommodations@GM.com or call us at800-865-7580. In your email, please include a description of the specific accommodation you are requesting as well as the job title and requisition number of the position for which you are applying.

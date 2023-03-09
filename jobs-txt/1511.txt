@@ -1,0 +1,20 @@
+Overview
+The Data Engineering and Services team build systems that bridge the gap between raw business data and consumable data products that customers can trust and take action on. We accomplish this by providing our data science partners with AI/ML development, experimentation, and production environments with access to an elastic, distributed model training and inference infrastructure. What that actually looks like is working with folks from across the Product, Marketing, and Customer departments to understand their needs and then surface data, predictions, or AI/ML model in the most useful format. We make data science workflows repeatable, scalable, and observable while reducing toil and increasing release velocity.
+What you'll bring
+You have several years of experience managing high-performing ML engineering teams
+You are an outstanding written communicator
+You have a track record of delivering for your customers successfully
+You are an empathetic leader who values bringing diverse perspectives to the table
+You drive clarity when things are ambiguous and operate calmly under pressure
+You are patient, resilient, collaborative, persuasive and able to lead a team without resorting to authority even when it’s challenging, ambiguous, or intense
+You have experience delivering simple solutions to complex problems via consistent, iterative releases
+You have a commitment to increasing efficiency in the workplace by continuously reviewing and adjusting processes, org structure, tools, etc.
+You are able to effectively coach and manage the performance of people managers and engineers ranging from highly experienced to entry level
+How you will lead
+Foster an inclusive environment within your teams and peers in Data Engineering
+Lead and equip a distributed engineering team to develop and improve our processes for Data Scientists to convert models into optimal representations for inference, define our evolution and migration to cloud data science development and deployment, productionize ML models, and advance our Responsible AI policies and practices
+Collaborate with engineers, product and project managers, privacy legal team, and other peers to develop and maintain ML engineering solutions in support of predictive analytics and other data products as required to support Product, Marketing, and Customer teams
+Promote and educate your peers and senior leadership on the systems your team builds and maintains through thorough documentation and diagrams of the systems and data flows
+Coach and mentor decision making and problem solving and identify and sponsor growth opportunities for your team
+Partner with teammates to prioritize work, triage issues and eliminate obstacles in the team’s path
+Work with Data team leaders to ensure your team has appropriate numbers and skills to accomplish its goals

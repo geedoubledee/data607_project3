@@ -1,0 +1,27 @@
+About Mobile Health
+Mobile Health is the market leader in occupational health and employment related screening services across the United States. With six owned-and-operated clinics in New York City, and 6,500 affiliated locations, Mobile Health sees millions of patients per year. Our core services include disease testing and prevention and employment related testing for our B2B client partners. We are a technology-driven company that is changing how occupational health is delivered to keep businesses safe and their employees healthy. Mobile Health is growing, and we are looking for amazing people to join our team!
+Location
+This position is 100% remote; limited, to no travel is expected.
+Overview
+The Business Analyst provides experienced business analysis to develop, create, and modify business processes and their supporting software solutions.
+Essential Duties & Responsibilities
+Essential duties include but are not limited to the following:
+Create Epics, Story’s and bugs in an Agile SDLC process to outline needs based on business requirements;
+Interpret, analyze and document business requirements with the appropriate business leaders/stakeholders and work with developers and team leads to translate user needs into technical business stories;
+Prioritize and deliver projects through SDLC stages within Azure DevOps’s Agile dashboards;
+Using critical thinking, offer optimization solutions to processes and technology;
+Develop and deliver progress reports, proposals, documentation, and presentations;
+In conjunction with Quality Assurance, develop and direct software system testing and validation procedures, review and approve test scripts, user and quality assurance acceptance testing;
+Review and approve test scripts, project expected results and verify functional integrity of the system design;
+Participate in the identification and resolution of complex production support issues, detecting root issues and identifying requirements gaps;
+Experience & Education
+Bachelor’s degree preferred
+At least 2 years of business analysis experience (required).
+Scrum Agile experience preferred;
+Healthcare experience is a plus
+Recognized industry business analysis certification a plus
+Why Mobile Health?
+Mobile Health has disrupted the industry for 38 years. And we’re not stopping any time soon. We’re changing the way companies think about employee health and safety. We work hard to create a world where occupational health and employee screening is an open door to growth. Our dedication is real. You can feel the passion and enthusiasm. We break barriers. We’re the solution the industry desperately needs. Ready to join us? We can’t wait to meet you.
+Salary: $70,000- $80,000 per year
+COVID VACCINATION POLICY: We take the health and wellness of our employees, and the community we serve, seriously and require full COVID-19 vaccination for this position.
+All qualified applicants will receive consideration for employment without regard to sex, gender identity or expression, race, age, religious creed, national origin, physical or mental disability, ancestry, color, marital status, sexual orientation, military or veteran status, status as a victim of domestic violence, sexual assault or stalking, medical condition, genetic information, or any other protected class or category recognized by applicable equal employment opportunity or other similar laws.

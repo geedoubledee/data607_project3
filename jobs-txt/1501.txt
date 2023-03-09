@@ -1,0 +1,44 @@
+Overview:
+Location: Mt. Sterling, IL, or St. Louis,, MO, or Remote
+Department: Information Technology
+Reports To: Director of Data & AI
+
+WHO YOU ARE
+As Business Intelligence Developer, you are highly passionate about data. You have effective project management and planning skills. You will create/develop complex reports and dashboards within our business intelligence platform(s). You’ll create reporting data models to support the performant operation of OLAP data sources. You’ll work directly with business users and stakeholders to understand needs and translate them into technical requirements.
+
+You’ll create & maintain training/educational material for consumption by all users. You’ll support & develop report builders throughout the organization as they have issues or need assistance. You’ll gather data and conduct statistical analysis to present findings to effectively influence critical decisions within the business. You will work with others in IT and the business to support the modernization of reporting/visualizations to enable more timely and effective business decisions.
+
+WHAT YOU’LL DO
+Create and maintain complex Cognos Analytics assets
+Reports & Dashboards
+Data Modules
+Produce insights using data to help drive business strategies.
+Provide analytical research for complex process improvement initiatives.
+Create and report on leading indicators that impact vital business areas.
+Analyze data and provide recommendations where applicable to achieve company and department goals.
+Support and help administer functions of the Data & AI technology stack – data warehouse, data movement, data quality, and business intelligence.
+Work with vendors and consultants as appropriate
+ROLE SPECIFICS
+Occasional overnight travel required. Must have ability to independently travel as needed, without restriction, by all modes of transportation, including car, plane, or train for customer and vendor calls, training, or meetings.
+WHO WE ARE
+Dot Foods makes products more accessible and affordable to the food industry. We add efficiency to the supply chain and build strong partnerships with distributors, suppliers, and operators. Our company was created on a foundation of respect and dependability. People who are open to input, ask questions, embrace diversity, and seek innovative solutions thrive here.
+
+WHAT DOT CAN OFFER YOU
+As a family-owned and-operated company since 1960, Dot Foods has created a strong family culture. We make everyone feel included and respected. In addition to an inclusive working environment, we will provide you with:
+Competitive compensation package, including bonuses for successful performance
+Extensive benefits including medical, dental, 401k, and profit-sharing
+Significant advancement opportunities
+Qualifications:
+YOU MUST HAVE
+Bachelor’s degree
+2+ years of business intelligence & data warehousing experience
+2+ years of system administration, or relevant equivalency
+Effective project management and planning skills
+Effective interpersonal skills, with positive professional verbal and written skills
+YOU MAY ALSO HAVE
+Bachelor's degree in Business Analytics, Computer Science, Mathematics, Statistics, or related field
+Proficiency in the use of statistical methodologies
+Ability to work independently as well as within a team environment
+Safety: This position assumes responsibility for the workplace safety of self and co-workers, and for the safety conditions of the work locations, exercise and promotes safe behaviors and show unyielding support of programs, rules, and policies regarding safety.
+
+EOE/AA Employer: Dot believes all persons are entitled to equal employment opportunities. Dot will not discriminate against its employees or applicants for employment because of sex, race, color, religion, national origin, age, sexual orientation, disability, or veteran status or other basic classes protected by applicable federal or state law provided they are qualified for employment or for existing positions.

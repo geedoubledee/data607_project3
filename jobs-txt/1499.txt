@@ -1,0 +1,34 @@
+Business Intelligence Developer – Permanently Remote
+
+Join our amazing team as a Business Intelligence Developer. As a Business Intelligence Developer, you will be responsible for creating processes around data automation according to industry best practices, tracking numerous data feeds, and developing high quality reporting dashboards.
+Salary Range: 75K - 85K based on experience
+
+Responsibilities:
+Installation of Power BI/SSRS along with any Gateways, Reporting Servers, and any other configurations.
+Create analytical reports/dashboards to monitor data issues and business processes.
+Download .txt/.csv files from an SFTP server automatically and track them.
+Automatically decrypt PGP/ZIP files and migrate them appropriately.
+Improve processes for data validation and data cleansing prior to import.
+Onboard clients and create file formats for consumption into the custom application.
+Work with Client Services and Third-Party Administrator’s to address ETL concerns.
+Complete any other development or business-related tasks assigned.
+Willingness to learn new technologies and take ownership of work.
+
+Qualifications:
+2 - 5 years of Experience with T-SQL and Microsoft SQL Server.
+(Stored Procedures, Dynamic SQL, Functions, Scripting, Performance Tuning)
+2 - 5 years of Experience with Power BI / SSRS / Tableau including installation
+(Parameterized reports, Sub Reports, Dashboards, Drilldowns, Drill through’s)
+2 - 5 years of Experience in ETL automation with SSIS and ETL tools.
+(SFTP automation, File Encryption/Decryption, File Migration)
+2 - 5 years of Development experience with C# and .Net Framework.
+
+Benefits:
+Health Insurance: BRG currently pays 100% of their employee’s premium
+Voluntary dental, vision and long-term disability benefits
+Short-term disability benefits, 100% premium paid by BRG
+Voluntary life insurance
+401(k)
+120 hours of Paid Time Off for full-time employees
+
+Job Type: Full-time

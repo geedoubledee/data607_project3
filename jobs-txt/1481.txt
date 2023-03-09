@@ -1,0 +1,60 @@
+Job Description
+
+Do you have a passion for machine learning and artificial intelligence? Are you excited about using your skills to bring innovation to healthcare and improve affordability?
+
+Evernorth’s Episode Grouper Center of Expertise (CoE) applies advanced Data Science (DS), Artificial Intelligence (AI) and Machine Learning (ML) to produce solutions that reduce customer health costs and improve outcomes and business processes. Using state of the art AI tools, DS platforms, ML libraries, and optimization tools, we leverage internal, external, online and offline data sources comprising clinical, pharmacy, provider, and behavioral/attitudinal data.
+
+This position is with Evernorth, a new business within the Cigna Corporation.
+
+Role Summary
+
+The Data Science Senior Manager is a hands-on management role, combining model-building work and team management. They will lead the team’s application of rigorous statistical and methodology know-how to test, innovate and maintain Episode Grouper and Episode Risk models. They will also direct the team’s research, development and testing of new solutions (homegrown, open source and new vendor alternatives). The Senior Manager will also advise and deliver actionable insights that will provide value to the business, propose solutions to Evernorth's Senior Leadership and influence Evernorth's strategic use of these models. They will continue the team’s tradition of delivering solid methodological guidance to other teams on appropriate model use and output consumption. These models are key inputs, and the basis of analytics to assess provider performance, customer risk prediction for condition or program interventions and many other uses.
+
+Key Responsibilities
+
+Manage the statistical analysis and fine tuning of current Episode Grouper and Episode Risk prediction model parameters, inputs and outputs.
+
+Serve as methodological SME on multiple aspects of Evernorth’s Episode Groupers/Risk and adjoining Risk Adjustment applications. Maintain awareness of main use cases and stakeholder teams.
+
+Present findings/recommendations to technical and non-technical leaders to drive Evernorth's Episode Grouper and Risk Adjustment strategy.
+
+Lead the team’s innovation efforts of Machine Learning and Deep Learning alternative models for superior performance in various Episode Grouper and Risk model use cases.
+
+Collaborate with the Data Science COE and other teams on Risk model initiatives.
+
+Qualifications
+
+This position requires demonstrated clinical acumen, experience applying rigorous statistical methodology, as well as knowledge of risk adjustment and/or risk prediction models:
+
+Post-Graduate degree in Statistics, Biostatistics, Actuarial or Data Science (Masters or PhD preferred), with significant modelling experience (4+ years preferred) using Python, R or SAS to build Supervised Learning models for predictive purposes.
+
+Proven experience querying (SQL, Hadoop) and applying statistical analysis (Python, R, SAS) to large health claims and clinical data sets as key step prior to modeling. (required)
+
+Prior experience applying Supervised Learning models (Lasso Regression, Classification, other ML and DL) for cost, risk or other outcome predictions (required).
+
+Knowledge of Episode Groupers and Risk Adjustment models (preferred)
+
+Keen eye for methodological and data nuances
+
+Solid verbal communication and consultative skills. Ability to collaborate with technical and non- technical teams/leadership, establish working relationships, and drive business decisions based on sound methodologic points.
+
+3-5 years of Managerial experience (preferred).
+
+Experience working in an Agile/Scrum environment.
+
+If you will be working at home occasionally or permanently, the internet connection must be obtained through a cable broadband or fiber optic internet service provider with speeds of at least 10Mbps download/5Mbps upload.
+
+For this position, we anticipate offering an annual salary of 116,900 - 194,800 USD / yearly, depending on relevant factors, including experience and geographic location.
+
+This role is also anticipated to be eligible to participate in an annual bonus plan.
+
+We want you to be healthy, balanced, and feel secure. That’s why you’ll enjoy a comprehensive range of benefits, with a focus on supporting your whole health. Starting on day one of your employment, you’ll be offered several health-related benefits including medical, vision, dental, and well-being and behavioral health programs. We also offer 401(k) with company match, company paid life insurance, tuition reimbursement, a minimum of 18 days of paid time off per year and paid holidays. For more details on our employee benefits programs, visit Life at Cigna .
+
+About Cigna
+Cigna Corporation exists to improve lives. We are a global health service company dedicated to improving the health, well-being and peace of mind of those we serve. Together, with colleagues around the world, we aspire to transform health services, making them more affordable and accessible to millions. Through our unmatched expertise, bold action, fresh ideas and an unwavering commitment to patient-centered care, we are a force of health services innovation. When you work with us, or one of our subsidiaries, you’ll enjoy meaningful career experiences that enrich people’s lives. What difference will you make?
+
+Qualified applicants will be considered without regard to race, color, age, disability, sex, childbirth (including pregnancy) or related medical conditions including but not limited to lactation, sexual orientation, gender identity or expression, veteran or military status, religion, national origin, ancestry, marital or familial status, genetic information, status with regard to public assistance, citizenship status or any other characteristic protected by applicable equal employment opportunity laws.
+
+If you require reasonable accommodation in completing the online application process, please email: SeeYourself@cigna.com for support. Do not email SeeYourself@cigna.com for an update on your application or to provide your resume as you will not receive a response.
+
+Cigna has a tobacco-free policy and reserves the right not to hire tobacco/nicotine users in states where that is legally permissible. Candidates in such states who use tobacco/nicotine will not be considered for employment unless they enter a qualifying smoking cessation program prior to the start of their employment. These states include: Alabama, Alaska, Arizona, Arkansas, Delaware, Florida, Georgia, Hawaii, Idaho, Iowa, Kansas, Maryland, Massachusetts, Michigan, Nebraska, Ohio, Pennsylvania, Texas, Utah, Vermont, and Washington State.

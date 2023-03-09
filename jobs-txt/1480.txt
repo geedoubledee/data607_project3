@@ -1,0 +1,26 @@
+Responsibilities
+TikTok is the leading destination for short-form mobile video. Our mission is to inspire creativity and bring joy. TikTok has global offices including Los Angeles, Mountain View, New York, London, Paris, Berlin, Dubai, Mumbai, Singapore, Jakarta, Seoul, and Tokyo.
+
+About The Tiktok Monetization Product Data Science Team
+We're the TikTok Monetization Products data science team, who enables and champions data driven decision making. Our Vision is to become the world class data science team, where data is used rigorously to drive all decision making. Our Mission is to drive monetization and sustainable revenue growth for TikTok through data science.
+
+Responsibilities:
+1. Work with large, complex data sets. Solve difficult, non-routine analysis problems, applying advanced analytical methods as needed. Conduct analysis that includes data gathering and requirements specification, processing, analysis, ongoing deliverables, and presentations.
+2. Build and manage high performance, responsive team of data scientists and analysts that are able to not only keep up with but also pioneer in this space
+3. Build and prototype analysis pipelines for the team to provide insights at scale
+4. Develop comprehensive knowledge of Tiktok data structures and metrics, advocating for changes where needed for product development
+5. Develop deep partnerships with engineer and product teams to deliver on major cross-functional measurements, testing, and modeling efforts
+6. Partner with Data Engineering to ensure the data accuracy and consistency
+Qualifications
+1. MS or PhD in a quantitative field such as Computer Science, Engineering, Math, Statistics, etc.
+2. 7+ years of experience in data science, algorithmic engineering, or machine learning
+3. 3+ years of experience in managing and mentoring data science, data engineering, and analytics teams in a technology company
+4. Experience with statistical software (e.g. R, Python, MATLAB) and database languages (e.g. SQL)
+5. Experience building data science models (Regression, Decision Trees, K-Means, etc.)
+6. Experience with large data sets and analytical tools, e.g. Hive, Spark
+7. Demonstrated leadership and self-direction. Willingness to both teach others and learn new techniques.
+8. Demonstrated skills in selecting the right statistical tools given a data analysis problem. Effective written and verbal communication skills.
+
+TikTok is committed to creating an inclusive space where employees are valued for their skills, experiences, and unique perspectives. Our platform connects people from across the globe and so does our workplace. At TikTok, our mission is to inspire creativity and bring joy. To achieve that goal, we are committed to celebrating our diverse voices and to creating an environment that reflects the many communities we reach. We believe individuals shouldn't be disadvantaged because of their background or identity, but instead should be considered based on their strengths and experience. We are passionate about this and hope you are too.
+
+TikTok is committed to providing reasonable accommodations during our recruitment process. If you need assistance or an accommodation, please reach out to us at USRC@tiktok.com.

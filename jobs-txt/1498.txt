@@ -1,0 +1,31 @@
+We are looking for a Machine Learning Engineer who will have a strong understanding of software engineering principles and machine learning algorithms and will be able to apply this understanding to help develop creative solution designs.
+Job Responsibilities:
+Build and develop orchestration services designed to coordinate interaction between data services.
+Build and develop feature engineering pipelines that allow for the deployment, hosting, and management of real-time feature engineering services.
+Enable ML / AI model training capability and CI/CD.
+Package and deploy ML / AI models.
+Monitoring security vulnerability and compliance.
+Roll-back management.
+Development and management of API.
+Orchestration for real-time scoring and application interaction.
+Service, pipeline, and Data Quality monitoring in real-time.
+Development of model retrain pipeline.
+Job Requirements:
+Understanding of various advanced analytical and machine learning methods.
+Excellent understanding of machine learning frameworks (Keras/Tensorflow/PyTorch etc.) and libraries (scikit-learn, etc.).
+Passionate to learn the state-of-the-art machine learning framework and algorithm in academic and industry ML OPS experience with strength towards AWS Services.
+Excellent understanding of computer science fundamentals, data structures, and algorithms.
+Familiar with object-oriented design methodology and application development in Python.
+Results oriented with the ability to multi-task and adjust priorities when necessary.
+Ability to work both independently and in a team environment with internal /external customers.
+Familiar with Big Data related technologies to manage large volumes of complex data (SQL, pyspark, BigQuery).
+Experience with AWS components.
+Job Type: Contract
+Pay: $70.00 - $75.00 per hour
+Schedule:
+8 hour shift
+Education:
+Bachelor's (Preferred)
+Experience:
+Machine learning: 3 years (Preferred)
+Work Location: Remote

@@ -1,0 +1,45 @@
+You are as unique as your background, experience and point of view. Here, you’ll be encouraged, empowered and challenged to be your best self. You'll work with dynamic colleagues - experts in their fields - who are eager to share their knowledge with you. Your leaders will inspire and help you reach your potential and soar to new heights. Every day, you'll have new and exciting opportunities to make life brighter for our Clients - who are at the heart of everything we do. Discover how you can make a difference in the lives of individuals, families and communities around the world.
+Job Description:
+The Director, Data Science will be a key member of the US Data Analytics Center of Excellence (“COE”) and will provide thought leadership across the Sun Life US Business Group to use the power of data with machine learning and/or actuarial techniques to enhance decisions. This position will work closely with the other functional teams embedded in the business areas to advance data analytics across the company. This position reports to the AVP, Advanced Analytics.
+Responsibilities include advancing analytic capabilities across the company through the development of advanced analytic models, machine learning, leveraging AI to streamline and automate processes, promoting natural language processing and voice-to-text analytics, and driving a culture of data-driven, risk-based decisions. The role will have a strong research component to stay abreast of emerging data technologies and techniques, develop and lead preliminary proof of concept pilot tests, and partner with the other business analytics teams to share findings and propose possible solutions and technologies that may add value to the business. As a member of the US Data Analytics COE, this role will also act as a Subject Matter Expert in Data Science supporting individuals and teams by providing guidance & best practices, brainstorming solutions, and developing and implementing model (when required). This role may also be called upon to review and validate existing models.
+What will you do?
+Partner with functional leaders within the company to identify, develop, and implement predictive modeling and analytic solutions based on understanding of business needs and opportunities.
+Advocate for data-centric business practices including the adoption of deployed models.
+Identify internal areas where data analytics will be advantageous.
+Research and investigate existing and emerging data technology solutions and techniques both independently and in partnership with IT.
+Evaluate third party vendor solutions utilizing AI and deploy / monitor these solutions if implemented.
+Contribute and consult with the broader analytics community for best practices related to predictive modeling techniques, in addition to staying up to date on emerging trends.
+Support individuals and teams by providing guidance, expertise, best practices, and development work (when necessary) on developing and deploying analytic models, machine learning, AI, and general data science techniques and methodologies.
+What will be needed to succeed?
+Experience with a broad range of statistical programming languages, applications and data environments (e.g., R, Python, SQL, SAS, AWS Cloud Computing).
+Demonstrated expertise in data science including conditioning, modeling, integration and visualization.
+Strong knowledge of the fundamental statistical and AI underpinnings of data science.
+Commitment to data compliance, model governance and security protocols.
+Strong business acumen to understand why and how the work we do will impact our business stakeholders.
+Excellent communication skills, with an ability to explain technical concepts to a non-technical audience.
+BS in a statistical, mathematical, or technical field (e.g., computer science, actuarial science).
+10+ years of experience in developing and implementing data science techniques.
+Ability to build and maintain strong relationships with internal business partners.
+What will be nice to have?
+MS/PhD, preferably in a statistical, mathematical, or technical field (e.g., computer science, actuarial science) or a Fellow of the Society of Actuaries.
+Experience with business insights and visualization tools (e.g. Tableau, Workiva, PowerBI, AWS QuickSite, Domo).
+Experience with Group, Dental, or Stop Loss Insurance.
+Experience with actuarial, underwriting, or related concepts utilized in the Group, Dental, and Stop Loss benefits fields.
+Able to contribute directly to work as well as influence others.
+What is in it for you?
+Excellent benefits and wellness programs to support the three pillars of your well-being – mental, physical and financial – including generous vacation and sick time, market-leading paid family, parental and adoption leave, a partially-paid sabbatical program, medical plans, company paid life and AD&D insurance as well as disability programs and more
+Retirement and Stock Purchase programs to help build and enhance your future financial security including a 401(k) plan with an employer-paid match as well as an employer-funded retirement account
+A flexible work environment with a friendly, caring, collaborative and inclusive culture
+Great Place to Work® Certified in Canada and the U.S.
+Named as a “Top 10” employer by the Boston Globe's “Top Places to Work” two years running
+All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, or status as a protected veteran.
+If you are a Colorado resident, the salary range for this position is $145,400-218,200 annually.
+If you are a New York resident, the salary range for this position is $171,700-257,70 annually.
+We consider various factors in determining actual pay including your skills, qualifications, and experience. In addition to salary, this position is eligible for incentive awards based on individual and business performance as well as a broad range of competitive benefits.
+Sun Life Financial is a leading provider of group insurance benefits in the U.S., helping people protect what they love about their lives. More than just a name, Sun Life symbolizes our brand promise of making life brighter -for our customers, partners, and communities. Join our talented, diverse workforce and launch a rewarding career. Visit us at www.sunlife.com/us to learn more.
+At Sun Life we strive to create a flexible work environment where our employees are empowered to do their best work. Several flexible work options are available and can be discussed throughout the selection process depending on the role requirements and individual needs.
+At Sun Life we strive to create a flexible work environment where our employees are empowered to do their best work. Several flexible work options are available and can be discussed throughout the selection process depending on the role requirements and individual needs.
+For applicants residing in California, please read our employee California Privacy Policy and Notice. California Privacy Policy and Notice.
+Job Category:
+Advanced Analytics
+Posting End Date:

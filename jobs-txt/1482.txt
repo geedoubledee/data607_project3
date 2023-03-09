@@ -1,0 +1,30 @@
+DUBLIN - SCHOOL HOUSE LANE
+ENGINEERING
+PM_JR5352
+FULL TIME
+At DraftKings, we're inspired by our shared passion for developing creative solutions to complex challenges and empowering the people around us to do their best work. We are industry leaders in the digital entertainment and technology space and are propelled by constant curiosity and diverse perspectives.
+Building the Possibilities:
+
+Our team comprises sports modelling experts and data science technologists, coming together to develop innovative DS products that deliver incremental value on the Sportsbook platform at DraftKings. As part of this role, you will be a proven leader, creative thinker, utilizing data, machine learning, and software development skills to craft high-impact solutions that grow the business.
+WHAT YOU'LL DO AS A DATA SCIENCE MANAGER:
+Manage a squad of sports modellers as they develop, test and deploy sports models and sportsbook applications to production
+Take ownership for the design, development, maintenance and testing strategy of sports models
+Collaborate with business leads across Sportsbook and Engineering to define milestones and deliverables for new sports models or enhancements to existing models
+Contribute to the architecture and design of DS projects and strategic initiatives, with specific focus on quality, stability, and efficiency
+Mentor and lead design and knowledge transfer sessions, ensuring other engineers within data science deliver high quality work
+WHAT YOU'LL BRING:
+Ideally, you have experience as a team leader on a data science team where you were responsible for overseeing all aspects of data science technical projects, including development and deployment, and then monitoring of how those applications perform in production
+Highly proficient in at least one programming language, ideally Python with a strong understanding of object-orientated programming principles
+Experience with AWS based services and infrastructure; ideally with AWS ML tools
+Experience with typical DevOps flows, such as containerisation and monitoring
+Experience with Kubernetes and Kafka are very desirable
+Understanding of Sportsbook products will be considered an asset
+Excellent communication & organizations skills with the ability to articulate key business information quickly and effectively
+PhD, Masters or Bachelor’s degree in STEM fields
+Keen interest in sports
+#LI-CG2
+JOIN US!
+Our teams are fueled by innovation. We are looking ahead, building what’s next, and continuously reinventing the industry. We’re a publicly traded (NASDAQ: DKNG) technology company headquartered in Boston, with teams around the world and an expanding global presence.
+We strive to create a place where all feel safe, empowered, engaged, championed, and inspired. DraftKings is proud to be an equal opportunity employer. This means we do not tolerate discrimination of any kind and are committed to providing equal employment opportunities regardless of your gender identity, race, nationality, religion, sexual orientation, status as a protected veteran, or status as an individual with a disability.
+READY TO BUILD WHAT’S NEXT? APPLY NOW.
+As a regulated gaming company, you may be required to obtain a gaming license issued by the appropriate state agency as a condition of employment.

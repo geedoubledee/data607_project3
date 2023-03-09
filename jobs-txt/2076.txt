@@ -1,0 +1,36 @@
+General Overview
+Business System Analyst individual to provide cloud technical support, documentation, and agile work refinement within the Cloud Security area.
+In the role, the individual will:
+Work with the Product Owner and Agile Team to ensure the goals and objectives of the initiative are captured within the Epics, Features and Stories.
+Facilitate the backlog refinement ceremonies and are accountable to ensure the feature and story details meet quality and integrity standards.
+Work with the Scrum Master, Product Owner, and Agile Team to create the user stories, features, and Epics
+Work with Product Owner to ensure the team maintains a healthy backlog: 2-3 sprints of stories, 2-3 months of Epics and Features
+Participate in the identification, quantification, and mitigation of workstream risks and issues.
+Work with the Agile Team to provide ongoing status on progress, defects, and risks throughout UAT.
+Job Expectation include:
+Demonstrated experience moving from a waterfall environment to an Agile environment
+Knowledge of migrations from on-prem to the cloud – AWS, GCP and Azure
+Ability to elicit business requirements from product owners and subject matter experts within a technology environment.
+Writes clear and well-structured business requirements/documents.
+Can provide technical expertise, research, and analysis in support of the integration of tools, systems, and processes specific to Cloud Security
+Understands how to break-down work and ensure the break-down of stated work appears in ADO/LeanKit
+Demonstrates experience working with a scrum master in all aspects of an Agile working environment
+Establishes a technical vision and can analyze, and clearly communicate trade-offs
+Can perform technical troubleshooting, issue triage, issue reporting with the team while explaining the impact while working with team(s) to achieve the best solution to the problem.
+Must have requirements
+A bachelor’s degree or equivalent work and or military experience
+A minimum of 7+ years of experience in business analysis or a related field working in an Agile environment.
+A history of leading and supporting successful projects experience working with one or more Cloud Platforms (AWS, Azure, GCP).
+Advanced technical skills.
+Excellent documentation skills, including technical writing.
+Exceptional analytical and conceptual thinking skills.
+Experience creating detailed reports and giving presentations.
+Competency in Microsoft applications including Word, Excel, and Outlook.
+Job Type: Contract
+Salary: $60.00 - $65.00 per hour
+Schedule:
+8 hour shift
+Experience:
+cloud: 1 year (Preferred)
+Cloud security: 1 year (Preferred)
+Work Location: Remote

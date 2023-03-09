@@ -1,0 +1,42 @@
+The Emerging Technology and Innovation team at Citi Global Wealth Management Technology delivers digital products and services to our clients and internal business users. We design and build highly-scalable and innovative solutions that provide a superior user experience and solutions with Citi Global Wealth Management. These solutions transform client experiences while generating new revenue streams and business models. Our strategic initiatives disrupt the status-quo by innovating new businesses that unlock the power of Citi for our clients.
+Our team of engineers, designers, and product managers collaborate to drive progress within digital finance. We surround ourselves with big thinkers who thrive on tackling fresh challenges and uniting around a common vision. We move fast, embrace change and welcome fresh perspectives. Help us build the future of finance while positioned at the center of global banking.
+Responsibilities
+Participate in innovative research in artificial intelligence and machine learning applications.
+Work with financial documents to process, parse and extract the critical data elements by leveraging Natural Language Processing and Natural Language Understanding techniques.
+Work with large, complex data sets. Solve non-routine analysis problems, applying advanced analytical methods as needed.
+Build and prototype analysis pipelines iteratively to provide insights at scale.
+Interact cross-functionally and make recommendations using data
+Minimum Qualifications:
+Master's degree in a quantitative discipline - Statistics, Operations Research, Computational Biology, Computer Science, Mathematics, Physics, Electrical Engineering
+6+ years of work experience in data analysis related field, Natural Language Processing and Computer Vision
+Experience with programming language - Python, statistical software tools - MATLAB, R, and database languages such as SQL
+Applied experience with Natural Language Processing – Named Entity Recognition, text understanding, pattern recognition, Supervised Machine Learning models- regression and classification and Unsupervised Machine Learning models
+Experience applying data science pipeline techniques including feature engineering and feature selection for machine learning models
+Experience articulating and translating business questions and applying Machine Learning to arrive at an answer using available data.
+Demonstrated self-direction. Willingness to both teach others and learn new techniques.
+Effective written and verbal communication skills.
+This job description provides a high-level review of the types of work performed. Other job-related duties may be assigned as required.
+-
+Job Family Group:
+Technology
+-
+Job Family:
+Data Science
+-
+Time Type:
+Full time
+-
+Primary Location:
+New York New York United States
+-
+Primary Location Salary Range:
+$137,610.00 - $206,420.00
+-
+Citi is an equal opportunity and affirmative action employer.
+Qualified applicants will receive consideration without regard to their race, color, religion, sex, sexual orientation, gender identity, national origin, disability, or status as a protected veteran.
+Citigroup Inc. and its subsidiaries ("Citi”) invite all qualified interested applicants to apply for career opportunities. If you are a person with a disability and need a reasonable accommodation to use our search tools and/or apply for a career opportunity review Accessibility at Citi.
+View the "EEO is the Law" poster. View the EEO is the Law Supplement.
+View the EEO Policy Statement.
+View the Pay Transparency Posting
+-
+Effective November 1, 2021, Citi requires that all successful applicants for positions located in the United States or Puerto Rico be fully vaccinated against COVID-19 as a condition of employment and provide proof of such vaccination prior to commencement of employment.

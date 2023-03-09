@@ -1,0 +1,40 @@
+Location
+New York, New York
+Shift:
+Day (United States of America)
+Description:
+Senior Business Intelligence Developer - Analytics
+The Sr. BI Developer develops and maintains reports and related data extracts from the Ambulatory Clinical Information and Practice Management systems. Answers questions, sets expectations, plans, and implements products and services to meet user, enterprise reporting, and data analysis needs.
+Develops reports using BI applications; distributes, and provides support for reports. Maintains a support relationship with all users.
+
+Provides design support for the development of business intelligence solutions (such as self-service analytics, dashboards, interactive reports) and their continuous maintenance; provides problem solving assistance to end users.
+Analyzes and understands various data models in depth; proactively define data structures additions (views, distribution methods, intermediate tables, multidimensional cube) that would improve performance or add value.
+Manages and monitors scheduled execution of routine processes and reports, diagnosing and fixing any report-related issues.
+Maintains knowledge of industry standards and best practices, including HIPAA and IRB policies and procedures, to ensure all deliverables meet those standards.
+This position works closely with clinical and business users and assists a multi-disciplinary team in the design, implementation, optimization, change management, and issue resolution related to the enterprise system.
+Required Criteria
+Bachelor’s Degree or equivalent experience.
+Epic Module Certification (Cogito) obtained within six months of employment.
+Three or more years of previous work related experience.
+Preferred Criteria:
+Degree or major in Computer Science.
+Epic Certification.
+Prior experience with data warehouse is desired.
+Proficient in MS SQL database, T-SQL scripting, and database modeling.
+
+#LI-JR1
+#LI-Hybrid
+
+Join a healthcare system where employee engagement is at an all-time high. Here we foster a culture of respect, diversity, and inclusion. Enjoy comprehensive and competitive benefits that support you and your family in every aspect of life. Start your life-changing journey today.
+__________________
+2021 "Employees' Choice Awards: Best Places to Work" - Glassdoor
+2021 " Best Workplaces in Health Care & Biopharma" - Fortune
+2020 "America's Best Employers in New York State" - Forbes
+2020 "Working Mother 100 Best Companies" - Working Mother
+2020 "Best Companies for Multicultural Women" - Working Mother
+2020 "Best Workplace for Men in Nursing" - American Association for Men in Nursing
+Discover why at: nyp.org/careers
+NewYork-Presbyterian Hospital is an equal opportunity employer.
+Salary Range:
+$90,000-$149,500
+It all begins with you. Our amazing compensation packages start with competitive base pay and include recognition for your experience, education, and licensure. Then we add our amazing benefits, countless opportunities for personal and professional growth and a dynamic environment that embraces every person. Join our team and discover where amazing works.

@@ -1,0 +1,44 @@
+Sanametrix, Inc. is a fast-growing small business headquartered in Arlington, VA. We are dedicated to providing federal agencies with legendary customer service and focused solutions for their business and technology needs.
+Qualified candidates are self-motivated and have 2-6 years demonstrable experience in a responsible role building out requirements for data pipelines and servicing. The candidate will have foundational knowledge in data discovery, modeling, and linking. Experience supporting and using SQL database management is a plus. The ideal candidate produces results, takes initiative, has strong problem-solving skills, and can work effectively as a team member. The candidate must be comfortable interfacing with clients and have the ability to convey technical terminology to nontechnical audiences.
+Job Responsibilities:
+Analyze highly complex business requirements; generate technical specifications to design or redesign complex software components and applications.
+Act as an expert technical resource for modeling, simulation, and analysis efforts.
+Leverage industry best practices to support the design, test, and implementation of a solution.
+Assure quality security and compliance requirements are met for supported area.
+Adapt to change quickly and adjust work accordingly in a positive manner.
+Qualifications:
+2-6 years’ experience required.
+Must be able to obtain a Public Trust
+Hands on experience in designing, developing and successful deployment of large-scale Data Repository projects from end-to-end
+Good communication skills and great attitude to work in a team environment to solve complex problems
+Experience performing Data Requirements Gathering activities
+Experience performing Data Querying activities
+Experience performing Data Analysis activities
+Experience performing Data Governance activities
+Experience performing Data Discovery activities
+Experience performing Data Manipulation activities
+Ability to work with minimal supervision and be accountable for assigned tasks
+Experience working in dynamic environment and interacting with clients
+Strong working experience with core Java APIs * Experience working in an Agile Environment
+Preferred Skills:
+Experience using Jira or a similar ticket tracking software
+Experience using the following services/tool (S3, Lambda, Redshift, Glue ETL, DMS, Glue Catalog/Crawlers)
+Experience with cloud computing, Amazon Web Services
+Experience with Agile Development methodologies
+Experience using SQL and/or Python
+AWS Certification a plus
+Job Type: Full-time
+Pay: $70,000.00 - $85,000.00 per year
+Benefits:
+401(k)
+Dental insurance
+Flexible schedule
+Health insurance
+Paid time off
+Tuition reimbursement
+Vision insurance
+Schedule:
+Monday to Friday
+Experience:
+SQL: 2 years (Preferred)
+Work Location: Remote

@@ -1,0 +1,27 @@
+Database Administrator I
+General Summary
+The Database Administrator I is responsible for the daily operations of database administration for GECU. This will minimally cover the internal Data Lake, other internally stored software databases, and collaboration with any data center managed databases. Review of data accessibility for departmental subject matter experts and the efficient storage of data, ensuring minimal duplicative data fields and any manual duplicative data entry being made between systems.
+Essential Functions, Duties, and Responsibilities
+
+Collaborate with business content owners throughout GECU functional units, to gather, interpret and troubleshoot all facets of data, especially as it pertains to end user custom reporting accessibility or custom scheduled reports
+
+Assist with the conversion of all automation processes in production for the management of databases to Data Administration’s centralized standard.
+
+Complete database enhancement including added databases, tables, updated refresh schedules per table, and review of indexing.
+
+Leverage large data sets to research operational processing.
+
+Complete deliverables in the design and build phases of relational database models and define data requirements to suit business needs.
+
+Perform comprehensive data validation.
+
+Maintain proficiency and updated technical skills as needed.
+
+Accept special projects and assignments as needed.
+
+Must understand and comply with all required federal and state regulations associated with this position.
+
+Must be able to speak and understand fluent English.
+Requirements: Associate degree in IT/Computer Science or related field. Advanced Excel knowledge and MS/Oracle SQL code writing required. PowerBI/Tableau and SQL data studio experience a plus.
+Duties and responsibilities may be added, deleted, or changed at any time at the discretion of management, formally, or informally, either verbally or in writing. The position description above is intended to describe the general content of this job. It is not to be construed as an exhaustive statement of essential functions, duties and responsibilities The requirements listed above are representative of the knowledge, skills, and/or ability required. Reasonable accommodations can be made to enable individuals with disabilities to perform the essential functions.
+EOE

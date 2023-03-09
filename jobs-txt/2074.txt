@@ -1,0 +1,38 @@
+This position is 100% remote.
+Position Summary
+Enterprise Intelligence Developers (EID’s) analyze, provide specifications for, and write individual reports and data extracts for various applications across the organization. EID’s are responsible for validating model/foundation reports and identifying advanced reporting needs for the organization. The EID will create technical specifications and outputs for new requests and build using the appropriate methodology in the business intelligence stack. The EID will assist in maintaining a single source of truth for data across the organization, by contributing to the ongoing maintenance and development of our enterprise data warehouse and business intelligence offerings.
+Minimum Requirements
+A degree in computer sciences, math, or information systems.
+Minimum 1-5 Years of Business Intelligence or comparable development experience, preferably in a Healthcare related field.
+Strong communication skills
+Intermediate T-SQL development skills
+Critical thinking and an analytical mind
+Proficiency with SQL and relational database concepts
+Proficiency and demonstrated experience with report writing tools:
+Familiarity with Epic applications and database structure, through training that occurs early in the implementation.
+Ability to gain an in-depth understanding of the data model through data model classes geared toward specific Epic applications
+Ability to determine data structures that benefit the entire reporting environment
+For financial reporting: Prior experience working with an AR system is desirable, but not required.
+Required Licenses/Registrations/Certifications
+Preferred: Epic Certifications in Radar, Reporting Workbench Administration, Clarity Data Model for any of the following: EpicCare Ambulatory, ASAP, Anesthesia, Optime, EpicCare Inpatient, Willow, Stork, Resolute Hospital Billing, Resolute Professional Billing, Grand Central, ADT, Cadence
+Required: Epic Certification will be required to obtain once in the position.
+Core Job Responsibilities
+Validating Foundation System reports and identifying advanced analytics needs with report consumers
+Meeting with Application Reporting Leads and requestors to understand their data needs
+Creating design specifications for new reports
+Identifying and validating the appropriate technological solutions for various reporting needs
+Creating new reports, using a third-party report writing tool such as Crystal reports, to display Clarity data
+Developing complex SQL queries against various data models
+Modifying existing reports, as necessary
+Distributing Clarity reports to report consumers using Epic-Crystal integration
+Reviewing peer reports for validity
+Testing report build in a specified testing environment, and volume testing in live environments
+Reviewing upgrade documentation related to Clarity features and released Crystal reporting content, and determining how to implement the changes
+Design and maintain dimensional data warehouse and ETL processes to integrate data from multiple sources.
+Business intelligence developers are also responsible for building:
+Extracts
+SlicerDicer
+Reports to query the Cogito Data Warehouse
+
+Location: Spartanburg Regional Healthcare System · Reporting and Analytics
+Schedule: Full-Time, Days, 8-5

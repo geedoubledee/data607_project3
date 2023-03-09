@@ -1,0 +1,31 @@
+Title: Data Engineer
+Location: Sunnyvale/Austin TX
+CONTRACT ON W2/1099
+Job Description:
+Hands-on experience building reliable services that work at scale.
+Strong experience in Big data technologies Spark ,Hive, Hadoop platforms
+Proficient in Scala, with understanding of recent language features and frameworks. Expertise at building jobs with Apache Spark is desirable.
+Proficient in development using SQL , Hive ,Sparksql
+Experience on AWS cloud including S3.
+Experience in building/Optimising data modules and pipelines
+Knowledge on Unix /Python scripting
+Familiarity with development tools - experience on either IntelliJ / Eclipse IDE, Build Tool Maven/Gradle
+Good to have experience with Distributed Versioning Control environments such as GIT
+Good to have knowledge about Apache iceberg ,Kafka
+Ability to Work with Business to define key business requirements and convert to technical specifications
+Job Type: Contract
+Benefits:
+401(k)
+Dental insurance
+Health insurance
+Paid time off
+Vision insurance
+Supplemental pay types:
+Bonus pay
+Ability to commute/relocate:
+Sunnyvale, CA: Reliably commute or planning to relocate before starting work (Required)
+Experience:
+Python scripting: 5 years (Required)
+SQL: 5 years (Required)
+Data warehouse: 5 years (Required)
+Work Location: One location

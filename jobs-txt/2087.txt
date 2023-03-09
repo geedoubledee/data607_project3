@@ -1,0 +1,84 @@
+Job Title:
+Senior Software Engineer (QT and C++)
+Department:
+Product Development
+Reports to:
+Director of Product Management
+Location:
+Poway, CA
+Purpose of the job:
+Lead the development of DSIC’s Discovery product with special focus on user experience and 3D visualization.
+U.S. citizenship required (defined by federal contract):
+Yes
+Status:
+Exempt
+Required Education:
+Bachelor’s in Computer Science, Computer Engineering, Mathematics,
+Physics or related field or possess relevant experience in lieu of
+education.
+Preferred Education:
+Master’s or PhD in Computer Science, Computer Engineering,
+Mathematics, Physics or related field
+Required Certification:
+None
+Required Experience and Competencies:
+10-12 of years of experience in a commercial software product development environment
+4+ years of front-end GUI/UX design experience in Qt, Unity and 3D visualization tools and techniques
+4+ years of Leadership experience in Agile/Scrum development environments, managing, mentoring, reviewing code and developing policies and procedure to ensure software Quality
+4+ years of Experience in messaging technologies (TCP/IP, Sockets, ZeroMQ, RabbitMQ, Kafka, etc.)
+Excellent programming and debugging skills in C++, C#.NET, Java or similar object-oriented languages and design patterns
+Experience in full stack development in both Linux and Windows environments
+Experience with Visualization Toolkit (VTK) integration using ActiViz and Unity user interface
+Experience with PostgreSQL, SQL Server, or similar database technologies
+Excellent Linux scripting skills and scripting in Python, JavaScript, etc.
+Cloud-based development and deployment experience with Azure/AWS is desirable
+Experience in machine learning (ML) using TensorFlow, TensorRT and CUDA, OpenCL on GPUs is a plus
+Excellent written and communication skills using Word, PowerPoint, Excel and other tools.
+Must be able to work extended hours as required
+Required Attributes:
+Must possess the ability to understand new concepts quickly and apply them accurately throughout an evolving environment while organizing work assignments to meet established timetables
+Must be enthusiastic and solutions-oriented
+Must be self-motivated with the ability to follow through to solve difficult problems using technical creativity and ingenuity
+The ability to work independently and as part of a team is essential.
+Essential Functions / Responsibilities:
+Lead daily stand-up meetings and code review activities as required
+Prepare and present design and implementation documentation using Word, PowerPoint and Excel to effectively communicate to a broad audience of peers, users and other stakeholders
+Maintain and develop DSIC software development process and procedures
+Follow industry best practices
+Other Responsibilities:
+Support peers in the development of test tools, performance metric tools, etc. Mentoring as appropriate.
+Support and provide training activities as required to system installers,
+users and maintainers
+Maintain knowledge of industry trends and technologies; recommend
+training topics as necessary
+Participate in assigned training
+Other duties as assigned
+Compliance with company’s Safety Program, Code of Conduct and Ethics policy
+Travel Requirements:
+15% of the time
+Physical Requirements:
+Physical demands:
+Ability to operate a computer, phone, fax, copy machine and other related office equipment
+Ability to sit or stand at a work station for up to an entire work shift
+Job Type: Full-time
+Pay: From $150,000.00 per year
+Benefits:
+401(k)
+401(k) matching
+Dental insurance
+Flexible schedule
+Flexible spending account
+Health insurance
+Life insurance
+Paid time off
+Referral program
+Tuition reimbursement
+Vision insurance
+Schedule:
+8 hour shift
+Supplemental pay types:
+Bonus pay
+Experience:
+VTK integration and Unity: 3 years (Preferred)
+C++, C#.net, Java, TCP/IP, Sockets, ZeroMQ, RabbitMQ, Kafka: 5 years (Preferred)
+Work Location: Hybrid remote in Poway, CA 92064

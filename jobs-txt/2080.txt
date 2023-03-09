@@ -1,0 +1,45 @@
+Our Company
+AICrete is a venture-backed startup focused on unlocking automation and machine learning in the concrete industry. Our innovative "concrete mixture and testing-as-a-service" model combines data, automation, and cutting-edge machine learning with a firm understanding of concrete materials science to enable concrete producers and contractors to make cost-effective, durable, and sustainable concrete mixes quickly, efficiently, and with minimal risk. Our mission is to make concrete mixture design and testing fast, cheap, and sustainable.
+Role Summary
+At AICrete, we are looking for a Machine Learning (ML) Engineer to design and develop machine learning and deep learning systems. Your responsibilities include data collection, cleaning, and preprocessing, creating machine learning models and retaining systems. To do this job successfully, you need exceptional skills in statistics and programming. If you also have knowledge of data science, data engineering, and software engineering, we'd like to meet you. Your ultimate goal will be to shape and build efficient self-learning applications.
+Duties and Responsibilities
+Study and transform data science prototypes
+Explore and visualize data to gain an understanding of it, identifying differences in data distribution that could affect performance
+Supervising the data acquisition process
+Verifying data quality and ensuring it via data cleaning
+Defining data augmentation pipelines
+Design machine learning systems
+Research and implement appropriate ML algorithms and tools
+Develop machine learning applications according to requirements
+Select appropriate datasets and data representation methods
+Run machine learning tests and experiments
+Perform analysis and hyper-parameter tuning
+Train and retain systems when necessary
+Extend existing ML libraries and frameworks
+Deploying models to production
+Keep abreast of developments in the field
+Qualifications
+Proven experience as a Machine Learning Engineer or similar role
+Deep understanding of data structures, data modeling, and software architecture
+Strong knowledge of math, probability, statistics, and algorithms
+Ability to write robust code in Python, Java, and R
+Familiarity with machine learning frameworks (like Keras, TensorFlow, PyTorch, etc.) and libraries (like scikit-learn, pandas, etc.)
+Experience in visualizing and manipulating big datasets
+Familiarity with Linux
+Ability to select hardware to run an ML model with the required latency
+Excellent communication skills and ability to work in a team
+Outstanding analytical and problem-solving skills
+Great attention to details, organizational skills, and an analytical mind
+Motivated by achieving goals and willing to learn and get results
+Act with integrity, keep commitments, and practice transparency
+BS in Computer Science
+Additional Qualifications
+Master's degree or PhD in Computer Science
+Familiarity with Reinforcement Learning
+Familiarity with Optimization Methods and Algorithms
+Benefits
+Health insurance (medical, dental, vision, and life)
+Equity in a fast-growing tech startup
+Unlimited paid time off
+Flexible work schedule
+Home office allowance for office set-up

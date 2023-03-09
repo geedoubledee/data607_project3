@@ -1,0 +1,29 @@
+Data Scientist / AI Engineer
+Description:
+You will play a critical role in the growing and implementing Data Science solutions for our client. You will be responsible for developing data and machine learning pipelines that handle data across domains including marketing, supply chain, forecasting, digital transformation, and supplier science. You will work closely with the team and clients to process owners and business stakeholders to deliver impactful data science solutions at significant scale. You will have the opportunity to do your best work every day and deliver disruptive innovation by tapping into new datasets, leveraging the latest cloud technologies, and being supported by a robust analytics and IT organization.
+Tasks include
+Develop and automate ETL processes
+Build and deploy classification models in production
+Develop and automate information retrieval and data cleaning processes
+Develop backend solutions using Python
+Minimum Experience:
+Master’s degree in an analytical field such as Business Analytics, Data Science, Computer Science, Applied Mathematics, or Operations Research. 5 additional years of related experience beyond the minimum required may be substituted in lieu of a degree.
+Preferred Experience:
+Experience with Natural Language Processing (NLP) for information retrieval and classification
+Experience creating and deploying machine learning models in production
+Experience with SpaCy, MongoDB and Oracle
+Experience using Docker, Flask, and git
+Experience with the AWS
+Experience with Model Risk Management and Responsible AI
+Experience working in the strategic sourcing initiatives
+Please note that- Since this job position is for a federal project, a candidate must be a Citizen of U.S. to obtain clearance.
+Job Type: Full-time
+Pay: $1.00 - $2.00 per year
+Schedule:
+Monday to Friday
+Application Question(s):
+How many years of experience do you have as a Data Scientist ?
+Are you a Citizen of U.S. ?
+Your highest education degree?
+Do you have any active security clearance ?
+Work Location: One location

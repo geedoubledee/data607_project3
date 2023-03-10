@@ -325,7 +325,7 @@ if (length(completed_txt_files) == 0){
 url_base <- "https://raw.githubusercontent.com/geedoubledee/data607_project3/main/jobs-txt/"
 
 for (i in 1:length(files)){
-    if (!(files[i] %in% completed_txt_files)){
+    if (!files[i] %in% completed_txt_files){
         file <- paste(url_base, files[i], sep = "")
         job_id <- str_replace(files[i], ".txt", "")
         lines <- readLines(file)
@@ -351,7 +351,10 @@ write.csv(text_df, "text_df.csv", row.names = FALSE)
 
 ```{r tidytext_analysis}
 
-tidy_text_df_words <- text_df %>%
+text_df_clean <- tolower(text_df)
+
+
+tidy_text_df_words <- text_df_clean %>%
     unnest_tokens(word, Text)
 
 tidy_text_words_analysis <- tidy_text_df_words %>%

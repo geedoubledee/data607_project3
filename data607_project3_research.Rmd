@@ -319,7 +319,8 @@ if (length(completed_txt_files) == 0){
     colnames(text_df) <- cols
 }else{
     my_url <- "https://raw.githubusercontent.com/geedoubledee/data607_project3/main/text_df.csv"
-    text_df <- read.csv(file = my_url, header = TRUE)
+    text_df <- read.csv(file = my_url, header = TRUE,
+                        fileEncoding = "UTF-8")
 }
 
 url_base <- "https://raw.githubusercontent.com/geedoubledee/data607_project3/main/jobs-txt/"
@@ -351,8 +352,10 @@ write.csv(text_df, "text_df.csv", row.names = FALSE)
 
 ```{r tidytext_analysis}
 
-text_df_clean <- tolower(text_df)
-
+text_df_clean <- text_df
+text_df_clean[, 1] <- tolower(text_df_clean[, 1])
+text_df_clean %<>%
+    filter(Text != "")
 
 tidy_text_df_words <- text_df_clean %>%
     unnest_tokens(word, Text)
@@ -360,41 +363,55 @@ tidy_text_df_words <- text_df_clean %>%
 tidy_text_words_analysis <- tidy_text_df_words %>%
     anti_join(get_stopwords()) %>%
     group_by(word) %>%
-    summarize(term_freq = n(), doc_count = n_distinct(Job_id)) %>%
-    arrange(desc(doc_count))
+    summarize(term_freq = n(),
+              doc_count = n_distinct(Job_id),
+              tf_dc_score = round((term_freq * doc_count / 1000000), 3)) %>%
+    arrange(desc(tf_dc_score))
     
 datatable(tidy_text_words_analysis, options = list(pageLength = 25))
 
 tidy_text_words_analysis %>%
     with(wordcloud(word, doc_count, max.words = 50))
 
-tidy_text_df_bigrams <- text_df %>%
+tidy_text_df_bigrams <- text_df_clean %>%
     unnest_tokens(bigram, Text, token = "ngrams", n = 2)
 
 tidy_text_bigrams_analysis <- tidy_text_df_bigrams %>%
+    separate(bigram, into = c("first","second"),
+             sep = " ", remove = FALSE) %>%
+    anti_join(stop_words, by = c("first" = "word")) %>%
+    anti_join(stop_words, by = c("second" = "word")) %>%
     group_by(bigram) %>%
-    summarize(term_freq = n(), doc_count = n_distinct(Job_id)) %>%
-    arrange(desc(doc_count))
+    summarize(term_freq = n(),
+              doc_count = n_distinct(Job_id),
+              tf_dc_score = round((term_freq * doc_count / 1000000), 3)) %>%
+    filter(!is.na(bigram)) %>%
+    arrange(desc(tf_dc_score))
 
 datatable(tidy_text_bigrams_analysis, options = list(pageLength = 25))
 
 tidy_text_bigrams_analysis %>%
     with(wordcloud(bigram, doc_count, max.words = 50))
 
-tidy_text_df_trigrams <- text_df %>%
+tidy_text_df_trigrams <- text_df_clean %>%
     unnest_tokens(trigram, Text, token = "ngrams", n = 3)
 
 tidy_text_trigrams_analysis <- tidy_text_df_trigrams %>%
+    separate(trigram, into = c("first","second","third"),
+             sep = " ", remove = FALSE) %>%
+    anti_join(stop_words, by = c("first" = "word")) %>%
+    anti_join(stop_words, by = c("third" = "word")) %>%
     group_by(trigram) %>%
-    summarize(term_freq = n(), doc_count = n_distinct(Job_id)) %>%
-    arrange(desc(doc_count))
+    summarize(term_freq = n(),
+              doc_count = n_distinct(Job_id),
+              tf_dc_score = round((term_freq * doc_count / 1000000), 3)) %>%
+    filter(!is.na(trigram)) %>%
+    arrange(desc(tf_dc_score))
 
 datatable(tidy_text_trigrams_analysis, options = list(pageLength = 25))
 
 tidy_text_trigrams_analysis %>%
     with(wordcloud(trigram, doc_count, max.words = 50))
-
-
 
 ```
 

@@ -20,16 +20,28 @@ knitr::opts_chunk$set(echo = TRUE)
 
 * Collaboration Tools:
     + Communication:
-        + Slack
+        + Slack thread, Zoom meetings
     + Code Sharing:
         + Github: https://github.com/geedoubledee/data607_project3
     + Project Documentation:
+        + RStudio Documents for our Research (which will include a recap of the motivation/approach conversations we had on Slack and via Zoom, in addition to our process, the successes/challenges, and ultimately our findings), our Team Document, the Deliverables Timeline, and the Rubric
+        + MySQL Database Hosted on Google Cloud Platform for keeping track of job listings we've found and gone through
+        + TXT files for all the job descriptions for individual listings
+        + A CSV dataframe gathering all the job description text we collected together
 
 * Data:
-    + Source:
-        + Location:
-        + How to Load:
-
-* Normalized Database:
-    + Logical Model:
-    + Entity-Relationship (ER) Diagram:
+    + Several job boards that are at least partially devoted to data science job listings have RSS feeds that we were able to gather data from, including: 
+        + ai-jobs.net
+        + CareerCastIT&Engineering
+        + OpenDataScienceJobPortal
+        + JobsforR-Users
+        + MLconfJobBoard
+        + PythonJobBoard
+        + Indeed
+            + NB: Indeed's RSS feed was not refreshing after the initial retrieval, and we also were unable to scrape the few job listings we did retrieve from Indeed's RSS feed, so we later used a [recent Kaggle dataset of Indeed job listings](https://www.kaggle.com/datasets/yusufolonade/data-science-job-postings-indeed-usa) to supplement our data. There are approximately as many observations in that dataset as we were able to collect via other means, so we feel we ended up having a good mix of sources.
+    + We set up a [Feedbin](https://feedbin.com/) RSS reader account to collect data science job listings from these RSS feeds. We then sent API calls to Feedbin to retrieve results every few days and save them as dataframes in CSV format. We read the data into R, then extracted the job descriptions from the listings. Each job description was saved as a TXT file, and we recorded all the job listings for which we were able to actually retrieve job descriptions in our SQL database.
+    + LinkedIn job listings were not accessible via RSS feed, so we used a [RapidAPI alternative](https://rapidapi.com/jaypat87/api/linkedin-jobs-search) to retrieve job listings from there. We were unable to automatically scrape these job listings, but we were able to manually download the job descriptions instead. We stored them similarly to how we stored the rest of the data we collected.
+    
+* Normalized Database: Entity-Relationship (ER) Diagram:
+    ![](https://raw.githubusercontent.com/geedoubledee/data607_project3/main/db_erd.png)
+    + The text from the job descriptions we retrieved is not currently stored in the normalized database. So there are only tables for the Sites and the Jobs. We were worried about character limits on fields in SQL databases. Some of the "lines" in our job description files are very long due to how the data was collected from the Web.

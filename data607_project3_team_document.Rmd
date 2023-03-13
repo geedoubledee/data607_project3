@@ -44,4 +44,4 @@ knitr::opts_chunk$set(echo = TRUE)
     
 * Normalized Database: Entity-Relationship (ER) Diagram:
     ![](https://raw.githubusercontent.com/geedoubledee/data607_project3/main/db_erd.png)
-    + The text from the job descriptions we retrieved is not currently stored in the normalized database. So there are only tables for the Sites and the Jobs. We were worried about character limits on fields in SQL databases. Some of the "lines" in our job description files are very long due to how the data was collected from the Web.
+    + The text from the job descriptions we retrieved will be stored into a third table called Txts in the normalized database, in addition to the tables for Sites and Jobs. We will split the lines of the job description into multiple lines that will be labeled to avoid the character limits on fields in SQL databases, since some of the "lines" in our job description files are very long due to how the data was collected from the Web.

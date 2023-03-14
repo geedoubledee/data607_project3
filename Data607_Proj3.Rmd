@@ -1,0 +1,218 @@
+---
+title: "Untitled"
+author: "Glen Dale Davis, Coco Donovan, Mohamed Hassan-El Serafi, Alex Khaykin, Eddie
+  Xu"
+date: "2023-03-12"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, message=FALSE, warnings=FALSE)
+```
+
+
+```{r}
+library(tidyverse)
+library(magrittr)
+library(DBI)
+library(dbplyr)
+library(RMariaDB)
+library(data.table)
+library(stopwords)
+library(tidytext)
+library(RColorBrewer)
+library(DT)
+library(wordcloud)
+```
+
+```{r}
+df <- read.csv("https://raw.githubusercontent.com/geedoubledee/data607_project3/main/DataScientist.csv", check.names = FALSE)
+```
+
+```{r}
+df
+```
+
+
+```{r}
+colnames(df) [1] <- "Count"
+```
+
+
+```{r}
+df
+```
+
+
+
+
+```{r}
+new_df <- df %>%
+    select(`Job Description`)
+new_df
+```
+
+
+
+```{r}
+new_df <- unlist(new_df)
+```
+
+
+```{r}
+text_df <- data.frame(text=new_df)
+text_df
+```
+
+
+
+
+
+
+```{r}
+tidy_job_desc <- text_df %>%
+    unnest_tokens(word, text)
+tidy_job_desc
+```
+
+
+
+
+```{r}
+tidy_results <- tidy_job_desc %>%
+    anti_join(stop_words)
+tidy_results
+```
+
+
+
+
+```{r}
+tidy_breakdown <- tidy_results %>%
+    count(word, sort=TRUE)
+tidy_breakdown
+```
+
+
+```{r}
+colnames(tidy_breakdown) [2] <- "term_freq"
+```
+
+```{r}
+tidy_breakdown
+```
+
+
+
+```{r}
+tidy_breakdown2 <- tidy_breakdown %>%
+    group_by(word) %>%
+    summarize(term_freq = n(),
+          doc_count = n_distinct(),
+          tf_dc_score = round((term_freq * doc_count / 1000000), 3)) %>%
+    arrange(desc(tf_dc_score))
+tidy_breakdown2
+```
+
+
+## Bigrams
+
+```{r}
+tidy_text_df_bigrams <- text_df %>%
+    unnest_tokens(bigram, text, token = "ngrams", n = 2)
+tidy_text_df_bigrams
+```
+
+
+```{r}
+tidy_text_bigrams_analysis <- tidy_text_df_bigrams %>%
+    separate(bigram, into = c("first","second"),
+             sep = " ", remove = FALSE) %>%
+    anti_join(stop_words, by = c("first" = "word")) %>%
+    anti_join(stop_words, by = c("second" = "word")) 
+
+tidy_text_bigrams_analysis
+```
+
+```{r}
+bigram_breakdown <- tidy_text_bigrams_analysis %>%
+    count(bigram, sort=TRUE)
+bigram_breakdown
+```
+
+
+## Trigrams
+
+```{r}
+tidy_text_df_trigrams <- text_df %>%
+    unnest_tokens(trigram, text, token = "ngrams", n = 3)
+tidy_text_df_trigrams
+```
+
+
+```{r}
+tidy_text_trigrams_analysis <- tidy_text_df_trigrams %>%
+    separate(trigram, into = c("first","second","third"),
+             sep = " ", remove = FALSE) %>%
+    anti_join(stop_words, by = c("first" = "word")) %>%
+    anti_join(stop_words, by = c("third" = "word"))
+tidy_text_trigrams_analysis
+```
+
+
+```{r}
+trigram_breakdown <- tidy_text_trigrams_analysis %>%
+    count(trigram, sort=TRUE)
+trigram_breakdown
+```
+
+
+
+
+
+```{r}
+tidy_text_df_bigrams <- tidy_results %>%
+    unnest_tokens(bigram, word, token = "ngrams", n = 2)
+
+tidy_text_bigrams_analysis <- tidy_text_df_bigrams %>%
+    separate(bigram, into = c("first","second"),
+             sep = " ", remove = FALSE) %>%
+    anti_join(stop_words, by = c("first" = "word")) %>%
+    anti_join(stop_words, by = c("second" = "word")) %>%
+    group_by(bigram) %>%
+    summarize(term_freq = n(),
+              doc_count = n_distinct(Job_id),
+              tf_dc_score = round((term_freq * doc_count / 1000000), 3)) %>%
+    filter(!is.na(bigram)) %>%
+    arrange(desc(tf_dc_score))
+
+datatable(tidy_text_bigrams_analysis, options = list(pageLength = 25))
+```
+
+
+
+
+
+
+
+
+
+```{r}
+text_df_clean <- text_df
+text_df_clean[, 1] <- tolower(text_df_clean[, 1])
+text_df_clean %<>%
+    filter(word != "")
+
+tidy_text_df_words <- text_df_clean %>%
+    unnest_tokens(word, text)
+
+tidy_text_words_analysis <- tidy_text_df_words %>%
+    anti_join(get_stopwords()) %>%
+    group_by(word) %>%
+    summarize(term_freq = n(),
+              doc_count = n_distinct(Job_id),
+              tf_dc_score = round((term_freq * doc_count / 1000000), 3)) %>%
+    arrange(desc(tf_dc_score))
+```
+
+

@@ -29,9 +29,28 @@ library(MCDA)
 
 ```
 
-## State the Research Question: 
+## Research Question: 
 
-W. Edwards Deming said, “In God we trust, all others must bring data.” Below, we will use data to explore the question, **“Which are the most valued data science skills?”**
+W. Edwards Deming said, “In God we trust, all others must bring data.” Below, we have used data to answer the question, **“Which are the most valued data science skills?”**
+
+## Motivation and Approach:
+
+To determine the most valued data science skills, we have analyzed the frequency of single words, two-word phrases (bigrams), and three-word phrases (trigrams) in online job listings from a variety of data sources. For present-day analysis, the sites we collected recent job listings from were:
+
+* [ai-jobs.net](https://ai-jobs.net/)
+* [CareerCast IT & Engineering](https://it.careercast.com/)
+* [Open Data Science Job Portal](https://jobs.opendatascience.com/)
+* [Jobs for R-Users](https://www.r-users.com/)
+* [MLconf Job Board](https://mlconf.com/jobs/)
+* [Python Job Board](https://www.python.org/jobs/)
+* [Indeed](https://www.indeed.com/)
+* [LinkedIn](https://www.linkedin.com/jobs/)
+
+We also wanted to do a historical analysis for the sake of comparison, so we also analyzed an archival data set of job listings from the site below:
+
+* [Glassdoor](https://www.glassdoor.com/member/home/index.htm)
+
+We stored the job listings we reviewed in a MySQL database hosted on Google Cloud Platform. We connect to it below and display a small subset of the data we've collected.
 
 ## Connect to the SQL Data Base:
 
@@ -48,14 +67,25 @@ con <- DBI::dbConnect(
 ## Read from the SQL Data Base and Disconnect:
 
 ```{r db_write1}
-tables <- dbListTables(con)
 jobs_df <- dbReadTable(con, "_Jobs")
 datatable(head(jobs_df[, -3], options = list(pageLength = 25), n = 250))
 dbDisconnect(con)
 
 ```
 
-## Create a Data Frame of Jobs Found via RSS Feed By Combining CSV Files and Removing Duplicates:
+## Create a Data Frame of Jobs Found via RSS Feed:
+
+Many of the sources of our present-day job listings were accessible via RSS feed, and we set up a [Feedbin](https://feedbin.com/) RSS reader account to collect data science job listings from them:
+
+* [ai-jobs.net](https://ai-jobs.net/)
+* [CareerCast IT & Engineering](https://it.careercast.com/)
+* [Open Data Science Job Portal](https://jobs.opendatascience.com/)
+* [Jobs for R-Users](https://www.r-users.com/)
+* [MLconf Job Board](https://mlconf.com/jobs/)
+* [Python Job Board](https://www.python.org/jobs/)
+* [Indeed](https://www.indeed.com/)
+
+We then sent API calls to Feedbin to retrieve results every few days and saved the results as data frames in CSV format.
 
 ```{r jobs_df}
 
@@ -94,7 +124,9 @@ new_jobs_df2 <- new_jobs_df2[!duplicated(new_jobs_df2), ]
 
 ```
 
-## Remove Unnecessary Columns in Jobs Data Frame and Rearrange Remaining Columns to Prepare the Data for the SQL Data Base:
+## Cleaning Up the Jobs Data Frame:
+
+We removed duplicates, removed unnecessary columns, and rearranged the remaining columns to combine the CSV files into one big Jobs data frame. We gave unique **Job_id** values to all listings based on their row numbers.
 
 ```{r jobs_df_minimize}
 if (nrow(new_jobs_df) > 0){
@@ -147,6 +179,8 @@ jobs_df %<>%
 ```
 
 ## Scrape Each Unique Job Listing URL:
+
+We visited the URL for each unique job listing and retrieved the HTML data at that address. Depending on the site, we extracted the specific HTML container that contained the job description. We converted the HTML to text and wrote the resulting lines to individual TXT files. If an error resulted from visiting the site, or we were unable to retrieve a job description for any other reason, we recorded that as -1 in our **Job_complete** field. Values of 0 meant the URL had never been visited, and values of 1 meant the job description was successfully retrieved. (Although Indeed was accessible via RSS feed, the data was not refreshing after a while, and we were not able to scrape the few job listings we retrieved that way. So those listings all received a **Job_complete** value of -1.)
 
 ```{r scrape, warning = FALSE, message = FALSE}
 
@@ -204,6 +238,8 @@ for (i in 1:nrow(jobs_df)){
 
 ## Manual Data Collection for LinkedIn:
 
+LinkedIn job listings were not accessible via RSS, so we used a [RapidAPI alternative](https://rapidapi.com/jaypat87/api/linkedin-jobs-search) to retrieve job listings from there. We were unable to automatically scrape these job listings, so we assigned them a **Job_complete** value of -1 similar to what we did for Indeed job listings. However, we were able to manually download the job descriptions for LinkedIn job listings.
+
 ```{r manual1}
 manual <- jobs_df %>%
     filter(Job_complete == -1 & Site_id == 1001)
@@ -211,7 +247,8 @@ write.csv(manual, "manual.csv", row.names = FALSE)
 
 ```
 
-We look up the job descriptions for the job listings in the manual.csv file manually, and we save them as column eight of a manual_edited.csv file. If we find a job description, we change the Job_complete value to 1. If we don't, we can just delete that row. If a previous file exists, we save over it. We then upload the saved manual_edited.csv file to github before continuing. 
+We saved all the LinkedIn job listings we retrieved in a file called **manual.csv**. Then, we saved the job descriptions we were able to find in column eight of our file and saved the new file as **manual_edited.csv**.
+If we found a job description, we change the **Job_complete** value for that job listing to 1. If we didn't, we just deleted that row. If a previous file existed, we saved over it. We then upload the saved **manual_edited.csv** file to Github before continuing. 
 
 ```{r manual2}
 file <- "https://raw.githubusercontent.com/geedoubledee/data607_project3/main/manual_edited.csv"
@@ -229,7 +266,9 @@ for (i in 1:nrow(manual_edited)){
 
 ```
 
-## Add Previously Scraped (Nov. 2022) Data for Indeed Jobs (Source: Kaggle)
+## Add Previously Scraped Data for Recent Indeed Job Listings:
+
+Since we had trouble gathering data for Indeed job listings via any other method, we used a [recent Kaggle dataset of Indeed job listings](https://www.kaggle.com/datasets/yusufolonade/data-science-job-postings-indeed-usa) to supplement our data. There are approximately as many observations in this data set as we were able to collect via other means, so we felt we ended up having a good mix of sources. The data was also gathered in November 2022, so we felt it was recent enough to use in our present-day job listing analysis.
 
 ```{r kaggle_indeed}
 
@@ -298,7 +337,9 @@ dbDisconnect(con)
 
 ```
 
-## Set Up a Text Data Frame from the TXT Job Description Files
+## Set Up a Text Data Frame from the TXT Job Description Files:
+
+Once we had all the job description TXT files we needed, we created a big Text data frame containing all of the **Line** values for each **Job_id**.
 
 ```{r tidytext_setup}
 
@@ -350,6 +391,8 @@ write.csv(text_df, "text_df.csv", row.names = FALSE)
 ```
 
 ## Analyze the Text Data Frame with Tidytext
+
+We calculated how many times a word, bigram, or trigram occurred across all job listings, as well as how many job listings that word occurred in. We called the first metric **term_freq**, and we called the second metric **doc_count**. We normalized both metrics on a scale from 0 to 1, and we recorded a third metric as the sum of those normalizations: **tf_df_norm_sum**. This third metric was needed so that we could make decisions about a term's importance that accounted for both a term's frequency across all job listings and the number of job listings it appeared in, not just one or the other. It allowed us to sort and rank terms properly, and reduced the amount of clutter we needed to look through to make a compelling selection of skills that are most valuable in data science. 
 
 ```{r tidytext_analysis}
 
@@ -501,7 +544,7 @@ important_trigrams <- tidy_text_trigrams_analysis %>%
 important_trigrams$topic <- replicate(nrow(important_trigrams), '')
 ```
 
-## Historical Analysis
+## Historical Analysis:
 
 ```{r historical}
 historical_df <- read.csv("https://raw.githubusercontent.com/geedoubledee/data607_project3/main/DataScientist.csv")

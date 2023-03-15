@@ -88,7 +88,6 @@ Many of the sources of our present-day job listings were accessible via RSS feed
 We then sent API calls to Feedbin to retrieve results every few days and saved the results as data frames in CSV format.
 
 ```{r jobs_df}
-
 completed_files <- readLines("completed_files.txt")
 
 url_base <- "https://raw.githubusercontent.com/geedoubledee/data607_project3/main/"
@@ -183,7 +182,6 @@ jobs_df %<>%
 We visited the URL for each unique job listing and retrieved the HTML data at that address. Depending on the site, we extracted the specific HTML container that contained the job description. We converted the HTML to text and wrote the resulting lines to individual TXT files. If an error resulted from visiting the site, or we were unable to retrieve a job description for any other reason, we recorded that as -1 in our **Job_complete** field. Values of 0 meant the URL had never been visited, and values of 1 meant the job description was successfully retrieved. (Although Indeed was accessible via RSS feed, the data was not refreshing after a while, and we were not able to scrape the few job listings we retrieved that way. So those listings all received a **Job_complete** value of -1.)
 
 ```{r scrape, warning = FALSE, message = FALSE}
-
 for (i in 1:nrow(jobs_df)){
     httr::user_agent("Glen Davis")
     if (jobs_df[i, 7] == 0){
@@ -271,7 +269,6 @@ for (i in 1:nrow(manual_edited)){
 Since we had trouble gathering data for Indeed job listings via any other method, we used a [recent Kaggle dataset of Indeed job listings](https://www.kaggle.com/datasets/yusufolonade/data-science-job-postings-indeed-usa) to supplement our data. There are approximately as many observations in this data set as we were able to collect via other means, so we felt we ended up having a good mix of sources. The data was also gathered in November 2022, so we felt it was recent enough to use in our present-day job listing analysis.
 
 ```{r kaggle_indeed}
-
 completed_files <- readLines("completed_files.txt")
 
 if (!("data_science_jobs_indeed_usa.csv" %in% completed_files)){
@@ -326,7 +323,6 @@ con <- DBI::dbConnect(
 ## Write to the SQL Data Base Only If There Were Changes and Disconnect:
 
 ```{r db_write2}
-tables <- dbListTables(con)
 copy <- dbReadTable(con, "_Jobs")
 
 if (!identical(jobs_df, copy)){
@@ -342,7 +338,6 @@ dbDisconnect(con)
 Once we had all the job description TXT files we needed, we created a big Text data frame containing all of the **Line** values for each **Job_id**.
 
 ```{r tidytext_setup}
-
 files <- list.files(pattern = "^[1-9]+.*txt$")
 if (length(files) > 0){
     file.copy(from = paste0(getwd(), "/", files),
@@ -390,12 +385,11 @@ write.csv(text_df, "text_df.csv", row.names = FALSE)
 
 ```
 
-## Analyze the Text Data Frame with Tidytext
+## Analyze the Text Data Frame with Tidytext:
 
 We calculated how many times a word, bigram, or trigram occurred across all job listings, as well as how many job listings that word occurred in. We called the first metric **term_freq**, and we called the second metric **doc_count**. We normalized both metrics on a scale from 0 to 1, and we recorded a third metric as the sum of those normalizations: **tf_df_norm_sum**. This third metric was needed so that we could make decisions about a term's importance that accounted for both a term's frequency across all job listings and the number of job listings it appeared in, not just one or the other. It allowed us to sort and rank terms properly, and reduced the amount of clutter we needed to look through to make a compelling selection of skills that are most valuable in data science. 
 
 ```{r tidytext_analysis}
-
 text_df_clean <- text_df
 text_df_clean[, 1] <- tolower(text_df_clean[, 1])
 text_df_clean %<>%
@@ -427,7 +421,7 @@ tidy_text_words_analysis <- tidy_text_words_analysis[c("word", "term_freq",
                                                        "dc_norm", 
                                                        "tf_dc_score",
                                                        "tf_dc_norm_sum")]
-    
+
 datatable(head(tidy_text_words_analysis, options = list(pageLength = 25), n = 250))
 
 tidy_text_words_analysis %>%
@@ -514,12 +508,37 @@ tidy_text_trigrams_analysis %>%
 ```{r}
 single_words <- c('sql','python','product','models','communication','cloud','research','customer','database','stakeholders','modeling','ml','r','programming','clients','ai', 'statistics', 'reporting','aws','leadership', 'operations','collaborate', 'algorithms','marketing', 'bi','visualization','tableau','mathematics','dashboards','optimization','datasets','java','oracle')
 
-scripting <- c()
+programming <- c('python', 'r', 'java', 'programming')
+
+presentation <- c('clients','customer','communication', 'reporting','dashboards', 'tableau', 'visualization', 'bi', 'stakeholders')
+
+theoretical <- c('statistics', 'mathematics', 'algorithms', 'ai', 'optimization', 'research', 'modeling', 'models', 'ml')
+
+soft_skills <- c('collaborate', 'leadership', 'product')
+
+data_storage <- c('cloud', 'aws', 'datasets', 'database', 'oracle', 'sql')
+
+business_interest <- c('marketing', 'product', 'operations')
+
+topics <- list(programming, presentation, theoretical, soft_skills,
+               data_storage, business_interest)
+names(topics) <- c("programming", "presentation", "theoretical", "soft_skills",
+                   "data_storage", "business_interest")
 
 important_single_words <- tidy_text_words_analysis %>%
   filter(word %in% single_words)
 
 important_single_words$topic <- replicate(nrow(important_single_words), '')
+
+for (i in 1:length(topics)){
+    for (j in 1:length(topics[[i]])){
+        top <- names(topics)[i]
+        wd <- topics[[i]][j]
+        row <- match(wd, important_single_words$word)
+        important_single_words[row, 8] <- top
+    }
+}
+
 ```
 
 ## Filtering for important bigrams
@@ -578,7 +597,8 @@ historical_text_words_analysis <- historical_text_words_analysis[
     c("word", "term_freq", "tf_norm", "doc_count", "dc_norm",
       "tf_dc_score", "tf_dc_norm_sum")]
     
-datatable(head(historical_text_words_analysis, options = list(pageLength = 25), n = 250))
+datatable(head(historical_text_words_analysis,
+               options = list(pageLength = 25),n = 250))
 
 historical_text_words_analysis %>%
     with(wordcloud(word, doc_count, max.words = 50))
@@ -612,7 +632,8 @@ historical_text_bigrams_analysis <- historical_text_bigrams_analysis[
     c("bigram", "term_freq", "tf_norm", "doc_count", "dc_norm",
       "tf_dc_score", "tf_dc_norm_sum")]
 
-datatable(head(historical_text_bigrams_analysis, options = list(pageLength = 25), n = 250))
+datatable(head(historical_text_bigrams_analysis,
+               options = list(pageLength = 25), n = 250))
 
 historical_text_bigrams_analysis %>%
     with(wordcloud(bigram, doc_count, max.words = 50))
@@ -646,11 +667,10 @@ historical_text_trigrams_analysis <- historical_text_trigrams_analysis[
     c("trigram", "term_freq", "tf_norm", "doc_count", "dc_norm",
       "tf_dc_score", "tf_dc_norm_sum")]
 
-datatable(head(historical_text_trigrams_analysis, options = list(pageLength = 25), n = 250))
+datatable(head(historical_text_trigrams_analysis,
+               options = list(pageLength = 25), n = 250))
 
 historical_text_trigrams_analysis %>%
     with(wordcloud(trigram, doc_count, max.words = 50))
 
-
 ```
-

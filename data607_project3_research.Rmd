@@ -95,25 +95,35 @@ url_base <- "https://raw.githubusercontent.com/geedoubledee/data607_project3/mai
 new_jobs_df <- as.data.frame(matrix(nrow = 0, ncol = 11))
 files <- list.files(pattern = "_feeds_.*csv$")
 
-for (i in 1:length(files)){
-    if (!(files[i] %in% completed_files)){
-        file <- paste(url_base, files[i], sep = "")
-        csv <- read.csv(file = file, header = TRUE)
-        new_jobs_df <- rbind(new_jobs_df, csv)
-        completed_files <- append(completed_files, files[i])
+if (length(files) > 0){
+    for (i in 1:length(files)){
+        if (!files[i] %in% completed_files){
+            file <- paste(url_base, files[i], sep = "")
+            csv <- read.csv(file = file, header = TRUE)
+            new_jobs_df <- rbind(new_jobs_df, csv)
+            completed_files <- append(completed_files, files[i])
+        }
     }
+    file.copy(from = paste0(getwd(), "/", files),
+              to = paste0(getwd(), "/feeds-csv/", files))
+    file.remove(from = paste0(getwd(), "/", files))
 }
 
 new_jobs_df2 <- as.data.frame(matrix(nrow = 0, ncol = 10))
 files <- list.files(pattern = "_linkedin_.*csv$")
 
-for (i in 1:length(files)){
-    if (!(files[i] %in% completed_files)){
-        file <- paste(url_base, files[i], sep = "")
-        csv <- read.csv(file = file, header = TRUE)
-        new_jobs_df2 <- rbind(new_jobs_df2, csv)
-        completed_files <- append(completed_files, files[i])
+if (length(files) > 0){
+    for (i in 1:length(files)){
+        if (!files[i] %in% completed_files){
+            file <- paste(url_base, files[i], sep = "")
+            csv <- read.csv(file = file, header = TRUE)
+            new_jobs_df2 <- rbind(new_jobs_df2, csv)
+            completed_files <- append(completed_files, files[i])
+        }
     }
+    file.copy(from = paste0(getwd(), "/", files),
+              to = paste0(getwd(), "/feeds-csv/", files))
+    file.remove(from = paste0(getwd(), "/", files))
 }
 
 writeLines(completed_files, "completed_files.txt")
@@ -304,6 +314,9 @@ if (!("data_science_jobs_indeed_usa.csv" %in% completed_files)){
     }
     write("data_science_jobs_indeed_usa.csv", file = "completed_files.txt",
           append = TRUE)
+    file.copy(from = paste0(getwd(), "/data_science_jobs_indeed_usa.csv"),
+              to = paste0(getwd(), "/feeds-csv/data_science_jobs_indeed_usa.csv"))
+    file.remove(from = paste0(getwd(), "/data_science_jobs_indeed_usa.csv"))
 }
 
 ```

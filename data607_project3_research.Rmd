@@ -546,10 +546,39 @@ for (i in 1:length(topics)){
 ```{r}
 two_words <- c('machine learning', 'communication skills','business intelligence','data analysis','data engineering', 'data driven','software development','deep learning', 'data visualizations','data warehouse','data pipelines','sql server', 'data management','power bi', 'learning models','data quality', 'artificial intelligence', 'software engineering', 'data modeling', 'project management','data processing','data mining','programming languages', 'written communication','data models','ci cd','data models','financial services','information technology', 'natural language', 'cloud based', 'product development', 'language processing', 'visualization tools', 'verbal communication', 'information systems', 'statistical analysis', 'data collection','scikit learn', 'data warehousing', 'predictive models', 'product management', 'relational databases', 'interpersonal skills', 'ml models', 'team player', 'data architecture')
 
+programming <- append(programming ,c('scikit learn', 'software development', 'software engineering', 'data modeling', 'data mining', 'programming languages', 'data model', 'data models', 'ci cd'))
+
+presentation <- append(presentation, c('communication skills', 'data visualizations','power bi', 'visualization tools', 'verbal communication'))
+
+theoretical <- append(theoretical, c('machine learning', 'deep learning', 'learning models', 'artificial intelligence', 'natural language', 'language processing', 'information systems', 'statistical analysis', 'predictive models', 'ml models'))
+
+soft_skills <- append(soft_skills, c('written communication', 'interpersonal skills', 'team player'))
+
+data_storage <- append(data_storage, c('data engineering', 'data warehouse', 'data pipelines', 'sql server', 'data management', 'data quality', 'data processing','cloud based', 'data collection', 'data warehousing', 'relational databases', 'data architecture'))
+
+business_interest <- append(business_interest, c('business intelligence', 'data analysis', 'data driven', 'project management', 'financial services', 'information technology', 'product development', 'product management'))
+
 important_bigrams <- tidy_text_bigrams_analysis %>%
   filter(bigram %in% two_words)
 
 important_bigrams$topic <- replicate(nrow(important_bigrams), '')
+
+topics <- list(programming, presentation, theoretical, soft_skills,
+               data_storage, business_interest)
+
+names(topics) <- c("programming", "presentation", "theoretical", "soft_skills",
+                   "data_storage", "business_interest")
+
+for (i in 1:length(topics)){
+    for (j in 1:length(topics[[i]])){
+        top <- names(topics)[i]
+        wd <- topics[[i]][j]
+        row <- match(wd, important_bigrams$bigram)
+        if (!is.na(row)) {
+            important_bigrams[row, 8] <- top
+        }
+    }
+}
 ```
 
 ## Filtering for important trigrams
@@ -557,10 +586,39 @@ important_bigrams$topic <- replicate(nrow(important_bigrams), '')
 ```{r}
 three_words <- c('machine learning models','attention to detail','written communication skills', 'natural language processing', 'machine learning algorithums', 'machine learning techniques','fast paced environment', 'verbal communication skills', 'design and implement', 'data visualization tools', 'excellent communication skills','business intelligence tools','computer science mathematics', 'data driven decisions','subject matter expert', 'ability to write', 'computer science statistics', 'data driven insights', 'design and develop', 'design and implementation', 'development and implementation', 'experience with agile','experience with aws', 'experience with python', 'knowledge of sql', 'microsoft sql server')
 
+programming <- append(programming, c('experience with python'))
+
+presentation <- append(presentation, c('verbal communication skills', 'data visualization tools', 'excellent communication skills'))
+
+theoretical <- append(theoretical, c('machine learning models', 'natural language processing', 'machine learning algorithums', 'machine learning techniques','computer science mathematics','computer science statistics'))
+
+soft_skills <- append(soft_skills, c('attention to detail', 'written communication skills', 'fast paced environment', 'ability to write'))
+
+data_storage <- append(data_storage, c('experience with aws', 'microsoft sql server', 'knowledge of sql'))
+
+business_interest <- append(business_interest, c('design and implement', 'business intelligence tools', 'data driven decisions','subject matter expert','data driven insights', 'design and develop', 'design and implementation', 'development and implementation','experience with agile'))
+
 important_trigrams <- tidy_text_trigrams_analysis %>%
   filter(trigram %in% three_words)
 
 important_trigrams$topic <- replicate(nrow(important_trigrams), '')
+
+topics <- list(programming, presentation, theoretical, soft_skills,
+               data_storage, business_interest)
+
+names(topics) <- c("programming", "presentation", "theoretical", "soft_skills",
+                   "data_storage", "business_interest")
+
+for (i in 1:length(topics)){
+    for (j in 1:length(topics[[i]])){
+        top <- names(topics)[i]
+        wd <- topics[[i]][j]
+        row <- match(wd, important_trigrams$trigram)
+        if (!is.na(row)) {
+            important_trigrams[row, 8] <- top
+        }
+    }
+}
 ```
 
 ## Historical Analysis:

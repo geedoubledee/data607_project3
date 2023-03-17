@@ -26,7 +26,7 @@ library(RColorBrewer)
 library(DT)
 library(wordcloud)
 library(MCDA)
-
+library(arsenal)
 ```
 
 ## Research Question: 
@@ -389,11 +389,55 @@ write.csv(text_df, "text_df.csv", row.names = FALSE)
 
 We calculated how many times a word, bigram, or trigram occurred across all job listings, as well as how many job listings that word occurred in. We called the first metric **term_freq**, and we called the second metric **doc_count**. We normalized both metrics on a scale from 0 to 1, and we recorded a third metric as the sum of those normalizations: **tf_df_norm_sum**. This third metric was needed so that we could make decisions about a term's importance that accounted for both a term's frequency across all job listings and the number of job listings it appeared in, not just one or the other. It allowed us to sort and rank terms properly, and reduced the amount of clutter we needed to look through to make a compelling selection of skills that are most valuable in data science. 
 
+
+
+
+```{r}
+text_df_clean <- text_df
+text_df_clean[, 1] <- tolower(text_df_clean[, 1])
+text_df_clean %<>%
+    filter(Text != "")
+```
+
+
+```{r}
+text_df_clean$Text <- str_replace_all(text_df_clean$Text, "[^[:alnum:]]", " ")
+```
+
+```{r}
+text_df_clean$Text <- iconv(text_df_clean$Text, from='', to="ASCII//TRANSLIT")
+```
+
+
+
+```{r}
+#text_df_clean$Text <- strsplit(gsub("[^[:alnum:] ]", "", text_df_clean), " +")[[1]]
+```
+
+
+
+```{r}
+#text_df_clean$Text <- str_split(str_squish((str_replace_all(text_df_clean$Text, regex("\\W+"), " "))), " ")
+```
+
+
+
+
+```{r}
+#text_df
+#text_df2 <- iconv(text_df$Text, from = 'UTF-8', to = 'ASCII//TRANSLIT') #removes 
+#text_df1 <- str_replace_all(text_df$Text, "[[:punct:]]", " ")
+#str_replace_all(text_df$Text, "[^[:alnum:]]"," ") #removes non-alphanumeric
+```
+
+
+
 ```{r tidytext_analysis}
 text_df_clean <- text_df
 text_df_clean[, 1] <- tolower(text_df_clean[, 1])
 text_df_clean %<>%
     filter(Text != "")
+text_df_clean$Text <- str_replace_all(text_df_clean$Text, "[^[:alnum:]]", " ")
 
 tidy_text_df_words <- text_df_clean %>%
     unnest_tokens(word, Text)
@@ -674,3 +718,106 @@ historical_text_trigrams_analysis %>%
     with(wordcloud(trigram, doc_count, max.words = 50))
 
 ```
+
+
+## Filtering For Historical Important Single Words
+
+```{r}
+single_words <- c('sql','python','product','models','communication','cloud','research','customer','database','stakeholders','modeling','ml','r','programming','clients','ai', 'statistics', 'reporting','aws','leadership', 'operations','collaborate', 'algorithms','marketing', 'bi','visualization','tableau','mathematics','dashboards','optimization','datasets','java','oracle')
+
+programming <- c('python', 'r', 'java', 'programming')
+
+presentation <- c('clients','customer','communication', 'reporting','dashboards', 'tableau', 'visualization', 'bi', 'stakeholders')
+
+theoretical <- c('statistics', 'mathematics', 'algorithms', 'ai', 'optimization', 'research', 'modeling', 'models', 'ml')
+
+soft_skills <- c('collaborate', 'leadership', 'product')
+
+data_storage <- c('cloud', 'aws', 'datasets', 'database', 'oracle', 'sql')
+
+business_interest <- c('marketing', 'product', 'operations')
+
+topics <- list(programming, presentation, theoretical, soft_skills,
+               data_storage, business_interest)
+names(topics) <- c("programming", "presentation", "theoretical", "soft_skills",
+                   "data_storage", "business_interest")
+
+historical_important_single_words <- historical_text_words_analysis %>%
+  filter(word %in% single_words)
+
+historical_important_single_words$topic <- replicate(nrow(historical_important_single_words), '')
+
+for (i in 1:length(topics)){
+    for (j in 1:length(topics[[i]])){
+        top <- names(topics)[i]
+        wd <- topics[[i]][j]
+        row <- match(wd, historical_important_single_words$word)
+        important_single_words[row, 8] <- top
+    }
+}
+
+```
+
+
+## Filtering For Historical Important Bigrams
+
+
+```{r}
+two_words <- c('machine learning', 'communication skills','business intelligence','data analysis','data engineering', 'data driven','software development','deep learning', 'data visualizations','data warehouse','data pipelines','sql server', 'data management','power bi', 'learning models','data quality', 'artificial intelligence', 'software engineering', 'data modeling', 'project management','data processing','data mining','programming languages', 'written communication','data models','ci cd','data models','financial services','information technology', 'natural language', 'cloud based', 'product development', 'language processing', 'visualization tools', 'verbal communication', 'information systems', 'statistical analysis', 'data collection','scikit learn', 'data warehousing', 'predictive models', 'product management', 'relational databases', 'interpersonal skills', 'ml models', 'team player', 'data architecture')
+
+historical_important_bigrams <- historical_text_bigrams_analysis %>%
+  filter(bigram %in% two_words)
+
+historical_important_bigrams$topic <- replicate(nrow(historical_important_bigrams), '')
+```
+
+
+
+## Filtering For Historical Important Trigrams
+
+```{r}
+three_words <- c('machine learning models','attention to detail','written communication skills', 'natural language processing', 'machine learning algorithums', 'machine learning techniques','fast paced environment', 'verbal communication skills', 'design and implement', 'data visualization tools', 'excellent communication skills','business intelligence tools','computer science mathematics', 'data driven decisions','subject matter expert', 'ability to write', 'computer science statistics', 'data driven insights', 'design and develop', 'design and implementation', 'development and implementation', 'experience with agile','experience with aws', 'experience with python', 'knowledge of sql', 'microsoft sql server')
+
+historical_important_trigrams <- historical_text_trigrams_analysis %>%
+  filter(trigram %in% three_words)
+
+historical_important_trigrams$topic <- replicate(nrow(historical_important_trigrams), '')
+```
+
+
+```{r}
+important_single_words
+```
+
+```{r}
+historical_important_single_words
+```
+
+
+## Comparing Important Single Words and Historical Important Single Words
+
+
+
+```{r}
+summary(comparedf(historical_important_single_words, important_single_words, by="word"))
+```
+
+
+## Comparing Important Bigrams and Historical Important Bigrams
+
+
+
+```{r}
+summary(comparedf(historical_important_bigrams, important_bigrams, by='bigram'))
+```
+
+
+## Comparing Important Trigrams and Historical Important Trigrams
+
+
+
+
+```{r}
+summary(comparedf(historical_important_trigrams, important_trigrams,by='trigram'))
+```
+

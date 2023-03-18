@@ -746,190 +746,31 @@ historical_text_trigrams_analysis %>%
 
 ```
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## Comparative Analysis
-
-Borrowed R scripts from Coco and Mo to do comparative analysis.
+## Data Cleaning on Text DF
 
 ```{r}
+# load packages
+library(tidyverse)
+library(magrittr)
+library(DBI)
+library(dbplyr)
+library(RMariaDB)
+library(data.table)
+library(stopwords)
+library(tidytext)
+library(RColorBrewer)
+library(DT)
+library(wordcloud)
+
+
 # read text_df and data cleaning attempt
 text_df_url <-"https://raw.githubusercontent.com/geedoubledee/data607_project3/main/text_df.csv"
 text_data <- read.csv(text_df_url)
 
-head(text_data, 10)
+text_data1 <- sapply(text_data$Text, function(x) str_replace_all(x, "[^[:alnum:]]", " "))
+text_data2 <- sapply(text_data1, function(y) str_replace_all(y, "[[:punct:]]", " "))
+text_data3 <- sapply(text_data2, function (z) str_replace_all(z, "[^A-Za-z]", " "))
 
-text_data1 <- str_replace_all(text_data, "[^[:alnum:]]", "")
-text_data2 <- str_replace_all(text_data1, "[[:punct:]]", "")
+text_new_data <- cbind(text_data3, text_data[,2:3])
 
-head(text_data2)
-# Coco's R script
-text_df_clean <- text_data2
-text_df_clean[, 1] <- tolower(text_df_clean[, 1])
-text_df_clean %<>%
-    filter(Text != "")
-
-tidy_text_df_words <- text_df_clean %>%
-    unnest_tokens(word, Text)
-
-tidy_text_words_analysis <- tidy_text_df_words %>%
-    anti_join(get_stopwords()) %>%
-    group_by(word) %>%
-    summarize(term_freq = n(),
-              doc_count = n_distinct(Job_id),
-              tf_dc_score = round((term_freq * doc_count / 1000000), 3)) %>%
-    arrange(desc(tf_dc_score))
-
-performanceTable <- tidy_text_words_analysis[, 2:3]
-normalizationTypes = c("rescaling", "rescaling")
-norm <- as.data.frame(normalizePerformanceTable(performanceTable,
-                                                normalizationTypes))
-cols <- c("tf_norm", "dc_norm")
-colnames(norm) <- cols
-norm %<>%
-    mutate(tf_dc_norm_sum = tf_norm + dc_norm)
-tidy_text_words_analysis <- cbind(tidy_text_words_analysis, norm)
-tidy_text_words_analysis <- tidy_text_words_analysis[c("word", "term_freq",
-                                                       "tf_norm",
-                                                       "doc_count",
-                                                       "dc_norm", 
-                                                       "tf_dc_score",
-                                                       "tf_dc_norm_sum")]
-
-datatable(head(tidy_text_words_analysis, options = list(pageLength = 25), n = 250))
-
-tidy_text_words_analysis %>%
-    with(wordcloud(word, doc_count, max.words = 50))
-
-tidy_text_df_bigrams <- text_df_clean %>%
-    unnest_tokens(bigram, Text, token = "ngrams", n = 2)
-
-tidy_text_bigrams_analysis <- tidy_text_df_bigrams %>%
-    separate(bigram, into = c("first","second"),
-             sep = " ", remove = FALSE) %>%
-    anti_join(stop_words, by = c("first" = "word")) %>%
-    anti_join(stop_words, by = c("second" = "word")) %>%
-    group_by(bigram) %>%
-    summarize(term_freq = n(),
-              doc_count = n_distinct(Job_id),
-              tf_dc_score = round((term_freq * doc_count / 1000000), 3)) %>%
-    filter(!is.na(bigram)) %>%
-    arrange(desc(tf_dc_score))
-
-performanceTable <- tidy_text_bigrams_analysis[, 2:3]
-normalizationTypes = c("rescaling", "rescaling")
-norm <- as.data.frame(normalizePerformanceTable(performanceTable,
-                                                      normalizationTypes))
-cols <- c("tf_norm", "dc_norm")
-colnames(norm) <- cols
-norm %<>%
-    mutate(tf_dc_norm_sum = tf_norm + dc_norm)
-tidy_text_bigrams_analysis <- cbind(tidy_text_bigrams_analysis, norm)
-tidy_text_bigrams_analysis <- tidy_text_bigrams_analysis[c("bigram",
-                                                           "term_freq",
-                                                           "tf_norm",
-                                                           "doc_count",
-                                                           "dc_norm", 
-                                                           "tf_dc_score",
-                                                           "tf_dc_norm_sum")]
-
-datatable(head(tidy_text_bigrams_analysis, options = list(pageLength = 25), n = 250))
-
-tidy_text_bigrams_analysis %>%
-    with(wordcloud(bigram, doc_count, max.words = 50))
-
-tidy_text_df_trigrams <- text_df_clean %>%
-    unnest_tokens(trigram, Text, token = "ngrams", n = 3)
-
-tidy_text_trigrams_analysis <- tidy_text_df_trigrams %>%
-    separate(trigram, into = c("first","second","third"),
-             sep = " ", remove = FALSE) %>%
-    anti_join(stop_words, by = c("first" = "word")) %>%
-    anti_join(stop_words, by = c("third" = "word")) %>%
-    group_by(trigram) %>%
-    summarize(term_freq = n(),
-              doc_count = n_distinct(Job_id),
-              tf_dc_score = round((term_freq * doc_count / 1000000), 3)) %>%
-    filter(!is.na(trigram)) %>%
-    arrange(desc(tf_dc_score))
-
-performanceTable <- tidy_text_trigrams_analysis[, 2:3]
-normalizationTypes = c("rescaling", "rescaling")
-norm <- as.data.frame(normalizePerformanceTable(performanceTable,
-                                                      normalizationTypes))
-cols <- c("tf_norm", "dc_norm")
-colnames(norm) <- cols
-norm %<>%
-    mutate(tf_dc_norm_sum = tf_norm + dc_norm)
-tidy_text_trigrams_analysis <- cbind(tidy_text_trigrams_analysis, norm)
-tidy_text_trigrams_analysis <- tidy_text_trigrams_analysis[c("trigram",
-                                                           "term_freq",
-                                                           "tf_norm",
-                                                           "doc_count",
-                                                           "dc_norm", 
-                                                           "tf_dc_score",
-                                                           "tf_dc_norm_sum")]
-
-datatable(head(tidy_text_trigrams_analysis, options = list(pageLength = 25), n = 250))
-
-tidy_text_trigrams_analysis %>%
-    with(wordcloud(trigram, doc_count, max.words = 50))
-
-#data view on current job data
-head(tidy_text_words_analysis, 10)
-head(tidy_text_bigrams_analysis, 10)
-head(tidy_text_trigrams_analysis, 10)
-
-# Comparative Check on both data
-
-
-```
+#write.csv(text_new_data, "text_data_test.csv", row.names = FALSE)

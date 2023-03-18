@@ -1,0 +1,30 @@
+---
+title: "data_cleaning"
+author: "Eddie Xu"
+date: "2023-03-18"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Data Cleaning
+
+```{r}
+# load library
+library(tidyverse)
+library(tidytext)
+
+# read text_df and data cleaning attempt
+text_df_url <-"https://raw.githubusercontent.com/geedoubledee/data607_project3/main/text_df.csv"
+text_data <- read.csv(text_df_url)
+head(text_data)
+
+text_data1 <- lapply(text_data, function(x) str_replace_all(x, "[^[:alnum:]]", ""))
+text_data2 <- lapply(text_data1, function(y) str_replace_all(y, "[[:punct:]]", ""))
+text_data3 <- lapply(text_data2, function (z) str_replace_all(z, "[^A-Za-z]", ""))
+
+head(text_data3)
+
+```

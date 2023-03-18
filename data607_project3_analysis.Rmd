@@ -24,7 +24,8 @@ library(RColorBrewer)
 library(DT)
 library(wordcloud)
 library(MCDA)
-
+library(arsenal)
+library(hrbrthemes)
 ```
 
 ## Data Cleaning on Text DF
@@ -394,6 +395,25 @@ for (i in 1:length(topics)){
 
 ## Filtering on Historical important single words 
 ```{r}
+single_words <- c('sql','python','product','models','communication','cloud','research','customer','database','stakeholders','modeling','ml','r','programming','clients','ai', 'statistics', 'reporting','aws','leadership', 'operations','collaborate', 'algorithms','marketing', 'bi','visualization','tableau','mathematics','dashboards','optimization','datasets','java','oracle')
+
+programming <- c('python', 'r', 'java', 'programming')
+
+presentation <- c('clients','customer','communication', 'reporting','dashboards', 'tableau', 'visualization', 'bi', 'stakeholders')
+
+theoretical <- c('statistics', 'mathematics', 'algorithms', 'ai', 'optimization', 'research', 'modeling', 'models', 'ml')
+
+soft_skills <- c('collaborate', 'leadership', 'product')
+
+data_storage <- c('cloud', 'aws', 'datasets', 'database', 'oracle', 'sql')
+
+business_interest <- c('marketing', 'product', 'operations')
+
+topics <- list(programming, presentation, theoretical, soft_skills,
+               data_storage, business_interest)
+names(topics) <- c("programming", "presentation", "theoretical", "soft_skills",
+                   "data_storage", "business_interest")
+
 historical_important_single_words <- historical_text_words_analysis %>%
   filter(word %in% single_words)
 
@@ -430,18 +450,26 @@ head(important_trigrams)
 
 ## Chart
 ```{r}
+#
+single_words_comparsion <- merge(subset(important_single_words, select = c("word", "tf_dc_score")), subset(historical_important_single_words, select = c("word", "tf_dc_score")), by = "word")
+
+colnames(single_words_comparsion) <- c("word", "current_tf_dc_score", "historical_tf_dc_score")
+
 # important single words
-single_topics_10 <- important_single_words %>%
-  arrange(desc(tf_dc_score)) %>%
+single_words_10 <- single_words_comparsion %>%
+  arrange(desc(current_tf_dc_score)) %>%
   slice(1:10)
 
 # lolipop chart
-ggplot(data = single_words_10, aes(x= `word`, y = `tf_dc_score`)) +
-  geom_segment(aes(x = reorder(`word`, `tf_dc_score`), xend = reorder(`word`, `tf_dc_score`), y = 0, yend = `tf_dc_score`),
-               color = "gray", lwd = 1) +
-  geom_point(size = 7.5, pch = 21, bg = 4, col = 1) +
-  geom_text(aes(label = `tf_dc_score`), color = "black", size = 2.25) +
-  scale_x_discrete(labels = `word`) +
+ggplot(data = single_words_10) +
+  geom_segment(aes(x = reorder(word, current_tf_dc_score), xend = reorder(word, current_tf_dc_score), y = current_tf_dc_score, yend = `historical_tf_dc_score`), color = "gray", lwd = 1) +
+  geom_point(aes(x=word, y = current_tf_dc_score), color=rgb(0.2,0.7,0.1,0.5), size=8) +
+  geom_point( aes(x= word, y = historical_tf_dc_score), color=rgb(0.7,0.2,0.1,0.5), size=8) +
+  geom_text(aes(x=word, y = current_tf_dc_score, label = current_tf_dc_score), color = "black", size = 2) +
+  geom_text(aes(x=word, y = historical_tf_dc_score, label = historical_tf_dc_score), color = "black", size = 2) +
+  scale_x_discrete(labels = word) +
   coord_flip() +
-  theme_minimal()
+  theme_minimal() +
+  labs(title = "Single Words Score", x = "Single Words", y = "Score")
+
 ```

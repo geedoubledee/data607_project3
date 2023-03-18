@@ -745,32 +745,3 @@ historical_text_trigrams_analysis %>%
     with(wordcloud(trigram, doc_count, max.words = 50))
 
 ```
-
-## Data Cleaning on Text DF
-
-```{r}
-# load packages
-library(tidyverse)
-library(magrittr)
-library(DBI)
-library(dbplyr)
-library(RMariaDB)
-library(data.table)
-library(stopwords)
-library(tidytext)
-library(RColorBrewer)
-library(DT)
-library(wordcloud)
-
-
-# read text_df and data cleaning attempt
-text_df_url <-"https://raw.githubusercontent.com/geedoubledee/data607_project3/main/text_df.csv"
-text_data <- read.csv(text_df_url)
-
-text_data1 <- sapply(text_data$Text, function(x) str_replace_all(x, "[^[:alnum:]]", " "))
-text_data2 <- sapply(text_data1, function(y) str_replace_all(y, "[[:punct:]]", " "))
-text_data3 <- sapply(text_data2, function (z) str_replace_all(z, "[^A-Za-z]", " "))
-
-text_new_data <- cbind(text_data3, text_data[,2:3])
-
-#write.csv(text_new_data, "text_data_test.csv", row.names = FALSE)

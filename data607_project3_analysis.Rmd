@@ -1,0 +1,475 @@
+---
+title: "Data607_project3_analysis"
+author: "Glen Dale Davis, Coco Donovan, Alex Khaykin, Mohamed Hassan-El Serafi, Eddie Xu"
+output: html_document
+date: "2023-03-18"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+
+```{r packages, warning = FALSE, message = FALSE}
+library(tidyverse)
+library(magrittr)
+library(DBI)
+library(dbplyr)
+library(RMariaDB)
+library(data.table)
+library(stopwords)
+library(tidytext)
+library(RColorBrewer)
+library(DT)
+library(wordcloud)
+library(MCDA)
+library(arsenal)
+library(hrbrthemes)
+```
+
+## Data Cleaning on Text DF
+
+```{r}
+# read text_df and data cleaning attempt
+text_df_url <-"https://raw.githubusercontent.com/geedoubledee/data607_project3/main/text_df.csv"
+text_data <- read.csv(text_df_url)
+
+text_data1 <- sapply(text_data$Text, function(x) str_replace_all(x, "[^[:alnum:]]", " "))
+text_data2 <- sapply(text_data1, function(y) str_replace_all(y, "[[:punct:]]", " "))
+text_data3 <- sapply(text_data2, function (z) str_replace_all(z, "[^A-Za-z]", " "))
+
+text_new_data <- cbind(text_data3, text_data[,2:3])
+
+colnames(text_new_data)[1] <- "Text"
+
+#head(text_new_data)
+#write.csv(text_new_data, "text_data_test.csv", row.names = FALSE)
+```
+
+## Coco R Code
+```{r tidytext_analysis}
+text_df_clean <- text_new_data
+text_df_clean[, 1] <- tolower(text_df_clean[, 1])
+text_df_clean %<>%
+    filter(Text != "")
+
+tidy_text_df_words <- text_df_clean %>%
+    unnest_tokens(word, Text)
+
+tidy_text_words_analysis <- tidy_text_df_words %>%
+    anti_join(get_stopwords()) %>%
+    group_by(word) %>%
+    summarize(term_freq = n(),
+              doc_count = n_distinct(Job_id),
+              tf_dc_score = round((term_freq * doc_count / 1000000), 3)) %>%
+    arrange(desc(tf_dc_score))
+
+performanceTable <- tidy_text_words_analysis[, 2:3]
+normalizationTypes = c("rescaling", "rescaling")
+norm <- as.data.frame(normalizePerformanceTable(performanceTable,
+                                                normalizationTypes))
+cols <- c("tf_norm", "dc_norm")
+colnames(norm) <- cols
+norm %<>%
+    mutate(tf_dc_norm_sum = tf_norm + dc_norm)
+tidy_text_words_analysis <- cbind(tidy_text_words_analysis, norm)
+tidy_text_words_analysis <- tidy_text_words_analysis[c("word", "term_freq",
+                                                       "tf_norm",
+                                                       "doc_count",
+                                                       "dc_norm", 
+                                                       "tf_dc_score",
+                                                       "tf_dc_norm_sum")]
+
+datatable(head(tidy_text_words_analysis, options = list(pageLength = 25), n = 250))
+
+tidy_text_words_analysis %>%
+    with(wordcloud(word, doc_count, max.words = 50))
+
+tidy_text_df_bigrams <- text_df_clean %>%
+    unnest_tokens(bigram, Text, token = "ngrams", n = 2)
+
+tidy_text_bigrams_analysis <- tidy_text_df_bigrams %>%
+    separate(bigram, into = c("first","second"),
+             sep = " ", remove = FALSE) %>%
+    anti_join(stop_words, by = c("first" = "word")) %>%
+    anti_join(stop_words, by = c("second" = "word")) %>%
+    group_by(bigram) %>%
+    summarize(term_freq = n(),
+              doc_count = n_distinct(Job_id),
+              tf_dc_score = round((term_freq * doc_count / 1000000), 3)) %>%
+    filter(!is.na(bigram)) %>%
+    arrange(desc(tf_dc_score))
+
+performanceTable <- tidy_text_bigrams_analysis[, 2:3]
+normalizationTypes = c("rescaling", "rescaling")
+norm <- as.data.frame(normalizePerformanceTable(performanceTable,
+                                                      normalizationTypes))
+cols <- c("tf_norm", "dc_norm")
+colnames(norm) <- cols
+norm %<>%
+    mutate(tf_dc_norm_sum = tf_norm + dc_norm)
+tidy_text_bigrams_analysis <- cbind(tidy_text_bigrams_analysis, norm)
+tidy_text_bigrams_analysis <- tidy_text_bigrams_analysis[c("bigram",
+                                                           "term_freq",
+                                                           "tf_norm",
+                                                           "doc_count",
+                                                           "dc_norm", 
+                                                           "tf_dc_score",
+                                                           "tf_dc_norm_sum")]
+
+datatable(head(tidy_text_bigrams_analysis, options = list(pageLength = 25), n = 250))
+
+tidy_text_bigrams_analysis %>%
+    with(wordcloud(bigram, doc_count, max.words = 50))
+
+tidy_text_df_trigrams <- text_df_clean %>%
+    unnest_tokens(trigram, Text, token = "ngrams", n = 3)
+
+tidy_text_trigrams_analysis <- tidy_text_df_trigrams %>%
+    separate(trigram, into = c("first","second","third"),
+             sep = " ", remove = FALSE) %>%
+    anti_join(stop_words, by = c("first" = "word")) %>%
+    anti_join(stop_words, by = c("third" = "word")) %>%
+    group_by(trigram) %>%
+    summarize(term_freq = n(),
+              doc_count = n_distinct(Job_id),
+              tf_dc_score = round((term_freq * doc_count / 1000000), 3)) %>%
+    filter(!is.na(trigram)) %>%
+    arrange(desc(tf_dc_score))
+
+performanceTable <- tidy_text_trigrams_analysis[, 2:3]
+normalizationTypes = c("rescaling", "rescaling")
+norm <- as.data.frame(normalizePerformanceTable(performanceTable,
+                                                      normalizationTypes))
+cols <- c("tf_norm", "dc_norm")
+colnames(norm) <- cols
+norm %<>%
+    mutate(tf_dc_norm_sum = tf_norm + dc_norm)
+tidy_text_trigrams_analysis <- cbind(tidy_text_trigrams_analysis, norm)
+tidy_text_trigrams_analysis <- tidy_text_trigrams_analysis[c("trigram",
+                                                           "term_freq",
+                                                           "tf_norm",
+                                                           "doc_count",
+                                                           "dc_norm", 
+                                                           "tf_dc_score",
+                                                           "tf_dc_norm_sum")]
+
+datatable(head(tidy_text_trigrams_analysis, options = list(pageLength = 25), n = 250))
+
+tidy_text_trigrams_analysis %>%
+    with(wordcloud(trigram, doc_count, max.words = 50))
+
+```
+
+## Mo Script
+```{r historical}
+historical_df <- read.csv("https://raw.githubusercontent.com/geedoubledee/data607_project3/main/DataScientist.csv")
+historical_text_df <- subset(historical_df, select = c(Job.Description,
+                                                       index))
+colnames(historical_text_df) <- c("Text", "Job_id")
+historical_text_df_clean <- historical_text_df
+historical_text_df_clean[, 1] <- tolower(historical_text_df_clean[, 1])
+
+historical_text_words <- historical_text_df_clean %>%
+    unnest_tokens(word, Text)
+
+historical_text_words_analysis <- historical_text_words %>%
+    anti_join(get_stopwords()) %>%
+    group_by(word) %>%
+    summarize(term_freq = n(),
+              doc_count = n_distinct(Job_id),
+              tf_dc_score = round((term_freq * doc_count / 1000000), 3)) %>%
+    arrange(desc(tf_dc_score))
+
+performanceTable <- historical_text_words_analysis[, 2:3]
+normalizationTypes = c("rescaling", "rescaling")
+norm <- as.data.frame(normalizePerformanceTable(performanceTable,
+                                                normalizationTypes))
+cols <- c("tf_norm", "dc_norm")
+colnames(norm) <- cols
+norm %<>%
+    mutate(tf_dc_norm_sum = tf_norm + dc_norm)
+historical_text_words_analysis <- cbind(historical_text_words_analysis, norm)
+historical_text_words_analysis <- historical_text_words_analysis[
+    c("word", "term_freq", "tf_norm", "doc_count", "dc_norm",
+      "tf_dc_score", "tf_dc_norm_sum")]
+    
+datatable(head(historical_text_words_analysis,
+               options = list(pageLength = 25),n = 250))
+
+historical_text_words_analysis %>%
+    with(wordcloud(word, doc_count, max.words = 50))
+
+historical_text_bigrams <- historical_text_df_clean %>%
+    unnest_tokens(bigram, Text, token = "ngrams", n = 2)
+
+historical_text_bigrams_analysis <- historical_text_bigrams %>%
+    separate(bigram, into = c("first","second"),
+             sep = " ", remove = FALSE) %>%
+    anti_join(stop_words, by = c("first" = "word")) %>%
+    anti_join(stop_words, by = c("second" = "word")) %>%
+    group_by(bigram) %>%
+    summarize(term_freq = n(),
+              doc_count = n_distinct(Job_id),
+              tf_dc_score = round((term_freq * doc_count / 1000000), 3)) %>%
+    filter(!is.na(bigram)) %>%
+    arrange(desc(tf_dc_score))
+
+performanceTable <- historical_text_bigrams_analysis[, 2:3]
+normalizationTypes = c("rescaling", "rescaling")
+norm <- as.data.frame(normalizePerformanceTable(performanceTable,
+                                                      normalizationTypes))
+cols <- c("tf_norm", "dc_norm")
+colnames(norm) <- cols
+norm %<>%
+    mutate(tf_dc_norm_sum = tf_norm + dc_norm)
+historical_text_bigrams_analysis <- cbind(historical_text_bigrams_analysis,
+                                          norm)
+historical_text_bigrams_analysis <- historical_text_bigrams_analysis[
+    c("bigram", "term_freq", "tf_norm", "doc_count", "dc_norm",
+      "tf_dc_score", "tf_dc_norm_sum")]
+
+datatable(head(historical_text_bigrams_analysis,
+               options = list(pageLength = 25), n = 250))
+
+historical_text_bigrams_analysis %>%
+    with(wordcloud(bigram, doc_count, max.words = 50))
+
+historical_text_trigrams <- historical_text_df_clean %>%
+    unnest_tokens(trigram, Text, token = "ngrams", n = 3)
+
+historical_text_trigrams_analysis <- historical_text_trigrams %>%
+    separate(trigram, into = c("first","second","third"),
+             sep = " ", remove = FALSE) %>%
+    anti_join(stop_words, by = c("first" = "word")) %>%
+    anti_join(stop_words, by = c("third" = "word")) %>%
+    group_by(trigram) %>%
+    summarize(term_freq = n(),
+              doc_count = n_distinct(Job_id),
+              tf_dc_score = round((term_freq * doc_count / 1000000), 3)) %>%
+    filter(!is.na(trigram)) %>%
+    arrange(desc(tf_dc_score))
+
+performanceTable <- historical_text_trigrams_analysis[, 2:3]
+normalizationTypes = c("rescaling", "rescaling")
+norm <- as.data.frame(normalizePerformanceTable(performanceTable,
+                                                      normalizationTypes))
+cols <- c("tf_norm", "dc_norm")
+colnames(norm) <- cols
+norm %<>%
+    mutate(tf_dc_norm_sum = tf_norm + dc_norm)
+historical_text_trigrams_analysis <- cbind(historical_text_trigrams_analysis,
+                                           norm)
+historical_text_trigrams_analysis <- historical_text_trigrams_analysis[
+    c("trigram", "term_freq", "tf_norm", "doc_count", "dc_norm",
+      "tf_dc_score", "tf_dc_norm_sum")]
+
+datatable(head(historical_text_trigrams_analysis,
+               options = list(pageLength = 25), n = 250))
+
+historical_text_trigrams_analysis %>%
+    with(wordcloud(trigram, doc_count, max.words = 50))
+```
+
+
+
+## Filtering for important single words
+
+```{r}
+single_words <- c('sql','python','product','models','communication','cloud','research','customer','database','stakeholders','modeling','ml','r','programming','clients','ai', 'statistics', 'reporting','aws','leadership', 'operations','collaborate', 'algorithms','marketing', 'bi','visualization','tableau','mathematics','dashboards','optimization','datasets','java','oracle')
+
+programming <- c('python', 'r', 'java', 'programming')
+
+presentation <- c('clients','customer','communication', 'reporting','dashboards', 'tableau', 'visualization', 'bi', 'stakeholders')
+
+theoretical <- c('statistics', 'mathematics', 'algorithms', 'ai', 'optimization', 'research', 'modeling', 'models', 'ml')
+
+soft_skills <- c('collaborate', 'leadership', 'product')
+
+data_storage <- c('cloud', 'aws', 'datasets', 'database', 'oracle', 'sql')
+
+business_interest <- c('marketing', 'product', 'operations')
+
+topics <- list(programming, presentation, theoretical, soft_skills,
+               data_storage, business_interest)
+names(topics) <- c("programming", "presentation", "theoretical", "soft_skills",
+                   "data_storage", "business_interest")
+
+important_single_words <- tidy_text_words_analysis %>%
+  filter(word %in% single_words)
+
+important_single_words$topic <- replicate(nrow(important_single_words), '')
+
+for (i in 1:length(topics)){
+    for (j in 1:length(topics[[i]])){
+        top <- names(topics)[i]
+        wd <- topics[[i]][j]
+        row <- match(wd, important_single_words$word)
+        important_single_words[row, 8] <- top
+    }
+}
+
+```
+
+## Filtering for important bigrams
+
+```{r}
+two_words <- c('machine learning', 'communication skills','business intelligence','data analysis','data engineering', 'data driven','software development','deep learning', 'data visualizations','data warehouse','data pipelines','sql server', 'data management','power bi', 'learning models','data quality', 'artificial intelligence', 'software engineering', 'data modeling', 'project management','data processing','data mining','programming languages', 'written communication','data models','ci cd','data models','financial services','information technology', 'natural language', 'cloud based', 'product development', 'language processing', 'visualization tools', 'verbal communication', 'information systems', 'statistical analysis', 'data collection','scikit learn', 'data warehousing', 'predictive models', 'product management', 'relational databases', 'interpersonal skills', 'ml models', 'team player', 'data architecture')
+
+programming <- append(programming ,c('scikit learn', 'software development', 'software engineering', 'data modeling', 'data mining', 'programming languages', 'data model', 'data models', 'ci cd'))
+
+presentation <- append(presentation, c('communication skills', 'data visualizations','power bi', 'visualization tools', 'verbal communication'))
+
+theoretical <- append(theoretical, c('machine learning', 'deep learning', 'learning models', 'artificial intelligence', 'natural language', 'language processing', 'information systems', 'statistical analysis', 'predictive models', 'ml models'))
+
+soft_skills <- append(soft_skills, c('written communication', 'interpersonal skills', 'team player'))
+
+data_storage <- append(data_storage, c('data engineering', 'data warehouse', 'data pipelines', 'sql server', 'data management', 'data quality', 'data processing','cloud based', 'data collection', 'data warehousing', 'relational databases', 'data architecture'))
+
+business_interest <- append(business_interest, c('business intelligence', 'data analysis', 'data driven', 'project management', 'financial services', 'information technology', 'product development', 'product management'))
+
+important_bigrams <- tidy_text_bigrams_analysis %>%
+  filter(bigram %in% two_words)
+
+important_bigrams$topic <- replicate(nrow(important_bigrams), '')
+
+topics <- list(programming, presentation, theoretical, soft_skills,
+               data_storage, business_interest)
+
+names(topics) <- c("programming", "presentation", "theoretical", "soft_skills",
+                   "data_storage", "business_interest")
+
+for (i in 1:length(topics)){
+    for (j in 1:length(topics[[i]])){
+        top <- names(topics)[i]
+        wd <- topics[[i]][j]
+        row <- match(wd, important_bigrams$bigram)
+        if (!is.na(row)) {
+            important_bigrams[row, 8] <- top
+        }
+    }
+}
+```
+
+## Filtering for important trigrams
+
+```{r}
+three_words <- c('machine learning models','attention to detail','written communication skills', 'natural language processing', 'machine learning algorithums', 'machine learning techniques','fast paced environment', 'verbal communication skills', 'design and implement', 'data visualization tools', 'excellent communication skills','business intelligence tools','computer science mathematics', 'data driven decisions','subject matter expert', 'ability to write', 'computer science statistics', 'data driven insights', 'design and develop', 'design and implementation', 'development and implementation', 'experience with agile','experience with aws', 'experience with python', 'knowledge of sql', 'microsoft sql server')
+
+programming <- append(programming, c('experience with python'))
+
+presentation <- append(presentation, c('verbal communication skills', 'data visualization tools', 'excellent communication skills'))
+
+theoretical <- append(theoretical, c('machine learning models', 'natural language processing', 'machine learning algorithums', 'machine learning techniques','computer science mathematics','computer science statistics'))
+
+soft_skills <- append(soft_skills, c('attention to detail', 'written communication skills', 'fast paced environment', 'ability to write'))
+
+data_storage <- append(data_storage, c('experience with aws', 'microsoft sql server', 'knowledge of sql'))
+
+business_interest <- append(business_interest, c('design and implement', 'business intelligence tools', 'data driven decisions','subject matter expert','data driven insights', 'design and develop', 'design and implementation', 'development and implementation','experience with agile'))
+
+important_trigrams <- tidy_text_trigrams_analysis %>%
+  filter(trigram %in% three_words)
+
+important_trigrams$topic <- replicate(nrow(important_trigrams), '')
+
+topics <- list(programming, presentation, theoretical, soft_skills,
+               data_storage, business_interest)
+
+names(topics) <- c("programming", "presentation", "theoretical", "soft_skills",
+                   "data_storage", "business_interest")
+
+for (i in 1:length(topics)){
+    for (j in 1:length(topics[[i]])){
+        top <- names(topics)[i]
+        wd <- topics[[i]][j]
+        row <- match(wd, important_trigrams$trigram)
+        if (!is.na(row)) {
+            important_trigrams[row, 8] <- top
+        }
+    }
+}
+
+```
+
+## Filtering on Historical important single words 
+```{r}
+single_words <- c('sql','python','product','models','communication','cloud','research','customer','database','stakeholders','modeling','ml','r','programming','clients','ai', 'statistics', 'reporting','aws','leadership', 'operations','collaborate', 'algorithms','marketing', 'bi','visualization','tableau','mathematics','dashboards','optimization','datasets','java','oracle')
+
+programming <- c('python', 'r', 'java', 'programming')
+
+presentation <- c('clients','customer','communication', 'reporting','dashboards', 'tableau', 'visualization', 'bi', 'stakeholders')
+
+theoretical <- c('statistics', 'mathematics', 'algorithms', 'ai', 'optimization', 'research', 'modeling', 'models', 'ml')
+
+soft_skills <- c('collaborate', 'leadership', 'product')
+
+data_storage <- c('cloud', 'aws', 'datasets', 'database', 'oracle', 'sql')
+
+business_interest <- c('marketing', 'product', 'operations')
+
+topics <- list(programming, presentation, theoretical, soft_skills,
+               data_storage, business_interest)
+names(topics) <- c("programming", "presentation", "theoretical", "soft_skills",
+                   "data_storage", "business_interest")
+
+historical_important_single_words <- historical_text_words_analysis %>%
+  filter(word %in% single_words)
+
+historical_important_single_words$topic <- replicate(nrow(historical_important_single_words), '')
+
+for (i in 1:length(topics)){
+    for (j in 1:length(topics[[i]])){
+        top <- names(topics)[i]
+        wd <- topics[[i]][j]
+        row <- match(wd, historical_important_single_words$word)
+        historical_important_single_words[row, 8] <- top
+    }
+}
+
+```
+
+## Data View
+```{r}
+#current
+head(tidy_text_words_analysis, 10)
+head(tidy_text_bigrams_analysis, 10)
+head(tidy_text_trigrams_analysis, 10)
+
+#historical
+head(historical_text_words_analysis, 100)
+head(historical_text_bigrams_analysis)
+head(historical_text_trigrams_analysis)
+
+#important
+head(important_single_words, 100)
+head(important_bigrams)
+head(important_trigrams)
+```
+
+## Chart
+```{r}
+#
+single_words_comparsion <- merge(subset(important_single_words, select = c("word", "tf_dc_score")), subset(historical_important_single_words, select = c("word", "tf_dc_score")), by = "word")
+
+colnames(single_words_comparsion) <- c("word", "current_tf_dc_score", "historical_tf_dc_score")
+
+# important single words
+single_words_10 <- single_words_comparsion %>%
+  arrange(desc(current_tf_dc_score)) %>%
+  slice(1:10)
+
+# lolipop chart
+ggplot(data = single_words_10) +
+  geom_segment(aes(x = reorder(word, current_tf_dc_score), xend = reorder(word, current_tf_dc_score), y = current_tf_dc_score, yend = `historical_tf_dc_score`), color = "gray", lwd = 1) +
+  geom_point(aes(x=word, y = current_tf_dc_score), color=rgb(0.2,0.7,0.1,0.5), size=8) +
+  geom_point( aes(x= word, y = historical_tf_dc_score), color=rgb(0.7,0.2,0.1,0.5), size=8) +
+  geom_text(aes(x=word, y = current_tf_dc_score, label = current_tf_dc_score), color = "black", size = 2) +
+  geom_text(aes(x=word, y = historical_tf_dc_score, label = historical_tf_dc_score), color = "black", size = 2) +
+  scale_x_discrete(labels = word) +
+  coord_flip() +
+  theme_minimal() +
+  labs(title = "Single Words Score", x = "Single Words", y = "Score")
+
+```

@@ -487,25 +487,30 @@ head(important_bigrams)
 head(important_trigrams)
 ```
 
-## Chart
+## Dumbbell Chart
 ```{r}
 # important single words match on current and historical data
-single_words_comparsion <- merge(subset(important_single_words, select = c("word", "tf_dc_score")), subset(historical_important_single_words, select = c("word", "tf_dc_score")), by = "word")
+single_words_comparsion <- merge(subset(important_single_words, select = c("word", "tf_dc_norm_sum")), subset(historical_important_single_words, select = c("word", "tf_dc_norm_sum")), by = "word")
 
-colnames(single_words_comparsion) <- c("word", "current_tf_dc_score", "historical_tf_dc_score")
+colnames(single_words_comparsion) <- c("word", "current_tf_dc_norm_sum", "historical_tf_dc_norm_sum")
+
+single_words_comparsion$current_tf_dc_norm_sum <- round(single_words_comparsion$current_tf_dc_norm_sum, 3)
+
+single_words_comparsion$historical_tf_dc_norm_sum <- round(single_words_comparsion$historical_tf_dc_norm_sum, 3)
 
 # important single words
 single_words_10 <- single_words_comparsion %>%
-  arrange(desc(current_tf_dc_score)) %>%
+  arrange(desc(historical_tf_dc_norm_sum)) %>%
+  arrange(desc(current_tf_dc_norm_sum)) %>%
   slice(1:10)
 
 # lolipop chart
 ggplot(data = single_words_10) +
-  geom_segment(aes(x = reorder(word, current_tf_dc_score), xend = reorder(word, current_tf_dc_score), y = current_tf_dc_score, yend = `historical_tf_dc_score`), color = "gray", lwd = 1) +
-  geom_point(aes(x=word, y = current_tf_dc_score), color=rgb(0.2,0.7,0.1,0.5), size=5) +
-  geom_point( aes(x= word, y = historical_tf_dc_score), color=rgb(0.7,0.2,0.1,0.5), size=5) +
-  geom_text(aes(x=word, y = current_tf_dc_score, label = current_tf_dc_score), color = "black", size = 1.5) +
-  geom_text(aes(x=word, y = historical_tf_dc_score, label = historical_tf_dc_score), color = "black", size = 1.5) +
+  geom_segment(aes(x = reorder(word, historical_tf_dc_norm_sum), xend = reorder(word, historical_tf_dc_norm_sum), y = current_tf_dc_norm_sum, yend = historical_tf_dc_norm_sum), color = "gray", lwd = 1) +
+  geom_point(aes(x=word, y = current_tf_dc_norm_sum), color=rgb(0.2,0.7,0.1,0.5), size=5) +
+  geom_point( aes(x= word, y = historical_tf_dc_norm_sum), color=rgb(0.7,0.2,0.1,0.5), size=5) +
+  geom_text(aes(x=word, y = current_tf_dc_norm_sum, label = current_tf_dc_norm_sum), color = "black", size = 1.5) +
+  geom_text(aes(x=word, y = historical_tf_dc_norm_sum, label = historical_tf_dc_norm_sum), color = "black", size = 1.5) +
   scale_x_discrete(labels = word) +
   coord_flip() +
   theme_minimal() +

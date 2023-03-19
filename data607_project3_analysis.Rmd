@@ -24,8 +24,8 @@ library(RColorBrewer)
 library(DT)
 library(wordcloud)
 library(MCDA)
-library(arsenal)
 library(hrbrthemes)
+library(tidylo)
 ```
 
 ## Data Cleaning on Text DF
@@ -83,9 +83,6 @@ tidy_text_words_analysis <- tidy_text_words_analysis[c("word", "term_freq",
 
 datatable(head(tidy_text_words_analysis, options = list(pageLength = 25), n = 250))
 
-tidy_text_words_analysis %>%
-    with(wordcloud(word, doc_count, max.words = 50))
-
 tidy_text_df_bigrams <- text_df_clean %>%
     unnest_tokens(bigram, Text, token = "ngrams", n = 2)
 
@@ -120,9 +117,6 @@ tidy_text_bigrams_analysis <- tidy_text_bigrams_analysis[c("bigram",
 
 datatable(head(tidy_text_bigrams_analysis, options = list(pageLength = 25), n = 250))
 
-tidy_text_bigrams_analysis %>%
-    with(wordcloud(bigram, doc_count, max.words = 50))
-
 tidy_text_df_trigrams <- text_df_clean %>%
     unnest_tokens(trigram, Text, token = "ngrams", n = 3)
 
@@ -156,9 +150,6 @@ tidy_text_trigrams_analysis <- tidy_text_trigrams_analysis[c("trigram",
                                                            "tf_dc_norm_sum")]
 
 datatable(head(tidy_text_trigrams_analysis, options = list(pageLength = 25), n = 250))
-
-tidy_text_trigrams_analysis %>%
-    with(wordcloud(trigram, doc_count, max.words = 50))
 
 ```
 
@@ -198,9 +189,6 @@ historical_text_words_analysis <- historical_text_words_analysis[
 datatable(head(historical_text_words_analysis,
                options = list(pageLength = 25),n = 250))
 
-historical_text_words_analysis %>%
-    with(wordcloud(word, doc_count, max.words = 50))
-
 historical_text_bigrams <- historical_text_df_clean %>%
     unnest_tokens(bigram, Text, token = "ngrams", n = 2)
 
@@ -233,9 +221,6 @@ historical_text_bigrams_analysis <- historical_text_bigrams_analysis[
 datatable(head(historical_text_bigrams_analysis,
                options = list(pageLength = 25), n = 250))
 
-historical_text_bigrams_analysis %>%
-    with(wordcloud(bigram, doc_count, max.words = 50))
-
 historical_text_trigrams <- historical_text_df_clean %>%
     unnest_tokens(trigram, Text, token = "ngrams", n = 3)
 
@@ -267,9 +252,6 @@ historical_text_trigrams_analysis <- historical_text_trigrams_analysis[
 
 datatable(head(historical_text_trigrams_analysis,
                options = list(pageLength = 25), n = 250))
-
-historical_text_trigrams_analysis %>%
-    with(wordcloud(trigram, doc_count, max.words = 50))
 ```
 
 
@@ -430,6 +412,45 @@ for (i in 1:length(topics)){
 
 ```
 
+## Filtering on Historical important bigrams
+```{r}
+two_words <- c('machine learning', 'communication skills','business intelligence','data analysis','data engineering', 'data driven','software development','deep learning', 'data visualizations','data warehouse','data pipelines','sql server', 'data management','power bi', 'learning models','data quality', 'artificial intelligence', 'software engineering', 'data modeling', 'project management','data processing','data mining','programming languages', 'written communication','data models','ci cd','data models','financial services','information technology', 'natural language', 'cloud based', 'product development', 'language processing', 'visualization tools', 'verbal communication', 'information systems', 'statistical analysis', 'data collection','scikit learn', 'data warehousing', 'predictive models', 'product management', 'relational databases', 'interpersonal skills', 'ml models', 'team player', 'data architecture')
+
+programming <- append(programming ,c('scikit learn', 'software development', 'software engineering', 'data modeling', 'data mining', 'programming languages', 'data model', 'data models', 'ci cd'))
+
+presentation <- append(presentation, c('communication skills', 'data visualizations','power bi', 'visualization tools', 'verbal communication'))
+
+theoretical <- append(theoretical, c('machine learning', 'deep learning', 'learning models', 'artificial intelligence', 'natural language', 'language processing', 'information systems', 'statistical analysis', 'predictive models', 'ml models'))
+
+soft_skills <- append(soft_skills, c('written communication', 'interpersonal skills', 'team player'))
+
+data_storage <- append(data_storage, c('data engineering', 'data warehouse', 'data pipelines', 'sql server', 'data management', 'data quality', 'data processing','cloud based', 'data collection', 'data warehousing', 'relational databases', 'data architecture'))
+
+business_interest <- append(business_interest, c('business intelligence', 'data analysis', 'data driven', 'project management', 'financial services', 'information technology', 'product development', 'product management'))
+
+historical_important_bigrams <- historical_text_bigrams_analysis %>%
+  filter(bigram %in% two_words)
+
+historical_important_bigrams$topic <- replicate(nrow(historical_important_bigrams), '')
+
+topics <- list(programming, presentation, theoretical, soft_skills,
+               data_storage, business_interest)
+
+names(topics) <- c("programming", "presentation", "theoretical", "soft_skills",
+                   "data_storage", "business_interest")
+
+for (i in 1:length(topics)){
+    for (j in 1:length(topics[[i]])){
+        top <- names(topics)[i]
+        wd <- topics[[i]][j]
+        row <- match(wd, historical_important_bigrams$bigram)
+        if (!is.na(row)) {
+            historical_important_bigrams[row, 8] <- top
+        }
+    }
+}
+```
+
 ## Data View
 ```{r}
 #current
@@ -448,28 +469,52 @@ head(important_bigrams)
 head(important_trigrams)
 ```
 
-## Chart
+## Dumbbell Chart
 ```{r}
-#
-single_words_comparsion <- merge(subset(important_single_words, select = c("word", "tf_dc_score")), subset(historical_important_single_words, select = c("word", "tf_dc_score")), by = "word")
+# important single words match on current and historical data
+single_words_comparsion <- merge(subset(important_single_words, select = c("word", "tf_dc_norm_sum")), subset(historical_important_single_words, select = c("word", "tf_dc_norm_sum")), by = "word")
 
-colnames(single_words_comparsion) <- c("word", "current_tf_dc_score", "historical_tf_dc_score")
+colnames(single_words_comparsion) <- c("word", "current_tf_dc_norm_sum", "historical_tf_dc_norm_sum")
+
+single_words_comparsion$current_tf_dc_norm_sum <- round(single_words_comparsion$current_tf_dc_norm_sum, 3)
+
+single_words_comparsion$historical_tf_dc_norm_sum <- round(single_words_comparsion$historical_tf_dc_norm_sum, 3)
 
 # important single words
 single_words_10 <- single_words_comparsion %>%
-  arrange(desc(current_tf_dc_score)) %>%
+  arrange(desc(historical_tf_dc_norm_sum)) %>%
+  arrange(desc(current_tf_dc_norm_sum)) %>%
   slice(1:10)
 
 # lolipop chart
 ggplot(data = single_words_10) +
-  geom_segment(aes(x = reorder(word, current_tf_dc_score), xend = reorder(word, current_tf_dc_score), y = current_tf_dc_score, yend = `historical_tf_dc_score`), color = "gray", lwd = 1) +
-  geom_point(aes(x=word, y = current_tf_dc_score), color=rgb(0.2,0.7,0.1,0.5), size=8) +
-  geom_point( aes(x= word, y = historical_tf_dc_score), color=rgb(0.7,0.2,0.1,0.5), size=8) +
-  geom_text(aes(x=word, y = current_tf_dc_score, label = current_tf_dc_score), color = "black", size = 2) +
-  geom_text(aes(x=word, y = historical_tf_dc_score, label = historical_tf_dc_score), color = "black", size = 2) +
+  geom_segment(aes(x = reorder(word, historical_tf_dc_norm_sum), xend = reorder(word, historical_tf_dc_norm_sum), y = current_tf_dc_norm_sum, yend = historical_tf_dc_norm_sum), color = "gray", lwd = 1) +
+  geom_point(aes(x=word, y = current_tf_dc_norm_sum), color=rgb(0.2,0.7,0.1,0.5), size=5) +
+  geom_point( aes(x= word, y = historical_tf_dc_norm_sum), color=rgb(0.7,0.2,0.1,0.5), size=5) +
+  geom_text(aes(x=word, y = current_tf_dc_norm_sum, label = current_tf_dc_norm_sum), color = "black", size = 1.5) +
+  geom_text(aes(x=word, y = historical_tf_dc_norm_sum, label = historical_tf_dc_norm_sum), color = "black", size = 1.5) +
   scale_x_discrete(labels = word) +
   coord_flip() +
   theme_minimal() +
   labs(title = "Single Words Score", x = "Single Words", y = "Score")
 
+```
+
+
+```{r}
+#important bigram match on current and historical data
+bigram_comparsion <- merge(subset(important_bigrams, select = c("bigram", "tf_dc_score", "topic")), subset(historical_important_bigrams, select = c("bigram", "tf_dc_score", "topic")), by = c("bigram", "topic"))
+
+colnames(bigram_comparsion) <- c("bigram", "topic", "current_tf_dc_score", "historical_tf_dc_score")
+
+bigram_comparsion$score_change <- round((bigram_comparsion$historical_tf_dc_score - bigram_comparsion$current_tf_dc_score)/bigram_comparsion$historical_tf_dc_score, 3)
+
+head(bigram_comparsion, 100)
+# diverging bigram chart
+ggplot(bigram_comparsion, aes(x = reorder(bigram, score_change), y = score_change)) +
+  geom_bar(stat = "identity", show.legend = FALSE) +
+  labs(x = "Score", y = "Bigram") +
+  coord_flip() +
+  facet_wrap(~topic) +
+  theme(strip.text = element_text(size=10))
 ```

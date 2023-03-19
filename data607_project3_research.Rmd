@@ -27,6 +27,8 @@ library(DT)
 library(wordcloud)
 library(MCDA)
 library(ggwordcloud)
+library(hrbrthemes)
+library(tidylo)
 
 ```
 
@@ -405,9 +407,16 @@ We calculated how many times a word, bigram, or trigram occurred across all job 
 
 ```{r tidytext_analysis}
 text_df_clean <- text_df
-text_df_clean[, 1] <- tolower(text_df_clean[, 1])
+text_df_clean$Text <- tolower(text_df_clean$Text)
+text_df_clean$Text <- sapply(text_df_clean$Text, function(x) str_replace_all(
+    x,"[^[:alnum:]]", " "))
+text_df_clean$Text <- sapply(text_df_clean$Text, function(x) str_replace_all(
+    x, "[[:punct:]]", " "))
+text_df_clean$Text <- sapply(text_df_clean$Text, function (x) str_replace_all(
+    x, "[^A-Za-z]", " "))
+text_df_clean$Text <- trimws(text_df_clean$Text)
 text_df_clean %<>%
-    filter(Text != "")
+    filter(Text != "" & !is.na(Text))
 
 tidy_text_df_words <- text_df_clean %>%
     unnest_tokens(word, Text)

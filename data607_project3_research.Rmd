@@ -818,6 +818,19 @@ historical_important_trigrams$topic <- replicate(nrow(historical_important_trigr
 
 
 
+```{r}
+historical_important_single_words
+```
+
+
+
+```{r}
+historical_important_bigrams
+```
+
+
+
+
 
 ## Comparing Important Single Words and Historical Important Single Words
 

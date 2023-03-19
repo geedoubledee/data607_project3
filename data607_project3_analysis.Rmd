@@ -83,9 +83,6 @@ tidy_text_words_analysis <- tidy_text_words_analysis[c("word", "term_freq",
 
 datatable(head(tidy_text_words_analysis, options = list(pageLength = 25), n = 250))
 
-tidy_text_words_analysis %>%
-    with(wordcloud(word, doc_count, max.words = 50))
-
 tidy_text_df_bigrams <- text_df_clean %>%
     unnest_tokens(bigram, Text, token = "ngrams", n = 2)
 
@@ -120,9 +117,6 @@ tidy_text_bigrams_analysis <- tidy_text_bigrams_analysis[c("bigram",
 
 datatable(head(tidy_text_bigrams_analysis, options = list(pageLength = 25), n = 250))
 
-tidy_text_bigrams_analysis %>%
-    with(wordcloud(bigram, doc_count, max.words = 50))
-
 tidy_text_df_trigrams <- text_df_clean %>%
     unnest_tokens(trigram, Text, token = "ngrams", n = 3)
 
@@ -156,9 +150,6 @@ tidy_text_trigrams_analysis <- tidy_text_trigrams_analysis[c("trigram",
                                                            "tf_dc_norm_sum")]
 
 datatable(head(tidy_text_trigrams_analysis, options = list(pageLength = 25), n = 250))
-
-tidy_text_trigrams_analysis %>%
-    with(wordcloud(trigram, doc_count, max.words = 50))
 
 ```
 
@@ -198,9 +189,6 @@ historical_text_words_analysis <- historical_text_words_analysis[
 datatable(head(historical_text_words_analysis,
                options = list(pageLength = 25),n = 250))
 
-historical_text_words_analysis %>%
-    with(wordcloud(word, doc_count, max.words = 50))
-
 historical_text_bigrams <- historical_text_df_clean %>%
     unnest_tokens(bigram, Text, token = "ngrams", n = 2)
 
@@ -233,9 +221,6 @@ historical_text_bigrams_analysis <- historical_text_bigrams_analysis[
 datatable(head(historical_text_bigrams_analysis,
                options = list(pageLength = 25), n = 250))
 
-historical_text_bigrams_analysis %>%
-    with(wordcloud(bigram, doc_count, max.words = 50))
-
 historical_text_trigrams <- historical_text_df_clean %>%
     unnest_tokens(trigram, Text, token = "ngrams", n = 3)
 
@@ -267,9 +252,6 @@ historical_text_trigrams_analysis <- historical_text_trigrams_analysis[
 
 datatable(head(historical_text_trigrams_analysis,
                options = list(pageLength = 25), n = 250))
-
-historical_text_trigrams_analysis %>%
-    with(wordcloud(trigram, doc_count, max.words = 50))
 ```
 
 

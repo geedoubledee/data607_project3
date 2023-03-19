@@ -430,6 +430,45 @@ for (i in 1:length(topics)){
 
 ```
 
+## Filtering on Historical important bigrams
+```{r}
+two_words <- c('machine learning', 'communication skills','business intelligence','data analysis','data engineering', 'data driven','software development','deep learning', 'data visualizations','data warehouse','data pipelines','sql server', 'data management','power bi', 'learning models','data quality', 'artificial intelligence', 'software engineering', 'data modeling', 'project management','data processing','data mining','programming languages', 'written communication','data models','ci cd','data models','financial services','information technology', 'natural language', 'cloud based', 'product development', 'language processing', 'visualization tools', 'verbal communication', 'information systems', 'statistical analysis', 'data collection','scikit learn', 'data warehousing', 'predictive models', 'product management', 'relational databases', 'interpersonal skills', 'ml models', 'team player', 'data architecture')
+
+programming <- append(programming ,c('scikit learn', 'software development', 'software engineering', 'data modeling', 'data mining', 'programming languages', 'data model', 'data models', 'ci cd'))
+
+presentation <- append(presentation, c('communication skills', 'data visualizations','power bi', 'visualization tools', 'verbal communication'))
+
+theoretical <- append(theoretical, c('machine learning', 'deep learning', 'learning models', 'artificial intelligence', 'natural language', 'language processing', 'information systems', 'statistical analysis', 'predictive models', 'ml models'))
+
+soft_skills <- append(soft_skills, c('written communication', 'interpersonal skills', 'team player'))
+
+data_storage <- append(data_storage, c('data engineering', 'data warehouse', 'data pipelines', 'sql server', 'data management', 'data quality', 'data processing','cloud based', 'data collection', 'data warehousing', 'relational databases', 'data architecture'))
+
+business_interest <- append(business_interest, c('business intelligence', 'data analysis', 'data driven', 'project management', 'financial services', 'information technology', 'product development', 'product management'))
+
+historical_important_bigrams <- historical_text_bigrams_analysis %>%
+  filter(bigram %in% two_words)
+
+historical_important_bigrams$topic <- replicate(nrow(historical_important_bigrams), '')
+
+topics <- list(programming, presentation, theoretical, soft_skills,
+               data_storage, business_interest)
+
+names(topics) <- c("programming", "presentation", "theoretical", "soft_skills",
+                   "data_storage", "business_interest")
+
+for (i in 1:length(topics)){
+    for (j in 1:length(topics[[i]])){
+        top <- names(topics)[i]
+        wd <- topics[[i]][j]
+        row <- match(wd, historical_important_bigrams$bigram)
+        if (!is.na(row)) {
+            historical_important_bigrams[row, 8] <- top
+        }
+    }
+}
+```
+
 ## Data View
 ```{r}
 #current
@@ -450,7 +489,7 @@ head(important_trigrams)
 
 ## Chart
 ```{r}
-#
+# important single words match on current and historical data
 single_words_comparsion <- merge(subset(important_single_words, select = c("word", "tf_dc_score")), subset(historical_important_single_words, select = c("word", "tf_dc_score")), by = "word")
 
 colnames(single_words_comparsion) <- c("word", "current_tf_dc_score", "historical_tf_dc_score")
@@ -476,12 +515,19 @@ ggplot(data = single_words_10) +
 
 
 ```{r}
-# important bigram chart
-ggplot(important_bigrams, aes(fill = bigram, y = tf_dc_score, x = topics)) +
-  geom_bar(position="dodge", stat="identity")
-  #ggtitle("Important Bigrams Word") +
-  #facet_wrap(~important_bigrams)
-  #theme_ipsum() +
-  #theme(legend.position="none") +
-  #xlab("")
+#important bigram match on current and historical data
+bigram_comparsion <- merge(subset(important_bigrams, select = c("bigram", "tf_dc_score", "topic")), subset(historical_important_bigrams, select = c("bigram", "tf_dc_score", "topic")), by = c("bigram", "topic"))
+
+colnames(bigram_comparsion) <- c("bigram", "topic", "current_tf_dc_score", "historical_tf_dc_score")
+
+bigram_comparsion$score_change <- round((bigram_comparsion$historical_tf_dc_score - bigram_comparsion$current_tf_dc_score)/bigram_comparsion$historical_tf_dc_score, 3)
+
+head(bigram_comparsion, 100)
+# diverging bigram chart
+ggplot(bigram_comparsion, aes(x = reorder(bigram, score_change), y = score_change)) +
+  geom_bar(stat = "identity", show.legend = FALSE) +
+  labs(x = "Score", y = "Bigram") +
+  coord_flip() +
+  facet_wrap(~topic) +
+  theme(strip.text = element_text(size=10))
 ```

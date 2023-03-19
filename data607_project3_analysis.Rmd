@@ -541,7 +541,7 @@ plot_single_words <- important_single_words %>%
 ## Bar Chart on Single Words
 
 ```{r}
-ggplot(plot_single_words, aes(x=reorder(`word`, -tf_dc_norm_sum), y=tf_dc_norm_sum)) +
+ggplot(plot_single_words, aes(x=reorder(`word`, tf_dc_norm_sum), y=tf_dc_norm_sum)) +
     geom_bar(stat="identity", position="dodge", width=0.7) +
     theme_minimal() +
     labs(title="Difference from Current and Historical Important Single Words",
@@ -551,9 +551,12 @@ ggplot(plot_single_words, aes(x=reorder(`word`, -tf_dc_norm_sum), y=tf_dc_norm_s
 ```
 
 
+
+
+
 ## Summary on Single Words
 ```{r}
-summary(comparedf(historical_important_single_words, important_single_words, by="doc_count"))
+summary(comparedf(historical_important_single_words, important_single_words, by="word"))
 ```
 
 
@@ -569,7 +572,7 @@ plot_bigrams <- important_bigrams %>%
 
 ## Bigrams Chart
 ```{r}
-ggplot(plot_bigrams, aes(x=reorder(`bigram`, -tf_dc_norm_sum), y=tf_dc_norm_sum)) +
+ggplot(plot_bigrams, aes(x=reorder(`bigram`, tf_dc_norm_sum), y=tf_dc_norm_sum)) +
     geom_bar(stat="identity", position="dodge", ) +
     theme_minimal() +
     labs(title="Difference from Current and Historical Important Bigrams",
@@ -577,6 +580,9 @@ ggplot(plot_bigrams, aes(x=reorder(`bigram`, -tf_dc_norm_sum), y=tf_dc_norm_sum)
        x="Bigrams") +
     coord_flip()
 ```
+
+ 
+
 
 ## Summary on Bigrams
 ```{r}
@@ -594,9 +600,11 @@ plot_trigrams <- important_trigrams %>%
     top_n(10)
 ```
 
-## Charts on Trigram 
+
+
+## Chart on Trigrams
 ```{r}
-ggplot(plot_trigrams, aes(x=reorder(`trigram`, -tf_dc_norm_sum), y=tf_dc_norm_sum)) +
+ggplot(plot_trigrams, aes(x=reorder(`trigram`, tf_dc_norm_sum), y=tf_dc_norm_sum)) +
     geom_bar(stat="identity", position="dodge") +
     theme_minimal() +
     labs(title="Difference from Current and Historical Important Trigrams",
@@ -605,21 +613,16 @@ ggplot(plot_trigrams, aes(x=reorder(`trigram`, -tf_dc_norm_sum), y=tf_dc_norm_su
     coord_flip()
 ```
 
-## Chart on Trigrams
-```{r}
-ggplot(plot_trigrams, aes(x=reorder(`trigram`, -tf_dc_norm_sum), y=tf_dc_norm_sum)) +
-    geom_bar(stat="identity", position="dodge") +
-    theme_minimal() +
-    labs(title="Difference from Current and Historical Important Trigrams",
-       y="Norm Sum Difference",
-       x="Trigrams") +
-    coord_flip()
-```
+
+
+
 
 ## Summary on Trigrams
 ```{r}
 summary(comparedf(historical_important_trigrams, important_trigrams,by='trigram'))
 ```
+
+
 
 ## Combine Bigrams both current and historical dataset
 ```{r}

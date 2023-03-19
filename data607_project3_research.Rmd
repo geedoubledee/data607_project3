@@ -26,10 +26,7 @@ library(RColorBrewer)
 library(DT)
 library(wordcloud)
 library(MCDA)
-library(ggwordcloud)
-library(hrbrthemes)
-library(tidylo)
-
+library(arsenal)
 ```
 
 ## Research Question: 
@@ -405,18 +402,15 @@ write.csv(text_df, "text_df.csv", row.names = FALSE)
 
 We calculated how many times a word, bigram, or trigram occurred across all job listings, as well as how many job listings that word occurred in. We called the first metric **term_freq**, and we called the second metric **doc_count**. We normalized both metrics on a scale from 0 to 1, and we recorded a third metric as the sum of those normalizations: **tf_df_norm_sum**. This third metric was needed so that we could make decisions about a term's importance that accounted for both a term's frequency across all job listings and the number of job listings it appeared in, not just one or the other. It allowed us to sort and rank terms properly, and reduced the amount of clutter we needed to look through to make a compelling selection of skills that are most valuable in data science. 
 
+
+
+
+
 ```{r tidytext_analysis}
 text_df_clean <- text_df
-text_df_clean$Text <- tolower(text_df_clean$Text)
-text_df_clean$Text <- sapply(text_df_clean$Text, function(x) str_replace_all(
-    x,"[^[:alnum:]]", " "))
-text_df_clean$Text <- sapply(text_df_clean$Text, function(x) str_replace_all(
-    x, "[[:punct:]]", " "))
-text_df_clean$Text <- sapply(text_df_clean$Text, function (x) str_replace_all(
-    x, "[^A-Za-z]", " "))
-text_df_clean$Text <- trimws(text_df_clean$Text)
+text_df_clean[, 1] <- tolower(text_df_clean[, 1])
 text_df_clean %<>%
-    filter(Text != "" & !is.na(Text))
+    filter(Text != "")
 
 tidy_text_df_words <- text_df_clean %>%
     unnest_tokens(word, Text)
@@ -446,6 +440,9 @@ tidy_text_words_analysis <- tidy_text_words_analysis[c("word", "term_freq",
                                                        "tf_dc_norm_sum")]
 
 datatable(head(tidy_text_words_analysis, options = list(pageLength = 25), n = 250))
+
+tidy_text_words_analysis %>%
+    with(wordcloud(word, doc_count, max.words = 50))
 
 tidy_text_df_bigrams <- text_df_clean %>%
     unnest_tokens(bigram, Text, token = "ngrams", n = 2)
@@ -481,6 +478,9 @@ tidy_text_bigrams_analysis <- tidy_text_bigrams_analysis[c("bigram",
 
 datatable(head(tidy_text_bigrams_analysis, options = list(pageLength = 25), n = 250))
 
+tidy_text_bigrams_analysis %>%
+    with(wordcloud(bigram, doc_count, max.words = 50))
+
 tidy_text_df_trigrams <- text_df_clean %>%
     unnest_tokens(trigram, Text, token = "ngrams", n = 3)
 
@@ -514,6 +514,9 @@ tidy_text_trigrams_analysis <- tidy_text_trigrams_analysis[c("trigram",
                                                            "tf_dc_norm_sum")]
 
 datatable(head(tidy_text_trigrams_analysis, options = list(pageLength = 25), n = 250))
+
+tidy_text_trigrams_analysis %>%
+    with(wordcloud(trigram, doc_count, max.words = 50))
 
 ```
 
@@ -552,13 +555,6 @@ for (i in 1:length(topics)){
         important_single_words[row, 8] <- top
     }
 }
-
-ggplot(important_single_words, aes(label = word, size = tf_dc_norm_sum,
-                                   color = topic)) +
-    geom_text_wordcloud_area(show.legend = TRUE) +
-    scale_size_area(max_size = 16) +
-    scale_fill_binned(type = "viridis") +
-    guides(size = "none")
 
 ```
 
@@ -600,14 +596,6 @@ for (i in 1:length(topics)){
         }
     }
 }
-
-ggplot(important_bigrams, aes(label = bigram, size = tf_dc_norm_sum,
-                                   color = topic)) +
-    geom_text_wordcloud_area(show.legend = TRUE) +
-    scale_size_area(max_size = 14) +
-    scale_fill_binned(type = "viridis") +
-    guides(size = "none")
-
 ```
 
 ## Filtering for important trigrams
@@ -648,14 +636,6 @@ for (i in 1:length(topics)){
         }
     }
 }
-
-ggplot(important_trigrams, aes(label = trigram, size = tf_dc_norm_sum,
-                                   color = topic)) +
-    geom_text_wordcloud_area(show.legend = TRUE) +
-    scale_size_area(max_size = 12) +
-    scale_fill_binned(type = "viridis") +
-    guides(size = "none")
-
 ```
 
 ## Historical Analysis:
@@ -695,6 +675,9 @@ historical_text_words_analysis <- historical_text_words_analysis[
 datatable(head(historical_text_words_analysis,
                options = list(pageLength = 25),n = 250))
 
+historical_text_words_analysis %>%
+    with(wordcloud(word, doc_count, max.words = 50))
+
 historical_text_bigrams <- historical_text_df_clean %>%
     unnest_tokens(bigram, Text, token = "ngrams", n = 2)
 
@@ -726,6 +709,9 @@ historical_text_bigrams_analysis <- historical_text_bigrams_analysis[
 
 datatable(head(historical_text_bigrams_analysis,
                options = list(pageLength = 25), n = 250))
+
+historical_text_bigrams_analysis %>%
+    with(wordcloud(bigram, doc_count, max.words = 50))
 
 historical_text_trigrams <- historical_text_df_clean %>%
     unnest_tokens(trigram, Text, token = "ngrams", n = 3)
@@ -759,4 +745,197 @@ historical_text_trigrams_analysis <- historical_text_trigrams_analysis[
 datatable(head(historical_text_trigrams_analysis,
                options = list(pageLength = 25), n = 250))
 
+historical_text_trigrams_analysis %>%
+    with(wordcloud(trigram, doc_count, max.words = 50))
+
 ```
+
+
+## Filtering For Historical Important Single Words
+
+```{r}
+single_words <- c('sql','python','product','models','communication','cloud','research','customer','database','stakeholders','modeling','ml','r','programming','clients','ai', 'statistics', 'reporting','aws','leadership', 'operations','collaborate', 'algorithms','marketing', 'bi','visualization','tableau','mathematics','dashboards','optimization','datasets','java','oracle')
+
+programming <- c('python', 'r', 'java', 'programming')
+
+presentation <- c('clients','customer','communication', 'reporting','dashboards', 'tableau', 'visualization', 'bi', 'stakeholders')
+
+theoretical <- c('statistics', 'mathematics', 'algorithms', 'ai', 'optimization', 'research', 'modeling', 'models', 'ml')
+
+soft_skills <- c('collaborate', 'leadership', 'product')
+
+data_storage <- c('cloud', 'aws', 'datasets', 'database', 'oracle', 'sql')
+
+business_interest <- c('marketing', 'product', 'operations')
+
+topics <- list(programming, presentation, theoretical, soft_skills,
+               data_storage, business_interest)
+names(topics) <- c("programming", "presentation", "theoretical", "soft_skills",
+                   "data_storage", "business_interest")
+
+historical_important_single_words <- historical_text_words_analysis %>%
+  filter(word %in% single_words)
+
+historical_important_single_words$topic <- replicate(nrow(historical_important_single_words), '')
+
+for (i in 1:length(topics)){
+    for (j in 1:length(topics[[i]])){
+        top <- names(topics)[i]
+        wd <- topics[[i]][j]
+        row <- match(wd, historical_important_single_words$word)
+        historical_important_single_words[row, 8] <- top
+    }
+}
+
+```
+
+
+## Filtering For Historical Important Bigrams
+
+
+```{r}
+two_words <- c('machine learning', 'communication skills','business intelligence','data analysis','data engineering', 'data driven','software development','deep learning', 'data visualizations','data warehouse','data pipelines','sql server', 'data management','power bi', 'learning models','data quality', 'artificial intelligence', 'software engineering', 'data modeling', 'project management','data processing','data mining','programming languages', 'written communication','data models','ci cd','data models','financial services','information technology', 'natural language', 'cloud based', 'product development', 'language processing', 'visualization tools', 'verbal communication', 'information systems', 'statistical analysis', 'data collection','scikit learn', 'data warehousing', 'predictive models', 'product management', 'relational databases', 'interpersonal skills', 'ml models', 'team player', 'data architecture')
+
+historical_important_bigrams <- historical_text_bigrams_analysis %>%
+  filter(bigram %in% two_words)
+
+historical_important_bigrams$topic <- replicate(nrow(historical_important_bigrams), '')
+```
+
+
+
+## Filtering For Historical Important Trigrams
+
+```{r}
+three_words <- c('machine learning models','attention to detail','written communication skills', 'natural language processing', 'machine learning algorithums', 'machine learning techniques','fast paced environment', 'verbal communication skills', 'design and implement', 'data visualization tools', 'excellent communication skills','business intelligence tools','computer science mathematics', 'data driven decisions','subject matter expert', 'ability to write', 'computer science statistics', 'data driven insights', 'design and develop', 'design and implementation', 'development and implementation', 'experience with agile','experience with aws', 'experience with python', 'knowledge of sql', 'microsoft sql server')
+
+historical_important_trigrams <- historical_text_trigrams_analysis %>%
+  filter(trigram %in% three_words)
+
+historical_important_trigrams$topic <- replicate(nrow(historical_important_trigrams), '')
+```
+
+
+
+
+
+## Comparing Important Single Words and Historical Important Single Words
+
+
+```{r}
+important_single_words$diff_in_norm_sum <- important_single_words$tf_dc_norm_sum-historical_important_single_words$tf_dc_norm_sum
+important_single_words
+
+plot_single_words <- important_single_words %>%
+    arrange(desc(diff_in_norm_sum)) %>%
+    top_n(10)
+```
+
+
+
+```{r}
+ggplot(plot_single_words, aes(x=reorder(`word`, -tf_dc_norm_sum), y=tf_dc_norm_sum)) +
+    geom_bar(stat="identity", position="dodge", width=0.7) +
+    theme_minimal() +
+    labs(title="Difference from Current and Historical Important Single Words",
+       y="Norm Sum Difference",
+       x="Single Words") +
+    coord_flip()
+```
+
+
+
+
+
+
+
+
+```{r}
+summary(comparedf(historical_important_single_words, important_single_words, by="doc_count"))
+```
+
+
+## Comparing Important Bigrams and Historical Important Bigrams
+
+
+
+```{r}
+important_bigrams$diff_in_norm_sum <- important_bigrams$tf_dc_norm_sum-historical_important_bigrams$tf_dc_norm_sum
+
+plot_bigrams <- important_bigrams %>%
+    arrange(desc(diff_in_norm_sum)) %>%
+    top_n(10)
+```
+
+
+
+
+```{r}
+ggplot(plot_bigrams, aes(x=reorder(`bigram`, -tf_dc_norm_sum), y=tf_dc_norm_sum)) +
+    geom_bar(stat="identity", position="dodge", ) +
+    theme_minimal() +
+    labs(title="Difference from Current and Historical Important Bigrams",
+       y="Norm Sum Difference",
+       x="Bigrams") +
+    coord_flip()
+```
+
+
+
+
+
+
+```{r}
+summary(comparedf(historical_important_bigrams, important_bigrams, by='bigram'))
+```
+
+
+## Comparing Important Trigrams and Historical Important Trigrams
+
+
+
+```{r}
+# Subtract
+important_trigrams$diff_in_norm_sum <- important_trigrams$tf_dc_norm_sum-historical_important_trigrams$tf_dc_norm_sum
+
+
+plot_trigrams <- important_trigrams %>%
+    arrange(desc(diff_in_norm_sum)) %>%
+    top_n(10)
+```
+
+
+
+```{r}
+ggplot(plot_trigrams, aes(x=reorder(`trigram`, -tf_dc_norm_sum), y=tf_dc_norm_sum)) +
+    geom_bar(stat="identity", position="dodge") +
+    theme_minimal() +
+    labs(title="Difference from Current and Historical Important Trigrams",
+       y="Norm Sum Difference",
+       x="Trigrams") +
+    coord_flip()
+```
+
+
+```{r}
+ggplot(plot_trigrams, aes(x=reorder(`trigram`, -tf_dc_norm_sum), y=tf_dc_norm_sum)) +
+    geom_bar(stat="identity", position="dodge") +
+    theme_minimal() +
+    labs(title="Difference from Current and Historical Important Trigrams",
+       y="Norm Sum Difference",
+       x="Trigrams")
+```
+
+
+
+
+
+
+
+
+```{r}
+summary(comparedf(historical_important_trigrams, important_trigrams,by='trigram'))
+```
+
+
+

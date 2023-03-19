@@ -26,6 +26,7 @@ library(RColorBrewer)
 library(DT)
 library(wordcloud)
 library(MCDA)
+library(ggwordcloud)
 
 ```
 
@@ -437,9 +438,6 @@ tidy_text_words_analysis <- tidy_text_words_analysis[c("word", "term_freq",
 
 datatable(head(tidy_text_words_analysis, options = list(pageLength = 25), n = 250))
 
-tidy_text_words_analysis %>%
-    with(wordcloud(word, doc_count, max.words = 50))
-
 tidy_text_df_bigrams <- text_df_clean %>%
     unnest_tokens(bigram, Text, token = "ngrams", n = 2)
 
@@ -474,9 +472,6 @@ tidy_text_bigrams_analysis <- tidy_text_bigrams_analysis[c("bigram",
 
 datatable(head(tidy_text_bigrams_analysis, options = list(pageLength = 25), n = 250))
 
-tidy_text_bigrams_analysis %>%
-    with(wordcloud(bigram, doc_count, max.words = 50))
-
 tidy_text_df_trigrams <- text_df_clean %>%
     unnest_tokens(trigram, Text, token = "ngrams", n = 3)
 
@@ -510,9 +505,6 @@ tidy_text_trigrams_analysis <- tidy_text_trigrams_analysis[c("trigram",
                                                            "tf_dc_norm_sum")]
 
 datatable(head(tidy_text_trigrams_analysis, options = list(pageLength = 25), n = 250))
-
-tidy_text_trigrams_analysis %>%
-    with(wordcloud(trigram, doc_count, max.words = 50))
 
 ```
 
@@ -551,6 +543,13 @@ for (i in 1:length(topics)){
         important_single_words[row, 8] <- top
     }
 }
+
+ggplot(important_single_words, aes(label = word, size = tf_dc_norm_sum,
+                                   color = topic)) +
+    geom_text_wordcloud_area(show.legend = TRUE) +
+    scale_size_area(max_size = 16) +
+    scale_fill_binned(type = "viridis") +
+    guides(size = "none")
 
 ```
 
@@ -592,6 +591,14 @@ for (i in 1:length(topics)){
         }
     }
 }
+
+ggplot(important_bigrams, aes(label = bigram, size = tf_dc_norm_sum,
+                                   color = topic)) +
+    geom_text_wordcloud_area(show.legend = TRUE) +
+    scale_size_area(max_size = 14) +
+    scale_fill_binned(type = "viridis") +
+    guides(size = "none")
+
 ```
 
 ## Filtering for important trigrams
@@ -632,6 +639,14 @@ for (i in 1:length(topics)){
         }
     }
 }
+
+ggplot(important_trigrams, aes(label = trigram, size = tf_dc_norm_sum,
+                                   color = topic)) +
+    geom_text_wordcloud_area(show.legend = TRUE) +
+    scale_size_area(max_size = 12) +
+    scale_fill_binned(type = "viridis") +
+    guides(size = "none")
+
 ```
 
 ## Historical Analysis:
@@ -671,9 +686,6 @@ historical_text_words_analysis <- historical_text_words_analysis[
 datatable(head(historical_text_words_analysis,
                options = list(pageLength = 25),n = 250))
 
-historical_text_words_analysis %>%
-    with(wordcloud(word, doc_count, max.words = 50))
-
 historical_text_bigrams <- historical_text_df_clean %>%
     unnest_tokens(bigram, Text, token = "ngrams", n = 2)
 
@@ -706,9 +718,6 @@ historical_text_bigrams_analysis <- historical_text_bigrams_analysis[
 datatable(head(historical_text_bigrams_analysis,
                options = list(pageLength = 25), n = 250))
 
-historical_text_bigrams_analysis %>%
-    with(wordcloud(bigram, doc_count, max.words = 50))
-
 historical_text_trigrams <- historical_text_df_clean %>%
     unnest_tokens(trigram, Text, token = "ngrams", n = 3)
 
@@ -740,8 +749,5 @@ historical_text_trigrams_analysis <- historical_text_trigrams_analysis[
 
 datatable(head(historical_text_trigrams_analysis,
                options = list(pageLength = 25), n = 250))
-
-historical_text_trigrams_analysis %>%
-    with(wordcloud(trigram, doc_count, max.words = 50))
 
 ```

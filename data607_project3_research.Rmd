@@ -405,52 +405,12 @@ We calculated how many times a word, bigram, or trigram occurred across all job 
 
 
 
-```{r}
-text_df_clean <- text_df
-text_df_clean[, 1] <- tolower(text_df_clean[, 1])
-text_df_clean %<>%
-    filter(Text != "")
-```
-
-
-```{r}
-text_df_clean$Text <- str_replace_all(text_df_clean$Text, "[^[:alnum:]]", " ")
-```
-
-```{r}
-text_df_clean$Text <- iconv(text_df_clean$Text, from='', to="ASCII//TRANSLIT")
-```
-
-
-
-```{r}
-#text_df_clean$Text <- strsplit(gsub("[^[:alnum:] ]", "", text_df_clean), " +")[[1]]
-```
-
-
-
-```{r}
-#text_df_clean$Text <- str_split(str_squish((str_replace_all(text_df_clean$Text, regex("\\W+"), " "))), " ")
-```
-
-
-
-
-```{r}
-#text_df
-#text_df2 <- iconv(text_df$Text, from = 'UTF-8', to = 'ASCII//TRANSLIT') #removes 
-#text_df1 <- str_replace_all(text_df$Text, "[[:punct:]]", " ")
-#str_replace_all(text_df$Text, "[^[:alnum:]]"," ") #removes non-alphanumeric
-```
-
-
 
 ```{r tidytext_analysis}
 text_df_clean <- text_df
 text_df_clean[, 1] <- tolower(text_df_clean[, 1])
 text_df_clean %<>%
     filter(Text != "")
-text_df_clean$Text <- str_replace_all(text_df_clean$Text, "[^[:alnum:]]", " ")
 
 tidy_text_df_words <- text_df_clean %>%
     unnest_tokens(word, Text)
@@ -823,7 +783,7 @@ for (i in 1:length(topics)){
         top <- names(topics)[i]
         wd <- topics[[i]][j]
         row <- match(wd, historical_important_single_words$word)
-        important_single_words[row, 8] <- top
+        historical_important_single_words[row, 8] <- top
     }
 }
 
@@ -856,25 +816,72 @@ historical_important_trigrams$topic <- replicate(nrow(historical_important_trigr
 ```
 
 
-```{r}
-important_single_words
-```
 
-```{r}
-historical_important_single_words
-```
 
 
 ## Comparing Important Single Words and Historical Important Single Words
 
 
+```{r}
+important_single_words$diff_in_norm_sum <- important_single_words$tf_dc_norm_sum-historical_important_single_words$tf_dc_norm_sum
+important_single_words
+
+plot_single_words <- important_single_words %>%
+    arrange(desc(diff_in_norm_sum)) %>%
+    top_n(10)
+```
+
+
 
 ```{r}
-summary(comparedf(historical_important_single_words, important_single_words, by="word"))
+ggplot(plot_single_words, aes(x=reorder(`word`, -tf_dc_norm_sum), y=tf_dc_norm_sum)) +
+    geom_bar(stat="identity", position="dodge", width=0.7) +
+    theme_minimal() +
+    labs(title="Difference from Current and Historical Important Single Words",
+       y="Norm Sum Difference",
+       x="Single Words") +
+    coord_flip()
+```
+
+
+
+
+
+
+
+
+```{r}
+summary(comparedf(historical_important_single_words, important_single_words, by="doc_count"))
 ```
 
 
 ## Comparing Important Bigrams and Historical Important Bigrams
+
+
+
+```{r}
+important_bigrams$diff_in_norm_sum <- important_bigrams$tf_dc_norm_sum-historical_important_bigrams$tf_dc_norm_sum
+
+plot_bigrams <- important_bigrams %>%
+    arrange(desc(diff_in_norm_sum)) %>%
+    top_n(10)
+```
+
+
+
+
+```{r}
+ggplot(plot_bigrams, aes(x=reorder(`bigram`, -tf_dc_norm_sum), y=tf_dc_norm_sum)) +
+    geom_bar(stat="identity", position="dodge", ) +
+    theme_minimal() +
+    labs(title="Difference from Current and Historical Important Bigrams",
+       y="Norm Sum Difference",
+       x="Bigrams") +
+    coord_flip()
+```
+
+
+
 
 
 
@@ -887,8 +894,48 @@ summary(comparedf(historical_important_bigrams, important_bigrams, by='bigram'))
 
 
 
+```{r}
+# Subtract
+important_trigrams$diff_in_norm_sum <- important_trigrams$tf_dc_norm_sum-historical_important_trigrams$tf_dc_norm_sum
+
+
+plot_trigrams <- important_trigrams %>%
+    arrange(desc(diff_in_norm_sum)) %>%
+    top_n(10)
+```
+
+
+
+```{r}
+ggplot(plot_trigrams, aes(x=reorder(`trigram`, -tf_dc_norm_sum), y=tf_dc_norm_sum)) +
+    geom_bar(stat="identity", position="dodge") +
+    theme_minimal() +
+    labs(title="Difference from Current and Historical Important Trigrams",
+       y="Norm Sum Difference",
+       x="Trigrams") +
+    coord_flip()
+```
+
+
+```{r}
+ggplot(plot_trigrams, aes(x=reorder(`trigram`, -tf_dc_norm_sum), y=tf_dc_norm_sum)) +
+    geom_bar(stat="identity", position="dodge") +
+    theme_minimal() +
+    labs(title="Difference from Current and Historical Important Trigrams",
+       y="Norm Sum Difference",
+       x="Trigrams")
+```
+
+
+
+
+
+
+
 
 ```{r}
 summary(comparedf(historical_important_trigrams, important_trigrams,by='trigram'))
 ```
+
+
 

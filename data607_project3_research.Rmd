@@ -843,7 +843,9 @@ for (i in 1:length(topics)){
         top <- names(topics)[i]
         wd <- topics[[i]][j]
         row <- match(wd, historical_important_single_words$word)
-        historical_important_single_words[row, 8] <- top
+        if (!is.na(row)){
+            historical_important_single_words[row, 8] <- top
+        }
     }
 }
 
@@ -857,7 +859,7 @@ for (i in 1:length(topics)){
         top <- names(topics)[i]
         wd <- topics[[i]][j]
         row <- match(wd, historical_important_bigrams$bigram)
-        if (!is.na(row)) {
+        if (!is.na(row)){
             historical_important_bigrams[row, 8] <- top
         }
     }
@@ -873,7 +875,7 @@ for (i in 1:length(topics)){
         top <- names(topics)[i]
         wd <- topics[[i]][j]
         row <- match(wd, historical_important_trigrams$trigram)
-        if (!is.na(row)) {
+        if (!is.na(row)){
             historical_important_trigrams[row, 8] <- top
         }
     }
@@ -881,21 +883,72 @@ for (i in 1:length(topics)){
 
 ```
 
-Then we were ready to look at how these data science skill terms had changed in importance since 2019. First, we calculated the difference between their current **tf_dc_norm_sum** values and their historical values. 
+Then we were ready to look at how these data science skill terms had changed in importance since 2019. First, we calculated the difference between their current **tf_dc_norm_sum** values and their historical values. Then we plotted the 15 terms that had the largest increases in importance, as well as the 15 terms that had the largest decreases in importance. 
 
 ```{r historical_analysis3}
 a <- important_single_words$tf_dc_norm_sum
 b <- historical_important_single_words$tf_dc_norm_sum
 important_single_words$diff_in_norm_sum <- a - b
+names(important_single_words)[names(important_single_words) == "word"] <- "term"
 
 a <- important_bigrams$tf_dc_norm_sum
 b <- historical_important_bigrams$tf_dc_norm_sum
 important_bigrams$diff_in_norm_sum <- a - b
+names(important_bigrams)[names(important_bigrams) == "bigram"] <- "term"
 
 a <- important_trigrams$tf_dc_norm_sum
 b <- historical_important_trigrams$tf_dc_norm_sum
 important_trigrams$diff_in_norm_sum <- a - b
+names(important_trigrams)[names(important_trigrams) == "trigram"] <- "term"
 
+important_terms <- rbind(important_single_words, important_bigrams,
+                         important_trigrams)
+important_terms %<>%
+    arrange(desc(diff_in_norm_sum))
 
+important_terms_bottom15 <- important_terms %>%
+    top_n(-15)
+
+important_terms_top15 <- important_terms %>%
+    top_n(15)
+
+important_terms_big <- rbind(important_terms_bottom15,
+                             important_terms_top15)
+
+ggplot(important_terms_bottom15, aes(x = reorder(term, diff_in_norm_sum),
+                            y = diff_in_norm_sum, fill = topic)) + 
+    geom_bar(stat="identity", show.legend = TRUE) +
+    scale_fill_viridis_d() + 
+    labs(title="Top 15 Decreases in Term Importance",
+       y="Difference", x="Terms") +
+    coord_flip()
+
+ggplot(important_terms_top15, aes(x = reorder(term, -diff_in_norm_sum),
+                            y = diff_in_norm_sum, fill = topic)) + 
+    geom_bar(stat="identity", show.legend = TRUE) +
+    scale_fill_viridis_d() + 
+    labs(title="Top 15 Increases in Term Importance",
+       y="Difference", x="Terms") +
+    coord_flip()
+
+color <- ifelse(important_terms_big$diff_in_norm_sum < 0, "pink", "lightgreen")
+
+ggplot(important_terms_big, aes(x = reorder(term, diff_in_norm_sum),
+                            y = diff_in_norm_sum)) +
+    geom_bar(stat = "identity", show.legend = FALSE,
+             fill = color, color = "white") +
+    geom_hline(yintercept = 0, color = 1, lwd = 0.2) +
+    geom_text(aes(label = important_terms_big$term,
+                  hjust = ifelse(diff_in_norm_sum <0, 1.15, -.15),
+                  vjust = 0.25),
+              size = 2.25) +
+    labs(x = "Word", y = "Difference", title = "Biggest Changes for Terms") +
+    scale_y_continuous(breaks = seq(-.5, .5, by = .25), limits =
+        c(min(important_terms_big$diff_in_norm_sum) - 0.1,
+          max(important_terms_big$diff_in_norm_sum) + 0.1)) +
+    coord_flip() + 
+    theme(axis.text.y = element_blank(),  
+          axis.ticks.y = element_blank(), 
+          panel.grid.major.y = element_blank())
 
 ```

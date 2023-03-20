@@ -29,6 +29,7 @@ library(ggwordcloud)
 library(hrbrthemes)
 library(tidylo)
 library(arsenal)
+library(cowplot)
 
 ```
 
@@ -624,7 +625,7 @@ names(topics) <- c("programming", "presentation", "theoretical", "soft_skills",
 
 We created wordclouds to display the important terms we selected as being related to particular skills. Words with higher **tf_dc_norm_sum** values are displayed as larger in size relative to words with lower values. We used the topic each term fell under as a key to color the terms. Please see the legend accompanying each wordcloud for a mapping of topic to color.
 
-```{r wordclouds}
+```{r wordclouds, fig.align="center"}
 important_single_words <- tidy_text_words_analysis %>%
     filter(word %in% single_words)
 important_single_words$topic <- replicate(nrow(important_single_words), '')
@@ -675,7 +676,7 @@ important_single_words %<>%
 important_bigrams %<>%
     mutate(angle = 45 * sample(c(0, 1), n(), replace = TRUE, prob = c(70, 30)))
 important_trigrams %<>%
-    mutate(angle = 90 * sample(c(0, 1), n(), replace = TRUE, prob = c(70, 30)))
+    mutate(angle = 0)
 
 ggplot(important_single_words, aes(label = word, size = tf_dc_norm_sum,
                                    color = topic, angle = angle)) +
@@ -883,7 +884,7 @@ for (i in 1:length(topics)){
 
 ```
 
-Then we were ready to look at how these data science skill terms had changed in importance since 2019. First, we calculated the difference between their current **tf_dc_norm_sum** values and their historical values. Then we plotted the 15 terms that had the largest increases in importance, as well as the 15 terms that had the largest decreases in importance. 
+Then we were ready to look at how these data science skill terms had changed in importance since 2019. First, we calculated the difference between their current **tf_dc_norm_sum** values and their historical values. Then we plotted the 15 terms that had the largest increases in importance, as well as the 15 terms that had the largest decreases in importance, on two separate bar charts. 
 
 ```{r historical_analysis3}
 a <- important_single_words$tf_dc_norm_sum
@@ -930,6 +931,11 @@ ggplot(important_terms_top15, aes(x = reorder(term, -diff_in_norm_sum),
     labs(title="Top 15 Increases in Term Importance",
        y="Difference", x="Terms") +
     coord_flip()
+```
+
+We have also plotted these increases and decreases in importance on a single divergent plot so that they can easily be visually analyzed all at once. 
+
+```{r historical_analysis4}
 
 color <- ifelse(important_terms_big$diff_in_norm_sum < 0, "pink", "lightgreen")
 
@@ -952,3 +958,9 @@ ggplot(important_terms_big, aes(x = reorder(term, diff_in_norm_sum),
           panel.grid.major.y = element_blank())
 
 ```
+
+## Conclusions:
+
+It's interesting that the phrase "data analysis" has experienced such a decrease in importance. Perhaps the phrase has gone out of usage a little, or hiring managers are looking for more specific/other skills these days. The increase in demand for Python and SQL skills suggests that having knowledge of each language is very highly valued. The increase in demand for data engineering and data warehousing indicates a need to have higher proficiency in data storage and maintenance. 
+
+We also think it's particularly interesting that the "ability to write" has surged in importance. This could mean that companies are expecting more from their data scientists than technical skills these days. Data Science might be developing into a more interdisciplinary field than it previously was; hence, the increase in the relative importance of writing and communication.

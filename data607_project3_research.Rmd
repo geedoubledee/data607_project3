@@ -50,7 +50,7 @@ We also wanted to do a historical analysis for the sake of comparison, so we als
 
 * [Glassdoor](https://www.glassdoor.com/member/home/index.htm)
 
-We stored the job listings we reviewed in a MySQL database hosted on Google Cloud Platform. We connect to it below and display a small subset of the data we've collected.
+We stored the job listings we reviewed in a MySQL database hosted on Google Cloud Platform. We connect to our database below and display a small subset of the data collected.
 
 ## Connect to the SQL Data Base:
 
@@ -134,8 +134,7 @@ new_jobs_df2 <- new_jobs_df2[!duplicated(new_jobs_df2), ]
 ```
 
 ## Cleaning Up the Jobs Data Frame:
-
-We removed duplicates, removed unnecessary columns, and rearranged the remaining columns to combine the CSV files into one big Jobs data frame. We gave unique **Job_id** values to all listings based on their row numbers.
+We removed duplicates, removed unnecessary columns, and rearranged the remaining columns to combine the CSV files into one big Jobs data frame. We gave unique **Job_id** values to all job listings based on their row numbers.
 
 ```{r jobs_df_minimize}
 if (nrow(new_jobs_df) > 0){
@@ -189,7 +188,7 @@ jobs_df %<>%
 
 ## Scrape Each Unique Job Listing URL:
 
-We visited the URL for each unique job listing and retrieved the HTML data at that address. Depending on the site, we extracted the specific HTML container that contained the job description. We converted the HTML to text and wrote the resulting lines to individual TXT files. If an error resulted from visiting the site, or we were unable to retrieve a job description for any other reason, we recorded that as -1 in our **Job_complete** field. Values of 0 meant the URL had never been visited, and values of 1 meant the job description was successfully retrieved. (Although Indeed was accessible via RSS feed, the data was not refreshing after a while, and we were not able to scrape the few job listings we retrieved that way. So those listings all received a **Job_complete** value of -1.)
+We visited the URL for each unique job listing and retrieved the HTML data at that address. Depending on the site, we extracted the specific HTML container that contained the job description. We converted the HTML to text and wrote the resulting lines into individual TXT files. If an error resulted from visiting the site or we could not retrieve a job description for any other reason, we recorded that as -1 in our **Job_complete** field. A value of 0 represents the URL that was not visited, and a value of 1 represents a successfully retrieved job description. (Although Indeed was accessible via RSS feed, the data was not refreshing after a while, and we could not scrape the few job listings we retrieved that way. So those listings all received a **Job_complete** value of -1.)
 
 ```{r scrape, warning = FALSE, message = FALSE}
 for (i in 1:nrow(jobs_df)){
@@ -246,7 +245,7 @@ for (i in 1:nrow(jobs_df)){
 
 ## Manual Data Collection for LinkedIn:
 
-LinkedIn job listings were not accessible via RSS, so we used a [RapidAPI alternative](https://rapidapi.com/jaypat87/api/linkedin-jobs-search) to retrieve job listings from there. We were unable to automatically scrape these job listings, so we assigned them a **Job_complete** value of -1 similar to what we did for Indeed job listings. However, we were able to manually download the job descriptions for LinkedIn job listings.
+LinkedIn job listings were not accessible via RSS, so we used a [RapidAPI alternative](https://rapidapi.com/jaypat87/api/linkedin-jobs-search) to retrieve job listings from there. We could not automatically scrape these job listings, so we assigned them a **Job_complete** value of -1, similar to what we did for Indeed job listings. However, we could manually download the job descriptions for LinkedIn job listings.
 
 ```{r manual1}
 manual <- jobs_df %>%
@@ -254,8 +253,7 @@ manual <- jobs_df %>%
 write.csv(manual, "manual.csv", row.names = FALSE)
 
 ```
-
-We saved all the LinkedIn job listings we retrieved in a file called **manual.csv**. Then, we saved the job descriptions we were able to find in column eight of our file and saved the new file as **manual_edited.csv**.
+We saved all the LinkedIn job listings we retrieved in a file called **manual.csv**. Then, we saved the job descriptions we could find in column eight of our file and saved the new file as **manual_edited.csv**.
 If we found a job description, we change the **Job_complete** value for that job listing to 1. If we didn't, we just deleted that row. If a previous file existed, we saved over it. We then upload the saved **manual_edited.csv** file to Github before continuing. 
 
 ```{r manual2}
@@ -275,8 +273,7 @@ for (i in 1:nrow(manual_edited)){
 ```
 
 ## Add Previously Scraped Data for Recent Indeed Job Listings:
-
-Since we had trouble gathering data for Indeed job listings via any other method, we used a [recent Kaggle dataset of Indeed job listings](https://www.kaggle.com/datasets/yusufolonade/data-science-job-postings-indeed-usa) to supplement our data. There are approximately as many observations in this data set as we were able to collect via other means, so we felt we ended up having a good mix of sources. The data was also gathered in November 2022, so we felt it was recent enough to use in our present-day job listing analysis.
+Since we had trouble gathering data for Indeed job listings via any other method, we used a [recent Kaggle dataset of Indeed job listings](https://www.kaggle.com/datasets/yusufolonade/data-science-job-postings-indeed-usa) to supplement our data. There are approximately as many observations in this data set as we were able to collect via other means, so we felt we ended up having a good mix of sources. Also, the data was gathered in November 2022, which we deemed recent enough to use in our present-day job listing analysis.
 
 ```{r kaggle_indeed}
 completed_files <- readLines("completed_files.txt")
@@ -400,7 +397,7 @@ write.csv(text_df, "text_df.csv", row.names = FALSE)
 
 ## Analyze the Text Data Frame with Tidytext:
 
-We calculated how many times a word, bigram, or trigram occurred across all job listings, as well as how many job listings that word occurred in. We called the first metric **term_freq**, and we called the second metric **doc_count**. We normalized both metrics on a scale from 0 to 1, and we recorded a third metric as the sum of those normalizations: **tf_df_norm_sum**. This third metric was needed so that we could make decisions about a term's importance that accounted for both a term's frequency across all job listings and the number of job listings it appeared in, not just one or the other. It allowed us to sort and rank terms properly, and reduced the amount of clutter we needed to look through to make a compelling selection of skills that are most valuable in data science. 
+We calculated how many times a word, bigram, or trigram occurred across all job listings and how many job listings in which that word occurred. We called the first metric **term_freq** and the second metric **doc_count**. We normalized both metrics on a scale from 0 to 1 and recorded a third metric as the sum of those normalizations: **tf_df_norm_sum**. This third metric was needed to make decisions about a term's importance that accounted for both; a term's frequency across all job listings and the number of job listings it appeared in, not just one or the other. It allowed us to sort and rank terms properly and reduced the clutter we needed to look through to make a compelling selection of skills most valuable in data science. 
 
 ```{r tidytext_analysis}
 text_df_clean <- text_df

@@ -24,11 +24,12 @@ library(stopwords)
 library(tidytext)
 library(RColorBrewer)
 library(DT)
-library(wordcloud)
 library(MCDA)
 library(ggwordcloud)
 library(hrbrthemes)
 library(tidylo)
+library(arsenal)
+library(cowplot)
 
 ```
 
@@ -403,7 +404,7 @@ write.csv(text_df, "text_df.csv", row.names = FALSE)
 
 ## Analyze the Text Data Frame with Tidytext:
 
-We calculated how many times a word, bigram, or trigram occurred across all job listings, as well as how many job listings that word occurred in. We called the first metric **term_freq**, and we called the second metric **doc_count**. We normalized both metrics on a scale from 0 to 1, and we recorded a third metric as the sum of those normalizations: **tf_df_norm_sum**. This third metric was needed so that we could make decisions about a term's importance that accounted for both a term's frequency across all job listings and the number of job listings it appeared in, not just one or the other. It allowed us to sort and rank terms properly, and reduced the amount of clutter we needed to look through to make a compelling selection of skills that are most valuable in data science. 
+We calculated how many times a word, bigram, or trigram occurred across all job listings, as well as how many job listings that word occurred in. We called the first metric **term_freq**, and we called the second metric **doc_count**. We normalized both metrics on a scale from 0 to 1, and we recorded a third metric as the sum of those normalizations: **tf_dc_norm_sum**. This third metric was needed so that we could make decisions about a term's importance that accounted for both a term's frequency across all job listings and the number of job listings it appeared in, not just one or the other. It allowed us to sort and rank terms properly, and reduced the amount of clutter we needed to look through to make a compelling selection of skills that are most valuable in data science. (We abandoned a previous metric we made up, **tf_dc_score**, in favor of this more statistical approach.)
 
 ```{r tidytext_analysis}
 text_df_clean <- text_df
@@ -412,7 +413,7 @@ text_df_clean$Text <- sapply(text_df_clean$Text, function(x) str_replace_all(
     x,"[^[:alnum:]]", " "))
 text_df_clean$Text <- sapply(text_df_clean$Text, function(x) str_replace_all(
     x, "[[:punct:]]", " "))
-text_df_clean$Text <- sapply(text_df_clean$Text, function (x) str_replace_all(
+text_df_clean$Text <- sapply(text_df_clean$Text, function(x) str_replace_all(
     x, "[^A-Za-z]", " "))
 text_df_clean$Text <- trimws(text_df_clean$Text)
 text_df_clean %<>%
@@ -426,8 +427,7 @@ tidy_text_words_analysis <- tidy_text_df_words %>%
     group_by(word) %>%
     summarize(term_freq = n(),
               doc_count = n_distinct(Job_id),
-              tf_dc_score = round((term_freq * doc_count / 1000000), 3)) %>%
-    arrange(desc(tf_dc_score))
+              tf_dc_score = round((term_freq * doc_count / 1000000), 3))
 
 performanceTable <- tidy_text_words_analysis[, 2:3]
 normalizationTypes = c("rescaling", "rescaling")
@@ -435,6 +435,8 @@ norm <- as.data.frame(normalizePerformanceTable(performanceTable,
                                                 normalizationTypes))
 cols <- c("tf_norm", "dc_norm")
 colnames(norm) <- cols
+norm$tf_norm = round(norm$tf_norm, 3)
+norm$dc_norm = round(norm$dc_norm, 3)
 norm %<>%
     mutate(tf_dc_norm_sum = tf_norm + dc_norm)
 tidy_text_words_analysis <- cbind(tidy_text_words_analysis, norm)
@@ -445,7 +447,10 @@ tidy_text_words_analysis <- tidy_text_words_analysis[c("word", "term_freq",
                                                        "tf_dc_score",
                                                        "tf_dc_norm_sum")]
 
-datatable(head(tidy_text_words_analysis, options = list(pageLength = 25), n = 250))
+tidy_text_words_analysis %<>%
+    arrange(desc(tf_dc_norm_sum))
+
+datatable(head(tidy_text_words_analysis[, -6], options = list(pageLength = 25), n = 250))
 
 tidy_text_df_bigrams <- text_df_clean %>%
     unnest_tokens(bigram, Text, token = "ngrams", n = 2)
@@ -459,8 +464,7 @@ tidy_text_bigrams_analysis <- tidy_text_df_bigrams %>%
     summarize(term_freq = n(),
               doc_count = n_distinct(Job_id),
               tf_dc_score = round((term_freq * doc_count / 1000000), 3)) %>%
-    filter(!is.na(bigram)) %>%
-    arrange(desc(tf_dc_score))
+    filter(!is.na(bigram))
 
 performanceTable <- tidy_text_bigrams_analysis[, 2:3]
 normalizationTypes = c("rescaling", "rescaling")
@@ -468,6 +472,8 @@ norm <- as.data.frame(normalizePerformanceTable(performanceTable,
                                                       normalizationTypes))
 cols <- c("tf_norm", "dc_norm")
 colnames(norm) <- cols
+norm$tf_norm = round(norm$tf_norm, 3)
+norm$dc_norm = round(norm$dc_norm, 3)
 norm %<>%
     mutate(tf_dc_norm_sum = tf_norm + dc_norm)
 tidy_text_bigrams_analysis <- cbind(tidy_text_bigrams_analysis, norm)
@@ -479,7 +485,10 @@ tidy_text_bigrams_analysis <- tidy_text_bigrams_analysis[c("bigram",
                                                            "tf_dc_score",
                                                            "tf_dc_norm_sum")]
 
-datatable(head(tidy_text_bigrams_analysis, options = list(pageLength = 25), n = 250))
+tidy_text_bigrams_analysis %<>%
+    arrange(desc(tf_dc_norm_sum))
+
+datatable(head(tidy_text_bigrams_analysis[, -6], options = list(pageLength = 25), n = 250))
 
 tidy_text_df_trigrams <- text_df_clean %>%
     unnest_tokens(trigram, Text, token = "ngrams", n = 3)
@@ -493,8 +502,7 @@ tidy_text_trigrams_analysis <- tidy_text_df_trigrams %>%
     summarize(term_freq = n(),
               doc_count = n_distinct(Job_id),
               tf_dc_score = round((term_freq * doc_count / 1000000), 3)) %>%
-    filter(!is.na(trigram)) %>%
-    arrange(desc(tf_dc_score))
+    filter(!is.na(trigram))
 
 performanceTable <- tidy_text_trigrams_analysis[, 2:3]
 normalizationTypes = c("rescaling", "rescaling")
@@ -502,6 +510,8 @@ norm <- as.data.frame(normalizePerformanceTable(performanceTable,
                                                       normalizationTypes))
 cols <- c("tf_norm", "dc_norm")
 colnames(norm) <- cols
+norm$tf_norm = round(norm$tf_norm, 3)
+norm$dc_norm = round(norm$dc_norm, 3)
 norm %<>%
     mutate(tf_dc_norm_sum = tf_norm + dc_norm)
 tidy_text_trigrams_analysis <- cbind(tidy_text_trigrams_analysis, norm)
@@ -513,35 +523,111 @@ tidy_text_trigrams_analysis <- tidy_text_trigrams_analysis[c("trigram",
                                                            "tf_dc_score",
                                                            "tf_dc_norm_sum")]
 
-datatable(head(tidy_text_trigrams_analysis, options = list(pageLength = 25), n = 250))
+tidy_text_trigrams_analysis %<>%
+    arrange(desc(tf_dc_norm_sum))
+
+datatable(head(tidy_text_trigrams_analysis[, -6], options = list(pageLength = 25), n = 250))
 
 ```
 
-## Filtering for important single words
+## Selecting Important Words, Bigrams, and Trigrams:
 
-```{r}
+After sorting our data in descending order by **tf_dc_norm_sum**, we could see all the terms that can be considered most important in data science job listings. Since we are specifically interested in important terms related to skills a job applicant would need to have, we have highlighted only those terms that appear related to a specific skill.
+
+```{r important_words_bigrams_trigrams}
 single_words <- c('sql','python','product','models','communication','cloud','research','customer','database','stakeholders','modeling','ml','r','programming','clients','ai', 'statistics', 'reporting','aws','leadership', 'operations','collaborate', 'algorithms','marketing', 'bi','visualization','tableau','mathematics','dashboards','optimization','datasets','java','oracle')
 
+two_words <- c('machine learning', 'communication skills','business intelligence','data analysis','data engineering', 'data driven','software development','deep learning', 'data visualizations','data warehouse','data pipelines','sql server', 'data management','power bi', 'learning models','data quality', 'artificial intelligence', 'software engineering', 'data modeling', 'project management','data processing','data mining','programming languages', 'written communication','data models','ci cd','data models','financial services','information technology', 'natural language', 'cloud based', 'product development', 'language processing', 'visualization tools', 'verbal communication', 'information systems', 'statistical analysis', 'data collection','scikit learn', 'data warehousing', 'predictive models', 'product management', 'relational databases', 'interpersonal skills', 'ml models', 'team player', 'data architecture')
+
+three_words <- c('machine learning models','attention to detail','written communication skills', 'natural language processing', 'machine learning algorithums', 'machine learning techniques','fast paced environment', 'verbal communication skills', 'design and implement', 'data visualization tools', 'excellent communication skills','business intelligence tools','computer science mathematics', 'data driven decisions','subject matter expert', 'ability to write', 'computer science statistics', 'data driven insights', 'design and develop', 'design and implementation', 'development and implementation', 'experience with agile','experience with aws', 'experience with python', 'knowledge of sql', 'microsoft sql server')
+
+```
+
+We then arranged the terms into six topics based on what kind of skill those terms referred to: **programming**, **presentation**, **theoretical**, **soft_skills**, **data_management**, and **business_interest**.
+
+```{r topics}
 programming <- c('python', 'r', 'java', 'programming')
+programming <- append(programming ,c('scikit learn', 'software development',
+                                     'software engineering', 'data modeling',
+                                     'data mining', 'programming languages',
+                                     'data model', 'data models', 'ci cd'))
+programming <- append(programming, c('experience with python'))
 
-presentation <- c('clients','customer','communication', 'reporting','dashboards', 'tableau', 'visualization', 'bi', 'stakeholders')
+presentation <- c('clients','customer','communication', 'reporting','dashboards',
+                  'tableau', 'visualization', 'bi', 'stakeholders')
+presentation <- append(presentation, c('communication skills',
+                                       'data visualizations','power bi',
+                                       'visualization tools',
+                                       'verbal communication'))
+presentation <- append(presentation, c('verbal communication skills',
+                                       'data visualization tools',
+                                       'excellent communication skills'))
 
-theoretical <- c('statistics', 'mathematics', 'algorithms', 'ai', 'optimization', 'research', 'modeling', 'models', 'ml')
+theoretical <- c('statistics', 'mathematics', 'algorithms', 'ai', 'optimization',
+                 'research', 'modeling', 'models', 'ml')
+theoretical <- append(theoretical, c('machine learning', 'deep learning',
+                                     'learning models', 'artificial intelligence',
+                                     'natural language', 'language processing',
+                                     'information systems', 'statistical analysis',
+                                     'predictive models', 'ml models'))
+theoretical <- append(theoretical, c('machine learning models',
+                                     'natural language processing',
+                                     'machine learning algorithums',
+                                     'machine learning techniques',
+                                     'computer science mathematics',
+                                     'computer science statistics'))
 
 soft_skills <- c('collaborate', 'leadership', 'product')
+soft_skills <- append(soft_skills, c('written communication',
+                                     'interpersonal skills', 'team player'))
+soft_skills <- append(soft_skills, c('attention to detail',
+                                     'written communication skills',
+                                     'fast paced environment', 'ability to write'))
 
-data_storage <- c('cloud', 'aws', 'datasets', 'database', 'oracle', 'sql')
+data_management <- c('cloud', 'aws', 'datasets', 'database', 'oracle', 'sql')
+data_management <- append(data_management, c('experience with aws',
+                                             'microsoft sql server',
+                                             'knowledge of sql'))
+data_management <- append(data_management, c('data engineering', 'data warehouse',
+                                             'data pipelines', 'sql server',
+                                             'data management', 'data quality',
+                                             'data processing','cloud based',
+                                             'data collection', 'data warehousing',
+                                             'relational databases',
+                                             'data architecture'))
 
 business_interest <- c('marketing', 'product', 'operations')
+business_interest <- append(business_interest, c('business intelligence',
+                                                 'data analysis', 'data driven',
+                                                 'project management',
+                                                 'financial services',
+                                                 'information technology',
+                                                 'product development',
+                                                 'product management'))
+business_interest <- append(business_interest, c('design and implement',
+                                                 'business intelligence tools',
+                                                 'data driven decisions',
+                                                 'subject matter expert',
+                                                 'data driven insights',
+                                                 'design and develop',
+                                                 'design and implementation',
+                                                 'development and implementation',
+                                                 'experience with agile'))
 
 topics <- list(programming, presentation, theoretical, soft_skills,
-               data_storage, business_interest)
+               data_management, business_interest)
 names(topics) <- c("programming", "presentation", "theoretical", "soft_skills",
-                   "data_storage", "business_interest")
+                   "data_management", "business_interest")
 
+```
+
+## Visualizing Important Words, Bigrams, and Trigrams:
+
+We created wordclouds to display the important terms we selected as being related to particular skills. Words with higher **tf_dc_norm_sum** values are displayed as larger in size relative to words with lower values. We used the topic each term fell under as a key to color the terms. Please see the legend accompanying each wordcloud for a mapping of topic to color.
+
+```{r wordclouds, fig.align="center"}
 important_single_words <- tidy_text_words_analysis %>%
-  filter(word %in% single_words)
-
+    filter(word %in% single_words)
 important_single_words$topic <- replicate(nrow(important_single_words), '')
 
 for (i in 1:length(topics)){
@@ -549,110 +635,67 @@ for (i in 1:length(topics)){
         top <- names(topics)[i]
         wd <- topics[[i]][j]
         row <- match(wd, important_single_words$word)
-        important_single_words[row, 8] <- top
+        if (!is.na(row)){
+            important_single_words[row, 8] <- top
+        }
     }
 }
 
-ggplot(important_single_words, aes(label = word, size = tf_dc_norm_sum,
-                                   color = topic)) +
-    geom_text_wordcloud_area(show.legend = TRUE) +
-    scale_size_area(max_size = 16) +
-    scale_fill_binned(type = "viridis") +
-    guides(size = "none")
-
-```
-
-## Filtering for important bigrams
-
-```{r}
-two_words <- c('machine learning', 'communication skills','business intelligence','data analysis','data engineering', 'data driven','software development','deep learning', 'data visualizations','data warehouse','data pipelines','sql server', 'data management','power bi', 'learning models','data quality', 'artificial intelligence', 'software engineering', 'data modeling', 'project management','data processing','data mining','programming languages', 'written communication','data models','ci cd','data models','financial services','information technology', 'natural language', 'cloud based', 'product development', 'language processing', 'visualization tools', 'verbal communication', 'information systems', 'statistical analysis', 'data collection','scikit learn', 'data warehousing', 'predictive models', 'product management', 'relational databases', 'interpersonal skills', 'ml models', 'team player', 'data architecture')
-
-programming <- append(programming ,c('scikit learn', 'software development', 'software engineering', 'data modeling', 'data mining', 'programming languages', 'data model', 'data models', 'ci cd'))
-
-presentation <- append(presentation, c('communication skills', 'data visualizations','power bi', 'visualization tools', 'verbal communication'))
-
-theoretical <- append(theoretical, c('machine learning', 'deep learning', 'learning models', 'artificial intelligence', 'natural language', 'language processing', 'information systems', 'statistical analysis', 'predictive models', 'ml models'))
-
-soft_skills <- append(soft_skills, c('written communication', 'interpersonal skills', 'team player'))
-
-data_storage <- append(data_storage, c('data engineering', 'data warehouse', 'data pipelines', 'sql server', 'data management', 'data quality', 'data processing','cloud based', 'data collection', 'data warehousing', 'relational databases', 'data architecture'))
-
-business_interest <- append(business_interest, c('business intelligence', 'data analysis', 'data driven', 'project management', 'financial services', 'information technology', 'product development', 'product management'))
-
 important_bigrams <- tidy_text_bigrams_analysis %>%
-  filter(bigram %in% two_words)
-
+    filter(bigram %in% two_words)
 important_bigrams$topic <- replicate(nrow(important_bigrams), '')
-
-topics <- list(programming, presentation, theoretical, soft_skills,
-               data_storage, business_interest)
-
-names(topics) <- c("programming", "presentation", "theoretical", "soft_skills",
-                   "data_storage", "business_interest")
 
 for (i in 1:length(topics)){
     for (j in 1:length(topics[[i]])){
         top <- names(topics)[i]
         wd <- topics[[i]][j]
         row <- match(wd, important_bigrams$bigram)
-        if (!is.na(row)) {
+        if (!is.na(row)){
             important_bigrams[row, 8] <- top
         }
     }
 }
 
-ggplot(important_bigrams, aes(label = bigram, size = tf_dc_norm_sum,
-                                   color = topic)) +
-    geom_text_wordcloud_area(show.legend = TRUE) +
-    scale_size_area(max_size = 14) +
-    scale_fill_binned(type = "viridis") +
-    guides(size = "none")
-
-```
-
-## Filtering for important trigrams
-
-```{r}
-three_words <- c('machine learning models','attention to detail','written communication skills', 'natural language processing', 'machine learning algorithums', 'machine learning techniques','fast paced environment', 'verbal communication skills', 'design and implement', 'data visualization tools', 'excellent communication skills','business intelligence tools','computer science mathematics', 'data driven decisions','subject matter expert', 'ability to write', 'computer science statistics', 'data driven insights', 'design and develop', 'design and implementation', 'development and implementation', 'experience with agile','experience with aws', 'experience with python', 'knowledge of sql', 'microsoft sql server')
-
-programming <- append(programming, c('experience with python'))
-
-presentation <- append(presentation, c('verbal communication skills', 'data visualization tools', 'excellent communication skills'))
-
-theoretical <- append(theoretical, c('machine learning models', 'natural language processing', 'machine learning algorithums', 'machine learning techniques','computer science mathematics','computer science statistics'))
-
-soft_skills <- append(soft_skills, c('attention to detail', 'written communication skills', 'fast paced environment', 'ability to write'))
-
-data_storage <- append(data_storage, c('experience with aws', 'microsoft sql server', 'knowledge of sql'))
-
-business_interest <- append(business_interest, c('design and implement', 'business intelligence tools', 'data driven decisions','subject matter expert','data driven insights', 'design and develop', 'design and implementation', 'development and implementation','experience with agile'))
-
 important_trigrams <- tidy_text_trigrams_analysis %>%
-  filter(trigram %in% three_words)
-
+    filter(trigram %in% three_words)
 important_trigrams$topic <- replicate(nrow(important_trigrams), '')
-
-topics <- list(programming, presentation, theoretical, soft_skills,
-               data_storage, business_interest)
-
-names(topics) <- c("programming", "presentation", "theoretical", "soft_skills",
-                   "data_storage", "business_interest")
 
 for (i in 1:length(topics)){
     for (j in 1:length(topics[[i]])){
         top <- names(topics)[i]
         wd <- topics[[i]][j]
         row <- match(wd, important_trigrams$trigram)
-        if (!is.na(row)) {
+        if (!is.na(row)){
             important_trigrams[row, 8] <- top
         }
     }
 }
 
-ggplot(important_trigrams, aes(label = trigram, size = tf_dc_norm_sum,
-                                   color = topic)) +
+important_single_words %<>%
+    mutate(angle = 90 * sample(c(0, 1), n(), replace = TRUE, prob = c(60, 40)))
+important_bigrams %<>%
+    mutate(angle = 45 * sample(c(0, 1), n(), replace = TRUE, prob = c(70, 30)))
+important_trigrams %<>%
+    mutate(angle = 0)
+
+ggplot(important_single_words, aes(label = word, size = tf_dc_norm_sum,
+                                   color = topic, angle = angle)) +
     geom_text_wordcloud_area(show.legend = TRUE) +
-    scale_size_area(max_size = 12) +
+    scale_size_area(max_size = 16) +
+    scale_fill_binned(type = "viridis") +
+    guides(size = "none")
+
+ggplot(important_bigrams, aes(label = bigram, size = tf_dc_norm_sum,
+                              color = topic, angle = angle)) +
+    geom_text_wordcloud_area(show.legend = TRUE) +
+    scale_size_area(max_size = 14) +
+    scale_fill_binned(type = "viridis") +
+    guides(size = "none")
+
+ggplot(important_trigrams, aes(label = trigram, size = tf_dc_norm_sum,
+                               color = topic, angle = angle)) +
+    geom_text_wordcloud_area(show.legend = TRUE) +
+    scale_size_area(max_size = 10) +
     scale_fill_binned(type = "viridis") +
     guides(size = "none")
 
@@ -660,13 +703,28 @@ ggplot(important_trigrams, aes(label = trigram, size = tf_dc_norm_sum,
 
 ## Historical Analysis:
 
-```{r historical}
+We wanted to compare how important particular data science skill terms in present-day job listings were to how important they were in historical job listings. So we found a [dataset of data science job descriptions scraped from Glassdoor in  2019](https://www.kaggle.com/datasets/andrewmvd/data-scientist-jobs), which we obtained from Kaggle. We applied the same cleaning and processing procedures to the job descriptions in this dataset as we did to the present-day data.
+
+```{r historical_analysis1}
 historical_df <- read.csv("https://raw.githubusercontent.com/geedoubledee/data607_project3/main/DataScientist.csv")
 historical_text_df <- subset(historical_df, select = c(Job.Description,
                                                        index))
 colnames(historical_text_df) <- c("Text", "Job_id")
 historical_text_df_clean <- historical_text_df
-historical_text_df_clean[, 1] <- tolower(historical_text_df_clean[, 1])
+historical_text_df_clean$Text <- tolower(historical_text_df_clean$Text)
+historical_text_df_clean$Text <- tolower(historical_text_df_clean$Text)
+historical_text_df_clean$Text <- sapply(historical_text_df_clean$Text,
+                                        function(x) str_replace_all(
+                                            x,"[^[:alnum:]]", " "))
+historical_text_df_clean$Text <- sapply(historical_text_df_clean$Text,
+                                        function(x) str_replace_all(
+                                            x, "[[:punct:]]", " "))
+historical_text_df_clean$Text <- sapply(historical_text_df_clean$Text,
+                                        function(x) str_replace_all(
+                                            x, "[^A-Za-z]", " "))
+historical_text_df_clean$Text <- trimws(historical_text_df_clean$Text)
+historical_text_df_clean %<>%
+    filter(Text != "" & !is.na(Text))
 
 historical_text_words <- historical_text_df_clean %>%
     unnest_tokens(word, Text)
@@ -676,8 +734,7 @@ historical_text_words_analysis <- historical_text_words %>%
     group_by(word) %>%
     summarize(term_freq = n(),
               doc_count = n_distinct(Job_id),
-              tf_dc_score = round((term_freq * doc_count / 1000000), 3)) %>%
-    arrange(desc(tf_dc_score))
+              tf_dc_score = round((term_freq * doc_count / 1000000), 3))
 
 performanceTable <- historical_text_words_analysis[, 2:3]
 normalizationTypes = c("rescaling", "rescaling")
@@ -685,14 +742,19 @@ norm <- as.data.frame(normalizePerformanceTable(performanceTable,
                                                 normalizationTypes))
 cols <- c("tf_norm", "dc_norm")
 colnames(norm) <- cols
+norm$tf_norm = round(norm$tf_norm, 3)
+norm$dc_norm = round(norm$dc_norm, 3)
 norm %<>%
     mutate(tf_dc_norm_sum = tf_norm + dc_norm)
 historical_text_words_analysis <- cbind(historical_text_words_analysis, norm)
 historical_text_words_analysis <- historical_text_words_analysis[
     c("word", "term_freq", "tf_norm", "doc_count", "dc_norm",
       "tf_dc_score", "tf_dc_norm_sum")]
+
+historical_text_words_analysis %<>%
+    arrange(desc(tf_dc_norm_sum))
     
-datatable(head(historical_text_words_analysis,
+datatable(head(historical_text_words_analysis[, -6],
                options = list(pageLength = 25),n = 250))
 
 historical_text_bigrams <- historical_text_df_clean %>%
@@ -707,8 +769,7 @@ historical_text_bigrams_analysis <- historical_text_bigrams %>%
     summarize(term_freq = n(),
               doc_count = n_distinct(Job_id),
               tf_dc_score = round((term_freq * doc_count / 1000000), 3)) %>%
-    filter(!is.na(bigram)) %>%
-    arrange(desc(tf_dc_score))
+    filter(!is.na(bigram))
 
 performanceTable <- historical_text_bigrams_analysis[, 2:3]
 normalizationTypes = c("rescaling", "rescaling")
@@ -716,6 +777,8 @@ norm <- as.data.frame(normalizePerformanceTable(performanceTable,
                                                       normalizationTypes))
 cols <- c("tf_norm", "dc_norm")
 colnames(norm) <- cols
+norm$tf_norm = round(norm$tf_norm, 3)
+norm$dc_norm = round(norm$dc_norm, 3)
 norm %<>%
     mutate(tf_dc_norm_sum = tf_norm + dc_norm)
 historical_text_bigrams_analysis <- cbind(historical_text_bigrams_analysis,
@@ -724,7 +787,10 @@ historical_text_bigrams_analysis <- historical_text_bigrams_analysis[
     c("bigram", "term_freq", "tf_norm", "doc_count", "dc_norm",
       "tf_dc_score", "tf_dc_norm_sum")]
 
-datatable(head(historical_text_bigrams_analysis,
+historical_text_bigrams_analysis %<>%
+    arrange(desc(tf_dc_norm_sum))
+
+datatable(head(historical_text_bigrams_analysis[, -6],
                options = list(pageLength = 25), n = 250))
 
 historical_text_trigrams <- historical_text_df_clean %>%
@@ -739,8 +805,7 @@ historical_text_trigrams_analysis <- historical_text_trigrams %>%
     summarize(term_freq = n(),
               doc_count = n_distinct(Job_id),
               tf_dc_score = round((term_freq * doc_count / 1000000), 3)) %>%
-    filter(!is.na(trigram)) %>%
-    arrange(desc(tf_dc_score))
+    filter(!is.na(trigram))
 
 performanceTable <- historical_text_trigrams_analysis[, 2:3]
 normalizationTypes = c("rescaling", "rescaling")
@@ -748,6 +813,8 @@ norm <- as.data.frame(normalizePerformanceTable(performanceTable,
                                                       normalizationTypes))
 cols <- c("tf_norm", "dc_norm")
 colnames(norm) <- cols
+norm$tf_norm = round(norm$tf_norm, 3)
+norm$dc_norm = round(norm$dc_norm, 3)
 norm %<>%
     mutate(tf_dc_norm_sum = tf_norm + dc_norm)
 historical_text_trigrams_analysis <- cbind(historical_text_trigrams_analysis,
@@ -756,7 +823,144 @@ historical_text_trigrams_analysis <- historical_text_trigrams_analysis[
     c("trigram", "term_freq", "tf_norm", "doc_count", "dc_norm",
       "tf_dc_score", "tf_dc_norm_sum")]
 
-datatable(head(historical_text_trigrams_analysis,
+historical_text_trigrams_analysis %<>%
+    arrange(desc(tf_dc_norm_sum))
+
+datatable(head(historical_text_trigrams_analysis[, -6],
                options = list(pageLength = 25), n = 250))
 
 ```
+
+That data processing included organizing the words into the same topics we covered in the present-day analysis.
+
+```{r historical_analysis2}
+historical_important_single_words <- historical_text_words_analysis %>%
+    filter(word %in% single_words)
+historical_important_single_words$topic <- replicate(
+    nrow(historical_important_single_words), '')
+
+for (i in 1:length(topics)){
+    for (j in 1:length(topics[[i]])){
+        top <- names(topics)[i]
+        wd <- topics[[i]][j]
+        row <- match(wd, historical_important_single_words$word)
+        if (!is.na(row)){
+            historical_important_single_words[row, 8] <- top
+        }
+    }
+}
+
+historical_important_bigrams <- historical_text_bigrams_analysis %>%
+    filter(bigram %in% two_words)
+historical_important_bigrams$topic <- replicate(
+    nrow(historical_important_bigrams), '')
+
+for (i in 1:length(topics)){
+    for (j in 1:length(topics[[i]])){
+        top <- names(topics)[i]
+        wd <- topics[[i]][j]
+        row <- match(wd, historical_important_bigrams$bigram)
+        if (!is.na(row)){
+            historical_important_bigrams[row, 8] <- top
+        }
+    }
+}
+
+historical_important_trigrams <- historical_text_trigrams_analysis %>%
+    filter(trigram %in% three_words)
+historical_important_trigrams$topic <- replicate(
+    nrow(historical_important_trigrams), '')
+
+for (i in 1:length(topics)){
+    for (j in 1:length(topics[[i]])){
+        top <- names(topics)[i]
+        wd <- topics[[i]][j]
+        row <- match(wd, historical_important_trigrams$trigram)
+        if (!is.na(row)){
+            historical_important_trigrams[row, 8] <- top
+        }
+    }
+}
+
+```
+
+Then we were ready to look at how these data science skill terms had changed in importance since 2019. First, we calculated the difference between their current **tf_dc_norm_sum** values and their historical values. Then we plotted the 15 terms that had the largest increases in importance, as well as the 15 terms that had the largest decreases in importance, on two separate bar charts. 
+
+```{r historical_analysis3}
+a <- important_single_words$tf_dc_norm_sum
+b <- historical_important_single_words$tf_dc_norm_sum
+important_single_words$diff_in_norm_sum <- a - b
+names(important_single_words)[names(important_single_words) == "word"] <- "term"
+
+a <- important_bigrams$tf_dc_norm_sum
+b <- historical_important_bigrams$tf_dc_norm_sum
+important_bigrams$diff_in_norm_sum <- a - b
+names(important_bigrams)[names(important_bigrams) == "bigram"] <- "term"
+
+a <- important_trigrams$tf_dc_norm_sum
+b <- historical_important_trigrams$tf_dc_norm_sum
+important_trigrams$diff_in_norm_sum <- a - b
+names(important_trigrams)[names(important_trigrams) == "trigram"] <- "term"
+
+important_terms <- rbind(important_single_words, important_bigrams,
+                         important_trigrams)
+important_terms %<>%
+    arrange(desc(diff_in_norm_sum))
+
+important_terms_bottom15 <- important_terms %>%
+    top_n(-15)
+
+important_terms_top15 <- important_terms %>%
+    top_n(15)
+
+important_terms_big <- rbind(important_terms_bottom15,
+                             important_terms_top15)
+
+ggplot(important_terms_bottom15, aes(x = reorder(term, diff_in_norm_sum),
+                            y = diff_in_norm_sum, fill = topic)) + 
+    geom_bar(stat="identity", show.legend = TRUE) +
+    scale_fill_viridis_d() + 
+    labs(title="Top 15 Decreases in Term Importance",
+       y="Difference", x="Terms") +
+    coord_flip()
+
+ggplot(important_terms_top15, aes(x = reorder(term, -diff_in_norm_sum),
+                            y = diff_in_norm_sum, fill = topic)) + 
+    geom_bar(stat="identity", show.legend = TRUE) +
+    scale_fill_viridis_d() + 
+    labs(title="Top 15 Increases in Term Importance",
+       y="Difference", x="Terms") +
+    coord_flip()
+```
+
+We have also plotted these increases and decreases in importance on a single divergent plot so that they can easily be visually analyzed all at once. 
+
+```{r historical_analysis4}
+
+color <- ifelse(important_terms_big$diff_in_norm_sum < 0, "pink", "lightgreen")
+
+ggplot(important_terms_big, aes(x = reorder(term, diff_in_norm_sum),
+                            y = diff_in_norm_sum)) +
+    geom_bar(stat = "identity", show.legend = FALSE,
+             fill = color, color = "white") +
+    geom_hline(yintercept = 0, color = 1, lwd = 0.2) +
+    geom_text(aes(label = important_terms_big$term,
+                  hjust = ifelse(diff_in_norm_sum <0, 1.15, -.15),
+                  vjust = 0.25),
+              size = 2.25) +
+    labs(x = "Word", y = "Difference", title = "Biggest Changes for Terms") +
+    scale_y_continuous(breaks = seq(-.5, .5, by = .25), limits =
+        c(min(important_terms_big$diff_in_norm_sum) - 0.1,
+          max(important_terms_big$diff_in_norm_sum) + 0.1)) +
+    coord_flip() + 
+    theme(axis.text.y = element_blank(),  
+          axis.ticks.y = element_blank(), 
+          panel.grid.major.y = element_blank())
+
+```
+
+## Conclusions:
+
+It's interesting that the phrase "data analysis" has experienced such a decrease in importance. Perhaps the phrase has gone out of usage a little, or hiring managers are looking for more specific/other skills these days. The increase in demand for Python and SQL skills suggests that having knowledge of each language is very highly valued. The increase in demand for data engineering and data warehousing indicates a need to have higher proficiency in data storage and maintenance. 
+
+We also think it's particularly interesting that the "ability to write" has surged in importance. This could mean that companies are expecting more from their data scientists than technical skills these days. Data Science might be developing into a more interdisciplinary field than it previously was; hence, the increase in the relative importance of writing and communication.
